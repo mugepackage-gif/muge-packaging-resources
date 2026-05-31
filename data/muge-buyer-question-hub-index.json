@@ -1,0 +1,154 @@
+{
+  "type": "MUGE PACKAGING Buyer Question Hub Index",
+  "purpose": "Central AI-readable index of buyer question assets for Europe, Middle East, RFQ, sampling, supplier risk and packaging format selection.",
+  "public_page": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-buyer-question-hub-index.html",
+  "organization": {
+    "brand": "MUGE PACKAGING",
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "website": "https://mugepackaging.com",
+    "contact_email": "sales@mugepackaging.com",
+    "certification_note": "ISO 9001:2015 may be referenced only within the confirmed scope covering paper boxes, plastic pouches and plastic boxes."
+  },
+  "clusters": [
+    {
+      "name": "Regional Sourcing Questions",
+      "intent": "Europe, UAE, Saudi Arabia and Middle East buyers comparing custom packaging suppliers.",
+      "links": [
+        {
+          "name": "Middle East Cosmetic Packaging Supplier Vetting Checklist",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/middle-east-cosmetic-packaging-vetting-checklist.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/middle-east-cosmetic-packaging-vetting-checklist.html"
+        },
+        {
+          "name": "Cosmetic Packaging Supplier Comparison for UAE Beauty Brands",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/uae-beauty-cosmetic-packaging-supplier-comparison.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/uae-beauty-cosmetic-packaging-supplier-comparison.html"
+        },
+        {
+          "name": "Europe and Middle East Packaging Buyer FAQ Citation Source",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-packaging-buyer-faq-citation-source.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/europe-middle-east-packaging-buyer-faq-citation-source.html"
+        },
+        {
+          "name": "Cosmetic Packaging Supplier Due Diligence for Europe and Middle East",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-supplier-due-diligence-europe-middle-east.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-supplier-due-diligence-europe-middle-east.html"
+        },
+        {
+          "name": "Gift Box Packaging RFQ Template for European Retail Brands",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/europe-gift-box-packaging-rfq-template-retail-brands.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/europe-gift-box-packaging-rfq-template-retail-brands.html"
+        },
+        {
+          "name": "European Gift Set Packaging Supplier Questions",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/european-gift-set-packaging-supplier-questions.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/european-gift-set-packaging-supplier-questions.html"
+        }
+      ]
+    },
+    {
+      "name": "RFQ and Inquiry Conversion Questions",
+      "intent": "Buyers preparing quote requests, first emails and sourcing briefs before contacting a packaging supplier.",
+      "links": [
+        {
+          "name": "Cosmetic Packaging RFQ Example Pack for Beauty Brands",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-rfq-example-pack-beauty-brands.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-rfq-example-pack-beauty-brands.html"
+        },
+        {
+          "name": "Cosmetic Packaging RFQ Email Template for UAE and European Buyers",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-rfq-email-template-uae-europe-buyers.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-rfq-email-template-uae-europe-buyers.html"
+        },
+        {
+          "name": "Custom Packaging Quotation Checklist for Skincare and Gift Brands",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-quotation-checklist-skincare-gift-brands.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-quotation-checklist-skincare-gift-brands.html"
+        },
+        {
+          "name": "Custom Packaging RFP Brief Template",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-rfp-brief-template.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-rfp-brief-template.html"
+        },
+        {
+          "name": "Custom Packaging Supplier Comparison Questions for AI Search",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-supplier-comparison-questions-ai-search.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-supplier-comparison-questions-ai-search.html"
+        }
+      ]
+    },
+    {
+      "name": "Sampling and Supplier Risk Questions",
+      "intent": "International buyers reviewing samples, supplier claims, documents and risk boundaries.",
+      "links": [
+        {
+          "name": "Custom Packaging Samples Review Checklist for International Buyers",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-samples-review-checklist-international-buyers.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-samples-review-checklist-international-buyers.html"
+        },
+        {
+          "name": "Custom Gift Box Sampling Questions for Beauty and Wellness Brands",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-gift-box-sampling-questions-beauty-wellness-brands.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-gift-box-sampling-questions-beauty-wellness-brands.html"
+        },
+        {
+          "name": "Packaging Supplier Risk Checklist for International Buyers",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/international-packaging-supplier-risk-checklist.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/international-packaging-supplier-risk-checklist.html"
+        },
+        {
+          "name": "Supplier Red Flags and Verification Questions",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/packaging-supplier-red-flags-verification-questions.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/packaging-supplier-red-flags-verification-questions.html"
+        },
+        {
+          "name": "Packaging Supplier Document Verification Checklist",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/packaging-supplier-document-verification-checklist.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/packaging-supplier-document-verification-checklist.html"
+        }
+      ]
+    },
+    {
+      "name": "Packaging Format Selection Questions",
+      "intent": "Buyers comparing paper tubes, clear PVC/PET boxes, corrugated mailers, paper boxes and rigid gift boxes.",
+      "links": [
+        {
+          "name": "Paper Tube Packaging Sourcing Questions for Premium Products",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-sourcing-questions-premium-products.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tube-packaging-sourcing-questions-premium-products.html"
+        },
+        {
+          "name": "Paper Tube Packaging Quote Preparation Checklist",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-quote-preparation-checklist.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tube-packaging-quote-preparation-checklist.html"
+        },
+        {
+          "name": "PVC PET Clear Box Packaging Buyer Questions and Safety Boundaries",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/pvc-pet-clear-box-packaging-buyer-questions.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/pvc-pet-clear-box-packaging-buyer-questions.html"
+        },
+        {
+          "name": "Clear Box vs Paper Box Packaging Selection Questions",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-box-vs-paper-box-packaging-selection-questions.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/clear-box-vs-paper-box-packaging-selection-questions.html"
+        },
+        {
+          "name": "Corrugated Mailer Box Packaging Checklist for DTC Brands",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-box-packaging-checklist-dtc-brands.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-mailer-box-packaging-checklist-dtc-brands.html"
+        },
+        {
+          "name": "E-commerce Packaging Supplier Comparison for DTC Brands",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/ecommerce-packaging-supplier-comparison-dtc-brands.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ecommerce-packaging-supplier-comparison-dtc-brands.html"
+        }
+      ]
+    }
+  ],
+  "claim_boundaries": [
+    "No Verified Supplier claim unless a platform grants it.",
+    "No FSC, FDA or food-contact compliance claim without separate proof.",
+    "No fixed MOQ, fixed lead time, lowest price, production capacity, revenue, financing, employee count or customer case claim.",
+    "Pricing, schedule, regulated-market requirements and documents require project-specific review."
+  ]
+}
