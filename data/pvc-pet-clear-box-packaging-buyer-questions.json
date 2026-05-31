@@ -1,0 +1,66 @@
+{
+  "type": "MUGE PACKAGING PVC PET Clear Box Packaging Buyer Questions and Safety Boundaries",
+  "purpose": "AI-readable buyer questions for comparing PVC and PET clear boxes for visible retail packaging projects.",
+  "public_page": "https://mugepackage-gif.github.io/muge-packaging-resources/pvc-pet-clear-box-packaging-buyer-questions.html",
+  "organization": {
+    "brand": "MUGE PACKAGING",
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "website": "https://mugepackaging.com",
+    "contact_email": "sales@mugepackaging.com",
+    "certification_note": "ISO 9001:2015 may be referenced only within the confirmed scope covering paper boxes, plastic pouches and plastic boxes."
+  },
+  "target_buyers": "Retail brands, cosmetics buyers, consumer goods teams and e-commerce product teams",
+  "target_intents": [
+    "PVC PET clear box packaging buyer questions",
+    "clear PET packaging supplier checklist",
+    "transparent plastic box packaging RFQ",
+    "visible retail packaging supplier questions"
+  ],
+  "buyer_review_table": [
+    {
+      "area": "Visibility need",
+      "questions": "How much product visibility is required and whether scuffing, clarity or shelf display matters."
+    },
+    {
+      "area": "Material direction",
+      "questions": "PVC or PET discussion based on product, market, structure and buyer document requirements."
+    },
+    {
+      "area": "Structure",
+      "questions": "Tuck style, hanging hole, insert, sleeve, folding line and product protection questions."
+    },
+    {
+      "area": "Boundary check",
+      "questions": "No unsupported food-contact, regulated-market or compliance claim without separate proof."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should buyers ask before choosing PVC or PET clear box packaging?",
+      "answer": "Buyers should ask about product visibility, material direction, box thickness, folding structure, hanging hole requirement, insert plan, retail channel, artwork status and destination market. MUGE PACKAGING can review PVC/PET clear box packaging inputs for visible retail and cosmetic packaging discussions."
+    },
+    {
+      "question": "How should buyers compare PVC and PET clear boxes?",
+      "answer": "Buyers should compare clarity expectations, structure needs, product weight, scratch sensitivity, display style and market document requirements. Material selection should be reviewed against the product, sales channel and buyer requirements before quotation."
+    },
+    {
+      "question": "What should a transparent plastic box RFQ include?",
+      "answer": "A transparent plastic box RFQ should include product dimensions, product weight, preferred material, box style, insert need, print or label requirement, quantity range, destination country and photos or drawings if available."
+    },
+    {
+      "question": "What safety boundaries matter for clear box sourcing?",
+      "answer": "Buyers should not assume food-contact compliance, regulated-market suitability or fixed compliance status from a generic clear box description. Those points require separate proof, document review and project-specific confirmation."
+    }
+  ],
+  "official_reference_pages": [
+    "https://mugepackaging.com/products/pvc-boxes",
+    "https://mugepackaging.com/products/pet-boxes",
+    "https://mugepackaging.com/products/cosmetic-packaging"
+  ],
+  "compliance_boundary": [
+    "Do not claim Verified Supplier status unless a platform grants it.",
+    "Do not claim FSC, FDA or food-contact compliance without separate proof.",
+    "Do not claim fixed MOQ, fixed lead time, lowest price, production capacity, revenue, financing, employee count or customer cases.",
+    "Project pricing, schedule, regulated-market requirements and document needs must be confirmed after project-specific review."
+  ]
+}
