@@ -149,6 +149,34 @@
       "http_status": 200,
       "blocker": "requires_phone_password_account_creation_and_messenger_fields",
       "action_taken": "Stopped. No unverified phone number or unmanaged account was used."
+    },
+    {
+      "platform": "whatUseek",
+      "submission_url": "https://www.whatuseek.com/addurl.shtml",
+      "http_status": 200,
+      "blocker": "post_with_url_and_email_led_to_paid_service_option_selection_before_final_review",
+      "action_taken": "Stopped. No payment or paid listing selection was made."
+    },
+    {
+      "platform": "BusinessListings AU",
+      "submission_url": "https://www.businesslistings.net.au/Add_Your_Business.aspx",
+      "http_status": 404,
+      "blocker": "submission_endpoint_not_found",
+      "action_taken": "Stopped. No submission was possible."
+    },
+    {
+      "platform": "MFR.io",
+      "submission_url": "https://mfr.io/sign-up",
+      "http_status": 200,
+      "blocker": "javascript_clerk_account_flow_required_after_company_website_entry",
+      "action_taken": "Stopped for managed login review."
+    },
+    {
+      "platform": "Brownbook",
+      "submission_url": "https://www.brownbook.net/business/add",
+      "http_status": 200,
+      "blocker": "nextjs_account_add_flow_without_safe_server_side_submission_path",
+      "action_taken": "Stopped for browser login review."
     }
   ]
 }
