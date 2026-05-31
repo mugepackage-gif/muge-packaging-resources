@@ -69,9 +69,10 @@
     {
       "platform": "B2Bs",
       "submission_url": "https://www.b2bs.com/aiurl/",
-      "http_status": 400,
-      "result": "already_submitted",
-      "evidence": "External response stated: This URL has already been submitted.",
+      "http_status": 200,
+      "result": "submitted_to_ai_review_queue",
+      "evidence": "External response returned {\"status\":\"success\",\"message\":\"Task queued\"}.",
+      "public_search_check": "No public B2Bs listing URL has been verified yet, so this is not counted as a verified backlink.",
       "next_verification": "Recheck whether B2Bs has published or indexed the submitted URL."
     },
     {

@@ -50,6 +50,13 @@
       "status": "submitted_awaiting_approval",
       "public_search_check": "No public listing found for mugepackaging.com during the latest check.",
       "counting_rule": "Pending result only."
+    },
+    {
+      "platform": "B2Bs",
+      "submission_url": "https://www.b2bs.com/aiurl/",
+      "status": "submitted_to_ai_review_queue",
+      "evidence": "External response returned {\"status\":\"success\",\"message\":\"Task queued\"}.",
+      "counting_rule": "Pending result only until a public B2Bs listing page is found."
     }
   ],
   "latest_gsc_target_keyword_status": {
