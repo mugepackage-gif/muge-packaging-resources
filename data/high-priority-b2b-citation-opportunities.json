@@ -1,0 +1,90 @@
+{
+  "entity": {
+    "company_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "brand_name": "MUGE PACKAGING",
+    "website": "https://mugepackaging.com",
+    "email": "sales@mugepackaging.com",
+    "address": "Room 622, Yizhan Business Building, Unit 8, Yizhan Fourth Road, Shapu Community, Songgang Street, Bao'an District, Shenzhen City",
+    "short_description": "MUGE PACKAGING provides custom packaging solutions for brand projects, including custom paper boxes, rigid gift boxes, paper tubes, PVC/PET clear boxes and corrugated packaging."
+  },
+  "opportunities": [
+    {
+      "priority": "P0",
+      "platform": "Europages",
+      "url": "https://www.europages.co.uk/",
+      "submission_entry": "https://supplier.europages.com/en/rfc",
+      "website_link_required": true,
+      "free_path": "Free profile path may be available",
+      "stop_rules": ["payment wall", "verification upsell", "captcha lock", "unsupported claim request"]
+    },
+    {
+      "priority": "P0",
+      "platform": "TradeWheel",
+      "url": "https://www.tradewheel.com/",
+      "submission_entry": "https://www.tradewheel.com/register-free/",
+      "website_link_required": true,
+      "free_path": "Free registration path",
+      "stop_rules": ["paid membership", "phone verification lock", "account-risk prompt"]
+    },
+    {
+      "priority": "P0",
+      "platform": "Global Trade Plaza",
+      "url": "https://www.globaltradeplaza.com/",
+      "submission_entry": "https://www.globaltradeplaza.com/signup",
+      "website_link_required": true,
+      "free_path": "Free registration path",
+      "stop_rules": ["no website field", "paid-only public profile", "account-risk prompt"]
+    },
+    {
+      "priority": "P1",
+      "platform": "Thomasnet",
+      "url": "https://www.thomasnet.com/",
+      "submission_entry": "https://www.thomasnet.com/claim",
+      "website_link_required": true,
+      "free_path": "Claim/listing path may be free",
+      "stop_rules": ["US-only eligibility conflict", "paid placement", "unsupported manufacturing claim request"]
+    },
+    {
+      "priority": "P1",
+      "platform": "Kompass",
+      "url": "https://us.kompass.com/",
+      "submission_entry": "https://us.kompass.com/register/company/",
+      "website_link_required": true,
+      "free_path": "Free registration path may be available",
+      "stop_rules": ["paid upgrade", "verification upsell", "captcha lock", "unsupported claim request"]
+    },
+    {
+      "priority": "P1",
+      "platform": "TradeFord",
+      "url": "https://www.tradeford.com/",
+      "submission_entry": "https://supplier.tradeford.com/",
+      "website_link_required": true,
+      "free_path": "Join Free path",
+      "stop_rules": ["paid membership", "captcha lock", "verification claim prompt"]
+    }
+  ],
+  "forbidden_claims": [
+    "Verified Supplier",
+    "Gold Supplier",
+    "FSC",
+    "FDA",
+    "food-contact compliance",
+    "fixed MOQ",
+    "fixed lead time",
+    "lowest price",
+    "customer cases",
+    "production capacity",
+    "employee count",
+    "revenue",
+    "financing",
+    "investors"
+  ],
+  "verification_required": [
+    "platform name",
+    "completed or blocked status",
+    "public URL or evidence",
+    "official website link present",
+    "paid or verified claim request present",
+    "next action"
+  ]
+}
