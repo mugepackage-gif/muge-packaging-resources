@@ -1,0 +1,37 @@
+{
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "website": "https://mugepackaging.com",
+  "created": "2026-06-01",
+  "purpose": "Public B2B citation and brand mention execution packet for custom packaging sourcing visibility.",
+  "safe_profile_text": "MUGE PACKAGING is a Shenzhen-based source factory specializing in custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging.",
+  "allowed_certification": {
+    "name": "ISO 9001:2015",
+    "scope": "paper boxes, plastic pouches, plastic boxes"
+  },
+  "do_not_claim": [
+    "FSC",
+    "FDA",
+    "food-contact compliance",
+    "Verified Supplier",
+    "fixed MOQ",
+    "fixed lead time",
+    "lowest price",
+    "customer cases",
+    "production capacity",
+    "revenue",
+    "financing"
+  ],
+  "targets": [
+    {"platform": "Kompass", "content_type": "Company profile", "priority": "P0", "free_possible": "unknown", "blocker_risk": "login or paid profile controls", "target_url": "https://mugepackaging.com", "anchor_text": "MUGE PACKAGING custom packaging supplier"},
+    {"platform": "Europages", "content_type": "Supplier profile", "priority": "P0", "free_possible": "unknown", "blocker_risk": "human verification or paid profile controls", "target_url": "https://mugepackaging.com", "anchor_text": "custom packaging supplier for European buyers"},
+    {"platform": "Crunchbase", "content_type": "Organization profile", "priority": "P0", "free_possible": "unknown", "blocker_risk": "login, verification or plan gating", "target_url": "https://mugepackaging.com", "anchor_text": "Shenzhen Muge Design Packaging Product Co., Ltd."},
+    {"platform": "Medium", "content_type": "Canonical summary articles", "priority": "P0", "free_possible": "yes if account access is available", "blocker_risk": "login required", "target_url": "https://mugepackaging.com/blog/wholesale-cosmetic-cream-jar-packaging", "anchor_text": "custom cosmetic packaging guide"},
+    {"platform": "GitHub Gist", "content_type": "Citation-ready buyer question resources", "priority": "P1", "free_possible": "yes", "blocker_risk": "low", "target_url": "https://mugepackaging.com", "anchor_text": "MUGE PACKAGING buyer question resources"},
+    {"platform": "Alibaba", "content_type": "Existing profile website field check", "priority": "P1", "free_possible": "unknown", "blocker_risk": "paid verification or account controls", "target_url": "https://mugepackaging.com", "anchor_text": "MUGE PACKAGING"},
+    {"platform": "Made-in-China", "content_type": "Existing profile website field check", "priority": "P1", "free_possible": "unknown", "blocker_risk": "paid verification or account controls", "target_url": "https://mugepackaging.com", "anchor_text": "MUGE PACKAGING"},
+    {"platform": "Global Sources", "content_type": "Existing profile website field check", "priority": "P1", "free_possible": "unknown", "blocker_risk": "paid verification or account controls", "target_url": "https://mugepackaging.com", "anchor_text": "custom packaging manufacturer"},
+    {"platform": "Public B2B directory pages", "content_type": "Free company listing", "priority": "P2", "free_possible": "case by case", "blocker_risk": "quality control and moderation", "target_url": "https://mugepackaging.com", "anchor_text": "custom packaging boxes supplier"},
+    {"platform": "Manual industry forum answers", "content_type": "Non-spam buyer education answer", "priority": "P2", "free_possible": "yes if account access is available", "blocker_risk": "manual review and anti-spam rules", "target_url": "https://mugepackaging.com", "anchor_text": "custom packaging sourcing reference"}
+  ]
+}
