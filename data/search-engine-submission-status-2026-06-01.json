@@ -56,6 +56,23 @@
       "evidence": "Response stated: Link submitted and awaiting approval.",
       "public_search_check": "A follow-up search for mugepackaging.com returned no records, so this is not counted as a verified backlink yet.",
       "next_verification": "Recheck PromoteBusinessDirectory search and category pages after editorial review."
+    },
+    {
+      "platform": "Packaged Sustainable",
+      "submission_url": "https://www.packagedsustainable.com/supplier-signup",
+      "http_status": 200,
+      "result": "submitted_pending_review",
+      "evidence": "The public supplier signup Webflow endpoint returned {\"msg\":\"ok\",\"code\":200}.",
+      "public_search_check": "Follow-up checks on the supplier directory and likely supplier URL did not find a public MUGE supplier page yet.",
+      "next_verification": "Recheck Packaged Sustainable supplier directory and search pages for MUGE PACKAGING or mugepackaging.com."
+    },
+    {
+      "platform": "B2Bs",
+      "submission_url": "https://www.b2bs.com/aiurl/",
+      "http_status": 400,
+      "result": "already_submitted",
+      "evidence": "External response stated: This URL has already been submitted.",
+      "next_verification": "Recheck whether B2Bs has published or indexed the submitted URL."
     }
   ],
   "blocked": [
@@ -93,6 +110,20 @@
       "http_status": 200,
       "blocker": "requested_address_phone_social_fields_and_ientry_handler",
       "action_taken": "Stopped for data-quality and account-risk review."
+    },
+    {
+      "platform": "Packaging-Labelling",
+      "submission_url": "https://www.packaging-labelling.com/get-listed",
+      "http_status": 200,
+      "blocker": "form_requires_phone_and_postal_code_not_available_in_verified_knowledge_base",
+      "action_taken": "Stopped. No unverified phone or postal code was entered."
+    },
+    {
+      "platform": "Packaging Directory India",
+      "submission_url": "https://packagingdirectory.in/",
+      "http_status": 200,
+      "blocker": "form_requires_mobile_number_not_available_in_verified_knowledge_base",
+      "action_taken": "Stopped. No unverified mobile number was entered."
     }
   ]
 }

@@ -74,6 +74,20 @@
         <td>Submitted, awaiting approval.</td>
         <td>Response stated: Link submitted and awaiting approval. A follow-up search for mugepackaging.com returned no public listing yet, so this is not counted as a verified backlink.</td>
       </tr>
+      <tr>
+        <td>Packaged Sustainable</td>
+        <td><a href="https://www.packagedsustainable.com/supplier-signup">Supplier signup</a></td>
+        <td>200</td>
+        <td>Submitted through the public supplier signup form.</td>
+        <td>Webflow form endpoint returned <code>{"msg":"ok","code":200}</code>. Follow-up checks did not find a public MUGE supplier page yet, so this is counted as pending only.</td>
+      </tr>
+      <tr>
+        <td>B2Bs</td>
+        <td><a href="https://www.b2bs.com/aiurl/">AI URL submission</a></td>
+        <td>400</td>
+        <td>Already submitted before this pass.</td>
+        <td>External response stated: <code>This URL has already been submitted</code>. No duplicate submission was made.</td>
+      </tr>
     </tbody>
   </table>
 
@@ -88,6 +102,8 @@
       <tr><td>B2Bco</td><td><a href="https://www.b2bco.com/add-url/">Add URL</a></td><td>200</td><td>Visible form was only site search/navigation; account/payment language detected, so no company submission was made.</td></tr>
       <tr><td>SoMuch</td><td><a href="https://www.somuch.com/submit-links/">Submit Links</a></td><td>200</td><td>Initial page used hidden category/topic fields and terms flow; no safe category-specific submission was completed in this pass.</td></tr>
       <tr><td>Jayde</td><td><a href="https://www.jayde.com/submit.html">Submit</a></td><td>200</td><td>Submission form requested address, phone, social fields and iEntry handler details; stopped for data-quality and account-risk review.</td></tr>
+      <tr><td>Packaging-Labelling</td><td><a href="https://www.packaging-labelling.com/get-listed">Get Listed</a></td><td>200</td><td>Form requires phone and postal code. MUGE verified knowledge base does not contain a public phone or postal code, so no automatic submission was made.</td></tr>
+      <tr><td>Packaging Directory India</td><td><a href="https://packagingdirectory.in/">Listing request form</a></td><td>200</td><td>Form requires a mobile number. No automatic submission was made without a verified public phone number.</td></tr>
     </tbody>
   </table>
 
