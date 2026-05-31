@@ -52,7 +52,7 @@
       "platform": "Medium",
       "action_url": "https://medium.com/",
       "action": "Publish three canonical summary posts that point to official MUGE pages.",
-      "allowed_result": "Public Medium posts with canonical URLs or visible official source links.",
+      "allowed_result": "Public Medium posts with canonical URLs or visible official source links. Current copy-ready public Gist: https://gist.github.com/mugepackage-gif/67ef2dab5df173d789e28c839b50969a",
       "stop_rule": "Stop at login/captcha if browser executor cannot proceed safely.",
       "evidence_required": "Three Medium URLs and canonical/source confirmation."
     },
@@ -76,6 +76,7 @@
     }
   ],
   "linked_execution_packs": [
+    "https://gist.github.com/mugepackage-gif/67ef2dab5df173d789e28c839b50969a",
     "https://mugepackage-gif.github.io/muge-packaging-resources/third-party-profile-execution-hub.html",
     "https://mugepackage-gif.github.io/muge-packaging-resources/kompass-execution-checklist.html",
     "https://mugepackage-gif.github.io/muge-packaging-resources/europages-execution-checklist.html",
