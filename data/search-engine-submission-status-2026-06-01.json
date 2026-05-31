@@ -38,6 +38,15 @@
       "result": "submitted_pending_email_verification",
       "evidence": "Response stated that a one-time verification message was sent before the submission will be accepted.",
       "next_verification": "Click verification email if received, then recheck submission acceptance."
+    },
+    {
+      "platform": "Zearches",
+      "submission_url": "https://zearches.com/",
+      "public_listing_url": "https://zearches.com/directory.php?slug=business-company",
+      "http_status": 200,
+      "result": "publicly_listed_with_direct_link",
+      "evidence": "The public Business & Company Sites directory page shows MUGE PACKAGING, a custom packaging description and https://mugepackaging.com.",
+      "next_verification": "Recheck listing persistence and whether external crawlers index the directory page."
     }
   ],
   "blocked": [
