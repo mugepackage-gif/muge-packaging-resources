@@ -12,6 +12,7 @@ This repository hosts public sourcing references for **MUGE PACKAGING**, the pub
 - Platform live access check: https://mugepackage-gif.github.io/muge-packaging-resources/platform-live-access-check-2026-06-01.html
 - Medium canonical summary publication package: https://gist.github.com/mugepackage-gif/67ef2dab5df173d789e28c839b50969a
 - B2B citation outreach targets: https://mugepackage-gif.github.io/muge-packaging-resources/b2b-citation-outreach-targets-2026-06-01.html
+- B2B platform live attempts: https://mugepackage-gif.github.io/muge-packaging-resources/b2b-platform-live-attempts-2026-06-01.html
 
 ## Buyer Topics
 
@@ -37,6 +38,7 @@ This repository hosts public sourcing references for **MUGE PACKAGING**, the pub
 - Platform live access check JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/platform-live-access-check-2026-06-01.json
 - Medium canonical summary publishable Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/MUGE-MEDIUM-CANONICAL-SUMMARY-POSTS-PUBLISHABLE.md
 - B2B citation outreach targets JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/b2b-citation-outreach-targets-2026-06-01.json
+- B2B platform live attempts JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/b2b-platform-live-attempts-2026-06-01.json
 
 ## Compliance Note
 

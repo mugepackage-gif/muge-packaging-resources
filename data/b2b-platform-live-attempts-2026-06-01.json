@@ -1,0 +1,53 @@
+{
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "website": "https://mugepackaging.com",
+  "created": "2026-06-01",
+  "purpose": "Live third-party platform attempt log for external growth and B2B citation work.",
+  "attempts": [
+    {
+      "platform": "B2Bs.com",
+      "checked_url": "https://www.b2bs.com/aiurl/",
+      "http_status": 200,
+      "submit_endpoint": "https://www.b2bs.com/ai/process.php",
+      "submit_result_status": 400,
+      "submit_result_message": "This URL has already been submitted",
+      "public_search_status": "not_public_yet",
+      "search_queries_checked": ["mugepackaging.com", "MUGE PACKAGING", "Shenzhen Muge Design Packaging"],
+      "next_action": "Recheck B2Bs search index for public listing."
+    },
+    {
+      "platform": "MyMidlist",
+      "checked_url": "https://mymidlist.com/submit-listing/",
+      "http_status": 200,
+      "submission_state": "form_visible_requires_account_assets_and_security_fields",
+      "required_fields_seen": ["address", "postContent", "featured image", "business logo", "email", "username", "password"],
+      "next_action": "Prepare listing assets and stop before password/captcha without account confirmation."
+    },
+    {
+      "platform": "TradeWheel",
+      "checked_url": "https://www.tradewheel.com/register-free/",
+      "http_status": 200,
+      "submission_state": "registration_form_visible",
+      "required_fields_seen": ["name", "phone_number", "email", "password", "country_id", "messenger_type", "key_products"],
+      "next_action": "Needs account and phone verification handling before submission."
+    },
+    {
+      "platform": "Global Trade Plaza",
+      "checked_url": "https://globaltradeplaza.com/signup",
+      "http_status": 200,
+      "submission_state": "signup_form_visible_with_captcha_risk",
+      "required_fields_seen": ["full_name", "email", "country_id", "phone", "company_name", "password", "confirm_password"],
+      "next_action": "Needs account, phone and captcha handling before submission."
+    },
+    {
+      "platform": "Pinterest Business",
+      "checked_url": "https://business.pinterest.com/",
+      "http_status": 200,
+      "submission_state": "business_entry_visible_login_required",
+      "next_action": "Use only after social account credentials or browser session are available."
+    }
+  ],
+  "safe_profile_text": "MUGE PACKAGING provides custom packaging solutions for brand projects, including custom paper boxes, rigid gift boxes, paper tubes, PVC/PET clear boxes and corrugated packaging.",
+  "forbidden_claims": ["FSC", "FDA", "food-contact compliance", "Verified Supplier", "fixed MOQ", "fixed lead time", "lowest price", "customer cases", "production capacity"]
+}
