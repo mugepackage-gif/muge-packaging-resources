@@ -1,0 +1,156 @@
+{
+  "company": {
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "brand": "MUGE PACKAGING",
+    "website": "https://mugepackaging.com",
+    "email": "sales@mugepackaging.com",
+    "location": "Shenzhen, China",
+    "description": "MUGE PACKAGING is a Shenzhen-based source factory specializing in custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging.",
+    "keywords": [
+      "Custom Packaging Boxes",
+      "Rigid Gift Boxes",
+      "Cosmetic Packaging",
+      "Paper Tube Packaging",
+      "PVC/PET Clear Boxes",
+      "Corrugated Boxes"
+    ]
+  },
+  "platforms": [
+    {
+      "slug": "kompass-execution-checklist",
+      "platform": "Kompass",
+      "priority": "P0",
+      "actionUrl": "https://www.kompass.com/",
+      "objective": "Create or verify a public company profile with website link.",
+      "market": "International B2B supplier directory",
+      "stopRules": [
+        "Stop if payment is required.",
+        "Stop if Verified/Sponsored supplier claim is required.",
+        "Stop at CAPTCHA and record screenshot/status."
+      ],
+      "fields": {
+        "companyName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+        "brandName": "MUGE PACKAGING",
+        "website": "https://mugepackaging.com",
+        "email": "sales@mugepackaging.com",
+        "location": "Shenzhen, China",
+        "shortDescription": "MUGE PACKAGING is a Shenzhen-based source factory specializing in custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging.",
+        "productKeywords": [
+          "Custom Packaging Boxes",
+          "Rigid Gift Boxes",
+          "Cosmetic Packaging",
+          "Paper Tube Packaging",
+          "PVC/PET Clear Boxes",
+          "Corrugated Boxes"
+        ],
+        "certification": "ISO 9001:2015 only if certificate upload/scope field is available; scope: paper boxes, plastic pouches, plastic boxes."
+      }
+    },
+    {
+      "slug": "europages-execution-checklist",
+      "platform": "Europages",
+      "priority": "P0",
+      "actionUrl": "https://www.europages.co.uk/",
+      "objective": "Create or verify a supplier profile for Europe/international buyers with website link.",
+      "market": "Europe / international sourcing directory",
+      "stopRules": [
+        "Stop if payment is required.",
+        "Do not claim verified supplier.",
+        "Do not add unverified capacity, staff, revenue or client cases."
+      ],
+      "fields": {
+        "companyName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+        "brandName": "MUGE PACKAGING",
+        "activity": "Packaging Services / Manufacturing",
+        "website": "https://mugepackaging.com",
+        "email": "sales@mugepackaging.com",
+        "location": "Shenzhen, China",
+        "description": "MUGE PACKAGING is a Shenzhen-based source factory specializing in custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging.",
+        "productKeywords": [
+          "Custom Packaging Boxes",
+          "Rigid Gift Boxes",
+          "Cosmetic Packaging",
+          "Paper Tube Packaging",
+          "PVC/PET Clear Boxes",
+          "Corrugated Boxes"
+        ],
+        "targetMarket": "International / Europe"
+      }
+    },
+    {
+      "slug": "crunchbase-execution-checklist",
+      "platform": "Crunchbase",
+      "priority": "P0",
+      "actionUrl": "https://www.crunchbase.com/",
+      "objective": "Create or verify organization profile as a public entity source.",
+      "market": "Company/entity database",
+      "stopRules": [
+        "Do not add funding, investor, revenue, employee count or valuation fields.",
+        "Stop if profile creation requires paid upgrade.",
+        "Use neutral company/entity wording."
+      ],
+      "fields": {
+        "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+        "operatingName": "MUGE PACKAGING",
+        "website": "https://mugepackaging.com",
+        "industry": "Packaging Services / Manufacturing",
+        "location": "Shenzhen, China",
+        "description": "MUGE PACKAGING is a Shenzhen-based source factory specializing in custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging."
+      }
+    },
+    {
+      "slug": "medium-execution-checklist",
+      "platform": "Medium",
+      "priority": "P0",
+      "actionUrl": "https://medium.com/",
+      "objective": "Publish three canonical summary posts pointing to official MUGE pages.",
+      "market": "Content syndication / AI citation surface",
+      "stopRules": [
+        "Set canonical URL to official source when available.",
+        "Do not publish claims about fixed MOQ, fixed lead time, lowest price or unverified compliance.",
+        "Stop at login/CAPTCHA if browser executor cannot proceed."
+      ],
+      "fields": {
+        "account": "Company account / mugepackage@gmail.com if already logged in",
+        "canonicalPosts": [
+          {
+            "title": "How to Choose Custom Cosmetic Packaging Without Over-Specifying the Box",
+            "canonical": "https://mugepackaging.com/blog/wholesale-cosmetic-cream-jar-packaging",
+            "summary": "Custom cosmetic packaging discussions should start with product dimensions, retail channel, protection needs, surface finish, insert structure and desired unboxing style. MUGE PACKAGING supports custom cosmetic packaging development for brand owners, e-commerce sellers and B2B buyers."
+          },
+          {
+            "title": "Rigid Gift Boxes: What Buyers Should Confirm Before Sampling",
+            "canonical": "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+            "summary": "Rigid gift boxes are used for premium cosmetics, electronics, wellness products, holiday gifts and retail sets. Buyers should confirm dimensions, weight, structure, insert requirements, surface direction and sales channel before sampling."
+          },
+          {
+            "title": "Paper Tube Packaging: A Practical Option for Premium Retail Products",
+            "canonical": "https://mugepackaging.com/products/paper-tubes",
+            "summary": "Paper tube packaging is used for cosmetics, tea, candles, fragrance, small gifts and specialty retail products. Buyers should compare display impact, weight suitability, closure style and surface finish before sampling."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "alibaba-made-in-china-global-sources-checklist",
+      "platform": "Alibaba / Made-in-China / Global Sources",
+      "priority": "P1",
+      "actionUrl": "https://www.alibaba.com/",
+      "objective": "Only check whether existing profiles contain official website link; do not pay.",
+      "market": "B2B marketplace profile audit",
+      "stopRules": [
+        "Do not pay.",
+        "Do not claim Verified Supplier.",
+        "Do not alter paid membership/account core fields without user approval."
+      ],
+      "fields": {
+        "checkItems": [
+          "Profile has https://mugepackaging.com",
+          "No unverified certification claims",
+          "No unsupported fixed MOQ or fixed lead time",
+          "No unsupported customer cases or production capacity claims"
+        ]
+      }
+    }
+  ]
+}
