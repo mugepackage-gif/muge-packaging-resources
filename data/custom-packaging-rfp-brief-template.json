@@ -1,0 +1,54 @@
+{
+  "type": "MUGE PACKAGING custom packaging RFP brief template",
+  "name": "Custom Packaging RFP Brief Template - MUGE PACKAGING",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "website": "https://mugepackaging.com",
+  "contact_email": "sales@mugepackaging.com",
+  "location": "Shenzhen, Guangdong, China",
+  "primary_intents": [
+    "custom packaging RFP template",
+    "custom packaging supplier brief",
+    "custom packaging quote checklist",
+    "cosmetic packaging sourcing brief",
+    "rigid gift box sampling brief",
+    "custom packaging supplier for European buyers",
+    "custom packaging supplier for Middle East buyers"
+  ],
+  "buyer_fields": [
+    "product category",
+    "product dimensions",
+    "packaging format",
+    "target market",
+    "sales channel",
+    "artwork status",
+    "surface finish",
+    "insert requirement",
+    "protection requirement",
+    "estimated order quantity",
+    "sample purpose",
+    "document needs"
+  ],
+  "packaging_formats": [
+    "folding carton",
+    "rigid gift box",
+    "paper tube",
+    "clear PET/PVC box",
+    "corrugated mailer",
+    "stand-up pouch"
+  ],
+  "official_pages": [
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/products/paper-packaging",
+    "https://mugepackaging.com/products/paper-tubes",
+    "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "https://mugepackaging.com/contact"
+  ],
+  "external_reference_assets": [
+    "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-buyer-brief.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-sourcing-checklist.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-supplier-evaluation.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-custom-packaging-buyer-brief.html"
+  ],
+  "compliance_note": "No fixed MOQ, fixed lead time, lowest price, famous customer case, production capacity, food-contact compliance, FSC, FDA or verified marketplace supplier status is claimed."
+}
