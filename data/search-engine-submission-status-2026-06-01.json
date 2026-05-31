@@ -47,6 +47,15 @@
       "result": "publicly_listed_with_direct_link",
       "evidence": "The public Business & Company Sites directory page shows MUGE PACKAGING, a custom packaging description and https://mugepackaging.com.",
       "next_verification": "Recheck listing persistence and whether external crawlers index the directory page."
+    },
+    {
+      "platform": "PromoteBusinessDirectory",
+      "submission_url": "https://www.promotebusinessdirectory.com/submit.php?LINK_TYPE=1&c=146",
+      "http_status": 200,
+      "result": "submitted_awaiting_approval",
+      "evidence": "Response stated: Link submitted and awaiting approval.",
+      "public_search_check": "A follow-up search for mugepackaging.com returned no records, so this is not counted as a verified backlink yet.",
+      "next_verification": "Recheck PromoteBusinessDirectory search and category pages after editorial review."
     }
   ],
   "blocked": [
