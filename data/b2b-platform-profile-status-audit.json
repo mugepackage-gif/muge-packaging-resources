@@ -37,6 +37,11 @@
     "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/third-party-profile-execution-batch-2026-06-01.json",
     "purpose": "P0/P1 third-party profile queue with safe fields, stop rules and evidence requirements."
   },
+  "latest_live_access_check": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/platform-live-access-check-2026-06-01.html",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/platform-live-access-check-2026-06-01.json",
+    "purpose": "Browser-based access status for Kompass, Europages, Crunchbase and Medium execution targets."
+  },
   "safe_public_profile_fields": {
     "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
     "brand_name": "MUGE PACKAGING",
