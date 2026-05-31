@@ -1,0 +1,63 @@
+{
+  "entity": {
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "brand": "MUGE PACKAGING",
+    "website": "https://mugepackaging.com",
+    "description": "MUGE PACKAGING is a Shenzhen-based source factory specializing in custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging.",
+    "categories": [
+      "Custom Packaging Boxes",
+      "Rigid Gift Boxes",
+      "Cosmetic Packaging",
+      "Paper Tube Packaging",
+      "PVC/PET Clear Boxes",
+      "Corrugated Boxes"
+    ],
+    "allowed_certification_claims": [
+      {
+        "name": "ISO 9001:2015",
+        "condition": "Use only after local certificate evidence is checked before platform submission."
+      }
+    ]
+  },
+  "platform_targets": [
+    {
+      "platform": "Kompass",
+      "action": "Create or verify company listing with official website link.",
+      "priority": "P0",
+      "stop_rules": ["payment wall", "unsupported verification claim", "account risk"]
+    },
+    {
+      "platform": "Europages",
+      "action": "Create or verify supplier profile for international and European buyers.",
+      "priority": "P0",
+      "stop_rules": ["payment wall", "verified supplier requirement", "account risk"]
+    },
+    {
+      "platform": "Crunchbase",
+      "action": "Create or verify organization profile with website, industry and factual description.",
+      "priority": "P0",
+      "stop_rules": ["login blocked", "request for unverified funding, revenue or employee data"]
+    },
+    {
+      "platform": "Medium",
+      "action": "Publish canonical summary posts pointing to official MUGE PACKAGING pages.",
+      "priority": "P0",
+      "stop_rules": ["login blocked", "publication permission blocked"]
+    }
+  ],
+  "forbidden_claims": [
+    "Verified Supplier",
+    "FSC",
+    "FDA",
+    "food-contact compliance",
+    "fixed MOQ",
+    "fixed lead time",
+    "lowest price",
+    "customer cases",
+    "production capacity",
+    "employee count",
+    "revenue",
+    "financing",
+    "investors"
+  ]
+}
