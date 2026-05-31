@@ -95,6 +95,13 @@
         <td>Submitted for editorial review with a packaging-fit limitation.</td>
         <td>External API returned <code>{"ok":true}</code>. The pitch explicitly asked PODatlas to include MUGE only if packaging suppliers for ecommerce/POD brands fit its directory. Follow-up checks did not find a public MUGE supplier page yet.</td>
       </tr>
+      <tr>
+        <td>Global Site Directory</td>
+        <td><a href="https://gsdirectory.org/submit/">Submit Your Listing</a></td>
+        <td>200</td>
+        <td>Submission received for review, but not publicly listed.</td>
+        <td>API response returned <code>{"success":true,"message":"Your submission has been received and is under review.","status":"rejected"}</code>. Follow-up checks on search and the Printing Services category did not find MUGE PACKAGING or mugepackaging.com, so this is counted as submitted/pending only.</td>
+      </tr>
     </tbody>
   </table>
 
@@ -118,6 +125,7 @@
       <tr><td>BusinessListings AU</td><td><a href="https://www.businesslistings.net.au/Add_Your_Business.aspx">Add Your Business</a></td><td>404</td><td>Submission endpoint returned 404, so no submission was possible.</td></tr>
       <tr><td>MFR.io</td><td><a href="https://mfr.io/sign-up">Sign Up</a></td><td>200</td><td>Requires JavaScript/Clerk account flow to continue after company website entry. Stopped for managed login review.</td></tr>
       <tr><td>Brownbook</td><td><a href="https://www.brownbook.net/business/add">Add Business</a></td><td>200</td><td>Next.js account/add flow did not expose a safe server-side submission path in this pass. Stopped for browser login review.</td></tr>
+      <tr><td>AllWebList</td><td><a href="https://www.allweblist.org/submit.html">Submit Website</a></td><td>200 page load / REST failed</td><td>Front-end form showed a submission error after the browser submit attempt; direct REST submission to the public Supabase endpoint failed with connection reset. No public listing was found, so this is not counted.</td></tr>
     </tbody>
   </table>
 

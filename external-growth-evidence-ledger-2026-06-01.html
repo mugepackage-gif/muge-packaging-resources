@@ -94,13 +94,19 @@
         <td>Submitted to AI review queue. External response returned <code>{"status":"success","message":"Task queued"}</code>.</td>
         <td>Counts as pending only until a public B2Bs listing page is found.</td>
       </tr>
+      <tr>
+        <td>Global Site Directory</td>
+        <td><a href="https://gsdirectory.org/submit/">Submit Your Listing</a></td>
+        <td>Submission endpoint returned HTTP 200 and confirmed receipt for review, but the response also included <code>"status":"rejected"</code>. Follow-up search and category checks found no public MUGE listing yet.</td>
+        <td>Counts as submitted/pending only. Not counted as a verified backlink until a public listing page appears.</td>
+      </tr>
     </tbody>
   </table>
 
   <h2>Search And GEO Result Status</h2>
   <ul>
     <li>Latest GSC target keyword check: exact visible 0/23, top 20 keywords 0, clicked keywords 0.</li>
-    <li>Latest external entity baseline: 578 verified external entity assets, including 324 verified direct links.</li>
+    <li>Latest external entity baseline: 583 verified external entity assets, including 327 verified direct links.</li>
     <li>Current conclusion: external entity assets are growing, but target commercial keyword visibility has not broken through yet.</li>
   </ul>
 
@@ -117,7 +123,7 @@
   </ul>
 
   <h2>Rejected Or Stopped Paths</h2>
-  <p>The execution stopped on platforms that required payment, captcha bypass, account credentials, US-only local address data, unverified phone/address data, or fields that would create inaccurate company information. Newly stopped paths include SonicRun and SoMuch because of captcha/recaptcha, whatUseek because it led to paid service options, BusinessListings AU because the add-business endpoint returned 404, and MFR.io/Brownbook because they require managed account or browser login flow.</p>
+  <p>The execution stopped on platforms that required payment, captcha bypass, account credentials, US-only local address data, unverified phone/address data, or fields that would create inaccurate company information. Newly stopped paths include SonicRun and SoMuch because of captcha/recaptcha, whatUseek because it led to paid service options, BusinessListings AU because the add-business endpoint returned 404, MFR.io/Brownbook because they require managed account or browser login flow, and AllWebList because the browser submission showed an error while the public Supabase REST endpoint reset the connection.</p>
 </main>
 </body>
 </html>

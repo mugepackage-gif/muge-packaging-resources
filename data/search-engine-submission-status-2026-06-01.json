@@ -84,6 +84,15 @@
       "safety_note": "The pitch explicitly asked PODatlas to include MUGE only if packaging suppliers for ecommerce/POD brands fit its directory, and stated that MUGE is not claiming POD product fulfillment.",
       "public_search_check": "Follow-up checks on likely supplier URLs and search pages did not find MUGE PACKAGING or mugepackaging.com yet.",
       "next_verification": "Recheck PODatlas supplier pages and search pages after editorial review."
+    },
+    {
+      "platform": "Global Site Directory",
+      "submission_url": "https://gsdirectory.org/submit/",
+      "http_status": 200,
+      "result": "submission_received_under_review_but_not_public",
+      "evidence": "API response returned {\"success\":true,\"message\":\"Your submission has been received and is under review.\",\"status\":\"rejected\"}.",
+      "public_search_check": "Follow-up checks on https://gsdirectory.org/search?q=mugepackaging and the Printing Services category did not find MUGE PACKAGING or mugepackaging.com.",
+      "next_verification": "Recheck GSDirectory search and category pages; do not count as a verified backlink until public listing appears."
     }
   ],
   "blocked": [
@@ -177,6 +186,13 @@
       "http_status": 200,
       "blocker": "nextjs_account_add_flow_without_safe_server_side_submission_path",
       "action_taken": "Stopped for browser login review."
+    },
+    {
+      "platform": "AllWebList",
+      "submission_url": "https://www.allweblist.org/submit.html",
+      "http_status": 200,
+      "blocker": "frontend_submission_error_and_public_supabase_rest_connection_reset",
+      "action_taken": "Stopped after one front-end browser submit attempt and one direct REST retry. No captcha bypass, payment or unsafe account action was attempted."
     }
   ]
 }

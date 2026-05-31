@@ -57,6 +57,14 @@
       "status": "submitted_to_ai_review_queue",
       "evidence": "External response returned {\"status\":\"success\",\"message\":\"Task queued\"}.",
       "counting_rule": "Pending result only until a public B2Bs listing page is found."
+    },
+    {
+      "platform": "Global Site Directory",
+      "submission_url": "https://gsdirectory.org/submit/",
+      "status": "submission_received_under_review_but_not_public",
+      "evidence": "API response returned {\"success\":true,\"message\":\"Your submission has been received and is under review.\",\"status\":\"rejected\"}.",
+      "public_search_check": "No public MUGE PACKAGING or mugepackaging.com listing found in GSDirectory search or Printing Services category checks.",
+      "counting_rule": "Pending/submitted only; not counted as a verified backlink until a public listing appears."
     }
   ],
   "latest_gsc_target_keyword_status": {
@@ -67,11 +75,11 @@
     "conclusion": "Target commercial keyword visibility has not broken through yet."
   },
   "latest_external_entity_baseline": {
-    "verified_external_entity_assets": 578,
-    "verified_link": 324,
+    "verified_external_entity_assets": 583,
+    "verified_link": 327,
     "verified_indirect_link": 34,
     "verified_structured_sameas": 2,
-    "verified_mention": 218
+    "verified_mention": 220
   },
   "ai_citation_assets": [
     "https://mugepackage-gif.github.io/muge-packaging-resources/ai-target-question-answer-hub.html",
