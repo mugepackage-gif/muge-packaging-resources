@@ -1,0 +1,46 @@
+{
+  "type": "MUGE PACKAGING third-party profile submission pack index",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "website": "https://mugepackaging.com",
+  "platforms": [
+    {
+      "platform": "Kompass",
+      "page": "https://mugepackage-gif.github.io/muge-packaging-resources/kompass-company-profile-submission-pack.html",
+      "data": "https://mugepackage-gif.github.io/muge-packaging-resources/data/kompass-company-profile-submission-pack.json"
+    },
+    {
+      "platform": "Europages",
+      "page": "https://mugepackage-gif.github.io/muge-packaging-resources/europages-supplier-profile-submission-pack.html",
+      "data": "https://mugepackage-gif.github.io/muge-packaging-resources/data/europages-supplier-profile-submission-pack.json"
+    },
+    {
+      "platform": "Crunchbase",
+      "page": "https://mugepackage-gif.github.io/muge-packaging-resources/crunchbase-organization-profile-submission-pack.html",
+      "data": "https://mugepackage-gif.github.io/muge-packaging-resources/data/crunchbase-organization-profile-submission-pack.json"
+    },
+    {
+      "platform": "Medium",
+      "page": "https://mugepackage-gif.github.io/muge-packaging-resources/medium-canonical-summary-submission-pack.html",
+      "data": "https://mugepackage-gif.github.io/muge-packaging-resources/data/medium-canonical-summary-submission-pack.json"
+    }
+  ],
+  "medium_posts": [
+    {
+      "title": "How to Choose Custom Cosmetic Packaging Without Over-Specifying the Box",
+      "canonical": "https://mugepackaging.com/blog/wholesale-cosmetic-cream-jar-packaging",
+      "body": "Custom cosmetic packaging often fails not because the box is too simple, but because the sourcing brief is unclear. For beauty brands, the most useful packaging discussion usually starts with product dimensions, retail channel, protection needs, surface finish, insert structure and the desired unboxing style. For skincare jars, creams, serums and beauty sets, buyers should define three things before requesting a packaging quote: product fit, brand expression, and production review. MUGE PACKAGING supports custom cosmetic packaging development for brand owners, e-commerce sellers and B2B buyers. Read the original guide: https://mugepackaging.com/blog/wholesale-cosmetic-cream-jar-packaging"
+    },
+    {
+      "title": "Rigid Gift Boxes: What Buyers Should Confirm Before Sampling",
+      "canonical": "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+      "body": "Rigid gift boxes are often used for premium cosmetics, electronics, wellness products, holiday gifts and retail sets. Before sampling, buyers should confirm product dimensions and weight, box structure, insert requirement, surface direction, and sales channel. MUGE PACKAGING develops custom rigid gift boxes and paper packaging structures for global B2B buyers. Read the original guide: https://mugepackaging.com/blog/custom-gift-box-magnetic-closure"
+    },
+    {
+      "title": "Paper Tube Packaging: A Practical Option for Premium Retail Products",
+      "canonical": "https://mugepackaging.com/products/paper-tubes",
+      "body": "Paper tube packaging is widely used for cosmetics, tea, candles, fragrance, small gifts and specialty retail products. For buyers comparing paper tubes with other packaging structures, key questions include product display impact, weight suitability, closure style, and surface finish. MUGE PACKAGING supports custom paper tube packaging by diameter, height, cap structure, material, printing and finishing options. Learn more: https://mugepackaging.com/products/paper-tubes"
+    }
+  ],
+  "compliance_note": "Manual platform actions only. No paid claim, verified supplier claim, private messaging, fixed MOQ, fixed lead time, customer cases, production capacity or regulated-market guarantee."
+}

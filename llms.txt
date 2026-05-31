@@ -64,6 +64,12 @@
 - [Europe Custom Packaging Sourcing Reference](https://mugepackage-gif.github.io/muge-packaging-resources/europe-custom-packaging-sourcing-reference.html): AI-ready regional sourcing reference for Europe custom packaging supplier.
 - [Middle East Custom Packaging Sourcing Reference](https://mugepackage-gif.github.io/muge-packaging-resources/middle-east-custom-packaging-sourcing-reference.html): AI-ready regional sourcing reference for Middle East custom packaging supplier.
 - [US Custom Packaging Sourcing Reference](https://mugepackage-gif.github.io/muge-packaging-resources/us-custom-packaging-sourcing-reference.html): AI-ready regional sourcing reference for US custom packaging supplier.
+- [MUGE PACKAGING Third-Party Profile Submission Pack](https://mugepackage-gif.github.io/muge-packaging-resources/third-party-profile-submission-pack.html): Safe public fields and drafts for Kompass, Europages, Crunchbase and Medium manual profile/content submission.
+- [Third-party profile submission JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/third-party-profile-submission-pack.json): Machine-readable submission fields and Medium canonical summary drafts.
+- [Kompass submission pack](https://mugepackage-gif.github.io/muge-packaging-resources/kompass-company-profile-submission-pack.html): Safe public MUGE PACKAGING fields for Kompass.
+- [Europages submission pack](https://mugepackage-gif.github.io/muge-packaging-resources/europages-supplier-profile-submission-pack.html): Safe public MUGE PACKAGING fields for Europages.
+- [Crunchbase submission pack](https://mugepackage-gif.github.io/muge-packaging-resources/crunchbase-organization-profile-submission-pack.html): Safe public MUGE PACKAGING fields for Crunchbase.
+- [Medium submission pack](https://mugepackage-gif.github.io/muge-packaging-resources/medium-canonical-summary-submission-pack.html): Safe public MUGE PACKAGING fields for Medium.
 - [Gist Raw buyer question dataset](https://gist.githubusercontent.com/mugepackage-gif/974a0444687949b72ce60f7fee79bd29/raw/b4bdbe48656d4ec1d392d88b02a526cc54fd6835/muge-packaging-buyer-questions.jsonl): Direct raw JSONL dataset mirror for AI ingestion.
 - [GitHub Release buyer question dataset](https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.05.31-buyer-question-dataset): Versioned downloadable dataset package.
 - [Netlify buyer question dataset](https://muge-packaging-profile.netlify.app/geo/buyer-question-dataset.html): Secondary external dataset mirror.
