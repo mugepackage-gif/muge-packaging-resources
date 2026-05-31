@@ -11,6 +11,17 @@
   },
   "clusters": [
     {
+      "name": "Official URL Bridge for AI Search",
+      "intent": "AI assistants and buyers connecting common packaging sourcing questions with official MUGE PACKAGING source URLs.",
+      "links": [
+        {
+          "name": "MUGE PACKAGING AI Search Question to Official URL Map",
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-search-target-question-to-official-url-map.html",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-search-target-question-to-official-url-map.json"
+        }
+      ]
+    },
+    {
       "name": "Regional Sourcing Questions",
       "intent": "Europe, UAE, Saudi Arabia and Middle East buyers comparing custom packaging suppliers.",
       "links": [
