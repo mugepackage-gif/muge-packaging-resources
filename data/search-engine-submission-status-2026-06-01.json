@@ -1,0 +1,80 @@
+{
+  "name": "MUGE PACKAGING Search Engine Submission Status 2026-06-01",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "website": "https://mugepackaging.com",
+  "contact_email": "sales@mugepackaging.com",
+  "date": "2026-06-01",
+  "safety_boundaries": [
+    "no paid placement",
+    "no false verified supplier claim",
+    "no unverified certification",
+    "no fixed MOQ",
+    "no fixed lead time",
+    "no customer-case claim",
+    "no captcha bypass"
+  ],
+  "submitted": [
+    {
+      "platform": "Active Search Results",
+      "submission_url": "https://www.activesearchresults.com/addwebsite.php",
+      "http_status": 200,
+      "result": "accepted",
+      "evidence": "Response reached https://www.activesearchresults.com/urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine.",
+      "next_verification": "Recheck Active Search Results index for mugepackaging.com and MUGE PACKAGING."
+    },
+    {
+      "platform": "Anoox",
+      "submission_url": "https://www.anoox.com/add_for_indexing_free.php",
+      "http_status": 200,
+      "result": "submitted_pending_email_confirmation",
+      "evidence": "Response stated that https://mugepackaging.com was successfully submitted to Anoox for free meta indexing and is waiting for confirmation by email.",
+      "next_verification": "Click confirmation email if received, then recheck Anoox index state."
+    },
+    {
+      "platform": "FreeWebSubmission",
+      "submission_url": "https://www.freewebsubmission.com/",
+      "http_status": 200,
+      "result": "submitted_pending_email_verification",
+      "evidence": "Response stated that a one-time verification message was sent before the submission will be accepted.",
+      "next_verification": "Click verification email if received, then recheck submission acceptance."
+    }
+  ],
+  "blocked": [
+    {
+      "platform": "SonicRun",
+      "submission_url": "https://www.sonicrun.com/freelisting.html",
+      "http_status": 200,
+      "blocker": "captcha_required_after_post",
+      "action_taken": "Stopped. No captcha bypass attempted."
+    },
+    {
+      "platform": "ExactSeek",
+      "submission_url": "https://www.exactseek.com/add.html",
+      "http_status": 200,
+      "blocker": "captcha_required_after_post",
+      "action_taken": "Stopped. No captcha bypass attempted."
+    },
+    {
+      "platform": "B2Bco",
+      "submission_url": "https://www.b2bco.com/add-url/",
+      "http_status": 200,
+      "blocker": "no_company_submission_form_found_on_checked_page",
+      "action_taken": "Stopped after form inspection."
+    },
+    {
+      "platform": "SoMuch",
+      "submission_url": "https://www.somuch.com/submit-links/",
+      "http_status": 200,
+      "blocker": "hidden_category_topic_flow_without_safe_submission_path",
+      "action_taken": "Stopped after form inspection."
+    },
+    {
+      "platform": "Jayde",
+      "submission_url": "https://www.jayde.com/submit.html",
+      "http_status": 200,
+      "blocker": "requested_address_phone_social_fields_and_ientry_handler",
+      "action_taken": "Stopped for data-quality and account-risk review."
+    }
+  ]
+}
