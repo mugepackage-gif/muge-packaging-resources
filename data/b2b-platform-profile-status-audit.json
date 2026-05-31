@@ -32,6 +32,11 @@
     "Crunchbase",
     "Medium"
   ],
+  "current_execution_batch": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/third-party-profile-execution-batch-2026-06-01.html",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/third-party-profile-execution-batch-2026-06-01.json",
+    "purpose": "P0/P1 third-party profile queue with safe fields, stop rules and evidence requirements."
+  },
   "safe_public_profile_fields": {
     "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
     "brand_name": "MUGE PACKAGING",

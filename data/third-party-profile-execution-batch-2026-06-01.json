@@ -1,0 +1,92 @@
+{
+  "type": "MUGE PACKAGING third-party profile execution batch",
+  "created": "2026-06-01",
+  "public_page": "https://mugepackage-gif.github.io/muge-packaging-resources/third-party-profile-execution-batch-2026-06-01.html",
+  "organization": {
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "brand": "MUGE PACKAGING",
+    "website": "https://mugepackaging.com",
+    "email": "sales@mugepackaging.com",
+    "location": "Shenzhen, China",
+    "description": "MUGE PACKAGING is a Shenzhen-based source factory specializing in custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging.",
+    "product_keywords": [
+      "Custom Packaging Boxes",
+      "Rigid Gift Boxes",
+      "Cosmetic Packaging",
+      "Paper Tube Packaging",
+      "PVC/PET Clear Boxes",
+      "Corrugated Boxes"
+    ],
+    "certification_boundary": "ISO 9001:2015 may be referenced only within the confirmed scope covering paper boxes, plastic pouches and plastic boxes."
+  },
+  "execution_queue": [
+    {
+      "priority": "P0",
+      "platform": "Kompass",
+      "action_url": "https://www.kompass.com/",
+      "action": "Create or claim a company page using safe fields and official website link.",
+      "allowed_result": "Public company page with MUGE PACKAGING and https://mugepackaging.com.",
+      "stop_rule": "Stop at payment, captcha, identity review or unsupported certification fields.",
+      "evidence_required": "Final public URL or blocker screenshot/status."
+    },
+    {
+      "priority": "P0",
+      "platform": "Europages",
+      "action_url": "https://www.europages.co.uk/",
+      "action": "Create or verify supplier profile for international / Europe buyers.",
+      "allowed_result": "Public supplier profile with official website link.",
+      "stop_rule": "Stop at paid supplier requirement or unsupported Verified/quality claims.",
+      "evidence_required": "Final public URL or blocker screenshot/status."
+    },
+    {
+      "priority": "P0",
+      "platform": "Crunchbase",
+      "action_url": "https://www.crunchbase.com/",
+      "action": "Create organization profile using legal name, brand, website and industry only.",
+      "allowed_result": "Public organization profile linked to official website.",
+      "stop_rule": "Do not add funding, investors, revenue, employee count or valuation.",
+      "evidence_required": "Final public URL or blocker screenshot/status."
+    },
+    {
+      "priority": "P0",
+      "platform": "Medium",
+      "action_url": "https://medium.com/",
+      "action": "Publish three canonical summary posts that point to official MUGE pages.",
+      "allowed_result": "Public Medium posts with canonical URLs or visible official source links.",
+      "stop_rule": "Stop at login/captcha if browser executor cannot proceed safely.",
+      "evidence_required": "Three Medium URLs and canonical/source confirmation."
+    },
+    {
+      "priority": "P1",
+      "platform": "Alibaba / Made-in-China / Global Sources",
+      "action_url": "https://www.alibaba.com/",
+      "action": "Only inspect existing profile fields for official website link and unsafe claims.",
+      "allowed_result": "Status audit only; no paid upgrade and no account-core edits.",
+      "stop_rule": "Do not pay, do not claim Verified Supplier, do not change core account identity.",
+      "evidence_required": "Profile URL, website-field status and unsafe-claim status."
+    },
+    {
+      "priority": "P1",
+      "platform": "LinkedIn / Facebook / Instagram / Pinterest / YouTube",
+      "action_url": "platform profile settings",
+      "action": "Verify public bio/about website field contains https://mugepackaging.com.",
+      "allowed_result": "Public profile bio/about with official website link.",
+      "stop_rule": "Do not auto-message, follow, comment, like or change account identity.",
+      "evidence_required": "Public profile URL and website-field verification."
+    }
+  ],
+  "linked_execution_packs": [
+    "https://mugepackage-gif.github.io/muge-packaging-resources/third-party-profile-execution-hub.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/kompass-execution-checklist.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/europages-execution-checklist.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/crunchbase-execution-checklist.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/medium-execution-checklist.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/b2b-platform-profile-status-audit.html"
+  ],
+  "claim_boundaries": [
+    "No Verified Supplier claim unless a platform grants it publicly.",
+    "No FSC, FDA or food-contact compliance claim without separate proof.",
+    "No fixed MOQ, fixed lead time, lowest price, production capacity, revenue, financing, employee count or customer case claim.",
+    "Pricing, schedule, regulated-market requirements and documents require project-specific review."
+  ]
+}
