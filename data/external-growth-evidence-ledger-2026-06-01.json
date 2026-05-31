@@ -23,6 +23,14 @@
       "url": "https://zearches.com/directory.php?slug=business-company",
       "verification": "HTTP 200; page contains MUGE PACKAGING, a custom packaging description and a direct link to https://mugepackaging.com.",
       "counting_rule": "Counts as verified external backlink and entity mention."
+    },
+    {
+      "type": "third_party_public_ai_citation_asset",
+      "platform": "GitHub Gist",
+      "url": "https://gist.github.com/mugepackage-gif/316ab6a5011624fd852752b1875bac76",
+      "raw_url": "https://gist.githubusercontent.com/mugepackage-gif/316ab6a5011624fd852752b1875bac76/raw/muge-packaging-ai-verifiable-facts-2026-06-01.md",
+      "verification": "HTTP 200; public page contains MUGE PACKAGING, Shenzhen Muge Design Packaging Product Co., Ltd., https://mugepackaging.com, public product categories and limited ISO 9001:2015 scope wording.",
+      "counting_rule": "Counts as verified third-party public entity and citation asset for AI search and buyer due diligence."
     }
   ],
   "submitted_pending_results": [
@@ -89,6 +97,8 @@
     "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-ai-sourcing-citation-brief-2026-06-01.json",
     "https://mugepackage-gif.github.io/muge-packaging-resources/supplier-verification-checklist-ai-search-2026-06-01.html",
     "https://mugepackage-gif.github.io/muge-packaging-resources/data/supplier-verification-checklist-ai-search-2026-06-01.json",
+    "https://gist.github.com/mugepackage-gif/316ab6a5011624fd852752b1875bac76",
+    "https://gist.githubusercontent.com/mugepackage-gif/316ab6a5011624fd852752b1875bac76/raw/muge-packaging-ai-verifiable-facts-2026-06-01.md",
     "https://mugepackage-gif.github.io/muge-packaging-resources/search-engine-submission-status-2026-06-01.html"
   ]
 }
