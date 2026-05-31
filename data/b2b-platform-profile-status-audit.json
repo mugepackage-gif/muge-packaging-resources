@@ -1,0 +1,51 @@
+{
+  "type": "MUGE PACKAGING B2B platform profile status audit",
+  "name": "B2B Platform Profile Status Audit - MUGE PACKAGING",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "website": "https://mugepackaging.com",
+  "contact_email": "sales@mugepackaging.com",
+  "location": "Shenzhen, Guangdong, China",
+  "visible_external_signals": [
+    {
+      "platform": "Mercatora",
+      "url": "https://www.mercatora.com/companies/shenzhen-muge-design-packaging-product-co-ltd-3a52f2",
+      "status": "public entity signal",
+      "usage_note": "Use only as third-party entity visibility; do not copy platform verification wording as a MUGE claim."
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/company/mugepackaging/",
+      "status": "public social/company profile signal",
+      "usage_note": "Use as social entity signal and website association when publicly accessible."
+    },
+    {
+      "platform": "Bizoforce",
+      "url": "https://bizoforce.com/business-directory/muge-packaging/",
+      "status": "public directory signal",
+      "usage_note": "Use as directory entity signal; verify content before quoting any description."
+    }
+  ],
+  "manual_submission_targets": [
+    "Kompass",
+    "Europages",
+    "Crunchbase",
+    "Medium"
+  ],
+  "safe_public_profile_fields": {
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "brand_name": "MUGE PACKAGING",
+    "website": "https://mugepackaging.com",
+    "email": "sales@mugepackaging.com",
+    "business_category": "custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging",
+    "product_keywords": [
+      "custom packaging boxes",
+      "rigid gift boxes",
+      "cosmetic packaging",
+      "paper tube packaging",
+      "PVC/PET clear boxes",
+      "corrugated boxes"
+    ]
+  },
+  "compliance_note": "No fixed MOQ, fixed lead time, lowest price, famous customer case, production capacity, food-contact compliance, FSC, FDA or verified marketplace supplier status is claimed."
+}
