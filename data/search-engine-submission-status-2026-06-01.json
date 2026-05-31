@@ -73,6 +73,16 @@
       "result": "already_submitted",
       "evidence": "External response stated: This URL has already been submitted.",
       "next_verification": "Recheck whether B2Bs has published or indexed the submitted URL."
+    },
+    {
+      "platform": "PODatlas",
+      "submission_url": "https://podatlas.co/submit",
+      "http_status": 200,
+      "result": "submitted_pending_review",
+      "evidence": "External API https://podatlas.co/api/submit-supplier returned {\"ok\":true}.",
+      "safety_note": "The pitch explicitly asked PODatlas to include MUGE only if packaging suppliers for ecommerce/POD brands fit its directory, and stated that MUGE is not claiming POD product fulfillment.",
+      "public_search_check": "Follow-up checks on likely supplier URLs and search pages did not find MUGE PACKAGING or mugepackaging.com yet.",
+      "next_verification": "Recheck PODatlas supplier pages and search pages after editorial review."
     }
   ],
   "blocked": [
@@ -124,6 +134,20 @@
       "http_status": 200,
       "blocker": "form_requires_mobile_number_not_available_in_verified_knowledge_base",
       "action_taken": "Stopped. No unverified mobile number was entered."
+    },
+    {
+      "platform": "GlobalTradePlaza",
+      "submission_url": "https://globaltradeplaza.com/signup",
+      "http_status": 200,
+      "blocker": "requires_phone_and_password_account_creation",
+      "action_taken": "Stopped. No unverified phone number or unmanaged account was used."
+    },
+    {
+      "platform": "TradeWheel",
+      "submission_url": "https://www.tradewheel.com/register-free/",
+      "http_status": 200,
+      "blocker": "requires_phone_password_account_creation_and_messenger_fields",
+      "action_taken": "Stopped. No unverified phone number or unmanaged account was used."
     }
   ]
 }
