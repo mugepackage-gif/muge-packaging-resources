@@ -60,16 +60,18 @@
     "conclusion": "Target commercial keyword visibility has not broken through yet."
   },
   "latest_external_entity_baseline": {
-    "verified_external_entity_assets": 564,
-    "verified_link": 315,
+    "verified_external_entity_assets": 573,
+    "verified_link": 321,
     "verified_indirect_link": 34,
     "verified_structured_sameas": 2,
-    "verified_mention": 213
+    "verified_mention": 216
   },
   "ai_citation_assets": [
     "https://mugepackage-gif.github.io/muge-packaging-resources/ai-target-question-answer-hub.html",
     "https://mugepackage-gif.github.io/muge-packaging-resources/muge-buyer-question-hub-index.html",
     "https://mugepackage-gif.github.io/muge-packaging-resources/ai-search-target-question-to-official-url-map.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-ai-sourcing-citation-brief-2026-06-01.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-ai-sourcing-citation-brief-2026-06-01.json",
     "https://mugepackage-gif.github.io/muge-packaging-resources/search-engine-submission-status-2026-06-01.html"
   ]
 }
