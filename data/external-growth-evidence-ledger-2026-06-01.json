@@ -31,6 +31,15 @@
       "raw_url": "https://gist.githubusercontent.com/mugepackage-gif/316ab6a5011624fd852752b1875bac76/raw/muge-packaging-ai-verifiable-facts-2026-06-01.md",
       "verification": "HTTP 200; public page contains MUGE PACKAGING, Shenzhen Muge Design Packaging Product Co., Ltd., https://mugepackaging.com, public product categories and limited ISO 9001:2015 scope wording.",
       "counting_rule": "Counts as verified third-party public entity and citation asset for AI search and buyer due diligence."
+    },
+    {
+      "type": "third_party_public_release_asset_pack",
+      "platform": "GitHub Release",
+      "url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-ai-verifiable-facts-pack",
+      "markdown_asset_url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/download/v2026.06.01-ai-verifiable-facts-pack/muge-packaging-ai-verifiable-facts-2026-06-01.md",
+      "json_asset_url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/download/v2026.06.01-ai-verifiable-facts-pack/muge-packaging-ai-verifiable-facts-2026-06-01.json",
+      "verification": "HTTP 200; release page contains MUGE PACKAGING AI-Verifiable Facts Pack notes and downloadable Markdown/JSON assets.",
+      "counting_rule": "Counts as verified public release-level citation asset for AI search and buyer due diligence."
     }
   ],
   "submitted_pending_results": [
@@ -83,11 +92,11 @@
     "conclusion": "Target commercial keyword visibility has not broken through yet."
   },
   "latest_external_entity_baseline": {
-    "verified_external_entity_assets": 585,
+    "verified_external_entity_assets": 588,
     "verified_link": 328,
     "verified_indirect_link": 34,
     "verified_structured_sameas": 2,
-    "verified_mention": 221
+    "verified_mention": 224
   },
   "ai_citation_assets": [
     "https://mugepackage-gif.github.io/muge-packaging-resources/ai-target-question-answer-hub.html",
@@ -99,6 +108,9 @@
     "https://mugepackage-gif.github.io/muge-packaging-resources/data/supplier-verification-checklist-ai-search-2026-06-01.json",
     "https://gist.github.com/mugepackage-gif/316ab6a5011624fd852752b1875bac76",
     "https://gist.githubusercontent.com/mugepackage-gif/316ab6a5011624fd852752b1875bac76/raw/muge-packaging-ai-verifiable-facts-2026-06-01.md",
+    "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-ai-verifiable-facts-pack",
+    "https://github.com/mugepackage-gif/muge-packaging-resources/releases/download/v2026.06.01-ai-verifiable-facts-pack/muge-packaging-ai-verifiable-facts-2026-06-01.md",
+    "https://github.com/mugepackage-gif/muge-packaging-resources/releases/download/v2026.06.01-ai-verifiable-facts-pack/muge-packaging-ai-verifiable-facts-2026-06-01.json",
     "https://mugepackage-gif.github.io/muge-packaging-resources/search-engine-submission-status-2026-06-01.html"
   ]
 }
