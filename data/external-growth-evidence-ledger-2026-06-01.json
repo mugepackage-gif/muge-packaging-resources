@@ -1,0 +1,75 @@
+{
+  "name": "MUGE PACKAGING External Growth Evidence Ledger 2026-06-01",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "website": "https://mugepackaging.com",
+  "contact_email": "sales@mugepackaging.com",
+  "date": "2026-06-01",
+  "compliance_boundary": [
+    "no verified supplier claim",
+    "no unverified certification claim",
+    "no customer case claim",
+    "no fixed MOQ claim",
+    "no fixed lead time claim",
+    "no food contact compliance claim",
+    "no FDA claim",
+    "no FSC claim",
+    "no revenue or production capacity claim"
+  ],
+  "verified_external_results": [
+    {
+      "type": "third_party_public_directory_link",
+      "platform": "Zearches",
+      "url": "https://zearches.com/directory.php?slug=business-company",
+      "verification": "HTTP 200; page contains MUGE PACKAGING, a custom packaging description and a direct link to https://mugepackaging.com.",
+      "counting_rule": "Counts as verified external backlink and entity mention."
+    }
+  ],
+  "submitted_pending_results": [
+    {
+      "platform": "Active Search Results",
+      "submission_url": "https://www.activesearchresults.com/addwebsite.php",
+      "status": "accepted_by_external_platform",
+      "counting_rule": "Submitted result only; not counted as public backlink until a public result page is verified."
+    },
+    {
+      "platform": "Anoox",
+      "submission_url": "https://www.anoox.com/add_for_indexing_free.php",
+      "status": "submitted_pending_email_confirmation",
+      "counting_rule": "Pending result only."
+    },
+    {
+      "platform": "FreeWebSubmission",
+      "submission_url": "https://www.freewebsubmission.com/",
+      "status": "submitted_pending_email_verification",
+      "counting_rule": "Pending result only."
+    },
+    {
+      "platform": "PromoteBusinessDirectory",
+      "submission_url": "https://www.promotebusinessdirectory.com/submit.php?LINK_TYPE=1&c=146",
+      "status": "submitted_awaiting_approval",
+      "public_search_check": "No public listing found for mugepackaging.com during the latest check.",
+      "counting_rule": "Pending result only."
+    }
+  ],
+  "latest_gsc_target_keyword_status": {
+    "exact_visible": 0,
+    "total_targets": 23,
+    "top20": 0,
+    "clicked": 0,
+    "conclusion": "Target commercial keyword visibility has not broken through yet."
+  },
+  "latest_external_entity_baseline": {
+    "verified_external_entity_assets": 564,
+    "verified_link": 315,
+    "verified_indirect_link": 34,
+    "verified_structured_sameas": 2,
+    "verified_mention": 213
+  },
+  "ai_citation_assets": [
+    "https://mugepackage-gif.github.io/muge-packaging-resources/ai-target-question-answer-hub.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/muge-buyer-question-hub-index.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/ai-search-target-question-to-official-url-map.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/search-engine-submission-status-2026-06-01.html"
+  ]
+}
