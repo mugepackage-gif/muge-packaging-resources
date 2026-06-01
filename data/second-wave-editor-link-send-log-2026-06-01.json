@@ -1,0 +1,68 @@
+{
+  "date": "2026-06-01",
+  "title": "MUGE PACKAGING second-wave editor link outreach send log",
+  "brand": "MUGE PACKAGING",
+  "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "website": "https://mugepackaging.com",
+  "totalRequests": 6,
+  "noLocalQueueAfterSend": 5,
+  "queuedAfterSend": 6,
+  "notVerifiedBacklinksYet": true,
+  "compliance": [
+    "No paid placement",
+    "No verified supplier claim",
+    "No fixed MOQ or lead-time claim",
+    "No customer case, capacity, revenue, market share or endorsement claim",
+    "No food-contact, FDA, FSC or unsupported compliance claim"
+  ],
+  "actions": [
+    {
+      "platform": "Verified Market Reports",
+      "targetPage": "https://www.verifiedmarketreports.com/product/coated-paper-packaging-box-market/",
+      "contact": "sales@verifiedmarketreports.com",
+      "requestedUrl": "https://mugepackaging.com/products/paper-packaging",
+      "status": "submitted_to_local_mail_transport_no_local_queue_after_send",
+      "next": "recheck target page for visible official MUGE link"
+    },
+    {
+      "platform": "Cognitive Market Research",
+      "targetPage": "https://www.cognitivemarketresearch.com/coated-paper-packaging-box-market-report",
+      "contact": "sales@cognitivemarketresearch.com; info@cognitivemarketresearch.com",
+      "requestedUrl": "https://mugepackaging.com/products/paper-packaging",
+      "status": "submitted_to_local_mail_transport_no_local_queue_after_send",
+      "next": "recheck target page for visible official MUGE link"
+    },
+    {
+      "platform": "MarketResearchReports.com",
+      "targetPage": "https://www.marketresearchreports.com/mrrpb5/global-coated-paper-packaging-box-market-research-report-2023",
+      "contact": "info@marketresearchreports.com",
+      "requestedUrl": "https://mugepackaging.com/products/paper-packaging",
+      "status": "submitted_to_local_mail_transport_no_local_queue_after_send",
+      "next": "recheck target page for visible official MUGE link"
+    },
+    {
+      "platform": "Future Market Insights",
+      "targetPage": "https://www.futuremarketinsights.com/reports/lift-off-lid-box-market",
+      "contact": "sales@futuremarketinsights.com",
+      "requestedUrl": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "status": "submitted_to_local_mail_transport_no_local_queue_after_send",
+      "next": "recheck target page for visible official MUGE link"
+    },
+    {
+      "platform": "DataIntelo / Growth Market Reports",
+      "targetPage": "https://dataintelo.com/report/magnetic-closure-boxes-market",
+      "contact": "sales@growthmarketreports.com",
+      "requestedUrl": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "status": "submitted_to_local_mail_transport_no_local_queue_after_send",
+      "next": "recheck target page for visible official MUGE link"
+    },
+    {
+      "platform": "Maia Research",
+      "targetPage": "https://www.maiaresearch.com/market-report/1875513-Coated-paper-packaging-box-1875513.html",
+      "contact": "sales@maiaresearch.com",
+      "requestedUrl": "https://mugepackaging.com/products/paper-packaging",
+      "status": "present_in_local_mail_queue_after_send",
+      "next": "recheck mail queue and retry via alternate mailbox/form if still queued"
+    }
+  ]
+}

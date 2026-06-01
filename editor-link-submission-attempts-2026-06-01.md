@@ -46,3 +46,15 @@ Do not add Verified Supplier, Gold Supplier, fixed MOQ, fixed lead time, lowest 
 | Packaza | Editor link request submitted to local mail transport; no local queue item remained after send. Awaiting public page change. | editor-link-live-send-log-2026-06-01.md |
 | Zearches | Editor link request submitted to local mail transport; no local queue item remained after send. Awaiting public page change. | editor-link-live-send-log-2026-06-01.md |
 | ProvenExpert | Remote Outlook protection returned 450 because sender IPv6 lacks reverse DNS; message remains queued for retry. | editor-link-live-send-log-2026-06-01.md |
+
+
+## 2026-06-01 second-wave market research editor link batch
+
+| Platform | Result | Evidence |
+|---|---|---|
+| Verified Market Reports | submitted_to_local_mail_transport_no_local_queue_after_send; recheck target page for visible official MUGE link. | second-wave-editor-link-send-log-2026-06-01.md |
+| Cognitive Market Research | submitted_to_local_mail_transport_no_local_queue_after_send; recheck target page for visible official MUGE link. | second-wave-editor-link-send-log-2026-06-01.md |
+| MarketResearchReports.com | submitted_to_local_mail_transport_no_local_queue_after_send; recheck target page for visible official MUGE link. | second-wave-editor-link-send-log-2026-06-01.md |
+| Future Market Insights | submitted_to_local_mail_transport_no_local_queue_after_send; recheck target page for visible official MUGE link. | second-wave-editor-link-send-log-2026-06-01.md |
+| DataIntelo / Growth Market Reports | submitted_to_local_mail_transport_no_local_queue_after_send; recheck target page for visible official MUGE link. | second-wave-editor-link-send-log-2026-06-01.md |
+| Maia Research | present_in_local_mail_queue_after_send; recheck mail queue and retry via alternate mailbox/form if still queued. | second-wave-editor-link-send-log-2026-06-01.md |
