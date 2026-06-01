@@ -1,0 +1,142 @@
+{
+  "generated_at": "2026-06-01T08:16:56.329Z",
+  "method": "public HTTP fetch with redirects; no login, no payment, no captcha bypass",
+  "source_json": "/Users/molice/muge-packaging-resources/data/external-reference-full-recheck-2026-06-01-1607.json",
+  "summary": {
+    "checked": 10,
+    "ok": 10,
+    "failed": 0
+  },
+  "results": [
+    {
+      "platform": "LinkedIn",
+      "source_page": "https://www.linkedin.com/company/mugepackaging/",
+      "input_url": "https://mugepackaging.com/",
+      "http_status": 200,
+      "final_url": "https://mugepackaging.com/",
+      "final_host": "mugepackaging.com",
+      "on_muge_domain": true,
+      "ok": true,
+      "elapsed_ms": 1120,
+      "error": "",
+      "relevance": "homepage / brand entity landing"
+    },
+    {
+      "platform": "Bizidex",
+      "source_page": "https://bizidex.com/en/muge-packaging-packaging-foam-cushioning-containers-134824",
+      "input_url": "https://www.mugepackaging.com/",
+      "http_status": 200,
+      "final_url": "https://mugepackaging.com/",
+      "final_host": "mugepackaging.com",
+      "on_muge_domain": true,
+      "ok": true,
+      "elapsed_ms": 454,
+      "error": "",
+      "relevance": "homepage / brand entity landing"
+    },
+    {
+      "platform": "CityByApp",
+      "source_page": "https://www.citybyapp.com/china/shenzhen-shi/local-services/muge-packaging-481750",
+      "input_url": "https://www.mugepackaging.com/",
+      "http_status": 200,
+      "final_url": "https://mugepackaging.com/",
+      "final_host": "mugepackaging.com",
+      "on_muge_domain": true,
+      "ok": true,
+      "elapsed_ms": 277,
+      "error": "",
+      "relevance": "homepage / brand entity landing"
+    },
+    {
+      "platform": "Antech",
+      "source_page": "https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/",
+      "input_url": "https://www.mugepackaging.com/product/hexagon-corrugated-box-wholesale/",
+      "http_status": 200,
+      "final_url": "https://mugepackaging.com/products",
+      "final_host": "mugepackaging.com",
+      "on_muge_domain": true,
+      "ok": true,
+      "elapsed_ms": 376,
+      "error": "",
+      "relevance": "Antech link lands on MUGE domain"
+    },
+    {
+      "platform": "YellowPagesOnline",
+      "source_page": "https://www.yellowpagesonline.com/china/shenzhen-shi/boxes-retail/muge-packaging",
+      "input_url": "https://www.mugepackaging.com/",
+      "http_status": 200,
+      "final_url": "https://mugepackaging.com/",
+      "final_host": "mugepackaging.com",
+      "on_muge_domain": true,
+      "ok": true,
+      "elapsed_ms": 299,
+      "error": "",
+      "relevance": "homepage / brand entity landing"
+    },
+    {
+      "platform": "Zearches",
+      "source_page": "https://zearches.com/directory.php?slug=business-company",
+      "input_url": "https://mugepackaging.com",
+      "http_status": 200,
+      "final_url": "https://mugepackaging.com/",
+      "final_host": "mugepackaging.com",
+      "on_muge_domain": true,
+      "ok": true,
+      "elapsed_ms": 235,
+      "error": "",
+      "relevance": "homepage / brand entity landing"
+    },
+    {
+      "platform": "ProvenExpert",
+      "source_page": "https://www.provenexpert.com/en-us/muge-packaging/",
+      "input_url": "https://www.mugepackaging.com/c/custom-stickers/",
+      "http_status": 200,
+      "final_url": "https://mugepackaging.com/products/custom-labels",
+      "final_host": "mugepackaging.com",
+      "on_muge_domain": true,
+      "ok": true,
+      "elapsed_ms": 439,
+      "error": "",
+      "relevance": "custom stickers / labels landing page"
+    },
+    {
+      "platform": "Packaza",
+      "source_page": "https://packaza.com/blog/top-10-magnetic-gift-box-manufacturer-in-china/",
+      "input_url": "https://www.mugepackaging.com/",
+      "http_status": 200,
+      "final_url": "https://mugepackaging.com/",
+      "final_host": "mugepackaging.com",
+      "on_muge_domain": true,
+      "ok": true,
+      "elapsed_ms": 281,
+      "error": "",
+      "relevance": "homepage / brand entity landing"
+    },
+    {
+      "platform": "SourcifyChina",
+      "source_page": "https://www.sourcifychina.com/top-foldable-gift-box-factory-compare/",
+      "input_url": "https://www.mugepackaging.com/product/folding-gift-boxes-wholesale/",
+      "http_status": 200,
+      "final_url": "https://mugepackaging.com/products",
+      "final_host": "mugepackaging.com",
+      "on_muge_domain": true,
+      "ok": true,
+      "elapsed_ms": 277,
+      "error": "",
+      "relevance": "SourcifyChina link lands on MUGE domain"
+    },
+    {
+      "platform": "Siteprice",
+      "source_page": "https://www.siteprice.org/competitors/mugepackaging.com",
+      "input_url": "https://www.mugepackaging.com",
+      "http_status": 200,
+      "final_url": "https://mugepackaging.com/",
+      "final_host": "mugepackaging.com",
+      "on_muge_domain": true,
+      "ok": true,
+      "elapsed_ms": 288,
+      "error": "",
+      "relevance": "homepage / brand entity landing"
+    }
+  ]
+}
