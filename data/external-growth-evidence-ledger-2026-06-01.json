@@ -91,6 +91,21 @@
       "issue_comment_url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589558139"
     },
     {
+      "type": "third_party_p0_p1_link_update_execution_pack",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-third-party-link-update-pack-2026-06-01.html",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-third-party-link-update-pack-2026-06-01.json",
+      "source_tiering_json": "/Users/molice/muge-packaging-resources/data/p0-p1-backlink-opportunity-tiering-2026-06-01.json",
+      "summary": {
+        "total_third_party_opportunities": 12,
+        "priority_A": 8,
+        "priority_B": 4,
+        "priority_C": 0
+      },
+      "verification": "Filtered from the P0/P1 opportunity tiering dataset to keep only third-party public assets. The pack contains 12 third-party opportunities, including 8 A-priority direct-link opportunities and 4 B-priority opportunities.",
+      "counting_rule": "Counts as an actionable third-party profile correction and link reinforcement pack for official P0/P1 pages after HTTP 200 publication verification."
+    },
+    {
       "type": "third_party_public_ai_citation_asset",
       "platform": "GitHub Gist",
       "url": "https://gist.github.com/mugepackage-gif/316ab6a5011624fd852752b1875bac76",

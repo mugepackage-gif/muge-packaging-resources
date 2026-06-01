@@ -1,0 +1,339 @@
+{
+  "generated_at": "2026-06-01T04:30:39.403Z",
+  "source_tiering_json": "/Users/molice/muge-packaging-resources/data/p0-p1-backlink-opportunity-tiering-2026-06-01.json",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "website": "https://mugepackaging.com",
+  "summary": {
+    "total_third_party_opportunities": 12,
+    "priority_A": 8,
+    "priority_B": 4,
+    "priority_C": 0
+  },
+  "items": [
+    {
+      "url": "https://www.siteprice.org/competitors/marber.net",
+      "host": "siteprice.org",
+      "label": "Siteprice competitors page listing MUGE under marber.net",
+      "status": "verified_link",
+      "http_status": 200,
+      "has_direct_link": true,
+      "source_class": "third_party_public_asset",
+      "evidence_note": "公开页面列出 MUGE Packaging 和官网链接；同域 nofollow 弱外链，计入外部实体资产和页面级直链。",
+      "target_pages": [
+        {
+          "target_id": "custom-packaging-boxes",
+          "priority": "P0",
+          "label": "Custom packaging boxes / product categories",
+          "official_url": "https://mugepackaging.com/products"
+        },
+        {
+          "target_id": "cosmetic-packaging-supplier",
+          "priority": "P0",
+          "label": "Cosmetic packaging supplier selection",
+          "official_url": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier"
+        },
+        {
+          "target_id": "pvc-pet-clear-box",
+          "priority": "P0",
+          "label": "PVC/PET clear box packaging",
+          "official_url": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide"
+        }
+      ],
+      "max_score": 17,
+      "priority": "A",
+      "recommended_action": "复验页面是否仍含官网 href；若平台允许认领或纠错，补充标准品牌名 MUGE PACKAGING 和官网 https://mugepackaging.com；不引用其估值/流量。"
+    },
+    {
+      "url": "https://www.siteprice.org/competitors/yfpackaging.com",
+      "host": "siteprice.org",
+      "label": "Siteprice competitors page listing MUGE under yfpackaging.com",
+      "status": "verified_link",
+      "http_status": 200,
+      "has_direct_link": true,
+      "source_class": "third_party_public_asset",
+      "evidence_note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。",
+      "target_pages": [
+        {
+          "target_id": "custom-packaging-boxes",
+          "priority": "P0",
+          "label": "Custom packaging boxes / product categories",
+          "official_url": "https://mugepackaging.com/products"
+        },
+        {
+          "target_id": "cosmetic-packaging-supplier",
+          "priority": "P0",
+          "label": "Cosmetic packaging supplier selection",
+          "official_url": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier"
+        },
+        {
+          "target_id": "pvc-pet-clear-box",
+          "priority": "P0",
+          "label": "PVC/PET clear box packaging",
+          "official_url": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide"
+        }
+      ],
+      "max_score": 17,
+      "priority": "A",
+      "recommended_action": "复验页面是否仍含官网 href；若平台允许认领或纠错，补充标准品牌名 MUGE PACKAGING 和官网 https://mugepackaging.com；不引用其估值/流量。"
+    },
+    {
+      "url": "https://www.siteprice.org/competitors/mugepackaging.com",
+      "host": "siteprice.org",
+      "label": "Siteprice competitors page for mugepackaging.com",
+      "status": "verified_link",
+      "http_status": 200,
+      "has_direct_link": true,
+      "source_class": "third_party_public_asset",
+      "evidence_note": "公开页面检出 MUGE 官网 href；同域 nofollow 弱外链，计入外部实体资产和页面级直链。",
+      "target_pages": [
+        {
+          "target_id": "custom-packaging-boxes",
+          "priority": "P0",
+          "label": "Custom packaging boxes / product categories",
+          "official_url": "https://mugepackaging.com/products"
+        },
+        {
+          "target_id": "cosmetic-packaging-supplier",
+          "priority": "P0",
+          "label": "Cosmetic packaging supplier selection",
+          "official_url": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier"
+        },
+        {
+          "target_id": "pvc-pet-clear-box",
+          "priority": "P0",
+          "label": "PVC/PET clear box packaging",
+          "official_url": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide"
+        }
+      ],
+      "max_score": 13,
+      "priority": "A",
+      "recommended_action": "复验页面是否仍含官网 href；若平台允许认领或纠错，补充标准品牌名 MUGE PACKAGING 和官网 https://mugepackaging.com；不引用其估值/流量。"
+    },
+    {
+      "url": "https://www.siteprice.org/competitors/mlcustomgiftbox.com",
+      "host": "siteprice.org",
+      "label": "Siteprice competitors page listing MUGE under mlcustomgiftbox.com",
+      "status": "verified_link",
+      "http_status": 200,
+      "has_direct_link": true,
+      "source_class": "third_party_public_asset",
+      "evidence_note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。",
+      "target_pages": [
+        {
+          "target_id": "custom-packaging-boxes",
+          "priority": "P0",
+          "label": "Custom packaging boxes / product categories",
+          "official_url": "https://mugepackaging.com/products"
+        },
+        {
+          "target_id": "pvc-pet-clear-box",
+          "priority": "P0",
+          "label": "PVC/PET clear box packaging",
+          "official_url": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide"
+        }
+      ],
+      "max_score": 17,
+      "priority": "A",
+      "recommended_action": "复验页面是否仍含官网 href；若平台允许认领或纠错，补充标准品牌名 MUGE PACKAGING 和官网 https://mugepackaging.com；不引用其估值/流量。"
+    },
+    {
+      "url": "https://www.siteprice.org/competitors/copackinc.com",
+      "host": "siteprice.org",
+      "label": "Siteprice competitors page listing MUGE under copackinc.com",
+      "status": "verified_link",
+      "http_status": 200,
+      "has_direct_link": true,
+      "source_class": "third_party_public_asset",
+      "evidence_note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。",
+      "target_pages": [
+        {
+          "target_id": "custom-packaging-boxes",
+          "priority": "P0",
+          "label": "Custom packaging boxes / product categories",
+          "official_url": "https://mugepackaging.com/products"
+        },
+        {
+          "target_id": "pvc-pet-clear-box",
+          "priority": "P0",
+          "label": "PVC/PET clear box packaging",
+          "official_url": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide"
+        }
+      ],
+      "max_score": 17,
+      "priority": "A",
+      "recommended_action": "复验页面是否仍含官网 href；若平台允许认领或纠错，补充标准品牌名 MUGE PACKAGING 和官网 https://mugepackaging.com；不引用其估值/流量。"
+    },
+    {
+      "url": "https://www.siteprice.org/competitors/cloveandtwine.com",
+      "host": "siteprice.org",
+      "label": "Siteprice competitors page listing MUGE under cloveandtwine.com",
+      "status": "verified_link",
+      "http_status": 200,
+      "has_direct_link": true,
+      "source_class": "third_party_public_asset",
+      "evidence_note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。",
+      "target_pages": [
+        {
+          "target_id": "custom-packaging-boxes",
+          "priority": "P0",
+          "label": "Custom packaging boxes / product categories",
+          "official_url": "https://mugepackaging.com/products"
+        },
+        {
+          "target_id": "pvc-pet-clear-box",
+          "priority": "P0",
+          "label": "PVC/PET clear box packaging",
+          "official_url": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide"
+        }
+      ],
+      "max_score": 17,
+      "priority": "A",
+      "recommended_action": "复验页面是否仍含官网 href；若平台允许认领或纠错，补充标准品牌名 MUGE PACKAGING 和官网 https://mugepackaging.com；不引用其估值/流量。"
+    },
+    {
+      "url": "https://www.siteprice.org/competitors/packmojo.com",
+      "host": "siteprice.org",
+      "label": "Siteprice competitors page listing MUGE under packmojo.com",
+      "status": "verified_link",
+      "http_status": 200,
+      "has_direct_link": true,
+      "source_class": "third_party_public_asset",
+      "evidence_note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；同域弱外链，计入外部实体资产并交叉进入外链基线。",
+      "target_pages": [
+        {
+          "target_id": "cosmetic-packaging-supplier",
+          "priority": "P0",
+          "label": "Cosmetic packaging supplier selection",
+          "official_url": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier"
+        },
+        {
+          "target_id": "pvc-pet-clear-box",
+          "priority": "P0",
+          "label": "PVC/PET clear box packaging",
+          "official_url": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide"
+        }
+      ],
+      "max_score": 13,
+      "priority": "A",
+      "recommended_action": "复验页面是否仍含官网 href；若平台允许认领或纠错，补充标准品牌名 MUGE PACKAGING 和官网 https://mugepackaging.com；不引用其估值/流量。"
+    },
+    {
+      "url": "https://www.siteprice.org/competitors/tube-boxes.com",
+      "host": "siteprice.org",
+      "label": "Siteprice competitors page listing MUGE under tube-boxes.com",
+      "status": "verified_link",
+      "http_status": 200,
+      "has_direct_link": true,
+      "source_class": "third_party_public_asset",
+      "evidence_note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。",
+      "target_pages": [
+        {
+          "target_id": "cosmetic-packaging-supplier",
+          "priority": "P0",
+          "label": "Cosmetic packaging supplier selection",
+          "official_url": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier"
+        },
+        {
+          "target_id": "pvc-pet-clear-box",
+          "priority": "P0",
+          "label": "PVC/PET clear box packaging",
+          "official_url": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide"
+        }
+      ],
+      "max_score": 13,
+      "priority": "A",
+      "recommended_action": "复验页面是否仍含官网 href；若平台允许认领或纠错，补充标准品牌名 MUGE PACKAGING 和官网 https://mugepackaging.com；不引用其估值/流量。"
+    },
+    {
+      "url": "https://www.sourcifychina.com/top-foldable-gift-box-factory-compare/",
+      "host": "sourcifychina.com",
+      "label": "SourcifyChina top foldable gift box factory comparison",
+      "status": "verified_link",
+      "http_status": 200,
+      "has_direct_link": true,
+      "source_class": "third_party_public_asset",
+      "evidence_note": "公开页面提及 Muge Packaging 并直接链接 folding gift boxes 页面；页面内部分 MOQ/交期类描述不可直接对外引用。",
+      "target_pages": [
+        {
+          "target_id": "cosmetic-packaging-supplier",
+          "priority": "P0",
+          "label": "Cosmetic packaging supplier selection",
+          "official_url": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier"
+        },
+        {
+          "target_id": "rigid-gift-box",
+          "priority": "P0/P1",
+          "label": "Rigid gift box structure and material",
+          "official_url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide"
+        }
+      ],
+      "max_score": 13,
+      "priority": "B",
+      "recommended_action": "复验是否含官网链接和 MUGE Packaging；如可联系编辑，优先把链接锚文本改为 MUGE PACKAGING custom packaging supplier，并指向最相关 P0/P1 官网页。"
+    },
+    {
+      "url": "https://www.siteprice.org/competitors/packagingbox.org",
+      "host": "siteprice.org",
+      "label": "Siteprice competitors page listing MUGE under packagingbox.org",
+      "status": "verified_link",
+      "http_status": 200,
+      "has_direct_link": true,
+      "source_class": "third_party_public_asset",
+      "evidence_note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。",
+      "target_pages": [
+        {
+          "target_id": "custom-packaging-boxes",
+          "priority": "P0",
+          "label": "Custom packaging boxes / product categories",
+          "official_url": "https://mugepackaging.com/products"
+        }
+      ],
+      "max_score": 17,
+      "priority": "B",
+      "recommended_action": "复验页面是否仍含官网 href；若平台允许认领或纠错，补充标准品牌名 MUGE PACKAGING 和官网 https://mugepackaging.com；不引用其估值/流量。"
+    },
+    {
+      "url": "https://www.siteprice.org/competitors/boxforgifts.com",
+      "host": "siteprice.org",
+      "label": "Siteprice competitors page listing MUGE under boxforgifts.com",
+      "status": "verified_link",
+      "http_status": 200,
+      "has_direct_link": true,
+      "source_class": "third_party_public_asset",
+      "evidence_note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。",
+      "target_pages": [
+        {
+          "target_id": "pvc-pet-clear-box",
+          "priority": "P0",
+          "label": "PVC/PET clear box packaging",
+          "official_url": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide"
+        }
+      ],
+      "max_score": 13,
+      "priority": "B",
+      "recommended_action": "复验页面是否仍含官网 href；若平台允许认领或纠错，补充标准品牌名 MUGE PACKAGING 和官网 https://mugepackaging.com；不引用其估值/流量。"
+    },
+    {
+      "url": "https://www.siteprice.org/competitors/vslpackaging.com",
+      "host": "siteprice.org",
+      "label": "Siteprice competitors page listing MUGE under vslpackaging.com",
+      "status": "verified_link",
+      "http_status": 200,
+      "has_direct_link": true,
+      "source_class": "third_party_public_asset",
+      "evidence_note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。",
+      "target_pages": [
+        {
+          "target_id": "pvc-pet-clear-box",
+          "priority": "P0",
+          "label": "PVC/PET clear box packaging",
+          "official_url": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide"
+        }
+      ],
+      "max_score": 13,
+      "priority": "B",
+      "recommended_action": "复验页面是否仍含官网 href；若平台允许认领或纠错，补充标准品牌名 MUGE PACKAGING 和官网 https://mugepackaging.com；不引用其估值/流量。"
+    }
+  ]
+}
