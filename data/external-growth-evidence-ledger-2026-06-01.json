@@ -48,6 +48,33 @@
       "counting_rule": "Counts as a verified stable public AI/GEO citation hub and crawl-depth reduction asset for external growth evidence."
     },
     {
+      "type": "verified_third_party_backlink_rollup_10_direct_links",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/verified-third-party-backlink-rollup-2026-06-01.html",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/verified-third-party-backlink-rollup-2026-06-01.json",
+      "source_record": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/子Agent输出/MUGE外部增长执行记录-第三方引用复验与提交-2026-06-01.json",
+      "summary": {
+        "checked": 12,
+        "verified_third_party_direct_links": 10,
+        "public_entity_signals_without_confirmed_direct_link": 1,
+        "blocked_or_not_public": 1
+      },
+      "verified_platforms": [
+        "LinkedIn",
+        "Bizidex",
+        "CityByApp",
+        "Antech",
+        "YellowPagesOnline",
+        "Zearches",
+        "ProvenExpert",
+        "Packaza",
+        "SourcifyChina",
+        "Siteprice"
+      ],
+      "verification": "Generated from a no-login/no-payment/no-captcha public verification run. Ten third-party pages returned HTTP 200 and contained direct href signals to mugepackaging.com or official MUGE URLs. One additional entity page was public but had no confirmed official href, and one submitted directory search remained not public.",
+      "counting_rule": "Counts as a verified public evidence rollup for 10 third-party direct-link signals; it does not create 10 new links, but makes the verified backlink state auditable and crawlable."
+    },
+    {
       "type": "third_party_public_ai_citation_index_release",
       "platform": "GitHub Release",
       "url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-ai-citation-index",

@@ -1,0 +1,199 @@
+{
+  "name": "MUGE PACKAGING Verified Third-Party Backlink Rollup 2026-06-01",
+  "date": "2026-06-01",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_website": "https://mugepackaging.com",
+  "method": "curl HTTP fetch with browser-like user agent; no login, no payment, no captcha bypass",
+  "summary": {
+    "checked": 12,
+    "verified_third_party_direct_links": 10,
+    "public_entity_signals_without_confirmed_direct_link": 1,
+    "blocked_or_not_public": 1
+  },
+  "verified_direct_links": [
+    {
+      "platform": "LinkedIn",
+      "type": "public social/company profile signal",
+      "url": "https://www.linkedin.com/company/mugepackaging/",
+      "http_status": 200,
+      "title": "Muge Packaging | LinkedIn",
+      "href_hits": [
+        "https://mugepackaging.com/"
+      ],
+      "has_brand": true,
+      "has_domain": true,
+      "verification": "HTTP 200 and page contains a direct href to mugepackaging.com."
+    },
+    {
+      "platform": "Bizidex",
+      "type": "business directory profile",
+      "url": "https://bizidex.com/en/muge-packaging-packaging-foam-cushioning-containers-134824",
+      "http_status": 200,
+      "title": "Muge Packaging - Packaging - Foam Cushioning & Containers - Bizidex",
+      "href_hits": [
+        "https://www.mugepackaging.com/",
+        "https://www.mugepackaging.com:443/?utm_source=bizidex&amp;utm_medium=ads",
+        "https://www.mugepackaging.com:443/?utm_source=bizidex&utm_medium=ads"
+      ],
+      "has_brand": true,
+      "has_domain": true,
+      "verification": "HTTP 200 and page contains a direct href to mugepackaging.com."
+    },
+    {
+      "platform": "CityByApp",
+      "type": "local business directory profile",
+      "url": "https://www.citybyapp.com/china/shenzhen-shi/local-services/muge-packaging-481750",
+      "http_status": 200,
+      "title": "Muge Packaging - Local Services - Local Business Directory",
+      "href_hits": [
+        "https://www.mugepackaging.com/"
+      ],
+      "has_brand": true,
+      "has_domain": true,
+      "verification": "HTTP 200 and page contains a direct href to mugepackaging.com."
+    },
+    {
+      "platform": "Antech",
+      "type": "industry/wiki attribution",
+      "url": "https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/",
+      "http_status": 200,
+      "title": "Шестигранная коробка Hexagon",
+      "href_hits": [
+        "https://www.mugepackaging.com/product/hexagon-corrugated-box-wholesale/"
+      ],
+      "has_brand": true,
+      "has_domain": true,
+      "verification": "HTTP 200 and page contains a direct href to mugepackaging.com."
+    },
+    {
+      "platform": "YellowPagesOnline",
+      "type": "yellow pages profile",
+      "url": "https://www.yellowpagesonline.com/china/shenzhen-shi/boxes-retail/muge-packaging",
+      "http_status": 200,
+      "title": "Muge Packaging - BOXES RETAIL - Yellow Pages ONLINE",
+      "href_hits": [
+        "https://www.mugepackaging.com/"
+      ],
+      "has_brand": true,
+      "has_domain": true,
+      "verification": "HTTP 200 and page contains a direct href to mugepackaging.com."
+    },
+    {
+      "platform": "Zearches",
+      "type": "free website directory listing",
+      "url": "https://zearches.com/directory.php?slug=business-company",
+      "http_status": 200,
+      "title": "Business & Company Sites – Free Website Submission Directory",
+      "href_hits": [
+        "https://mugepackaging.com",
+        "https://mugepackaging.com/"
+      ],
+      "has_brand": true,
+      "has_domain": true,
+      "verification": "HTTP 200 and page contains a direct href to mugepackaging.com."
+    },
+    {
+      "platform": "ProvenExpert",
+      "type": "public business profile",
+      "url": "https://www.provenexpert.com/en-us/muge-packaging/",
+      "http_status": 200,
+      "title": "Muge Packaging Reviews & Experiences",
+      "href_hits": [
+        "https://www.mugepackaging.com/c/custom-stickers/"
+      ],
+      "has_brand": true,
+      "has_domain": true,
+      "verification": "HTTP 200 and page contains a direct href to mugepackaging.com."
+    },
+    {
+      "platform": "Packaza",
+      "type": "industry supplier list",
+      "url": "https://packaza.com/blog/top-10-magnetic-gift-box-manufacturer-in-china/",
+      "http_status": 200,
+      "title": "Top 10 Magnetic Gift Box Manufacturers in China 2026",
+      "href_hits": [
+        "https://www.mugepackaging.com/"
+      ],
+      "has_brand": true,
+      "has_domain": true,
+      "verification": "HTTP 200 and page contains a direct href to mugepackaging.com."
+    },
+    {
+      "platform": "SourcifyChina",
+      "type": "supplier comparison page",
+      "url": "https://www.sourcifychina.com/top-foldable-gift-box-factory-compare/",
+      "http_status": 200,
+      "title": "Top 10 Foldable gift box factory in the World 2025",
+      "href_hits": [
+        "https://www.mugepackaging.com/product/folding-gift-boxes-wholesale/"
+      ],
+      "has_brand": true,
+      "has_domain": true,
+      "verification": "HTTP 200 and page contains a direct href to mugepackaging.com."
+    },
+    {
+      "platform": "Siteprice",
+      "type": "aggregated competitor/domain page",
+      "url": "https://www.siteprice.org/competitors/mugepackaging.com",
+      "http_status": 200,
+      "title": "mugepackaging.com competitors - Top similar sites like 20 mugepackaging.com and alternatives",
+      "href_hits": [
+        "https://www.mugepackaging.com"
+      ],
+      "has_brand": true,
+      "has_domain": true,
+      "verification": "HTTP 200 and page contains a direct href to mugepackaging.com."
+    }
+  ],
+  "public_entity_signals_without_confirmed_direct_link": [
+    {
+      "platform": "Mercatora",
+      "url": "https://www.mercatora.com/companies/shenzhen-muge-design-packaging-product-co-ltd-3a52f2",
+      "http_status": 200,
+      "title": "Shenzhen Muge Design Packaging Product Co., Ltd. — verified supplier — Mercatora",
+      "verification": "HTTP 200 and public entity signal found, but no direct official website href confirmed in this run."
+    }
+  ],
+  "blocked_or_not_public": [
+    {
+      "platform": "Global Site Directory",
+      "url": "https://gsdirectory.org/search/?q=mugepackaging",
+      "http_status": 404,
+      "title": "404: This page could not be found.",
+      "status": "not counted as public result"
+    }
+  ],
+  "submission_attempts": [
+    {
+      "platform": "Global Site Directory",
+      "endpoint": "https://gsdirectory.org/api/submit",
+      "safe_to_attempt_reason": "public form had no login, no payment, no captcha; phone/city/state optional; submitted only safe public company fields",
+      "submitted_fields": {
+        "name": "MUGE PACKAGING",
+        "website": "https://mugepackaging.com",
+        "category": "Printing Services",
+        "phone": "",
+        "city": "",
+        "state": "",
+        "description": "Safe public custom packaging supplier description; no restricted claims."
+      },
+      "response_headers_excerpt": "HTTP/2 308 \ncache-control: public, max-age=0, must-revalidate\ncontent-type: text/plain\ndate: Mon, 01 Jun 2026 06:18:46 GMT\nlocation: /api/submit/\nrefresh: 0;url=/api/submit/\nserver: Vercel\nstrict-transport-security: max-age=63072000\nx-vercel-id: hkg1::frq6t-1780294726341-0ad8f5bcd46e\n\nHTTP/2 200 \ncache-control: public, max-age=0, must-revalidate\ncontent-type: application/json\ndate: Mon, 01 Jun 2026 06:18:48 GMT\nserver: Vercel\nstrict-transport-security: max-age=63072000\nvary: RSC, Next-Router-State-Tree, Next-Router-Prefetch\nx-matched-path: /api/submit\nx-vercel-cache: MISS\nx-vercel-id: hkg1::iad1::wmjf8-1780294726406-7d1218f538cf\n\n",
+      "response_body": {
+        "success": true,
+        "message": "Your submission has been received and is under review.",
+        "status": "rejected"
+      },
+      "result_classification": "attempted_not_public_conflicting_status",
+      "public_url": null,
+      "next_action": "Recheck https://gsdirectory.org/search/?q=mugepackaging and category pages later; do not count until public URL appears."
+    }
+  ],
+  "claim_boundary": [
+    "no payment",
+    "no unsupported Verified Supplier/customer/capacity/MOQ/lead time/lowest price/FSC/FDA/food-contact claims",
+    "no automated private messages/comments/mass posting",
+    "do not modify /Users/molice/muge-modern-design",
+    "do not modify ai-citation-index.*"
+  ]
+}
