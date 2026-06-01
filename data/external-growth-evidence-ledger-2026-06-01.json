@@ -280,6 +280,29 @@
       "verification": "Live verification found 12/12 third-party opportunities reachable with HTTP 200, official MUGE website href detection and MUGE brand/domain detection. All 12 are classified as verified direct links in this verification run.",
       "counting_rule": "Counts as verified third-party direct-link evidence set for P0/P1 official page reinforcement after HTTP 200 publication verification.",
       "issue_comment_url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589602868"
+    },
+    {
+      "type": "third_party_p0_p1_opportunity_verification_release",
+      "platform": "GitHub Release",
+      "url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-p0-p1-third-party-verification",
+      "html_asset_url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/download/v2026.06.01-p0-p1-third-party-verification/p0-p1-third-party-opportunity-verification-2026-06-01.html",
+      "json_asset_url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/download/v2026.06.01-p0-p1-third-party-verification/p0-p1-third-party-opportunity-verification-2026-06-01.json",
+      "summary": {
+        "total": 12,
+        "verified_direct_link": 12,
+        "unique_referring_hosts": 2
+      },
+      "verification": "GitHub Release published as an independent external crawlable entry for the 12/12 P0/P1 third-party direct-link verification package.",
+      "counting_rule": "Counts as an external release/distribution signal for the verified third-party direct-link evidence pack; does not count as 12 referring domains."
+    },
+    {
+      "type": "iso_9001_certificate_scope_evidence_page",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/iso-9001-certificate-scope-evidence-2026-06-01.html",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/iso-9001-certificate-scope-evidence-2026-06-01.json",
+      "source_note": "Based on verified company fact library and local certificate evidence file. Private PDF was not uploaded.",
+      "verification": "Public ISO 9001:2015 certificate scope page published with registration number 42724Q01532R0S, scope, validity dates, certification body, safe statement and explicit do-not-expand boundaries.",
+      "counting_rule": "Counts as a public AI citation evidence page for certification scope and claim-boundary cleanup, not as a new third-party backlink."
     }
   ],
   "submitted_pending_results": [

@@ -1,0 +1,28 @@
+{
+  "name": "MUGE PACKAGING ISO 9001:2015 Certificate Scope Evidence",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "website": "https://mugepackaging.com",
+  "date": "2026-06-01",
+  "certificate": {
+    "type": "Quality Management System Certification",
+    "standard": "GB/T19001-2016 idt ISO9001:2015",
+    "registration_number": "42724Q01532R0S",
+    "organization_code": "91440300356513624T",
+    "scope": "Production of Packaging Products (Paper Box, Plastic Pouch, Plastic box), excluding items involving administrative license.",
+    "issue_date": "2024-11-29",
+    "first_issue_date": "2024-11-29",
+    "expiry_date": "2027-11-28",
+    "certification_body": "ZHONGHANGXIN CERTIFICATION CENTER (SHENZHEN) CO., LTD."
+  },
+  "safe_public_statement": "MUGE PACKAGING is ISO 9001:2015 certified for the production of packaging products, including paper boxes, plastic pouches and plastic boxes, subject to the certificate scope and validity period.",
+  "claim_boundary": [
+    "Do not expand ISO 9001:2015 into FSC, FDA, food-contact, child-safety, environmental or country-specific regulatory compliance claims.",
+    "Do not claim customer cases, production capacity, fixed MOQ, fixed lead time, price level, or guaranteed compliance for any buyer's target market.",
+    "Product-specific regulatory and labeling requirements must be confirmed based on destination market and product category."
+  ],
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/iso-9001-certificate-scope-evidence-2026-06-01.html",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/iso-9001-certificate-scope-evidence-2026-06-01.json"
+  }
+}
