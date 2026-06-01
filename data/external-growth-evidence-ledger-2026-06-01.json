@@ -278,7 +278,8 @@
         "blocked_or_unreachable_recheck_later": 0
       },
       "verification": "Live verification found 12/12 third-party opportunities reachable with HTTP 200, official MUGE website href detection and MUGE brand/domain detection. All 12 are classified as verified direct links in this verification run.",
-      "counting_rule": "Counts as verified third-party direct-link evidence set for P0/P1 official page reinforcement after HTTP 200 publication verification."
+      "counting_rule": "Counts as verified third-party direct-link evidence set for P0/P1 official page reinforcement after HTTP 200 publication verification.",
+      "issue_comment_url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589602868"
     }
   ],
   "submitted_pending_results": [
