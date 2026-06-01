@@ -584,20 +584,8 @@
     "target_keywords_clicked": 0,
     "target_keyword_audit_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1218_目标关键词排名验收.json"
   },
-  "generatedAt": "2026-06-01T05:52:08.758Z",
+  "generatedAt": "2026-06-01T05:59:01.721Z",
   "entries": [
-    {
-      "timestamp": "2026-06-01T05:47:41.623Z",
-      "category": "pending_directory_publication_recheck",
-      "result": "advanced_verified_external_signal",
-      "checkedUrls": 17,
-      "stablePublicSignals": 3,
-      "verifiedBacklinkSignals": 2,
-      "publicEvidence": [
-        "https://mugepackage-gif.github.io/muge-packaging-resources/pending-directory-publication-recheck-2026-06-01.html",
-        "https://mugepackage-gif.github.io/muge-packaging-resources/data/pending-directory-publication-recheck-2026-06-01.json"
-      ]
-    },
     {
       "timestamp": "2026-06-01T05:48:33.088Z",
       "category": "pending_directory_publication_recheck",
@@ -623,6 +611,20 @@
         "https://mugepackage-gif.github.io/muge-packaging-resources/pending-directory-publication-recheck-2026-06-01.html"
       ],
       "countingNote": "Jayde no-match/search echo excluded; queued/pending/API 200 excluded."
+    },
+    {
+      "timestamp": "2026-06-01T05:59:01.721Z",
+      "category": "independent_third_party_entity_baseline",
+      "result": "advanced_verified_external_baseline",
+      "independentThirdPartyAssets": 164,
+      "independentDirectLinks": 29,
+      "independentMentionOnly": 99,
+      "independentHosts": 74,
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/independent-third-party-entity-baseline-2026-06-01.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/independent-third-party-entity-baseline-2026-06-01.json"
+      ],
+      "countingNote": "Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Workers, Weebly and official mugepackaging.com URLs. verified_link means independent public page with direct website link; verified_mention means independent public brand/entity mention only."
     }
   ]
 }

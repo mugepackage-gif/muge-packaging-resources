@@ -1,0 +1,1093 @@
+{
+  "name": "MUGE PACKAGING Independent Third-Party Entity Baseline 2026-06-01",
+  "generatedAt": "2026-06-01T05:59:01.721Z",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-01_1355_MUGE外部品牌提及复验基线.json",
+  "countingRule": "Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Workers, Weebly and official mugepackaging.com URLs. verified_link means independent public page with direct website link; verified_mention means independent public brand/entity mention only.",
+  "summary": {
+    "sourceRows": 765,
+    "independentThirdPartyAssets": 164,
+    "independentDirectLinks": 29,
+    "independentIndirectLinks": 34,
+    "independentStructuredSameAs": 2,
+    "independentMentionOnly": 99,
+    "independentHosts": 74
+  },
+  "topHosts": [
+    {
+      "host": "sitelike.org",
+      "count": 34
+    },
+    {
+      "host": "siteprice.org",
+      "count": 12
+    },
+    {
+      "host": "made-in-china.com",
+      "count": 11
+    },
+    {
+      "host": "marketreportanalytics.com",
+      "count": 7
+    },
+    {
+      "host": "pdf.marketpublishers.com",
+      "count": 4
+    },
+    {
+      "host": "playervirus18.pythonanywhere.com",
+      "count": 3
+    },
+    {
+      "host": "importgenius.com",
+      "count": 3
+    },
+    {
+      "host": "old.reddit.com",
+      "count": 3
+    },
+    {
+      "host": "storage.googleapis.com",
+      "count": 3
+    },
+    {
+      "host": "hypestat.com",
+      "count": 3
+    },
+    {
+      "host": "dataintelo.com",
+      "count": 2
+    },
+    {
+      "host": "openpr.com",
+      "count": 2
+    },
+    {
+      "host": "reports.valuates.com",
+      "count": 2
+    },
+    {
+      "host": "antech.ru",
+      "count": 2
+    },
+    {
+      "host": "feedingtrends.com",
+      "count": 2
+    },
+    {
+      "host": "finalengineering21.pythonanywhere.com",
+      "count": 2
+    },
+    {
+      "host": "cognitivemarketresearch.com",
+      "count": 2
+    },
+    {
+      "host": "maiaresearch.com",
+      "count": 2
+    },
+    {
+      "host": "archivemarketresearch.com",
+      "count": 2
+    },
+    {
+      "host": "marketresearchreports.com",
+      "count": 2
+    },
+    {
+      "host": "datainsightsmarket.com",
+      "count": 2
+    },
+    {
+      "host": "verifiedmarketreports.com",
+      "count": 2
+    },
+    {
+      "host": "reportsandmarkets.com",
+      "count": 2
+    },
+    {
+      "host": "mercatora.com",
+      "count": 2
+    },
+    {
+      "host": "zearches.com",
+      "count": 2
+    },
+    {
+      "host": "yellowpagesonline.com",
+      "count": 2
+    },
+    {
+      "host": "es.made-in-china.com",
+      "count": 2
+    },
+    {
+      "host": "datamintelligence.com",
+      "count": 1
+    },
+    {
+      "host": "databridgemarketresearch.com",
+      "count": 1
+    },
+    {
+      "host": "futuremarketinsights.com",
+      "count": 1
+    }
+  ],
+  "topDirect": [
+    {
+      "label": "ProvenExpert Muge Packaging public profile",
+      "type": "第三方公司资料页",
+      "url": "https://www.provenexpert.com/en-us/muge-packaging/",
+      "httpStatus": 200,
+      "host": "provenexpert.com",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Muge Packaging、sales@mugepackaging.com 与官网链接；页面旧资料只作实体与外链信号，不引用其 custom labels 定位或未核实内容。"
+    },
+    {
+      "label": "Antech wiki hexagon box MUGE source mention",
+      "type": "行业百科/图片来源页",
+      "url": "https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/",
+      "httpStatus": 200,
+      "host": "antech.ru",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Shenzhen Muge Design Packaging Product Co., Ltd. 与官网来源链接；计入外部实体资产，不作为客户案例或合作背书。"
+    },
+    {
+      "label": "Packaza top magnetic gift box manufacturers list",
+      "type": "行业榜单/供应商列表",
+      "url": "https://packaza.com/blog/top-10-magnetic-gift-box-manufacturer-in-china/",
+      "httpStatus": 200,
+      "host": "packaza.com",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 MUGE Packaging 与官网链接；只作第三方品牌提及和官网链接信号，不引用未核实排名、地点或邮箱信息。"
+    },
+    {
+      "label": "DataInsightsMarket hazardous chemicals packaging report",
+      "type": "市场报告",
+      "url": "https://www.datainsightsmarket.com/reports/hazardous-chemicals-packaging-349270",
+      "httpStatus": 200,
+      "host": "datainsightsmarket.com",
+      "note": "2026-05-30 公开 HTML 检出 Muge Packaging 与官网链接；计入外部实体资产并交叉进入外链基线，不作为 MUGE 危险化学品包装业务、资质或合规承诺引用。"
+    },
+    {
+      "label": "SourcifyChina top foldable gift box factory comparison",
+      "type": "供应商对比页",
+      "url": "https://www.sourcifychina.com/top-foldable-gift-box-factory-compare/",
+      "httpStatus": 200,
+      "host": "sourcifychina.com",
+      "note": "公开页面提及 Muge Packaging 并直接链接 folding gift boxes 页面；页面内部分 MOQ/交期类描述不可直接对外引用。"
+    },
+    {
+      "label": "Siteprice competitors page for mugepackaging.com",
+      "type": "聚合目录页",
+      "url": "https://www.siteprice.org/competitors/mugepackaging.com",
+      "httpStatus": 200,
+      "host": "siteprice.org",
+      "note": "公开页面检出 MUGE 官网 href；同域 nofollow 弱外链，计入外部实体资产和页面级直链。"
+    },
+    {
+      "label": "Siteprice competitors page listing MUGE under marber.net",
+      "type": "聚合目录页",
+      "url": "https://www.siteprice.org/competitors/marber.net",
+      "httpStatus": 200,
+      "host": "siteprice.org",
+      "note": "公开页面列出 MUGE Packaging 和官网链接；同域 nofollow 弱外链，计入外部实体资产和页面级直链。"
+    },
+    {
+      "label": "Siteprice competitors page listing MUGE under packmojo.com",
+      "type": "聚合目录页",
+      "url": "https://www.siteprice.org/competitors/packmojo.com",
+      "httpStatus": 200,
+      "host": "siteprice.org",
+      "note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；同域弱外链，计入外部实体资产并交叉进入外链基线。"
+    },
+    {
+      "label": "Siteprice competitors page listing MUGE under tube-boxes.com",
+      "type": "聚合目录页",
+      "url": "https://www.siteprice.org/competitors/tube-boxes.com",
+      "httpStatus": 200,
+      "host": "siteprice.org",
+      "note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。"
+    },
+    {
+      "label": "Siteprice competitors page listing MUGE under yfpackaging.com",
+      "type": "聚合目录页",
+      "url": "https://www.siteprice.org/competitors/yfpackaging.com",
+      "httpStatus": 200,
+      "host": "siteprice.org",
+      "note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。"
+    },
+    {
+      "label": "Siteprice competitors page listing MUGE under mlcustomgiftbox.com",
+      "type": "聚合目录页",
+      "url": "https://www.siteprice.org/competitors/mlcustomgiftbox.com",
+      "httpStatus": 200,
+      "host": "siteprice.org",
+      "note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。"
+    },
+    {
+      "label": "Siteprice competitors page listing MUGE under boxforgifts.com",
+      "type": "聚合目录页",
+      "url": "https://www.siteprice.org/competitors/boxforgifts.com",
+      "httpStatus": 200,
+      "host": "siteprice.org",
+      "note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。"
+    },
+    {
+      "label": "Siteprice competitors page listing MUGE under copackinc.com",
+      "type": "聚合目录页",
+      "url": "https://www.siteprice.org/competitors/copackinc.com",
+      "httpStatus": 200,
+      "host": "siteprice.org",
+      "note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。"
+    },
+    {
+      "label": "Siteprice competitors page listing MUGE under vslpackaging.com",
+      "type": "聚合目录页",
+      "url": "https://www.siteprice.org/competitors/vslpackaging.com",
+      "httpStatus": 200,
+      "host": "siteprice.org",
+      "note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。"
+    },
+    {
+      "label": "Siteprice competitors page listing MUGE under cloveandtwine.com",
+      "type": "聚合目录页",
+      "url": "https://www.siteprice.org/competitors/cloveandtwine.com",
+      "httpStatus": 200,
+      "host": "siteprice.org",
+      "note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。"
+    },
+    {
+      "label": "Siteprice competitors page listing MUGE under packagingbox.org",
+      "type": "聚合目录页",
+      "url": "https://www.siteprice.org/competitors/packagingbox.org",
+      "httpStatus": 200,
+      "host": "siteprice.org",
+      "note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。"
+    },
+    {
+      "label": "CricketInfo domain list page",
+      "type": "域名列表页",
+      "url": "https://www.cricketinfo.co.in/domain-list-523",
+      "httpStatus": 200,
+      "host": "cricketinfo.co.in",
+      "note": "2026-05-30 单页复验检出 mugepackaging.com 与访问链接；泛域名列表质量低，只作为弱外部实体/直链信号追踪。"
+    },
+    {
+      "label": "Legacy WordPress MUGE shoe packaging article",
+      "type": "历史自建外部内容",
+      "url": "https://mugepackaging.wordpress.com/2021/06/19/imaginative-shoe-packaging-ideas/",
+      "httpStatus": 200,
+      "host": "mugepackaging.wordpress.com",
+      "note": "2026-05-30 单页复验检出 Muge Packaging 与官网链接；只作弱外链和实体资产，不引用旧 FSC/CE 或旧分类话术。"
+    },
+    {
+      "label": "OMMMM MUGE public profile",
+      "type": "社区资料页",
+      "url": "https://ommmm.com/users/mugepackaging/",
+      "httpStatus": 200,
+      "host": "ommmm.com",
+      "note": "公开资料页已检出官网 href，属于弱质量 nofollow direct backlink，也计入外部实体资产。"
+    },
+    {
+      "label": "Zearches Business & Company Sites directory page",
+      "type": "公开目录页",
+      "url": "https://zearches.com/directory.php?slug=business-company",
+      "httpStatus": 200,
+      "host": "zearches.com",
+      "note": "2026-05-29 低风险公开目录提交成功，页面已公开显示 MUGE PACKAGING 与官网 href；计入弱质量 direct backlink 与外部实体资产。"
+    },
+    {
+      "label": "Old Reddit MUGE historical post direct URL",
+      "type": "历史社媒帖",
+      "url": "https://old.reddit.com/user/mugepackaging1/comments/ookn5u/custom_boxes_wholesale/",
+      "httpStatus": 200,
+      "host": "old.reddit.com",
+      "note": "旧 Reddit 页面已检出官网 href，属于弱质量 nofollow direct backlink；旧分类 URL 需持续检查跳转。"
+    },
+    {
+      "label": "Blogspot handkerchief gift box image source page",
+      "type": "图片热链/博客聚合页",
+      "url": "https://new27ledscreen.blogspot.com/2020/11/34-hankercheif-gift-boxes-png.html",
+      "httpStatus": 200,
+      "host": "new27ledscreen.blogspot.com",
+      "note": "公开页面链接 MUGE 旧 WordPress 图片资源；只作为弱质量外部实体/图片热链信号跟踪，并已触发旧资源收敛。"
+    },
+    {
+      "label": "Bizidex MUGE business directory profile",
+      "type": "B2B资料页",
+      "url": "https://bizidex.com/en/muge-packaging-packaging-foam-cushioning-containers-134824",
+      "httpStatus": 200,
+      "host": "bizidex.com",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Muge Packaging、sales@mugepackaging.com 与结构化 url: https://www.mugepackaging.com/；计入 direct link + 外部实体页。页面旧资料需人工认领修正，禁止引用其分类或未核实描述。"
+    },
+    {
+      "label": "CityByApp MUGE local business profile",
+      "type": "本地目录资料页",
+      "url": "https://www.citybyapp.com/china/shenzhen-shi/local-services/muge-packaging-481750",
+      "httpStatus": 200,
+      "host": "citybyapp.com",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Muge Packaging 与官网 href: https://www.mugepackaging.com/；页面 meta robots 为 noindex,nofollow，只计入弱外部实体页和资料一致性资产，不作为强 SEO 外链。"
+    },
+    {
+      "label": "Antech hexagon box wiki source attribution",
+      "type": "行业百科引用页",
+      "url": "https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/",
+      "httpStatus": 200,
+      "host": "antech.ru",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Muge Design、Shenzhen Muge Design 与官网产品页来源 https://www.mugepackaging.com/product/hexagon-corrugated-box-wholesale/；计入第三方内容引用与官网产品页外链，不引用页面未核实商业描述。"
+    },
+    {
+      "label": "YellowPagesOnline MUGE business profile",
+      "type": "B2B资料页",
+      "url": "https://www.yellowpagesonline.com/china/shenzhen-shi/boxes-retail/muge-packaging",
+      "httpStatus": 200,
+      "host": "yellowpagesonline.com",
+      "note": "公开黄页资料页检出 Muge Packaging 与官网 href；可计入 direct backlink，但地址、电话、分类等旧资料需人工认领修正。"
+    },
+    {
+      "label": "Azure Blob gift box with window image source mention",
+      "type": "图片来源聚合页",
+      "url": "https://giofgrzaa.blob.core.windows.net/gift-box-with-window.html",
+      "httpStatus": 200,
+      "host": "giofgrzaa.blob.core.windows.net",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Custom Window Gift Box Muge Packaging、from www.mugepackaging.com，并含指向官网图片资源的 href；计入品牌实体提及，外链脚本单独按弱图片直链跟踪。"
+    },
+    {
+      "label": "ScamAdviser MUGE website check page",
+      "type": "域名声誉/安全检查页",
+      "url": "https://www.scamadviser.com/check-website/mugepackaging.com",
+      "httpStatus": 200,
+      "host": "scamadviser.com",
+      "note": "2026-05-30 公开页面检出 mugepackaging.com 并含 Visit 官网链接；只计入外部链接与实体资产，不引用其评分或安全结论。"
+    },
+    {
+      "label": "MUGE Zearches Business & Company Sites listing",
+      "type": "第三方免费目录直接外链",
+      "url": "https://zearches.com/directory.php?slug=business-company",
+      "httpStatus": 200,
+      "host": "zearches.com",
+      "note": "2026-06-01 新增 Zearches Business & Company Sites 公开目录收录；页面 HTTP 200，含 MUGE PACKAGING、官网链接 https://mugepackaging.com 和 custom packaging 描述；无付费、无验证码、无账号核心风险。"
+    }
+  ],
+  "topMentions": [
+    {
+      "label": "DataIntelo magnetic closure boxes market report",
+      "type": "市场报告",
+      "url": "https://dataintelo.com/report/magnetic-closure-boxes-market",
+      "httpStatus": 200,
+      "host": "dataintelo.com",
+      "snippet": "and the concentration of major packaging suppliers including Shanghai DE Printed Box and Muge Packaging. E-commerce giants like Alibaba and JD.com have normalized premium packaging standards, influencing consumer brands to upgrade to magnetic closure solutions for diff",
+      "note": "搜索可见并在正文中列出 Muge Packaging，通常无官网外链；计入品牌/实体提及，不计入外链。"
+    },
+    {
+      "label": "DataM Intelligence mobile phone accessories packaging market report",
+      "type": "市场报告",
+      "url": "https://www.datamintelligence.com/research-report/mobile-phone-accessories-packaging-market",
+      "httpStatus": 200,
+      "host": "datamintelligence.com",
+      "snippet": "of the key players contributing to the growth of the market are Sonoco Products Company, Muge Packaging, Smurfit Kappa Group, Dordan Manufacturing Co., Panic Plastics, Inc., The Packaging Pro, Display Pack, Inc, Dongguan Zhongyin Paper Co., Ltd., Jiajiexing Group Compa",
+      "note": "正文将 Muge Packaging 列为 key player；无官网外链时计入品牌/实体提及，不计入外链。"
+    },
+    {
+      "label": "OpenPR mobile phone accessories packaging press release",
+      "type": "新闻稿/市场报告转载",
+      "url": "https://www.openpr.com/news/3629528/mobile-phone-accessories-packaging-industry-to-witness-massive",
+      "httpStatus": 200,
+      "host": "openpr.com",
+      "snippet": "ories Packaging Industry to Witness Massive Growth (2024-2031) | Sonoco Products Company, Muge Packaging, Smurfit Kappa Group, Dordan Manufacturing Co - published on openPR.com\"> <meta name=\"keywords\" content=\"presses release,news release,public relations,media releas",
+      "note": "公开新闻稿标题和正文检出 Muge Packaging，主题为 mobile phone accessories packaging；只计产品相关外部实体提及，不引用增长率、收入、份额或未核实公司数据。"
+    },
+    {
+      "label": "Data Bridge mobile phone accessories packaging market report",
+      "type": "市场报告",
+      "url": "https://www.databridgemarketresearch.com/reports/global-mobile-phone-accessories-packaging-market",
+      "httpStatus": 200,
+      "host": "databridgemarketresearch.com",
+      "snippet": "web.open 2026-05-31 lines 135-138: competitive landscape lists Muge Packaging among major players in the Mobile Phone Accessories Packaging Market.",
+      "note": "web.open 可公开读取并检出 Muge Packaging，主题为 mobile phone accessories packaging；只计产品相关外部实体提及，不引用市场规模、份额、增长率、产能或未核实公司数据。"
+    },
+    {
+      "label": "Future Market Insights lift-off lid box market report",
+      "type": "市场报告",
+      "url": "https://www.futuremarketinsights.com/reports/lift-off-lid-box-market",
+      "httpStatus": 200,
+      "host": "futuremarketinsights.com",
+      "snippet": "o lure a major portion of the end-users and manufacturers. In April 2019, Muge Packaging launched the custom lift-off lid rigid box, which is one of our most featured custom paper box products. How will the Lif",
+      "note": "正文提及 Muge Packaging 与 lift-off lid rigid box；无官网外链时计入品牌/实体提及，不计入外链。"
+    },
+    {
+      "label": "Valuates hazardous chemicals packaging market report",
+      "type": "市场报告",
+      "url": "https://reports.valuates.com/market-reports/QYRE-Auto-0D8516/global-hazardous-chemicals-packaging",
+      "httpStatus": 200,
+      "host": "reports.valuates.com",
+      "snippet": "web.open 2026-05-31 lines 89-103: Featured companies include Time Technoplast, Heritage, Precision IBC, Siam Cement Group, Muge Packaging, Koch Industries, Mondi Group.",
+      "note": "2026-05-31 web.open 可公开读取并检出 Muge Packaging；页面涉及 Hazardous Chemicals Packaging，只作市场报告实体提及，不作为业务范围、认证、合规、营收或销量引用。"
+    },
+    {
+      "label": "Valuates coated paper packaging box market report",
+      "type": "市场报告",
+      "url": "https://reports.valuates.com/market-reports/QYRE-Auto-8Z8354/global-coated-paper-packaging-box",
+      "httpStatus": 200,
+      "host": "reports.valuates.com",
+      "snippet": "web.open 2026-05-31 lines 88-116: Featured companies include Muge Packaging; the report describes the Coated Paper Packaging Box market and major global manufacturers.",
+      "note": "2026-05-31 web.open 可公开读取并检出 Muge Packaging；主题为 Coated Paper Packaging Box，计入产品相关第三方市场报告实体提及，不引用销量、收入、市场份额或未核实公司数据。"
+    },
+    {
+      "label": "MarketReportAnalytics hazardous chemicals packaging regional projections",
+      "type": "市场报告",
+      "url": "https://www.marketreportanalytics.com/reports/hazardous-chemicals-packaging-367440",
+      "httpStatus": 200,
+      "host": "marketreportanalytics.com",
+      "snippet": "2026-05-31 11:32 基线公开复验 HTTP 200，正文/元信息检出 Muge Packaging。",
+      "note": "正文/元信息将 Muge Packaging 列入行业玩家；无官网外链时计入品牌/实体提及，不计入外链。"
+    },
+    {
+      "label": "FeedingTrends coated paper packaging box market mention",
+      "type": "市场报告转载页",
+      "url": "https://feedingtrends.com/coated-paper-packaging-box-market-growth-and-covid-19-impact-analy",
+      "httpStatus": 200,
+      "host": "feedingtrends.com",
+      "snippet": "Cultural Creativity, JK Paper, Shanghai Custom Packaging, The Siam Cement Public Company, Muge Packaging, Koch Industries, Mondi Group The following product types are covered in the report: Glossy Lamination Coated Paper Packaging Box",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Muge Packaging；无官网 href，只作第三方品牌提及信号，不作为业务范围或市场地位承诺。"
+    },
+    {
+      "label": "PythonAnywhere custom shaped packaging image mention",
+      "type": "图片来源聚合页",
+      "url": "https://finalengineering21.pythonanywhere.com/custom-shaped-packaging.html",
+      "httpStatus": 200,
+      "host": "finalengineering21.pythonanywhere.com",
+      "snippet": "91b06cb741d84d188.jpg\" data-lightbox=\"roadtrip\" data-title=\"Custom Shaped Cardboard Boxes Muge Packaging Custom Paper Custom Custom Displays\"> <img class=\"card-img v-image\" src=\"https://i.pinimg.com/736x/56/87/1c/56871c3f65754d691b06cb741d84d188.jpg\" onerror",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Custom Shaped Cardboard Boxes Muge Packaging；无官网 href，只计入弱品牌实体提及。"
+    },
+    {
+      "label": "PythonAnywhere different types packaging boxes image mention",
+      "type": "图片来源聚合页",
+      "url": "https://playervirus18.pythonanywhere.com/different-types-of-packaging-boxes.html",
+      "httpStatus": 200,
+      "host": "playervirus18.pythonanywhere.com",
+      "snippet": "ad049ed8de20eed0f26618e.jpg\" data-lightbox=\"roadtrip\" data-title=\"Partial Cover Rigid Box Muge Packaging Packaging Types Of Packaging Custom Paper\"> <img class=\"card-img v-image\" src=\"https://i.pinimg.com/originals/29/49/7f/29497f933ad049ed8de20eed0f26618e.j",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Partial Cover Rigid Box Muge Packaging；无官网 href，只计入弱品牌实体提及。"
+    },
+    {
+      "label": "MarketReportAnalytics coated paper packaging box report 364977",
+      "type": "市场报告",
+      "url": "https://www.marketreportanalytics.com/reports/coated-paper-packaging-box-364977",
+      "httpStatus": 200,
+      "host": "marketreportanalytics.com",
+      "snippet": "ativity\\\",\\\"JK Paper\\\",\\\"Shanghai Custom Packaging\\\",\\\"The Siam Cement Public Company\\\",\\\"Muge Packaging\\\",\\\"Koch Industries\\\",\\\"Mondi Group\\\"]}},{\\\"@type\\\":\\\"Question\\\",\\\"name\\\":\\\"Is the market size provided in terms of value or volume?\\\",\\\"acceptedAnswer\\\":{\\\"@type\\\":",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Muge Packaging；无官网 href，只计入第三方品牌/实体提及，不引用市场份额或未核实描述。"
+    },
+    {
+      "label": "Credence Research coated paper packaging box market report",
+      "type": "市场报告",
+      "url": "https://www.credenceresearch.com/report/coated-paper-packaging-box-market/",
+      "httpStatus": 200,
+      "host": "credenceresearch.com",
+      "snippet": "2026-05-31 11:32 基线公开复验 HTTP 200，正文检出 Muge Packaging。",
+      "note": "正文将 Muge Packaging 列入 coated paper packaging box 竞争格局；无官网外链时计入品牌/实体提及，不计入外链。"
+    },
+    {
+      "label": "Cognitive Market Research coated paper packaging box market report",
+      "type": "市场报告",
+      "url": "https://www.cognitivemarketresearch.com/coated-paper-packaging-box-market-report",
+      "httpStatus": 200,
+      "host": "cognitivemarketresearch.com",
+      "snippet": "n> Muge Packaging xxxx <i class=\"fa fa-lock",
+      "note": "公开页面将 Muge Packaging 列入 coated paper packaging box 竞争公司；无官网外链时计入品牌/实体提及，不计入外链。"
+    },
+    {
+      "label": "Maia Research coated paper packaging box market report",
+      "type": "市场报告",
+      "url": "https://www.maiaresearch.com/market-report/1875513-Coated-paper-packaging-box-1875513.html",
+      "httpStatus": 200,
+      "host": "maiaresearch.com",
+      "snippet": "Companies Covered Guangzhou Bonroy Cultural Creativity Muge Packaging The Siam Cement Public Company JK Paper Mondi Group Shanghai Forest Packing Shanghai Custom Packaging Koch Industries <",
+      "note": "公开页面将 Muge Packaging 列入 coated paper packaging box 公司资料；无官网外链时计入品牌/实体提及，不计入外链。"
+    },
+    {
+      "label": "Archive Market Research coated paper packaging box report",
+      "type": "市场报告",
+      "url": "https://www.archivemarketresearch.com/reports/coated-paper-packaging-box-854631",
+      "httpStatus": 200,
+      "host": "archivemarketresearch.com",
+      "snippet": "from raw materials to converted packaging.\\u003c/li\\u003e\\u003cli\\u003e\\u003cstrong\\u003eMuge Packaging\\u003c/strong\\u003e: A regional player, potentially focused on specific industry verticals or geographic markets, optimizing localized supply chains for efficiency.\\u",
+      "note": "公开页面可检出 Muge Packaging；无官网外链时计入品牌/实体提及，不计入外链。"
+    },
+    {
+      "label": "Archive Market Research coated paper packaging box report 105928",
+      "type": "市场报告",
+      "url": "https://www.archivemarketresearch.com/reports/coated-paper-packaging-box-105928",
+      "httpStatus": 200,
+      "host": "archivemarketresearch.com",
+      "snippet": "com/\\\\\\\"\\u003eThe Siam Cement Public Company\\u003c/a\\u003e\\u003c/li\\u003e\\\\n\\u003cli\\u003eMuge Packaging\\u003c/li\\u003e\\\\n\\u003cli\\u003e\\u003ca rel=\\\\\\\"nofollow\\\\\\\" target=\\\\\\\"_blank\\\\\\\" href=\\\\\\\"https://www.kochind.com/\\\\\\\"\\u003eKoch Industries\\u003c/a\\u003e\\u003c/li\\u",
+      "note": "2026-05-30 公开 HTML 检出 Muge Packaging；无官网链接，只计入品牌/实体提及，不作为外链、客户案例、资质或业务范围承诺。"
+    },
+    {
+      "label": "openPR hazardous chemicals packaging market news mention",
+      "type": "新闻稿聚合页",
+      "url": "https://www.openpr.com/news/2743885/hazardous-chemicals-packaging-market-witness-an-outstanding",
+      "httpStatus": 200,
+      "host": "openpr.com",
+      "snippet": "Packaging Market Witness an Outstanding Growth and Strong Revenue and Forecast to 2032 | Muge Packaging, Koch Industries, Mondi Group - published on openPR.com\"> <meta name=\"keywords\" content=\"presses release,news release,public relations,media release,pressreleases,",
+      "note": "公开新闻页标题/正文提及 Muge Packaging；无官网外链时计入品牌/实体提及，不计入外链。"
+    },
+    {
+      "label": "MarketReportAnalytics hazardous chemicals packaging expansion strategies",
+      "type": "市场报告",
+      "url": "https://www.marketreportanalytics.com/reports/hazardous-chemicals-packaging-358821",
+      "httpStatus": 200,
+      "host": "marketreportanalytics.com",
+      "snippet": "ing, sustainable packaging, Time Technoplast, Heritage, Precision IBC, Siam Cement Group, Muge Packaging, Koch Industries, Mondi Group, market size, market growth, CAGR, market analysis, industry trends.\"/> <link rel=\"canonica",
+      "note": "正文/元信息将 Muge Packaging 列入行业玩家；无官网外链时计入品牌/实体提及，不计入外链。"
+    },
+    {
+      "label": "MarketResearchReports hazardous chemicals packaging growth report",
+      "type": "市场报告",
+      "url": "https://www.marketresearchreports.com/lpi/global-hazardous-chemicals-packaging-market-growth-2024-2030",
+      "httpStatus": 200,
+      "host": "marketresearchreports.com",
+      "snippet": "enetration. Time Technoplast Heritage Precision IBC Siam Cement Group Muge Packaging Koch Industries Mondi Group Key Questions Addressed in this Report What is the 10-year outlook for the global Hazardous Chemicals Packaging market?",
+      "note": "2026-05-30 单页复验检出 Muge Packaging；涉及危险化学品包装报告，只作第三方品牌提及信号，不作为 MUGE 资质、业务范围或合规承诺引用。"
+    },
+    {
+      "label": "DataIntelo L type paper edge protectors market report",
+      "type": "市场报告",
+      "url": "https://dataintelo.com/report/global-l-type-paper-edge-protectors-market",
+      "httpStatus": 200,
+      "host": "dataintelo.com",
+      "snippet": "ancheng Packaging, Kunshan Hengtai Packing Material Co., Ltd., Litco International, Inc., Muge Packaging, and Pacific Paper Tube, Inc.",
+      "note": "2026-05-30 公开 HTML 检出 Muge Packaging；无官网链接，只计入品牌/实体提及，不作为产品范围或客户案例引用。"
+    },
+    {
+      "label": "MarketPublishers hazardous chemicals packaging HTML report 2024",
+      "type": "市场报告",
+      "url": "https://marketpublishers.com/report/industry/other_industries/global-hazardous-chemicals-packaging-market-research-report-2024status-n-outlook.html",
+      "httpStatus": 200,
+      "host": "marketpublishers.com",
+      "snippet": "strong> Time Technoplast Heritage Precision IBC Siam Cement Group Muge Packaging Koch Industries Mondi Group Market Segmentation (by Type) Metal Hazardous Chemicals Packaging Plastic Hazardous Chemica",
+      "note": "2026-05-30 公开 HTML 检出 Muge Packaging；涉及危险化学品包装报告，只作第三方品牌提及信号，不作为 MUGE 资质、业务范围或合规承诺引用。"
+    },
+    {
+      "label": "Maia Research hazardous chemicals packaging market report",
+      "type": "市场报告",
+      "url": "https://www.maiaresearch.com/market-report/1638293-Packaging-of-hazardous-chemicals-1638293.html",
+      "httpStatus": 200,
+      "host": "maiaresearch.com",
+      "snippet": "Time Technoplast Heritage Precision IBC Siam Cement Group Muge Packaging Koch Industries Mondi Group Segment markets are listed below: Major Types Covered</stron",
+      "note": "2026-05-30 公开 HTML 检出 Muge Packaging；涉及危险化学品包装报告，只作第三方品牌提及信号，不作为 MUGE 资质、业务范围或合规承诺引用。"
+    },
+    {
+      "label": "Cognitive Market Research hazardous chemicals packaging market report",
+      "type": "市场报告",
+      "url": "https://www.cognitivemarketresearch.com/hazardous-chemicals-packaging-market-report",
+      "httpStatus": 200,
+      "host": "cognitivemarketresearch.com",
+      "snippet": "n> Muge Packaging xxxx <i class=\"fa fa-lock",
+      "note": "2026-05-30 公开 HTML 检出 Muge Packaging；涉及危险化学品包装报告，只作第三方品牌提及信号，不作为 MUGE 资质、业务范围或合规承诺引用。"
+    },
+    {
+      "label": "MarketReportAnalytics hazardous chemicals packaging report 364988",
+      "type": "市场报告",
+      "url": "https://www.marketreportanalytics.com/reports/hazardous-chemicals-packaging-364988",
+      "httpStatus": 200,
+      "host": "marketreportanalytics.com",
+      "snippet": "ements. Key players such as Time Technoplast, Heritage, Precision IBC, Siam Cement Group, Muge Packaging, Koch Industries, and Mondi Group are actively investing in research and development, expanding their production capacities, and forging strategic partnerships to ca",
+      "note": "2026-05-30 公开 HTML 检出 Muge Packaging；涉及危险化学品包装报告，只作第三方品牌提及信号，不作为 MUGE 资质、业务范围或合规承诺引用。"
+    },
+    {
+      "label": "Verified Market Reports hazardous chemicals packaging market report",
+      "type": "市场报告",
+      "url": "https://www.verifiedmarketreports.com/product/hazardous-chemicals-packaging-market/",
+      "httpStatus": 200,
+      "host": "verifiedmarketreports.com",
+      "snippet": "g Players in the market are Time Technoplast, Heritage, Precision IBC, Siam Cement Group, Muge Packaging, Koch Industries, Mondi Group\" } }, { \"@type\": \"Question\", \"name\": \"Which segments are covered in the report of Hazardous Chemicals",
+      "note": "2026-05-30 公开 HTML/FAQ schema 检出 Muge Packaging；涉及危险化学品包装报告，只作第三方品牌提及信号，不作为 MUGE 资质、业务范围或合规承诺引用。"
+    },
+    {
+      "label": "Verified Market Reports coated paper packaging box market report",
+      "type": "市场报告",
+      "url": "https://www.verifiedmarketreports.com/product/coated-paper-packaging-box-market/",
+      "httpStatus": 200,
+      "host": "verifiedmarketreports.com",
+      "snippet": "2026-05-31 11:32 基线公开复验 HTTP 200，检出 Muge Packaging；后续批量复验偶发 timeout。",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Muge Packaging；无官网 href，只计入第三方品牌/实体提及，不引用市场份额、收入或未核实公司数据。"
+    },
+    {
+      "label": "MarketResearchForecast coated paper packaging box report",
+      "type": "市场报告",
+      "url": "https://www.marketresearchforecast.com/reports/coated-paper-packaging-box-113086",
+      "httpStatus": 200,
+      "host": "marketresearchforecast.com",
+      "snippet": "Cultural Creativity, JK Paper, Shanghai Custom Packaging, The Siam Cement Public Company, Muge Packaging, Koch Industries, Mondi Group\\\"}}]}\"]) self.__next_f.push([1,\"{\\\"@context\\\":\\\"https://schema.org\\\"",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Muge Packaging；无官网 href，只计入第三方品牌/实体提及，不引用市场份额、收入或未核实公司数据。"
+    },
+    {
+      "label": "DataInsightsReports coated paper packaging box report",
+      "type": "市场报告",
+      "url": "https://www.datainsightsreports.com/reports/coated-paper-packaging-box-568132",
+      "httpStatus": 200,
+      "host": "datainsightsreports.com",
+      "snippet": "nt market leverage and raw material access.\\u003c/li\\u003e\\u003cli\\u003e\\u003cstrong\\u003eMuge Packaging\\u003c/strong\\u003e: Focuses on innovation in barrier coatings and eco-friendly substrates, addressing the growing demand for sustainable and high-performance packagi",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Muge Packaging；无官网 href，只计入第三方品牌/实体提及，不引用市场份额、收入或未核实公司数据。"
+    },
+    {
+      "label": "Industry Growth Insights coated paper packaging box report",
+      "type": "市场报告",
+      "url": "https://industrygrowthinsights.com/report/global-coated-paper-packaging-box-market/",
+      "httpStatus": 200,
+      "host": "industrygrowthinsights.com",
+      "snippet": "Cultural Creativity, JK Paper, Shanghai Custom Packaging, The Siam Cement Public Company, Muge Packaging, Koch Industries, Mondi Group &rdquo;. <a href=\"https://industrygrowthinsights.com/request-sample/?reportId=366670",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Muge Packaging；无官网 href，只计入第三方品牌/实体提及，不引用市场份额、收入或未核实公司数据。"
+    },
+    {
+      "label": "ReportsAndMarkets coated paper packaging box report 4512898",
+      "type": "市场报告",
+      "url": "https://www.reportsandmarkets.com/reports/global-coated-paper-packaging-box-market-4512898",
+      "httpStatus": 200,
+      "host": "reportsandmarkets.com",
+      "snippet": "web.open 2026-05-31 lines 101-110: Major players covered includes Muge Packaging in the Coated Paper Packaging Box report.",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Muge Packaging；无官网 href，只计入第三方品牌/实体提及，不引用市场份额、销售、收入或未核实公司数据。"
+    },
+    {
+      "label": "DataInsightsMarket coated paper packaging box report",
+      "type": "市场报告",
+      "url": "https://www.datainsightsmarket.com/reports/coated-paper-packaging-box-349294",
+      "httpStatus": 200,
+      "host": "datainsightsmarket.com",
+      "snippet": "d solutions, driven by innovation and sustainability efforts.\\u003c/li\\u003e\\u003cli\\u003eMuge Packaging: A manufacturer recognized for its capabilities in producing high-quality coated paper packaging boxes, catering to sectors demanding superior printability and struc",
+      "note": "2026-05-30 公开 HTML 检出 Muge Packaging；无官网链接，只计入品牌/实体提及，不作为客户案例、产能、资质或产品质量承诺引用。"
+    },
+    {
+      "label": "MarketPublishers coated paper packaging box PDF report 2020",
+      "type": "市场报告PDF",
+      "url": "https://pdf.marketpublishers.com/bisreport/global-coated-paper-packaging-box-market-report-2020.pdf",
+      "httpStatus": 200,
+      "host": "pdf.marketpublishers.com",
+      "snippet": "Box Market Report 2020 JK Paper Shanghai Custom Packaging The Siam Cement Public Company Muge Packaging Koch Industries Mondi Group Section 4: 900 USDRegion Segmentation North America Country (United States, Canada) South America Asia Country (China, Japan, India, Ko",
+      "note": "2026-05-29 搜索发现并下载复核，PDF 正文检出 Muge Packaging；无官网 href，只计入品牌/实体提及。"
+    },
+    {
+      "label": "MarketPublishers coated paper packaging box PDF status report 2021",
+      "type": "市场报告PDF",
+      "url": "https://pdf.marketpublishers.com/bisreport/global-coated-paper-packaging-box-market-status-trends-n-covid-19-impact-report-2021.pdf",
+      "httpStatus": 200,
+      "host": "pdf.marketpublishers.com",
+      "snippet": "roy Cultural Creativity JK Paper Shanghai Custom Packaging The Siam Cement Public Company Muge Packaging Koch Industries Mondi Group Section 4: 900 USDRegion Segment North America (United States, Canada, Mexico) South America (Brazil, Argentina, Other) Asia Pacific (C",
+      "note": "2026-05-29 搜索发现并下载复核，PDF 正文检出 Muge Packaging；无官网 href，只计入品牌/实体提及。"
+    },
+    {
+      "label": "MarketPublishers hazardous chemicals packaging PDF status report 2021",
+      "type": "市场报告PDF",
+      "url": "https://pdf.marketpublishers.com/bisreport/global-hazardous-chemicals-packaging-market-status-trends-n-covid-19-impact-report-2021.pdf",
+      "httpStatus": 200,
+      "host": "pdf.marketpublishers.com",
+      "snippet": ": 1200 USDManufacturer Detail Time Technoplast Heritage Precision IBC Siam Cement Group Muge Packaging Koch Industries Mondi Group ... Section 4: 900 USDRegion Segment North America (United States, Canada, Mexico) South America (Brazil, Argentina, Other) Asia Pacifi",
+      "note": "2026-05-29 搜索发现并下载复核，PDF 正文检出 Muge Packaging；涉及危险化学品包装报告，不作为 MUGE 资质或业务承诺引用。"
+    },
+    {
+      "label": "MarketPublishers hazardous chemicals packaging PDF research report 2025",
+      "type": "市场报告PDF",
+      "url": "https://pdf.marketpublishers.com/bosson_research/global-hazardous-chemicals-packaging-market-research-report-2024status-n-outlook.pdf",
+      "httpStatus": 200,
+      "host": "pdf.marketpublishers.com",
+      "snippet": "se customer groups. Key Company Time Technoplast Heritage Precision IBC Siam Cement Group Muge Packaging Koch Industries Mondi Group Market Segmentation (by Type) Metal Hazardous Chemicals Packaging Plastic Hazardous Chemicals Packaging +357 96 030922 info@marketpublish",
+      "note": "2026-05-29 搜索发现并下载复核，PDF 正文多处检出 Muge Packaging；涉及危险化学品包装报告，不作为 MUGE 资质或业务承诺引用。"
+    },
+    {
+      "label": "Mercatora homepage verified suppliers section",
+      "type": "B2B平台首页",
+      "url": "https://www.mercatora.com/",
+      "httpStatus": 200,
+      "host": "mercatora.com",
+      "snippet": "nfo-fg)] \">Verified Shenzhen Muge Design Packaging Product Co., Ltd. Packaging · Shenzhen, <",
+      "note": "首页公开展示 Shenzhen Muge Design Packaging Product Co., Ltd.，但不一定公开官网字段。"
+    },
+    {
+      "label": "Mercatora MUGE company profile",
+      "type": "B2B资料页",
+      "url": "https://www.mercatora.com/companies/shenzhen-muge-design-packaging-product-co-ltd-3a52f2",
+      "httpStatus": 200,
+      "host": "mercatora.com",
+      "snippet": "static/chunks/app/companies/%5Bslug%5D/page-cb082d226eac9bf0.js\" async=\"\"> Shenzhen Muge Design Packaging Product Co., Ltd. — verified supplier — Mercatora <meta name=\"description\" content=\"Custom paper boxes; rigid gift boxes; paper tube packaging",
+      "note": "公开资料页可作为实体页；若官网字段未公开，只计入品牌提及。"
+    },
+    {
+      "label": "ImportGenius shipment mention",
+      "type": "贸易数据页",
+      "url": "https://www.importgenius.com/suppliers/shenzhen-muge-design-packaging-prod",
+      "httpStatus": 200,
+      "host": "importgenius.com",
+      "snippet": "=\"en-US\" data-n-head=\"%7B%22lang%22:%7B%22ssr%22:%22en-US%22%7D%7D\"> Shenzhen Muge Design Packaging Prod | See Recent Shipments | ImportGenius <meta d",
+      "note": "可作为贸易/实体存在信号；无官网外链时不计入外链。"
+    },
+    {
+      "label": "ImportGenius importer page referencing MUGE supplier",
+      "type": "贸易数据页",
+      "url": "https://www.importgenius.com/importers/it-s-beruche-vehatzluche-inc",
+      "httpStatus": 200,
+      "host": "importgenius.com",
+      "snippet": "#729DFF;\"> SHENZHEN MUGE DESIGN PACKAGING PROD Top Ports <div class=\"pie-chart",
+      "note": "进口商页面公开将 SHENZHEN MUGE DESIGN PACKAGING PROD 列为交易伙伴；无官网外链时不计入外链。"
+    },
+    {
+      "label": "Old Reddit paper tube box MUGE historical post",
+      "type": "历史社媒帖",
+      "url": "https://old.reddit.com/r/u_mugepackagingg/comments/mrzy2m",
+      "httpStatus": 200,
+      "host": "old.reddit.com",
+      "snippet": "2026-05-31 11:32 基线公开复验 HTTP 200，检出 Muge Packaging；后续批量复验偶发 timeout。",
+      "note": "公开旧 Reddit 页面可检出 Muge Packaging；未检出官网 href 时只计入品牌实体提及，不冒充 direct backlink。"
+    },
+    {
+      "label": "Old Reddit custom shipping boxes MUGE historical post",
+      "type": "历史社媒帖",
+      "url": "https://old.reddit.com/r/u_mugepackagingc/comments/mkhn9m",
+      "httpStatus": 200,
+      "host": "old.reddit.com",
+      "snippet": "ttp://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"> Custom Shipping Boxes - Muge Packaging : u/mugepackagingc <meta name=\"description\" content=\"Muge Packaging provides the",
+      "note": "公开旧 Reddit 页面可检出 Muge Packaging；未检出官网 href 时只计入品牌实体提及，不冒充 direct backlink。"
+    },
+    {
+      "label": "SlideServe presentation mention",
+      "type": "演示文稿页",
+      "url": "https://www.slideserve.com/aspire27/premium-custom-rigid-apparel-boxes-for-elevated-brand-presentation",
+      "httpStatus": 200,
+      "host": "slideserve.com",
+      "snippet": "web.search 2026-05-31 result snippet: Presentation Transcript includes 'Custom Apparel Boxes Online | Muge Packaging'.",
+      "note": "搜索结果可见 Muge Packaging，但当前可能 403，只有可访问并检出才计入。"
+    },
+    {
+      "label": "Blogspot vape cartridge box mockup source mention",
+      "type": "图片来源聚合页",
+      "url": "https://open-animate-mockup.blogspot.com/2021/05/120-vape-cartridge-box-mockup-photoshop.html",
+      "httpStatus": 200,
+      "host": "open-animate-mockup.blogspot.com",
+      "snippet": "amazing artworks. Custom Vape Cartridge Boxes | Muge Packaging Yellowimages <img alt=\"Downl",
+      "note": "2026-05-30 单页复验返回 200，公开页面检出 Custom Vape Cartridge Boxes | Muge Packaging 与 mugepackaging.com；未检出传统 href 外链，只计入弱品牌实体提及。"
+    },
+    {
+      "label": "PythonAnywhere custom foil packaging source mention",
+      "type": "图片来源聚合页",
+      "url": "https://playervirus18.pythonanywhere.com/custom-foil-packaging.html",
+      "httpStatus": 200,
+      "host": "playervirus18.pythonanywhere.com",
+      "snippet": "89d1a339acc465ef3d00e255.jpg\" data-lightbox=\"roadtrip\" data-title=\"Custom Gold Foil Boxes Muge Packaging Sweet Box Design Gold Foil Gold Sheets\"> <img class=\"card-img v-image\" src=\"https://i.pinimg.com/736x/e6/aa/9a/e6aa9acb89d1a339acc465ef3d00e255.jpg\" oner",
+      "note": "2026-05-30 单页复验返回 200，公开页面检出 Muge Packaging Sweet Box Design Gold Foil Gold Sheets；未检出官网域名或传统 href，只计入弱品牌实体提及。"
+    },
+    {
+      "label": "YellowPagesOnline China directory listing",
+      "type": "B2B目录列表页",
+      "url": "https://www.yellowpagesonline.com/china",
+      "httpStatus": 200,
+      "host": "yellowpagesonline.com",
+      "snippet": "> <img class=\"search_result_image img-rounded center-block\" alt=\"Muge Pac",
+      "note": "中国黄页列表页公开检出 Muge Packaging 并链接到站内资料页；只计入外部实体提及，不等同官网 direct backlink。"
+    },
+    {
+      "label": "FeedingTrends hazardous chemicals packaging market mention",
+      "type": "市场报告转载页",
+      "url": "https://feedingtrends.com/hazardous-chemicals-packaging-market-share-growth-opportunity",
+      "httpStatus": 200,
+      "host": "feedingtrends.com",
+      "snippet": "ging market include Time Technoplast, Heritage, Precision IBC, Siam Cement Group, Muge Packaging, Koch Industries, Mondi Group. This section consists of a holistic view of the competitive landscape that includes various strategic developments such as ke",
+      "note": "公开页面将 Muge Packaging 列入市场报告主要玩家；涉及危险化学品包装，不作为 MUGE 资质、业务范围或合规承诺引用。"
+    },
+    {
+      "label": "Google Storage clothing packaging image source mention",
+      "type": "图片来源聚合页",
+      "url": "https://storage.googleapis.com/dnugytdegqlsae/clothing-store-packaging.html",
+      "httpStatus": 200,
+      "host": "storage.googleapis.com",
+      "snippet": "side> <img class=\"v-image ads-img lazyload\" alt=\"Custom Clothing Packaging Boxes Muge Packaging\" data-src=\"https://www.mugepackaging.com/wp-content/uploads/2019/04/Custom-Clothing-Packaging-Boxes8.jpg\" src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAA",
+      "note": "公开页面图片 alt 与资源 URL 检出 Muge Packaging / mugepackaging.com；仅作为图片来源/实体提及，不计入 direct backlink。"
+    },
+    {
+      "label": "Google Storage cardboard box printing image source mention",
+      "type": "图片来源聚合页",
+      "url": "https://storage.googleapis.com/dmkuxutmuajvle/cardboard-box-printing.html",
+      "httpStatus": 200,
+      "host": "storage.googleapis.com",
+      "snippet": "aside> <img class=\"v-image ads-img lazyload\" alt=\"Custom Printed Cardboard Boxes Muge Packaging\" data-src=\"https://www.mugepackaging.com/wp-content/uploads/2019/05/Custom-Printed-Cardboard-Boxes8.jpg\" src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAA",
+      "note": "公开页面图片 alt 与资源 URL 检出 Muge Packaging / mugepackaging.com；仅作为图片来源/实体提及，不计入 direct backlink。"
+    },
+    {
+      "label": "Google Storage cup glasses box image source mention",
+      "type": "图片来源聚合页",
+      "url": "https://storage.googleapis.com/dpihiazwstsqwe/cup-glasses-box.html",
+      "httpStatus": 200,
+      "host": "storage.googleapis.com",
+      "snippet": "<img class=\"v-image ads-img lazyload\" alt=\"Custom Luxury Cup Packaging Corrugated Cup Box Muge Packaging\" data-src=\"https://www.mugepackaging.com/wp-content/uploads/2019/03/Custom-Luxury-Cup-Packaging-Corrugated-Cup-Box1.jpg\" src=\"data:image/gif;base64,R0lGODlhAQABAAAAA",
+      "note": "2026-05-31 公开页面 HTTP 200，图片 alt 与 data-src 检出 Custom Luxury Cup Packaging Corrugated Cup Box Muge Packaging / mugepackaging.com；无官网 href，只计入弱品牌实体提及。"
+    },
+    {
+      "label": "Blogspot cardboard food boxes source mention",
+      "type": "图片来源聚合页",
+      "url": "https://homeideasnewest.blogspot.com/2021/06/famous-concept-cardboard-food-home-ideas.html",
+      "httpStatus": 200,
+      "host": "homeideasnewest.blogspot.com",
+      "snippet": "er in , Source : www.packagingbox.org <img alt=\"Wholesale Cardboard Food Boxes Muge Packaging\" src=\"https://www.mugepackaging.com/wp-content/uploads/2019/05/Wholesale-Cardboard-Food-Boxes4.jpg\" title=\"Wholesale Cardboard Food Boxes Muge Packaging\" width=\"640",
+      "note": "搜索可见 MUGE 图片来源；传统外链复验未检出 href，只计入弱品牌实体提及。"
+    },
+    {
+      "label": "GitLab Pages bespoke cardboard packaging image mention",
+      "type": "图片来源聚合页",
+      "url": "https://gatherarmy3.gitlab.io/bespoke-cardboard-packaging.html",
+      "httpStatus": 200,
+      "host": "gatherarmy3.gitlab.io",
+      "snippet": "91b06cb741d84d188.jpg\" data-lightbox=\"roadtrip\" data-title=\"Custom Shaped Cardboard Boxes Muge Packaging Custom Paper Custom Custom Displays\"> <img class=\"card-img v-image\" src=\"https://i.pinimg.com/originals/56/87/1c/56871c3f65754d691b06cb741d84d188.jpg\" one",
+      "note": "公开页面图片标题/alt 可检出 Custom Shaped Cardboard Boxes Muge Packaging；未检出官网 href，只计入弱品牌实体提及。"
+    },
+    {
+      "label": "GitLab Pages custom insulated shipping boxes image mention",
+      "type": "图片来源聚合页",
+      "url": "https://chapterplay1.gitlab.io/custom-insulated-shipping-boxes.html",
+      "httpStatus": 200,
+      "host": "chapterplay1.gitlab.io",
+      "snippet": "2179fb9bba.jpg\" data-lightbox=\"roadtrip\" data-title=\"Corrugated Cardboard Boxes Wholesale Muge Packaging Corrugated Cardboard Boxes Corrugated Cardboard Cardboard Box\"> <img class=\"card-img v-image\" src=\"https://i.pinimg.com/originals/e0/2e/c5/e02ec5f44138a32",
+      "note": "公开页面图片标题/alt 可检出 Corrugated Cardboard Boxes Wholesale Muge Packaging；未检出官网 href，只计入弱品牌实体提及。"
+    },
+    {
+      "label": "PythonAnywhere custom insulated shipping boxes image mention",
+      "type": "图片来源聚合页",
+      "url": "https://leaguecustomer10.pythonanywhere.com/custom-insulated-shipping-boxes.html",
+      "httpStatus": 200,
+      "host": "leaguecustomer10.pythonanywhere.com",
+      "snippet": "> <img class=\"v-image ads-img\" alt=\"corrugated cardboard boxes wholesale muge packaging box biscuit wrapping machine\" title=\"corrugated cardboard boxes wholesale muge packaging box biscuit wrapping machine\" src=\"https://i.pinimg.com/originals/e0/2e/c5/e",
+      "note": "公开页面图片标题/alt 可检出 corrugated cardboard boxes wholesale muge packaging；未检出官网 href，只计入弱品牌实体提及。"
+    },
+    {
+      "label": "PythonAnywhere folding present box MUGE text mention",
+      "type": "图片/文案聚合页",
+      "url": "https://playervirus18.pythonanywhere.com/folding-present-box.html",
+      "httpStatus": 200,
+      "host": "playervirus18.pythonanywhere.com",
+      "snippet": "your folding gift boxes with custom design and logo according to your products needs from Muge Packaging. Folding gift boxes are a type of folding or knockdown carton manufactured from paper or paperboard. <p class=\"p",
+      "note": "2026-05-31 公开页面 HTTP 200，正文检出 Get your folding gift boxes ... from Muge Packaging；未检出官网 href，只计入弱品牌实体提及。"
+    },
+    {
+      "label": "GitLab Pages paper packaging image mention",
+      "type": "图片来源聚合页",
+      "url": "https://lockpractice28.gitlab.io/paper-packaging-for-chips.html",
+      "httpStatus": 200,
+      "host": "lockpractice28.gitlab.io",
+      "snippet": "ate heterogeneous chips but a lot of work is needed to make that happen. Shenzhen Muge Design Packaging Product Co Ltd. <div class=\"col-md-4 mb",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Shenzhen Muge Design Packaging Product Co Ltd；未检出官网 href，只计入弱品牌实体提及。"
+    },
+    {
+      "label": "PythonAnywhere paper carton packaging image mention",
+      "type": "图片来源聚合页",
+      "url": "https://finalengineering21.pythonanywhere.com/paper-carton-packaging.html",
+      "httpStatus": 200,
+      "host": "finalengineering21.pythonanywhere.com",
+      "snippet": "75818f80dce59cfddf49e.jpg\" data-lightbox=\"roadtrip\" data-title=\"Custom Medicine Paper Box Muge Packaging Paper Box Paper Custom Boxes\"> <img class=\"card-img v-image\" src=\"https://i.pinimg.com/736x/ef/22/39/ef2239e21a475818f80dce59cfddf49e.jpg\" onerror=\"this.",
+      "note": "公开页面图片标题/alt 可检出 Custom Medicine Paper Box Muge Packaging；未检出官网 href，只计入弱品牌实体提及。"
+    },
+    {
+      "label": "Blogspot cardboard box inserts source mention",
+      "type": "图片来源聚合页",
+      "url": "https://gbhafhwbrj.blogspot.com/2021/07/cardboard-box-inserts-custom-inserts.html",
+      "httpStatus": 200,
+      "host": "gbhafhwbrj.blogspot.com",
+      "snippet": "<img alt=\"Cardboard Box with Inserts | Muge Packaging\" onerror=\"this.onerror=null;this.src=&#39;https://tse3.mm.bing.net/th?id=OIP.SlsTYYdevwi-hQrj-G2_WgHaHa&amp;pid=Api&#39;;\" src=\"https://www.mugepackaging.com/wp-cont",
+      "note": "搜索可见 MUGE 图片来源；传统外链复验未检出 href，只计入弱品牌实体提及。"
+    },
+    {
+      "label": "Blogspot die cut sticker source mention",
+      "type": "图片来源聚合页",
+      "url": "https://stikerpopuler.blogspot.com/2021/07/ide-istimewa-die-cut-sticker-printing.html",
+      "httpStatus": 200,
+      "host": "stikerpopuler.blogspot.com",
+      "snippet": "cut edges Sumber : stickerprintingshop.com Custom",
+      "note": "公开页面图片标题/alt 与来源文字检出 Custom Die Cut Stickers Muge Packaging；未检出传统官网 href 时只计入品牌/实体提及。"
+    },
+    {
+      "label": "ExportHub possible MUGE legacy profile",
+      "type": "B2B资料页",
+      "url": "https://www.exporthub.com/shenzhen-moge-technology-co-ltd/",
+      "httpStatus": 200,
+      "host": "exporthub.com",
+      "snippet": "Web open 2026-05-31 lines 86 and 154: Shenzhen Muge Design Packaging Product Co., Ltd. and Company Website: https://www.mugepackaging.com/",
+      "note": "公开搜索可见 Company Website 指向 mugepackaging.com，但本地抓取可能 403；只作为人工复核候选，身份需确认后才可外用。"
+    },
+    {
+      "label": "MarketReportAnalytics coated paper packaging box report",
+      "type": "市场报告",
+      "url": "https://www.marketreportanalytics.com/reports/coated-paper-packaging-box-368383",
+      "httpStatus": 200,
+      "host": "marketreportanalytics.com",
+      "snippet": "ativity\\\",\\\"JK Paper\\\",\\\"Shanghai Custom Packaging\\\",\\\"The Siam Cement Public Company\\\",\\\"Muge Packaging\\\",\\\"Koch Industries\\\",\\\"Mondi Group\\\"]}},{\\\"@type\\\":\\\"Question\\\",\\\"name\\\":\\\"What are some drivers contributing to market growth?\\\",\\\"acceptedAnswer\\\":{\\\"@type\\\":\\\"An",
+      "note": "公开 HTML 检出 Muge Packaging，通常无官网链接；计入品牌/实体提及，不计入 direct backlink。"
+    },
+    {
+      "label": "MarketReportAnalytics coated paper packaging box emerging tech report",
+      "type": "市场报告",
+      "url": "https://www.marketreportanalytics.com/reports/coated-paper-packaging-box-358841",
+      "httpStatus": 200,
+      "host": "marketreportanalytics.com",
+      "snippet": "ativity\\\",\\\"JK Paper\\\",\\\"Shanghai Custom Packaging\\\",\\\"The Siam Cement Public Company\\\",\\\"Muge Packaging\\\",\\\"Koch Industries\\\",\\\"Mondi Group\\\"]}},{\\\"@type\\\":\\\"Question\\\",\\\"name\\\":\\\"What is the projected Compound Annual Growth Rate (CAGR) of the Coated Paper Packaging Bo",
+      "note": "2026-05-31 公开 HTML 检出 Muge Packaging，页面含 North America/Europe/Middle East 区域语义；只计产品相关市场报告实体提及，不引用 CAGR、市场规模或未核实数据。"
+    },
+    {
+      "label": "ReportsAndMarkets hazardous chemicals packaging report",
+      "type": "市场报告",
+      "url": "https://www.reportsandmarkets.com/reports/global-hazardous-chemicals-packaging-market-4512919",
+      "httpStatus": 200,
+      "host": "reportsandmarkets.com",
+      "snippet": "2026-05-31 11:32 基线公开复验 HTTP 200，检出 Muge Packaging。",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Muge Packaging；涉及危险化学品包装报告，只作第三方品牌提及信号，不作为 MUGE 资质、业务范围或合规承诺引用。"
+    },
+    {
+      "label": "MarketReportAnalytics coated paper packaging box overview",
+      "type": "市场报告",
+      "url": "https://www.marketreportanalytics.com/reports/coated-paper-packaging-box-367478",
+      "httpStatus": 200,
+      "host": "marketreportanalytics.com",
+      "snippet": "lso held by a fragmented group of medium-sized and smaller enterprises, such as JK Paper, Muge Packaging, and various Chinese manufacturers like Shenzhen Pack Materials, Shanghai Forest Packing, Shenzhen Sheng Bo Da Pack Manufacture, and Guangzhou Bonroy Cultural Creati",
+      "note": "公开 HTML 检出 Muge Packaging，通常无官网链接；计入品牌/实体提及，不计入 direct backlink。"
+    },
+    {
+      "label": "MarketResearchReports coated paper packaging box report 2023",
+      "type": "市场报告",
+      "url": "https://www.marketresearchreports.com/mrrpb5/global-coated-paper-packaging-box-market-research-report-2023",
+      "httpStatus": 200,
+      "host": "marketresearchreports.com",
+      "snippet": "Cultural Creativity, JK Paper, Shanghai Custom Packaging, The Siam Cement Public Company, Muge Packaging and Koch Industries, etc. in 2022, the world's top three vendors accounted for approximately % of the revenue. Report Scope This report aims to provide a compr",
+      "note": "2026-05-30 公开 HTML 检出 Muge Packaging；无官网链接，只计入品牌/实体提及，不作为资质、客户案例或外链引用。"
+    },
+    {
+      "label": "Made-in-China supplier profile company-name variant",
+      "type": "B2B资料页",
+      "url": "https://www.made-in-china.com/showroom/asd1132052327/",
+      "httpStatus": 200,
+      "host": "made-in-china.com",
+      "snippet": "t=\"webkit\" /> Paper Box Manufacturer, Gift Box, Plastic Box Supplier - Shenzhen Muge Design Package Product Co., Ltd <meta name=\"Keywords\" content=\"Shenzhen Muge Design Package Product Co., Ltd, Paper Box, Gift Box Supplier, Plasti",
+      "note": "公开 HTML 检出 Shenzhen Muge Design Package Product Co., Ltd 变体，无官网链接；低优先，只作为需人工确认的实体候选。"
+    },
+    {
+      "label": "Made-in-China Spanish supplier profile company-name variant",
+      "type": "B2B资料页",
+      "url": "https://es.made-in-china.com/co_asd1132052327/",
+      "httpStatus": 200,
+      "host": "es.made-in-china.com",
+      "snippet": "China Caja de papel Fabricante, caja de regalo, Caja de plástico Proveedor - Shenzhen Muge Design Package Product Co., Ltd <meta name=\"Keywords\" content=\"Shenzhen Muge Design Package Product Co., Ltd, Caja de papel, caja de regalo Provee",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Shenzhen Muge Design Package Product Co., Ltd 变体；页面含旧认证/资料字段，只作实体资料页跟踪，不引用未核实资质。"
+    },
+    {
+      "label": "Made-in-China product page - clear hard plastic display packaging box",
+      "type": "B2B产品详情页",
+      "url": "https://www.made-in-china.com/showroom/asd1132052327/product-detailZjnESDHPbJco/China-Custom-Small-Clear-Hard-Plastic-Display-Packaging-Box.html",
+      "httpStatus": 200,
+      "host": "made-in-china.com",
+      "snippet": "Small Product Packaging Box from Custom Small Clear Hard Plastic Display Packaging Box - Shenzhen Muge Design Package Product Co., Ltd\" /> <meta property",
+      "note": "2026-05-31 公开产品页 HTTP 200，meta description 检出 Shenzhen Muge Design Package Product Co., Ltd；无官网链接，只计入产品级实体提及，不引用价格/MOQ/旧资料。"
+    },
+    {
+      "label": "Made-in-China product page - cosmetic pizza packaging box",
+      "type": "B2B产品详情页",
+      "url": "https://www.made-in-china.com/showroom/asd1132052327/product-detailLsJmSyIKXnVW/China-Cosmetic-Cheap-Pizza-Boxes-Hot-Sale-Pizza-Packaging-Box.html",
+      "httpStatus": 200,
+      "host": "made-in-china.com",
+      "snippet": "Custom Printed Pizza Boxes from Cosmetic Cheap Pizza Boxes/Hot Sale Pizza Packaging Box - Shenzhen Muge Design Package Product Co., Ltd\" /> <meta proper",
+      "note": "2026-05-31 公开产品页 HTTP 200，meta description 检出 Shenzhen Muge Design Package Product Co., Ltd；无官网链接，只计入产品级实体提及，不引用价格/MOQ/旧资料。"
+    },
+    {
+      "label": "Made-in-China product page - foldable corrugated paper box",
+      "type": "B2B产品详情页",
+      "url": "https://www.made-in-china.com/showroom/asd1132052327/product-detailbsEQvnHjYmWi/China-Custom-Small-Foldable-Toy-Corrugated-Paper-Box.html",
+      "httpStatus": 200,
+      "host": "made-in-china.com",
+      "snippet": "Paper Box Beautiful and Cheap Boxes from Custom Small Foldable Toy Corrugated Paper Box - Shenzhen Muge Design Package Product Co., Ltd\" /> <meta property=\"og:ty",
+      "note": "2026-05-31 公开产品页 HTTP 200，meta description 检出 Shenzhen Muge Design Package Product Co., Ltd；无官网链接，只计入产品级实体提及，不引用价格/MOQ/旧资料。"
+    },
+    {
+      "label": "Made-in-China product page - beauty makeup box",
+      "type": "B2B产品详情页",
+      "url": "https://www.made-in-china.com/showroom/asd1132052327/product-detailPyQmBjIJvxhr/China-Custom-Personalized-Beauty-Needs-Makeup-Box.html",
+      "httpStatus": 200,
+      "host": "made-in-china.com",
+      "snippet": "bout Cheap Makeup Box Empty Makeup Box from Custom Personalized Beauty Needs Makeup Box - Shenzhen Muge Design Package Product Co., Ltd\" /> <meta property=\"og:type\"",
+      "note": "2026-05-31 公开产品页 HTTP 200，meta description 检出 Shenzhen Muge Design Package Product Co., Ltd；无官网链接，只计入产品级实体提及，不引用价格/MOQ/旧资料。"
+    },
+    {
+      "label": "Made-in-China product page - custom round boxes",
+      "type": "B2B产品详情页",
+      "url": "https://www.made-in-china.com/showroom/asd1132052327/product-detailaymxSwIusEVT/China-2016-Hot-Sale-Custom-Innovative-Design-Round-Boxes.html",
+      "httpStatus": 200,
+      "host": "made-in-china.com",
+      "snippet": "xes Custom Cardboard Gift Boxes from 2016 Hot Sale Custom Innovative Design Round Boxes - Shenzhen Muge Design Package Product Co., Ltd\" /> <meta property=\"o",
+      "note": "2026-05-31 公开产品页 HTTP 200，meta description 检出 Shenzhen Muge Design Package Product Co., Ltd；无官网链接，只计入产品级实体提及，不引用价格/MOQ/旧资料。"
+    },
+    {
+      "label": "Made-in-China product page - corrugated printed cartons",
+      "type": "B2B产品详情页",
+      "url": "https://www.made-in-china.com/showroom/asd1132052327/product-detailRsxmSriHRJkn/China-Customized-Recycled-Corrugated-Printed-Beer-Packaging-Cartons.html",
+      "httpStatus": 200,
+      "host": "made-in-china.com",
+      "snippet": "s 4 Pack Beer Carton from Customized Recycled Corrugated Printed Beer Packaging Cartons - Shenzhen Muge Design Package Product Co., Ltd\" /> <meta",
+      "note": "2026-05-31 公开产品页 HTTP 200，meta description 检出 Shenzhen Muge Design Package Product Co., Ltd；无官网链接，只计入产品级实体提及，不引用价格/MOQ/旧资料。"
+    },
+    {
+      "label": "Made-in-China product page - round cylinder tea gift box",
+      "type": "B2B产品详情页",
+      "url": "https://www.made-in-china.com/showroom/asd1132052327/product-detailZsnxMEICCQWN/China-Customize-Fancy-Round-Cylinder-Tea-Gift-Box.html",
+      "httpStatus": 200,
+      "host": "made-in-china.com",
+      "snippet": "Round Cylinder Gift Box Empty Tea Box from Customize Fancy Round Cylinder Tea Gift Box - Shenzhen Muge Design Package Product Co., Ltd\" /> <meta property=\"og:type\"",
+      "note": "2026-05-31 公开产品页 HTTP 200，meta description 检出 Shenzhen Muge Design Package Product Co., Ltd；无官网链接，只计入产品级实体提及，不引用价格/MOQ/旧资料。"
+    },
+    {
+      "label": "Made-in-China product page - cylindrical display packaging box",
+      "type": "B2B产品详情页",
+      "url": "https://www.made-in-china.com/showroom/asd1132052327/product-detailfNmxbuHrqJVK/China-Customized-Round-Cylindrical-Display-Packaging-Box.html",
+      "httpStatus": 200,
+      "host": "made-in-china.com",
+      "snippet": "ng Box Clear Hard Plastic Boxes from Customized Round Cylindrical Display Packaging Box - Shenzhen Muge Design Package Product Co., Ltd\" /> <meta property=\"o",
+      "note": "2026-05-31 公开产品页 HTTP 200，meta description 检出 Shenzhen Muge Design Package Product Co., Ltd；无官网链接，只计入产品级实体提及，不引用价格/MOQ/旧资料。"
+    },
+    {
+      "label": "Made-in-China product page - printed cardboard boxes",
+      "type": "B2B产品详情页",
+      "url": "https://www.made-in-china.com/showroom/asd1132052327/product-detailVNEnoyIdnmcW/China-Customized-Printed-Food-Packaging-Cardboard-Boxes.html",
+      "httpStatus": 200,
+      "host": "made-in-china.com",
+      "snippet": "Boxes Cardboard Packaging Boxes from Customized Printed Food Packaging Cardboard Boxes - Shenzhen Muge Design Package Product Co., Ltd\" /> <meta property=\"og",
+      "note": "2026-05-31 公开产品页 HTTP 200，meta description 检出 Shenzhen Muge Design Package Product Co., Ltd；标题含 Food Packaging，但无食品接触合规证据，只计入产品级实体提及，不引用价格/MOQ/合规/旧资料。"
+    },
+    {
+      "label": "Made-in-China product page - cardboard gift boxes",
+      "type": "B2B产品详情页",
+      "url": "https://www.made-in-china.com/showroom/asd1132052327/product-detailAsJxenlumEcz/China-2016-Custom-Cardboard-Beautiful-and-Cheap-Gift-Boxes.html",
+      "httpStatus": 200,
+      "host": "made-in-china.com",
+      "snippet": "2026-05-31 11:32 基线公开复验 HTTP 200，meta description 检出 Shenzhen Muge Design Package Product Co., Ltd。",
+      "note": "2026-05-31 公开产品页 HTTP 200，meta description 检出 Shenzhen Muge Design Package Product Co., Ltd；无官网链接，只计入产品级实体提及，不引用价格/MOQ/旧资料。"
+    },
+    {
+      "label": "Made-in-China Spanish storage packaging box supplier list",
+      "type": "B2B目录列表页",
+      "url": "https://es.made-in-china.com/company-search/storage-packaging-box/huntq--AR_4/1.html",
+      "httpStatus": 200,
+      "host": "es.made-in-china.com",
+      "snippet": "2026-05-31 10:54 基线公开复验 HTTP 200，HTML 检出 Shenzhen Muge Design Package Product Co., Ltd。",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Shenzhen Muge Design Package Product Co., Ltd；搜索列表页无官网 href，只计入外部实体提及。"
+    },
+    {
+      "label": "Made-in-China German storage packaging box supplier list",
+      "type": "B2B目录列表页",
+      "url": "https://de.made-in-china.com/company-search/storage-packaging-box/huntq--AR_4/1.html",
+      "httpStatus": 200,
+      "host": "de.made-in-china.com",
+      "snippet": "2026-05-31 10:54 基线公开复验 HTTP 200，HTML 检出 Shenzhen Muge Design Package Product Co., Ltd。",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Shenzhen Muge Design Package Product Co., Ltd；搜索列表页无官网 href，只计入外部实体提及。"
+    },
+    {
+      "label": "Made-in-China French storage packaging box supplier list",
+      "type": "B2B目录列表页",
+      "url": "https://fr.made-in-china.com/company-search/storage-packaging-box/huntq--AR_4/1.html",
+      "httpStatus": 200,
+      "host": "fr.made-in-china.com",
+      "snippet": "2026-05-31 10:54 基线公开复验 HTTP 200，HTML 检出 Shenzhen Muge Design Package Product Co., Ltd。",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Shenzhen Muge Design Package Product Co., Ltd；搜索列表页无官网 href，只计入外部实体提及。"
+    }
+  ]
+}
