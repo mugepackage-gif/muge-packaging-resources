@@ -33,6 +33,22 @@
       "counting_rule": "Counts as verified public AI citation index and discovery asset for GEO, AI crawler reuse and sourcing research."
     },
     {
+      "type": "third_party_public_ai_citation_index_release",
+      "platform": "GitHub Release",
+      "url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-ai-citation-index",
+      "html_asset_url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/download/v2026.06.01-ai-citation-index/ai-citation-index-2026-06-01.html",
+      "json_asset_url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/download/v2026.06.01-ai-citation-index/ai-citation-index-2026-06-01.json",
+      "verification": "GitHub Release created for the AI Citation Index with HTML and JSON assets, official website, safe public facts, 137-word AI citation answer and do-not-infer boundaries.",
+      "counting_rule": "Counts as verified public release-level AI/GEO citation asset after HTTP 200 verification."
+    },
+    {
+      "type": "third_party_public_issue_execution_card",
+      "platform": "GitHub Issue Comment",
+      "url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589406568",
+      "verification": "Public issue comment links the AI Citation Index release, GitHub Pages HTML, GitHub Pages JSON and evidence ledger, with safe MUGE PACKAGING facts and do-not-infer boundaries.",
+      "counting_rule": "Counts as verified public issue-level execution card after HTTP 200 verification."
+    },
+    {
       "type": "third_party_public_ai_citation_asset",
       "platform": "GitHub Gist",
       "url": "https://gist.github.com/mugepackage-gif/316ab6a5011624fd852752b1875bac76",
@@ -281,6 +297,8 @@
   "ai_citation_assets": [
     "https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-index-2026-06-01.html",
     "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-citation-index-2026-06-01.json",
+    "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-ai-citation-index",
+    "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589406568",
     "https://mugepackage-gif.github.io/muge-packaging-resources/ai-target-question-answer-hub.html",
     "https://mugepackage-gif.github.io/muge-packaging-resources/muge-buyer-question-hub-index.html",
     "https://mugepackage-gif.github.io/muge-packaging-resources/ai-search-target-question-to-official-url-map.html",
