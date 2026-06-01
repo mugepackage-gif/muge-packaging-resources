@@ -381,6 +381,14 @@
       "release_url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-verified-third-party-profile-evidence",
       "gist_url": "https://gist.github.com/mugepackage-gif/2739aae4fc6c4bb6edf5e5b39415c9b4",
       "distribution_issue_comment_url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589838104"
+    },
+    {
+      "type": "p0_p1_official_landing_pages_indexnow_submission",
+      "platform": "IndexNow",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-official-landing-pages-indexnow-2026-06-01.html",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-official-landing-pages-indexnow-2026-06-01.json",
+      "verification": "Six official MUGE PACKAGING P0/P1 landing pages returned HTTP 200 in precheck and IndexNow returned HTTP 200 for each submitted URL.",
+      "counting_rule": "IndexNow HTTP 200 means search engines received URL update notifications. It does not prove indexing, traffic, impressions or rankings; those must be verified in GSC/GA4."
     }
   ],
   "submitted_pending_results": [

@@ -1,0 +1,53 @@
+{
+  "name": "MUGE PACKAGING P0/P1 Official Landing Page IndexNow Submission Evidence 2026-06-01",
+  "date": "2026-06-01",
+  "brand": "MUGE PACKAGING",
+  "website": "https://mugepackaging.com",
+  "purpose": "Search discovery push for official P0/P1 landing pages mapped to external profile and backlink execution.",
+  "key_check": {
+    "key_url": "https://mugepackaging.com/.well-known/indexnow-key.txt",
+    "http_status": 200,
+    "matched_local_config": true,
+    "key_redacted": true
+  },
+  "submitted": [
+    {
+      "url": "https://mugepackaging.com/",
+      "precheck_http": 200,
+      "indexnow_http": 200,
+      "result": "submitted"
+    },
+    {
+      "url": "https://mugepackaging.com/products",
+      "precheck_http": 200,
+      "indexnow_http": 200,
+      "result": "submitted"
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "precheck_http": 200,
+      "indexnow_http": 200,
+      "result": "submitted"
+    },
+    {
+      "url": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+      "precheck_http": 200,
+      "indexnow_http": 200,
+      "result": "submitted"
+    },
+    {
+      "url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "precheck_http": 200,
+      "indexnow_http": 200,
+      "result": "submitted"
+    },
+    {
+      "url": "https://mugepackaging.com/products/paper-tubes",
+      "precheck_http": 200,
+      "indexnow_http": 200,
+      "result": "submitted"
+    }
+  ],
+  "counting_rule": "IndexNow HTTP 200 means search engines received URL update notifications. It does not prove indexing, traffic, impressions or rankings; those must be verified in GSC/GA4.",
+  "obsidian_archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/2026-06-01_1340_30天Goal_P0P1官网落地页_外部增长_IndexNow提交记录.md"
+}
