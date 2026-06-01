@@ -1,0 +1,67 @@
+{
+  "name": "MUGE PACKAGING GSC P0/P1 Opportunity Link Bridge 2026-06-01",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "website": "https://mugepackaging.com",
+  "date": "2026-06-01",
+  "gsc_window": {
+    "start_date": "2026-05-01",
+    "end_date": "2026-05-29",
+    "queries_28d": 11,
+    "target_keywords_exact_visible": 0,
+    "target_keywords_top20": 0,
+    "target_keywords_clicked": 0
+  },
+  "observed_queries_to_reinforce": [
+    {
+      "query": "eco-friendly packaging vs conventional food protection comparison barrier properties shelf life",
+      "impressions": 7,
+      "position": 13.71,
+      "official_url": "https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging"
+    },
+    {
+      "query": "eco-friendly packaging vs conventional for food protection performance comparison",
+      "impressions": 6,
+      "position": 13.5,
+      "official_url": "https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging"
+    },
+    {
+      "query": "sustainable packaging cost vs traditional packaging comparison 2024 2025",
+      "impressions": 3,
+      "position": 12.67,
+      "official_url": "https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging"
+    },
+    {
+      "query": "bespoke tube packaging",
+      "impressions": 1,
+      "position": 55,
+      "official_url": "https://mugepackaging.com/blog/paper-tube-packaging-buying-guide"
+    },
+    {
+      "query": "custom tubes-packaging",
+      "impressions": 1,
+      "position": 56,
+      "official_url": "https://mugepackaging.com/blog/paper-tube-packaging-buying-guide"
+    }
+  ],
+  "p0_p1_official_urls_to_reinforce": [
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/about",
+    "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+    "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+    "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+    "https://mugepackaging.com/blog/paper-tube-packaging-buying-guide",
+    "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide"
+  ],
+  "claim_boundary": [
+    "no fixed MOQ",
+    "no fixed lead time",
+    "no lowest price claim",
+    "no food-contact compliance claim",
+    "no FDA claim",
+    "no FSC claim",
+    "no verified supplier claim",
+    "no customer case claim",
+    "no revenue, financing or production capacity claim"
+  ]
+}

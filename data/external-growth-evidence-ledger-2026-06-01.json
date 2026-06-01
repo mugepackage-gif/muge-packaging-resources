@@ -63,6 +63,15 @@
       "counting_rule": "Counts as verified production-level AI crawler discovery path linking the official website to public AI citation evidence assets."
     },
     {
+      "type": "external_p0_p1_opportunity_link_bridge",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/gsc-p0-p1-opportunity-link-bridge-2026-06-01.html",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/gsc-p0-p1-opportunity-link-bridge-2026-06-01.json",
+      "source_gsc_baseline": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-01_1218_GSC查询词排名基线.json",
+      "verification": "Maps the 2026-05-01 to 2026-05-29 GSC query baseline to official MUGE PACKAGING P0/P1 transaction pages and links directly to official URLs that need external reinforcement.",
+      "counting_rule": "Counts as an external link bridge and AI/GEO discovery asset for P0/P1 official pages after HTTP 200 publication verification."
+    },
+    {
       "type": "third_party_public_ai_citation_asset",
       "platform": "GitHub Gist",
       "url": "https://gist.github.com/mugepackage-gif/316ab6a5011624fd852752b1875bac76",
@@ -404,5 +413,13 @@
     "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/paper-tube-vs-plastic-tube-packaging",
     "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/sustainable-packaging",
     "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/eco-friendly-custom-packaging"
-  ]
+  ],
+  "gsc_result_snapshot_2026_06_01_1218": {
+    "window": "2026-05-01 to 2026-05-29",
+    "queries_28d": 11,
+    "target_keywords_exact_visible": 0,
+    "target_keywords_top20": 0,
+    "target_keywords_clicked": 0,
+    "target_keyword_audit_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1218_目标关键词排名验收.json"
+  }
 }
