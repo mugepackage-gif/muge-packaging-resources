@@ -59,6 +59,16 @@
       ],
       "verification": "HTTP 200; public issue comments contain MUGE PACKAGING, https://mugepackaging.com, platform-specific execution fields, stop rules and verification requirements.",
       "counting_rule": "Counts as four verified public comment-level entity assets and execution cards."
+    },
+    {
+      "type": "third_party_public_knowledge_wiki",
+      "platform": "GitHub Repository",
+      "url": "https://github.com/mugepackage-gif/muge-packaging-public-wiki",
+      "fact_page_url": "https://github.com/mugepackage-gif/muge-packaging-public-wiki/blob/master/MUGE-PACKAGING-AI-Verifiable-Facts.md",
+      "directory_queue_url": "https://github.com/mugepackage-gif/muge-packaging-public-wiki/blob/master/External-Citation-And-Directory-Execution-Queue.md",
+      "raw_json_url": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-public-wiki/master/muge-packaging-public-facts.json",
+      "verification": "HTTP 200; repository, fact page, directory execution queue and raw JSON contain MUGE PACKAGING, https://mugepackaging.com, ISO 9001:2015 limited scope wording and explicit do-not-claim safety boundaries.",
+      "counting_rule": "Counts as four verified public third-party knowledge and machine-readable citation assets for AI search and buyer due diligence."
     }
   ],
   "submitted_pending_results": [
@@ -111,11 +121,11 @@
     "conclusion": "Target commercial keyword visibility has not broken through yet."
   },
   "latest_external_entity_baseline": {
-    "verified_external_entity_assets": 593,
-    "verified_link": 333,
+    "verified_external_entity_assets": 597,
+    "verified_link": 336,
     "verified_indirect_link": 34,
     "verified_structured_sameas": 2,
-    "verified_mention": 224
+    "verified_mention": 225
   },
   "ai_citation_assets": [
     "https://mugepackage-gif.github.io/muge-packaging-resources/ai-target-question-answer-hub.html",
@@ -135,6 +145,10 @@
     "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4588653696",
     "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4588653773",
     "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4588653844",
+    "https://github.com/mugepackage-gif/muge-packaging-public-wiki",
+    "https://github.com/mugepackage-gif/muge-packaging-public-wiki/blob/master/MUGE-PACKAGING-AI-Verifiable-Facts.md",
+    "https://github.com/mugepackage-gif/muge-packaging-public-wiki/blob/master/External-Citation-And-Directory-Execution-Queue.md",
+    "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-public-wiki/master/muge-packaging-public-facts.json",
     "https://mugepackage-gif.github.io/muge-packaging-resources/search-engine-submission-status-2026-06-01.html"
   ]
 }
