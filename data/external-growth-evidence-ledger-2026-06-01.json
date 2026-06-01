@@ -137,6 +137,17 @@
       "release_url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-regional-ai-citation-expansion",
       "verification": "HTTP 200; the pack includes twelve regional buyer AI questions with 138-148 word answer blocks for Europe, UAE, Saudi Arabia, UK, Germany, France, US, Canada, Australia, Qatar, Kuwait and Netherlands buyer scenarios, with official MUGE URLs, MUGE PACKAGING entity facts, ISO 9001:2015 limited scope wording and claim boundaries.",
       "counting_rule": "Counts as verified public regional buyer citation assets across Pages, Raw, Gist and Release surfaces for GEO and AI crawler reuse."
+    },
+    {
+      "type": "third_party_public_ai_search_buyer_question_dataset_repository",
+      "platform": "GitHub Repository, GitHub Raw and GitHub Release",
+      "repository_url": "https://github.com/mugepackage-gif/muge-packaging-ai-datasets",
+      "raw_json_url": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-ai-datasets/master/data/muge-ai-search-buyer-questions.json",
+      "raw_jsonl_url": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-ai-datasets/master/data/muge-ai-search-buyer-questions.jsonl",
+      "raw_csv_url": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-ai-datasets/master/data/muge-ai-search-buyer-questions.csv",
+      "release_url": "https://github.com/mugepackage-gif/muge-packaging-ai-datasets/releases/tag/v2026.06.01-ai-search-buyer-question-dataset",
+      "verification": "HTTP 200; the independent public dataset repository and release contain 30 AI search buyer question records, MUGE PACKAGING entity facts, official website, public contact email, ISO 9001:2015 limited scope wording and explicit claim boundaries.",
+      "counting_rule": "Counts as verified public AI dataset assets across repository, Raw and Release surfaces for GEO and AI crawler reuse."
     }
   ],
   "submitted_pending_results": [
@@ -189,11 +200,11 @@
     "conclusion": "Target commercial keyword visibility has not broken through yet."
   },
   "latest_external_entity_baseline": {
-    "verified_external_entity_assets": 717,
-    "verified_link": 349,
+    "verified_external_entity_assets": 731,
+    "verified_link": 352,
     "verified_indirect_link": 34,
     "verified_structured_sameas": 2,
-    "verified_mention": 332
+    "verified_mention": 343
   },
   "ai_citation_assets": [
     "https://mugepackage-gif.github.io/muge-packaging-resources/ai-target-question-answer-hub.html",
@@ -247,6 +258,11 @@
     "https://gist.github.com/mugepackage-gif/128ae0caf9d053806d126a68ca54e7ca",
     "https://gist.githubusercontent.com/mugepackage-gif/128ae0caf9d053806d126a68ca54e7ca/raw/regional-buyer-ai-citation-expansion-pack-2026-06-01.md",
     "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-regional-ai-citation-expansion",
+    "https://github.com/mugepackage-gif/muge-packaging-ai-datasets",
+    "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-ai-datasets/master/data/muge-ai-search-buyer-questions.json",
+    "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-ai-datasets/master/data/muge-ai-search-buyer-questions.jsonl",
+    "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-ai-datasets/master/data/muge-ai-search-buyer-questions.csv",
+    "https://github.com/mugepackage-gif/muge-packaging-ai-datasets/releases/tag/v2026.06.01-ai-search-buyer-question-dataset",
     "https://mugepackage-gif.github.io/muge-packaging-resources/search-engine-submission-status-2026-06-01.html"
   ]
 }
