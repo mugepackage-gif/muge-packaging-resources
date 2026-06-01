@@ -91,6 +91,15 @@
       "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-target-question-preferred-citation-map-2026-06-01.json",
       "verification": "HTTP 200; HTML and JSON map ten target buyer questions to preferred GitHub Pages citation URLs, official MUGE URLs and external raw answer cards; llms.txt and sitemap include both URLs.",
       "counting_rule": "Counts as two verified AI citation discovery assets and a preferred citation routing layer for GEO validation."
+    },
+    {
+      "type": "third_party_public_ai_citation_answer_block_mirror",
+      "platform": "GitHub Gist",
+      "url": "https://gist.github.com/mugepackage-gif/0281531949626c45a438bea608608fdd",
+      "raw_url": "https://gist.githubusercontent.com/mugepackage-gif/0281531949626c45a438bea608608fdd/raw/muge-packaging-ai-citation-answer-blocks-2026-06-01.md",
+      "pages_markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-packaging-ai-citation-answer-blocks-2026-06-01.md",
+      "verification": "HTTP 200; public Gist, raw Gist and GitHub Pages Markdown contain MUGE PACKAGING, https://mugepackaging.com, ISO 9001:2015 limited scope wording, custom packaging sourcing answer block, supplier verification answer block and claim boundaries.",
+      "counting_rule": "Counts as three verified public AI citation answer block assets for GEO and AI crawler reuse."
     }
   ],
   "submitted_pending_results": [
@@ -143,11 +152,11 @@
     "conclusion": "Target commercial keyword visibility has not broken through yet."
   },
   "latest_external_entity_baseline": {
-    "verified_external_entity_assets": 605,
-    "verified_link": 338,
+    "verified_external_entity_assets": 608,
+    "verified_link": 339,
     "verified_indirect_link": 34,
     "verified_structured_sameas": 2,
-    "verified_mention": 231
+    "verified_mention": 233
   },
   "ai_citation_assets": [
     "https://mugepackage-gif.github.io/muge-packaging-resources/ai-target-question-answer-hub.html",
@@ -157,6 +166,7 @@
     "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-ai-sourcing-citation-brief-2026-06-01.json",
     "https://mugepackage-gif.github.io/muge-packaging-resources/supplier-verification-checklist-ai-search-2026-06-01.html",
     "https://mugepackage-gif.github.io/muge-packaging-resources/data/supplier-verification-checklist-ai-search-2026-06-01.json",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/muge-packaging-ai-citation-answer-blocks-2026-06-01.md",
     "https://gist.github.com/mugepackage-gif/316ab6a5011624fd852752b1875bac76",
     "https://gist.githubusercontent.com/mugepackage-gif/316ab6a5011624fd852752b1875bac76/raw/muge-packaging-ai-verifiable-facts-2026-06-01.md",
     "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-ai-verifiable-facts-pack",
@@ -179,6 +189,8 @@
     "https://gist.githubusercontent.com/mugepackage-gif/4fe174af61c0995b5fb4b612a9bf99d7/raw/d66503f15907b52636c766a7f66bab2fbc0f5eba/rigid-gift-box-manufacturer-ai-answer.md",
     "https://mugepackage-gif.github.io/muge-packaging-resources/ai-target-question-preferred-citation-map-2026-06-01.html",
     "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-target-question-preferred-citation-map-2026-06-01.json",
+    "https://gist.github.com/mugepackage-gif/0281531949626c45a438bea608608fdd",
+    "https://gist.githubusercontent.com/mugepackage-gif/0281531949626c45a438bea608608fdd/raw/muge-packaging-ai-citation-answer-blocks-2026-06-01.md",
     "https://mugepackage-gif.github.io/muge-packaging-resources/search-engine-submission-status-2026-06-01.html"
   ]
 }
