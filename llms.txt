@@ -329,3 +329,8 @@ This resource uses cautious public sourcing guidance. Project details, pricing-r
 ## Independent Third-Party Direct Link Update Pack
 - [MUGE PACKAGING Independent Third-Party Direct Link Update Pack 2026-06-01](https://mugepackage-gif.github.io/muge-packaging-resources/independent-third-party-direct-link-update-pack-2026-06-01.html): Strict independent-third-party-only update queue mapping 28 verified direct-link pages across 73 hosts to official P0/P1 pages.
 - [Independent Third-Party Direct Link Update Pack JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/independent-third-party-direct-link-update-pack-2026-06-01.json): Machine-readable platform URL, recommended anchor, official target URL and safe manual action list.
+
+## Priority-A Third-Party Link Editor Request Pack
+- [MUGE PACKAGING Priority-A Third-Party Link Editor Request Pack 2026-06-01](https://mugepackage-gif.github.io/muge-packaging-resources/priority-a-third-party-link-editor-request-pack-2026-06-01.html): Copy-ready editor request pack for 5 A-priority third-party pages.
+- [Priority-A Third-Party Link Editor Request Pack Markdown](https://mugepackage-gif.github.io/muge-packaging-resources/priority-a-third-party-link-editor-request-pack-2026-06-01.md): Plain-text request copy for manual platform updates.
+- [Priority-A Third-Party Link Editor Request Pack JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/priority-a-third-party-link-editor-request-pack-2026-06-01.json): Machine-readable platform, target URL, anchor text, precheck and request copy.
