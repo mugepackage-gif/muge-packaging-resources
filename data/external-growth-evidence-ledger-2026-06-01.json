@@ -626,7 +626,7 @@
     "target_keywords_clicked": 0,
     "target_keyword_audit_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1218_目标关键词排名验收.json"
   },
-  "generatedAt": "2026-06-01T07:10:18.137Z",
+  "generatedAt": "2026-06-01T07:13:26.476Z",
   "entries": [
     {
       "timestamp": "2026-06-01T05:48:33.088Z",
@@ -705,6 +705,24 @@
         "https://mugepackage-gif.github.io/muge-packaging-resources/data/independent-third-party-entity-baseline-2026-06-01.json"
       ],
       "countingNote": "Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Workers, Weebly and official mugepackaging.com URLs. verified_link means independent public page with direct website link; verified_mention means independent public brand/entity mention only."
+    },
+    {
+      "timestamp": "2026-06-01T07:13:26.476Z",
+      "category": "independent_third_party_baseline_release_refresh_1507",
+      "result": "advanced_public_release_distribution",
+      "independentThirdPartyAssets": 162,
+      "independentDirectLinks": 28,
+      "independentIndirectLinks": 34,
+      "independentStructuredSameAs": 2,
+      "independentMentionOnly": 98,
+      "independentHosts": 73,
+      "releaseUrl": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-independent-third-party-baseline-refresh-1507",
+      "publicEvidence": [
+        "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-independent-third-party-baseline-refresh-1507",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/independent-third-party-entity-baseline-2026-06-01.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/independent-third-party-entity-baseline-2026-06-01.json"
+      ],
+      "countingNote": "Strict external-only baseline refreshed from 2026-06-01 15:07 CST brand-mention verification source; excludes self-controlled GitHub Pages/Gist/Netlify/Workers/Weebly and official mugepackaging.com URLs. This is not a ranking claim."
     }
   ]
 }
