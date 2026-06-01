@@ -374,9 +374,12 @@
       "platform": "Third-party profiles",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/verified-third-party-profile-backlink-evidence-2026-06-01.html",
       "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/verified-third-party-profile-backlink-evidence-2026-06-01.json",
-      "verification": "Six public third-party profile/content pages returned HTTP 200 and were classified by brand/domain/direct href signal. Bizidex, CityByApp, Antech and YellowPagesOnline show official domain or direct href/domain signal; LinkedIn shows public social entity and website association; Mercatora shows public company entity visibility only.",
+      "verification": "Six public third-party profile/content pages returned HTTP 200 and were classified by brand/domain/direct href signal. Evidence is distributed through GitHub Pages, Markdown, JSON, GitHub Release and public Gist.",
       "counting_rule": "Counts verified public third-party results separately from pending submissions; individual pages must obey their own counting rule.",
-      "issue_comment_url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589819547"
+      "issue_comment_url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589819547",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/verified-third-party-profile-backlink-evidence-2026-06-01.md",
+      "release_url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-verified-third-party-profile-evidence",
+      "gist_url": "https://gist.github.com/mugepackage-gif/2739aae4fc6c4bb6edf5e5b39415c9b4"
     }
   ],
   "submitted_pending_results": [
