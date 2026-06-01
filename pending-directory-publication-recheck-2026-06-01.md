@@ -10,7 +10,7 @@ date: 2026-06-01
 
 # MUGE PACKAGING Pending Directory Publication Recheck
 
-- Generated at: 2026-06-01T07:07:10.667Z
+- Generated at: 2026-06-01T07:36:11.012Z
 - Website: https://mugepackaging.com
 - Checked URLs: 17
 - Stable public signals: 1
@@ -36,9 +36,9 @@ Only a public page with MUGE PACKAGING, mugepackaging.com, or a direct href/doma
 | Global Site Directory | 404 | no | no | https://gsdirectory.org/search?q=MUGE%20PACKAGING | 404: This page could not be found. |
 | PODatlas | 200 | no | no | https://podatlas.co/search?q=muge | PODatlas.co — Print on Demand directory |
 | PODatlas | 200 | no | no | https://podatlas.co/suppliers?search=muge | PODatlas.co — Print on Demand directory |
-| B2Bs | 500 | no | no | https://www.b2bs.com/search?q=mugepackaging.com |  |
-| B2Bs | 500 | no | no | https://www.b2bs.com/search?q=MUGE%20PACKAGING |  |
-| PromoteBusinessDirectory | 200 | no | no | https://www.promotebusinessdirectory.com/search.php?search=mugepackaging.com |  |
+| B2Bs | 404 | no | no | https://www.b2bs.com/search?q=mugepackaging.com | 404 - Page Not Found \| B2Bs |
+| B2Bs | 404 | no | no | https://www.b2bs.com/search?q=MUGE%20PACKAGING | 404 - Page Not Found \| B2Bs |
+| PromoteBusinessDirectory | 0 | no | no | https://www.promotebusinessdirectory.com/search.php?search=mugepackaging.com |  |
 | PromoteBusinessDirectory | 200 | no | no | https://www.promotebusinessdirectory.com/search.php?search=MUGE%20PACKAGING |  |
 | BusinessSeek | 404 | no | no | https://www.businessseek.biz/cgi-bin/search.cgi?query=mugepackaging.com | BusinessSeek.biz Business Directory |
 | BusinessSeek | 404 | no | no | https://www.businessseek.biz/cgi-bin/search.cgi?query=MUGE%20PACKAGING | BusinessSeek.biz Business Directory |

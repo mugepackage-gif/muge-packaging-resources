@@ -1,7 +1,7 @@
 {
   "name": "MUGE PACKAGING Pending Directory Publication Recheck",
   "date": "2026-06-01",
-  "generatedAt": "2026-06-01T07:07:10.667Z",
+  "generatedAt": "2026-06-01T07:36:11.012Z",
   "brand": "MUGE PACKAGING",
   "website": "https://mugepackaging.com",
   "resultSummary": {
@@ -155,8 +155,8 @@
       "platform": "B2Bs",
       "checkedUrl": "https://www.b2bs.com/search?q=mugepackaging.com",
       "finalUrl": "https://www.b2bs.com/search?q=mugepackaging.com",
-      "httpStatus": 500,
-      "title": "",
+      "httpStatus": 404,
+      "title": "404 - Page Not Found | B2Bs",
       "hasNoResultSignal": false,
       "hasBrand": false,
       "hasDomain": false,
@@ -164,14 +164,14 @@
       "hrefHits": [],
       "stablePublicSignal": false,
       "verifiedBacklinkSignal": false,
-      "snippet": ""
+      "snippet": "404 - Page Not Found | B2Bs 404 Page Not Found The page you're looking for doesn't exist or has been moved. Let's help you find what you need. Search Home About Submit Site Insights &copy; B2Bs.com — The Human-Curated B2B Directory"
     },
     {
       "platform": "B2Bs",
       "checkedUrl": "https://www.b2bs.com/search?q=MUGE%20PACKAGING",
       "finalUrl": "https://www.b2bs.com/search?q=MUGE%20PACKAGING",
-      "httpStatus": 500,
-      "title": "",
+      "httpStatus": 404,
+      "title": "404 - Page Not Found | B2Bs",
       "hasNoResultSignal": false,
       "hasBrand": false,
       "hasDomain": false,
@@ -179,13 +179,13 @@
       "hrefHits": [],
       "stablePublicSignal": false,
       "verifiedBacklinkSignal": false,
-      "snippet": ""
+      "snippet": "404 - Page Not Found | B2Bs 404 Page Not Found The page you're looking for doesn't exist or has been moved. Let's help you find what you need. Search Home About Submit Site Insights &copy; B2Bs.com — The Human-Curated B2B Directory"
     },
     {
       "platform": "PromoteBusinessDirectory",
       "checkedUrl": "https://www.promotebusinessdirectory.com/search.php?search=mugepackaging.com",
       "finalUrl": "https://www.promotebusinessdirectory.com/search.php?search=mugepackaging.com",
-      "httpStatus": 200,
+      "httpStatus": 0,
       "title": "",
       "hasNoResultSignal": false,
       "hasBrand": false,
