@@ -332,6 +332,17 @@
       "verification": "Public Gist published with safe platform profile fields, ISO scope statement, do-not-use claims, and platform-specific notes for LinkedIn, Kompass, Europages, Crunchbase, Alibaba, Global Sources and Made-in-China.",
       "counting_rule": "Counts as an external public profile-correction and entity-consistency asset for GEO cleanup; not counted as a third-party backlink to the official website.",
       "issue_comment_url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589700886"
+    },
+    {
+      "type": "public_wiki_platform_profile_correction_card",
+      "platform": "GitHub public repository",
+      "url": "https://github.com/mugepackage-gif/muge-packaging-public-wiki/blob/master/Platform-Profile-Correction-Card.md",
+      "raw_url": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-public-wiki/master/Platform-Profile-Correction-Card.md",
+      "public_facts_json": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-public-wiki/master/muge-packaging-public-facts.json",
+      "repository": "https://github.com/mugepackage-gif/muge-packaging-public-wiki",
+      "commit": "1e14d1bedb6615a041a785c2e8c8c4087e1f5b45",
+      "verification": "Public wiki repository updated with platform profile correction card, precise ISO 9001 scope fields, expanded do-not-claim list and directory execution queue link for LinkedIn, Kompass, Europages, Crunchbase, Alibaba, Global Sources and Made-in-China.",
+      "counting_rule": "Counts as an independent GitHub public repository entity-consistency and platform-profile cleanup asset for GEO; not counted as official-site backlink."
     }
   ],
   "submitted_pending_results": [
