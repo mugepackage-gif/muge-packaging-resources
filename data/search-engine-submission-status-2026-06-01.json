@@ -42,6 +42,22 @@
       "next_verification": "Recheck Active Search Results index for the sustainable packaging comparison page."
     },
     {
+      "platform": "Active Search Results - P0/P1 target URL batch",
+      "submitted_urls": [
+        "https://mugepackaging.com/about",
+        "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+        "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+        "https://mugepackaging.com/blog/paper-tube-packaging-buying-guide",
+        "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide",
+        "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide"
+      ],
+      "submission_url": "https://www.activesearchresults.com/addwebsite.php",
+      "http_status": 200,
+      "result": "accepted",
+      "evidence": "Each submitted URL reached https://www.activesearchresults.com/urladdedconfirm.php and returned: Thank you for adding your Web site to the Active Search Results search engine.",
+      "next_verification": "Recheck Active Search Results index for the P0/P1 target URLs and related buyer queries."
+    },
+    {
       "platform": "Anoox",
       "submission_url": "https://www.anoox.com/add_for_indexing_free.php",
       "http_status": 200,
