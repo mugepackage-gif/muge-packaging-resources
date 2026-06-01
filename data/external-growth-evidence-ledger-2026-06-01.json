@@ -320,6 +320,17 @@
       "verification": "Public conflict-cleanup evidence page published to separate verified MUGE facts from LinkedIn and legacy Reddit claims that should not be used as verified AI citations.",
       "counting_rule": "Counts as public GEO fact-boundary correction asset. It does not count as a backlink, but it reduces AI mis-citation risk and provides a source for profile cleanup.",
       "issue_comment_url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589670699"
+    },
+    {
+      "type": "platform_profile_correction_card_public_gist",
+      "platform": "GitHub Gist",
+      "url": "https://gist.github.com/mugepackage-gif/478b101f70cae1cebac7d437865eb273",
+      "markdown_raw_url": "https://gist.githubusercontent.com/mugepackage-gif/478b101f70cae1cebac7d437865eb273/raw/e192925f6e99aa66aa8968265dd5d7276c5f3a41/platform-profile-correction-card-2026-06-01.md",
+      "json_raw_url": "https://gist.githubusercontent.com/mugepackage-gif/478b101f70cae1cebac7d437865eb273/raw/e25b33656e8ce2280b9fcb3d6876a0ae57041a8d/platform-profile-correction-card-2026-06-01.json",
+      "pages_markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/platform-profile-correction-card-2026-06-01.md",
+      "pages_json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/platform-profile-correction-card-2026-06-01.json",
+      "verification": "Public Gist published with safe platform profile fields, ISO scope statement, do-not-use claims, and platform-specific notes for LinkedIn, Kompass, Europages, Crunchbase, Alibaba, Global Sources and Made-in-China.",
+      "counting_rule": "Counts as an external public profile-correction and entity-consistency asset for GEO cleanup; not counted as a third-party backlink to the official website."
     }
   ],
   "submitted_pending_results": [
