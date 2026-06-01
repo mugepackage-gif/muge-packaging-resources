@@ -73,6 +73,23 @@
       "issue_comment_url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589532972"
     },
     {
+      "type": "external_p0_p1_backlink_opportunity_tiering",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-backlink-opportunity-tiering-2026-06-01.html",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-backlink-opportunity-tiering-2026-06-01.json",
+      "source_baseline": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-01_1218_MUGE外部品牌提及复验基线.json",
+      "source_summary": {
+        "verified_external_entity_assets": 761,
+        "verified_direct_links": 377,
+        "verified_indirect_links": 34,
+        "verified_mentions": 348
+      },
+      "mapped_official_url_count": 7,
+      "opportunity_count": 140,
+      "verification": "Generated from the verified external brand mention baseline. The dataset maps qualified external assets to seven official MUGE PACKAGING P0/P1 URLs and avoids unverified commercial or compliance claims.",
+      "counting_rule": "Counts as an operational backlink opportunity map for directing existing external signals toward P0/P1 transaction pages after HTTP 200 publication verification."
+    },
+    {
       "type": "third_party_public_ai_citation_asset",
       "platform": "GitHub Gist",
       "url": "https://gist.github.com/mugepackage-gif/316ab6a5011624fd852752b1875bac76",
