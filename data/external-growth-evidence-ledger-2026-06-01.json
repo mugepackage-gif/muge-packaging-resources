@@ -125,6 +125,18 @@
       "release_url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-exact-ai-target-citation-pack",
       "verification": "HTTP 200; the pack includes ten exact AI buyer questions with 138-154 word answer blocks, official MUGE URLs, preferred citation sources, MUGE PACKAGING entity facts, ISO 9001:2015 limited scope wording and claim boundaries.",
       "counting_rule": "Counts as verified public exact-question citation assets across Pages, Raw, Gist and Release surfaces for GEO and AI crawler reuse."
+    },
+    {
+      "type": "third_party_public_regional_buyer_ai_citation_expansion_pack",
+      "platform": "GitHub Pages, GitHub Raw, GitHub Gist and GitHub Release",
+      "pages_pack_url": "https://mugepackage-gif.github.io/muge-packaging-resources/regional-buyer-ai-citation-expansion-pack-2026-06-01.html",
+      "pages_markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/regional-buyer-ai-citation-expansion-pack-2026-06-01.md",
+      "pages_json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/regional-buyer-ai-citation-expansion-pack-2026-06-01.json",
+      "gist_url": "https://gist.github.com/mugepackage-gif/128ae0caf9d053806d126a68ca54e7ca",
+      "raw_gist_markdown_url": "https://gist.githubusercontent.com/mugepackage-gif/128ae0caf9d053806d126a68ca54e7ca/raw/regional-buyer-ai-citation-expansion-pack-2026-06-01.md",
+      "release_url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-regional-ai-citation-expansion",
+      "verification": "HTTP 200; the pack includes twelve regional buyer AI questions with 138-148 word answer blocks for Europe, UAE, Saudi Arabia, UK, Germany, France, US, Canada, Australia, Qatar, Kuwait and Netherlands buyer scenarios, with official MUGE URLs, MUGE PACKAGING entity facts, ISO 9001:2015 limited scope wording and claim boundaries.",
+      "counting_rule": "Counts as verified public regional buyer citation assets across Pages, Raw, Gist and Release surfaces for GEO and AI crawler reuse."
     }
   ],
   "submitted_pending_results": [
@@ -177,11 +189,11 @@
     "conclusion": "Target commercial keyword visibility has not broken through yet."
   },
   "latest_external_entity_baseline": {
-    "verified_external_entity_assets": 656,
-    "verified_link": 345,
+    "verified_external_entity_assets": 717,
+    "verified_link": 349,
     "verified_indirect_link": 34,
     "verified_structured_sameas": 2,
-    "verified_mention": 275
+    "verified_mention": 332
   },
   "ai_citation_assets": [
     "https://mugepackage-gif.github.io/muge-packaging-resources/ai-target-question-answer-hub.html",
@@ -229,6 +241,12 @@
     "https://gist.githubusercontent.com/mugepackage-gif/a1681af922267aeed4c60520a3c3a7b8/raw/ai-exact-target-question-citation-pack-2026-06-01.md",
     "https://gist.githubusercontent.com/mugepackage-gif/a1681af922267aeed4c60520a3c3a7b8/raw/ai-exact-target-question-citation-pack-2026-06-01.json",
     "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-exact-ai-target-citation-pack",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/regional-buyer-ai-citation-expansion-pack-2026-06-01.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/regional-buyer-ai-citation-expansion-pack-2026-06-01.md",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/data/regional-buyer-ai-citation-expansion-pack-2026-06-01.json",
+    "https://gist.github.com/mugepackage-gif/128ae0caf9d053806d126a68ca54e7ca",
+    "https://gist.githubusercontent.com/mugepackage-gif/128ae0caf9d053806d126a68ca54e7ca/raw/regional-buyer-ai-citation-expansion-pack-2026-06-01.md",
+    "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-regional-ai-citation-expansion",
     "https://mugepackage-gif.github.io/muge-packaging-resources/search-engine-submission-status-2026-06-01.html"
   ]
 }
