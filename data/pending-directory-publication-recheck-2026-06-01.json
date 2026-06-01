@@ -1,7 +1,7 @@
 {
   "name": "MUGE PACKAGING Pending Directory Publication Recheck",
   "date": "2026-06-01",
-  "generatedAt": "2026-06-01T07:36:11.012Z",
+  "generatedAt": "2026-06-01T07:59:37.670Z",
   "brand": "MUGE PACKAGING",
   "website": "https://mugepackaging.com",
   "resultSummary": {
@@ -94,9 +94,9 @@
     {
       "platform": "Global Site Directory",
       "checkedUrl": "https://gsdirectory.org/search?q=mugepackaging",
-      "finalUrl": "https://gsdirectory.org/search/?q=mugepackaging",
-      "httpStatus": 404,
-      "title": "404: This page could not be found.",
+      "finalUrl": "https://gsdirectory.org/search?q=mugepackaging",
+      "httpStatus": 0,
+      "title": "",
       "hasNoResultSignal": false,
       "hasBrand": false,
       "hasDomain": false,
@@ -104,7 +104,7 @@
       "hrefHits": [],
       "stablePublicSignal": false,
       "verifiedBacklinkSignal": false,
-      "snippet": "404: This page could not be found. Global Site Directory | Free Business Listings with Dofollow Backlinks G Global Site Directory Categories About FAQ + Add Listing + Add 404 This page could not be found. G Global Site Directory A free global business director"
+      "snippet": ""
     },
     {
       "platform": "Global Site Directory",
@@ -185,7 +185,7 @@
       "platform": "PromoteBusinessDirectory",
       "checkedUrl": "https://www.promotebusinessdirectory.com/search.php?search=mugepackaging.com",
       "finalUrl": "https://www.promotebusinessdirectory.com/search.php?search=mugepackaging.com",
-      "httpStatus": 0,
+      "httpStatus": 200,
       "title": "",
       "hasNoResultSignal": false,
       "hasBrand": false,
@@ -260,8 +260,8 @@
       "platform": "Anoox",
       "checkedUrl": "https://www.anoox.com/search.php?query=MUGE%20PACKAGING",
       "finalUrl": "https://www.anoox.com/search.php?query=MUGE%20PACKAGING",
-      "httpStatus": 200,
-      "title": "The non profit search engine, non profit Social network, not for profit Social network, not for profit search engine",
+      "httpStatus": 0,
+      "title": "",
       "hasNoResultSignal": false,
       "hasBrand": false,
       "hasDomain": false,
@@ -269,7 +269,7 @@
       "hrefHits": [],
       "stablePublicSignal": false,
       "verifiedBacklinkSignal": false,
-      "snippet": "The non profit search engine, non profit Social network, not for profit Social network, not for profit search engine --> Member Log In My Nickname My Password Keep me logged in Forgot Password Anoox &#174; Connect, Share, Discuss, Discover, Grow &#8482; The no"
+      "snippet": ""
     },
     {
       "platform": "Zearches",
