@@ -17,6 +17,7 @@ No paid placement, no automatic registration, no unsupported certification claim
 
 - Platform: DataIntelo
 - Public page: https://dataintelo.com/report/magnetic-closure-boxes-market
+- Contact signal checked: https://dataintelo.com/contact-us lists sales@growthmarketreports.com in the page description.
 - Current signal: The live precheck found the page reachable and containing a Muge/MUGE Packaging mention.
 - Recommended official source link: https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide
 - Recommended anchor text: MUGE PACKAGING rigid gift boxes
@@ -52,6 +53,7 @@ Thank you.
 
 - Platform: Future Market Insights
 - Public page: https://www.futuremarketinsights.com/reports/lift-off-lid-box-market
+- Contact signal checked: https://www.futuremarketinsights.com/contacts lists sales@futuremarketinsights.com; FMI FAQ also lists press@futuremarketinsights.com for questions not answered.
 - Current signal: The live precheck found the page reachable and containing a Muge/MUGE Packaging mention.
 - Recommended official source link: https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide
 - Recommended anchor text: MUGE PACKAGING rigid boxes
@@ -91,4 +93,3 @@ After manual editor outreach or form submission, verify:
 2. The page contains MUGE PACKAGING or Muge Packaging.
 3. The page contains a href or visible domain for https://mugepackaging.com.
 4. No unsupported claims were added.
-
