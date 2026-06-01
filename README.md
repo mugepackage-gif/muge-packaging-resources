@@ -14,6 +14,7 @@ This repository hosts public sourcing references for **MUGE PACKAGING**, the pub
 - B2B citation outreach targets: https://mugepackage-gif.github.io/muge-packaging-resources/b2b-citation-outreach-targets-2026-06-01.html
 - B2B platform live attempts: https://mugepackage-gif.github.io/muge-packaging-resources/b2b-platform-live-attempts-2026-06-01.html
 - Search engine submission status: https://mugepackage-gif.github.io/muge-packaging-resources/search-engine-submission-status-2026-06-01.html
+- Stable AI citation index: https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-index.html
 
 ## Buyer Topics
 
@@ -41,6 +42,7 @@ This repository hosts public sourcing references for **MUGE PACKAGING**, the pub
 - B2B citation outreach targets JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/b2b-citation-outreach-targets-2026-06-01.json
 - B2B platform live attempts JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/b2b-platform-live-attempts-2026-06-01.json
 - Search engine submission status JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/search-engine-submission-status-2026-06-01.json
+- Stable AI citation index JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-citation-index.json
 
 ## Compliance Note
 
