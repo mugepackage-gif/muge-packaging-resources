@@ -25,6 +25,14 @@
       "counting_rule": "Counts as verified external backlink and entity mention."
     },
     {
+      "type": "first_party_public_ai_citation_index",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-index-2026-06-01.html",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-citation-index-2026-06-01.json",
+      "verification": "HTTP 200; page and JSON contain MUGE PACKAGING, Shenzhen Muge Design Packaging Product Co., Ltd., https://mugepackaging.com, 12 preferred citation sources, a 137-word AI citation answer and explicit do-not-infer boundaries.",
+      "counting_rule": "Counts as verified public AI citation index and discovery asset for GEO, AI crawler reuse and sourcing research."
+    },
+    {
       "type": "third_party_public_ai_citation_asset",
       "platform": "GitHub Gist",
       "url": "https://gist.github.com/mugepackage-gif/316ab6a5011624fd852752b1875bac76",
@@ -271,6 +279,8 @@
     "md_path": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-01_1132_MUGE外部品牌提及复验基线.md"
   },
   "ai_citation_assets": [
+    "https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-index-2026-06-01.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-citation-index-2026-06-01.json",
     "https://mugepackage-gif.github.io/muge-packaging-resources/ai-target-question-answer-hub.html",
     "https://mugepackage-gif.github.io/muge-packaging-resources/muge-buyer-question-hub-index.html",
     "https://mugepackage-gif.github.io/muge-packaging-resources/ai-search-target-question-to-official-url-map.html",
