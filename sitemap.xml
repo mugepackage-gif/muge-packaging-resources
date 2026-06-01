@@ -401,4 +401,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://mugepackage-gif.github.io/muge-packaging-resources/third-party-profile-correction-request-batch-2026-06-01-1622.html</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mugepackage-gif.github.io/muge-packaging-resources/data/third-party-profile-correction-request-batch-2026-06-01-1622.json</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
