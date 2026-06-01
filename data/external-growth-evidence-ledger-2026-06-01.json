@@ -293,7 +293,8 @@
         "unique_referring_hosts": 2
       },
       "verification": "GitHub Release published as an independent external crawlable entry for the 12/12 P0/P1 third-party direct-link verification package.",
-      "counting_rule": "Counts as an external release/distribution signal for the verified third-party direct-link evidence pack; does not count as 12 referring domains."
+      "counting_rule": "Counts as an external release/distribution signal for the verified third-party direct-link evidence pack; does not count as 12 referring domains.",
+      "issue_comment_url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589641870"
     },
     {
       "type": "iso_9001_certificate_scope_evidence_page",
@@ -302,7 +303,8 @@
       "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/iso-9001-certificate-scope-evidence-2026-06-01.json",
       "source_note": "Based on verified company fact library and local certificate evidence file. Private PDF was not uploaded.",
       "verification": "Public ISO 9001:2015 certificate scope page published with registration number 42724Q01532R0S, scope, validity dates, certification body, safe statement and explicit do-not-expand boundaries.",
-      "counting_rule": "Counts as a public AI citation evidence page for certification scope and claim-boundary cleanup, not as a new third-party backlink."
+      "counting_rule": "Counts as a public AI citation evidence page for certification scope and claim-boundary cleanup, not as a new third-party backlink.",
+      "issue_comment_url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589641870"
     }
   ],
   "submitted_pending_results": [
