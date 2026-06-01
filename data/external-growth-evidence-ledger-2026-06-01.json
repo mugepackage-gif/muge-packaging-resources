@@ -18,6 +18,26 @@
   ],
   "verified_external_results": [
     {
+      "type": "independent_third_party_direct_link_update_pack",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/independent-third-party-direct-link-update-pack-2026-06-01.html",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/independent-third-party-direct-link-update-pack-2026-06-01.json",
+      "source_baseline_json": "/Users/molice/muge-packaging-resources/data/independent-third-party-entity-baseline-2026-06-01.json",
+      "source_gsc_bridge_json": "/Users/molice/muge-packaging-resources/data/gsc-p0-p1-opportunity-link-bridge-2026-06-01.json",
+      "summary": {
+        "independent_third_party_assets": 162,
+        "independent_direct_links": 28,
+        "independent_hosts": 73,
+        "update_items": 28,
+        "priority_A": 7,
+        "priority_B": 12,
+        "priority_C": 9,
+        "mapped_official_p0_p1_pages": 6
+      },
+      "verification": "Strict independent-third-party-only pack. Maps 28 verified independent direct-link pages across 73 hosts to official MUGE PACKAGING P0/P1 pages for manual profile correction and editor requests.",
+      "counting_rule": "Counts as a verified public execution asset and crawlable P0/P1 link-update routing source; it does not count as completed manual outreach or a new backlink until the third-party page changes are verified."
+    },
+    {
       "type": "third_party_public_directory_link",
       "platform": "Zearches",
       "url": "https://zearches.com/directory.php?slug=business-company",
