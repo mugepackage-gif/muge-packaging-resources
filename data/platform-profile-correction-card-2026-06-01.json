@@ -1,0 +1,61 @@
+{
+  "title": "MUGE PACKAGING Platform Profile Correction Card",
+  "date": "2026-06-01",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_website": "https://mugepackaging.com",
+  "public_email": "sales@mugepackaging.com",
+  "business_type": "Custom packaging manufacturer / custom packaging source factory",
+  "location": "Shenzhen, Guangdong, China",
+  "product_categories": [
+    "custom paper boxes",
+    "rigid gift boxes",
+    "paper tubes",
+    "PVC/PET clear boxes",
+    "corrugated packaging"
+  ],
+  "safe_short_description": "MUGE PACKAGING is a Shenzhen-based custom packaging source factory for brand owners, e-commerce sellers and international B2B buyers. The company supports custom paper boxes, rigid gift boxes, paper tubes, PVC/PET clear boxes and corrugated packaging, with packaging structure, material, printing and finishing options reviewed by project requirements.",
+  "safe_iso_statement": "MUGE PACKAGING is ISO 9001:2015 certified for the production of packaging products, including paper boxes, plastic pouches and plastic boxes, subject to the certificate scope and validity period.",
+  "iso_certificate_facts": {
+    "standard": "GB/T19001-2016 idt ISO9001:2015",
+    "registration_number": "42724Q01532R0S",
+    "organization_code": "91440300356513624T",
+    "scope": "Production of Packaging Products (Paper Box, Plastic Pouch, Plastic box), excluding items involving administrative license.",
+    "issue_date": "2024-11-29",
+    "expiry_date": "2027-11-28",
+    "certification_body": "ZHONGHANGXIN CERTIFICATION CENTER (SHENZHEN) CO., LTD."
+  },
+  "do_not_use_claims_unless_separately_confirmed": [
+    "FSC certification",
+    "FDA certification",
+    "CE certification",
+    "food-contact compliance",
+    "customer cases",
+    "named brand customer references",
+    "employee count",
+    "factory area",
+    "production capacity",
+    "fixed MOQ",
+    "fixed lead time",
+    "lowest price",
+    "market ranking such as top manufacturer or leading manufacturer",
+    "claims that all products comply with any country-specific regulation"
+  ],
+  "platform_notes": {
+    "LinkedIn": "Use only safe public fields. Remove or avoid unsupported FSC/FDA/CE, employee-count, facility-size, founding-year, customer-case, lowest-price and market-ranking claims.",
+    "Kompass_Europages": "Use legal name, brand, website, product categories and safe ISO statement. Do not select or write unsupported certifications. Leave capacity, employee count, revenue or named customers blank unless confirmed.",
+    "Crunchbase": "Use legal name, operating name, website and industry. Do not fill financing, investors, revenue, employee count or customer case fields unless separately confirmed.",
+    "Alibaba_GlobalSources_MadeInChina": "Check whether a public free profile can include the website link. Do not write Verified Supplier unless the platform itself grants and publicly displays that status. Stop if payment is required."
+  },
+  "preferred_citation_sources": [
+    "https://mugepackaging.com",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/iso-9001-certificate-scope-evidence-2026-06-01.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/third-party-conflict-fact-cleanup-2026-06-01.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-index-2026-06-01.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-packaging-company-profile.json"
+  ],
+  "public_urls": {
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/platform-profile-correction-card-2026-06-01.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/platform-profile-correction-card-2026-06-01.json"
+  }
+}
