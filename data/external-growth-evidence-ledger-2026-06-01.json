@@ -87,7 +87,8 @@
       "mapped_official_url_count": 7,
       "opportunity_count": 140,
       "verification": "Generated from the verified external brand mention baseline. The dataset maps qualified external assets to seven official MUGE PACKAGING P0/P1 URLs and avoids unverified commercial or compliance claims.",
-      "counting_rule": "Counts as an operational backlink opportunity map for directing existing external signals toward P0/P1 transaction pages after HTTP 200 publication verification."
+      "counting_rule": "Counts as an operational backlink opportunity map for directing existing external signals toward P0/P1 transaction pages after HTTP 200 publication verification.",
+      "issue_comment_url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589558139"
     },
     {
       "type": "third_party_public_ai_citation_asset",
