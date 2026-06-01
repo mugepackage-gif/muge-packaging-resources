@@ -40,6 +40,13 @@
       "json_asset_url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/download/v2026.06.01-ai-verifiable-facts-pack/muge-packaging-ai-verifiable-facts-2026-06-01.json",
       "verification": "HTTP 200; release page contains MUGE PACKAGING AI-Verifiable Facts Pack notes and downloadable Markdown/JSON assets.",
       "counting_rule": "Counts as verified public release-level citation asset for AI search and buyer due diligence."
+    },
+    {
+      "type": "third_party_public_issue_execution_queue",
+      "platform": "GitHub Issue",
+      "url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37",
+      "verification": "HTTP 200; issue page contains MUGE PACKAGING, https://mugepackaging.com, ISO 9001:2015 limited scope wording and directory execution targets.",
+      "counting_rule": "Counts as verified public issue-level entity asset and directory execution queue."
     }
   ],
   "submitted_pending_results": [
@@ -92,8 +99,8 @@
     "conclusion": "Target commercial keyword visibility has not broken through yet."
   },
   "latest_external_entity_baseline": {
-    "verified_external_entity_assets": 588,
-    "verified_link": 328,
+    "verified_external_entity_assets": 589,
+    "verified_link": 329,
     "verified_indirect_link": 34,
     "verified_structured_sameas": 2,
     "verified_mention": 224
@@ -111,6 +118,7 @@
     "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-ai-verifiable-facts-pack",
     "https://github.com/mugepackage-gif/muge-packaging-resources/releases/download/v2026.06.01-ai-verifiable-facts-pack/muge-packaging-ai-verifiable-facts-2026-06-01.md",
     "https://github.com/mugepackage-gif/muge-packaging-resources/releases/download/v2026.06.01-ai-verifiable-facts-pack/muge-packaging-ai-verifiable-facts-2026-06-01.json",
+    "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37",
     "https://mugepackage-gif.github.io/muge-packaging-resources/search-engine-submission-status-2026-06-01.html"
   ]
 }
