@@ -148,6 +148,18 @@
       "release_url": "https://github.com/mugepackage-gif/muge-packaging-ai-datasets/releases/tag/v2026.06.01-ai-search-buyer-question-dataset",
       "verification": "HTTP 200; the independent public dataset repository and release contain 30 AI search buyer question records, MUGE PACKAGING entity facts, official website, public contact email, ISO 9001:2015 limited scope wording and explicit claim boundaries.",
       "counting_rule": "Counts as verified public AI dataset assets across repository, Raw and Release surfaces for GEO and AI crawler reuse."
+    },
+    {
+      "type": "cloudflare_workers_ai_dataset_mirror",
+      "platform": "Cloudflare Workers",
+      "url": "https://muge-ai-dataset.mugepackaging.workers.dev/",
+      "dataset_json_url": "https://muge-ai-dataset.mugepackaging.workers.dev/dataset.json",
+      "dataset_jsonl_url": "https://muge-ai-dataset.mugepackaging.workers.dev/dataset.jsonl",
+      "llms_url": "https://muge-ai-dataset.mugepackaging.workers.dev/llms.txt",
+      "robots_url": "https://muge-ai-dataset.mugepackaging.workers.dev/robots.txt",
+      "sitemap_url": "https://muge-ai-dataset.mugepackaging.workers.dev/sitemap.txt",
+      "verification": "HTTP 200; Workers mirror contains MUGE PACKAGING, Shenzhen Muge Design Packaging Product Co., Ltd., https://mugepackaging.com, Dataset JSON-LD, 12 AI buyer question records, llms.txt, robots.txt and sitemap discovery endpoints.",
+      "counting_rule": "Counts as verified public Cloudflare-hosted AI dataset mirror and external entity/citation discovery asset."
     }
   ],
   "submitted_pending_results": [
@@ -197,14 +209,19 @@
     "total_targets": 23,
     "top20": 0,
     "clicked": 0,
+    "no_impression_breakpoints": 22,
+    "check_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1100_目标关键词排名验收.json",
     "conclusion": "Target commercial keyword visibility has not broken through yet."
   },
   "latest_external_entity_baseline": {
-    "verified_external_entity_assets": 731,
-    "verified_link": 352,
+    "verified_external_entity_assets": 735,
+    "verified_link": 353,
     "verified_indirect_link": 34,
     "verified_structured_sameas": 2,
-    "verified_mention": 343
+    "verified_mention": 346,
+    "not_found": 2,
+    "error": 0,
+    "baseline_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-01_1058_MUGE外部品牌提及复验基线.json"
   },
   "ai_citation_assets": [
     "https://mugepackage-gif.github.io/muge-packaging-resources/ai-target-question-answer-hub.html",
@@ -263,6 +280,12 @@
     "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-ai-datasets/master/data/muge-ai-search-buyer-questions.jsonl",
     "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-ai-datasets/master/data/muge-ai-search-buyer-questions.csv",
     "https://github.com/mugepackage-gif/muge-packaging-ai-datasets/releases/tag/v2026.06.01-ai-search-buyer-question-dataset",
-    "https://mugepackage-gif.github.io/muge-packaging-resources/search-engine-submission-status-2026-06-01.html"
+    "https://mugepackage-gif.github.io/muge-packaging-resources/search-engine-submission-status-2026-06-01.html",
+    "https://muge-ai-dataset.mugepackaging.workers.dev/",
+    "https://muge-ai-dataset.mugepackaging.workers.dev/dataset.json",
+    "https://muge-ai-dataset.mugepackaging.workers.dev/dataset.jsonl",
+    "https://muge-ai-dataset.mugepackaging.workers.dev/llms.txt",
+    "https://muge-ai-dataset.mugepackaging.workers.dev/robots.txt",
+    "https://muge-ai-dataset.mugepackaging.workers.dev/sitemap.txt"
   ]
 }
