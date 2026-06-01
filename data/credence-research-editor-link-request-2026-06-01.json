@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-01",
+  "status": "ready-for-manual-email",
+  "target": {
+    "organization": "Credence Research",
+    "contactPage": "https://www.credenceresearch.com/contact-us",
+    "publicEmailToTry": "sales@credenceresearch.com"
+  },
+  "request": {
+    "type": "editorial link request",
+    "officialUrl": "https://mugepackaging.com",
+    "suggestedDescription": "MUGE PACKAGING is a Shenzhen-based custom packaging source factory supporting paper boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated packaging for international B2B buyers."
+  },
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "website": "https://mugepackaging.com",
+    "allowedCertificationStatement": "ISO 9001:2015 certified for Production of Packaging Products (Paper Box, Plastic Pouch, Plastic box), excluding items involving administrative license."
+  },
+  "restrictions": [
+    "No paid placement requested",
+    "No Verified Supplier claim",
+    "No fixed MOQ",
+    "No fixed lead time",
+    "No capacity claim",
+    "No customer case claim",
+    "No FSC/FDA/food-contact claim"
+  ],
+  "execution": {
+    "emailSentAutomatically": false,
+    "formSubmitted": false,
+    "blockedByCaptchaOrLogin": false,
+    "nextAction": "Manual email or platform submission can use the provided copy."
+  }
+}
