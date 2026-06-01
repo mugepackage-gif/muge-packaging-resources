@@ -1,0 +1,228 @@
+{
+  "generated_at": "2026-06-01T08:07:32.833958+00:00",
+  "target": "https://mugepackaging.com",
+  "method": "curl HTTP fetch with browser-like user agent; no login, no payment, no captcha bypass",
+  "results": [
+    {
+      "platform": "LinkedIn",
+      "type": "public social/company profile signal",
+      "url": "https://www.linkedin.com/company/mugepackaging/",
+      "final_url": "https://www.linkedin.com/company/mugepackaging/",
+      "host": "www.linkedin.com",
+      "http_status": 200,
+      "title": "Muge Packaging | LinkedIn",
+      "has_brand": true,
+      "has_domain": true,
+      "has_direct_href": true,
+      "href_hits": [
+        "https://mugepackaging.com/"
+      ],
+      "public_signal": true,
+      "verified_backlink_signal": true,
+      "snippet": " data-sequence-auto-redirect-before-request-enabled=\"true\"> <link rel=\"canonical\" href=\"https://cn.linkedin.com/company/mugepackaging\"> <!----><!----> <!----> <!----> <meta property=\"al:android:url\" content=\"https://cn.linkedin.com/company/mugepackaging\"> <meta property=\"al:android:package\" content=\"com.linkedin.android\"> <meta property=\"al:android:app_name\""
+    },
+    {
+      "platform": "Bizidex",
+      "type": "business directory profile",
+      "url": "https://bizidex.com/en/muge-packaging-packaging-foam-cushioning-containers-134824",
+      "final_url": "https://bizidex.com/en/muge-packaging-packaging-foam-cushioning-containers-134824",
+      "host": "bizidex.com",
+      "http_status": 200,
+      "title": "Muge Packaging - Packaging - Foam Cushioning & Containers - Bizidex",
+      "has_brand": true,
+      "has_domain": true,
+      "has_direct_href": true,
+      "href_hits": [
+        "https://www.mugepackaging.com/",
+        "https://www.mugepackaging.com:443/?utm_source=bizidex&amp;utm_medium=ads",
+        "https://www.mugepackaging.com:443/?utm_source=bizidex&utm_medium=ads"
+      ],
+      "public_signal": true,
+      "verified_backlink_signal": true,
+      "snippet": "\" data-capo=\"\"><head><meta charset=\"utf-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> <title>Muge Packaging - Packaging - Foam Cushioning & Containers - Bizidex</title> <link rel=\"preconnect\" href=\"https://fonts.gstatic.com/\" crossorigin> <script async type=\"application/ld+json\">{\"@context\":\"http://schema.org\",\"@type\":\"LocalBus"
+    },
+    {
+      "platform": "CityByApp",
+      "type": "local business directory profile",
+      "url": "https://www.citybyapp.com/china/shenzhen-shi/local-services/muge-packaging-481750",
+      "final_url": "https://www.citybyapp.com/china/shenzhen-shi/local-services/muge-packaging-481750",
+      "host": "www.citybyapp.com",
+      "http_status": 200,
+      "title": "Muge Packaging - Local Services - Local Business Directory",
+      "has_brand": true,
+      "has_domain": true,
+      "has_direct_href": true,
+      "href_hits": [
+        "https://www.mugepackaging.com/"
+      ],
+      "public_signal": true,
+      "verified_backlink_signal": true,
+      "snippet": "4.png\"> <link rel=\"icon\" type=\"image/png\" href=\"/images/City_By_App_APP_favicon_v4.png\"> <!-- Site Meta Data --> <title>Muge Packaging - Local Services - Local Business Directory</title> <meta name=\"description\" content=\"Connect with Muge Packaging, Local Services in Shenzhen Shi, Guangdong Sheng China. Find Muge Packaging reviews and more. \"> <meta name=\"ke"
+    },
+    {
+      "platform": "Antech",
+      "type": "industry/wiki attribution",
+      "url": "https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/",
+      "final_url": "https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/",
+      "host": "www.antech.ru",
+      "http_status": 200,
+      "title": "Шестигранная коробка Hexagon",
+      "has_brand": true,
+      "has_domain": true,
+      "has_direct_href": true,
+      "href_hits": [
+        "https://www.mugepackaging.com/product/hexagon-corrugated-box-wholesale/"
+      ],
+      "public_signal": true,
+      "verified_backlink_signal": true,
+      "snippet": "ection\"></div> <div class=\"[background:var(--white-100,#FFF)] rounded-xl p-12 raw-content paragraph\"> <p>Специалисты из Muge Design разработали конструкцию шестигранной упаковочной коробки </p><p>Специалисты из китайской компании <strong>Muge Design</strong> разработали конструкцию шестигранной <a href=\"/kartonnye-korobki-na-zakaz/\">упаковочной коробки</a> с"
+    },
+    {
+      "platform": "YellowPagesOnline",
+      "type": "yellow pages profile",
+      "url": "https://www.yellowpagesonline.com/china/shenzhen-shi/boxes-retail/muge-packaging",
+      "final_url": "https://www.yellowpagesonline.com/china/shenzhen-shi/boxes-retail/muge-packaging",
+      "host": "www.yellowpagesonline.com",
+      "http_status": 200,
+      "title": "Muge Packaging - BOXES RETAIL - Yellow Pages ONLINE",
+      "has_brand": true,
+      "has_domain": true,
+      "has_direct_href": true,
+      "href_hits": [
+        "https://www.mugepackaging.com/"
+      ],
+      "public_signal": true,
+      "verified_backlink_signal": true,
+      "snippet": "s/YELLOWPAGES2.jpg\"> <link rel=\"icon\" type=\"image/jpeg\" href=\"/images/YELLOWPAGES2.jpg\"> <!-- Site Meta Data --> <title>Muge Packaging - BOXES RETAIL - Yellow Pages ONLINE</title> <meta name=\"description\" content=\"Connect with Muge Packaging, BOXES RETAIL in Shenzhen Shi, Guangdong China. Find Muge Packaging reviews and more. \"> <meta name=\"keywords\" content"
+    },
+    {
+      "platform": "Mercatora",
+      "type": "company entity page",
+      "url": "https://www.mercatora.com/companies/shenzhen-muge-design-packaging-product-co-ltd-3a52f2",
+      "final_url": "https://www.mercatora.com/companies/shenzhen-muge-design-packaging-product-co-ltd-3a52f2",
+      "host": "www.mercatora.com",
+      "http_status": 200,
+      "title": "Shenzhen Muge Design Packaging Product Co., Ltd. — verified supplier — Mercatora",
+      "has_brand": true,
+      "has_domain": false,
+      "has_direct_href": false,
+      "href_hits": [],
+      "public_signal": true,
+      "verified_backlink_signal": false,
+      "snippet": "><script src=\"/_next/static/chunks/app/companies/%5Bslug%5D/page-cb082d226eac9bf0.js\" async=\"\"></script><title>Shenzhen Muge Design Packaging Product Co., Ltd. — verified supplier — Mercatora</title><meta name=\"description\" content=\"Custom paper boxes; rigid gift boxes; paper tube packaging; PVC/PET clear boxes; corrugated boxes; cosmetic packaging boxes; va"
+    },
+    {
+      "platform": "Zearches",
+      "type": "free website directory listing",
+      "url": "https://zearches.com/directory.php?slug=business-company",
+      "final_url": "https://zearches.com/directory.php?slug=business-company",
+      "host": "zearches.com",
+      "http_status": 200,
+      "title": "Business & Company Sites – Free Website Submission Directory",
+      "has_brand": true,
+      "has_domain": true,
+      "has_direct_href": true,
+      "href_hits": [
+        "https://mugepackaging.com",
+        "https://mugepackaging.com/"
+      ],
+      "public_signal": true,
+      "verified_backlink_signal": true,
+      "snippet": "links-full\" style=\"margin-top:0;\"> <li class=\"directory-links-item\"> <div class=\"directory-link-main\"> <a href=\"https://mugepackaging.com\" target=\"_blank\" rel=\"noopener nofollow\" class=\"directory-link-title\"> MUGE PACKAGING </a> <p class=\"directory-link-desc\"> Custom packaging source factory for cosmetic boxes, rigid gift boxes, paper tubes, clear boxes and "
+    },
+    {
+      "platform": "ProvenExpert",
+      "type": "public business profile",
+      "url": "https://www.provenexpert.com/en-us/muge-packaging/",
+      "final_url": "https://www.provenexpert.com/en-us/muge-packaging/",
+      "host": "www.provenexpert.com",
+      "http_status": 200,
+      "title": "Muge Packaging Reviews & Experiences",
+      "has_brand": true,
+      "has_domain": true,
+      "has_direct_href": true,
+      "href_hits": [
+        "https://www.mugepackaging.com/c/custom-stickers/"
+      ],
+      "public_signal": true,
+      "verified_backlink_signal": true,
+      "snippet": "t.com/uc.js\" data-cbid=\"e89874dc-49a1-4fa1-9cec-8c95488ed95c\" data-culture=\"EN\" type=\"text/javascript\"></script> <title>Muge Packaging Reviews & Experiences</title> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no\"> <meta name=\"description\" content=\"Ratings & reviews for Muge Packa"
+    },
+    {
+      "platform": "Packaza",
+      "type": "industry supplier list",
+      "url": "https://packaza.com/blog/top-10-magnetic-gift-box-manufacturer-in-china/",
+      "final_url": "https://packaza.com/blog/top-10-magnetic-gift-box-manufacturer-in-china/",
+      "host": "packaza.com",
+      "http_status": 200,
+      "title": "Top 10 Magnetic Gift Box Manufacturers in China 2026",
+      "has_brand": true,
+      "has_domain": true,
+      "has_direct_href": true,
+      "href_hits": [
+        "https://www.mugepackaging.com/"
+      ],
+      "public_signal": true,
+      "verified_backlink_signal": true,
+      "snippet": "te form or inquiry page.</p> <hr class=\"wp-block-separator has-alpha-channel-opacity\"/> <h2 class=\"wp-block-heading\">6. MUGE Packaging</h2> <figure class=\"wp-block-image size-full\"><img loading=\"lazy\" loading=\"lazy\" decoding=\"async\" width=\"1000\" height=\"460\" src=\"https://packaza.com/wp-content/uploads/2026/04/MUGE-Packaging.webp\" alt=\"MUGE Packaging\" class=\""
+    },
+    {
+      "platform": "SourcifyChina",
+      "type": "supplier comparison page",
+      "url": "https://www.sourcifychina.com/top-foldable-gift-box-factory-compare/",
+      "final_url": "https://www.sourcifychina.com/top-foldable-gift-box-factory-compare/",
+      "host": "www.sourcifychina.com",
+      "http_status": 200,
+      "title": "Top 10 Foldable gift box factory in the World 2025",
+      "has_brand": true,
+      "has_domain": true,
+      "has_direct_href": true,
+      "href_hits": [
+        "https://www.mugepackaging.com/product/folding-gift-boxes-wholesale/"
+      ],
+      "public_signal": true,
+      "verified_backlink_signal": true,
+      "snippet": "%2Fgleepackaging.com%2Ffolding-carton-boxes%2F&width=800\"/><br /> </a></p> <h2>Folding Gift Boxes Wholesale – Muge Packaging</h2> <p><strong>Product Details:</strong> Folding gift boxes are extraordinarily designed gift boxes made from thick luxury rigid stock, available in various sizes, shapes, and colors. They are also known as foldable rigid bo"
+    },
+    {
+      "platform": "Siteprice",
+      "type": "aggregated competitor/domain page",
+      "url": "https://www.siteprice.org/competitors/mugepackaging.com",
+      "final_url": "https://www.siteprice.org/competitors/mugepackaging.com",
+      "host": "www.siteprice.org",
+      "http_status": 200,
+      "title": "mugepackaging.com competitors - Top similar sites like 20 mugepackaging.com and alternatives",
+      "has_brand": true,
+      "has_domain": true,
+      "has_direct_href": true,
+      "href_hits": [
+        "https://www.mugepackaging.com"
+      ],
+      "public_signal": true,
+      "verified_backlink_signal": true,
+      "snippet": " <!DOCTYPE html> <html lang=\"en\"> <head><link rel=\"canonical\" href=\"https://www.siteprice.org/competitors/mugepackaging.com\" /> <script> window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } // Consent Mode v2 defaults: deny until user makes a choice gtag('consent', 'default', { 'ad_storage': 'denied', 'ad_user_data': 'den"
+    },
+    {
+      "platform": "Global Site Directory",
+      "type": "submitted directory recheck",
+      "url": "https://gsdirectory.org/search/?q=mugepackaging",
+      "final_url": "https://gsdirectory.org/search/?q=mugepackaging",
+      "host": "gsdirectory.org",
+      "http_status": 404,
+      "title": "404: This page could not be found.",
+      "has_brand": false,
+      "has_domain": false,
+      "has_direct_href": false,
+      "href_hits": [],
+      "public_signal": false,
+      "verified_backlink_signal": false,
+      "snippet": ""
+    }
+  ],
+  "summary": {
+    "checked": 12,
+    "public_signals": 11,
+    "verified_backlink_signals": 10,
+    "blocked_or_not_found": 1
+  }
+}
