@@ -47,6 +47,18 @@
       "url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37",
       "verification": "HTTP 200; issue page contains MUGE PACKAGING, https://mugepackaging.com, ISO 9001:2015 limited scope wording and directory execution targets.",
       "counting_rule": "Counts as verified public issue-level entity asset and directory execution queue."
+    },
+    {
+      "type": "third_party_public_issue_execution_cards",
+      "platform": "GitHub Issue Comments",
+      "urls": [
+        "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4588653620",
+        "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4588653696",
+        "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4588653773",
+        "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4588653844"
+      ],
+      "verification": "HTTP 200; public issue comments contain MUGE PACKAGING, https://mugepackaging.com, platform-specific execution fields, stop rules and verification requirements.",
+      "counting_rule": "Counts as four verified public comment-level entity assets and execution cards."
     }
   ],
   "submitted_pending_results": [
@@ -99,8 +111,8 @@
     "conclusion": "Target commercial keyword visibility has not broken through yet."
   },
   "latest_external_entity_baseline": {
-    "verified_external_entity_assets": 589,
-    "verified_link": 329,
+    "verified_external_entity_assets": 593,
+    "verified_link": 333,
     "verified_indirect_link": 34,
     "verified_structured_sameas": 2,
     "verified_mention": 224
@@ -119,6 +131,10 @@
     "https://github.com/mugepackage-gif/muge-packaging-resources/releases/download/v2026.06.01-ai-verifiable-facts-pack/muge-packaging-ai-verifiable-facts-2026-06-01.md",
     "https://github.com/mugepackage-gif/muge-packaging-resources/releases/download/v2026.06.01-ai-verifiable-facts-pack/muge-packaging-ai-verifiable-facts-2026-06-01.json",
     "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37",
+    "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4588653620",
+    "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4588653696",
+    "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4588653773",
+    "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4588653844",
     "https://mugepackage-gif.github.io/muge-packaging-resources/search-engine-submission-status-2026-06-01.html"
   ]
 }
