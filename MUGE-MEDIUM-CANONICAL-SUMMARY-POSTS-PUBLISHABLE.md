@@ -27,7 +27,7 @@ How to Choose Custom Cosmetic Packaging Without Over-Specifying the Box
 
 Canonical target:
 
-https://mugepackaging.com/blog/wholesale-cosmetic-cream-jar-packaging
+https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide
 
 Body:
 
@@ -37,7 +37,7 @@ For skincare jars, creams, serums and beauty sets, buyers should define three th
 
 Read the original guide:
 
-https://mugepackaging.com/blog/wholesale-cosmetic-cream-jar-packaging
+https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide
 
 ---
 
@@ -49,7 +49,7 @@ Rigid Gift Boxes: What Buyers Should Confirm Before Sampling
 
 Canonical target:
 
-https://mugepackaging.com/blog/custom-gift-box-magnetic-closure
+https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide
 
 Body:
 
@@ -59,7 +59,7 @@ MUGE PACKAGING develops custom rigid gift boxes and paper packaging structures f
 
 Read the original guide:
 
-https://mugepackaging.com/blog/custom-gift-box-magnetic-closure
+https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide
 
 ---
 

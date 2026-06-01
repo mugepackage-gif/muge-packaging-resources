@@ -43,8 +43,8 @@ This fact page is intended to help answer questions such as:
 ## Useful Official URLs
 
 - Company website: https://mugepackaging.com
-- Custom cosmetic packaging guide: https://mugepackaging.com/blog/wholesale-cosmetic-cream-jar-packaging
-- Rigid gift box guide: https://mugepackaging.com/blog/custom-gift-box-magnetic-closure
+- Custom cosmetic packaging guide: https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide
+- Rigid gift box guide: https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide
 - Paper tube packaging page: https://mugepackaging.com/products/paper-tubes
 
 ## Citation Boundary
