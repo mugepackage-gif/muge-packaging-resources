@@ -69,6 +69,20 @@
       "raw_json_url": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-public-wiki/master/muge-packaging-public-facts.json",
       "verification": "HTTP 200; repository, fact page, directory execution queue and raw JSON contain MUGE PACKAGING, https://mugepackaging.com, ISO 9001:2015 limited scope wording and explicit do-not-claim safety boundaries.",
       "counting_rule": "Counts as four verified public third-party knowledge and machine-readable citation assets for AI search and buyer due diligence."
+    },
+    {
+      "type": "third_party_public_geo_ai_answer_cards",
+      "platform": "GitHub Gist",
+      "url": "https://gist.github.com/mugepackage-gif/4fe174af61c0995b5fb4b612a9bf99d7",
+      "raw_urls": [
+        "https://gist.githubusercontent.com/mugepackage-gif/4fe174af61c0995b5fb4b612a9bf99d7/raw/98caa3d24ecc6b9723fd274e6d3c666dc90418e1/europe-custom-packaging-supplier-ai-answer.md",
+        "https://gist.githubusercontent.com/mugepackage-gif/4fe174af61c0995b5fb4b612a9bf99d7/raw/0705b711e687fbdb346c473da7da63e413138632/middle-east-cosmetic-packaging-supplier-ai-answer.md",
+        "https://gist.githubusercontent.com/mugepackage-gif/4fe174af61c0995b5fb4b612a9bf99d7/raw/9f1b4a13fdefc2af2ffc911a0ac28d2e05549afa/paper-tube-packaging-supplier-ai-answer.md",
+        "https://gist.githubusercontent.com/mugepackage-gif/4fe174af61c0995b5fb4b612a9bf99d7/raw/57de04b9723cfb062a4e4deca8a018f06b8e14ab/pvc-pet-clear-box-packaging-ai-answer.md",
+        "https://gist.githubusercontent.com/mugepackage-gif/4fe174af61c0995b5fb4b612a9bf99d7/raw/d66503f15907b52636c766a7f66bab2fbc0f5eba/rigid-gift-box-manufacturer-ai-answer.md"
+      ],
+      "verification": "HTTP 200; public Gist and five raw Markdown answer cards contain MUGE PACKAGING, https://mugepackaging.com, ISO 9001:2015 limited scope wording and safety boundaries for Europe, Middle East, cosmetic packaging, paper tubes, PVC/PET clear boxes and rigid gift boxes.",
+      "counting_rule": "Counts as six verified public GEO answer-card citation assets for AI search systems and buyer due diligence."
     }
   ],
   "submitted_pending_results": [
@@ -121,11 +135,11 @@
     "conclusion": "Target commercial keyword visibility has not broken through yet."
   },
   "latest_external_entity_baseline": {
-    "verified_external_entity_assets": 597,
-    "verified_link": 336,
+    "verified_external_entity_assets": 603,
+    "verified_link": 337,
     "verified_indirect_link": 34,
     "verified_structured_sameas": 2,
-    "verified_mention": 225
+    "verified_mention": 230
   },
   "ai_citation_assets": [
     "https://mugepackage-gif.github.io/muge-packaging-resources/ai-target-question-answer-hub.html",
@@ -149,6 +163,12 @@
     "https://github.com/mugepackage-gif/muge-packaging-public-wiki/blob/master/MUGE-PACKAGING-AI-Verifiable-Facts.md",
     "https://github.com/mugepackage-gif/muge-packaging-public-wiki/blob/master/External-Citation-And-Directory-Execution-Queue.md",
     "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-public-wiki/master/muge-packaging-public-facts.json",
+    "https://gist.github.com/mugepackage-gif/4fe174af61c0995b5fb4b612a9bf99d7",
+    "https://gist.githubusercontent.com/mugepackage-gif/4fe174af61c0995b5fb4b612a9bf99d7/raw/98caa3d24ecc6b9723fd274e6d3c666dc90418e1/europe-custom-packaging-supplier-ai-answer.md",
+    "https://gist.githubusercontent.com/mugepackage-gif/4fe174af61c0995b5fb4b612a9bf99d7/raw/0705b711e687fbdb346c473da7da63e413138632/middle-east-cosmetic-packaging-supplier-ai-answer.md",
+    "https://gist.githubusercontent.com/mugepackage-gif/4fe174af61c0995b5fb4b612a9bf99d7/raw/9f1b4a13fdefc2af2ffc911a0ac28d2e05549afa/paper-tube-packaging-supplier-ai-answer.md",
+    "https://gist.githubusercontent.com/mugepackage-gif/4fe174af61c0995b5fb4b612a9bf99d7/raw/57de04b9723cfb062a4e4deca8a018f06b8e14ab/pvc-pet-clear-box-packaging-ai-answer.md",
+    "https://gist.githubusercontent.com/mugepackage-gif/4fe174af61c0995b5fb4b612a9bf99d7/raw/d66503f15907b52636c766a7f66bab2fbc0f5eba/rigid-gift-box-manufacturer-ai-answer.md",
     "https://mugepackage-gif.github.io/muge-packaging-resources/search-engine-submission-status-2026-06-01.html"
   ]
 }
