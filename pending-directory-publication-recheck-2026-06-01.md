@@ -10,7 +10,7 @@ date: 2026-06-01
 
 # MUGE PACKAGING Pending Directory Publication Recheck
 
-- Generated at: 2026-06-01T08:36:18.027Z
+- Generated at: 2026-06-01T13:00:40.168Z
 - Website: https://mugepackaging.com
 - Checked URLs: 21
 - Stable public signals: 3
@@ -40,8 +40,8 @@ Only a public page with MUGE PACKAGING, mugepackaging.com, or a direct href/doma
 | Packaged Sustainable | 200 | no | no | https://www.packagedsustainable.com/sustainable-packaging-companies | The Top Sustainable Packaging Companies |
 | Packaged Sustainable | 404 | no | no | https://www.packagedsustainable.com/sustainable-packaging-supplier/muge-packaging | Not Found |
 | Packaged Sustainable | 200 | no | no | https://www.packagedsustainable.com/suppliers | The Top Sustainable Packaging Companies |
-| B2Bs | 404 | no | no | https://www.b2bs.com/search?q=mugepackaging.com | 404 - Page Not Found \| B2Bs |
-| B2Bs | 404 | no | no | https://www.b2bs.com/search?q=MUGE%20PACKAGING | 404 - Page Not Found \| B2Bs |
+| B2Bs | 0 | no | no | https://www.b2bs.com/search?q=mugepackaging.com |  |
+| B2Bs | 0 | no | no | https://www.b2bs.com/search?q=MUGE%20PACKAGING |  |
 | PromoteBusinessDirectory | 200 | no | no | https://www.promotebusinessdirectory.com/search.php?search=mugepackaging.com |  |
 | PromoteBusinessDirectory | 200 | no | no | https://www.promotebusinessdirectory.com/search.php?search=MUGE%20PACKAGING |  |
 | BusinessSeek | 200 | yes | no | https://www.businessseek.biz/search.php?action=search_links_simple&phrase=mugepackaging.com | mugepackaging.com |
