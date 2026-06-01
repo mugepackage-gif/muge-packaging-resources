@@ -1,0 +1,53 @@
+{
+  "title": "MUGE PACKAGING live editor link request send log",
+  "generated_at": "2026-06-01T15:04:26.899Z",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "website": "https://mugepackaging.com",
+  "counting_rule": "These are live outreach actions, not verified backlinks. A result is counted as a verified backlink only after a public third-party page contains MUGE PACKAGING, mugepackaging.com, or a direct href/domain signal.",
+  "actions": [
+    {
+      "platform": "Packaza",
+      "target_page": "https://packaza.com/blog/top-10-magnetic-gift-box-manufacturer-in-china/",
+      "recipient": "cady2016@foxmail.com",
+      "requested_target_url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "requested_anchor": "custom rigid gift box manufacturer",
+      "send_result": "submitted_to_local_mail_transport_no_local_queue_after_send",
+      "verification_status": "awaiting_editor_response_or_public_page_change",
+      "claim_boundary": "No verified supplier, fixed MOQ, fixed lead time, food-contact/FDA/FSC, customer case, capacity, revenue or lowest-price claim was requested."
+    },
+    {
+      "platform": "Zearches",
+      "target_page": "https://zearches.com/directory.php?slug=business-company",
+      "recipient": "team@zearches.com",
+      "requested_target_url": "https://mugepackaging.com/products",
+      "requested_anchor": "custom packaging products by MUGE PACKAGING",
+      "send_result": "submitted_to_local_mail_transport_no_local_queue_after_send",
+      "verification_status": "awaiting_editor_response_or_public_page_change",
+      "claim_boundary": "No verified supplier, fixed MOQ, fixed lead time, food-contact/FDA/FSC, customer case, capacity, revenue or lowest-price claim was requested."
+    },
+    {
+      "platform": "ProvenExpert",
+      "target_page": "https://www.provenexpert.com/en-us/muge-packaging/",
+      "recipient": "support@provenexpert.com",
+      "requested_target_url": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+      "requested_anchor": "custom cosmetic packaging supplier",
+      "send_result": "queued_after_remote_450: Outlook protection rejected the current IPv6 sender because reverse DNS is missing; local mail queue will retry.",
+      "verification_status": "not_delivered_yet_local_queue_retry",
+      "claim_boundary": "No verified supplier, fixed MOQ, fixed lead time, food-contact/FDA/FSC, customer case, capacity, revenue or lowest-price claim was requested."
+    }
+  ],
+  "blockers": [
+    {
+      "item": "ProvenExpert email delivery",
+      "reason": "Remote server returned 450 4.7.25: sending IPv6 address must have reverse DNS record.",
+      "safe_next_step": "Use browser support/contact form or send through a managed company mailbox with valid SPF/DKIM/rDNS."
+    },
+    {
+      "item": "SourcifyChina contact page",
+      "reason": "Contact page includes anti-spam/recaptcha-style script flow; no bypass attempted.",
+      "safe_next_step": "Manual browser form only, stop at captcha or account risk."
+    }
+  ],
+  "commit_before": "64aa0a33981a31b2897741a14aaa75d609b1fac3"
+}

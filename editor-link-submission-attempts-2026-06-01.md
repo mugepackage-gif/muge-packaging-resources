@@ -37,3 +37,12 @@ Counting rule: a request pack, API 200, captcha response, free registration page
 
 Do not add Verified Supplier, Gold Supplier, fixed MOQ, fixed lead time, lowest price, food-contact compliance, FDA/FSC certification, customer case, production capacity, employee count, revenue or financing claims.
 
+
+
+## 2026-06-01 live editor link email batch
+
+| Platform | Result | Evidence |
+|---|---|---|
+| Packaza | Editor link request submitted to local mail transport; no local queue item remained after send. Awaiting public page change. | editor-link-live-send-log-2026-06-01.md |
+| Zearches | Editor link request submitted to local mail transport; no local queue item remained after send. Awaiting public page change. | editor-link-live-send-log-2026-06-01.md |
+| ProvenExpert | Remote Outlook protection returned 450 because sender IPv6 lacks reverse DNS; message remains queued for retry. | editor-link-live-send-log-2026-06-01.md |
