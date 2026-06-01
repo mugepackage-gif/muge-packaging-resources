@@ -223,6 +223,13 @@
       "evidence": "API response returned {\"success\":true,\"message\":\"Your submission has been received and is under review.\",\"status\":\"rejected\"}.",
       "public_search_check": "No public MUGE PACKAGING or mugepackaging.com listing found in GSDirectory search or Printing Services category checks.",
       "counting_rule": "Pending/submitted only; not counted as a verified backlink until a public listing appears."
+    },
+    {
+      "platform": "BusinessSeek",
+      "submission_url": "https://www.businessseek.biz/link_submit.php",
+      "status": "submitted_pending_email_confirmation",
+      "public_search_check": "Search Results (0) for mugepackaging.com and MUGE PACKAGING immediately after submission.",
+      "counting_rule": "Pending result only. Not counted as a verified backlink until email confirmation and a public listing page are verified."
     }
   ],
   "latest_gsc_target_keyword_status": {
