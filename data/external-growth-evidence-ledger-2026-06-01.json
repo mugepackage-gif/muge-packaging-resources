@@ -353,8 +353,11 @@
       "raw_html_url": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/external-platform-submission-command-center-2026-06-01.html",
       "raw_json_url": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/data/external-platform-submission-command-center-2026-06-01.json",
       "issue_comment_url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589755820",
-      "verification": "Public execution source generated for 12 external platforms, 7 preferred citation sources, safe profile fields, ISO wording boundary and do-not-claim list.",
-      "counting_rule": "Counts as a verified public coordination and citation asset. Individual platform submissions count only after public profile URL or visible platform evidence is recorded."
+      "verification": "Public execution source generated and externally mirrored for 12 external platforms, 7 preferred citation sources, safe profile fields, ISO wording boundary and do-not-claim list. Verified via GitHub Pages, GitHub Release and public Gist.",
+      "counting_rule": "Counts as a verified public coordination and citation asset. Individual platform submissions count only after public profile URL or visible platform evidence is recorded.",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/external-platform-submission-command-center-2026-06-01.md",
+      "release_url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-external-platform-command-center",
+      "gist_url": "https://gist.github.com/mugepackage-gif/209795ab710dcc4a68fd71d4ba63cb92"
     }
   ],
   "submitted_pending_results": [
