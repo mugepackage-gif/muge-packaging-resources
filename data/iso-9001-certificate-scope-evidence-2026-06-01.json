@@ -4,6 +4,22 @@
   "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "website": "https://mugepackaging.com",
   "date": "2026-06-01",
+  "date_published": "2026-06-01",
+  "date_modified": "2026-06-01",
+  "language": "en",
+  "is_accessible_for_free": true,
+  "license": "https://mugepackaging.com",
+  "dataset_identifier": "42724Q01532R0S",
+  "temporal_coverage": "2024-11-29/2027-11-28",
+  "variable_measured": [
+    "certificate standard",
+    "registration number",
+    "organization code",
+    "certified scope",
+    "issue date",
+    "expiry date",
+    "certification body"
+  ],
   "certificate": {
     "type": "Quality Management System Certification",
     "standard": "GB/T19001-2016 idt ISO9001:2015",
@@ -24,5 +40,10 @@
   "public_urls": {
     "html": "https://mugepackage-gif.github.io/muge-packaging-resources/iso-9001-certificate-scope-evidence-2026-06-01.html",
     "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/iso-9001-certificate-scope-evidence-2026-06-01.json"
+  },
+  "structured_data": {
+    "dataset": true,
+    "faq_page": true,
+    "faq_questions": 3
   }
 }
