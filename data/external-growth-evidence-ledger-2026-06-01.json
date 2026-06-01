@@ -694,7 +694,7 @@
     "target_keywords_clicked": 0,
     "target_keyword_audit_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1218_目标关键词排名验收.json"
   },
-  "generatedAt": "2026-06-01T08:39:12.223Z",
+  "generatedAt": "2026-06-01T08:42:12.970Z",
   "entries": [
     {
       "timestamp": "2026-06-01T05:48:33.088Z",
@@ -871,6 +871,17 @@
         "https://mugepackage-gif.github.io/muge-packaging-resources/active-search-results-sustainable-url-submit-2026-06-01.html",
         "https://mugepackage-gif.github.io/muge-packaging-resources/data/active-search-results-sustainable-url-submit-2026-06-01.json"
       ]
+    },
+    {
+      "timestamp": "2026-06-01T08:42:12.975Z",
+      "category": "sustainable_cost_comparison_citation_pack",
+      "result": "published_external_ai_citation_asset",
+      "targetQuery": "sustainable packaging cost vs traditional packaging comparison",
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/sustainable-packaging-cost-comparison-citation-pack-2026-06-01.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/sustainable-packaging-cost-comparison-citation-pack-2026-06-01.json"
+      ],
+      "claimBoundary": "No unsupported FSC/FDA/food-contact, fixed MOQ, fixed lead time, production capacity, customer case or lowest-price claims."
     }
   ]
 }
