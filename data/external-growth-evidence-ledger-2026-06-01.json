@@ -33,6 +33,21 @@
       "counting_rule": "Counts as verified public AI citation index and discovery asset for GEO, AI crawler reuse and sourcing research."
     },
     {
+      "type": "stable_public_ai_citation_index",
+      "platform": "GitHub Pages and GitHub Release",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-index.html",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-citation-index.json",
+      "release_url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-stable-ai-citation-index",
+      "resources_home_url": "https://mugepackage-gif.github.io/muge-packaging-resources/",
+      "commit_urls": [
+        "https://github.com/mugepackage-gif/muge-packaging-resources/commit/4581182",
+        "https://github.com/mugepackage-gif/muge-packaging-resources/commit/52d32c4"
+      ],
+      "source_count": 15,
+      "verification": "HTTP 200; stable HTML and JSON contain MUGE PACKAGING, Shenzhen Muge Design Packaging Product Co., Ltd., https://mugepackaging.com, 15 preferred citation sources, independent third-party entity baseline, Zearches directory signal, buyer question maps, evidence ledger and explicit do-not-infer boundaries. Resources home and llms.txt also link the stable index.",
+      "counting_rule": "Counts as a verified stable public AI/GEO citation hub and crawl-depth reduction asset for external growth evidence."
+    },
+    {
       "type": "third_party_public_ai_citation_index_release",
       "platform": "GitHub Release",
       "url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-ai-citation-index",
