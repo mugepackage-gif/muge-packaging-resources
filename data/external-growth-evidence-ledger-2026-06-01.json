@@ -121,10 +121,10 @@
       "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-backlink-opportunity-tiering-2026-06-01.json",
       "source_baseline": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-01_1218_MUGE外部品牌提及复验基线.json",
       "source_summary": {
-        "verified_external_entity_assets": 761,
-        "verified_direct_links": 377,
+        "verified_external_entity_assets": 759,
+        "verified_direct_links": 376,
         "verified_indirect_links": 34,
-        "verified_mentions": 348
+        "verified_mentions": 347
       },
       "mapped_official_url_count": 7,
       "opportunity_count": 140,
@@ -509,17 +509,17 @@
     "md_path": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1132_目标关键词排名验收.md"
   },
   "latest_external_entity_baseline": {
-    "checked_at": "2026-06-01 11:32 CST",
+    "checked_at": "2026-06-01 14:40 CST",
     "total": 765,
-    "verified_external_entity_assets": 761,
-    "verified_link": 377,
+    "verified_external_entity_assets": 759,
+    "verified_link": 376,
     "verified_indirect_link": 34,
     "verified_structured_sameas": 2,
-    "verified_mention": 348,
-    "not_found": 4,
-    "error": 0,
-    "json_path": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-01_1132_MUGE外部品牌提及复验基线.json",
-    "md_path": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-01_1132_MUGE外部品牌提及复验基线.md"
+    "verified_mention": 347,
+    "not_found": 5,
+    "error": 1,
+    "json_path": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-01_1440_MUGE外部品牌提及复验基线.json",
+    "md_path": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-01_1440_MUGE外部品牌提及复验基线.md"
   },
   "ai_citation_assets": [
     "https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-index-2026-06-01.html",
@@ -626,7 +626,7 @@
     "target_keywords_clicked": 0,
     "target_keyword_audit_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1218_目标关键词排名验收.json"
   },
-  "generatedAt": "2026-06-01T05:59:01.721Z",
+  "generatedAt": "2026-06-01T06:40:39.079Z",
   "entries": [
     {
       "timestamp": "2026-06-01T05:48:33.088Z",
@@ -667,6 +667,18 @@
         "https://mugepackage-gif.github.io/muge-packaging-resources/data/independent-third-party-entity-baseline-2026-06-01.json"
       ],
       "countingNote": "Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Workers, Weebly and official mugepackaging.com URLs. verified_link means independent public page with direct website link; verified_mention means independent public brand/entity mention only."
+    },
+    {
+      "timestamp": "2026-06-01T06:40:39.079Z",
+      "category": "pending_directory_publication_recheck",
+      "result": "advanced_verified_external_signal",
+      "checkedUrls": 17,
+      "stablePublicSignals": 1,
+      "verifiedBacklinkSignals": 1,
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/pending-directory-publication-recheck-2026-06-01.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/pending-directory-publication-recheck-2026-06-01.json"
+      ]
     }
   ]
 }

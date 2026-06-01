@@ -1,7 +1,7 @@
 {
   "name": "MUGE PACKAGING Pending Directory Publication Recheck",
   "date": "2026-06-01",
-  "generatedAt": "2026-06-01T05:48:33.088Z",
+  "generatedAt": "2026-06-01T06:40:39.079Z",
   "brand": "MUGE PACKAGING",
   "website": "https://mugepackaging.com",
   "resultSummary": {
@@ -65,7 +65,7 @@
       "platform": "Active Search Results",
       "checkedUrl": "https://www.activesearchresults.com/search.php?search=mugepackaging.com",
       "finalUrl": "https://www.activesearchresults.com/search.php?search=mugepackaging.com",
-      "httpStatus": 0,
+      "httpStatus": 404,
       "title": "",
       "hasNoResultSignal": false,
       "hasBrand": false,
@@ -74,13 +74,13 @@
       "hrefHits": [],
       "stablePublicSignal": false,
       "verifiedBacklinkSignal": false,
-      "snippet": ""
+      "snippet": "File not found."
     },
     {
       "platform": "Active Search Results",
       "checkedUrl": "https://www.activesearchresults.com/search.php?search=MUGE%20PACKAGING",
       "finalUrl": "https://www.activesearchresults.com/search.php?search=MUGE%20PACKAGING",
-      "httpStatus": 0,
+      "httpStatus": 404,
       "title": "",
       "hasNoResultSignal": false,
       "hasBrand": false,
@@ -89,7 +89,7 @@
       "hrefHits": [],
       "stablePublicSignal": false,
       "verifiedBacklinkSignal": false,
-      "snippet": ""
+      "snippet": "File not found."
     },
     {
       "platform": "Global Site Directory",
@@ -125,8 +125,8 @@
       "platform": "PODatlas",
       "checkedUrl": "https://podatlas.co/search?q=muge",
       "finalUrl": "https://podatlas.co/search?q=muge",
-      "httpStatus": 200,
-      "title": "PODatlas.co — Print on Demand directory",
+      "httpStatus": 0,
+      "title": "",
       "hasNoResultSignal": false,
       "hasBrand": false,
       "hasDomain": false,
@@ -134,7 +134,7 @@
       "hrefHits": [],
       "stablePublicSignal": false,
       "verifiedBacklinkSignal": false,
-      "snippet": "PODatlas.co — Print on Demand directory PODatlas .co Suppliers Tools Marketplaces Sales Channels Blog Subscribe Search Submit a Supplier Open menu Submit a supplier, tool, or marketplace Know a great POD operator we've missed? Drop the details below and we'll "
+      "snippet": ""
     },
     {
       "platform": "PODatlas",
