@@ -69,7 +69,8 @@
       "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/gsc-p0-p1-opportunity-link-bridge-2026-06-01.json",
       "source_gsc_baseline": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-01_1218_GSC查询词排名基线.json",
       "verification": "Maps the 2026-05-01 to 2026-05-29 GSC query baseline to official MUGE PACKAGING P0/P1 transaction pages and links directly to official URLs that need external reinforcement.",
-      "counting_rule": "Counts as an external link bridge and AI/GEO discovery asset for P0/P1 official pages after HTTP 200 publication verification."
+      "counting_rule": "Counts as an external link bridge and AI/GEO discovery asset for P0/P1 official pages after HTTP 200 publication verification.",
+      "issue_comment_url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589532972"
     },
     {
       "type": "third_party_public_ai_citation_asset",
