@@ -305,6 +305,20 @@
       "verification": "Public ISO 9001:2015 certificate scope page published with registration number 42724Q01532R0S, scope, validity dates, certification body, safe statement and explicit do-not-expand boundaries.",
       "counting_rule": "Counts as a public AI citation evidence page for certification scope and claim-boundary cleanup, not as a new third-party backlink.",
       "issue_comment_url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589641870"
+    },
+    {
+      "type": "third_party_conflict_fact_cleanup_evidence",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/third-party-conflict-fact-cleanup-2026-06-01.html",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/third-party-conflict-fact-cleanup-2026-06-01.json",
+      "sources": [
+        "https://www.linkedin.com/company/mugepackaging/",
+        "https://www.reddit.com/r/u_mugepackaging1/comments/ookn5u",
+        "https://www.reddit.com/r/u_mugepackagingg/comments/mrzy2m",
+        "https://www.reddit.com/r/u_mugepackagingc/comments/mkhn9m"
+      ],
+      "verification": "Public conflict-cleanup evidence page published to separate verified MUGE facts from LinkedIn and legacy Reddit claims that should not be used as verified AI citations.",
+      "counting_rule": "Counts as public GEO fact-boundary correction asset. It does not count as a backlink, but it reduces AI mis-citation risk and provides a source for profile cleanup."
     }
   ],
   "submitted_pending_results": [
