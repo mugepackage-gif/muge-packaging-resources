@@ -584,7 +584,7 @@
     "target_keywords_clicked": 0,
     "target_keyword_audit_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1218_目标关键词排名验收.json"
   },
-  "generatedAt": "2026-06-01T05:48:33.088Z",
+  "generatedAt": "2026-06-01T05:52:08.758Z",
   "entries": [
     {
       "timestamp": "2026-06-01T05:47:41.623Z",
@@ -609,6 +609,20 @@
         "https://mugepackage-gif.github.io/muge-packaging-resources/pending-directory-publication-recheck-2026-06-01.html",
         "https://mugepackage-gif.github.io/muge-packaging-resources/data/pending-directory-publication-recheck-2026-06-01.json"
       ]
+    },
+    {
+      "timestamp": "2026-06-01T05:52:08.761Z",
+      "category": "pending_directory_recheck_distribution",
+      "result": "advanced_public_distribution",
+      "verifiedBacklinkSignals": 1,
+      "externalSignal": "Zearches directory page contains MUGE PACKAGING and direct https://mugepackaging.com link",
+      "publicEvidence": [
+        "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-pending-directory-recheck",
+        "https://gist.github.com/mugepackage-gif/f8acc5b3b09188ca3fc6793df019a0f8",
+        "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589912390",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/pending-directory-publication-recheck-2026-06-01.html"
+      ],
+      "countingNote": "Jayde no-match/search echo excluded; queued/pending/API 200 excluded."
     }
   ]
 }
