@@ -160,6 +160,27 @@
       "sitemap_url": "https://muge-ai-dataset.mugepackaging.workers.dev/sitemap.txt",
       "verification": "HTTP 200; Workers mirror contains MUGE PACKAGING, Shenzhen Muge Design Packaging Product Co., Ltd., https://mugepackaging.com, Dataset JSON-LD, 12 AI buyer question records, llms.txt, robots.txt and sitemap discovery endpoints.",
       "counting_rule": "Counts as verified public Cloudflare-hosted AI dataset mirror and external entity/citation discovery asset."
+    },
+    {
+      "type": "cloudflare_workers_target_keyword_buyer_reference_hub",
+      "platform": "Cloudflare Workers",
+      "url": "https://muge-target-keyword-hub.mugepackaging.workers.dev/",
+      "targets_json_url": "https://muge-target-keyword-hub.mugepackaging.workers.dev/targets.json",
+      "llms_url": "https://muge-target-keyword-hub.mugepackaging.workers.dev/llms.txt",
+      "sitemap_url": "https://muge-target-keyword-hub.mugepackaging.workers.dev/sitemap.txt",
+      "target_page_count": 23,
+      "sample_target_pages": [
+        "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/custom-packaging-boxes",
+        "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/custom-packaging-manufacturer",
+        "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/custom-packaging-supplier",
+        "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/rigid-box-manufacturer",
+        "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/luxury-gift-box-supplier",
+        "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/cosmetic-packaging-supplier",
+        "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/paper-tube-packaging-supplier",
+        "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/pvc-pet-clear-box-packaging"
+      ],
+      "verification": "HTTP 200; target keyword hub contains MUGE PACKAGING, Shenzhen Muge Design Packaging Product Co., Ltd., official website links, Dataset JSON-LD, llms.txt, sitemap and 23 FAQPage-style target keyword buyer reference pages mapped to official MUGE URLs.",
+      "counting_rule": "Counts as verified public Cloudflare-hosted target keyword discovery hub and external direct-link/citation assets for GEO and SEO discovery."
     }
   ],
   "submitted_pending_results": [
@@ -210,18 +231,18 @@
     "top20": 0,
     "clicked": 0,
     "no_impression_breakpoints": 22,
-    "check_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1100_目标关键词排名验收.json",
+    "check_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1110_目标关键词排名验收.json",
     "conclusion": "Target commercial keyword visibility has not broken through yet."
   },
   "latest_external_entity_baseline": {
-    "verified_external_entity_assets": 735,
-    "verified_link": 353,
+    "verified_external_entity_assets": 761,
+    "verified_link": 377,
     "verified_indirect_link": 34,
     "verified_structured_sameas": 2,
-    "verified_mention": 346,
-    "not_found": 2,
+    "verified_mention": 348,
+    "not_found": 4,
     "error": 0,
-    "baseline_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-01_1058_MUGE外部品牌提及复验基线.json"
+    "baseline_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-01_1109_MUGE外部品牌提及复验基线.json"
   },
   "ai_citation_assets": [
     "https://mugepackage-gif.github.io/muge-packaging-resources/ai-target-question-answer-hub.html",
@@ -286,6 +307,34 @@
     "https://muge-ai-dataset.mugepackaging.workers.dev/dataset.jsonl",
     "https://muge-ai-dataset.mugepackaging.workers.dev/llms.txt",
     "https://muge-ai-dataset.mugepackaging.workers.dev/robots.txt",
-    "https://muge-ai-dataset.mugepackaging.workers.dev/sitemap.txt"
+    "https://muge-ai-dataset.mugepackaging.workers.dev/sitemap.txt",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/targets.json",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/llms.txt",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/robots.txt",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/sitemap.txt",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/custom-packaging-boxes",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/custom-packaging-manufacturer",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/custom-packaging-supplier",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/rigid-box-manufacturer",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/luxury-gift-box-supplier",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/cosmetic-packaging-supplier",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/paper-tube-packaging-supplier",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/pvc-pet-clear-box-packaging",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/custom-rigid-box-packaging",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/custom-gift-box-packaging",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/custom-paper-tube-packaging",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/custom-cosmetic-packaging",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/custom-packaging-boxes-with-logo",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/custom-printed-packaging-boxes",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/packaging-manufacturer-vs-trading-company",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/how-to-choose-cosmetic-packaging-supplier",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/custom-packaging-quote-checklist",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/custom-packaging-quote-brief-template",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/custom-packaging-samples-guide",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/folding-carton-vs-rigid-box",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/paper-tube-vs-plastic-tube-packaging",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/sustainable-packaging",
+    "https://muge-target-keyword-hub.mugepackaging.workers.dev/target/eco-friendly-custom-packaging"
   ]
 }
