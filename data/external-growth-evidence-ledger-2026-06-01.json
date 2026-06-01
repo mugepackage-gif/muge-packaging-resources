@@ -263,6 +263,22 @@
       ],
       "verification": "HTTP 200; target keyword hub contains MUGE PACKAGING, Shenzhen Muge Design Packaging Product Co., Ltd., official website links, Dataset JSON-LD, llms.txt, sitemap and 23 FAQPage-style target keyword buyer reference pages mapped to official MUGE URLs.",
       "counting_rule": "Counts as verified public Cloudflare-hosted target keyword discovery hub and external direct-link/citation assets for GEO and SEO discovery."
+    },
+    {
+      "type": "third_party_p0_p1_opportunity_live_verification",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-third-party-opportunity-verification-2026-06-01.html",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-third-party-opportunity-verification-2026-06-01.json",
+      "source_pack_json": "/Users/molice/muge-packaging-resources/data/p0-p1-third-party-link-update-pack-2026-06-01.json",
+      "summary": {
+        "total": 12,
+        "verified_direct_link": 12,
+        "verified_entity_signal": 0,
+        "reachable_needs_manual_review": 0,
+        "blocked_or_unreachable_recheck_later": 0
+      },
+      "verification": "Live verification found 12/12 third-party opportunities reachable with HTTP 200, official MUGE website href detection and MUGE brand/domain detection. All 12 are classified as verified direct links in this verification run.",
+      "counting_rule": "Counts as verified third-party direct-link evidence set for P0/P1 official page reinforcement after HTTP 200 publication verification."
     }
   ],
   "submitted_pending_results": [

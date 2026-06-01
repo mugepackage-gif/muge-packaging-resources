@@ -281,3 +281,7 @@ This resource uses cautious public sourcing guidance. Project details, pricing-r
 ## P0/P1 Third-Party Link Update Pack
 - [MUGE PACKAGING P0/P1 Third-Party Link Update Pack 2026-06-01](https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-third-party-link-update-pack-2026-06-01.html): Third-party-only execution pack for profile correction, link verification and P0/P1 official URL reinforcement.
 - [MUGE PACKAGING P0/P1 Third-Party Link Update Pack JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-third-party-link-update-pack-2026-06-01.json): Machine-readable third-party opportunity list with priority, mapped official pages and recommended actions.
+
+## P0/P1 Third-Party Opportunity Verification
+- [MUGE PACKAGING P0/P1 Third-Party Opportunity Verification 2026-06-01](https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-third-party-opportunity-verification-2026-06-01.html): Live verification of 12 third-party opportunities, all currently reachable as verified direct links.
+- [MUGE PACKAGING P0/P1 Third-Party Opportunity Verification JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-third-party-opportunity-verification-2026-06-01.json): Machine-readable live verification with HTTP status, official href detection, brand/domain detection and next actions.
