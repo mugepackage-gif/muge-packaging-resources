@@ -24,6 +24,24 @@
       "next_verification": "Recheck Active Search Results index for mugepackaging.com and MUGE PACKAGING."
     },
     {
+      "platform": "Active Search Results - products page",
+      "submitted_url": "https://mugepackaging.com/products",
+      "submission_url": "https://www.activesearchresults.com/addwebsite.php",
+      "http_status": 200,
+      "result": "accepted",
+      "evidence": "Response reached https://www.activesearchresults.com/urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine.",
+      "next_verification": "Recheck Active Search Results index for https://mugepackaging.com/products and related MUGE product queries."
+    },
+    {
+      "platform": "Active Search Results - sustainable packaging page",
+      "submitted_url": "https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging",
+      "submission_url": "https://www.activesearchresults.com/addwebsite.php",
+      "http_status": 200,
+      "result": "accepted",
+      "evidence": "Response reached https://www.activesearchresults.com/urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine.",
+      "next_verification": "Recheck Active Search Results index for the sustainable packaging comparison page."
+    },
+    {
       "platform": "Anoox",
       "submission_url": "https://www.anoox.com/add_for_indexing_free.php",
       "http_status": 200,
