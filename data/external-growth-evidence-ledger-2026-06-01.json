@@ -18,6 +18,21 @@
   ],
   "verified_external_results": [
     {
+      "type": "top_20_backlink_opportunity_live_precheck",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/top-20-backlink-opportunity-live-precheck-2026-06-01.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/top-20-backlink-opportunity-live-precheck-2026-06-01.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/top-20-backlink-opportunity-live-precheck-2026-06-01.json",
+      "summary": {
+        "total": 20,
+        "reachable": 14,
+        "form_signal": 18,
+        "p0_p1": 15
+      },
+      "verification": "Live precheck of 20 backlink/entity opportunities. 14 reachable and 18 with submission/contact/profile signals.",
+      "counting_rule": "Counts as a verified public execution and prioritization asset; individual third-party listings/backlinks only count after the external platform publishes a public URL with the official link."
+    },
+    {
       "type": "ai_buyer_question_third_party_support_map",
       "platform": "GitHub Pages",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-buyer-question-third-party-support-map-2026-06-01.html",
@@ -679,7 +694,7 @@
     "target_keywords_clicked": 0,
     "target_keyword_audit_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1218_目标关键词排名验收.json"
   },
-  "generatedAt": "2026-06-01T07:13:26.476Z",
+  "generatedAt": "2026-06-01T07:36:11.012Z",
   "entries": [
     {
       "timestamp": "2026-06-01T05:48:33.088Z",
@@ -776,6 +791,18 @@
         "https://mugepackage-gif.github.io/muge-packaging-resources/data/independent-third-party-entity-baseline-2026-06-01.json"
       ],
       "countingNote": "Strict external-only baseline refreshed from 2026-06-01 15:07 CST brand-mention verification source; excludes self-controlled GitHub Pages/Gist/Netlify/Workers/Weebly and official mugepackaging.com URLs. This is not a ranking claim."
+    },
+    {
+      "timestamp": "2026-06-01T07:36:11.012Z",
+      "category": "pending_directory_publication_recheck",
+      "result": "advanced_verified_external_signal",
+      "checkedUrls": 17,
+      "stablePublicSignals": 1,
+      "verifiedBacklinkSignals": 1,
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/pending-directory-publication-recheck-2026-06-01.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/pending-directory-publication-recheck-2026-06-01.json"
+      ]
     }
   ]
 }
