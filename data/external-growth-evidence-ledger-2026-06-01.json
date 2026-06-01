@@ -49,6 +49,20 @@
       "counting_rule": "Counts as verified public issue-level execution card after HTTP 200 verification."
     },
     {
+      "type": "production_ai_crawler_citation_entry_deployment",
+      "platform": "MUGE PACKAGING production website and GitHub Issue Comment",
+      "llms_url": "https://mugepackaging.com/llms.txt",
+      "llms_full_url": "https://mugepackaging.com/llms-full.txt",
+      "issue_comment_url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589484538",
+      "cloudflare_deployment_version": "18d3c6eb-2fc8-45be-8809-686f05da23e2",
+      "indexnow_urls": [
+        "https://mugepackaging.com/llms.txt",
+        "https://mugepackaging.com/llms-full.txt"
+      ],
+      "verification": "HTTP 200; production llms.txt and llms-full.txt contain the preferred AI Citation Index, JSON, GitHub Release, issue card and evidence ledger links. IndexNow returned 200 for both production URLs.",
+      "counting_rule": "Counts as verified production-level AI crawler discovery path linking the official website to public AI citation evidence assets."
+    },
+    {
       "type": "third_party_public_ai_citation_asset",
       "platform": "GitHub Gist",
       "url": "https://gist.github.com/mugepackage-gif/316ab6a5011624fd852752b1875bac76",
