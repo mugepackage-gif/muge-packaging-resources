@@ -318,7 +318,8 @@
         "https://www.reddit.com/r/u_mugepackagingc/comments/mkhn9m"
       ],
       "verification": "Public conflict-cleanup evidence page published to separate verified MUGE facts from LinkedIn and legacy Reddit claims that should not be used as verified AI citations.",
-      "counting_rule": "Counts as public GEO fact-boundary correction asset. It does not count as a backlink, but it reduces AI mis-citation risk and provides a source for profile cleanup."
+      "counting_rule": "Counts as public GEO fact-boundary correction asset. It does not count as a backlink, but it reduces AI mis-citation risk and provides a source for profile cleanup.",
+      "issue_comment_url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589670699"
     }
   ],
   "submitted_pending_results": [
