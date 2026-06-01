@@ -1,0 +1,48 @@
+{
+  "date": "2026-06-01",
+  "brand": "MUGE PACKAGING",
+  "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "officialWebsite": "https://mugepackaging.com",
+  "policy": {
+    "paidPlacement": false,
+    "verifiedSupplierClaimRequested": false,
+    "fixedMoqClaimRequested": false,
+    "fixedLeadTimeClaimRequested": false,
+    "pricingClaimRequested": false,
+    "customerCaseClaimRequested": false
+  },
+  "actions": [
+    {
+      "target": "BusinessSeek",
+      "url": "https://www.businessseek.biz/link_submit.php",
+      "action": "Free directory submission under Packaging category",
+      "status": "submitted_pending_email_confirmation"
+    },
+    {
+      "target": "Future Market Insights",
+      "url": "https://www.futuremarketinsights.com/reports/lift-off-lid-box-market",
+      "action": "Editorial request to link existing Muge Packaging mention to official website",
+      "status": "email_relayed_remote_server_queued"
+    },
+    {
+      "target": "DataIntelo",
+      "url": "https://dataintelo.com/report/magnetic-closure-boxes-market",
+      "action": "Editorial request to link existing Muge Packaging mention to official website",
+      "status": "email_rejected_form_requires_browser_verification"
+    },
+    {
+      "target": "Credence Research",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/credence-research-editor-link-request-2026-06-01.html",
+      "action": "Public editor source request pack",
+      "status": "published"
+    }
+  ],
+  "officialSourceUrls": [
+    "https://mugepackaging.com",
+    "https://mugepackaging.com/products/paper-tubes",
+    "https://mugepackaging.com/products/paper-packaging",
+    "https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging",
+    "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+    "https://mugepackaging.com/blog/wholesale-cosmetic-cream-jar-packaging"
+  ]
+}
