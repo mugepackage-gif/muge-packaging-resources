@@ -1,16 +1,16 @@
 {
   "name": "MUGE PACKAGING Independent Third-Party Entity Baseline 2026-06-01",
-  "generatedAt": "2026-06-01T05:59:01.721Z",
-  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-01_1355_MUGE外部品牌提及复验基线.json",
+  "generatedAt": "2026-06-01T07:10:18.137Z",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-01_1507_MUGE外部品牌提及复验基线.json",
   "countingRule": "Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Workers, Weebly and official mugepackaging.com URLs. verified_link means independent public page with direct website link; verified_mention means independent public brand/entity mention only.",
   "summary": {
     "sourceRows": 765,
-    "independentThirdPartyAssets": 164,
-    "independentDirectLinks": 29,
+    "independentThirdPartyAssets": 162,
+    "independentDirectLinks": 28,
     "independentIndirectLinks": 34,
     "independentStructuredSameAs": 2,
-    "independentMentionOnly": 99,
-    "independentHosts": 74
+    "independentMentionOnly": 98,
+    "independentHosts": 73
   },
   "topHosts": [
     {
@@ -19,7 +19,7 @@
     },
     {
       "host": "siteprice.org",
-      "count": 12
+      "count": 11
     },
     {
       "host": "made-in-china.com",
@@ -203,14 +203,6 @@
       "label": "Siteprice competitors page listing MUGE under tube-boxes.com",
       "type": "聚合目录页",
       "url": "https://www.siteprice.org/competitors/tube-boxes.com",
-      "httpStatus": 200,
-      "host": "siteprice.org",
-      "note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。"
-    },
-    {
-      "label": "Siteprice competitors page listing MUGE under yfpackaging.com",
-      "type": "聚合目录页",
-      "url": "https://www.siteprice.org/competitors/yfpackaging.com",
       "httpStatus": 200,
       "host": "siteprice.org",
       "note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。"
@@ -628,15 +620,6 @@
       "httpStatus": 200,
       "host": "datainsightsreports.com",
       "snippet": "nt market leverage and raw material access.\\u003c/li\\u003e\\u003cli\\u003e\\u003cstrong\\u003eMuge Packaging\\u003c/strong\\u003e: Focuses on innovation in barrier coatings and eco-friendly substrates, addressing the growing demand for sustainable and high-performance packagi",
-      "note": "2026-05-31 公开页面 HTTP 200，检出 Muge Packaging；无官网 href，只计入第三方品牌/实体提及，不引用市场份额、收入或未核实公司数据。"
-    },
-    {
-      "label": "Industry Growth Insights coated paper packaging box report",
-      "type": "市场报告",
-      "url": "https://industrygrowthinsights.com/report/global-coated-paper-packaging-box-market/",
-      "httpStatus": 200,
-      "host": "industrygrowthinsights.com",
-      "snippet": "Cultural Creativity, JK Paper, Shanghai Custom Packaging, The Siam Cement Public Company, Muge Packaging, Koch Industries, Mondi Group &rdquo;. <a href=\"https://industrygrowthinsights.com/request-sample/?reportId=366670",
       "note": "2026-05-31 公开页面 HTTP 200，检出 Muge Packaging；无官网 href，只计入第三方品牌/实体提及，不引用市场份额、收入或未核实公司数据。"
     },
     {
@@ -1086,6 +1069,15 @@
       "url": "https://fr.made-in-china.com/company-search/storage-packaging-box/huntq--AR_4/1.html",
       "httpStatus": 200,
       "host": "fr.made-in-china.com",
+      "snippet": "2026-05-31 10:54 基线公开复验 HTTP 200，HTML 检出 Shenzhen Muge Design Package Product Co., Ltd。",
+      "note": "2026-05-31 公开页面 HTTP 200，检出 Shenzhen Muge Design Package Product Co., Ltd；搜索列表页无官网 href，只计入外部实体提及。"
+    },
+    {
+      "label": "Made-in-China Portuguese storage packaging box supplier list",
+      "type": "B2B目录列表页",
+      "url": "https://pt.made-in-china.com/company-search/storage-packaging-box/huntq--AR_4/1.html",
+      "httpStatus": 200,
+      "host": "pt.made-in-china.com",
       "snippet": "2026-05-31 10:54 基线公开复验 HTTP 200，HTML 检出 Shenzhen Muge Design Package Product Co., Ltd。",
       "note": "2026-05-31 公开页面 HTTP 200，检出 Shenzhen Muge Design Package Product Co., Ltd；搜索列表页无官网 href，只计入外部实体提及。"
     }

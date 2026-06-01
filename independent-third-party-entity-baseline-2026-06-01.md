@@ -10,14 +10,14 @@ date: 2026-06-01
 
 # MUGE PACKAGING 独立第三方外部实体基线
 
-- Generated at: 2026-06-01T05:59:01.721Z
+- Generated at: 2026-06-01T07:10:18.137Z
 - Official website: https://mugepackaging.com
-- Independent third-party assets: 164
-- Independent direct website links: 29
+- Independent third-party assets: 162
+- Independent direct website links: 28
 - Independent indirect links: 34
 - Independent structured sameAs: 2
-- Independent mention-only assets: 99
-- Independent hosts: 74
+- Independent mention-only assets: 98
+- Independent hosts: 73
 
 ## Counting Rule
 
@@ -28,7 +28,7 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | Host | Count |
 |---|---:|
 | sitelike.org | 34 |
-| siteprice.org | 12 |
+| siteprice.org | 11 |
 | made-in-china.com | 11 |
 | marketreportanalytics.com | 7 |
 | pdf.marketpublishers.com | 4 |
@@ -71,7 +71,6 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | Siteprice competitors page listing MUGE under marber.net | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/marber.net |
 | Siteprice competitors page listing MUGE under packmojo.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/packmojo.com |
 | Siteprice competitors page listing MUGE under tube-boxes.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/tube-boxes.com |
-| Siteprice competitors page listing MUGE under yfpackaging.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/yfpackaging.com |
 | Siteprice competitors page listing MUGE under mlcustomgiftbox.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/mlcustomgiftbox.com |
 | Siteprice competitors page listing MUGE under boxforgifts.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/boxforgifts.com |
 | Siteprice competitors page listing MUGE under copackinc.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/copackinc.com |
@@ -125,7 +124,6 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | Verified Market Reports coated paper packaging box market report | 市场报告 | verifiedmarketreports.com | 200 | https://www.verifiedmarketreports.com/product/coated-paper-packaging-box-market/ |
 | MarketResearchForecast coated paper packaging box report | 市场报告 | marketresearchforecast.com | 200 | https://www.marketresearchforecast.com/reports/coated-paper-packaging-box-113086 |
 | DataInsightsReports coated paper packaging box report | 市场报告 | datainsightsreports.com | 200 | https://www.datainsightsreports.com/reports/coated-paper-packaging-box-568132 |
-| Industry Growth Insights coated paper packaging box report | 市场报告 | industrygrowthinsights.com | 200 | https://industrygrowthinsights.com/report/global-coated-paper-packaging-box-market/ |
 | ReportsAndMarkets coated paper packaging box report 4512898 | 市场报告 | reportsandmarkets.com | 200 | https://www.reportsandmarkets.com/reports/global-coated-paper-packaging-box-market-4512898 |
 | DataInsightsMarket coated paper packaging box report | 市场报告 | datainsightsmarket.com | 200 | https://www.datainsightsmarket.com/reports/coated-paper-packaging-box-349294 |
 | MarketPublishers coated paper packaging box PDF report 2020 | 市场报告PDF | pdf.marketpublishers.com | 200 | https://pdf.marketpublishers.com/bisreport/global-coated-paper-packaging-box-market-report-2020.pdf |
@@ -176,3 +174,4 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | Made-in-China Spanish storage packaging box supplier list | B2B目录列表页 | es.made-in-china.com | 200 | https://es.made-in-china.com/company-search/storage-packaging-box/huntq--AR_4/1.html |
 | Made-in-China German storage packaging box supplier list | B2B目录列表页 | de.made-in-china.com | 200 | https://de.made-in-china.com/company-search/storage-packaging-box/huntq--AR_4/1.html |
 | Made-in-China French storage packaging box supplier list | B2B目录列表页 | fr.made-in-china.com | 200 | https://fr.made-in-china.com/company-search/storage-packaging-box/huntq--AR_4/1.html |
+| Made-in-China Portuguese storage packaging box supplier list | B2B目录列表页 | pt.made-in-china.com | 200 | https://pt.made-in-china.com/company-search/storage-packaging-box/huntq--AR_4/1.html |

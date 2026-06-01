@@ -1,7 +1,7 @@
 {
   "name": "MUGE PACKAGING Pending Directory Publication Recheck",
   "date": "2026-06-01",
-  "generatedAt": "2026-06-01T06:40:39.079Z",
+  "generatedAt": "2026-06-01T07:07:10.667Z",
   "brand": "MUGE PACKAGING",
   "website": "https://mugepackaging.com",
   "resultSummary": {
@@ -125,8 +125,8 @@
       "platform": "PODatlas",
       "checkedUrl": "https://podatlas.co/search?q=muge",
       "finalUrl": "https://podatlas.co/search?q=muge",
-      "httpStatus": 0,
-      "title": "",
+      "httpStatus": 200,
+      "title": "PODatlas.co — Print on Demand directory",
       "hasNoResultSignal": false,
       "hasBrand": false,
       "hasDomain": false,
@@ -134,7 +134,7 @@
       "hrefHits": [],
       "stablePublicSignal": false,
       "verifiedBacklinkSignal": false,
-      "snippet": ""
+      "snippet": "PODatlas.co — Print on Demand directory PODatlas .co Suppliers Tools Marketplaces Sales Channels Blog Subscribe Search Submit a Supplier Open menu Submit a supplier, tool, or marketplace Know a great POD operator we've missed? Drop the details below and we'll "
     },
     {
       "platform": "PODatlas",
@@ -155,8 +155,8 @@
       "platform": "B2Bs",
       "checkedUrl": "https://www.b2bs.com/search?q=mugepackaging.com",
       "finalUrl": "https://www.b2bs.com/search?q=mugepackaging.com",
-      "httpStatus": 502,
-      "title": "502 Bad Gateway",
+      "httpStatus": 500,
+      "title": "",
       "hasNoResultSignal": false,
       "hasBrand": false,
       "hasDomain": false,
@@ -164,14 +164,14 @@
       "hrefHits": [],
       "stablePublicSignal": false,
       "verifiedBacklinkSignal": false,
-      "snippet": "502 Bad Gateway 502 Bad Gateway nginx 502 Bad Gateway 502 Bad Gateway nginx"
+      "snippet": ""
     },
     {
       "platform": "B2Bs",
       "checkedUrl": "https://www.b2bs.com/search?q=MUGE%20PACKAGING",
       "finalUrl": "https://www.b2bs.com/search?q=MUGE%20PACKAGING",
-      "httpStatus": 502,
-      "title": "502 Bad Gateway",
+      "httpStatus": 500,
+      "title": "",
       "hasNoResultSignal": false,
       "hasBrand": false,
       "hasDomain": false,
@@ -179,7 +179,7 @@
       "hrefHits": [],
       "stablePublicSignal": false,
       "verifiedBacklinkSignal": false,
-      "snippet": "502 Bad Gateway 502 Bad Gateway nginx 502 Bad Gateway 502 Bad Gateway nginx"
+      "snippet": ""
     },
     {
       "platform": "PromoteBusinessDirectory",
