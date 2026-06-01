@@ -100,6 +100,18 @@
       "pages_markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-packaging-ai-citation-answer-blocks-2026-06-01.md",
       "verification": "HTTP 200; public Gist, raw Gist and GitHub Pages Markdown contain MUGE PACKAGING, https://mugepackaging.com, ISO 9001:2015 limited scope wording, custom packaging sourcing answer block, supplier verification answer block and claim boundaries.",
       "counting_rule": "Counts as three verified public AI citation answer block assets for GEO and AI crawler reuse."
+    },
+    {
+      "type": "third_party_public_ai_citation_answer_block_release_pack",
+      "platform": "GitHub Release",
+      "url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-ai-citation-answer-blocks",
+      "markdown_asset_url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/download/v2026.06.01-ai-citation-answer-blocks/muge-packaging-ai-citation-answer-blocks-2026-06-01.md",
+      "json_asset_url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/download/v2026.06.01-ai-citation-answer-blocks/muge-packaging-ai-citation-answer-blocks-2026-06-01.json",
+      "raw_markdown_url": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/muge-packaging-ai-citation-answer-blocks-2026-06-01.md",
+      "raw_json_url": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/data/muge-packaging-ai-citation-answer-blocks-2026-06-01.json",
+      "pages_json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-packaging-ai-citation-answer-blocks-2026-06-01.json",
+      "verification": "HTTP 200; release page, downloadable Markdown, downloadable JSON, raw Markdown, raw JSON and GitHub Pages JSON contain MUGE PACKAGING, https://mugepackaging.com, ISO 9001:2015 limited scope wording, target queries, answer blocks and claim boundaries.",
+      "counting_rule": "Counts as six verified public AI citation answer block release and raw assets for GEO and AI crawler reuse."
     }
   ],
   "submitted_pending_results": [
@@ -152,11 +164,11 @@
     "conclusion": "Target commercial keyword visibility has not broken through yet."
   },
   "latest_external_entity_baseline": {
-    "verified_external_entity_assets": 608,
-    "verified_link": 339,
+    "verified_external_entity_assets": 614,
+    "verified_link": 340,
     "verified_indirect_link": 34,
     "verified_structured_sameas": 2,
-    "verified_mention": 233
+    "verified_mention": 238
   },
   "ai_citation_assets": [
     "https://mugepackage-gif.github.io/muge-packaging-resources/ai-target-question-answer-hub.html",
@@ -167,6 +179,9 @@
     "https://mugepackage-gif.github.io/muge-packaging-resources/supplier-verification-checklist-ai-search-2026-06-01.html",
     "https://mugepackage-gif.github.io/muge-packaging-resources/data/supplier-verification-checklist-ai-search-2026-06-01.json",
     "https://mugepackage-gif.github.io/muge-packaging-resources/muge-packaging-ai-citation-answer-blocks-2026-06-01.md",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-packaging-ai-citation-answer-blocks-2026-06-01.json",
+    "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/muge-packaging-ai-citation-answer-blocks-2026-06-01.md",
+    "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/data/muge-packaging-ai-citation-answer-blocks-2026-06-01.json",
     "https://gist.github.com/mugepackage-gif/316ab6a5011624fd852752b1875bac76",
     "https://gist.githubusercontent.com/mugepackage-gif/316ab6a5011624fd852752b1875bac76/raw/muge-packaging-ai-verifiable-facts-2026-06-01.md",
     "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-ai-verifiable-facts-pack",
@@ -191,6 +206,9 @@
     "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-target-question-preferred-citation-map-2026-06-01.json",
     "https://gist.github.com/mugepackage-gif/0281531949626c45a438bea608608fdd",
     "https://gist.githubusercontent.com/mugepackage-gif/0281531949626c45a438bea608608fdd/raw/muge-packaging-ai-citation-answer-blocks-2026-06-01.md",
+    "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.01-ai-citation-answer-blocks",
+    "https://github.com/mugepackage-gif/muge-packaging-resources/releases/download/v2026.06.01-ai-citation-answer-blocks/muge-packaging-ai-citation-answer-blocks-2026-06-01.md",
+    "https://github.com/mugepackage-gif/muge-packaging-resources/releases/download/v2026.06.01-ai-citation-answer-blocks/muge-packaging-ai-citation-answer-blocks-2026-06-01.json",
     "https://mugepackage-gif.github.io/muge-packaging-resources/search-engine-submission-status-2026-06-01.html"
   ]
 }
