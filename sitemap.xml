@@ -377,4 +377,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://mugepackage-gif.github.io/muge-packaging-resources/mercatora-website-link-correction-request-2026-06-01-1612.html</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mugepackage-gif.github.io/muge-packaging-resources/data/mercatora-website-link-correction-request-2026-06-01-1612.json</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
