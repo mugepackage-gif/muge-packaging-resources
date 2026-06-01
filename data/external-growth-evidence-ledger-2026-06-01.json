@@ -368,6 +368,14 @@
       "verification": "Public execution queue generated from backlink sub-agent validation, containing 20 Europe/Middle East/global B2B platform opportunities and safe profile templates.",
       "counting_rule": "Counts as a verified public execution asset. Individual backlink opportunities count only after public profile URL or visible platform evidence is recorded.",
       "issue_comment_url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/37#issuecomment-4589790097"
+    },
+    {
+      "type": "verified_third_party_profile_backlink_evidence",
+      "platform": "Third-party profiles",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/verified-third-party-profile-backlink-evidence-2026-06-01.html",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/verified-third-party-profile-backlink-evidence-2026-06-01.json",
+      "verification": "Six public third-party profile/content pages returned HTTP 200 and were classified by brand/domain/direct href signal. Bizidex, CityByApp, Antech and YellowPagesOnline show official domain or direct href/domain signal; LinkedIn shows public social entity and website association; Mercatora shows public company entity visibility only.",
+      "counting_rule": "Counts verified public third-party results separately from pending submissions; individual pages must obey their own counting rule."
     }
   ],
   "submitted_pending_results": [

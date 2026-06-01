@@ -1,0 +1,81 @@
+{
+  "name": "MUGE PACKAGING Verified Third-Party Profile and Backlink Evidence 2026-06-01",
+  "date": "2026-06-01",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "website": "https://mugepackaging.com",
+  "verification_method": "HTTP fetch with browser-like user agent; checked status, title, brand/domain detection and direct href/domain signal.",
+  "safety_boundary": [
+    "Do not reuse third-party platform verification wording as MUGE certification.",
+    "Do not quote legacy category, address, phone, capacity, customer, price, MOQ or lead-time fields unless separately verified.",
+    "Only count direct backlink when official domain or href is present in fetched HTML."
+  ],
+  "evidence": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/company/mugepackaging/",
+      "http_status": 200,
+      "title": "Muge Packaging | LinkedIn",
+      "has_brand": true,
+      "has_domain": true,
+      "has_direct_href": false,
+      "result_type": "public social/company profile signal",
+      "counting_rule": "Counts as public social entity signal and website association, not as a traditional href backlink from the fetched HTML."
+    },
+    {
+      "platform": "Bizidex",
+      "url": "https://bizidex.com/en/muge-packaging-packaging-foam-cushioning-containers-134824",
+      "http_status": 200,
+      "title": "Muge Packaging - Packaging - Foam Cushioning & Containers - Bizidex",
+      "has_brand": true,
+      "has_domain": true,
+      "has_direct_href": true,
+      "result_type": "public business directory profile with official domain signal",
+      "counting_rule": "Counts as verified external profile and direct website signal; legacy category/description must not be reused without review."
+    },
+    {
+      "platform": "CityByApp",
+      "url": "https://www.citybyapp.com/china/shenzhen-shi/local-services/muge-packaging-481750",
+      "http_status": 200,
+      "title": "Muge Packaging - Local Services - Local Business Directory",
+      "has_brand": true,
+      "has_domain": true,
+      "has_direct_href": true,
+      "result_type": "public local business profile with official domain signal",
+      "counting_rule": "Counts as weak external entity/profile signal; prior checks noted noindex/nofollow, so do not count as strong SEO backlink."
+    },
+    {
+      "platform": "Antech",
+      "url": "https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/",
+      "http_status": 200,
+      "title": "Шестигранная коробка Hexagon",
+      "has_brand": true,
+      "has_domain": true,
+      "has_direct_href": true,
+      "result_type": "third-party content attribution to an official MUGE product/source URL",
+      "counting_rule": "Counts as third-party content attribution and product-page backlink; do not infer product certification or compliance claims from the article."
+    },
+    {
+      "platform": "YellowPagesOnline",
+      "url": "https://www.yellowpagesonline.com/china/shenzhen-shi/boxes-retail/muge-packaging",
+      "http_status": 200,
+      "title": "Muge Packaging - BOXES RETAIL - Yellow Pages ONLINE",
+      "has_brand": true,
+      "has_domain": true,
+      "has_direct_href": true,
+      "result_type": "public yellow pages profile with official domain signal",
+      "counting_rule": "Counts as verified external directory profile and direct website signal; old address/phone/category fields need manual correction before quoting."
+    },
+    {
+      "platform": "Mercatora",
+      "url": "https://www.mercatora.com/companies/shenzhen-muge-design-packaging-product-co-ltd-3a52f2",
+      "http_status": 200,
+      "title": "Shenzhen Muge Design Packaging Product Co., Ltd. — verified supplier — Mercatora",
+      "has_brand": true,
+      "has_domain": false,
+      "has_direct_href": false,
+      "result_type": "public company entity visibility without official domain detected in fetched HTML",
+      "counting_rule": "Counts only as third-party entity visibility. Do not reuse Mercatora platform wording such as verified supplier as a MUGE claim."
+    }
+  ]
+}
