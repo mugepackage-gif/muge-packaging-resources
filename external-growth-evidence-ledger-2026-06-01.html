@@ -203,8 +203,8 @@
       <tr>
         <td>B2Bs</td>
         <td><a href="https://www.b2bs.com/aiurl/">AI URL submission</a></td>
-        <td>Submitted to AI review queue. External response returned <code>{"status":"success","message":"Task queued"}</code>.</td>
-        <td>Counts as pending only until a public B2Bs listing page is found.</td>
+        <td>External response returned <code>{"status":"error","message":"This URL has already been submitted"}</code>, confirming the URL is already in the B2Bs AI submission flow.</td>
+        <td>Counts as already submitted / pending only until a public B2Bs listing page is found.</td>
       </tr>
 
       <tr>
@@ -212,6 +212,12 @@
         <td><a href="https://dev.jayde.com/submit">Submit Your Site</a></td>
         <td>Submitted successfully and waiting for editorial review. Response page displayed: <code>Success! Your site has been submitted successfully.</code></td>
         <td>Counts as pending only. Not counted as a verified backlink until a public Jayde listing page appears.</td>
+      </tr>
+      <tr>
+        <td>Cloudflare Managed Robots</td>
+        <td><a href="https://mugepackaging.com/robots.txt">Live robots.txt</a></td>
+        <td>P0 GEO accessibility blocker remains: live robots.txt still includes Cloudflare Managed Disallow rules for GPTBot, ClaudeBot and Google-Extended before the site allow rules. The local Cloudflare secret file was loaded first, but Cloudflare API returned 403 Authentication error when disabling managed robots.</td>
+        <td>Does not count as completed. Requires valid Cloudflare Bot Management / Zone Settings permission or dashboard action.</td>
       </tr>
       <tr>
         <td>Global Site Directory</td>
