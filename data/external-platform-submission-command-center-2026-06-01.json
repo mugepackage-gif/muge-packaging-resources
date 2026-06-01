@@ -1,0 +1,196 @@
+{
+  "name": "MUGE PACKAGING External Platform Submission Command Center",
+  "date": "2026-06-01",
+  "goal": "Build verifiable external entity signals, third-party profile consistency and AI citation sources for MUGE PACKAGING.",
+  "safe_profile": {
+    "brand": "MUGE PACKAGING",
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "website": "https://mugepackaging.com",
+    "public_email": "sales@mugepackaging.com",
+    "location": "Shenzhen, Guangdong, China",
+    "business_type": "Custom packaging manufacturer / custom packaging source factory",
+    "product_categories": [
+      "custom paper boxes",
+      "rigid gift boxes",
+      "paper tubes",
+      "PVC/PET clear boxes",
+      "corrugated packaging"
+    ],
+    "safe_description": "MUGE PACKAGING is a Shenzhen-based custom packaging source factory for brand owners, e-commerce sellers and international B2B buyers. The company supports custom paper boxes, rigid gift boxes, paper tubes, PVC/PET clear boxes and corrugated packaging, with packaging structure, material, printing and finishing options reviewed by project requirements.",
+    "safe_iso_statement": "MUGE PACKAGING is ISO 9001:2015 certified for the production of packaging products, including paper boxes, plastic pouches and plastic boxes, subject to the certificate scope and validity period."
+  },
+  "citation_sources": [
+    {
+      "label": "Official website",
+      "url": "https://mugepackaging.com",
+      "use": "Primary website field and main citation target"
+    },
+    {
+      "label": "Platform Profile Correction Card",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/platform-profile-correction-card-2026-06-01.md",
+      "use": "Safe public profile fields and do-not-claim boundary"
+    },
+    {
+      "label": "ISO scope evidence",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/iso-9001-certificate-scope-evidence-2026-06-01.html",
+      "use": "Only source for ISO 9001:2015 scope wording"
+    },
+    {
+      "label": "Third-party conflict cleanup",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/third-party-conflict-fact-cleanup-2026-06-01.html",
+      "use": "Prevents unsupported FSC/FDA/CE/customer/capacity claims"
+    },
+    {
+      "label": "AI citation index",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-index-2026-06-01.html",
+      "use": "Preferred AI/GEO citation entry"
+    },
+    {
+      "label": "Public wiki correction card",
+      "url": "https://github.com/mugepackage-gif/muge-packaging-public-wiki/blob/master/Platform-Profile-Correction-Card.md",
+      "use": "Independent GitHub wiki-style entity reference"
+    },
+    {
+      "label": "Gist correction card",
+      "url": "https://gist.github.com/mugepackage-gif/478b101f70cae1cebac7d437865eb273",
+      "use": "External Gist mirror for AI and platform editors"
+    }
+  ],
+  "platform_queue": [
+    {
+      "priority": "P0",
+      "platform": "Kompass",
+      "market": "Europe / International",
+      "entry_url": "https://www.kompass.com/",
+      "action": "Create or correct company profile with website link and safe ISO scope only.",
+      "needs": "Browser login/manual form; stop if paid upgrade is required.",
+      "recommended_landing_page": "https://mugepackaging.com",
+      "recommended_anchor": "MUGE PACKAGING custom packaging manufacturer"
+    },
+    {
+      "priority": "P0",
+      "platform": "Europages",
+      "market": "Europe / International",
+      "entry_url": "https://www.europages.co.uk/",
+      "action": "Create supplier profile or correct existing supplier profile.",
+      "needs": "Browser login/manual form; choose international/Europe market where available.",
+      "recommended_landing_page": "https://mugepackaging.com",
+      "recommended_anchor": "custom packaging supplier for European buyers"
+    },
+    {
+      "priority": "P0",
+      "platform": "Crunchbase",
+      "market": "Global entity database",
+      "entry_url": "https://www.crunchbase.com/",
+      "action": "Create organization profile using legal name, operating name, website and industry only.",
+      "needs": "Browser login/manual form; do not fill funding, revenue or employee count.",
+      "recommended_landing_page": "https://mugepackaging.com",
+      "recommended_anchor": "MUGE PACKAGING organization profile"
+    },
+    {
+      "priority": "P0",
+      "platform": "Medium",
+      "market": "AI/Google content discovery",
+      "entry_url": "https://medium.com/",
+      "action": "Publish three canonical summary posts with visible official source links.",
+      "needs": "Browser login/manual publishing; canonical if available, otherwise visible source link.",
+      "recommended_landing_page": "https://mugepackage-gif.github.io/muge-packaging-resources/medium-canonical-summary-submission-pack.html",
+      "recommended_anchor": "custom packaging sourcing guides by MUGE PACKAGING"
+    },
+    {
+      "priority": "P0",
+      "platform": "LinkedIn company page",
+      "market": "B2B trust and AI entity signal",
+      "entry_url": "https://www.linkedin.com/company/mugepackaging/",
+      "action": "Correct profile fields and website; remove unsupported claims if present.",
+      "needs": "Account admin permission; no automated posting or messaging.",
+      "recommended_landing_page": "https://mugepackaging.com",
+      "recommended_anchor": "MUGE PACKAGING"
+    },
+    {
+      "priority": "P1",
+      "platform": "Alibaba",
+      "market": "Global B2B sourcing",
+      "entry_url": "https://www.alibaba.com/",
+      "action": "Check whether public profile can include official website link.",
+      "needs": "Login/manual check; stop at payment or Verified Supplier claim.",
+      "recommended_landing_page": "https://mugepackaging.com",
+      "recommended_anchor": "custom packaging boxes manufacturer"
+    },
+    {
+      "priority": "P1",
+      "platform": "Global Sources",
+      "market": "Global B2B sourcing",
+      "entry_url": "https://www.globalsources.com/",
+      "action": "Check public profile and website field availability.",
+      "needs": "Login/manual check; stop at payment or verification claim.",
+      "recommended_landing_page": "https://mugepackaging.com",
+      "recommended_anchor": "custom paper boxes and rigid gift boxes"
+    },
+    {
+      "priority": "P1",
+      "platform": "Made-in-China",
+      "market": "Global B2B sourcing",
+      "entry_url": "https://www.made-in-china.com/",
+      "action": "Check public profile and website field availability.",
+      "needs": "Login/manual check; stop at payment or verification claim.",
+      "recommended_landing_page": "https://mugepackaging.com",
+      "recommended_anchor": "custom packaging source factory in China"
+    },
+    {
+      "priority": "P1",
+      "platform": "Facebook page",
+      "market": "Social entity consistency",
+      "entry_url": "https://www.facebook.com/",
+      "action": "Ensure profile website field uses official website and safe description.",
+      "needs": "Account admin permission; no automated engagement.",
+      "recommended_landing_page": "https://mugepackaging.com",
+      "recommended_anchor": "MUGE PACKAGING"
+    },
+    {
+      "priority": "P1",
+      "platform": "Pinterest",
+      "market": "Visual packaging discovery",
+      "entry_url": "https://www.pinterest.com/",
+      "action": "Ensure profile website field uses official website; pin only approved public assets.",
+      "needs": "Account login/manual action; no fake claims.",
+      "recommended_landing_page": "https://mugepackaging.com",
+      "recommended_anchor": "custom packaging ideas"
+    },
+    {
+      "priority": "P1",
+      "platform": "YouTube",
+      "market": "AI brand mention signal",
+      "entry_url": "https://www.youtube.com/",
+      "action": "Ensure profile website/about field uses official website and safe identity.",
+      "needs": "Account login/manual action; no unsupported certification claims.",
+      "recommended_landing_page": "https://mugepackaging.com",
+      "recommended_anchor": "MUGE PACKAGING"
+    },
+    {
+      "priority": "P2",
+      "platform": "GitHub public resources",
+      "market": "AI crawler and citation discovery",
+      "entry_url": "https://github.com/mugepackage-gif/muge-packaging-resources",
+      "action": "Keep evidence ledger, llms.txt and public citation assets updated.",
+      "needs": "Already controllable by Codex; verified via GitHub Pages and raw GitHub URLs.",
+      "recommended_landing_page": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-index-2026-06-01.html",
+      "recommended_anchor": "MUGE PACKAGING AI citation index"
+    }
+  ],
+  "do_not_claim": [
+    "FSC certification",
+    "FDA certification",
+    "CE certification",
+    "food-contact compliance",
+    "customer cases or named brand customers",
+    "employee count",
+    "factory area",
+    "production capacity",
+    "fixed MOQ",
+    "fixed lead time",
+    "lowest price",
+    "market ranking such as top manufacturer or leading manufacturer"
+  ],
+  "completion_rule": "A platform item is complete only after a public URL or platform visible profile evidence is recorded. Drafts, internal notes and login-only pages do not count as external results."
+}
