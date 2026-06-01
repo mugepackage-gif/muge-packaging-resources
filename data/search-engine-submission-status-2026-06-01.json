@@ -69,9 +69,9 @@
     {
       "platform": "B2Bs",
       "submission_url": "https://www.b2bs.com/aiurl/",
-      "http_status": 200,
-      "result": "submitted_to_ai_review_queue",
-      "evidence": "External response returned {\"status\":\"success\",\"message\":\"Task queued\"}.",
+      "http_status": 400,
+      "result": "already_submitted_to_ai_review_queue",
+      "evidence": "Latest external response returned {\"status\":\"error\",\"message\":\"This URL has already been submitted\"}; earlier submission response returned task queued, so no duplicate submission was made.",
       "public_search_check": "No public B2Bs listing URL has been verified yet, so this is not counted as a verified backlink.",
       "next_verification": "Recheck whether B2Bs has published or indexed the submitted URL."
     },
@@ -103,6 +103,15 @@
       "public_search_check": "Follow-up searches for mugepackaging.com and MUGE PACKAGING both returned Search Results (0), so this is not counted as a verified backlink yet.",
       "safety_note": "Submitted to Packaging category with factual company description and explicit claim boundaries; no paid review, no captcha bypass and no unsupported certification or verified supplier claim.",
       "next_verification": "Check sales@mugepackaging.com for BusinessSeek confirmation email, confirm if available, then recheck BusinessSeek search and category pages."
+    },
+    {
+      "platform": "Jayde",
+      "submission_url": "https://dev.jayde.com/submit",
+      "http_status": 200,
+      "result": "submitted_pending_review",
+      "evidence": "Response page displayed Success: Your site has been submitted successfully. It will be reviewed and added to the directory shortly.",
+      "public_search_check": "No public Jayde listing URL has been verified yet, so this is not counted as a verified backlink.",
+      "next_verification": "Recheck Jayde directory/search for MUGE PACKAGING or mugepackaging.com after review."
     }
   ],
   "blocked": [
@@ -203,6 +212,12 @@
       "http_status": 200,
       "blocker": "frontend_submission_error_and_public_supabase_rest_connection_reset",
       "action_taken": "Stopped after one front-end browser submit attempt and one direct REST retry. No captcha bypass, payment or unsafe account action was attempted."
+    },
+    {
+      "platform": "Cloudflare Managed Robots",
+      "submission_url": "https://dash.cloudflare.com/",
+      "http_status": 403,
+      "blocker": "P0 GEO blocker: Cloudflare Managed robots.txt still prepends Disallow rules for GPTBot, ClaudeBot and Google-Extended. Local cloudflare.env was loaded first, but the Cloudflare API returned Authentication error when trying to disable managed robots. Requires a valid Cloudflare token with Bot Management / Zone Settings edit permission."
     }
   ]
 }

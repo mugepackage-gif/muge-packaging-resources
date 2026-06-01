@@ -85,8 +85,16 @@
         <td>B2Bs</td>
         <td><a href="https://www.b2bs.com/aiurl/">AI URL submission</a></td>
         <td>200</td>
-        <td>Submitted for AI review queue.</td>
-        <td>External response returned <code>{"status":"success","message":"Task queued"}</code>. No public directory page has been verified yet, so this is counted as pending only.</td>
+        <td>Already submitted to AI review queue.</td>
+        <td>Latest response returned <code>{"status":"error","message":"This URL has already been submitted"}</code>; earlier response queued the task. No duplicate submission was made and no public directory page has been verified yet.</td>
+      </tr>
+
+      <tr>
+        <td>Jayde</td>
+        <td><a href="https://dev.jayde.com/submit">Submit Your Site</a></td>
+        <td>200</td>
+        <td>Submitted successfully, pending editorial review.</td>
+        <td>Response page displayed <code>Success! Your site has been submitted successfully. It will be reviewed and added to the directory shortly.</code> No public listing URL has been verified yet.</td>
       </tr>
       <tr>
         <td>PODatlas</td>
@@ -133,6 +141,8 @@
       <tr><td>MFR.io</td><td><a href="https://mfr.io/sign-up">Sign Up</a></td><td>200</td><td>Requires JavaScript/Clerk account flow to continue after company website entry. Stopped for managed login review.</td></tr>
       <tr><td>Brownbook</td><td><a href="https://www.brownbook.net/business/add">Add Business</a></td><td>200</td><td>Next.js account/add flow did not expose a safe server-side submission path in this pass. Stopped for browser login review.</td></tr>
       <tr><td>AllWebList</td><td><a href="https://www.allweblist.org/submit.html">Submit Website</a></td><td>200 page load / REST failed</td><td>Front-end form showed a submission error after the browser submit attempt; direct REST submission to the public Supabase endpoint failed with connection reset. No public listing was found, so this is not counted.</td></tr>
+
+      <tr><td>Cloudflare Managed Robots</td><td><a href="https://dash.cloudflare.com/">Cloudflare dashboard/API</a></td><td>403</td><td>P0 GEO blocker: Managed robots still prepends Disallow rules for GPTBot, ClaudeBot and Google-Extended. Local secret file was loaded first, but Cloudflare API returned Authentication error. Requires valid Bot Management / Zone Settings edit permission.</td></tr>
     </tbody>
   </table>
 

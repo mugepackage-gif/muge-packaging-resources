@@ -212,9 +212,11 @@
     {
       "platform": "B2Bs",
       "submission_url": "https://www.b2bs.com/aiurl/",
-      "status": "submitted_to_ai_review_queue",
+      "status": "already_submitted_to_ai_review_queue",
       "evidence": "External response returned {\"status\":\"success\",\"message\":\"Task queued\"}.",
-      "counting_rule": "Pending result only until a public B2Bs listing page is found."
+      "counting_rule": "Counts as pending only until a public B2Bs listing page is found.",
+      "url": "https://www.b2bs.com/aiurl/",
+      "verification": "Latest response returned This URL has already been submitted; no duplicate submission was made."
     },
     {
       "platform": "Global Site Directory",
@@ -230,18 +232,34 @@
       "status": "submitted_pending_email_confirmation",
       "public_search_check": "Search Results (0) for mugepackaging.com and MUGE PACKAGING immediately after submission.",
       "counting_rule": "Pending result only. Not counted as a verified backlink until email confirmation and a public listing page are verified."
+    },
+    {
+      "platform": "Jayde",
+      "url": "https://dev.jayde.com/submit",
+      "status": "submitted_pending_review",
+      "verification": "HTTP 200; response page displayed Success: Your site has been submitted successfully. It will be reviewed and added to the directory shortly.",
+      "counting_rule": "Counts as submitted/pending only. Not counted as a verified backlink until a public Jayde listing page appears."
+    },
+    {
+      "platform": "Cloudflare Managed Robots",
+      "url": "https://mugepackaging.com/robots.txt",
+      "status": "p0_permission_blocked",
+      "verification": "Live robots.txt still includes Cloudflare Managed Disallow rules for GPTBot, ClaudeBot and Google-Extended before the site allow rules. The local Cloudflare secret file exists and was loaded, but Cloudflare API returned Authentication error when disabling managed robots.",
+      "counting_rule": "Does not count as completed. This is a P0 GEO accessibility blocker requiring a valid Cloudflare API token or dashboard action."
     }
   ],
   "latest_gsc_target_keyword_status": {
-    "exact_visible": 0,
-    "total_targets": 23,
+    "checked_at": "2026-06-01 11:32 CST",
+    "exact_visible": "0/23",
     "top20": 0,
     "clicked": 0,
     "no_impression_breakpoints": 22,
-    "check_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1120_目标关键词排名验收.json",
-    "conclusion": "Target commercial keyword visibility has not broken through yet."
+    "json_path": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1132_目标关键词排名验收.json",
+    "md_path": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1132_目标关键词排名验收.md"
   },
   "latest_external_entity_baseline": {
+    "checked_at": "2026-06-01 11:32 CST",
+    "total": 765,
     "verified_external_entity_assets": 761,
     "verified_link": 377,
     "verified_indirect_link": 34,
@@ -249,7 +267,8 @@
     "verified_mention": 348,
     "not_found": 4,
     "error": 0,
-    "baseline_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-01_1118_MUGE外部品牌提及复验基线.json"
+    "json_path": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-01_1132_MUGE外部品牌提及复验基线.json",
+    "md_path": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-01_1132_MUGE外部品牌提及复验基线.md"
   },
   "ai_citation_assets": [
     "https://mugepackage-gif.github.io/muge-packaging-resources/ai-target-question-answer-hub.html",
