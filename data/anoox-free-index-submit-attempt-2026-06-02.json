@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-02",
+  "platform": "Anoox",
+  "action": "Free site indexing submission attempt",
+  "form_url": "https://www.anoox.com/add_for_indexing_free.php",
+  "submitted_url": "https://mugepackaging.com/products",
+  "submitted_email": "sales@mugepackaging.com",
+  "status": "attempted_pending_email_confirmation_ambiguous",
+  "verification": {
+    "success_text_present": true,
+    "success_text_note": "Response contained text saying the site URL was submitted and waiting for email confirmation.",
+    "visible_error_present": true,
+    "error_text_note": "Response also contained a visible error block saying the site cannot be indexed because it was not properly submitted.",
+    "counted_as_verified_listing_or_backlink": false
+  },
+  "compliance": [
+    "No payment made.",
+    "No verified supplier claim made.",
+    "No invented certification, MOQ, lead time, capacity, customer case, or pricing used.",
+    "No account core profile changed."
+  ],
+  "next_actions": [
+    "Check sales@mugepackaging.com mailbox for Anoox confirmation email.",
+    "If confirmation email exists, manually confirm or authorize browser-assisted confirmation.",
+    "If no confirmation email arrives, resubmit by browser and stop on captcha/login/paywall."
+  ]
+}
