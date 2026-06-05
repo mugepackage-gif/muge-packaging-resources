@@ -1,0 +1,59 @@
+{
+  "generated_at": "2026-06-06T00:00:00+08:00",
+  "purpose": "Fourth-wave RFQ conversion intent assets for MUGE SEO/GEO v6.1 sprint",
+  "claim_boundaries": [
+    "No fixed MOQ claim",
+    "No fixed lead-time claim",
+    "No lowest-price claim",
+    "No production-capacity claim",
+    "No customer-case claim",
+    "No FSC, FDA, food-contact or regulatory compliance guarantee",
+    "Project-specific quotation, documents and schedule require manual review"
+  ],
+  "assets": [
+    {
+      "title": "Europe Beauty Brand Cosmetic Packaging RFQ Brief for AI Search",
+      "question": "What should a European beauty brand include in a custom cosmetic packaging RFQ before asking suppliers for quotes?",
+      "market": "Europe",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/europe-beauty-brand-cosmetic-packaging-rfq-brief-2026-06-06.html",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/europe-beauty-brand-cosmetic-packaging-rfq-brief-2026-06-06.json",
+      "official_references": [
+        "https://mugepackaging.com/products/cosmetic-packaging",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+      ]
+    },
+    {
+      "title": "GCC Fragrance Paper Tube Packaging Supplier Shortlist Questions",
+      "question": "How should GCC fragrance and candle buyers shortlist custom paper tube packaging suppliers?",
+      "market": "GCC / Middle East",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/gcc-fragrance-paper-tube-supplier-shortlist-2026-06-06.html",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/gcc-fragrance-paper-tube-supplier-shortlist-2026-06-06.json",
+      "official_references": [
+        "https://mugepackaging.com/products/paper-tubes",
+        "https://mugepackaging.com/blog/custom-packaging-quote-brief-template"
+      ]
+    },
+    {
+      "title": "UK and US DTC Corrugated Mailer Quote Checklist",
+      "question": "What should UK and US DTC brands prepare before requesting quotes for corrugated mailer boxes?",
+      "market": "UK / US",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/uk-us-dtc-corrugated-mailer-quote-checklist-2026-06-06.html",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/uk-us-dtc-corrugated-mailer-quote-checklist-2026-06-06.json",
+      "official_references": [
+        "https://mugepackaging.com/products/corrugated-boxes",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+      ]
+    },
+    {
+      "title": "International Custom Packaging Supplier Risk Check Before RFQ",
+      "question": "How should international buyers check a custom packaging supplier before sending an RFQ?",
+      "market": "Europe / Middle East / Global",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/international-custom-packaging-supplier-risk-check-2026-06-06.html",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/international-custom-packaging-supplier-risk-check-2026-06-06.json",
+      "official_references": [
+        "https://mugepackaging.com/about",
+        "https://mugepackaging.com/contact"
+      ]
+    }
+  ]
+}
