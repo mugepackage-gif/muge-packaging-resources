@@ -5,7 +5,7 @@
 ## 摘要
 
 - 机会总数：20
-- HTTP 可达：14
+- HTTP 可达：12
 - 有表单/提交/联系信号：18
 - P0/P1：15
 
@@ -23,7 +23,7 @@
 | P0 | Kompass | 403 | 无 | https://mugepackaging.com | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
 | P0 | IndustryStock | 403 | 有 | https://mugepackaging.com/products | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
 | P0 | Crunchbase | 403 | 有 | https://mugepackaging.com | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
-| P0 | DataIntelo magnetic closure boxes | 200 | 有 | https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
+| P0 | DataIntelo magnetic closure boxes | 403 | 有 | https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
 | P1 | TradeFord | 200 | 有 | https://mugepackaging.com | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
 | P1 | TradeWheel | 200 | 有 | https://mugepackaging.com/products | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
 | P1 | Global Trade Plaza | 200 | 有 | https://mugepackaging.com | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
@@ -35,7 +35,7 @@
 | P1 | OpenPR | 200 | 有 | https://mugepackaging.com | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
 | P1 | Future Market Insights | 200 | 有 | https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
 | P2 | Valuates coated paper packaging box | 403 | 无 | https://mugepackaging.com/products | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
-| P2 | MarketReportAnalytics coated paper packaging | 200 | 有 | https://mugepackaging.com/products | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
+| P2 | MarketReportAnalytics coated paper packaging | 403 | 有 | https://mugepackaging.com/products | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
 | P2 | Credence Research coated paper packaging | 200 | 有 | https://mugepackaging.com/products | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
 | P2 | Maia Research coated paper packaging | 200 | 有 | https://mugepackaging.com/products | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
 | P2 | MarketPublishers | 200 | 有 | https://mugepackaging.com/about | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
