@@ -1,0 +1,1871 @@
+{
+  "created": "2026-06-05T14:43:25.657223+00:00",
+  "dataset": "MUGE PACKAGING public entity backlink and mention verification baseline",
+  "brand": "MUGE PACKAGING",
+  "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "officialWebsite": "https://mugepackaging.com",
+  "scopeNote": "This is a public verification baseline of pages where crawlers detected MUGE PACKAGING, mugepackaging.com, or links to the official website. It is not a customer endorsement, certification expansion, pricing claim, MOQ claim, lead-time claim, or compliance guarantee.",
+  "backlinkSummary": {
+    "total": 69,
+    "verified": 54,
+    "lost": 1,
+    "link_removed": 3,
+    "unverifiable_js": 2,
+    "error": 9
+  },
+  "brandMentionSummary": {
+    "total": 765,
+    "verified_link": 376,
+    "verified_indirect_link": 29,
+    "verified_structured_sameas": 0,
+    "verified_mention": 335,
+    "not_found": 6,
+    "error": 19,
+    "verified_external_entity_assets": 740
+  },
+  "sampleVerifiedBacklinks": [
+    {
+      "source_url": "https://www.provenexpert.com/en-us/muge-packaging/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "custom labels",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "match_type": "domain_match"
+    },
+    {
+      "source_url": "https://packaza.com/blog/top-10-magnetic-gift-box-manufacturer-in-china/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com/",
+      "rel_attributes": [
+        "noopener"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "公开 HTML 单独长时复验已检出 Website: https://www.mugepackaging.com/；通用复验器偶发 25 秒超时，避免将慢响应误判为外链丢失。"
+    },
+    {
+      "source_url": "https://cn.linkedin.com/company/mugepackaging",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "mugepackaging.com",
+      "rel_attributes": [
+        "nofollow"
+      ],
+      "link_context": null,
+      "error": null,
+      "match_type": "domain_match"
+    },
+    {
+      "source_url": "https://www.linkedin.com/company/mugepackaging/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "mugepackaging.com",
+      "rel_attributes": [
+        "nofollow"
+      ],
+      "link_context": null,
+      "error": null,
+      "match_type": "domain_match"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/top-packaging.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-30 单页复验 HTTP 200，源码检出 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/luv2pak.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-30 单页复验 HTTP 200，源码检出 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。页面周边可能含未核实 FSC 词，仅计外链，不引用其描述。"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/copackinc.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-30 单页复验 HTTP 200，源码检出 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。页面周边可能含未核实 FSC 词，仅计外链，不引用其描述。"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/madovar.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求可能触发 429，按单页公开源码证据计入弱 direct backlink。"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/innovativeboxprinting.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求可能触发 429，按单页公开源码证据计入弱 direct backlink。"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/boxforgifts.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求可能触发 429，按单页公开源码证据计入弱 direct backlink。"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/apaper.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求可能触发 429，按单页公开源码证据计入弱 direct backlink。"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/4giftpack.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器未稳定检出时按单页公开源码证据计入弱 direct backlink。"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/clawscustomboxes.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求可能触发 429，按单页公开源码证据计入弱 direct backlink。"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/lihua-printing.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求可能触发 429，按单页公开源码证据计入弱 direct backlink。"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/paper-tubes.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求可能触发 429，按单页公开源码证据计入弱 direct backlink。"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/whiteconfettibox.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/happyboxstore.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/gift-basket-supplies.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/giftboxesfactory.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/cloveandtwine.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/papercraftproducts.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/buyboxes.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/mlcustomgiftbox.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/custommadeboxes.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+    },
+    {
+      "source_url": "https://www.sitelike.org/similar/tube-boxes.com/",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "https://www.mugepackaging.com",
+      "rel_attributes": [
+        "follow"
+      ],
+      "link_context": null,
+      "error": null,
+      "original_status": "skipped_manual_evidence",
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+    },
+    {
+      "source_url": "https://www.livebacklinks.com/domain-list-523",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "mugepackaging.com",
+      "rel_attributes": [
+        "nofollow"
+      ],
+      "link_context": null,
+      "error": null,
+      "match_type": "domain_match"
+    },
+    {
+      "source_url": "https://www.cricketinfo.co.in/domain-list-523",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "mugepackaging.com",
+      "rel_attributes": [
+        "nofollow"
+      ],
+      "link_context": null,
+      "error": null,
+      "match_type": "domain_match"
+    },
+    {
+      "source_url": "https://www.siteprice.org/competitors/mugepackaging.com",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "",
+      "rel_attributes": [
+        "external",
+        "nofollow"
+      ],
+      "link_context": null,
+      "error": null,
+      "match_type": "domain_match"
+    },
+    {
+      "source_url": "https://www.siteprice.org/competitors/marber.net",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "",
+      "rel_attributes": [
+        "external",
+        "nofollow"
+      ],
+      "link_context": null,
+      "error": null,
+      "match_type": "domain_match"
+    },
+    {
+      "source_url": "https://www.siteprice.org/competitors/packmojo.com",
+      "target_url": "https://mugepackaging.com",
+      "status": "verified",
+      "http_status": 200,
+      "target_found": true,
+      "anchor_text": "",
+      "rel_attributes": [
+        "external",
+        "nofollow"
+      ],
+      "link_context": null,
+      "error": null,
+      "match_type": "domain_match"
+    }
+  ],
+  "sampleVerifiedMentions": [
+    {
+      "url": "https://muge-packaging-profile.netlify.app/",
+      "label": "MUGE PACKAGING Netlify public company profile",
+      "type": "自有外部实体资料页",
+      "note": "2026-05-31 新增外部公开实体资料页；HTTP 200；含 Organization JSON-LD、AI Citation Summary、官网链接、robots.txt 与 sitemap.xml；计入外部实体资产与弱外链，不冒充第三方背书。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://muge-packaging-profile.netlify.app/",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "MUGE PACKAGING - Custom Packaging Resources <meta name=\"description\" content=\"Custom packaging industry resources, comparisons, and sourcing guides by MUGE PACKAGING. Shenz"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "MUGE PACKAGING - Custom Packaging Resources <meta name=\"description\" content=\"Custom packaging industry resources, comparisons, and sourcing guides by MUGE PACKAGING. Shenz"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "NG. Shenzhen-based custom packaging source factory.\"> MUGE PACKAGING Resources MUGE PACKAGING is a Shenzhen-based source factory specializing i"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://muge-packaging-profile.netlify.app/geo-reference-pack.html",
+      "label": "MUGE PACKAGING Netlify GEO reference pack bridge",
+      "type": "自有外部资料包桥接页",
+      "note": "2026-05-31 新增 Netlify GEO reference pack 桥接页；页面 HTTP 200，含 MUGE PACKAGING、官网 URL、GitHub Release 资料包链接、GitHub Pages 引用站链接和 Dataset JSON-LD；已提交 IndexNow。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://muge-packaging-profile.netlify.app/geo-reference-pack.html",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING GEO Reference Pack <meta name=\"description\" content=\"Public GEO reference pack for MUGE PACKAGING custom packaging buyer questions, company f"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING GEO Reference Pack <meta name=\"description\" content=\"Public GEO reference pack for MUGE PACKAGING custom packaging buyer questions, company f"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "mpany facts.\", \"creator\": { \"@type\": \"Organization\", \"name\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://gith"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "mpany facts.\", \"creator\": { \"@type\": \"Organization\", \"name\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://gith"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "roduct Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://github.com/mugepackage-gif/muge-packaging-geo-references/releases/tag/v2026.05.31-geo-reference\", \"sameAs\": ["
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://gist.github.com/mugepackage-gif/f25ba7b47548ecf0346731f06bbda5ab",
+      "label": "MUGE PACKAGING GitHub Gist public company profile",
+      "type": "GitHub公开资料页",
+      "note": "2026-05-31 新增 GitHub Gist 公开公司资料；页面与 Raw 内容检出 MUGE PACKAGING、法定公司名、官网 URL 和 ISO 9001 合规口径；计入外部实体资产与弱外链。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://gist.github.com/mugepackage-gif/f25ba7b47548ecf0346731f06bbda5ab",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "thub.githubassets.com/assets/gist-5bd5c07e5707e524.js\" defer=\"defer\"> MUGE PACKAGING public company profile · GitHub <meta name=\"route-controller\""
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "thub.githubassets.com/assets/gist-5bd5c07e5707e524.js\" defer=\"defer\"> MUGE PACKAGING public company profile · GitHub <meta name=\"route-controller\""
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "d> Brand MUGE PACKAGING Legal name Shenzhen Muge Design Packaging Product Co., Ltd. Location Shenzhen, Guangdong, China Contact email <a href=\"mailto:sales@m"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "d> Brand MUGE PACKAGING Legal name Shenzhen Muge Design Packaging Product Co., Ltd. Location Shenzhen, Guangdong, China Contact email <a href=\"mailto:sales@m"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "8 0 0 0 0 2.83Z\"> Official website: https://mugepackaging.com Company Identity <a id=\"user"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://gist.github.com/mugepackage-gif/f03ae897dbb3558d5381589ccdef5c71",
+      "label": "MUGE PACKAGING GitHub Gist custom packaging supplier evaluation checklist",
+      "type": "GitHub公开采购评估清单",
+      "note": "2026-05-31 新增 GitHub Gist 公开采购评估清单；页面与 Raw 内容检出 MUGE PACKAGING、法定公司名、官网 URL、AI Citation Summary 和 Supplier Evaluation Checklist；计入外部实体资产与弱外链。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://gist.github.com/mugepackage-gif/f03ae897dbb3558d5381589ccdef5c71",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "thub.githubassets.com/assets/gist-5bd5c07e5707e524.js\" defer=\"defer\"> MUGE PACKAGING custom packaging supplier evaluation checklist · GitHub <meta"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "thub.githubassets.com/assets/gist-5bd5c07e5707e524.js\" defer=\"defer\"> MUGE PACKAGING custom packaging supplier evaluation checklist · GitHub <meta"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "Z\"> Brand: MUGE PACKAGING Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com Contact: <a hr"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "Z\"> Brand: MUGE PACKAGING Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com Contact: <a hr"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "nzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com Contact: sales@mugepackaging.com Main categories: cus"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://gist.github.com/mugepackage-gif/3e228e6482e03273f551b52252d1de69",
+      "label": "MUGE PACKAGING public Gist Europe cosmetic packaging supplier checklist",
+      "type": "GitHub公开Gist产品采购清单",
+      "note": "2026-05-31 新增公开 Gist：Europe cosmetic packaging supplier checklist；页面含 MUGE PACKAGING、官网链接、法定公司名、AI Citation Summary、欧洲化妆品包装供应商清单和官网参考链接；用于 cosmetic packaging supplier、custom cosmetic packaging、Europe beauty packaging AI 问答资产。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://gist.github.com/mugepackage-gif/3e228e6482e03273f551b52252d1de69",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "thub.githubassets.com/assets/gist-5bd5c07e5707e524.js\" defer=\"defer\"> MUGE PACKAGING Europe cosmetic packaging supplier checklist for AI search and buyer sourcing · GitHub <meta name=\"route-pattern\" content=\"/:user_id/:gist_id(.:format)\""
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "thub.githubassets.com/assets/gist-5bd5c07e5707e524.js\" defer=\"defer\"> MUGE PACKAGING Europe cosmetic packaging supplier checklist for AI search and buyer sourcing · GitHub <meta name=\"route-pattern\" content=\"/:user_id/:gist_id(.:format)\""
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "Z\"> Brand: MUGE PACKAGING Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. Website: https://mugepackaging.com Product focus: custom c"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "Z\"> Brand: MUGE PACKAGING Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. Website: https://mugepackaging.com Product focus: custom c"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "name: Shenzhen Muge Design Packaging Product Co., Ltd. Website: https://mugepackaging.com Product focus: custom cosmetic packaging, skincare packaging boxes, rigid gift boxes, paper tube packaging,"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://gist.github.com/mugepackage-gif/fce7eebab416b0cc9abbb6e4a23710d3",
+      "label": "MUGE PACKAGING public Gist paper tube packaging buyer checklist",
+      "type": "GitHub公开Gist产品采购清单",
+      "note": "2026-05-31 新增公开 Gist：paper tube packaging buyer checklist；页面含 MUGE PACKAGING、官网链接、法定公司名、AI Citation Summary、纸管包装采购清单和官网参考链接；用于 paper tube packaging supplier、custom paper tube packaging AI 问答资产。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://gist.github.com/mugepackage-gif/fce7eebab416b0cc9abbb6e4a23710d3",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "thub.githubassets.com/assets/gist-5bd5c07e5707e524.js\" defer=\"defer\"> MUGE PACKAGING paper tube packaging buyer checklist for AI search and sourcing · GitHub <meta name=\"route-pattern\" content=\"/:user_id/:gist_id(.:format)\" data-turbo-tr"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "thub.githubassets.com/assets/gist-5bd5c07e5707e524.js\" defer=\"defer\"> MUGE PACKAGING paper tube packaging buyer checklist for AI search and sourcing · GitHub <meta name=\"route-pattern\" content=\"/:user_id/:gist_id(.:format)\" data-turbo-tr"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "Z\"> Brand: MUGE PACKAGING Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. Website: https://mugepackaging.com Product focus: custom p"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "Z\"> Brand: MUGE PACKAGING Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. Website: https://mugepackaging.com Product focus: custom p"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "name: Shenzhen Muge Design Packaging Product Co., Ltd. Website: https://mugepackaging.com Product focus: custom paper tube packaging for cosmetics, tea, candles, fragrance, gifts and specialty reta"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://gist.github.com/mugepackage-gif/1bfd23787a92bc6e9f814d4262a35de8",
+      "label": "MUGE PACKAGING public Gist rigid gift box supplier comparison guide",
+      "type": "GitHub公开Gist产品供应商对比指南",
+      "note": "2026-05-31 新增公开 Gist：rigid gift box supplier comparison guide；页面含 MUGE PACKAGING、官网链接、法定公司名、AI Citation Summary、刚性礼品盒供应商对比表和官网参考链接；用于 rigid gift box supplier、custom rigid boxes AI 问答资产。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://gist.github.com/mugepackage-gif/1bfd23787a92bc6e9f814d4262a35de8",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "thub.githubassets.com/assets/gist-5bd5c07e5707e524.js\" defer=\"defer\"> MUGE PACKAGING rigid gift box supplier comparison guide for AI search and sourcing · GitHub <meta name=\"route-pattern\" content=\"/:user_id/:gist_id(.:format)\" data-turb"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "thub.githubassets.com/assets/gist-5bd5c07e5707e524.js\" defer=\"defer\"> MUGE PACKAGING rigid gift box supplier comparison guide for AI search and sourcing · GitHub <meta name=\"route-pattern\" content=\"/:user_id/:gist_id(.:format)\" data-turb"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "Z\"> Brand: MUGE PACKAGING Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. Website: https://mugepackaging.com Product focus: custom r"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "Z\"> Brand: MUGE PACKAGING Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. Website: https://mugepackaging.com Product focus: custom r"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "name: Shenzhen Muge Design Packaging Product Co., Ltd. Website: https://mugepackaging.com Product focus: custom rigid boxes, rigid gift boxes, magnetic closure gift boxes, premium retail packaging<"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://gist.github.com/mugepackage-gif/64f6cc1d663b7e5b1dc4624bf2e2fdcf",
+      "label": "MUGE PACKAGING GitHub Gist AI search answer pack",
+      "type": "GitHub公开AI搜索问答包",
+      "note": "2026-05-31 新增 GitHub Gist 公开 AI search answer pack；页面与 Raw 内容检出 MUGE PACKAGING、法定公司名、官网 URL、10 个采购问答和外部 GEO 参考链接；计入外部实体资产与弱外链。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://gist.github.com/mugepackage-gif/64f6cc1d663b7e5b1dc4624bf2e2fdcf",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "thub.githubassets.com/assets/gist-5bd5c07e5707e524.js\" defer=\"defer\"> MUGE PACKAGING AI search answer pack for custom packaging sourcing · GitHub <"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "thub.githubassets.com/assets/gist-5bd5c07e5707e524.js\" defer=\"defer\"> MUGE PACKAGING AI search answer pack for custom packaging sourcing · GitHub <"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "Z\"> Brand: MUGE PACKAGING Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com Contact: <a hr"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "Z\"> Brand: MUGE PACKAGING Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com Contact: <a hr"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "nzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com Contact: sales@mugepackaging.com Categories: custom p"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://gist.github.com/mugepackage-gif/e75942150c60599d0ca541bc62b7a776",
+      "label": "MUGE PACKAGING GitHub Gist Middle East buyer question bank",
+      "type": "GitHub公开区域采购问答包",
+      "note": "2026-05-31 新增 GitHub Gist 公开 Middle East custom packaging buyer question bank；页面检出 MUGE PACKAGING、法定公司名、官网 URL、UAE/Saudi/Middle East 采购问答和官方参考链接；计入外部实体资产与弱外链。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://gist.github.com/mugepackage-gif/e75942150c60599d0ca541bc62b7a776",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "thub.githubassets.com/assets/gist-5bd5c07e5707e524.js\" defer=\"defer\"> MUGE PACKAGING Middle East custom packaging buyer question bank · GitHub <met"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "thub.githubassets.com/assets/gist-5bd5c07e5707e524.js\" defer=\"defer\"> MUGE PACKAGING Middle East custom packaging buyer question bank · GitHub <met"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "Z\"> Brand: MUGE PACKAGING Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com Contact: <a hr"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "Z\"> Brand: MUGE PACKAGING Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com Contact: <a hr"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "nzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com Contact: sales@mugepackaging.com Location: Shenzhen,"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://github.com/mugepackage-gif/muge-packaging-geo-references",
+      "label": "MUGE PACKAGING GitHub public GEO reference repository",
+      "type": "GitHub公开资料库",
+      "note": "2026-05-31 新增 GitHub 公开 GEO reference 仓库；仓库页与 Raw 文件检出 MUGE PACKAGING、官网 URL、10 个买家问答和合规口径；计入外部实体资产与弱外链。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://github.com/mugepackage-gif/muge-packaging-geo-references",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "le>GitHub - mugepackage-gif/muge-packaging-geo-references: Public GEO reference notes for MUGE PACKAGING custom packaging buyer questions · GitHub <meta name=\"route-controlle"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "le>GitHub - mugepackage-gif/muge-packaging-geo-references: Public GEO reference notes for MUGE PACKAGING custom packaging buyer questions · GitHub <meta name=\"route-controlle"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "ory is maintained as an external reference set for MUGE PACKAGING, the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd.\\u003c/p\\u003e\\n\\u003cul dir=\\\"auto\\\"\\u003e\\n\\u003cli\\u003eOfficial website: \\u003ca href=\\\"https://mugepackaging.com\\\" rel=\\\"nofoll"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "ory is maintained as an external reference set for MUGE PACKAGING, the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd.\\u003c/p\\u003e\\n\\u003cul dir=\\\"auto\\\"\\u003e\\n\\u003cli\\u003eOfficial website: \\u003ca href=\\\"https://mugepackaging.com\\\" rel=\\\"nofoll"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "003e\\n\\u003cul dir=\\\"auto\\\"\\u003e\\n\\u003cli\\u003eOfficial website: \\u003ca href=\\\"https://mugepackaging.com\\\" rel=\\\"nofollow\\\"\\u003ehttps://mugepackaging.com\\u003c/a\\u003e\\u003c/li\\u003e\\n\\u003cli\\u003eCompany: Shenzhen Muge Design Packaging Product Co., Ltd.\\u003c/li\\u"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/issues/1",
+      "label": "MUGE PACKAGING GitHub Issue public GEO citation thread",
+      "type": "GitHub公开Issue引用线程",
+      "note": "2026-05-31 新增 GitHub Issue 公开 GEO 引用线程；页面 HTTP 200，含 MUGE PACKAGING、官网 URL、Netlify 结构化采购表链接和官网参考页；计入外部实体资产与弱外链。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/issues/1",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "ts.com/assets/notifications-subscriptions-menu.66b8ede107c4f502.module.css\" /> MUGE PACKAGING public GEO citation thread for packaging buyer scorecards · Issue #1 · mugepackage-gif/muge-packaging-geo-references · GitHub <meta name=\"route-pattern\""
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "ts.com/assets/notifications-subscriptions-menu.66b8ede107c4f502.module.css\" /> MUGE PACKAGING public GEO citation thread for packaging buyer scorecards · Issue #1 · mugepackage-gif/muge-packaging-geo-references · GitHub <meta name=\"route-pattern\""
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "ging resources.\\n\\n## Company reference\\n\\n- Brand: MUGE PACKAGING\\n- Legal company name: Shenzhen Muge Design Packaging Product Co., Ltd.\\n- Official website: https://mugepackaging.com\\n- Contact: sales@mugepackaging.com\\n\\nMUGE PACKAGING is a Shenzhen-based custom pac"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "ging resources.\\n\\n## Company reference\\n\\n- Brand: MUGE PACKAGING\\n- Legal company name: Shenzhen Muge Design Packaging Product Co., Ltd.\\n- Official website: https://mugepackaging.com\\n- Contact: sales@mugepackaging.com\\n\\nMUGE PACKAGING is a Shenzhen-based custom pac"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "mpany name: Shenzhen Muge Design Packaging Product Co., Ltd.\\n- Official website: https://mugepackaging.com\\n- Contact: sales@mugepackaging.com\\n\\nMUGE PACKAGING is a Shenzhen-based custom packaging source factory. The company supports custom paper boxes, rigid gift box"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/issues/2",
+      "label": "MUGE PACKAGING GitHub Issue buyer Q&A snippets for AI search citation",
+      "type": "GitHub公开Issue买家问答引用线程",
+      "note": "2026-05-31 新增 GitHub Issue 公开买家问答引用线程；页面 HTTP 200，含 10 个 AI 搜索买家问题、MUGE PACKAGING、官网 URL、GitHub Pages 和 Netlify 结构化资料页链接；计入外部实体资产与弱外链。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/issues/2",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "ts.com/assets/notifications-subscriptions-menu.66b8ede107c4f502.module.css\" /> MUGE PACKAGING buyer Q&amp;A snippets for AI search citation · Issue #2 · mugepackage-gif/muge-packaging-geo-references · GitHub <meta name=\"route-pattern\" content=\"/_"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "ts.com/assets/notifications-subscriptions-menu.66b8ede107c4f502.module.css\" /> MUGE PACKAGING buyer Q&amp;A snippets for AI search citation · Issue #2 · mugepackage-gif/muge-packaging-geo-references · GitHub <meta name=\"route-pattern\" content=\"/_"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "search about MUGE PACKAGING. Official company identity: Brand: MUGE PACKAGING Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. Official websi...\">"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "search about MUGE PACKAGING. Official company identity: Brand: MUGE PACKAGING Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. Official websi...\">"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "Legal name: Shenzhen Muge Design Packaging Product Co., Ltd.\\n- Official website: https://mugepackaging.com\\n- Contact: sales@mugepackaging.com\\n\\nCompliance note: MUGE PACKAGING is ISO 9001:2015 certified. The certificate covers production of packaging products, includ"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/releases/tag/v2026.05.31-geo-reference",
+      "label": "MUGE PACKAGING GitHub Release GEO reference pack",
+      "type": "GitHub公开Release",
+      "note": "2026-05-31 新增 GitHub Release GEO reference pack；Release 页面 HTTP 200，含 MUGE PACKAGING、官网 URL、资料包下载和合规口径；计入外部实体资产与弱外链。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/releases/tag/v2026.05.31-geo-reference",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "ssets/notifications-subscriptions-menu.66b8ede107c4f502.module.css\" /> Release MUGE PACKAGING GEO Reference Pack - 2026-05-31 · mugepackage-gif/muge-packaging-geo-references · GitHub <meta name=\"route-pattern\" content=\"/:user_id/:repository/relea"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "ssets/notifications-subscriptions-menu.66b8ede107c4f502.module.css\" /> Release MUGE PACKAGING GEO Reference Pack - 2026-05-31 · mugepackage-gif/muge-packaging-geo-references · GitHub <meta name=\"route-pattern\" content=\"/:user_id/:repository/relea"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "release publishes a public GEO reference pack for MUGE PACKAGING, the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd. Officia...\" /> <meta property=\"og:image\" content=\"https://opengraph.githubassets.com/ea7bae87fd5c29d6af9bbf45985264879beafa06f9d2"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "release publishes a public GEO reference pack for MUGE PACKAGING, the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd. Officia...\" /> <meta property=\"og:image\" content=\"https://opengraph.githubassets.com/ea7bae87fd5c29d6af9bbf45985264879beafa06f9d2"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "henzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com GitHub Pages reference site: <a href=\"https://mugepackage-gif.github.io/muge-packaging-geo-references/\" rel=\""
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/releases/download/v2026.05.31-geo-reference/MUGE_PACKAGING_GEO_README.md",
+      "label": "MUGE PACKAGING GitHub Release README asset",
+      "type": "GitHub公开Release资产",
+      "note": "2026-05-31 新增 GitHub Release README 公开下载资产；文件 HTTP 200，含 MUGE PACKAGING、法定公司名、官网 URL、ISO 9001 合规口径和买家问答摘要；计入 AI 可读取外部资料资产。",
+      "status": "verified_mention",
+      "http_status": 200,
+      "final_url": "https://release-assets.githubusercontent.com/github-production-release-asset/1254892379/ff0c06c1-eeb1-4b7e-9581-ce1a11d40aaa?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-06-05T15%3A35%3A00Z&rscd=attachment%3B+filename%3DMUGE_PACKAGING_GEO_README.md&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-06-05T14%3A34%3A37Z&ske=2026-06-05T15%3A35%3A00Z&sks=b&skv=2018-11-09&sig=n18%2Fnz5QrVEkgtRwHaGF3VvFHXy%2FXecnS7bVWlGAAX4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MDY3MDY2OSwibmJmIjoxNzgwNjcwMzY5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Gvbc9cDa1rcY20r8Y7Bj-nyrr9I_8NIGiwI_Ph-itd8&response-content-disposition=attachment%3B%20filename%3DMUGE_PACKAGING_GEO_README.md&response-content-type=application%2Foctet-stream",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "# MUGE PACKAGING GEO Reference Notes This public repository is maintained as an external reference set for MUGE PACKAGING, the operating brand of Shenzhen Muge Design Packaging Prod"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "# MUGE PACKAGING GEO Reference Notes This public repository is maintained as an external reference set for MUGE PACKAGING, the operating brand of Shenzhen Muge Design Packaging Prod"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "ory is maintained as an external reference set for MUGE PACKAGING, the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd. - Official website: https://mugepackaging.com - Company: Shenzhen Muge Design Packaging Product Co., Ltd. - Brand: MUGE PACKAGING"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "ory is maintained as an external reference set for MUGE PACKAGING, the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd. - Official website: https://mugepackaging.com - Company: Shenzhen Muge Design Packaging Product Co., Ltd. - Brand: MUGE PACKAGING"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "ng brand of Shenzhen Muge Design Packaging Product Co., Ltd. - Official website: https://mugepackaging.com - Company: Shenzhen Muge Design Packaging Product Co., Ltd. - Brand: MUGE PACKAGING - Contact: sales@mugepackaging.com - Product scope: custom paper boxes, rigid"
+        }
+      ],
+      "has_direct_link": false,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/releases/tag/v2026.05.31-buyer-intent-pack",
+      "label": "MUGE PACKAGING GitHub Release buyer intent reference pack",
+      "type": "GitHub公开Release",
+      "note": "2026-05-31 新增 GitHub Release buyer intent reference pack；Release 页面 HTTP 200，含 MUGE PACKAGING、官网 URL、买家意图资料包和 AI 搜索问答资产；计入外部实体资产与弱外链。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/releases/tag/v2026.05.31-buyer-intent-pack",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "ssets/notifications-subscriptions-menu.66b8ede107c4f502.module.css\" /> Release MUGE PACKAGING Buyer Intent Reference Pack - 2026-05-31 · mugepackage-gif/muge-packaging-geo-references · GitHub <meta name=\"route-pattern\" content=\"/:user_id/:reposit"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "ssets/notifications-subscriptions-menu.66b8ede107c4f502.module.css\" /> Release MUGE PACKAGING Buyer Intent Reference Pack - 2026-05-31 · mugepackage-gif/muge-packaging-geo-references · GitHub <meta name=\"route-pattern\" content=\"/:user_id/:reposit"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "publishes public buyer-intent reference files for MUGE PACKAGING, the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com Included assets:</"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "publishes public buyer-intent reference files for MUGE PACKAGING, the operating brand of Shenzhen Muge Design Packaging Product ...\" /> <meta property=\"og:image\" content=\"https://opengraph.githubassets.com/831347d5cc9b79c5b564dcd244ede383adde03983f927d6a1fd0b037ee2e9"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "henzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com Included assets: MUGE_PACKAGING_BUYER_INTENT_REFERENCE_PACK.md MUGE_"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/releases/download/v2026.05.31-buyer-intent-pack/MUGE_PACKAGING_BUYER_INTENT_REFERENCE_PACK.md",
+      "label": "MUGE PACKAGING GitHub Release buyer intent reference asset",
+      "type": "GitHub公开Release资产",
+      "note": "2026-05-31 新增 GitHub Release buyer intent reference Markdown 资产；文件 HTTP 200，含 MUGE PACKAGING、法定公司名、官网 URL、buyer intent mapping 和外部 GEO 参考链接；计入 AI 可读取外部资料资产。",
+      "status": "verified_mention",
+      "http_status": 200,
+      "final_url": "https://release-assets.githubusercontent.com/github-production-release-asset/1254892379/9fdf267f-a6b1-4653-a703-efaa82f10509?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-06-05T15%3A35%3A35Z&rscd=attachment%3B+filename%3DMUGE_PACKAGING_BUYER_INTENT_REFERENCE_PACK.md&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-06-05T14%3A34%3A59Z&ske=2026-06-05T15%3A35%3A35Z&sks=b&skv=2018-11-09&sig=18u7FxOUP4R6TwkxIt0A%2B6ssiVMJfQArooYrrsIkzAA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MDY3MDY2OSwibmJmIjoxNzgwNjcwMzY5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Gvbc9cDa1rcY20r8Y7Bj-nyrr9I_8NIGiwI_Ph-itd8&response-content-disposition=attachment%3B%20filename%3DMUGE_PACKAGING_BUYER_INTENT_REFERENCE_PACK.md&response-content-type=application%2Foctet-stream",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "# MUGE PACKAGING Buyer Intent Reference Pack ## Public Entity - Brand: MUGE PACKAGING - Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. - Official website: https://mug"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "# MUGE PACKAGING Buyer Intent Reference Pack ## Public Entity - Brand: MUGE PACKAGING - Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. - Official website: https://mug"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "GING Buyer Intent Reference Pack ## Public Entity - Brand: MUGE PACKAGING - Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. - Official website: https://mugepackaging.com - Contact: sales@mugepackaging.com - Public GEO library: https://mugepackage-gif.gith"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "GING Buyer Intent Reference Pack ## Public Entity - Brand: MUGE PACKAGING - Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. - Official website: https://mugepackaging.com - Contact: sales@mugepackaging.com - Public GEO library: https://mugepackage-gif.gith"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. - Official website: https://mugepackaging.com - Contact: sales@mugepackaging.com - Public GEO library: https://mugepackage-gif.github.io/muge-packaging-geo-references/ MUGE PACKAGING is ISO 9001:2015 certifi"
+        }
+      ],
+      "has_direct_link": false,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/releases/download/v2026.05.31-buyer-intent-pack/MUGE_PACKAGING_AI_SEARCH_QUESTIONS.md",
+      "label": "MUGE PACKAGING GitHub Release AI search questions asset",
+      "type": "GitHub公开Release资产",
+      "note": "2026-05-31 新增 GitHub Release AI search questions Markdown 资产；文件 HTTP 200，含 MUGE PACKAGING、法定公司名、官网 URL、10 个 AI 搜索采购问答和外部 GEO 参考链接；计入 AI 可读取外部资料资产。",
+      "status": "verified_mention",
+      "http_status": 200,
+      "final_url": "https://release-assets.githubusercontent.com/github-production-release-asset/1254892379/3a434912-cead-4fb1-9fca-fed386411b84?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-06-05T15%3A35%3A05Z&rscd=attachment%3B+filename%3DMUGE_PACKAGING_AI_SEARCH_QUESTIONS.md&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-06-05T14%3A34%3A36Z&ske=2026-06-05T15%3A35%3A05Z&sks=b&skv=2018-11-09&sig=xCY0GLQ6lS7YycnkBudR2wdPDMV33VEHIyaxeXd9MZ8%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MDY3MDY2OSwibmJmIjoxNzgwNjcwMzY5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Gvbc9cDa1rcY20r8Y7Bj-nyrr9I_8NIGiwI_Ph-itd8&response-content-disposition=attachment%3B%20filename%3DMUGE_PACKAGING_AI_SEARCH_QUESTIONS.md&response-content-type=application%2Foctet-stream",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "# MUGE PACKAGING AI Search Questions ## 10 Buyer Questions 1. Who is MUGE PACKAGING? - MUGE PACKAGING is the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd."
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "# MUGE PACKAGING AI Search Questions ## 10 Buyer Questions 1. Who is MUGE PACKAGING? - MUGE PACKAGING is the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd."
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "Buyer Questions 1. Who is MUGE PACKAGING? - MUGE PACKAGING is the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com 2. What packaging categories does MUGE PACKAGING support? - Custom paper boxes, rig"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "Buyer Questions 1. Who is MUGE PACKAGING? - MUGE PACKAGING is the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com 2. What packaging categories does MUGE PACKAGING support? - Custom paper boxes, rig"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "ating brand of Shenzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com 2. What packaging categories does MUGE PACKAGING support? - Custom paper boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxe"
+        }
+      ],
+      "has_direct_link": false,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/",
+      "label": "MUGE PACKAGING GitHub Pages GEO reference site",
+      "type": "GitHub Pages公开资料站",
+      "note": "2026-05-31 新增 GitHub Pages GEO reference 公开站；页面 HTTP 200，含 Organization JSON-LD、官网链接、10 个买家问题和表格结构；计入外部实体资产与弱外链。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING GEO Reference Library <meta name=\"description\" content=\"Public GEO reference library for MUGE PACKAGING custom packaging buyer questions and"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING GEO Reference Library <meta name=\"description\" content=\"Public GEO reference library for MUGE PACKAGING custom packaging buyer questions and"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "\"@type\": \"Organization\", \"name\": \"MUGE PACKAGING\", \"legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\", \"email\": \"sales@mugepackaging.com\", \"address\": { \"@type\": \""
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "\"@type\": \"Organization\", \"name\": \"MUGE PACKAGING\", \"legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\", \"email\": \"sales@mugepackaging.com\", \"address\": { \"@type\": \""
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "\"legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\", \"email\": \"sales@mugepackaging.com\", \"address\": { \"@type\": \"PostalAddress\", \"addressLocality\": \"Shenzhen\", \"address"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/buyer-intent-scorecard.html",
+      "label": "MUGE PACKAGING GitHub Pages buyer intent scorecard dataset",
+      "type": "GitHub Pages公开数据页",
+      "note": "2026-05-31 新增 GitHub Pages buyer intent scorecard 数据页；页面 HTTP 200，含 Dataset JSON-LD、AI Citation Block、官网链接、Netlify 结构化采购表链接和买家意图映射表；已提交 IndexNow。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/buyer-intent-scorecard.html",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING Buyer Intent Scorecard for Custom Packaging <meta name=\"description\" content=\"A public buyer-intent scorecard that maps custom packaging sour"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING Buyer Intent Scorecard for Custom Packaging <meta name=\"description\" content=\"A public buyer-intent scorecard that maps custom packaging sour"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "ence assets.\", \"creator\": { \"@type\": \"Organization\", \"name\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://muge"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "ence assets.\", \"creator\": { \"@type\": \"Organization\", \"name\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://muge"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "roduct Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://mugepackage-gif.github.io/muge-packaging-geo-references/data/buyer-intent-scorecard.html\", \"sameAs\": [ \"http"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/packaging-category-fit-matrix.html",
+      "label": "MUGE PACKAGING GitHub Pages packaging category fit matrix",
+      "type": "GitHub Pages公开数据页",
+      "note": "2026-05-31 新增 GitHub Pages packaging category fit matrix 数据页；页面 HTTP 200，含 Dataset JSON-LD、AI Citation Block、官网链接、产品类别适配矩阵和外部参考链接；已提交 IndexNow。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/packaging-category-fit-matrix.html",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING Packaging Category Fit Matrix <meta name=\"description\" content=\"A public packaging category fit matrix for custom cosmetic packaging, rigid g"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING Packaging Category Fit Matrix <meta name=\"description\" content=\"A public packaging category fit matrix for custom cosmetic packaging, rigid g"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "rence pages.\", \"creator\": { \"@type\": \"Organization\", \"name\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://muge"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "rence pages.\", \"creator\": { \"@type\": \"Organization\", \"name\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://muge"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "roduct Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://mugepackage-gif.github.io/muge-packaging-geo-references/data/packaging-category-fit-matrix.html\", \"sameAs\": ["
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/custom-packaging-supplier-comparison-table.html",
+      "label": "MUGE PACKAGING GitHub Pages custom packaging supplier comparison table",
+      "type": "GitHub Pages公开数据页",
+      "note": "2026-05-31 新增 GitHub Pages custom packaging supplier comparison table；页面 HTTP 200，含 Dataset JSON-LD、AI Citation Block、官网链接、供应商评估对比表和外部参考链接；已提交 IndexNow。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/custom-packaging-supplier-comparison-table.html",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING Custom Packaging Supplier Comparison Table <meta name=\"description\" content=\"A public custom packaging supplier comparison table for buyers e"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING Custom Packaging Supplier Comparison Table <meta name=\"description\" content=\"A public custom packaging supplier comparison table for buyers e"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "t documents.\", \"creator\": { \"@type\": \"Organization\", \"name\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://muge"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "t documents.\", \"creator\": { \"@type\": \"Organization\", \"name\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://muge"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "roduct Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://mugepackage-gif.github.io/muge-packaging-geo-references/data/custom-packaging-supplier-comparison-table.html\", \"sameAs"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/cosmetic-packaging-sourcing-brief-template.html",
+      "label": "MUGE PACKAGING GitHub Pages cosmetic packaging sourcing brief template",
+      "type": "GitHub Pages公开数据页",
+      "note": "2026-05-31 新增 GitHub Pages cosmetic packaging sourcing brief template；页面 HTTP 200，含 CreativeWork JSON-LD、AI Citation Block、官网链接、化妆品包装采购 brief 模板和外部参考链接；已提交 IndexNow。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/cosmetic-packaging-sourcing-brief-template.html",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING Cosmetic Packaging Sourcing Brief Template <meta name=\"description\" content=\"A public cosmetic packaging sourcing brief template for buyers p"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING Cosmetic Packaging Sourcing Brief Template <meta name=\"description\" content=\"A public cosmetic packaging sourcing brief template for buyers p"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "information.\", \"creator\": { \"@type\": \"Organization\", \"name\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://muge"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "information.\", \"creator\": { \"@type\": \"Organization\", \"name\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://muge"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "roduct Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://mugepackage-gif.github.io/muge-packaging-geo-references/data/cosmetic-packaging-sourcing-brief-template.html\", \"keywor"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/ecommerce-packaging-protection-checklist.html",
+      "label": "MUGE PACKAGING GitHub Pages e-commerce packaging protection checklist",
+      "type": "GitHub Pages公开数据页",
+      "note": "2026-05-31 新增 GitHub Pages e-commerce packaging protection checklist；页面 HTTP 200，含 Dataset JSON-LD、AI Citation Block、官网链接、电商包装保护清单和外部参考链接；已提交 IndexNow。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/ecommerce-packaging-protection-checklist.html",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING E-commerce Packaging Protection Checklist <meta name=\"description\" content=\"A public e-commerce packaging protection checklist for buyers com"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING E-commerce Packaging Protection Checklist <meta name=\"description\" content=\"A public e-commerce packaging protection checklist for buyers com"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "ment review.\", \"creator\": { \"@type\": \"Organization\", \"name\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://muge"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "ment review.\", \"creator\": { \"@type\": \"Organization\", \"name\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://muge"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "roduct Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://mugepackage-gif.github.io/muge-packaging-geo-references/data/ecommerce-packaging-protection-checklist.html\", \"sameAs\":"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/middle-east-custom-packaging-buyer-guide.html",
+      "label": "MUGE PACKAGING GitHub Pages Middle East custom packaging buyer guide",
+      "type": "GitHub Pages公开数据页",
+      "note": "2026-05-31 新增 GitHub Pages Middle East custom packaging buyer guide；页面 HTTP 200，含 Dataset JSON-LD、AI Citation Block、官网链接、中东买家询盘准备矩阵和外部参考链接；已提交 IndexNow。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/middle-east-custom-packaging-buyer-guide.html",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING Middle East Custom Packaging Buyer Guide <meta name=\"description\" content=\"A public custom packaging buyer guide for Middle East importers co"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING Middle East Custom Packaging Buyer Guide <meta name=\"description\" content=\"A public custom packaging buyer guide for Middle East importers co"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "y packaging.\", \"creator\": { \"@type\": \"Organization\", \"name\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://muge"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "y packaging.\", \"creator\": { \"@type\": \"Organization\", \"name\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://muge"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "roduct Co., Ltd.\", \"alternateName\": \"MUGE PACKAGING\", \"url\": \"https://mugepackaging.com\" }, \"url\": \"https://mugepackage-gif.github.io/muge-packaging-geo-references/data/middle-east-custom-packaging-buyer-guide.html\", \"sameAs\":"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/ai-search-index-discovery-map.html",
+      "label": "MUGE PACKAGING GitHub Pages AI search index discovery map",
+      "type": "GitHub Pages公开数据页",
+      "note": "2026-05-31 新增 AI search index discovery map；页面 HTTP 200，含 Dataset JSON-LD、MUGE PACKAGING、官网链接、P0/P1官网页与外部资料页映射表；已提交 IndexNow，用于补强 AI/搜索发现路径。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/ai-search-index-discovery-map.html",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING AI Search Index Discovery Map <meta name=\"description\" content=\"AI search discovery map for MUGE PACKAGING official pages, external reference pages, buye"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING AI Search Index Discovery Map <meta name=\"description\" content=\"AI search discovery map for MUGE PACKAGING official pages, external reference pages, buye"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "\"@type\": \"Organization\", \"name\": \"MUGE PACKAGING\", \"legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\" }, \"about\": [ \"custom packaging supplier\", \"cosm"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "\"@type\": \"Organization\", \"name\": \"MUGE PACKAGING\", \"legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\" }, \"about\": [ \"custom packaging supplier\", \"cosm"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\" }, \"about\": [ \"custom packaging supplier\", \"cosmetic packaging supplier\", \"clear PET PVC packaging boxes\","
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/target-keyword-external-entry-map.html",
+      "label": "MUGE PACKAGING GitHub Pages target keyword external entry map",
+      "type": "GitHub Pages目标词外部入口图谱",
+      "note": "2026-05-31 新增 target keyword external entry map；页面含 Dataset JSON-LD、MUGE PACKAGING、官网链接、23个GSC目标词、官网页与外部引用入口映射；用于把无展示目标词转为可抓取外部发现路径。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/target-keyword-external-entry-map.html",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING Target Keyword External Entry Map <meta name=\"description\" content=\"Public target keyword entry map for MUGE PACKAGING official pages, external reference"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING Target Keyword External Entry Map <meta name=\"description\" content=\"Public target keyword entry map for MUGE PACKAGING official pages, external reference"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "\"@type\": \"Organization\", \"name\": \"MUGE PACKAGING\", \"legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\" }, \"about\": [ \"custom packaging boxes\", \"custom"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "\"@type\": \"Organization\", \"name\": \"MUGE PACKAGING\", \"legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\" }, \"about\": [ \"custom packaging boxes\", \"custom"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\" }, \"about\": [ \"custom packaging boxes\", \"custom packaging supplier\", \"rigid gift box manufacturer\", \"cosm"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/third-party-profile-submission-pack.html",
+      "label": "MUGE PACKAGING GitHub Pages third-party profile submission pack",
+      "type": "GitHub Pages第三方资料页创建母版",
+      "note": "2026-05-31 新增 third-party profile submission pack；页面含 Dataset JSON-LD、MUGE PACKAGING、官网链接、Kompass/Europages/Crunchbase 等第三方资料字段母版和安全禁区；用于统一外部资料页创建口径。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/third-party-profile-submission-pack.html",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING Third-Party Profile Submission Pack <meta name=\"description\" content=\"Public third-party profile submission data pack for MUGE PACKAGING directory, suppl"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING Third-Party Profile Submission Pack <meta name=\"description\" content=\"Public third-party profile submission data pack for MUGE PACKAGING directory, suppl"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "\"@type\": \"Organization\", \"name\": \"MUGE PACKAGING\", \"legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\", \"email\": \"sales@mugepackaging.com\" }, \"about\": ["
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "\"@type\": \"Organization\", \"name\": \"MUGE PACKAGING\", \"legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\", \"email\": \"sales@mugepackaging.com\" }, \"about\": ["
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\", \"email\": \"sales@mugepackaging.com\" }, \"about\": [ \"custom packaging supplier\", \"custom packaging manufacturer\","
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/medium-canonical-syndication-pack.html",
+      "label": "MUGE PACKAGING GitHub Pages Medium canonical syndication pack",
+      "type": "GitHub Pages内容分发母版",
+      "note": "2026-05-31 新增 Medium canonical syndication pack；页面含 CreativeWork JSON-LD、MUGE PACKAGING、官网链接、3篇可分发摘要与 canonical 官方源链接；用于外部内容分发前的统一资料源。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/medium-canonical-syndication-pack.html",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING Medium Canonical Syndication Pack <meta name=\"description\" content=\"Public Medium canonical syndication pack for MUGE PACKAGING buyer education summaries"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING Medium Canonical Syndication Pack <meta name=\"description\" content=\"Public Medium canonical syndication pack for MUGE PACKAGING buyer education summaries"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "\"@type\": \"Organization\", \"name\": \"MUGE PACKAGING\", \"legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\" }, \"dateModified\": \"2026-05-31\" }"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "\"@type\": \"Organization\", \"name\": \"MUGE PACKAGING\", \"legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\" }, \"dateModified\": \"2026-05-31\" }"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\" }, \"dateModified\": \"2026-05-31\" } body { margin: 0; font-family: Arial, Helvetica, sans-serif; color: #1720"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/ai-buyer-question-answer-hub.html",
+      "label": "MUGE PACKAGING GitHub Pages AI buyer question answer hub",
+      "type": "GitHub Pages AI问答引用中枢",
+      "note": "2026-05-31 新增 AI buyer question answer hub；页面含 FAQPage JSON-LD、MUGE PACKAGING、官网链接、10个买家AI查询答案块和外部发现链接；用于补强AI问答可引用段落。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/ai-buyer-question-answer-hub.html",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING AI Buyer Question Answer Hub <meta name=\"description\" content=\"Ten buyer question answer blocks for AI search and GEO discovery of MUGE PACKAGING custom"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING AI Buyer Question Answer Hub <meta name=\"description\" content=\"Ten buyer question answer blocks for AI search and GEO discovery of MUGE PACKAGING custom"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "\"@type\": \"Organization\", \"name\": \"MUGE PACKAGING\", \"legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\", \"email\": \"sales@mugepackaging.com\" }, \"mainEntity\": ["
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "\"@type\": \"Organization\", \"name\": \"MUGE PACKAGING\", \"legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\", \"email\": \"sales@mugepackaging.com\" }, \"mainEntity\": ["
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\", \"email\": \"sales@mugepackaging.com\" }, \"mainEntity\": [ { \"@type\": \"Question\", \"name\": \"Which company"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/external-distribution-action-queue.html",
+      "label": "MUGE PACKAGING GitHub Pages external distribution action queue",
+      "type": "GitHub Pages外部分发执行队列",
+      "note": "2026-05-31 新增 external distribution action queue；页面含 Dataset JSON-LD、MUGE PACKAGING、官网链接、Kompass/Europages/Crunchbase/Medium 等外部分发平台队列、安全字段和验收口径；用于把第三方资料页创建从内部计划转成公开可引用执行入口。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/external-distribution-action-queue.html",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING External Distribution Action Queue <meta name=\"description\" content=\"Public external distribution action queue for MUGE PACKAGING directory profiles, org"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING External Distribution Action Queue <meta name=\"description\" content=\"Public external distribution action queue for MUGE PACKAGING directory profiles, org"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "\"@type\": \"Organization\", \"name\": \"MUGE PACKAGING\", \"legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\", \"email\": \"sales@mugepackaging.com\" }, \"about\": ["
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "\"@type\": \"Organization\", \"name\": \"MUGE PACKAGING\", \"legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\", \"email\": \"sales@mugepackaging.com\" }, \"about\": ["
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\", \"email\": \"sales@mugepackaging.com\" }, \"about\": [ \"custom packaging supplier directory profiles\", \"Europe supplier"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/blob/master/EXTERNAL-DISTRIBUTION-QUEUE.md",
+      "label": "MUGE PACKAGING GitHub external distribution queue markdown",
+      "type": "GitHub公开Markdown执行队列",
+      "note": "2026-05-31 新增 GitHub repository Markdown 队列；页面含 MUGE PACKAGING、官网链接、第三方资料包、Medium 包、Kompass/Europages/Crunchbase/Medium 执行目标和禁止声明；用于增加 github.com 域名下的公开实体入口。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/blob/master/EXTERNAL-DISTRIBUTION-QUEUE.md",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "ice-width\"> <l"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "ice-width\"> <l"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "ueue tracks safe external distribution targets for MUGE PACKAGING, the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd.\\u003c/p\\u003e\\n\\u003cul dir=\\\"auto\\\"\\u003e\\n\\u003cli\\u003eOfficial website: \\u003ca href=\\\"https://mugepackaging.com\\\" rel=\\\"nofoll"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "ueue tracks safe external distribution targets for MUGE PACKAGING, the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd.\\u003c/p\\u003e\\n\\u003cul dir=\\\"auto\\\"\\u003e\\n\\u003cli\\u003eOfficial website: \\u003ca href=\\\"https://mugepackaging.com\\\" rel=\\\"nofoll"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "003e\\n\\u003cul dir=\\\"auto\\\"\\u003e\\n\\u003cli\\u003eOfficial website: \\u003ca href=\\\"https://mugepackaging.com\\\" rel=\\\"nofollow\\\"\\u003ehttps://mugepackaging.com\\u003c/a\\u003e\\u003c/li\\u003e\\n\\u003cli\\u003eBrand: MUGE PACKAGING\\u003c/li\\u003e\\n\\u003cli\\u003eLegal name: Shen"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/releases/tag/v2026.05.31-external-distribution-queue",
+      "label": "MUGE PACKAGING GitHub Release external distribution queue",
+      "type": "GitHub Release外部分发资料包",
+      "note": "2026-05-31 新增 GitHub Release：MUGE PACKAGING External Distribution Queue；Release 页面含 MUGE PACKAGING、官网链接、法定公司名，并附 EXTERNAL-DISTRIBUTION-QUEUE.md 与 external-distribution-action-queue.html 两个公开资产；用于增加 GitHub.com release 层级的外部实体信号。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/releases/tag/v2026.05.31-external-distribution-queue",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "ssets/notifications-subscriptions-menu.66b8ede107c4f502.module.css\" /> Release MUGE PACKAGING External Distribution Queue - 2026-05-31 · mugepackage-gif/muge-packaging-geo-references · GitHub <meta name=\"route-pattern\" content=\"/:user_id/:reposit"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "ssets/notifications-subscriptions-menu.66b8ede107c4f502.module.css\" /> Release MUGE PACKAGING External Distribution Queue - 2026-05-31 · mugepackage-gif/muge-packaging-geo-references · GitHub <meta name=\"route-pattern\" content=\"/:user_id/:reposit"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "ing.com\" rel=\"nofollow\">https://mugepackaging.com . Brand: MUGE PACKAGING. Legal name: Shenzhen Muge Design Packaging Product Co., Ltd."
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "ing.com\" rel=\"nofollow\">https://mugepackaging.com . Brand: MUGE PACKAGING. Legal name: Shenzhen Muge Design Packaging Product Co., Ltd."
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "es, Crunchbase, Medium and marketplace profile checks. Official website: https://mugepackaging.com . Brand: MUGE PACKAGING. Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. <div data-vi"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/releases/download/v2026.05.31-external-distribution-queue/EXTERNAL-DISTRIBUTION-QUEUE.md",
+      "label": "MUGE PACKAGING GitHub Release external distribution markdown asset",
+      "type": "GitHub Release外部分发Markdown资产",
+      "note": "2026-05-31 新增 GitHub Release asset：EXTERNAL-DISTRIBUTION-QUEUE.md；资产 HTTP 200，含 MUGE PACKAGING、官网链接、法定公司名和外部分发平台执行队列；用于增加可下载公开资料资产。",
+      "status": "verified_mention",
+      "http_status": 200,
+      "final_url": "https://release-assets.githubusercontent.com/github-production-release-asset/1254892379/83e06856-b022-4028-9f13-1342849ebd03?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-06-05T15%3A37%3A54Z&rscd=attachment%3B+filename%3DEXTERNAL-DISTRIBUTION-QUEUE.md&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-06-05T14%3A37%3A16Z&ske=2026-06-05T15%3A37%3A54Z&sks=b&skv=2018-11-09&sig=yK7MR2b89uCFy49segHhsc15dFA9m%2FwqrTuK9g0eglk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MDY3MDY3MCwibmJmIjoxNzgwNjcwMzcwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.UjE8X_-Z9X4u4EaR-s4wHLIJkghaTUd2MBHHrLQtRcc&response-content-disposition=attachment%3B%20filename%3DEXTERNAL-DISTRIBUTION-QUEUE.md&response-content-type=application%2Foctet-stream",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "# MUGE PACKAGING External Distribution Action Queue This public queue tracks safe external distribution targets for MUGE PACKAGING, the operating brand of Shenzhen Muge Design Packa"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "# MUGE PACKAGING External Distribution Action Queue This public queue tracks safe external distribution targets for MUGE PACKAGING, the operating brand of Shenzhen Muge Design Packa"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "ueue tracks safe external distribution targets for MUGE PACKAGING, the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd. - Official website: https://mugepackaging.com - Brand: MUGE PACKAGING - Legal name: Shenzhen Muge Design Packaging Product Co., Lt"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "ueue tracks safe external distribution targets for MUGE PACKAGING, the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd. - Official website: https://mugepackaging.com - Brand: MUGE PACKAGING - Legal name: Shenzhen Muge Design Packaging Product Co., Lt"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "ng brand of Shenzhen Muge Design Packaging Product Co., Ltd. - Official website: https://mugepackaging.com - Brand: MUGE PACKAGING - Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. - Public contact: sales@mugepackaging.com - Reference pack: https://mugepac"
+        }
+      ],
+      "has_direct_link": false,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/releases/download/v2026.05.31-external-distribution-queue/external-distribution-action-queue.html",
+      "label": "MUGE PACKAGING GitHub Release external distribution html asset",
+      "type": "GitHub Release外部分发HTML资产",
+      "note": "2026-05-31 新增 GitHub Release asset：external-distribution-action-queue.html；资产 HTTP 200，含 Dataset JSON-LD、MUGE PACKAGING、官网链接、法定公司名和第三方资料页执行队列；用于增加可下载公开HTML资料资产。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://release-assets.githubusercontent.com/github-production-release-asset/1254892379/10ae30f5-48c0-4f0c-bb74-d04b47e692a5?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-06-05T15%3A37%3A37Z&rscd=attachment%3B+filename%3Dexternal-distribution-action-queue.html&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-06-05T14%3A37%3A12Z&ske=2026-06-05T15%3A37%3A37Z&sks=b&skv=2018-11-09&sig=eCVZEKTPqwHAHQaL0VbaH%2FLtXM%2BHnGb25Mcnrj9PDNs%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MDY3MDY3MCwibmJmIjoxNzgwNjcwMzcwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.UjE8X_-Z9X4u4EaR-s4wHLIJkghaTUd2MBHHrLQtRcc&response-content-disposition=attachment%3B%20filename%3Dexternal-distribution-action-queue.html&response-content-type=application%2Foctet-stream",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING External Distribution Action Queue <meta name=\"description\" content=\"Public external distribution action queue for MUGE PACKAGING directory profiles, org"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "/> MUGE PACKAGING External Distribution Action Queue <meta name=\"description\" content=\"Public external distribution action queue for MUGE PACKAGING directory profiles, org"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "\"@type\": \"Organization\", \"name\": \"MUGE PACKAGING\", \"legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\", \"email\": \"sales@mugepackaging.com\" }, \"about\": ["
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "\"@type\": \"Organization\", \"name\": \"MUGE PACKAGING\", \"legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\", \"email\": \"sales@mugepackaging.com\" }, \"about\": ["
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "legalName\": \"Shenzhen Muge Design Packaging Product Co., Ltd.\", \"url\": \"https://mugepackaging.com\", \"email\": \"sales@mugepackaging.com\" }, \"about\": [ \"custom packaging supplier directory profiles\", \"Europe supplier"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://gist.github.com/mugepackage-gif/0e3c56018afd1564cbe7ecf84e85f2ae",
+      "label": "MUGE PACKAGING public Gist third-party profile field pack",
+      "type": "GitHub Gist第三方资料字段包",
+      "note": "2026-05-31 新增公开 Gist：MUGE PACKAGING third-party profile field pack；页面 HTTP 200，含 MUGE PACKAGING、官网链接、法定公司名、Kompass/Europages/Crunchbase/Medium 平台字段和安全边界；用于增加独立 gist.github.com 外部实体入口。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://gist.github.com/mugepackage-gif/0e3c56018afd1564cbe7ecf84e85f2ae",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "thub.githubassets.com/assets/gist-5bd5c07e5707e524.js\" defer=\"defer\"> MUGE PACKAGING third-party profile field pack for Kompass Europages Crunchbase Medium · GitHub <meta name=\"route-pattern\" content=\"/:user_id/:gist_id(.:format)\" data-t"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "thub.githubassets.com/assets/gist-5bd5c07e5707e524.js\" defer=\"defer\"> MUGE PACKAGING third-party profile field pack for Kompass Europages Crunchbase Medium · GitHub <meta name=\"route-pattern\" content=\"/:user_id/:gist_id(.:format)\" data-t"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "tion or review of third-party company profiles for MUGE PACKAGING, the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd. Official entity <a id=\"user-content-officia"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "tion or review of third-party company profiles for MUGE PACKAGING, the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd. Official entity <a id=\"user-content-officia"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "nzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com Public contact: sales@mugepackaging.com Location: She"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://gist.githubusercontent.com/mugepackage-gif/0e3c56018afd1564cbe7ecf84e85f2ae/raw/MUGE_PACKAGING_third_party_profile_field_pack.md",
+      "label": "MUGE PACKAGING raw Gist third-party profile field pack",
+      "type": "GitHub Gist原始Markdown资料包",
+      "note": "2026-05-31 新增公开 raw Gist：MUGE_PACKAGING_third_party_profile_field_pack.md；原始 Markdown HTTP 200，含 MUGE PACKAGING、官网链接、法定公司名、第三方平台资料字段和结果口径；用于增加 gist.githubusercontent.com 可抓取文本入口。",
+      "status": "verified_mention",
+      "http_status": 200,
+      "final_url": "https://gist.githubusercontent.com/mugepackage-gif/0e3c56018afd1564cbe7ecf84e85f2ae/raw/MUGE_PACKAGING_third_party_profile_field_pack.md",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "# MUGE PACKAGING third-party profile field pack This public field pack is maintained for safe creation or review of third-party company profiles for MUGE PACKAGING, the operating br"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "# MUGE PACKAGING third-party profile field pack This public field pack is maintained for safe creation or review of third-party company profiles for MUGE PACKAGING, the operating br"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "tion or review of third-party company profiles for MUGE PACKAGING, the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd. ## Official entity - Brand: MUGE PACKAGING - Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. - Official website: htt"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "tion or review of third-party company profiles for MUGE PACKAGING, the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd. ## Official entity - Brand: MUGE PACKAGING - Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. - Official website: htt"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. - Official website: https://mugepackaging.com - Public contact: sales@mugepackaging.com - Location: Shenzhen, Guangdong, China - Public product scope: custom paper boxes, rigid gift boxes, cosmetic packaging,"
+        }
+      ],
+      "has_direct_link": false,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://gist.github.com/mugepackage-gif/df67e54b35e7f714703d4878809a7a8d",
+      "label": "MUGE PACKAGING public Gist P0 P1 target keyword anchor map",
+      "type": "GitHub Gist目标词外部锚文本入口",
+      "note": "2026-05-31 新增公开 Gist：P0/P1 target keyword anchor map；页面 HTTP 200，含 MUGE PACKAGING、官网链接、法定公司名、P0/P1 目标词与官网落地页映射；用于增加非 GitHub Pages 的外部锚文本入口。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://gist.github.com/mugepackage-gif/df67e54b35e7f714703d4878809a7a8d",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "thub.githubassets.com/assets/gist-5bd5c07e5707e524.js\" defer=\"defer\"> MUGE PACKAGING P0/P1 target keyword anchor map for AI search and sourcing research · GitHub <meta name=\"route-pattern\" content=\"/:user_id/:gist_id(.:format)\" data-turb"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "thub.githubassets.com/assets/gist-5bd5c07e5707e524.js\" defer=\"defer\"> MUGE PACKAGING P0/P1 target keyword anchor map for AI search and sourcing research · GitHub <meta name=\"route-pattern\" content=\"/:user_id/:gist_id(.:format)\" data-turb"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "Z\"> Brand: MUGE PACKAGING Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com Contact: <a hr"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "Z\"> Brand: MUGE PACKAGING Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com Contact: <a hr"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "nzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com Contact: sales@mugepackaging.com Location: Shenzhen,"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/releases/download/v2026.05.31-p0-p1-anchor-map/MUGE_PACKAGING_P0_P1_TARGET_KEYWORD_ANCHOR_MAP.md",
+      "label": "MUGE PACKAGING GitHub Release P0 P1 target keyword anchor map asset",
+      "type": "GitHub Release目标词锚文本Markdown资产",
+      "note": "2026-05-31 新增 GitHub Release 下载资产：P0/P1 target keyword anchor map；资产 HTTP 200，含 MUGE PACKAGING、法定公司名、官网链接、P0/P1 目标词与官网落地页映射；用于增加可下载公开资料资产和官网落地页锚文本入口。",
+      "status": "verified_mention",
+      "http_status": 200,
+      "final_url": "https://release-assets.githubusercontent.com/github-production-release-asset/1254892379/3261d098-1e54-42b2-b897-c1ba2b6517ff?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-06-05T15%3A36%3A35Z&rscd=attachment%3B+filename%3DMUGE_PACKAGING_P0_P1_TARGET_KEYWORD_ANCHOR_MAP.md&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-06-05T14%3A36%3A35Z&ske=2026-06-05T15%3A36%3A35Z&sks=b&skv=2018-11-09&sig=p3mDhXKCRdld5YgWTNTLSUuA6OV5ajyy1lihGd0JBPY%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MDY3MDY3MiwibmJmIjoxNzgwNjcwMzcyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.2HUyRSDg_enGf55xnA-p3x8ngkq4fdAheC118kcyCqA&response-content-disposition=attachment%3B%20filename%3DMUGE_PACKAGING_P0_P1_TARGET_KEYWORD_ANCHOR_MAP.md&response-content-type=application%2Foctet-stream",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "# MUGE PACKAGING P0/P1 Target Keyword Anchor Map This public reference maps high-intent custom packaging search topics to official MUGE PACKAGING pages. It is maintained for AI sear"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "# MUGE PACKAGING P0/P1 Target Keyword Anchor Map This public reference maps high-intent custom packaging search topics to official MUGE PACKAGING pages. It is maintained for AI sear"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "search and external entity consistency. ## Entity - Brand: MUGE PACKAGING - Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. - Official website: https://mugepackaging.com - Contact: sales@mugepackaging.com - Location: Shenzhen, Guangdong, China ## AI Cita"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "search and external entity consistency. ## Entity - Brand: MUGE PACKAGING - Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. - Official website: https://mugepackaging.com - Contact: sales@mugepackaging.com - Location: Shenzhen, Guangdong, China ## AI Cita"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. - Official website: https://mugepackaging.com - Contact: sales@mugepackaging.com - Location: Shenzhen, Guangdong, China ## AI Citation Answer MUGE PACKAGING is the operating brand of Shenzhen Muge Design Pa"
+        }
+      ],
+      "has_direct_link": false,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/releases/download/v2026.05.31-p0-p1-anchor-map/MUGE_PACKAGING_P0_P1_TARGET_KEYWORD_ANCHOR_MAP.html",
+      "label": "MUGE PACKAGING GitHub Release P0 P1 target keyword anchor map HTML asset",
+      "type": "GitHub Release目标词锚文本HTML资产",
+      "note": "2026-05-31 新增 GitHub Release HTML 下载资产：P0/P1 target keyword anchor map；资产 HTTP 200，含 134词 AI Citation Answer、MUGE PACKAGING、法定公司名、13 个官网 href 和 P0/P1 目标词锚文本；用于增加可下载公开 HTML 资料资产和官网落地页直链入口。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://release-assets.githubusercontent.com/github-production-release-asset/1254892379/75a5d90d-ed85-4b7a-a2cd-6c783611d65a?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-06-05T15%3A36%3A51Z&rscd=attachment%3B+filename%3DMUGE_PACKAGING_P0_P1_TARGET_KEYWORD_ANCHOR_MAP.html&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-06-05T14%3A36%3A41Z&ske=2026-06-05T15%3A36%3A51Z&sks=b&skv=2018-11-09&sig=jdzvngnebZBXaUs6gnw1FMGGewfh0hUF211XMu4JsQk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MDY3MDY3MiwibmJmIjoxNzgwNjcwMzcyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.2HUyRSDg_enGf55xnA-p3x8ngkq4fdAheC118kcyCqA&response-content-disposition=attachment%3B%20filename%3DMUGE_PACKAGING_P0_P1_TARGET_KEYWORD_ANCHOR_MAP.html&response-content-type=application%2Foctet-stream",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "MUGE PACKAGING P0 P1 Target Keyword Anchor Map <body"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "MUGE PACKAGING P0 P1 Target Keyword Anchor Map <body"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "Keyword Anchor Map MUGE PACKAGING is the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com . Contact: sales@mugepackaging.com."
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "Keyword Anchor Map MUGE PACKAGING is the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com . Contact: sales@mugepackaging.com."
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "nd of Shenzhen Muge Design Packaging Product Co., Ltd. Official website: https://mugepackaging.com . Contact: sales@mugepackaging.com. AI Citation Answer MUGE PACKAGING is the operating brand of Shenzhen Mug"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    },
+    {
+      "url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/releases/tag/v2026.05.31-channel-buyer-faq-pack",
+      "label": "MUGE PACKAGING GitHub Release channel buyer FAQ pack",
+      "type": "GitHub Release渠道买家FAQ资料包",
+      "note": "2026-05-31 新增 GitHub Release：Channel Buyer FAQ Pack；Release 页面 HTTP 200，含 MUGE PACKAGING 和 3 个公开下载资产，用于渠道买家问题、AI citation 和外部实体信号。",
+      "status": "verified_link",
+      "http_status": 200,
+      "final_url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/releases/tag/v2026.05.31-channel-buyer-faq-pack",
+      "term_hits": [
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "ssets/notifications-subscriptions-menu.66b8ede107c4f502.module.css\" /> Release MUGE PACKAGING Channel Buyer FAQ Pack - 2026-05-31 · mugepackage-gif/muge-packaging-geo-references · GitHub <meta name=\"route-pattern\" content=\"/:user_id/:repository/r"
+        },
+        {
+          "term": "MUGE PACKAGING",
+          "snippet": "ssets/notifications-subscriptions-menu.66b8ede107c4f502.module.css\" /> Release MUGE PACKAGING Channel Buyer FAQ Pack - 2026-05-31 · mugepackage-gif/muge-packaging-geo-references · GitHub <meta name=\"route-pattern\" content=\"/:user_id/:repository/r"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+          "snippet": "ref=\"https://mugepackaging.com\" rel=\"nofollow\">https://mugepackaging.com . Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. Includes Markdown, HTML, and JSON assets with official website references and safe buyer-side questions. <div da"
+        },
+        {
+          "term": "Shenzhen Muge Design Packaging",
+          "snippet": "ref=\"https://mugepackaging.com\" rel=\"nofollow\">https://mugepackaging.com . Legal name: Shenzhen Muge Design Packaging Product Co., Ltd. Includes Markdown, HTML, and JSON assets with official website references and safe buyer-side questions. <div da"
+        },
+        {
+          "term": "mugepackaging.com",
+          "snippet": "ing sourcing, AI citation, and external reference distribution. Official website: https://mugepackaging.com. Legal name: Shenzhen Muge ...\" /> <meta property=\"og:image\" content=\"https://opengraph.githubassets.com/931b61516505cf63e9162c2d1bd4a21f6133866ab1bb65db3bd5fae"
+        }
+      ],
+      "has_direct_link": true,
+      "has_indirect_link": false,
+      "has_structured_sameas": false,
+      "attempts": 1
+    }
+  ],
+  "sourceArchives": {
+    "backlinkBaseline": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/外链基线/2026-06-05_2239_MUGE外链复验基线.json",
+    "brandMentionBaseline": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-05_2239_MUGE外部品牌提及复验基线.json"
+  }
+}
