@@ -10,11 +10,11 @@ date: 2026-06-01
 
 # MUGE PACKAGING Pending Directory Publication Recheck
 
-- Generated at: 2026-06-01T15:07:26.205Z
+- Generated at: 2026-06-05T16:16:51.063Z
 - Website: https://mugepackaging.com
 - Checked URLs: 21
-- Stable public signals: 3
-- Verified backlink/domain signals: 1
+- Stable public signals: 1
+- Verified backlink/domain signals: 0
 
 ## Counting Rule
 
@@ -22,7 +22,7 @@ Only a public page with MUGE PACKAGING, mugepackaging.com, or a direct href/doma
 
 ## Verified Signals
 
-- Zearches: https://zearches.com/directory.php?slug=business-company | HTTP 200
+- None newly verified in this recheck.
 
 ## All Checks
 
@@ -40,12 +40,12 @@ Only a public page with MUGE PACKAGING, mugepackaging.com, or a direct href/doma
 | Packaged Sustainable | 200 | no | no | https://www.packagedsustainable.com/sustainable-packaging-companies | The Top Sustainable Packaging Companies |
 | Packaged Sustainable | 404 | no | no | https://www.packagedsustainable.com/sustainable-packaging-supplier/muge-packaging | Not Found |
 | Packaged Sustainable | 200 | no | no | https://www.packagedsustainable.com/suppliers | The Top Sustainable Packaging Companies |
-| B2Bs | 0 | no | no | https://www.b2bs.com/search?q=mugepackaging.com |  |
-| B2Bs | 0 | no | no | https://www.b2bs.com/search?q=MUGE%20PACKAGING |  |
+| B2Bs | 404 | no | no | https://www.b2bs.com/search?q=mugepackaging.com | 404 - Page Not Found \| B2Bs |
+| B2Bs | 404 | no | no | https://www.b2bs.com/search?q=MUGE%20PACKAGING | 404 - Page Not Found \| B2Bs |
 | PromoteBusinessDirectory | 200 | no | no | https://www.promotebusinessdirectory.com/search.php?search=mugepackaging.com |  |
 | PromoteBusinessDirectory | 200 | no | no | https://www.promotebusinessdirectory.com/search.php?search=MUGE%20PACKAGING |  |
-| BusinessSeek | 200 | yes | no | https://www.businessseek.biz/search.php?action=search_links_simple&phrase=mugepackaging.com | mugepackaging.com |
+| BusinessSeek | 0 | no | no | https://www.businessseek.biz/search.php?action=search_links_simple&phrase=mugepackaging.com |  |
 | BusinessSeek | 200 | yes | no | https://www.businessseek.biz/search.php?action=search_links_simple&phrase=MUGE%20PACKAGING | MUGE PACKAGING |
 | Anoox | 200 | no | no | https://www.anoox.com/search.php?query=mugepackaging.com | The non profit search engine, non profit Social network, not for profit Social network, not for profit search engine |
 | Anoox | 200 | no | no | https://www.anoox.com/search.php?query=MUGE%20PACKAGING | The non profit search engine, non profit Social network, not for profit Social network, not for profit search engine |
-| Zearches | 200 | yes | yes | https://zearches.com/directory.php?slug=business-company | Business &amp; Company Sites – Free Website Submission Directory |
+| Zearches | 200 | no | no | https://zearches.com/directory.php?slug=business-company | Business &amp; Company Sites – Free Website Submission Directory |

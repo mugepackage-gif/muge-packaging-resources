@@ -1,36 +1,16 @@
 {
   "name": "MUGE PACKAGING Pending Directory Publication Recheck",
   "date": "2026-06-01",
-  "generatedAt": "2026-06-01T15:07:26.205Z",
+  "generatedAt": "2026-06-05T16:16:51.063Z",
   "brand": "MUGE PACKAGING",
   "website": "https://mugepackaging.com",
   "resultSummary": {
     "checkedUrls": 21,
-    "stablePublicSignals": 3,
-    "verifiedBacklinkSignals": 1
+    "stablePublicSignals": 1,
+    "verifiedBacklinkSignals": 0
   },
   "countingRule": "Only a public page with MUGE PACKAGING, mugepackaging.com, or a direct href/domain signal is counted as an external public signal. IndexNow, API 200, queued, pending review, internal draft or email-confirmation status is not counted as a backlink.",
-  "verified": [
-    {
-      "platform": "Zearches",
-      "checkedUrl": "https://zearches.com/directory.php?slug=business-company",
-      "finalUrl": "https://zearches.com/directory.php?slug=business-company",
-      "httpStatus": 200,
-      "title": "Business &amp; Company Sites – Free Website Submission Directory",
-      "hasNoResultSignal": false,
-      "hasBrand": true,
-      "hasDomain": true,
-      "hasNoindex": false,
-      "hasDirectHref": true,
-      "hrefHits": [
-        "https://mugepackaging.com",
-        "https://mugepackaging.com/"
-      ],
-      "stablePublicSignal": true,
-      "verifiedBacklinkSignal": true,
-      "snippet": "tted video, film, broadcast, and live-event crew across the United States. https://assignmentdesk.com/ 2026-06-01 07:07 MUGE PACKAGING Custom packaging source factory for cosmetic boxes, rigid gift boxes, paper tubes, clear boxes and corrugated packaging. https://mugepackaging.com 2026-05-31 17:12 Digital Service Market Your online marketplace for premium digital products — website templates, PHP scripts, graphics, a"
-    }
-  ],
+  "verified": [],
   "allResults": [
     {
       "platform": "Jayde",
@@ -228,8 +208,8 @@
       "platform": "B2Bs",
       "checkedUrl": "https://www.b2bs.com/search?q=mugepackaging.com",
       "finalUrl": "https://www.b2bs.com/search?q=mugepackaging.com",
-      "httpStatus": 0,
-      "title": "",
+      "httpStatus": 404,
+      "title": "404 - Page Not Found | B2Bs",
       "hasNoResultSignal": false,
       "hasBrand": false,
       "hasDomain": false,
@@ -238,14 +218,14 @@
       "hrefHits": [],
       "stablePublicSignal": false,
       "verifiedBacklinkSignal": false,
-      "snippet": ""
+      "snippet": "404 - Page Not Found | B2Bs 404 Page Not Found The page you're looking for doesn't exist or has been moved. Let's help you find what you need. Search Home About Submit Site Insights &copy; B2Bs.com — The Human-Curated B2B Directory"
     },
     {
       "platform": "B2Bs",
       "checkedUrl": "https://www.b2bs.com/search?q=MUGE%20PACKAGING",
       "finalUrl": "https://www.b2bs.com/search?q=MUGE%20PACKAGING",
-      "httpStatus": 0,
-      "title": "",
+      "httpStatus": 404,
+      "title": "404 - Page Not Found | B2Bs",
       "hasNoResultSignal": false,
       "hasBrand": false,
       "hasDomain": false,
@@ -254,7 +234,7 @@
       "hrefHits": [],
       "stablePublicSignal": false,
       "verifiedBacklinkSignal": false,
-      "snippet": ""
+      "snippet": "404 - Page Not Found | B2Bs 404 Page Not Found The page you're looking for doesn't exist or has been moved. Let's help you find what you need. Search Home About Submit Site Insights &copy; B2Bs.com — The Human-Curated B2B Directory"
     },
     {
       "platform": "PromoteBusinessDirectory",
@@ -292,17 +272,17 @@
       "platform": "BusinessSeek",
       "checkedUrl": "https://www.businessseek.biz/search.php?action=search_links_simple&phrase=mugepackaging.com",
       "finalUrl": "https://www.businessseek.biz/search.php?action=search_links_simple&phrase=mugepackaging.com",
-      "httpStatus": 200,
-      "title": "mugepackaging.com",
+      "httpStatus": 0,
+      "title": "",
       "hasNoResultSignal": false,
       "hasBrand": false,
-      "hasDomain": true,
-      "hasNoindex": true,
+      "hasDomain": false,
+      "hasNoindex": false,
       "hasDirectHref": false,
       "hrefHits": [],
-      "stablePublicSignal": true,
+      "stablePublicSignal": false,
       "verifiedBacklinkSignal": false,
-      "snippet": "mugepackaging.com Advertise New Sponsors Top Sites New Listings New Articles Sponsor Login The Business Directory for Business &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Directory Articles Search Engine Advanced --> Search In Directory - all categories Directory - Automotive Directory - Business & Finance Directory - Computers & Software Directory - Construction Directory - Education & Research Directory - Employment Dire"
+      "snippet": ""
     },
     {
       "platform": "BusinessSeek",
@@ -359,17 +339,14 @@
       "httpStatus": 200,
       "title": "Business &amp; Company Sites – Free Website Submission Directory",
       "hasNoResultSignal": false,
-      "hasBrand": true,
-      "hasDomain": true,
+      "hasBrand": false,
+      "hasDomain": false,
       "hasNoindex": false,
-      "hasDirectHref": true,
-      "hrefHits": [
-        "https://mugepackaging.com",
-        "https://mugepackaging.com/"
-      ],
-      "stablePublicSignal": true,
-      "verifiedBacklinkSignal": true,
-      "snippet": "tted video, film, broadcast, and live-event crew across the United States. https://assignmentdesk.com/ 2026-06-01 07:07 MUGE PACKAGING Custom packaging source factory for cosmetic boxes, rigid gift boxes, paper tubes, clear boxes and corrugated packaging. https://mugepackaging.com 2026-05-31 17:12 Digital Service Market Your online marketplace for premium digital products — website templates, PHP scripts, graphics, a"
+      "hasDirectHref": false,
+      "hrefHits": [],
+      "stablePublicSignal": false,
+      "verifiedBacklinkSignal": false,
+      "snippet": "Business &amp; Company Sites – Free Website Submission Directory Zearches .com Submit your website or blog for free and get an instant listing in our public web directories. Home Directories Submit Website Free Business &amp; Company Sites Official company web"
     }
   ]
 }
