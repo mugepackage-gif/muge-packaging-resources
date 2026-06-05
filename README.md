@@ -4,6 +4,7 @@ This repository hosts public sourcing references for **MUGE PACKAGING**, the pub
 
 - Official website: https://mugepackaging.com
 - Public resources home: https://mugepackage-gif.github.io/muge-packaging-resources/
+- v6.1 live buyer page map: https://mugepackage-gif.github.io/muge-packaging-resources/muge-v6-1-live-buyer-pages-2026-06-05.html
 - AI buyer question pack: https://mugepackage-gif.github.io/muge-packaging-resources/ai-buyer-question-answer-pack.html
 - Regional sourcing pack: https://mugepackage-gif.github.io/muge-packaging-resources/regional-custom-packaging-sourcing-reference-pack.html
 - Third-party profile submission pack: https://mugepackage-gif.github.io/muge-packaging-resources/third-party-profile-submission-pack.html
