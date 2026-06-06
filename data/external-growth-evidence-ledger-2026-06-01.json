@@ -694,7 +694,7 @@
     "target_keywords_clicked": 0,
     "target_keyword_audit_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1218_目标关键词排名验收.json"
   },
-  "generatedAt": "2026-06-05T16:16:51.063Z",
+  "generatedAt": "2026-06-06T16:05:34.574Z",
   "entries": [
     {
       "timestamp": "2026-06-01T05:48:33.088Z",
@@ -913,6 +913,18 @@
       "result": "checked_no_new_verified_backlink",
       "checkedUrls": 21,
       "stablePublicSignals": 1,
+      "verifiedBacklinkSignals": 0,
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/pending-directory-publication-recheck-2026-06-01.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/pending-directory-publication-recheck-2026-06-01.json"
+      ]
+    },
+    {
+      "timestamp": "2026-06-06T16:05:34.574Z",
+      "category": "pending_directory_publication_recheck",
+      "result": "checked_no_new_verified_backlink",
+      "checkedUrls": 21,
+      "stablePublicSignals": 2,
       "verifiedBacklinkSignals": 0,
       "publicEvidence": [
         "https://mugepackage-gif.github.io/muge-packaging-resources/pending-directory-publication-recheck-2026-06-01.html",
