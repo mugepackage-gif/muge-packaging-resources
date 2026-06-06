@@ -10,7 +10,7 @@ date: 2026-06-01
 
 # MUGE PACKAGING 独立第三方外部实体基线
 
-- Generated at: 2026-06-06T16:58:46.013Z
+- Generated at: 2026-06-06T17:05:39.729Z
 - Official website: https://mugepackaging.com
 - Independent third-party assets: 146
 - Independent direct website links: 28
