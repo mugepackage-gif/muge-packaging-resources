@@ -1,7 +1,7 @@
 {
   "name": "MUGE PACKAGING Independent Third-Party Entity Baseline 2026-06-01",
-  "generatedAt": "2026-06-06T17:05:39.729Z",
-  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-07_0102_MUGE外部品牌提及复验基线.json",
+  "generatedAt": "2026-06-06T22:52:24.531Z",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-07_0650_MUGE外部品牌提及复验基线.json",
   "countingRule": "Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Workers, Weebly and official mugepackaging.com URLs. verified_link means independent public page with direct website link; verified_mention means independent public brand/entity mention only.",
   "summary": {
     "sourceRows": 765,
@@ -1033,7 +1033,7 @@
       "url": "https://www.cubdomain.com/site/mugepackaging.com",
       "httpStatus": 403,
       "host": "cubdomain.com",
-      "snippet": "ay: 'a078ffa31f5384e2',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/site/mugepackaging.com?__cf_chl_tk=6H6jx8RNLgt2xqvfT0AD7G3BvnDszyFxg6CtObbj7II-1780765491-1.0.1.1-5ssWiUJ4IP1iMpwIpJNJsSw7xfjAJAJLfK2Q91vGsQk\",cvId: '3',cZone: 'www.cubdomain.com',fa:\"/",
+      "snippet": "ay: 'a07afbd99e366e69',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/site/mugepackaging.com?__cf_chl_tk=pklylQc5cDOcKaF.faWqsOz.fpGbKC4..W1e.izpSRM-1780786308-1.0.1.1-O3hA9dDBJbwNFs8wm6mJgxWomVYS4zdMkH2gOtJefEc\",cvId: '3',cZone: 'www.cubdomain.com',fa:\"/",
       "note": "2026-05-29 访问生成/更新的公开域名分析页，检出 mugepackaging.com 直接链接；计入外部实体资产，并交叉进入外链基线。"
     },
     {
@@ -1042,7 +1042,7 @@
       "url": "https://hypestat.com/info/mugepackaging.com",
       "httpStatus": 403,
       "host": "hypestat.com",
-      "snippet": "ay: 'a078ffa34ecad0a1',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/info/mugepackaging.com?__cf_chl_tk=KdvybmDiaSXKcs0dpCtde1r0E.j.imyz42BZAdfhSz8-1780765491-1.0.1.1-vAiI7CsWBScjN2pZ5_DNqtdliQ9rO7_EDN0lOBzKg8I\",cvId: '3',cZone: 'hypestat.com',fa:\"/info/",
+      "snippet": "ay: 'a07afbd94d2e02ae',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/info/mugepackaging.com?__cf_chl_tk=Rre8HRNYLfyMKlfCPyyGygVJjYXPe3TeI2wx_3VhpYc-1780786308-1.0.1.1-R2OQaH69IO6h189A1nyHTupEFb0.KkfIGcoVpMtWwcc\",cvId: '3',cZone: 'hypestat.com',fa:\"/info/",
       "note": "2026-05-30 公开域名画像页检出 Mugepackaging.com 与官网 URL；泛域名信息页质量弱，只计入外部实体资产并交叉进入外链基线。"
     },
     {
