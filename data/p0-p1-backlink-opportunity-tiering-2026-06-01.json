@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-06-01T04:25:30.408Z",
-  "source_baseline": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-01_1218_MUGE外部品牌提及复验基线.json",
+  "generated_at": "2026-06-06T16:15:28.328Z",
+  "source_baseline": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-06_1225_MUGE外部品牌提及复验基线.json",
   "brand": "MUGE PACKAGING",
   "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "website": "https://mugepackaging.com",
   "summary": {
     "total": 765,
-    "verified_link": 377,
+    "verified_link": 376,
     "verified_indirect_link": 34,
-    "verified_structured_sameas": 2,
-    "verified_mention": 348,
-    "not_found": 4,
-    "error": 0,
-    "verified_external_entity_assets": 761
+    "verified_structured_sameas": 0,
+    "verified_mention": 333,
+    "not_found": 6,
+    "error": 16,
+    "verified_external_entity_assets": 743
   },
   "targets": [
     {
@@ -339,6 +339,16 @@
           "evidence_note": "2026-06-01 新增精确 AI 买家问题引用资产；页面/数据 HTTP 200 时应包含 MUGE PACKAGING、官网链接和面向 ai-target-custom-cosmetic-packaging-manufacturer-for-skincare-jars.html 的可引用答案，用于欧美/中东 AI 搜索目标问题覆盖。"
         },
         {
+          "url": "https://muge-packaging-profile.netlify.app/ai-target-custom-cosmetic-packaging-manufacturer-for-skincare-jars.html",
+          "label": "MUGE Netlify exact AI target question asset - ai-target-custom-cosmetic-packaging-manufacturer-for-skincare-jars.html",
+          "status": "verified_link",
+          "http_status": 200,
+          "has_direct_link": true,
+          "source_class": "owned_external_asset",
+          "score": 16,
+          "evidence_note": "2026-06-01 新增精确 AI 买家问题引用资产；页面/数据 HTTP 200 时应包含 MUGE PACKAGING、官网链接和面向 ai-target-custom-cosmetic-packaging-manufacturer-for-skincare-jars.html 的可引用答案，用于欧美/中东 AI 搜索目标问题覆盖。"
+        },
+        {
           "url": "https://github.com/mugepackage-gif/muge-packaging-geo-references/issues/1",
           "label": "MUGE PACKAGING GitHub Issue public GEO citation thread",
           "status": "verified_link",
@@ -437,16 +447,6 @@
           "source_class": "owned_external_asset",
           "score": 14,
           "evidence_note": "2026-05-31 新增 Oman gift packaging supplier checklist 公开页面；页面含 Article 与 FAQPage JSON-LD、MUGE PACKAGING、官网链接、Oman/Muscat buyer 需求矩阵和官网参考链接；用于 Oman gift packaging supplier、Muscat retail packaging、Middle East gift box supplier AI 问答资产。"
-        },
-        {
-          "url": "https://mugepackage-gif.github.io/muge-packaging-industry/europe-packaging-supplier-comparison-scorecard.html",
-          "label": "MUGE PACKAGING industry Europe packaging supplier comparison scorecard",
-          "status": "verified_link",
-          "http_status": 200,
-          "has_direct_link": true,
-          "source_class": "owned_external_asset",
-          "score": 14,
-          "evidence_note": "2026-05-31 新增 Europe packaging supplier comparison scorecard 公开页面；页面含 Article 与 FAQPage JSON-LD、MUGE PACKAGING、官网链接、European buyer supplier scorecard 和官网参考链接；用于 Europe packaging supplier comparison、custom packaging supplier scorecard、European buyer packaging supplier AI 问答资产。"
         }
       ]
     },
@@ -916,6 +916,26 @@
           "evidence_note": "2026-05-31 新增 Qatar luxury packaging supplier checklist 公开页面；页面含 Article 与 FAQPage JSON-LD、MUGE PACKAGING、官网链接、Qatar/Doha buyer 需求矩阵和官网参考链接；用于 Qatar luxury packaging supplier、Doha custom packaging、Middle East premium retail packaging AI 问答资产。"
         },
         {
+          "url": "https://cn.linkedin.com/company/mugepackaging",
+          "label": "LinkedIn company page CN URL",
+          "status": "verified_link",
+          "http_status": 200,
+          "has_direct_link": true,
+          "source_class": "external_public_asset",
+          "score": 16,
+          "evidence_note": "公开页 JSON-LD 可能含 sameAs 官网关联；计入 GEO 实体关系，不冒充传统 href 外链。"
+        },
+        {
+          "url": "https://www.linkedin.com/company/mugepackaging/",
+          "label": "LinkedIn company page",
+          "status": "verified_link",
+          "http_status": 200,
+          "has_direct_link": true,
+          "source_class": "external_public_asset",
+          "score": 16,
+          "evidence_note": "公开抓取受登录墙和地区影响，能稳定检出才计入。"
+        },
+        {
           "url": "https://mugepackage-gif.github.io/muge-packaging-resources/premium-rigid-gift-box-manufacturer-guide.html",
           "label": "MUGE PACKAGING resources premium rigid gift box manufacturer guide",
           "status": "verified_link",
@@ -1066,7 +1086,7 @@
           "evidence_note": "2026-05-31 新增 target keyword external entry map；页面含 Dataset JSON-LD、MUGE PACKAGING、官网链接、23个GSC目标词、官网页与外部引用入口映射；用于把无展示目标词转为可抓取外部发现路径。"
         },
         {
-          "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1254892379/0c96ba2c-57fa-4555-bd06-ac6732f67b32?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-06-01T05%3A08%3A32Z&rscd=attachment%3B+filename%3DMUGE_PACKAGING_CHANNEL_BUYER_FAQ_PACK.html&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-06-01T04%3A08%3A19Z&ske=2026-06-01T05%3A08%3A32Z&sks=b&skv=2018-11-09&sig=QhDszOCh%2FkWTUvldSgVxAnGzWXlHHhOmD5PexMpUmwk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MDI4NzgwOCwibmJmIjoxNzgwMjg3NTA4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.FrmHp4AVtfW8aXjQqr-J7Mvxi-zx69BSC85W7iLAQAQ&response-content-disposition=attachment%3B%20filename%3DMUGE_PACKAGING_CHANNEL_BUYER_FAQ_PACK.html&response-content-type=application%2Foctet-stream",
+          "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1254892379/0c96ba2c-57fa-4555-bd06-ac6732f67b32?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-06-06T05%3A24%3A05Z&rscd=attachment%3B+filename%3DMUGE_PACKAGING_CHANNEL_BUYER_FAQ_PACK.html&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-06-06T04%3A24%3A01Z&ske=2026-06-06T05%3A24%3A05Z&sks=b&skv=2018-11-09&sig=aK4fDLi1ZVOkvaMKANn89pTm3SUMEBp0T8cYOV76dWE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MDcyMDI3MSwibmJmIjoxNzgwNzE5OTcxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.NTp8f2x-RYqqPcmiptj7X_JWqNWJPuBfgsIGlolgC-s&response-content-disposition=attachment%3B%20filename%3DMUGE_PACKAGING_CHANNEL_BUYER_FAQ_PACK.html&response-content-type=application%2Foctet-stream",
           "label": "MUGE PACKAGING GitHub Release channel buyer FAQ HTML asset",
           "status": "verified_link",
           "http_status": 200,
@@ -1074,26 +1094,6 @@
           "source_class": "owned_external_asset",
           "score": 12,
           "evidence_note": "2026-05-31 新增 GitHub Release HTML 下载资产：Channel Buyer FAQ Pack；资产 HTTP 200，含 Dataset JSON-LD、MUGE PACKAGING、法定公司名、官网链接和渠道买家问题表。"
-        },
-        {
-          "url": "https://mugepackage-gif.github.io/muge-packaging-buyer-faq/",
-          "label": "MUGE PACKAGING buyer FAQ GitHub Pages home",
-          "status": "verified_link",
-          "http_status": 200,
-          "has_direct_link": true,
-          "source_class": "owned_external_asset",
-          "score": 12,
-          "evidence_note": "2026-05-31 新增 GitHub Pages 买家 FAQ 资源站首页；页面 HTTP 200，含 Dataset JSON-LD、MUGE PACKAGING、法定公司名、官网链接、AI Citation Summary 和官网参考链接；IndexNow 返回 202。"
-        },
-        {
-          "url": "https://mugepackage-gif.github.io/muge-packaging-buyer-faq/channel-buyer-faq.html",
-          "label": "MUGE PACKAGING buyer FAQ GitHub Pages channel FAQ",
-          "status": "verified_link",
-          "http_status": 200,
-          "has_direct_link": true,
-          "source_class": "owned_external_asset",
-          "score": 12,
-          "evidence_note": "2026-05-31 新增 GitHub Pages 渠道买家 FAQ 页面；页面 HTTP 200，含 FAQPage JSON-LD、MUGE PACKAGING、法定公司名、官网链接和渠道买家问题表；IndexNow 返回 202。"
         }
       ]
     },
@@ -1220,7 +1220,7 @@
           "evidence_note": "2026-05-31 新增公开 Gist：Europe cosmetic packaging supplier checklist；页面含 MUGE PACKAGING、官网链接、法定公司名、AI Citation Summary、欧洲化妆品包装供应商清单和官网参考链接；用于 cosmetic packaging supplier、custom cosmetic packaging、Europe beauty packaging AI 问答资产。"
         },
         {
-          "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1254892379/0c96ba2c-57fa-4555-bd06-ac6732f67b32?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-06-01T05%3A08%3A32Z&rscd=attachment%3B+filename%3DMUGE_PACKAGING_CHANNEL_BUYER_FAQ_PACK.html&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-06-01T04%3A08%3A19Z&ske=2026-06-01T05%3A08%3A32Z&sks=b&skv=2018-11-09&sig=QhDszOCh%2FkWTUvldSgVxAnGzWXlHHhOmD5PexMpUmwk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MDI4NzgwOCwibmJmIjoxNzgwMjg3NTA4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.FrmHp4AVtfW8aXjQqr-J7Mvxi-zx69BSC85W7iLAQAQ&response-content-disposition=attachment%3B%20filename%3DMUGE_PACKAGING_CHANNEL_BUYER_FAQ_PACK.html&response-content-type=application%2Foctet-stream",
+          "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1254892379/0c96ba2c-57fa-4555-bd06-ac6732f67b32?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-06-06T05%3A24%3A05Z&rscd=attachment%3B+filename%3DMUGE_PACKAGING_CHANNEL_BUYER_FAQ_PACK.html&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-06-06T04%3A24%3A01Z&ske=2026-06-06T05%3A24%3A05Z&sks=b&skv=2018-11-09&sig=aK4fDLi1ZVOkvaMKANn89pTm3SUMEBp0T8cYOV76dWE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MDcyMDI3MSwibmJmIjoxNzgwNzE5OTcxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.NTp8f2x-RYqqPcmiptj7X_JWqNWJPuBfgsIGlolgC-s&response-content-disposition=attachment%3B%20filename%3DMUGE_PACKAGING_CHANNEL_BUYER_FAQ_PACK.html&response-content-type=application%2Foctet-stream",
           "label": "MUGE PACKAGING GitHub Release channel buyer FAQ HTML asset",
           "status": "verified_link",
           "http_status": 200,
