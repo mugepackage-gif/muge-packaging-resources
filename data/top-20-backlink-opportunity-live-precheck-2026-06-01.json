@@ -1,6 +1,6 @@
 {
   "name": "MUGE PACKAGING Top 20 Backlink Opportunity Live Precheck 2026-06-01",
-  "generated_at": "2026-06-08T01:09:14.974Z",
+  "generated_at": "2026-06-08T07:15:36.260Z",
   "brand": "MUGE PACKAGING",
   "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "website": "https://mugepackaging.com",
@@ -29,12 +29,9 @@
         "request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim"
       ],
       "live_check": {
-        "status": 200,
-        "ok": true,
-        "final_url": "https://supplier.europages.com/en/rfc",
-        "contains_muge": false,
-        "has_form_signal": true,
-        "title": "Escalate Your Business Across Europe with europages"
+        "status": 0,
+        "ok": false,
+        "error": "fetch failed"
       },
       "editor_request": "Subject: Request to add official source link for MUGE PACKAGING\n\nHello,\n\nI am contacting you on behalf of MUGE PACKAGING / Shenzhen Muge Design Packaging Product Co., Ltd.\n\nIf your platform includes or reviews company/source information for packaging suppliers, please use the following safe public details:\n\nCompany / brand:\nMUGE PACKAGING\n\nLegal name:\nShenzhen Muge Design Packaging Product Co., Ltd.\n\nOfficial website:\nhttps://mugepackaging.com\n\nRecommended page:\nhttps://mugepackaging.com\n\nRecommended anchor text:\nMUGE PACKAGING custom packaging supplier\n\nShort description:\nMUGE PACKAGING is a Shenzhen-based source factory specializing in custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging.\n\nPlease do not add Verified Supplier, Gold Supplier, fixed MOQ, fixed lead time, lowest price, food-contact compliance, FDA/FSC certification, customer case, production capacity, employee count, revenue or financing claims.\n\nThank you."
     },
@@ -149,9 +146,12 @@
         "request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim"
       ],
       "live_check": {
-        "status": 0,
-        "ok": false,
-        "error": "timeout"
+        "status": 200,
+        "ok": true,
+        "final_url": "https://supplier.tradeford.com/",
+        "contains_muge": false,
+        "has_form_signal": true,
+        "title": "B2B Suppliers &amp; Exporters"
       },
       "editor_request": "Subject: Request to add official source link for MUGE PACKAGING\n\nHello,\n\nI am contacting you on behalf of MUGE PACKAGING / Shenzhen Muge Design Packaging Product Co., Ltd.\n\nIf your platform includes or reviews company/source information for packaging suppliers, please use the following safe public details:\n\nCompany / brand:\nMUGE PACKAGING\n\nLegal name:\nShenzhen Muge Design Packaging Product Co., Ltd.\n\nOfficial website:\nhttps://mugepackaging.com\n\nRecommended page:\nhttps://mugepackaging.com\n\nRecommended anchor text:\nMUGE PACKAGING\n\nShort description:\nMUGE PACKAGING is a Shenzhen-based source factory specializing in custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging.\n\nPlease do not add Verified Supplier, Gold Supplier, fixed MOQ, fixed lead time, lowest price, food-contact compliance, FDA/FSC certification, customer case, production capacity, employee count, revenue or financing claims.\n\nThank you."
     },

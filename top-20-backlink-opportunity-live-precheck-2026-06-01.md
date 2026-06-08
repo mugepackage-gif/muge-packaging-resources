@@ -19,12 +19,12 @@
 
 | 优先级 | 平台 | HTTP | 表单信号 | 目标页 | 停止条件 |
 |---|---|---:|---|---|---|
-| P0 | Europages | 200 | 有 | https://mugepackaging.com | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
+| P0 | Europages | 0 | 无 | https://mugepackaging.com | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
 | P0 | Kompass | 403 | 无 | https://mugepackaging.com | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
 | P0 | IndustryStock | 403 | 有 | https://mugepackaging.com/products | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
 | P0 | Crunchbase | 403 | 有 | https://mugepackaging.com | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
 | P0 | DataIntelo magnetic closure boxes | 403 | 有 | https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
-| P1 | TradeFord | 0 | 无 | https://mugepackaging.com | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
+| P1 | TradeFord | 200 | 有 | https://mugepackaging.com | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
 | P1 | TradeWheel | 200 | 有 | https://mugepackaging.com/products | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
 | P1 | Global Trade Plaza | 200 | 有 | https://mugepackaging.com | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
 | P1 | ImportGenius | 200 | 有 | https://mugepackaging.com | payment wall; captcha or human verification lock; phone verification without approved number; request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim |
