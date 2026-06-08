@@ -7,8 +7,8 @@
 - 来源执行包：/Users/molice/muge-packaging-resources/data/independent-third-party-direct-link-update-pack-2026-06-01.json
 - A 级去重平台/页面：5
 - 预检成功：5
-- 已含品牌：5
-- 已含官网域名：5
+- 已含品牌：4
+- 已含官网域名：4
 
 ## 公开入口
 
@@ -179,7 +179,7 @@ Thank you.
 - 第三方页面：https://zearches.com/directory.php?slug=business-company
 - 官网目标页：https://mugepackaging.com/products
 - 推荐锚文本：custom packaging products by MUGE PACKAGING
-- 预检：HTTP 200；品牌 有；官网域名 有
+- 预检：HTTP 200；品牌 无；官网域名 无
 
 ```text
 Subject: Request to update MUGE PACKAGING website link on zearches.com
