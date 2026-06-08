@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-01T04:30:39.403Z",
+  "generated_at": "2026-06-08T09:18:40.068Z",
   "source_tiering_json": "/Users/molice/muge-packaging-resources/data/p0-p1-backlink-opportunity-tiering-2026-06-01.json",
   "brand": "MUGE PACKAGING",
   "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "website": "https://mugepackaging.com",
   "summary": {
-    "total_third_party_opportunities": 12,
+    "total_third_party_opportunities": 14,
     "priority_A": 8,
-    "priority_B": 4,
+    "priority_B": 6,
     "priority_C": 0
   },
   "items": [
@@ -292,6 +292,48 @@
       "max_score": 17,
       "priority": "B",
       "recommended_action": "复验页面是否仍含官网 href；若平台允许认领或纠错，补充标准品牌名 MUGE PACKAGING 和官网 https://mugepackaging.com；不引用其估值/流量。"
+    },
+    {
+      "url": "https://cn.linkedin.com/company/mugepackaging",
+      "host": "cn.linkedin.com",
+      "label": "LinkedIn company page CN URL",
+      "status": "verified_link",
+      "http_status": 200,
+      "has_direct_link": true,
+      "source_class": "external_public_asset",
+      "evidence_note": "公开页 JSON-LD 可能含 sameAs 官网关联；计入 GEO 实体关系，不冒充传统 href 外链。",
+      "target_pages": [
+        {
+          "target_id": "rigid-gift-box",
+          "priority": "P0/P1",
+          "label": "Rigid gift box structure and material",
+          "official_url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide"
+        }
+      ],
+      "max_score": 16,
+      "priority": "B",
+      "recommended_action": "复验 direct link；若可编辑，补标准品牌名和最相关 P0/P1 官网 URL。"
+    },
+    {
+      "url": "https://www.linkedin.com/company/mugepackaging/",
+      "host": "linkedin.com",
+      "label": "LinkedIn company page",
+      "status": "verified_link",
+      "http_status": 200,
+      "has_direct_link": true,
+      "source_class": "external_public_asset",
+      "evidence_note": "公开抓取受登录墙和地区影响，能稳定检出才计入。",
+      "target_pages": [
+        {
+          "target_id": "rigid-gift-box",
+          "priority": "P0/P1",
+          "label": "Rigid gift box structure and material",
+          "official_url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide"
+        }
+      ],
+      "max_score": 16,
+      "priority": "B",
+      "recommended_action": "复验 direct link；若可编辑，补标准品牌名和最相关 P0/P1 官网 URL。"
     },
     {
       "url": "https://www.siteprice.org/competitors/boxforgifts.com",
