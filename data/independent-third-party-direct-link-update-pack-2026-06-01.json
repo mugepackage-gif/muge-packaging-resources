@@ -1,6 +1,6 @@
 {
   "name": "MUGE PACKAGING Independent Third-Party Direct Link Update Pack 2026-06-01",
-  "generated_at": "2026-06-01T07:19:27.851Z",
+  "generated_at": "2026-06-08T09:43:37.624Z",
   "brand": "MUGE PACKAGING",
   "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "website": "https://mugepackaging.com",
@@ -9,13 +9,13 @@
   "public_html_url": "https://mugepackage-gif.github.io/muge-packaging-resources/independent-third-party-direct-link-update-pack-2026-06-01.html",
   "public_json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/independent-third-party-direct-link-update-pack-2026-06-01.json",
   "summary": {
-    "independent_third_party_assets": 162,
+    "independent_third_party_assets": 146,
     "independent_direct_links": 28,
-    "independent_hosts": 73,
+    "independent_hosts": 68,
     "update_items": 28,
-    "priority_A": 7,
-    "priority_B": 12,
-    "priority_C": 9,
+    "priority_A": 5,
+    "priority_B": 13,
+    "priority_C": 10,
     "mapped_official_p0_p1_pages": 6
   },
   "official_p0_p1_targets": [
@@ -127,38 +127,6 @@
       "status": "pending_manual_platform_update_or_editor_request"
     },
     {
-      "priority": "A",
-      "platform_host": "zearches.com",
-      "label": "Zearches Business & Company Sites directory page",
-      "type": "公开目录页",
-      "third_party_url": "https://zearches.com/directory.php?slug=business-company",
-      "http_status": 200,
-      "current_signal": "2026-05-29 低风险公开目录提交成功，页面已公开显示 MUGE PACKAGING 与官网 href；计入弱质量 direct backlink 与外部实体资产。",
-      "primary_official_target": "https://mugepackaging.com/products",
-      "mapped_official_targets": [
-        "https://mugepackaging.com/products"
-      ],
-      "recommended_anchor": "custom packaging products by MUGE PACKAGING",
-      "recommended_action": "复验目录资料，若可编辑则加入 https://mugepackaging.com/products 作为产品/服务页，保留公司官网主页链接。",
-      "status": "pending_manual_platform_update_or_editor_request"
-    },
-    {
-      "priority": "A",
-      "platform_host": "zearches.com",
-      "label": "MUGE Zearches Business & Company Sites listing",
-      "type": "第三方免费目录直接外链",
-      "third_party_url": "https://zearches.com/directory.php?slug=business-company",
-      "http_status": 200,
-      "current_signal": "2026-06-01 新增 Zearches Business & Company Sites 公开目录收录；页面 HTTP 200，含 MUGE PACKAGING、官网链接 https://mugepackaging.com 和 custom packaging 描述；无付费、无验证码、无账号核心风险。",
-      "primary_official_target": "https://mugepackaging.com/products",
-      "mapped_official_targets": [
-        "https://mugepackaging.com/products"
-      ],
-      "recommended_anchor": "custom packaging products by MUGE PACKAGING",
-      "recommended_action": "复验目录资料，若可编辑则加入 https://mugepackaging.com/products 作为产品/服务页，保留公司官网主页链接。",
-      "status": "pending_manual_platform_update_or_editor_request"
-    },
-    {
       "priority": "B",
       "platform_host": "old.reddit.com",
       "label": "Old Reddit MUGE historical post direct URL",
@@ -256,6 +224,23 @@
       ],
       "recommended_anchor": "paper tube packaging supplier",
       "recommended_action": "只作为可抓取直链信号；不引用估值或流量。若可纠错，要求标准化品牌名并补充 https://mugepackaging.com/blog/paper-tube-packaging-buying-guide。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "B",
+      "platform_host": "siteprice.org",
+      "label": "Siteprice competitors page listing MUGE under yfpackaging.com",
+      "type": "聚合目录页",
+      "third_party_url": "https://www.siteprice.org/competitors/yfpackaging.com",
+      "http_status": 200,
+      "current_signal": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。",
+      "primary_official_target": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide",
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "PVC PET clear box packaging manufacturer",
+      "recommended_action": "只作为可抓取直链信号；不引用估值或流量。若可纠错，要求标准化品牌名并补充 https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide。",
       "status": "pending_manual_platform_update_or_editor_request"
     },
     {
@@ -394,12 +379,12 @@
     },
     {
       "priority": "C",
-      "platform_host": "cricketinfo.co.in",
-      "label": "CricketInfo domain list page",
-      "type": "域名列表页",
-      "third_party_url": "https://www.cricketinfo.co.in/domain-list-523",
+      "platform_host": "cn.linkedin.com",
+      "label": "LinkedIn company page CN URL",
+      "type": "社媒资料页",
+      "third_party_url": "https://cn.linkedin.com/company/mugepackaging",
       "http_status": 200,
-      "current_signal": "2026-05-30 单页复验检出 mugepackaging.com 与访问链接；泛域名列表质量低，只作为弱外部实体/直链信号追踪。",
+      "current_signal": "公开页 JSON-LD 可能含 sameAs 官网关联；计入 GEO 实体关系，不冒充传统 href 外链。",
       "primary_official_target": "https://mugepackaging.com/products",
       "mapped_official_targets": [
         "https://mugepackaging.com/products"
@@ -410,12 +395,12 @@
     },
     {
       "priority": "C",
-      "platform_host": "datainsightsmarket.com",
-      "label": "DataInsightsMarket hazardous chemicals packaging report",
-      "type": "市场报告",
-      "third_party_url": "https://www.datainsightsmarket.com/reports/hazardous-chemicals-packaging-349270",
+      "platform_host": "cricketinfo.co.in",
+      "label": "CricketInfo domain list page",
+      "type": "域名列表页",
+      "third_party_url": "https://www.cricketinfo.co.in/domain-list-523",
       "http_status": 200,
-      "current_signal": "2026-05-30 公开 HTML 检出 Muge Packaging 与官网链接；计入外部实体资产并交叉进入外链基线，不作为 MUGE 危险化学品包装业务、资质或合规承诺引用。",
+      "current_signal": "2026-05-30 单页复验检出 mugepackaging.com 与访问链接；泛域名列表质量低，只作为弱外部实体/直链信号追踪。",
       "primary_official_target": "https://mugepackaging.com/products",
       "mapped_official_targets": [
         "https://mugepackaging.com/products"
@@ -439,6 +424,22 @@
       ],
       "recommended_anchor": "custom rigid gift box manufacturer",
       "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "linkedin.com",
+      "label": "LinkedIn company page",
+      "type": "社媒资料页",
+      "third_party_url": "https://www.linkedin.com/company/mugepackaging/",
+      "http_status": 200,
+      "current_signal": "公开抓取受登录墙和地区影响，能稳定检出才计入。",
+      "primary_official_target": "https://mugepackaging.com/products",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom packaging products by MUGE PACKAGING",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/products。",
       "status": "pending_manual_platform_update_or_editor_request"
     },
     {
