@@ -10,14 +10,14 @@ date: 2026-06-01
 
 # MUGE PACKAGING 独立第三方外部实体基线
 
-- Generated at: 2026-06-06T22:52:24.531Z
+- Generated at: 2026-06-08T12:47:36.536Z
 - Official website: https://mugepackaging.com
-- Independent third-party assets: 146
-- Independent direct website links: 28
+- Independent third-party assets: 151
+- Independent direct website links: 27
 - Independent indirect links: 34
 - Independent structured sameAs: 2
-- Independent mention-only assets: 84
-- Independent hosts: 68
+- Independent mention-only assets: 90
+- Independent hosts: 67
 
 ## Counting Rule
 
@@ -30,6 +30,7 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | sitelike.org | 34 |
 | siteprice.org | 12 |
 | made-in-china.com | 11 |
+| marketreportanalytics.com | 7 |
 | pdf.marketpublishers.com | 4 |
 | playervirus18.pythonanywhere.com | 3 |
 | importgenius.com | 3 |
@@ -53,7 +54,6 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | futuremarketinsights.com | 1 |
 | provenexpert.com | 1 |
 | packaza.com | 1 |
-| marketreportanalytics.com | 1 |
 | credenceresearch.com | 1 |
 | marketpublishers.com | 1 |
 | datainsightsreports.com | 1 |
@@ -77,7 +77,6 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | Siteprice competitors page listing MUGE under vslpackaging.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/vslpackaging.com |
 | Siteprice competitors page listing MUGE under cloveandtwine.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/cloveandtwine.com |
 | Siteprice competitors page listing MUGE under packagingbox.org | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/packagingbox.org |
-| CricketInfo domain list page | 域名列表页 | cricketinfo.co.in | 200 | https://www.cricketinfo.co.in/domain-list-523 |
 | Legacy WordPress MUGE shoe packaging article | 历史自建外部内容 | mugepackaging.wordpress.com | 200 | https://mugepackaging.wordpress.com/2021/06/19/imaginative-shoe-packaging-ideas/ |
 | LinkedIn company page CN URL | 社媒资料页 | cn.linkedin.com | 200 | https://cn.linkedin.com/company/mugepackaging |
 | LinkedIn company page | 社媒资料页 | linkedin.com | 200 | https://www.linkedin.com/company/mugepackaging/ |
@@ -105,14 +104,17 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | FeedingTrends coated paper packaging box market mention | 市场报告转载页 | feedingtrends.com | 200 | https://feedingtrends.com/coated-paper-packaging-box-market-growth-and-covid-19-impact-analy |
 | PythonAnywhere custom shaped packaging image mention | 图片来源聚合页 | finalengineering21.pythonanywhere.com | 200 | https://finalengineering21.pythonanywhere.com/custom-shaped-packaging.html |
 | PythonAnywhere different types packaging boxes image mention | 图片来源聚合页 | playervirus18.pythonanywhere.com | 200 | https://playervirus18.pythonanywhere.com/different-types-of-packaging-boxes.html |
+| MarketReportAnalytics coated paper packaging box report 364977 | 市场报告 | marketreportanalytics.com | 200 | https://www.marketreportanalytics.com/reports/coated-paper-packaging-box-364977 |
 | Credence Research coated paper packaging box market report | 市场报告 | credenceresearch.com | 200 | https://www.credenceresearch.com/report/coated-paper-packaging-box-market/ |
 | Cognitive Market Research coated paper packaging box market report | 市场报告 | cognitivemarketresearch.com | 200 | https://www.cognitivemarketresearch.com/coated-paper-packaging-box-market-report |
 | Maia Research coated paper packaging box market report | 市场报告 | maiaresearch.com | 200 | https://www.maiaresearch.com/market-report/1875513-Coated-paper-packaging-box-1875513.html |
 | openPR hazardous chemicals packaging market news mention | 新闻稿聚合页 | openpr.com | 200 | https://www.openpr.com/news/2743885/hazardous-chemicals-packaging-market-witness-an-outstanding |
+| MarketReportAnalytics hazardous chemicals packaging expansion strategies | 市场报告 | marketreportanalytics.com | 200 | https://www.marketreportanalytics.com/reports/hazardous-chemicals-packaging-358821 |
 | MarketResearchReports hazardous chemicals packaging growth report | 市场报告 | marketresearchreports.com | 200 | https://www.marketresearchreports.com/lpi/global-hazardous-chemicals-packaging-market-growth-2024-2030 |
 | MarketPublishers hazardous chemicals packaging HTML report 2024 | 市场报告 | marketpublishers.com | 200 | https://marketpublishers.com/report/industry/other_industries/global-hazardous-chemicals-packaging-market-research-report-2024status-n-outlook.html |
 | Maia Research hazardous chemicals packaging market report | 市场报告 | maiaresearch.com | 200 | https://www.maiaresearch.com/market-report/1638293-Packaging-of-hazardous-chemicals-1638293.html |
 | Cognitive Market Research hazardous chemicals packaging market report | 市场报告 | cognitivemarketresearch.com | 200 | https://www.cognitivemarketresearch.com/hazardous-chemicals-packaging-market-report |
+| MarketReportAnalytics hazardous chemicals packaging report 364988 | 市场报告 | marketreportanalytics.com | 200 | https://www.marketreportanalytics.com/reports/hazardous-chemicals-packaging-364988 |
 | Verified Market Reports hazardous chemicals packaging market report | 市场报告 | verifiedmarketreports.com | 200 | https://www.verifiedmarketreports.com/product/hazardous-chemicals-packaging-market/ |
 | Verified Market Reports coated paper packaging box market report | 市场报告 | verifiedmarketreports.com | 200 | https://www.verifiedmarketreports.com/product/coated-paper-packaging-box-market/ |
 | DataInsightsReports coated paper packaging box report | 市场报告 | datainsightsreports.com | 200 | https://www.datainsightsreports.com/reports/coated-paper-packaging-box-568132 |
@@ -145,7 +147,10 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | Blogspot cardboard box inserts source mention | 图片来源聚合页 | gbhafhwbrj.blogspot.com | 200 | https://gbhafhwbrj.blogspot.com/2021/07/cardboard-box-inserts-custom-inserts.html |
 | Blogspot die cut sticker source mention | 图片来源聚合页 | stikerpopuler.blogspot.com | 200 | https://stikerpopuler.blogspot.com/2021/07/ide-istimewa-die-cut-sticker-printing.html |
 | ExportHub possible MUGE legacy profile | B2B资料页 | exporthub.com | 200 | https://www.exporthub.com/shenzhen-moge-technology-co-ltd/ |
+| MarketReportAnalytics coated paper packaging box report | 市场报告 | marketreportanalytics.com | 200 | https://www.marketreportanalytics.com/reports/coated-paper-packaging-box-368383 |
+| MarketReportAnalytics coated paper packaging box emerging tech report | 市场报告 | marketreportanalytics.com | 200 | https://www.marketreportanalytics.com/reports/coated-paper-packaging-box-358841 |
 | ReportsAndMarkets hazardous chemicals packaging report | 市场报告 | reportsandmarkets.com | 200 | https://www.reportsandmarkets.com/reports/global-hazardous-chemicals-packaging-market-4512919 |
+| MarketReportAnalytics coated paper packaging box overview | 市场报告 | marketreportanalytics.com | 200 | https://www.marketreportanalytics.com/reports/coated-paper-packaging-box-367478 |
 | MarketResearchReports coated paper packaging box report 2023 | 市场报告 | marketresearchreports.com | 200 | https://www.marketresearchreports.com/mrrpb5/global-coated-paper-packaging-box-market-research-report-2023 |
 | Made-in-China supplier profile company-name variant | B2B资料页 | made-in-china.com | 200 | https://www.made-in-china.com/showroom/asd1132052327/ |
 | Made-in-China Spanish supplier profile company-name variant | B2B资料页 | es.made-in-china.com | 200 | https://es.made-in-china.com/co_asd1132052327/ |
@@ -169,9 +174,3 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | Website Informer MUGE domain page | 域名信息页 | website.informer.com | 200 | https://website.informer.com/mugepackaging.com |
 | StatShow MUGE domain valuation page | 域名信息页 | statshow.com | 200 | https://www.statshow.com/www/mugepackaging.com |
 | StatsCrop MUGE domain analytics page | 域名信息页 | statscrop.com | 200 | https://www.statscrop.com/www/mugepackaging.com |
-| CubDomain MUGE domain analysis page | 域名信息页 | cubdomain.com | 403 | https://www.cubdomain.com/site/mugepackaging.com |
-| Hypestat MUGE domain profile | 域名信息页 | hypestat.com | 403 | https://hypestat.com/info/mugepackaging.com |
-| Accessify MUGE accessibility profile | 域名信息页 | accessify.com | 200 | https://accessify.com/m/mugepackaging.com |
-| WOT MUGE scorecard page | 域名声誉/安全检查页 | mywot.com | 200 | https://www.mywot.com/scorecard/mugepackaging.com |
-| Whois.com MUGE domain lookup page | WHOIS/域名信息页 | whois.com | 200 | https://www.whois.com/whois/mugepackaging.com |
-| Who.is MUGE domain lookup page | WHOIS/域名信息页 | who.is | 200 | https://who.is/whois/mugepackaging.com |
