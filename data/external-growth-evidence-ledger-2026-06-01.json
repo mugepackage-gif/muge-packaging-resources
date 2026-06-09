@@ -18,6 +18,21 @@
   ],
   "verified_external_results": [
     {
+      "type": "priority_a_third_party_link_editor_request_pack",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/priority-a-third-party-link-editor-request-pack-2026-06-01.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/priority-a-third-party-link-editor-request-pack-2026-06-01.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/priority-a-third-party-link-editor-request-pack-2026-06-01.json",
+      "summary": {
+        "unique_priority_a_items": 4,
+        "precheck_ok": 4,
+        "contains_brand": 4,
+        "contains_domain": 4
+      },
+      "verification": "Generated copy-ready editor request pack for 4 unique A-priority third-party pages. Precheck confirmed 4 reachable pages and 4 pages already containing the official domain.",
+      "counting_rule": "Counts as a verified public execution asset and manual outreach source; it does not count as completed outreach or new backlink movement until platform changes are submitted and reverified."
+    },
+    {
       "type": "ai_buyer_question_third_party_support_map",
       "platform": "GitHub Pages",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-buyer-question-third-party-support-map-2026-06-01.html",
@@ -69,21 +84,6 @@
       },
       "verification": "Live precheck of 20 backlink/entity opportunities. 13 reachable and 18 with submission/contact/profile signals.",
       "counting_rule": "Counts as a verified public execution and prioritization asset; individual third-party listings/backlinks only count after the external platform publishes a public URL with the official link."
-    },
-    {
-      "type": "priority_a_third_party_link_editor_request_pack",
-      "platform": "GitHub Pages",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/priority-a-third-party-link-editor-request-pack-2026-06-01.html",
-      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/priority-a-third-party-link-editor-request-pack-2026-06-01.md",
-      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/priority-a-third-party-link-editor-request-pack-2026-06-01.json",
-      "summary": {
-        "unique_priority_a_items": 4,
-        "precheck_ok": 4,
-        "contains_brand": 4,
-        "contains_domain": 4
-      },
-      "verification": "Generated copy-ready editor request pack for 4 unique A-priority third-party pages. Precheck confirmed 4 reachable pages and 4 pages already containing the official domain.",
-      "counting_rule": "Counts as a verified public execution asset and manual outreach source; it does not count as completed outreach or new backlink movement until platform changes are submitted and reverified."
     },
     {
       "type": "third_party_public_directory_link",
@@ -694,7 +694,7 @@
     "target_keywords_clicked": 0,
     "target_keyword_audit_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1218_目标关键词排名验收.json"
   },
-  "generatedAt": "2026-06-09T14:51:47.330Z",
+  "generatedAt": "2026-06-09T15:09:07.373Z",
   "entries": [
     {
       "timestamp": "2026-06-01T05:48:33.088Z",
@@ -1209,6 +1209,20 @@
       "result": "advanced_verified_external_baseline",
       "independentThirdPartyAssets": 173,
       "independentDirectLinks": 41,
+      "independentMentionOnly": 102,
+      "independentHosts": 78,
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/independent-third-party-entity-baseline-2026-06-01.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/independent-third-party-entity-baseline-2026-06-01.json"
+      ],
+      "countingNote": "Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Workers, Weebly and official mugepackaging.com URLs. verified_link means independent public page with direct website link; verified_mention means independent public brand/entity mention only."
+    },
+    {
+      "timestamp": "2026-06-09T15:09:07.373Z",
+      "category": "independent_third_party_entity_baseline",
+      "result": "advanced_verified_external_baseline",
+      "independentThirdPartyAssets": 174,
+      "independentDirectLinks": 42,
       "independentMentionOnly": 102,
       "independentHosts": 78,
       "publicEvidence": [

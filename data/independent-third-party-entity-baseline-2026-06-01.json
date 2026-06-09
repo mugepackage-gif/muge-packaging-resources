@@ -1,12 +1,12 @@
 {
   "name": "MUGE PACKAGING Independent Third-Party Entity Baseline 2026-06-01",
-  "generatedAt": "2026-06-09T14:51:47.330Z",
-  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-09_2242_MUGE外部品牌提及复验基线.json",
+  "generatedAt": "2026-06-09T15:09:07.373Z",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-09_2307_MUGE外部品牌提及复验基线.json",
   "countingRule": "Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Workers, Weebly and official mugepackaging.com URLs. verified_link means independent public page with direct website link; verified_mention means independent public brand/entity mention only.",
   "summary": {
     "sourceRows": 864,
-    "independentThirdPartyAssets": 173,
-    "independentDirectLinks": 41,
+    "independentThirdPartyAssets": 174,
+    "independentDirectLinks": 42,
     "independentIndirectLinks": 30,
     "independentStructuredSameAs": 2,
     "independentMentionOnly": 102,
@@ -19,7 +19,7 @@
     },
     {
       "host": "siteprice.org",
-      "count": 12
+      "count": 13
     },
     {
       "host": "made-in-china.com",
@@ -462,6 +462,14 @@
       "httpStatus": 200,
       "host": "5e20301203be8.site123.me",
       "note": "HTTP 200 legacy external blog page. Title How Packaging Help You Win the Marketing Game - Muge Packaging. Fetched HTML contains Muge Packaging and direct official-domain hrefs. Count as external blog/domain signal; do not reuse old copy or unsupported claims without review."
+    },
+    {
+      "label": "Siteprice ASSET-Siteprice-papertube-competitor-20260606",
+      "type": "competitor_similarity_page",
+      "url": "https://www.siteprice.org/competitors/papertube.com",
+      "httpStatus": 200,
+      "host": "siteprice.org",
+      "note": "HTTP 200. Siteprice papertube.com competitor page contains Muge Packaging and direct hrefs to https://www.mugepackaging.com/ plus Siteprice internal competitor/worth links. Count as weak competitor similarity and official-domain backlink; do not quote traffic or website worth."
     }
   ],
   "topMentions": [

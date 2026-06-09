@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-06-07T06:45:08.781Z",
-  "source_baseline": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-07_1442_MUGE外部品牌提及复验基线.json",
+  "generated_at": "2026-06-09T15:07:12.078Z",
+  "source_baseline": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-09_2251_MUGE外部品牌提及复验基线.json",
   "brand": "MUGE PACKAGING",
   "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "website": "https://mugepackaging.com",
   "summary": {
-    "total": 765,
-    "verified_link": 375,
-    "verified_indirect_link": 34,
+    "total": 864,
+    "verified_link": 437,
+    "verified_indirect_link": 30,
     "verified_structured_sameas": 0,
-    "verified_mention": 333,
-    "not_found": 7,
-    "error": 16,
-    "verified_external_entity_assets": 742
+    "verified_mention": 380,
+    "not_found": 10,
+    "error": 7,
+    "verified_external_entity_assets": 847
   },
   "targets": [
     {
@@ -32,6 +32,16 @@
       ],
       "opportunities": [
         {
+          "url": "https://gist.github.com/mugepackage-gif/77cbbdec72a05b86b72105bde23c1da4",
+          "label": "GitHub Gist ASSET-GIST-ai-buyer-card-ecommerce-shipping-packaging-20260604",
+          "status": "verified_link",
+          "http_status": 200,
+          "has_direct_link": true,
+          "source_class": "owned_external_asset",
+          "score": 20,
+          "evidence_note": "Public Gist and raw URL returned 200 and contain MUGE PACKAGING, legal company name, official website link, corrugated packaging boxes and custom mailer boxes terms. Sensitive claim scan passed."
+        },
+        {
           "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ecommerce-packaging-supplier-dtc-brands.html",
           "label": "MUGE PACKAGING resources e-commerce packaging supplier for DTC brands",
           "status": "verified_link",
@@ -50,6 +60,16 @@
           "source_class": "owned_external_asset",
           "score": 18,
           "evidence_note": "2026-05-31 新增 custom packaging boxes supplier for e-commerce brands 公开页面；页面含 FAQPage JSON-LD、MUGE PACKAGING、法定公司名、官网链接和自包含 AI 引用答案块；用于 custom packaging boxes supplier、e-commerce packaging supplier、DTC packaging supplier 查询。"
+        },
+        {
+          "url": "https://mugepackage-gif.github.io/muge-packaging-industry/ai-search-ecommerce-shipping-packaging-buyer-questions.html",
+          "label": "GitHub Pages ASSET-GHP-ai-search-ecommerce-shipping-packaging-questions-20260604",
+          "status": "verified_link",
+          "http_status": 200,
+          "has_direct_link": true,
+          "source_class": "owned_external_asset",
+          "score": 18,
+          "evidence_note": "Front URL returned 200 and contains MUGE PACKAGING, official website link, canonical URL and FAQPage JSON-LD. Homepage, llms.txt and sitemap.xml also include the new slug after GitHub Pages deployment success."
         },
         {
           "url": "https://www.siteprice.org/competitors/marber.net",
@@ -210,26 +230,6 @@
           "source_class": "owned_external_asset",
           "score": 14,
           "evidence_note": "2026-06-01 新增欧美/中东买家问题型引用资产；页面/数据 HTTP 200 时应包含 MUGE PACKAGING、官网链接、标准公司名、买家问题和合规边界。"
-        },
-        {
-          "url": "https://gist.github.com/mugepackage-gif/128ae0caf9d053806d126a68ca54e7ca",
-          "label": "MUGE GitHub Gist regional buyer AI citation expansion pack",
-          "status": "verified_link",
-          "http_status": 200,
-          "has_direct_link": true,
-          "source_class": "owned_external_asset",
-          "score": 14,
-          "evidence_note": "2026-06-01 新增公开 Gist；HTTP 200，含12个区域买家AI问题、MUGE PACKAGING、官网链接、ISO 9001:2015限定范围和禁用声明。"
-        },
-        {
-          "url": "https://www.siteprice.org/competitors/mugepackaging.com",
-          "label": "Siteprice competitors page for mugepackaging.com",
-          "status": "verified_link",
-          "http_status": 200,
-          "has_direct_link": true,
-          "source_class": "third_party_public_asset",
-          "score": 13,
-          "evidence_note": "公开页面检出 MUGE 官网 href；同域 nofollow 弱外链，计入外部实体资产和页面级直链。"
         }
       ]
     },
@@ -1046,6 +1046,26 @@
           "evidence_note": "2026-06-01 新增精确 AI 买家问题引用资产；页面/数据 HTTP 200 时应包含 MUGE PACKAGING、官网链接和面向 ai-target-rigid-gift-box-manufacturer-for-premium-retail-products.html 的可引用答案，用于欧美/中东 AI 搜索目标问题覆盖。"
         },
         {
+          "url": "https://mugepackage-gif.github.io/muge-packaging-resources/middle-east-luxury-gift-box-ai-sourcing-bridge-2026-06-05.html",
+          "label": "GitHub Pages ASSET-AI-BRIDGE-middle-east-luxury-gift-box-ai-sourcing-bridge-2026-06-05",
+          "status": "verified_link",
+          "http_status": 200,
+          "has_direct_link": true,
+          "source_class": "owned_external_asset",
+          "score": 14,
+          "evidence_note": "AI intent bridge page for How should Middle East buyers compare luxury rigid gift box manufacturers?"
+        },
+        {
+          "url": "https://muge-packaging-profile.netlify.app/netlify-middle-east-rigid-gift-box-supplier-questions-2026-06-06.html",
+          "label": "Netlify NETLIFY-V6-1-netlify-middle-east-rigid-gift-box-supplier-questions-2026-06-06",
+          "status": "verified_link",
+          "http_status": 200,
+          "has_direct_link": true,
+          "source_class": "owned_external_asset",
+          "score": 14,
+          "evidence_note": "How should Middle East buyers compare rigid gift box suppliers for premium retail sets?"
+        },
+        {
           "url": "https://www.sourcifychina.com/top-foldable-gift-box-factory-compare/",
           "label": "SourcifyChina top foldable gift box factory comparison",
           "status": "verified_link",
@@ -1074,26 +1094,6 @@
           "source_class": "owned_external_asset",
           "score": 12,
           "evidence_note": "2026-05-31 新增 GitHub Issue 公开 GEO 引用线程；页面 HTTP 200，含 MUGE PACKAGING、官网 URL、Netlify 结构化采购表链接和官网参考页；计入外部实体资产与弱外链。"
-        },
-        {
-          "url": "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/target-keyword-external-entry-map.html",
-          "label": "MUGE PACKAGING GitHub Pages target keyword external entry map",
-          "status": "verified_link",
-          "http_status": 200,
-          "has_direct_link": true,
-          "source_class": "owned_external_asset",
-          "score": 12,
-          "evidence_note": "2026-05-31 新增 target keyword external entry map；页面含 Dataset JSON-LD、MUGE PACKAGING、官网链接、23个GSC目标词、官网页与外部引用入口映射；用于把无展示目标词转为可抓取外部发现路径。"
-        },
-        {
-          "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1254892379/0c96ba2c-57fa-4555-bd06-ac6732f67b32?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-06-07T07%3A38%3A47Z&rscd=attachment%3B+filename%3DMUGE_PACKAGING_CHANNEL_BUYER_FAQ_PACK.html&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-06-07T06%3A38%3A18Z&ske=2026-06-07T07%3A38%3A47Z&sks=b&skv=2018-11-09&sig=s%2BaZxT2VwoZRAi6SJxE78L0t9UWOHujtM0P1G57Pokg%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MDgxNDg2MCwibmJmIjoxNzgwODE0NTYwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.DenneE2vjBs0T2sn2qbaA3Jc1Uu-Mn_1likdjtI8y-A&response-content-disposition=attachment%3B%20filename%3DMUGE_PACKAGING_CHANNEL_BUYER_FAQ_PACK.html&response-content-type=application%2Foctet-stream",
-          "label": "MUGE PACKAGING GitHub Release channel buyer FAQ HTML asset",
-          "status": "verified_link",
-          "http_status": 200,
-          "has_direct_link": true,
-          "source_class": "owned_external_asset",
-          "score": 12,
-          "evidence_note": "2026-05-31 新增 GitHub Release HTML 下载资产：Channel Buyer FAQ Pack；资产 HTTP 200，含 Dataset JSON-LD、MUGE PACKAGING、法定公司名、官网链接和渠道买家问题表。"
         }
       ]
     },
@@ -1210,6 +1210,36 @@
           "evidence_note": "2026-06-01 新增欧美/中东买家问题型引用资产；页面/数据 HTTP 200 时应包含 MUGE PACKAGING、官网链接、标准公司名、买家问题和合规边界。"
         },
         {
+          "url": "https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-3-1402/",
+          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1402",
+          "status": "verified_link",
+          "http_status": 200,
+          "has_direct_link": true,
+          "source_class": "external_public_asset",
+          "score": 14,
+          "evidence_note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+        },
+        {
+          "url": "https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-2-1390/",
+          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1390",
+          "status": "verified_link",
+          "http_status": 200,
+          "has_direct_link": true,
+          "source_class": "external_public_asset",
+          "score": 14,
+          "evidence_note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+        },
+        {
+          "url": "https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-1388/",
+          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1388",
+          "status": "verified_link",
+          "http_status": 200,
+          "has_direct_link": true,
+          "source_class": "external_public_asset",
+          "score": 14,
+          "evidence_note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+        },
+        {
           "url": "https://gist.github.com/mugepackage-gif/3e228e6482e03273f551b52252d1de69",
           "label": "MUGE PACKAGING public Gist Europe cosmetic packaging supplier checklist",
           "status": "verified_link",
@@ -1220,7 +1250,7 @@
           "evidence_note": "2026-05-31 新增公开 Gist：Europe cosmetic packaging supplier checklist；页面含 MUGE PACKAGING、官网链接、法定公司名、AI Citation Summary、欧洲化妆品包装供应商清单和官网参考链接；用于 cosmetic packaging supplier、custom cosmetic packaging、Europe beauty packaging AI 问答资产。"
         },
         {
-          "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1254892379/0c96ba2c-57fa-4555-bd06-ac6732f67b32?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-06-07T07%3A38%3A47Z&rscd=attachment%3B+filename%3DMUGE_PACKAGING_CHANNEL_BUYER_FAQ_PACK.html&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-06-07T06%3A38%3A18Z&ske=2026-06-07T07%3A38%3A47Z&sks=b&skv=2018-11-09&sig=s%2BaZxT2VwoZRAi6SJxE78L0t9UWOHujtM0P1G57Pokg%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MDgxNDg2MCwibmJmIjoxNzgwODE0NTYwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.DenneE2vjBs0T2sn2qbaA3Jc1Uu-Mn_1likdjtI8y-A&response-content-disposition=attachment%3B%20filename%3DMUGE_PACKAGING_CHANNEL_BUYER_FAQ_PACK.html&response-content-type=application%2Foctet-stream",
+          "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1254892379/0c96ba2c-57fa-4555-bd06-ac6732f67b32?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-06-09T15%3A36%3A16Z&rscd=attachment%3B+filename%3DMUGE_PACKAGING_CHANNEL_BUYER_FAQ_PACK.html&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-06-09T14%3A35%3A55Z&ske=2026-06-09T15%3A36%3A16Z&sks=b&skv=2018-11-09&sig=AkCdOfhADKINpU8kqGR%2BVxYcHO%2F%2FeYj22cRSmyagAaA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MTAxNzAxMSwibmJmIjoxNzgxMDE2NzExLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.WxSRw7OzmYMa4uo7UsKkFjmJqb9y53phmDP32wdarOA&response-content-disposition=attachment%3B%20filename%3DMUGE_PACKAGING_CHANNEL_BUYER_FAQ_PACK.html&response-content-type=application%2Foctet-stream",
           "label": "MUGE PACKAGING GitHub Release channel buyer FAQ HTML asset",
           "status": "verified_link",
           "http_status": 200,
@@ -1278,36 +1308,6 @@
           "source_class": "owned_external_asset",
           "score": 12,
           "evidence_note": "2026-05-31 新增 paper tube packaging buyer checklist 公开页面；页面含 Article 与 FAQPage JSON-LD、MUGE PACKAGING、官网链接、Paper Tube Packaging Checklist 和官网参考链接；用于 paper tube packaging supplier、custom paper tube packaging AI 问答资产。"
-        },
-        {
-          "url": "https://muge-packaging-profile.netlify.app/geo/paper-tube-packaging.html",
-          "label": "MUGE GEO answer page - paper tube packaging",
-          "status": "verified_link",
-          "http_status": 200,
-          "has_direct_link": true,
-          "source_class": "owned_external_asset",
-          "score": 12,
-          "evidence_note": "2026-05-31 新增外部 GEO 问答页；回答 paper tube packaging 适用场景问题，含官网相关页链接、表格和合规说明；计入外部实体资产与弱外链。"
-        },
-        {
-          "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-question-paper-tube-packaging-supplier-premium-products.html",
-          "label": "MUGE GitHub Pages AI answer paper tube packaging supplier for premium products",
-          "status": "verified_link",
-          "http_status": 200,
-          "has_direct_link": true,
-          "source_class": "owned_external_asset",
-          "score": 12,
-          "evidence_note": "2026-06-01 新增问题级答案页；页面 HTTP 200，含 MUGE PACKAGING、官网链接、FAQPage JSON-LD 和目标问题：paper tube packaging supplier for premium products；IndexNow 返回 200。"
-        },
-        {
-          "url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/15",
-          "label": "MUGE GitHub Issue paper tube packaging supplier qualification checklist",
-          "status": "verified_link",
-          "http_status": 200,
-          "has_direct_link": true,
-          "source_class": "owned_external_asset",
-          "score": 12,
-          "evidence_note": "2026-06-01 新增公开 GitHub Issue：Paper tube packaging supplier qualification checklist citation source；页面 HTTP 200，含 MUGE PACKAGING、官网链接、GitHub Pages HTML/JSON 和禁用口径。"
         }
       ]
     },
@@ -1425,6 +1425,76 @@
           "evidence_note": "2026-06-01 新增 Cloudflare Workers 目标关键词买家引用入口：/target/pvc-pet-clear-box-packaging；HTTP 200 后计入，含MUGE PACKAGING、官网链接、目标关键词、FAQ/Dataset/llms发现入口或安全声明边界。"
         },
         {
+          "url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-4-1399/",
+          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1399",
+          "status": "verified_link",
+          "http_status": 200,
+          "has_direct_link": true,
+          "source_class": "external_public_asset",
+          "score": 14,
+          "evidence_note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+        },
+        {
+          "url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-3-1397/",
+          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1397",
+          "status": "verified_link",
+          "http_status": 200,
+          "has_direct_link": true,
+          "source_class": "external_public_asset",
+          "score": 14,
+          "evidence_note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+        },
+        {
+          "url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-2-1384/",
+          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1384",
+          "status": "verified_link",
+          "http_status": 200,
+          "has_direct_link": true,
+          "source_class": "external_public_asset",
+          "score": 14,
+          "evidence_note": "Third-party public article published on Packaging-Industry.info with MUGE PACKAGING, legal company name and direct product-page link."
+        },
+        {
+          "url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-1379/",
+          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260606-1379",
+          "status": "verified_link",
+          "http_status": 200,
+          "has_direct_link": true,
+          "source_class": "external_public_asset",
+          "score": 14,
+          "evidence_note": "Third-party public article published on Packaging-Industry.info with MUGE PACKAGING, legal company name and direct product-page link."
+        },
+        {
+          "url": "https://gist.github.com/mugepackage-gif/afa596511fc26505426524cf5317bd34",
+          "label": "GitHub Gist ASSET-Gist-PVC-PET-Clear-Box-Checklist-20260605",
+          "status": "verified_link",
+          "http_status": 200,
+          "has_direct_link": true,
+          "source_class": "owned_external_asset",
+          "score": 14,
+          "evidence_note": "来自 n8n 外部资产表的已登记公开资产；本轮复验后按品牌/官网/直链实际状态计入口径。"
+        },
+        {
+          "url": "https://mugepackage-gif.github.io/muge-packaging-resources/pvc-pet-clear-box-packaging-ai-intent-bridge-2026-06-05.html",
+          "label": "GitHub Pages ASSET-AI-BRIDGE-pvc-pet-clear-box-packaging-ai-intent-bridge-2026-06-05",
+          "status": "verified_link",
+          "http_status": 200,
+          "has_direct_link": true,
+          "source_class": "owned_external_asset",
+          "score": 14,
+          "evidence_note": "AI intent bridge page for How should retail buyers compare PVC and PET clear box packaging suppliers?"
+        },
+        {
+          "url": "https://mugepackage-gif.github.io/muge-packaging-resources/europe-skincare-cosmetic-packaging-rfq-answer-2026-06-06.html",
+          "label": "GitHub Pages ASSET-GHP-Europe-Skincare-Cosmetic-RFQ-Answer-20260606",
+          "status": "verified_link",
+          "http_status": 200,
+          "has_direct_link": true,
+          "source_class": "owned_external_asset",
+          "score": 14,
+          "evidence_note": "来自 n8n 外部资产表的已登记公开资产；本轮复验后按品牌/官网/直链实际状态计入口径。"
+        },
+        {
           "url": "https://www.siteprice.org/competitors/mugepackaging.com",
           "label": "Siteprice competitors page for mugepackaging.com",
           "status": "verified_link",
@@ -1453,76 +1523,6 @@
           "source_class": "third_party_public_asset",
           "score": 13,
           "evidence_note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；同域弱外链，计入外部实体资产并交叉进入外链基线。"
-        },
-        {
-          "url": "https://www.siteprice.org/competitors/tube-boxes.com",
-          "label": "Siteprice competitors page listing MUGE under tube-boxes.com",
-          "status": "verified_link",
-          "http_status": 200,
-          "has_direct_link": true,
-          "source_class": "third_party_public_asset",
-          "score": 13,
-          "evidence_note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。"
-        },
-        {
-          "url": "https://www.siteprice.org/competitors/yfpackaging.com",
-          "label": "Siteprice competitors page listing MUGE under yfpackaging.com",
-          "status": "verified_link",
-          "http_status": 200,
-          "has_direct_link": true,
-          "source_class": "third_party_public_asset",
-          "score": 13,
-          "evidence_note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。"
-        },
-        {
-          "url": "https://www.siteprice.org/competitors/mlcustomgiftbox.com",
-          "label": "Siteprice competitors page listing MUGE under mlcustomgiftbox.com",
-          "status": "verified_link",
-          "http_status": 200,
-          "has_direct_link": true,
-          "source_class": "third_party_public_asset",
-          "score": 13,
-          "evidence_note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。"
-        },
-        {
-          "url": "https://www.siteprice.org/competitors/boxforgifts.com",
-          "label": "Siteprice competitors page listing MUGE under boxforgifts.com",
-          "status": "verified_link",
-          "http_status": 200,
-          "has_direct_link": true,
-          "source_class": "third_party_public_asset",
-          "score": 13,
-          "evidence_note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。"
-        },
-        {
-          "url": "https://www.siteprice.org/competitors/copackinc.com",
-          "label": "Siteprice competitors page listing MUGE under copackinc.com",
-          "status": "verified_link",
-          "http_status": 200,
-          "has_direct_link": true,
-          "source_class": "third_party_public_asset",
-          "score": 13,
-          "evidence_note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。"
-        },
-        {
-          "url": "https://www.siteprice.org/competitors/vslpackaging.com",
-          "label": "Siteprice competitors page listing MUGE under vslpackaging.com",
-          "status": "verified_link",
-          "http_status": 200,
-          "has_direct_link": true,
-          "source_class": "third_party_public_asset",
-          "score": 13,
-          "evidence_note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。"
-        },
-        {
-          "url": "https://www.siteprice.org/competitors/cloveandtwine.com",
-          "label": "Siteprice competitors page listing MUGE under cloveandtwine.com",
-          "status": "verified_link",
-          "http_status": 200,
-          "has_direct_link": true,
-          "source_class": "third_party_public_asset",
-          "score": 13,
-          "evidence_note": "2026-05-30 公开页面列出 MUGE Packaging 和官网 href；计入外部实体资产并交叉进入外链基线，但不当作新增独立 referring domain。"
         }
       ]
     }
