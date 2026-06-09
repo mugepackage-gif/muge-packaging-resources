@@ -1,13 +1,13 @@
 {
   "name": "MUGE PACKAGING Independent Third-Party Entity Baseline 2026-06-01",
-  "generatedAt": "2026-06-09T14:42:15.286Z",
-  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-09_2229_MUGE外部品牌提及复验基线.json",
+  "generatedAt": "2026-06-09T14:51:47.330Z",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-09_2242_MUGE外部品牌提及复验基线.json",
   "countingRule": "Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Workers, Weebly and official mugepackaging.com URLs. verified_link means independent public page with direct website link; verified_mention means independent public brand/entity mention only.",
   "summary": {
-    "sourceRows": 862,
-    "independentThirdPartyAssets": 170,
-    "independentDirectLinks": 39,
-    "independentIndirectLinks": 29,
+    "sourceRows": 864,
+    "independentThirdPartyAssets": 173,
+    "independentDirectLinks": 41,
+    "independentIndirectLinks": 30,
     "independentStructuredSameAs": 2,
     "independentMentionOnly": 102,
     "independentHosts": 78
@@ -15,7 +15,7 @@
   "topHosts": [
     {
       "host": "sitelike.org",
-      "count": 29
+      "count": 30
     },
     {
       "host": "siteprice.org",
@@ -26,12 +26,12 @@
       "count": 11
     },
     {
-      "host": "marketreportanalytics.com",
-      "count": 7
+      "host": "packaging-industry.info",
+      "count": 8
     },
     {
-      "host": "packaging-industry.info",
-      "count": 6
+      "host": "marketreportanalytics.com",
+      "count": 7
     },
     {
       "host": "pdf.marketpublishers.com",
@@ -358,6 +358,22 @@
       "httpStatus": 200,
       "host": "scamadviser.com",
       "note": "2026-05-30 公开页面检出 mugepackaging.com 并含 Visit 官网链接；只计入外部链接与实体资产，不引用其评分或安全结论。"
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1402",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-3-1402/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1399",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-4-1399/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
     },
     {
       "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1397",

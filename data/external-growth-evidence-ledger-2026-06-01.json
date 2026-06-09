@@ -18,6 +18,26 @@
   ],
   "verified_external_results": [
     {
+      "type": "independent_third_party_direct_link_update_pack",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/independent-third-party-direct-link-update-pack-2026-06-01.html",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/independent-third-party-direct-link-update-pack-2026-06-01.json",
+      "source_baseline_json": "/Users/molice/muge-packaging-resources/data/independent-third-party-entity-baseline-2026-06-01.json",
+      "source_gsc_bridge_json": "/Users/molice/muge-packaging-resources/data/gsc-p0-p1-opportunity-link-bridge-2026-06-01.json",
+      "summary": {
+        "independent_third_party_assets": 170,
+        "independent_direct_links": 39,
+        "independent_hosts": 78,
+        "update_items": 39,
+        "priority_A": 4,
+        "priority_B": 13,
+        "priority_C": 22,
+        "mapped_official_p0_p1_pages": 7
+      },
+      "verification": "Strict independent-third-party-only pack. Maps 39 verified independent direct-link pages across 78 hosts to official MUGE PACKAGING P0/P1 pages for manual profile correction and editor requests.",
+      "counting_rule": "Counts as a verified public execution asset and crawlable P0/P1 link-update routing source; it does not count as completed manual outreach or a new backlink until the third-party page changes are verified."
+    },
+    {
       "type": "top_20_backlink_opportunity_live_precheck",
       "platform": "GitHub Pages",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/top-20-backlink-opportunity-live-precheck-2026-06-01.html",
@@ -49,26 +69,6 @@
       },
       "verification": "Maps 10 AI buyer questions to readable MUGE citation pages and third-party support URLs, including 25 independent direct-link supports and 2 independent mention supports.",
       "counting_rule": "Counts as a verified public GEO support-routing asset; third-party sources are support signals only and not certification, customer case, price, MOQ, lead-time or compliance proof."
-    },
-    {
-      "type": "independent_third_party_direct_link_update_pack",
-      "platform": "GitHub Pages",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/independent-third-party-direct-link-update-pack-2026-06-01.html",
-      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/independent-third-party-direct-link-update-pack-2026-06-01.json",
-      "source_baseline_json": "/Users/molice/muge-packaging-resources/data/independent-third-party-entity-baseline-2026-06-01.json",
-      "source_gsc_bridge_json": "/Users/molice/muge-packaging-resources/data/gsc-p0-p1-opportunity-link-bridge-2026-06-01.json",
-      "summary": {
-        "independent_third_party_assets": 164,
-        "independent_direct_links": 36,
-        "independent_hosts": 75,
-        "update_items": 36,
-        "priority_A": 4,
-        "priority_B": 13,
-        "priority_C": 19,
-        "mapped_official_p0_p1_pages": 7
-      },
-      "verification": "Strict independent-third-party-only pack. Maps 36 verified independent direct-link pages across 75 hosts to official MUGE PACKAGING P0/P1 pages for manual profile correction and editor requests.",
-      "counting_rule": "Counts as a verified public execution asset and crawlable P0/P1 link-update routing source; it does not count as completed manual outreach or a new backlink until the third-party page changes are verified."
     },
     {
       "type": "priority_a_third_party_link_editor_request_pack",
@@ -694,7 +694,7 @@
     "target_keywords_clicked": 0,
     "target_keyword_audit_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1218_目标关键词排名验收.json"
   },
-  "generatedAt": "2026-06-09T14:42:15.286Z",
+  "generatedAt": "2026-06-09T14:51:47.330Z",
   "entries": [
     {
       "timestamp": "2026-06-01T05:48:33.088Z",
@@ -1195,6 +1195,20 @@
       "result": "advanced_verified_external_baseline",
       "independentThirdPartyAssets": 170,
       "independentDirectLinks": 39,
+      "independentMentionOnly": 102,
+      "independentHosts": 78,
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/independent-third-party-entity-baseline-2026-06-01.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/independent-third-party-entity-baseline-2026-06-01.json"
+      ],
+      "countingNote": "Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Workers, Weebly and official mugepackaging.com URLs. verified_link means independent public page with direct website link; verified_mention means independent public brand/entity mention only."
+    },
+    {
+      "timestamp": "2026-06-09T14:51:47.330Z",
+      "category": "independent_third_party_entity_baseline",
+      "result": "advanced_verified_external_baseline",
+      "independentThirdPartyAssets": 173,
+      "independentDirectLinks": 41,
       "independentMentionOnly": 102,
       "independentHosts": 78,
       "publicEvidence": [

@@ -10,11 +10,11 @@ date: 2026-06-01
 
 # MUGE PACKAGING 独立第三方外部实体基线
 
-- Generated at: 2026-06-09T14:42:15.286Z
+- Generated at: 2026-06-09T14:51:47.330Z
 - Official website: https://mugepackaging.com
-- Independent third-party assets: 170
-- Independent direct website links: 39
-- Independent indirect links: 29
+- Independent third-party assets: 173
+- Independent direct website links: 41
+- Independent indirect links: 30
 - Independent structured sameAs: 2
 - Independent mention-only assets: 102
 - Independent hosts: 78
@@ -27,11 +27,11 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 
 | Host | Count |
 |---|---:|
-| sitelike.org | 29 |
+| sitelike.org | 30 |
 | siteprice.org | 12 |
 | made-in-china.com | 11 |
+| packaging-industry.info | 8 |
 | marketreportanalytics.com | 7 |
-| packaging-industry.info | 6 |
 | pdf.marketpublishers.com | 4 |
 | 5e20301203be8.site123.me | 4 |
 | playervirus18.pythonanywhere.com | 3 |
@@ -90,6 +90,8 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | YellowPagesOnline MUGE business profile | B2B资料页 | yellowpagesonline.com | 200 | https://www.yellowpagesonline.com/china/shenzhen-shi/boxes-retail/muge-packaging |
 | Azure Blob gift box with window image source mention | 图片来源聚合页 | giofgrzaa.blob.core.windows.net | 200 | https://giofgrzaa.blob.core.windows.net/gift-box-with-window.html |
 | ScamAdviser MUGE website check page | 域名声誉/安全检查页 | scamadviser.com | 200 | https://www.scamadviser.com/check-website/mugepackaging.com |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1402 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-3-1402/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1399 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-4-1399/ |
 | Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1397 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-3-1397/ |
 | Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1384 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-2-1384/ |
 | Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1390 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-2-1390/ |
