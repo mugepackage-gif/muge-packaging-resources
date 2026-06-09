@@ -18,19 +18,22 @@
   ],
   "verified_external_results": [
     {
-      "type": "top_20_backlink_opportunity_live_precheck",
+      "type": "ai_buyer_question_third_party_support_map",
       "platform": "GitHub Pages",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/top-20-backlink-opportunity-live-precheck-2026-06-01.html",
-      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/top-20-backlink-opportunity-live-precheck-2026-06-01.md",
-      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/top-20-backlink-opportunity-live-precheck-2026-06-01.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-buyer-question-third-party-support-map-2026-06-01.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-buyer-question-third-party-support-map-2026-06-01.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-buyer-question-third-party-support-map-2026-06-01.json",
       "summary": {
-        "total": 20,
-        "reachable": 13,
-        "form_signal": 18,
-        "p0_p1": 15
+        "questions": 10,
+        "questions_with_support": 10,
+        "independent_direct_link_supports": 20,
+        "independent_entity_mention_supports": 7,
+        "baseline_independent_assets": 151,
+        "baseline_independent_direct_links": 27,
+        "baseline_independent_hosts": 67
       },
-      "verification": "Live precheck of 20 backlink/entity opportunities. 13 reachable and 18 with submission/contact/profile signals.",
-      "counting_rule": "Counts as a verified public execution and prioritization asset; individual third-party listings/backlinks only count after the external platform publishes a public URL with the official link."
+      "verification": "Maps 10 AI buyer questions to readable MUGE citation pages and third-party support URLs, including 20 independent direct-link supports and 7 independent mention supports.",
+      "counting_rule": "Counts as a verified public GEO support-routing asset; third-party sources are support signals only and not certification, customer case, price, MOQ, lead-time or compliance proof."
     },
     {
       "type": "priority_a_third_party_link_editor_request_pack",
@@ -46,6 +49,21 @@
       },
       "verification": "Generated copy-ready editor request pack for 4 unique A-priority third-party pages. Precheck confirmed 4 reachable pages and 4 pages already containing the official domain.",
       "counting_rule": "Counts as a verified public execution asset and manual outreach source; it does not count as completed outreach or new backlink movement until platform changes are submitted and reverified."
+    },
+    {
+      "type": "top_20_backlink_opportunity_live_precheck",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/top-20-backlink-opportunity-live-precheck-2026-06-01.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/top-20-backlink-opportunity-live-precheck-2026-06-01.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/top-20-backlink-opportunity-live-precheck-2026-06-01.json",
+      "summary": {
+        "total": 20,
+        "reachable": 13,
+        "form_signal": 18,
+        "p0_p1": 15
+      },
+      "verification": "Live precheck of 20 backlink/entity opportunities. 13 reachable and 18 with submission/contact/profile signals.",
+      "counting_rule": "Counts as a verified public execution and prioritization asset; individual third-party listings/backlinks only count after the external platform publishes a public URL with the official link."
     },
     {
       "type": "independent_third_party_direct_link_update_pack",
@@ -66,24 +84,6 @@
       },
       "verification": "Strict independent-third-party-only pack. Maps 28 verified independent direct-link pages across 68 hosts to official MUGE PACKAGING P0/P1 pages for manual profile correction and editor requests.",
       "counting_rule": "Counts as a verified public execution asset and crawlable P0/P1 link-update routing source; it does not count as completed manual outreach or a new backlink until the third-party page changes are verified."
-    },
-    {
-      "type": "ai_buyer_question_third_party_support_map",
-      "platform": "GitHub Pages",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-buyer-question-third-party-support-map-2026-06-01.html",
-      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-buyer-question-third-party-support-map-2026-06-01.md",
-      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-buyer-question-third-party-support-map-2026-06-01.json",
-      "summary": {
-        "questions": 10,
-        "questions_with_support": 10,
-        "independent_direct_link_supports": 23,
-        "independent_entity_mention_supports": 4,
-        "baseline_independent_assets": 162,
-        "baseline_independent_direct_links": 28,
-        "baseline_independent_hosts": 73
-      },
-      "verification": "Maps 10 AI buyer questions to readable MUGE citation pages and third-party support URLs, including 23 independent direct-link supports and 4 independent mention supports.",
-      "counting_rule": "Counts as a verified public GEO support-routing asset; third-party sources are support signals only and not certification, customer case, price, MOQ, lead-time or compliance proof."
     },
     {
       "type": "third_party_public_directory_link",

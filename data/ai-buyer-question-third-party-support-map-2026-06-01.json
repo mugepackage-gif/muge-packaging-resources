@@ -1,6 +1,6 @@
 {
   "name": "MUGE PACKAGING AI Buyer Question Third-Party Support Map 2026-06-01",
-  "generated_at": "2026-06-01T07:31:50.022Z",
+  "generated_at": "2026-06-09T07:07:40.615Z",
   "brand": "MUGE PACKAGING",
   "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "source_baseline_json": "/Users/molice/muge-packaging-resources/data/independent-third-party-entity-baseline-2026-06-01.json",
@@ -10,11 +10,11 @@
   "summary": {
     "questions": 10,
     "questions_with_support": 10,
-    "independent_direct_link_supports": 23,
-    "independent_entity_mention_supports": 4,
-    "baseline_independent_assets": 162,
-    "baseline_independent_direct_links": 28,
-    "baseline_independent_hosts": 73
+    "independent_direct_link_supports": 20,
+    "independent_entity_mention_supports": 7,
+    "baseline_independent_assets": 151,
+    "baseline_independent_direct_links": 27,
+    "baseline_independent_hosts": 67
   },
   "mappings": [
     {
@@ -32,16 +32,6 @@
       ],
       "supports": [
         {
-          "label": "MUGE Zearches Business & Company Sites listing",
-          "type": "第三方免费目录直接外链",
-          "url": "https://zearches.com/directory.php?slug=business-company",
-          "host": "zearches.com",
-          "http_status": 200,
-          "source_class": "independent_direct_link",
-          "support_role": "entity_and_direct_link_support",
-          "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
-        },
-        {
           "label": "ProvenExpert Muge Packaging public profile",
           "type": "第三方公司资料页",
           "url": "https://www.provenexpert.com/en-us/muge-packaging/",
@@ -52,13 +42,23 @@
           "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
         },
         {
-          "label": "Zearches Business & Company Sites directory page",
-          "type": "公开目录页",
-          "url": "https://zearches.com/directory.php?slug=business-company",
-          "host": "zearches.com",
+          "label": "Bizidex MUGE business directory profile",
+          "type": "B2B资料页",
+          "url": "https://bizidex.com/en/muge-packaging-packaging-foam-cushioning-containers-134824",
+          "host": "bizidex.com",
           "http_status": 200,
           "source_class": "independent_direct_link",
           "support_role": "entity_and_direct_link_support",
+          "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
+        },
+        {
+          "label": "FeedingTrends coated paper packaging box market mention",
+          "type": "市场报告转载页",
+          "url": "https://feedingtrends.com/coated-paper-packaging-box-market-growth-and-covid-19-impact-analy",
+          "host": "feedingtrends.com",
+          "http_status": 200,
+          "source_class": "independent_entity_mention",
+          "support_role": "entity_or_topic_mention_support",
           "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
         }
       ]
@@ -87,19 +87,19 @@
           "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
         },
         {
-          "label": "DataIntelo magnetic closure boxes market report",
-          "type": "市场报告",
-          "url": "https://dataintelo.com/report/magnetic-closure-boxes-market",
-          "host": "dataintelo.com",
+          "label": "Mercatora homepage verified suppliers section",
+          "type": "B2B平台首页",
+          "url": "https://www.mercatora.com/",
+          "host": "mercatora.com",
           "http_status": 200,
           "source_class": "independent_entity_mention",
           "support_role": "entity_or_topic_mention_support",
           "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
         },
         {
-          "label": "Mercatora homepage verified suppliers section",
-          "type": "B2B平台首页",
-          "url": "https://www.mercatora.com/",
+          "label": "Mercatora MUGE company profile",
+          "type": "B2B资料页",
+          "url": "https://www.mercatora.com/companies/shenzhen-muge-design-packaging-product-co-ltd-3a52f2",
           "host": "mercatora.com",
           "http_status": 200,
           "source_class": "independent_entity_mention",
@@ -178,20 +178,20 @@
           "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
         },
         {
-          "label": "MUGE Zearches Business & Company Sites listing",
-          "type": "第三方免费目录直接外链",
-          "url": "https://zearches.com/directory.php?slug=business-company",
-          "host": "zearches.com",
+          "label": "Mercatora MUGE company profile",
+          "type": "B2B资料页",
+          "url": "https://www.mercatora.com/companies/shenzhen-muge-design-packaging-product-co-ltd-3a52f2",
+          "host": "mercatora.com",
           "http_status": 200,
-          "source_class": "independent_direct_link",
-          "support_role": "entity_and_direct_link_support",
+          "source_class": "independent_entity_mention",
+          "support_role": "entity_or_topic_mention_support",
           "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
         },
         {
-          "label": "DataIntelo L type paper edge protectors market report",
-          "type": "市场报告",
-          "url": "https://dataintelo.com/report/global-l-type-paper-edge-protectors-market",
-          "host": "dataintelo.com",
+          "label": "Old Reddit paper tube box MUGE historical post",
+          "type": "历史社媒帖",
+          "url": "https://old.reddit.com/r/u_mugepackagingg/comments/mrzy2m",
+          "host": "old.reddit.com",
           "http_status": 200,
           "source_class": "independent_entity_mention",
           "support_role": "entity_or_topic_mention_support",
@@ -279,10 +279,10 @@
           "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
         },
         {
-          "label": "Zearches Business & Company Sites directory page",
-          "type": "公开目录页",
-          "url": "https://zearches.com/directory.php?slug=business-company",
-          "host": "zearches.com",
+          "label": "Antech hexagon box wiki source attribution",
+          "type": "行业百科引用页",
+          "url": "https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/",
+          "host": "antech.ru",
           "http_status": 200,
           "source_class": "independent_direct_link",
           "support_role": "entity_and_direct_link_support",
@@ -431,20 +431,20 @@
           "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
         },
         {
-          "label": "MUGE Zearches Business & Company Sites listing",
-          "type": "第三方免费目录直接外链",
-          "url": "https://zearches.com/directory.php?slug=business-company",
-          "host": "zearches.com",
+          "label": "FeedingTrends coated paper packaging box market mention",
+          "type": "市场报告转载页",
+          "url": "https://feedingtrends.com/coated-paper-packaging-box-market-growth-and-covid-19-impact-analy",
+          "host": "feedingtrends.com",
           "http_status": 200,
-          "source_class": "independent_direct_link",
-          "support_role": "entity_and_direct_link_support",
+          "source_class": "independent_entity_mention",
+          "support_role": "entity_or_topic_mention_support",
           "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
         },
         {
-          "label": "DataIntelo magnetic closure boxes market report",
+          "label": "MarketReportAnalytics coated paper packaging box report 364977",
           "type": "市场报告",
-          "url": "https://dataintelo.com/report/magnetic-closure-boxes-market",
-          "host": "dataintelo.com",
+          "url": "https://www.marketreportanalytics.com/reports/coated-paper-packaging-box-364977",
+          "host": "marketreportanalytics.com",
           "http_status": 200,
           "source_class": "independent_entity_mention",
           "support_role": "entity_or_topic_mention_support",
