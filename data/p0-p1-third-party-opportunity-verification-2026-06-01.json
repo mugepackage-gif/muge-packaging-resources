@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-05T15:42:46.106Z",
+  "generated_at": "2026-06-09T05:54:55.142Z",
   "source_json": "/Users/molice/muge-packaging-resources/data/p0-p1-third-party-link-update-pack-2026-06-01.json",
   "brand": "MUGE PACKAGING",
   "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "website": "https://mugepackaging.com",
   "summary": {
-    "total": 12,
-    "verified_direct_link": 8,
+    "total": 14,
+    "verified_direct_link": 14,
     "verified_entity_signal": 0,
-    "reachable_needs_manual_review": 4,
+    "reachable_needs_manual_review": 0,
     "blocked_or_unreachable_recheck_later": 0
   },
   "items": [
@@ -231,14 +231,14 @@
       "http_status": 200,
       "final_url": "https://www.siteprice.org/competitors/packmojo.com",
       "fetch_error": null,
-      "has_official_href": false,
-      "has_official_text": false,
-      "has_brand": false,
-      "has_brand_or_domain": false,
-      "live_status": "reachable_needs_manual_review",
-      "snippet_brand": "",
-      "snippet_domain": "",
-      "next_action": "页面可访问但未检出品牌/官网；需要人工打开复核页面渲染内容或搜索页内 MUGE。"
+      "has_official_href": true,
+      "has_official_text": true,
+      "has_brand": true,
+      "has_brand_or_domain": true,
+      "live_status": "verified_direct_link",
+      "snippet_brand": "-center\"> <a href='https://www.siteprice.org/competitors/mugepackaging.com'> <img loading=\"lazy\" src=\"https://www.siteprice.org/SiteThumbs/m/mugepackaging.com.webp\" alt=\"mugepackag",
+      "snippet_domain": "-center\"> <a href='https://www.siteprice.org/competitors/mugepackaging.com'> <img loading=\"lazy\" src=\"https://www.siteprice.org/SiteThumbs/m/mugepackaging.com.webp\" alt=\"mugepackag",
+      "next_action": "保留为已验证第三方 direct link；下一步只做周期复验，不引用页面估值、流量、客户、产能、价格或认证。"
     },
     {
       "priority": "A",
@@ -261,14 +261,14 @@
       "http_status": 200,
       "final_url": "https://www.siteprice.org/competitors/tube-boxes.com",
       "fetch_error": null,
-      "has_official_href": false,
-      "has_official_text": false,
-      "has_brand": false,
-      "has_brand_or_domain": false,
-      "live_status": "reachable_needs_manual_review",
-      "snippet_brand": "",
-      "snippet_domain": "",
-      "next_action": "页面可访问但未检出品牌/官网；需要人工打开复核页面渲染内容或搜索页内 MUGE。"
+      "has_official_href": true,
+      "has_official_text": true,
+      "has_brand": true,
+      "has_brand_or_domain": true,
+      "live_status": "verified_direct_link",
+      "snippet_brand": "-center\"> <a href='https://www.siteprice.org/competitors/mugepackaging.com'> <img loading=\"lazy\" src=\"https://www.siteprice.org/SiteThumbs/m/mugepackaging.com.webp\" alt=\"mugepackag",
+      "snippet_domain": "-center\"> <a href='https://www.siteprice.org/competitors/mugepackaging.com'> <img loading=\"lazy\" src=\"https://www.siteprice.org/SiteThumbs/m/mugepackaging.com.webp\" alt=\"mugepackag",
+      "next_action": "保留为已验证第三方 direct link；下一步只做周期复验，不引用页面估值、流量、客户、产能、价格或认证。"
     },
     {
       "priority": "B",
@@ -326,6 +326,54 @@
     },
     {
       "priority": "B",
+      "url": "https://cn.linkedin.com/company/mugepackaging",
+      "host": "cn.linkedin.com",
+      "mapped_official_pages": [
+        {
+          "target_id": "rigid-gift-box",
+          "priority": "P0/P1",
+          "label": "Rigid gift box structure and material",
+          "official_url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://cn.linkedin.com/company/mugepackaging",
+      "fetch_error": null,
+      "has_official_href": true,
+      "has_official_text": true,
+      "has_brand": true,
+      "has_brand_or_domain": true,
+      "live_status": "verified_direct_link",
+      "snippet_brand": "uest-enabled=\"true\"> <link rel=\"canonical\" href=\"https://cn.linkedin.com/company/mugepackaging\"> <link rel=\"alternate\" hreflang=\"zh-CN\" href=\"https://cn.linkedin.com/company/mugepackaging\"> <link rel=\"alternate\" hreflang=",
+      "snippet_domain": "text\":\"Elevate your brand with custom luxury packaging. Expert design, global shipping at mugepackaging.com. 📦✨\\n\\n#MugePackaging\",\"url\":\"https://www.linkedin.com/posts/mugepackaging_mugepackaging-activity-7468494104167882754-7RVS\"},{\"@context\":\"htt",
+      "next_action": "保留为已验证第三方 direct link；下一步只做周期复验，不引用页面估值、流量、客户、产能、价格或认证。"
+    },
+    {
+      "priority": "B",
+      "url": "https://www.linkedin.com/company/mugepackaging/",
+      "host": "linkedin.com",
+      "mapped_official_pages": [
+        {
+          "target_id": "rigid-gift-box",
+          "priority": "P0/P1",
+          "label": "Rigid gift box structure and material",
+          "official_url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://www.linkedin.com/company/mugepackaging/",
+      "fetch_error": null,
+      "has_official_href": true,
+      "has_official_text": true,
+      "has_brand": true,
+      "has_brand_or_domain": true,
+      "live_status": "verified_direct_link",
+      "snippet_brand": "uest-enabled=\"true\"> <link rel=\"canonical\" href=\"https://cn.linkedin.com/company/mugepackaging\"> <!----><!----> <!----> <!----> <meta property=\"al:android:url\" content=\"https://cn.linkedin.com/company/mugepackaging\"> <met",
+      "snippet_domain": "text\":\"Elevate your brand with custom luxury packaging. Expert design, global shipping at mugepackaging.com. 📦✨\\n\\n#MugePackaging\",\"url\":\"https://www.linkedin.com/posts/mugepackaging_mugepackaging-activity-7468494104167882754-7RVS\"},{\"@context\":\"htt",
+      "next_action": "保留为已验证第三方 direct link；下一步只做周期复验，不引用页面估值、流量、客户、产能、价格或认证。"
+    },
+    {
+      "priority": "B",
       "url": "https://www.siteprice.org/competitors/boxforgifts.com",
       "host": "siteprice.org",
       "mapped_official_pages": [
@@ -339,14 +387,14 @@
       "http_status": 200,
       "final_url": "https://www.siteprice.org/competitors/boxforgifts.com",
       "fetch_error": null,
-      "has_official_href": false,
-      "has_official_text": false,
-      "has_brand": false,
-      "has_brand_or_domain": false,
-      "live_status": "reachable_needs_manual_review",
-      "snippet_brand": "",
-      "snippet_domain": "",
-      "next_action": "页面可访问但未检出品牌/官网；需要人工打开复核页面渲染内容或搜索页内 MUGE。"
+      "has_official_href": true,
+      "has_official_text": true,
+      "has_brand": true,
+      "has_brand_or_domain": true,
+      "live_status": "verified_direct_link",
+      "snippet_brand": "-center\"> <a href='https://www.siteprice.org/competitors/mugepackaging.com'> <img loading=\"lazy\" src=\"https://www.siteprice.org/SiteThumbs/m/mugepackaging.com.webp\" alt=\"mugepackag",
+      "snippet_domain": "-center\"> <a href='https://www.siteprice.org/competitors/mugepackaging.com'> <img loading=\"lazy\" src=\"https://www.siteprice.org/SiteThumbs/m/mugepackaging.com.webp\" alt=\"mugepackag",
+      "next_action": "保留为已验证第三方 direct link；下一步只做周期复验，不引用页面估值、流量、客户、产能、价格或认证。"
     },
     {
       "priority": "B",
@@ -363,14 +411,14 @@
       "http_status": 200,
       "final_url": "https://www.siteprice.org/competitors/vslpackaging.com",
       "fetch_error": null,
-      "has_official_href": false,
-      "has_official_text": false,
-      "has_brand": false,
-      "has_brand_or_domain": false,
-      "live_status": "reachable_needs_manual_review",
-      "snippet_brand": "",
-      "snippet_domain": "",
-      "next_action": "页面可访问但未检出品牌/官网；需要人工打开复核页面渲染内容或搜索页内 MUGE。"
+      "has_official_href": true,
+      "has_official_text": true,
+      "has_brand": true,
+      "has_brand_or_domain": true,
+      "live_status": "verified_direct_link",
+      "snippet_brand": "-center\"> <a href='https://www.siteprice.org/competitors/mugepackaging.com'> <img loading=\"lazy\" src=\"https://www.siteprice.org/SiteThumbs/m/mugepackaging.com.webp\" alt=\"mugepackag",
+      "snippet_domain": "-center\"> <a href='https://www.siteprice.org/competitors/mugepackaging.com'> <img loading=\"lazy\" src=\"https://www.siteprice.org/SiteThumbs/m/mugepackaging.com.webp\" alt=\"mugepackag",
+      "next_action": "保留为已验证第三方 direct link；下一步只做周期复验，不引用页面估值、流量、客户、产能、价格或认证。"
     }
   ]
 }
