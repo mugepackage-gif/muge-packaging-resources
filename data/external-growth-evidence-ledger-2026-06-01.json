@@ -18,6 +18,24 @@
   ],
   "verified_external_results": [
     {
+      "type": "ai_buyer_question_third_party_support_map",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-buyer-question-third-party-support-map-2026-06-01.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-buyer-question-third-party-support-map-2026-06-01.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-buyer-question-third-party-support-map-2026-06-01.json",
+      "summary": {
+        "questions": 10,
+        "questions_with_support": 10,
+        "independent_direct_link_supports": 25,
+        "independent_entity_mention_supports": 2,
+        "baseline_independent_assets": 170,
+        "baseline_independent_direct_links": 38,
+        "baseline_independent_hosts": 78
+      },
+      "verification": "Maps 10 AI buyer questions to readable MUGE citation pages and third-party support URLs, including 25 independent direct-link supports and 2 independent mention supports.",
+      "counting_rule": "Counts as a verified public GEO support-routing asset; third-party sources are support signals only and not certification, customer case, price, MOQ, lead-time or compliance proof."
+    },
+    {
       "type": "independent_third_party_direct_link_update_pack",
       "platform": "GitHub Pages",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/independent-third-party-direct-link-update-pack-2026-06-01.html",
@@ -36,24 +54,6 @@
       },
       "verification": "Strict independent-third-party-only pack. Maps 36 verified independent direct-link pages across 75 hosts to official MUGE PACKAGING P0/P1 pages for manual profile correction and editor requests.",
       "counting_rule": "Counts as a verified public execution asset and crawlable P0/P1 link-update routing source; it does not count as completed manual outreach or a new backlink until the third-party page changes are verified."
-    },
-    {
-      "type": "ai_buyer_question_third_party_support_map",
-      "platform": "GitHub Pages",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-buyer-question-third-party-support-map-2026-06-01.html",
-      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-buyer-question-third-party-support-map-2026-06-01.md",
-      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-buyer-question-third-party-support-map-2026-06-01.json",
-      "summary": {
-        "questions": 10,
-        "questions_with_support": 10,
-        "independent_direct_link_supports": 24,
-        "independent_entity_mention_supports": 3,
-        "baseline_independent_assets": 164,
-        "baseline_independent_direct_links": 36,
-        "baseline_independent_hosts": 75
-      },
-      "verification": "Maps 10 AI buyer questions to readable MUGE citation pages and third-party support URLs, including 24 independent direct-link supports and 3 independent mention supports.",
-      "counting_rule": "Counts as a verified public GEO support-routing asset; third-party sources are support signals only and not certification, customer case, price, MOQ, lead-time or compliance proof."
     },
     {
       "type": "priority_a_third_party_link_editor_request_pack",
