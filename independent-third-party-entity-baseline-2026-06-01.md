@@ -10,14 +10,14 @@ date: 2026-06-01
 
 # MUGE PACKAGING 独立第三方外部实体基线
 
-- Generated at: 2026-06-08T12:47:36.536Z
+- Generated at: 2026-06-09T09:04:24.407Z
 - Official website: https://mugepackaging.com
-- Independent third-party assets: 151
-- Independent direct website links: 27
-- Independent indirect links: 34
+- Independent third-party assets: 165
+- Independent direct website links: 37
+- Independent indirect links: 30
 - Independent structured sameAs: 2
-- Independent mention-only assets: 90
-- Independent hosts: 67
+- Independent mention-only assets: 98
+- Independent hosts: 75
 
 ## Counting Rule
 
@@ -27,18 +27,20 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 
 | Host | Count |
 |---|---:|
-| sitelike.org | 34 |
-| siteprice.org | 12 |
+| sitelike.org | 30 |
+| siteprice.org | 13 |
 | made-in-china.com | 11 |
 | marketreportanalytics.com | 7 |
 | pdf.marketpublishers.com | 4 |
+| packaging-industry.info | 4 |
+| 5e20301203be8.site123.me | 4 |
 | playervirus18.pythonanywhere.com | 3 |
 | importgenius.com | 3 |
 | old.reddit.com | 3 |
 | storage.googleapis.com | 3 |
+| web.archive.org | 3 |
 | openpr.com | 2 |
 | reports.valuates.com | 2 |
-| antech.ru | 2 |
 | feedingtrends.com | 2 |
 | finalengineering21.pythonanywhere.com | 2 |
 | cognitivemarketresearch.com | 2 |
@@ -49,14 +51,12 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | mercatora.com | 2 |
 | yellowpagesonline.com | 2 |
 | es.made-in-china.com | 2 |
+| submitpr.org | 2 |
+| businessseek.biz | 2 |
 | datamintelligence.com | 1 |
 | databridgemarketresearch.com | 1 |
 | futuremarketinsights.com | 1 |
 | provenexpert.com | 1 |
-| packaza.com | 1 |
-| credenceresearch.com | 1 |
-| marketpublishers.com | 1 |
-| datainsightsreports.com | 1 |
 
 ## Independent Direct Link Evidence
 
@@ -77,6 +77,7 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | Siteprice competitors page listing MUGE under vslpackaging.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/vslpackaging.com |
 | Siteprice competitors page listing MUGE under cloveandtwine.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/cloveandtwine.com |
 | Siteprice competitors page listing MUGE under packagingbox.org | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/packagingbox.org |
+| CricketInfo domain list page | 域名列表页 | cricketinfo.co.in | 200 | https://www.cricketinfo.co.in/domain-list-523 |
 | Legacy WordPress MUGE shoe packaging article | 历史自建外部内容 | mugepackaging.wordpress.com | 200 | https://mugepackaging.wordpress.com/2021/06/19/imaginative-shoe-packaging-ideas/ |
 | LinkedIn company page CN URL | 社媒资料页 | cn.linkedin.com | 200 | https://cn.linkedin.com/company/mugepackaging |
 | LinkedIn company page | 社媒资料页 | linkedin.com | 200 | https://www.linkedin.com/company/mugepackaging/ |
@@ -85,10 +86,19 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | Blogspot handkerchief gift box image source page | 图片热链/博客聚合页 | new27ledscreen.blogspot.com | 200 | https://new27ledscreen.blogspot.com/2020/11/34-hankercheif-gift-boxes-png.html |
 | Bizidex MUGE business directory profile | B2B资料页 | bizidex.com | 200 | https://bizidex.com/en/muge-packaging-packaging-foam-cushioning-containers-134824 |
 | CityByApp MUGE local business profile | 本地目录资料页 | citybyapp.com | 200 | https://www.citybyapp.com/china/shenzhen-shi/local-services/muge-packaging-481750 |
-| Antech hexagon box wiki source attribution | 行业百科引用页 | antech.ru | 200 | https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/ |
 | YellowPagesOnline MUGE business profile | B2B资料页 | yellowpagesonline.com | 200 | https://www.yellowpagesonline.com/china/shenzhen-shi/boxes-retail/muge-packaging |
 | Azure Blob gift box with window image source mention | 图片来源聚合页 | giofgrzaa.blob.core.windows.net | 200 | https://giofgrzaa.blob.core.windows.net/gift-box-with-window.html |
 | ScamAdviser MUGE website check page | 域名声誉/安全检查页 | scamadviser.com | 200 | https://www.scamadviser.com/check-website/mugepackaging.com |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1388 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-1388/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1386 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/how-buyers-should-compare-rigid-gift-box-structures-before-sampling-1386/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1384 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-2-1384/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260606-1379 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-1379/ |
+| ME Junction ASSET-MEJunction-profile-20260606 | third_party_directory_profile | mejunction.com | 200 | https://www.mejunction.com/events/muge-packaging?printpage=yes |
+| Site123 Blog ASSET-Site123-blog-20260606 | external_blog_post | 5e20301203be8.site123.me | 200 | https://5e20301203be8.site123.me/blog/how-to-get-the-perfect-customized-cosmetic-packaging |
+| Site123 Blog ASSET-Site123-textured-corrugated-20260606 | external_blog_post | 5e20301203be8.site123.me | 200 | https://5e20301203be8.site123.me/blog/textured-corrugated-boxes-customized-for-your-needs |
+| Site123 Blog ASSET-Site123-white-cardboard-20260606 | external_blog_post | 5e20301203be8.site123.me | 200 | https://5e20301203be8.site123.me/blog/white-cardboard-shipping-boxes |
+| Site123 Blog ASSET-Site123-packaging-marketing-20260606 | external_blog_post | 5e20301203be8.site123.me | 200 | https://5e20301203be8.site123.me/blog/how-packaging-help-you-win-the-marketing-game |
+| Siteprice ASSET-Siteprice-papertube-competitor-20260606 | competitor_similarity_page | siteprice.org | 200 | https://www.siteprice.org/competitors/papertube.com |
 
 ## Independent Mention Evidence
 

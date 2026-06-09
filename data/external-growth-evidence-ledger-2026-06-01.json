@@ -694,7 +694,7 @@
     "target_keywords_clicked": 0,
     "target_keyword_audit_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1218_目标关键词排名验收.json"
   },
-  "generatedAt": "2026-06-09T08:15:04.767Z",
+  "generatedAt": "2026-06-09T09:04:24.407Z",
   "entries": [
     {
       "timestamp": "2026-06-01T05:48:33.088Z",
@@ -1082,6 +1082,20 @@
         "https://mugepackage-gif.github.io/muge-packaging-resources/pending-directory-publication-recheck-2026-06-01.html",
         "https://mugepackage-gif.github.io/muge-packaging-resources/data/pending-directory-publication-recheck-2026-06-01.json"
       ]
+    },
+    {
+      "timestamp": "2026-06-09T09:04:24.407Z",
+      "category": "independent_third_party_entity_baseline",
+      "result": "advanced_verified_external_baseline",
+      "independentThirdPartyAssets": 165,
+      "independentDirectLinks": 37,
+      "independentMentionOnly": 98,
+      "independentHosts": 75,
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/independent-third-party-entity-baseline-2026-06-01.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/independent-third-party-entity-baseline-2026-06-01.json"
+      ],
+      "countingNote": "Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Workers, Weebly and official mugepackaging.com URLs. verified_link means independent public page with direct website link; verified_mention means independent public brand/entity mention only."
     }
   ]
 }
