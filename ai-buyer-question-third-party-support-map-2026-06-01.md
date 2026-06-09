@@ -8,7 +8,7 @@
 - 有支撑映射：10
 - 独立 direct link 支撑项：25
 - 独立实体/主题提及支撑项：2
-- 基线：170 独立资产 / 38 独立 direct links / 78 hosts
+- 基线：173 独立资产 / 41 独立 direct links / 78 hosts
 
 ## 公开入口
 
@@ -37,9 +37,9 @@
 - 第三方支撑：
   - independent_direct_link｜provenexpert.com｜https://www.provenexpert.com/en-us/muge-packaging/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
-  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-2-1390/
+  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-3-1402/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
-  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-1388/
+  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-2-1390/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
 
 ### 3. What should buyers confirm before choosing a rigid gift box manufacturer?
@@ -61,9 +61,9 @@
 - 第三方支撑：
   - independent_direct_link｜siteprice.org｜https://www.siteprice.org/competitors/tube-boxes.com
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
-  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-2-1390/
+  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-3-1402/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
-  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-1388/
+  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-2-1390/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
 
 ### 5. How should buyers compare PVC and PET clear box packaging?
