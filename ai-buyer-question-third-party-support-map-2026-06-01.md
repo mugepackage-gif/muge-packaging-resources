@@ -6,9 +6,9 @@
 
 - 问题数：10
 - 有支撑映射：10
-- 独立 direct link 支撑项：25
-- 独立实体/主题提及支撑项：2
-- 基线：165 独立资产 / 37 独立 direct links / 75 hosts
+- 独立 direct link 支撑项：24
+- 独立实体/主题提及支撑项：3
+- 基线：164 独立资产 / 36 独立 direct links / 75 hosts
 
 ## 公开入口
 
@@ -63,7 +63,7 @@
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
   - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-1388/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
-  - independent_direct_link｜siteprice.org｜https://www.siteprice.org/competitors/papertube.com
+  - independent_entity_mention｜mercatora.com｜https://www.mercatora.com/companies/shenzhen-muge-design-packaging-product-co-ltd-3a52f2
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
 
 ### 5. How should buyers compare PVC and PET clear box packaging?

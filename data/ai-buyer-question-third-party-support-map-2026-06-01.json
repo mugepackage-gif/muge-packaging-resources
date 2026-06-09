@@ -1,6 +1,6 @@
 {
   "name": "MUGE PACKAGING AI Buyer Question Third-Party Support Map 2026-06-01",
-  "generated_at": "2026-06-09T12:20:41.934Z",
+  "generated_at": "2026-06-09T13:06:59.239Z",
   "brand": "MUGE PACKAGING",
   "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "source_baseline_json": "/Users/molice/muge-packaging-resources/data/independent-third-party-entity-baseline-2026-06-01.json",
@@ -10,10 +10,10 @@
   "summary": {
     "questions": 10,
     "questions_with_support": 10,
-    "independent_direct_link_supports": 25,
-    "independent_entity_mention_supports": 2,
-    "baseline_independent_assets": 165,
-    "baseline_independent_direct_links": 37,
+    "independent_direct_link_supports": 24,
+    "independent_entity_mention_supports": 3,
+    "baseline_independent_assets": 164,
+    "baseline_independent_direct_links": 36,
     "baseline_independent_hosts": 75
   },
   "mappings": [
@@ -188,13 +188,13 @@
           "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
         },
         {
-          "label": "Siteprice ASSET-Siteprice-papertube-competitor-20260606",
-          "type": "competitor_similarity_page",
-          "url": "https://www.siteprice.org/competitors/papertube.com",
-          "host": "siteprice.org",
+          "label": "Mercatora MUGE company profile",
+          "type": "B2B资料页",
+          "url": "https://www.mercatora.com/companies/shenzhen-muge-design-packaging-product-co-ltd-3a52f2",
+          "host": "mercatora.com",
           "http_status": 200,
-          "source_class": "independent_direct_link",
-          "support_role": "entity_and_direct_link_support",
+          "source_class": "independent_entity_mention",
+          "support_role": "entity_or_topic_mention_support",
           "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
         }
       ]

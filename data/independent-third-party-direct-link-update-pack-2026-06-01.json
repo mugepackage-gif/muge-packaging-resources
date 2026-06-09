@@ -1,6 +1,6 @@
 {
   "name": "MUGE PACKAGING Independent Third-Party Direct Link Update Pack 2026-06-01",
-  "generated_at": "2026-06-09T12:20:42.082Z",
+  "generated_at": "2026-06-09T13:06:59.261Z",
   "brand": "MUGE PACKAGING",
   "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "website": "https://mugepackaging.com",
@@ -9,12 +9,12 @@
   "public_html_url": "https://mugepackage-gif.github.io/muge-packaging-resources/independent-third-party-direct-link-update-pack-2026-06-01.html",
   "public_json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/independent-third-party-direct-link-update-pack-2026-06-01.json",
   "summary": {
-    "independent_third_party_assets": 165,
-    "independent_direct_links": 37,
+    "independent_third_party_assets": 164,
+    "independent_direct_links": 36,
     "independent_hosts": 75,
-    "update_items": 37,
+    "update_items": 36,
     "priority_A": 4,
-    "priority_B": 14,
+    "priority_B": 13,
     "priority_C": 19,
     "mapped_official_p0_p1_pages": 7
   },
@@ -326,23 +326,6 @@
       ],
       "recommended_anchor": "PVC PET clear box packaging manufacturer",
       "recommended_action": "只作为可抓取直链信号；不引用估值或流量。若可纠错，要求标准化品牌名并补充 https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide。",
-      "status": "pending_manual_platform_update_or_editor_request"
-    },
-    {
-      "priority": "B",
-      "platform_host": "siteprice.org",
-      "label": "Siteprice ASSET-Siteprice-papertube-competitor-20260606",
-      "type": "competitor_similarity_page",
-      "third_party_url": "https://www.siteprice.org/competitors/papertube.com",
-      "http_status": 200,
-      "current_signal": "HTTP 200. Siteprice papertube.com competitor page contains Muge Packaging and direct hrefs to https://www.mugepackaging.com/ plus Siteprice internal competitor/worth links. Count as weak competitor similarity and official-domain backlink; do not quote traffic or website worth.",
-      "primary_official_target": "https://mugepackaging.com/blog/paper-tube-packaging-buying-guide",
-      "mapped_official_targets": [
-        "https://mugepackaging.com/blog/paper-tube-packaging-buying-guide",
-        "https://mugepackaging.com/products"
-      ],
-      "recommended_anchor": "paper tube packaging supplier",
-      "recommended_action": "只作为可抓取直链信号；不引用估值或流量。若可纠错，要求标准化品牌名并补充 https://mugepackaging.com/blog/paper-tube-packaging-buying-guide。",
       "status": "pending_manual_platform_update_or_editor_request"
     },
     {
