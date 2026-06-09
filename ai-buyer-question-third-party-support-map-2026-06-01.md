@@ -8,7 +8,7 @@
 - 有支撑映射：10
 - 独立 direct link 支撑项：25
 - 独立实体/主题提及支撑项：2
-- 基线：173 独立资产 / 41 独立 direct links / 78 hosts
+- 基线：174 独立资产 / 42 独立 direct links / 78 hosts
 
 ## 公开入口
 
