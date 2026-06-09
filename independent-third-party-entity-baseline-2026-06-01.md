@@ -10,10 +10,10 @@ date: 2026-06-01
 
 # MUGE PACKAGING 独立第三方外部实体基线
 
-- Generated at: 2026-06-09T09:04:24.407Z
+- Generated at: 2026-06-09T13:02:14.292Z
 - Official website: https://mugepackaging.com
-- Independent third-party assets: 165
-- Independent direct website links: 37
+- Independent third-party assets: 164
+- Independent direct website links: 36
 - Independent indirect links: 30
 - Independent structured sameAs: 2
 - Independent mention-only assets: 98
@@ -28,7 +28,7 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | Host | Count |
 |---|---:|
 | sitelike.org | 30 |
-| siteprice.org | 13 |
+| siteprice.org | 12 |
 | made-in-china.com | 11 |
 | marketreportanalytics.com | 7 |
 | pdf.marketpublishers.com | 4 |
@@ -98,7 +98,6 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | Site123 Blog ASSET-Site123-textured-corrugated-20260606 | external_blog_post | 5e20301203be8.site123.me | 200 | https://5e20301203be8.site123.me/blog/textured-corrugated-boxes-customized-for-your-needs |
 | Site123 Blog ASSET-Site123-white-cardboard-20260606 | external_blog_post | 5e20301203be8.site123.me | 200 | https://5e20301203be8.site123.me/blog/white-cardboard-shipping-boxes |
 | Site123 Blog ASSET-Site123-packaging-marketing-20260606 | external_blog_post | 5e20301203be8.site123.me | 200 | https://5e20301203be8.site123.me/blog/how-packaging-help-you-win-the-marketing-game |
-| Siteprice ASSET-Siteprice-papertube-competitor-20260606 | competitor_similarity_page | siteprice.org | 200 | https://www.siteprice.org/competitors/papertube.com |
 
 ## Independent Mention Evidence
 
