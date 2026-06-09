@@ -1,6 +1,6 @@
 {
   "name": "MUGE PACKAGING Top 20 Backlink Opportunity Live Precheck 2026-06-01",
-  "generated_at": "2026-06-09T08:03:52.963Z",
+  "generated_at": "2026-06-09T09:17:47.407Z",
   "brand": "MUGE PACKAGING",
   "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "website": "https://mugepackaging.com",
@@ -9,8 +9,8 @@
   "public_json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/top-20-backlink-opportunity-live-precheck-2026-06-01.json",
   "summary": {
     "total": 20,
-    "reachable": 12,
-    "form_signal": 17,
+    "reachable": 13,
+    "form_signal": 18,
     "p0_p1": 15
   },
   "items": [
@@ -197,9 +197,12 @@
         "request for unverified certification, customer, capacity, MOQ, lead time, price or compliance claim"
       ],
       "live_check": {
-        "status": 0,
-        "ok": false,
-        "error": "timeout"
+        "status": 200,
+        "ok": true,
+        "final_url": "https://www.globaltradeplaza.com/signup",
+        "contains_muge": false,
+        "has_form_signal": true,
+        "title": "Sign-Up – Global Trade Plaza"
       },
       "editor_request": "Subject: Request to add official source link for MUGE PACKAGING\n\nHello,\n\nI am contacting you on behalf of MUGE PACKAGING / Shenzhen Muge Design Packaging Product Co., Ltd.\n\nIf your platform includes or reviews company/source information for packaging suppliers, please use the following safe public details:\n\nCompany / brand:\nMUGE PACKAGING\n\nLegal name:\nShenzhen Muge Design Packaging Product Co., Ltd.\n\nOfficial website:\nhttps://mugepackaging.com\n\nRecommended page:\nhttps://mugepackaging.com\n\nRecommended anchor text:\nMUGE PACKAGING\n\nShort description:\nMUGE PACKAGING is a Shenzhen-based source factory specializing in custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging.\n\nPlease do not add Verified Supplier, Gold Supplier, fixed MOQ, fixed lead time, lowest price, food-contact compliance, FDA/FSC certification, customer case, production capacity, employee count, revenue or financing claims.\n\nThank you."
     },
