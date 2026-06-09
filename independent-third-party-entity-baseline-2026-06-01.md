@@ -10,14 +10,14 @@ date: 2026-06-01
 
 # MUGE PACKAGING 独立第三方外部实体基线
 
-- Generated at: 2026-06-09T13:02:14.292Z
+- Generated at: 2026-06-09T13:22:23.136Z
 - Official website: https://mugepackaging.com
-- Independent third-party assets: 164
-- Independent direct website links: 36
+- Independent third-party assets: 169
+- Independent direct website links: 37
 - Independent indirect links: 30
 - Independent structured sameAs: 2
-- Independent mention-only assets: 98
-- Independent hosts: 75
+- Independent mention-only assets: 102
+- Independent hosts: 78
 
 ## Counting Rule
 
@@ -45,7 +45,9 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | finalengineering21.pythonanywhere.com | 2 |
 | cognitivemarketresearch.com | 2 |
 | maiaresearch.com | 2 |
+| archivemarketresearch.com | 2 |
 | marketresearchreports.com | 2 |
+| datainsightsmarket.com | 2 |
 | verifiedmarketreports.com | 2 |
 | reportsandmarkets.com | 2 |
 | mercatora.com | 2 |
@@ -55,8 +57,6 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | businessseek.biz | 2 |
 | datamintelligence.com | 1 |
 | databridgemarketresearch.com | 1 |
-| futuremarketinsights.com | 1 |
-| provenexpert.com | 1 |
 
 ## Independent Direct Link Evidence
 
@@ -65,12 +65,12 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | ProvenExpert Muge Packaging public profile | 第三方公司资料页 | provenexpert.com | 200 | https://www.provenexpert.com/en-us/muge-packaging/ |
 | Antech wiki hexagon box MUGE source mention | 行业百科/图片来源页 | antech.ru | 200 | https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/ |
 | Packaza top magnetic gift box manufacturers list | 行业榜单/供应商列表 | packaza.com | 200 | https://packaza.com/blog/top-10-magnetic-gift-box-manufacturer-in-china/ |
+| DataInsightsMarket hazardous chemicals packaging report | 市场报告 | datainsightsmarket.com | 200 | https://www.datainsightsmarket.com/reports/hazardous-chemicals-packaging-349270 |
 | SourcifyChina top foldable gift box factory comparison | 供应商对比页 | sourcifychina.com | 200 | https://www.sourcifychina.com/top-foldable-gift-box-factory-compare/ |
 | Siteprice competitors page for mugepackaging.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/mugepackaging.com |
 | Siteprice competitors page listing MUGE under marber.net | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/marber.net |
 | Siteprice competitors page listing MUGE under packmojo.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/packmojo.com |
 | Siteprice competitors page listing MUGE under tube-boxes.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/tube-boxes.com |
-| Siteprice competitors page listing MUGE under yfpackaging.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/yfpackaging.com |
 | Siteprice competitors page listing MUGE under mlcustomgiftbox.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/mlcustomgiftbox.com |
 | Siteprice competitors page listing MUGE under boxforgifts.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/boxforgifts.com |
 | Siteprice competitors page listing MUGE under copackinc.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/copackinc.com |
@@ -98,6 +98,7 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | Site123 Blog ASSET-Site123-textured-corrugated-20260606 | external_blog_post | 5e20301203be8.site123.me | 200 | https://5e20301203be8.site123.me/blog/textured-corrugated-boxes-customized-for-your-needs |
 | Site123 Blog ASSET-Site123-white-cardboard-20260606 | external_blog_post | 5e20301203be8.site123.me | 200 | https://5e20301203be8.site123.me/blog/white-cardboard-shipping-boxes |
 | Site123 Blog ASSET-Site123-packaging-marketing-20260606 | external_blog_post | 5e20301203be8.site123.me | 200 | https://5e20301203be8.site123.me/blog/how-packaging-help-you-win-the-marketing-game |
+| Siteprice ASSET-Siteprice-papertube-competitor-20260606 | competitor_similarity_page | siteprice.org | 200 | https://www.siteprice.org/competitors/papertube.com |
 
 ## Independent Mention Evidence
 
@@ -117,6 +118,8 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | Credence Research coated paper packaging box market report | 市场报告 | credenceresearch.com | 200 | https://www.credenceresearch.com/report/coated-paper-packaging-box-market/ |
 | Cognitive Market Research coated paper packaging box market report | 市场报告 | cognitivemarketresearch.com | 200 | https://www.cognitivemarketresearch.com/coated-paper-packaging-box-market-report |
 | Maia Research coated paper packaging box market report | 市场报告 | maiaresearch.com | 200 | https://www.maiaresearch.com/market-report/1875513-Coated-paper-packaging-box-1875513.html |
+| Archive Market Research coated paper packaging box report | 市场报告 | archivemarketresearch.com | 200 | https://www.archivemarketresearch.com/reports/coated-paper-packaging-box-854631 |
+| Archive Market Research coated paper packaging box report 105928 | 市场报告 | archivemarketresearch.com | 200 | https://www.archivemarketresearch.com/reports/coated-paper-packaging-box-105928 |
 | openPR hazardous chemicals packaging market news mention | 新闻稿聚合页 | openpr.com | 200 | https://www.openpr.com/news/2743885/hazardous-chemicals-packaging-market-witness-an-outstanding |
 | MarketReportAnalytics hazardous chemicals packaging expansion strategies | 市场报告 | marketreportanalytics.com | 200 | https://www.marketreportanalytics.com/reports/hazardous-chemicals-packaging-358821 |
 | MarketResearchReports hazardous chemicals packaging growth report | 市场报告 | marketresearchreports.com | 200 | https://www.marketresearchreports.com/lpi/global-hazardous-chemicals-packaging-market-growth-2024-2030 |
@@ -126,8 +129,10 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | MarketReportAnalytics hazardous chemicals packaging report 364988 | 市场报告 | marketreportanalytics.com | 200 | https://www.marketreportanalytics.com/reports/hazardous-chemicals-packaging-364988 |
 | Verified Market Reports hazardous chemicals packaging market report | 市场报告 | verifiedmarketreports.com | 200 | https://www.verifiedmarketreports.com/product/hazardous-chemicals-packaging-market/ |
 | Verified Market Reports coated paper packaging box market report | 市场报告 | verifiedmarketreports.com | 200 | https://www.verifiedmarketreports.com/product/coated-paper-packaging-box-market/ |
+| MarketResearchForecast coated paper packaging box report | 市场报告 | marketresearchforecast.com | 200 | https://www.marketresearchforecast.com/reports/coated-paper-packaging-box-113086 |
 | DataInsightsReports coated paper packaging box report | 市场报告 | datainsightsreports.com | 200 | https://www.datainsightsreports.com/reports/coated-paper-packaging-box-568132 |
 | ReportsAndMarkets coated paper packaging box report 4512898 | 市场报告 | reportsandmarkets.com | 200 | https://www.reportsandmarkets.com/reports/global-coated-paper-packaging-box-market-4512898 |
+| DataInsightsMarket coated paper packaging box report | 市场报告 | datainsightsmarket.com | 200 | https://www.datainsightsmarket.com/reports/coated-paper-packaging-box-349294 |
 | MarketPublishers coated paper packaging box PDF report 2020 | 市场报告PDF | pdf.marketpublishers.com | 200 | https://pdf.marketpublishers.com/bisreport/global-coated-paper-packaging-box-market-report-2020.pdf |
 | MarketPublishers coated paper packaging box PDF status report 2021 | 市场报告PDF | pdf.marketpublishers.com | 200 | https://pdf.marketpublishers.com/bisreport/global-coated-paper-packaging-box-market-status-trends-n-covid-19-impact-report-2021.pdf |
 | MarketPublishers hazardous chemicals packaging PDF status report 2021 | 市场报告PDF | pdf.marketpublishers.com | 200 | https://pdf.marketpublishers.com/bisreport/global-hazardous-chemicals-packaging-market-status-trends-n-covid-19-impact-report-2021.pdf |
@@ -179,7 +184,3 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | Made-in-China Portuguese storage packaging box supplier list | B2B目录列表页 | pt.made-in-china.com | 200 | https://pt.made-in-china.com/company-search/storage-packaging-box/huntq--AR_4/1.html |
 | ImportGenius Fuggin Vapor importer trade partner page | 贸易数据页 | importgenius.com | 200 | https://www.importgenius.com/importers/fuggin-vapor-co |
 | Trademo Shenzhen Muge Packaging & Printing trade profile | 贸易数据页 | trademo.com | 200 | https://www.trademo.com/companies/shenzhen-muge-packaging-printing/27801441 |
-| Pakoro China box manufacturers list | 行业榜单页 | pakoro.com | 200 | https://pakoro.com/blog/box-manufacturers-china/ |
-| Website Informer MUGE domain page | 域名信息页 | website.informer.com | 200 | https://website.informer.com/mugepackaging.com |
-| StatShow MUGE domain valuation page | 域名信息页 | statshow.com | 200 | https://www.statshow.com/www/mugepackaging.com |
-| StatsCrop MUGE domain analytics page | 域名信息页 | statscrop.com | 200 | https://www.statscrop.com/www/mugepackaging.com |
