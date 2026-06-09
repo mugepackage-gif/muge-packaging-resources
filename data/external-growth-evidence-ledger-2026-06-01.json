@@ -18,21 +18,6 @@
   ],
   "verified_external_results": [
     {
-      "type": "top_20_backlink_opportunity_live_precheck",
-      "platform": "GitHub Pages",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/top-20-backlink-opportunity-live-precheck-2026-06-01.html",
-      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/top-20-backlink-opportunity-live-precheck-2026-06-01.md",
-      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/top-20-backlink-opportunity-live-precheck-2026-06-01.json",
-      "summary": {
-        "total": 20,
-        "reachable": 13,
-        "form_signal": 18,
-        "p0_p1": 15
-      },
-      "verification": "Live precheck of 20 backlink/entity opportunities. 13 reachable and 18 with submission/contact/profile signals.",
-      "counting_rule": "Counts as a verified public execution and prioritization asset; individual third-party listings/backlinks only count after the external platform publishes a public URL with the official link."
-    },
-    {
       "type": "priority_a_third_party_link_editor_request_pack",
       "platform": "GitHub Pages",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/priority-a-third-party-link-editor-request-pack-2026-06-01.html",
@@ -76,14 +61,29 @@
       "summary": {
         "questions": 10,
         "questions_with_support": 10,
-        "independent_direct_link_supports": 20,
-        "independent_entity_mention_supports": 7,
-        "baseline_independent_assets": 151,
-        "baseline_independent_direct_links": 27,
-        "baseline_independent_hosts": 67
+        "independent_direct_link_supports": 25,
+        "independent_entity_mention_supports": 2,
+        "baseline_independent_assets": 165,
+        "baseline_independent_direct_links": 37,
+        "baseline_independent_hosts": 75
       },
-      "verification": "Maps 10 AI buyer questions to readable MUGE citation pages and third-party support URLs, including 20 independent direct-link supports and 7 independent mention supports.",
+      "verification": "Maps 10 AI buyer questions to readable MUGE citation pages and third-party support URLs, including 25 independent direct-link supports and 2 independent mention supports.",
       "counting_rule": "Counts as a verified public GEO support-routing asset; third-party sources are support signals only and not certification, customer case, price, MOQ, lead-time or compliance proof."
+    },
+    {
+      "type": "top_20_backlink_opportunity_live_precheck",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/top-20-backlink-opportunity-live-precheck-2026-06-01.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/top-20-backlink-opportunity-live-precheck-2026-06-01.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/top-20-backlink-opportunity-live-precheck-2026-06-01.json",
+      "summary": {
+        "total": 20,
+        "reachable": 13,
+        "form_signal": 18,
+        "p0_p1": 15
+      },
+      "verification": "Live precheck of 20 backlink/entity opportunities. 13 reachable and 18 with submission/contact/profile signals.",
+      "counting_rule": "Counts as a verified public execution and prioritization asset; individual third-party listings/backlinks only count after the external platform publishes a public URL with the official link."
     },
     {
       "type": "third_party_public_directory_link",
@@ -694,7 +694,7 @@
     "target_keywords_clicked": 0,
     "target_keyword_audit_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1218_目标关键词排名验收.json"
   },
-  "generatedAt": "2026-06-09T09:39:31.955Z",
+  "generatedAt": "2026-06-09T12:59:59.319Z",
   "entries": [
     {
       "timestamp": "2026-06-01T05:48:33.088Z",
@@ -1099,6 +1099,18 @@
     },
     {
       "timestamp": "2026-06-09T09:39:31.955Z",
+      "category": "pending_directory_publication_recheck",
+      "result": "checked_no_new_verified_backlink",
+      "checkedUrls": 21,
+      "stablePublicSignals": 0,
+      "verifiedBacklinkSignals": 0,
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/pending-directory-publication-recheck-2026-06-01.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/pending-directory-publication-recheck-2026-06-01.json"
+      ]
+    },
+    {
+      "timestamp": "2026-06-09T12:59:59.319Z",
       "category": "pending_directory_publication_recheck",
       "result": "checked_no_new_verified_backlink",
       "checkedUrls": 21,

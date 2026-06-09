@@ -10,7 +10,7 @@ date: 2026-06-01
 
 # MUGE PACKAGING Pending Directory Publication Recheck
 
-- Generated at: 2026-06-09T09:39:31.955Z
+- Generated at: 2026-06-09T12:59:59.319Z
 - Website: https://mugepackaging.com
 - Checked URLs: 21
 - Stable public signals: 0
@@ -28,7 +28,7 @@ Only a public page with MUGE PACKAGING, mugepackaging.com, or a direct href/doma
 
 | Platform | HTTP | Public Signal | Backlink Signal | Checked URL | Title |
 |---|---:|---|---|---|---|
-| Jayde | 200 | no | no | https://www.jayde.com/search?q=mugepackaging.com | Search: mugepackaging.com � Jayde |
+| Jayde | 0 | no | no | https://www.jayde.com/search?q=mugepackaging.com |  |
 | Jayde | 200 | no | no | https://www.jayde.com/search?q=MUGE%20PACKAGING | Search: MUGE PACKAGING � Jayde |
 | Active Search Results | 404 | no | no | https://www.activesearchresults.com/search.php?search=mugepackaging.com |  |
 | Active Search Results | 404 | no | no | https://www.activesearchresults.com/search.php?search=MUGE%20PACKAGING |  |

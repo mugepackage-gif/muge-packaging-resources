@@ -1,7 +1,7 @@
 {
   "name": "MUGE PACKAGING Pending Directory Publication Recheck",
   "date": "2026-06-01",
-  "generatedAt": "2026-06-09T09:39:31.955Z",
+  "generatedAt": "2026-06-09T12:59:59.319Z",
   "brand": "MUGE PACKAGING",
   "website": "https://mugepackaging.com",
   "resultSummary": {
@@ -15,18 +15,18 @@
     {
       "platform": "Jayde",
       "checkedUrl": "https://www.jayde.com/search?q=mugepackaging.com",
-      "finalUrl": "https://www.jayde.com/schx.html/?q=mugepackaging.com",
-      "httpStatus": 200,
-      "title": "Search: mugepackaging.com � Jayde",
-      "hasNoResultSignal": true,
+      "finalUrl": "https://www.jayde.com/search?q=mugepackaging.com",
+      "httpStatus": 0,
+      "title": "",
+      "hasNoResultSignal": false,
       "hasBrand": false,
-      "hasDomain": true,
+      "hasDomain": false,
       "hasNoindex": false,
       "hasDirectHref": false,
       "hrefHits": [],
       "stablePublicSignal": false,
       "verifiedBacklinkSignal": false,
-      "snippet": "ing for Jayde was modified successfully and will be reindexed overnight! Contact Support | Privacy Policy | ToS Search: mugepackaging.com � Jayde Contact About Submit Your Site Jayde.com Get Listed on Jayde! Sorry, no match found Jayde Categories: Advertising And Marketing Aerospace Agriculture Automotive Chemicals Computers And Software Electronics Energy Entertainment Industry Financial Food And Beverage Government"
+      "snippet": ""
     },
     {
       "platform": "Jayde",

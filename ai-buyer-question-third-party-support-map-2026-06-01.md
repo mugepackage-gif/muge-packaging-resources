@@ -6,9 +6,9 @@
 
 - 问题数：10
 - 有支撑映射：10
-- 独立 direct link 支撑项：20
-- 独立实体/主题提及支撑项：7
-- 基线：151 独立资产 / 27 独立 direct links / 67 hosts
+- 独立 direct link 支撑项：25
+- 独立实体/主题提及支撑项：2
+- 基线：165 独立资产 / 37 独立 direct links / 75 hosts
 
 ## 公开入口
 
@@ -27,7 +27,7 @@
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
   - independent_direct_link｜bizidex.com｜https://bizidex.com/en/muge-packaging-packaging-foam-cushioning-containers-134824
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
-  - independent_entity_mention｜feedingtrends.com｜https://feedingtrends.com/coated-paper-packaging-box-market-growth-and-covid-19-impact-analy
+  - independent_direct_link｜mejunction.com｜https://www.mejunction.com/events/muge-packaging?printpage=yes
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
 
 ### 2. What should Middle East beauty brands ask before sourcing cosmetic packaging?
@@ -37,9 +37,9 @@
 - 第三方支撑：
   - independent_direct_link｜provenexpert.com｜https://www.provenexpert.com/en-us/muge-packaging/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
-  - independent_entity_mention｜mercatora.com｜https://www.mercatora.com/
+  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-1388/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
-  - independent_entity_mention｜mercatora.com｜https://www.mercatora.com/companies/shenzhen-muge-design-packaging-product-co-ltd-3a52f2
+  - independent_direct_link｜5e20301203be8.site123.me｜https://5e20301203be8.site123.me/blog/how-to-get-the-perfect-customized-cosmetic-packaging
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
 
 ### 3. What should buyers confirm before choosing a rigid gift box manufacturer?
@@ -61,9 +61,9 @@
 - 第三方支撑：
   - independent_direct_link｜siteprice.org｜https://www.siteprice.org/competitors/tube-boxes.com
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
-  - independent_entity_mention｜mercatora.com｜https://www.mercatora.com/companies/shenzhen-muge-design-packaging-product-co-ltd-3a52f2
+  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-1388/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
-  - independent_entity_mention｜old.reddit.com｜https://old.reddit.com/r/u_mugepackagingg/comments/mrzy2m
+  - independent_direct_link｜siteprice.org｜https://www.siteprice.org/competitors/papertube.com
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
 
 ### 5. How should buyers compare PVC and PET clear box packaging?
@@ -87,7 +87,7 @@
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
   - independent_direct_link｜antech.ru｜https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
-  - independent_direct_link｜antech.ru｜https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/
+  - independent_direct_link｜packaza.com｜https://packaza.com/blog/top-10-magnetic-gift-box-manufacturer-in-china/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
 
 ### 7. How should buyers evaluate a custom packaging manufacturer in China?
@@ -127,7 +127,7 @@
 - 自有最佳入口：https://mugepackage-gif.github.io/muge-packaging-resources/ai-question-dtc-ecommerce-packaging-supplier.html
 - 官网目标页：https://mugepackaging.com/products
 - 第三方支撑：
-  - independent_direct_link｜antech.ru｜https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/
+  - independent_direct_link｜5e20301203be8.site123.me｜https://5e20301203be8.site123.me/blog/textured-corrugated-boxes-customized-for-your-needs
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
   - independent_entity_mention｜feedingtrends.com｜https://feedingtrends.com/coated-paper-packaging-box-market-growth-and-covid-19-impact-analy
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.

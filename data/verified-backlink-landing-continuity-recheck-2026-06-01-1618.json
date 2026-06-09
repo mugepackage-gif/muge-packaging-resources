@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T09:36:36.985Z",
+  "generated_at": "2026-06-09T13:00:05.535Z",
   "method": "public HTTP fetch with redirects; no login, no payment, no captcha bypass",
   "source_json": "/Users/molice/muge-packaging-resources/data/external-reference-full-recheck-2026-06-01-1607.json",
   "summary": {
     "checked": 10,
-    "ok": 10,
-    "failed": 0
+    "ok": 9,
+    "failed": 1
   },
   "results": [
     {
@@ -17,7 +17,7 @@
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
       "ok": true,
-      "elapsed_ms": 1373,
+      "elapsed_ms": 2905,
       "error": "",
       "relevance": "homepage / brand entity landing"
     },
@@ -30,7 +30,7 @@
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
       "ok": true,
-      "elapsed_ms": 891,
+      "elapsed_ms": 1215,
       "error": "",
       "relevance": "homepage / brand entity landing"
     },
@@ -43,7 +43,7 @@
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
       "ok": true,
-      "elapsed_ms": 342,
+      "elapsed_ms": 406,
       "error": "",
       "relevance": "homepage / brand entity landing"
     },
@@ -56,7 +56,7 @@
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
       "ok": true,
-      "elapsed_ms": 460,
+      "elapsed_ms": 403,
       "error": "",
       "relevance": "Antech link lands on MUGE domain"
     },
@@ -69,7 +69,7 @@
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
       "ok": true,
-      "elapsed_ms": 333,
+      "elapsed_ms": 395,
       "error": "",
       "relevance": "homepage / brand entity landing"
     },
@@ -82,7 +82,7 @@
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
       "ok": true,
-      "elapsed_ms": 296,
+      "elapsed_ms": 232,
       "error": "",
       "relevance": "homepage / brand entity landing"
     },
@@ -90,14 +90,14 @@
       "platform": "ProvenExpert",
       "source_page": "https://www.provenexpert.com/en-us/muge-packaging/",
       "input_url": "https://www.mugepackaging.com/c/custom-stickers/",
-      "http_status": 200,
-      "final_url": "https://mugepackaging.com/products/custom-labels",
+      "http_status": 404,
+      "final_url": "https://mugepackaging.com/c/custom-stickers",
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
-      "ok": true,
-      "elapsed_ms": 382,
+      "ok": false,
+      "elapsed_ms": 398,
       "error": "",
-      "relevance": "custom stickers / labels landing page"
+      "relevance": "ProvenExpert link lands on MUGE domain"
     },
     {
       "platform": "Packaza",
@@ -108,7 +108,7 @@
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
       "ok": true,
-      "elapsed_ms": 289,
+      "elapsed_ms": 301,
       "error": "",
       "relevance": "homepage / brand entity landing"
     },
@@ -121,7 +121,7 @@
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
       "ok": true,
-      "elapsed_ms": 205,
+      "elapsed_ms": 224,
       "error": "",
       "relevance": "SourcifyChina link lands on MUGE domain"
     },
@@ -134,7 +134,7 @@
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
       "ok": true,
-      "elapsed_ms": 281,
+      "elapsed_ms": 266,
       "error": "",
       "relevance": "homepage / brand entity landing"
     }

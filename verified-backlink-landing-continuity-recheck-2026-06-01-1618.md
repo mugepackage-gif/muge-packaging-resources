@@ -13,8 +13,8 @@ created: 2026-06-01
 ## 结果
 
 - 已验证外链信号检查数：10
-- 最终落到 MUGE 官网且 HTTP 正常：10
-- 需要修正：0
+- 最终落到 MUGE 官网且 HTTP 正常：9
+- 需要修正：1
 - 方法：公开 HTTP fetch，自动跟随跳转；不登录、不付费、不绕验证码。
 
 > 口径：这不是新增外链声明，而是检查已存在外部链接是否被断链、旧 URL、错误跳转浪费。
@@ -29,7 +29,7 @@ created: 2026-06-01
 | Antech | 200 | 是 | https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/ | https://www.mugepackaging.com/product/hexagon-corrugated-box-wholesale/ | https://mugepackaging.com/products | Antech link lands on MUGE domain | - |
 | YellowPagesOnline | 200 | 是 | https://www.yellowpagesonline.com/china/shenzhen-shi/boxes-retail/muge-packaging | https://www.mugepackaging.com/ | https://mugepackaging.com/ | homepage / brand entity landing | - |
 | Zearches | 200 | 是 | https://zearches.com/directory.php?slug=business-company | https://mugepackaging.com | https://mugepackaging.com/ | homepage / brand entity landing | - |
-| ProvenExpert | 200 | 是 | https://www.provenexpert.com/en-us/muge-packaging/ | https://www.mugepackaging.com/c/custom-stickers/ | https://mugepackaging.com/products/custom-labels | custom stickers / labels landing page | - |
+| ProvenExpert | 404 | 否 | https://www.provenexpert.com/en-us/muge-packaging/ | https://www.mugepackaging.com/c/custom-stickers/ | https://mugepackaging.com/c/custom-stickers | ProvenExpert link lands on MUGE domain | - |
 | Packaza | 200 | 是 | https://packaza.com/blog/top-10-magnetic-gift-box-manufacturer-in-china/ | https://www.mugepackaging.com/ | https://mugepackaging.com/ | homepage / brand entity landing | - |
 | SourcifyChina | 200 | 是 | https://www.sourcifychina.com/top-foldable-gift-box-factory-compare/ | https://www.mugepackaging.com/product/folding-gift-boxes-wholesale/ | https://mugepackaging.com/products | SourcifyChina link lands on MUGE domain | - |
 | Siteprice | 200 | 是 | https://www.siteprice.org/competitors/mugepackaging.com | https://www.mugepackaging.com | https://mugepackaging.com/ | homepage / brand entity landing | - |
