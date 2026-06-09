@@ -1,13 +1,13 @@
 {
   "name": "MUGE PACKAGING Independent Third-Party Entity Baseline 2026-06-01",
-  "generatedAt": "2026-06-09T14:29:27.720Z",
-  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-09_2215_MUGE外部品牌提及复验基线.json",
+  "generatedAt": "2026-06-09T14:42:15.286Z",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-09_2229_MUGE外部品牌提及复验基线.json",
   "countingRule": "Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Workers, Weebly and official mugepackaging.com URLs. verified_link means independent public page with direct website link; verified_mention means independent public brand/entity mention only.",
   "summary": {
-    "sourceRows": 861,
+    "sourceRows": 862,
     "independentThirdPartyAssets": 170,
-    "independentDirectLinks": 38,
-    "independentIndirectLinks": 30,
+    "independentDirectLinks": 39,
+    "independentIndirectLinks": 29,
     "independentStructuredSameAs": 2,
     "independentMentionOnly": 102,
     "independentHosts": 78
@@ -15,7 +15,7 @@
   "topHosts": [
     {
       "host": "sitelike.org",
-      "count": 30
+      "count": 29
     },
     {
       "host": "siteprice.org",
@@ -31,7 +31,7 @@
     },
     {
       "host": "packaging-industry.info",
-      "count": 5
+      "count": 6
     },
     {
       "host": "pdf.marketpublishers.com",
@@ -358,6 +358,14 @@
       "httpStatus": 200,
       "host": "scamadviser.com",
       "note": "2026-05-30 公开页面检出 mugepackaging.com 并含 Visit 官网链接；只计入外部链接与实体资产，不引用其评分或安全结论。"
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1397",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-3-1397/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
     },
     {
       "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1384",
