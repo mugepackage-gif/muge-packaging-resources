@@ -10,10 +10,10 @@ date: 2026-06-01
 
 # MUGE PACKAGING 独立第三方外部实体基线
 
-- Generated at: 2026-06-09T13:22:23.136Z
+- Generated at: 2026-06-09T14:15:54.329Z
 - Official website: https://mugepackaging.com
-- Independent third-party assets: 169
-- Independent direct website links: 37
+- Independent third-party assets: 171
+- Independent direct website links: 39
 - Independent indirect links: 30
 - Independent structured sameAs: 2
 - Independent mention-only assets: 102
@@ -28,11 +28,11 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | Host | Count |
 |---|---:|
 | sitelike.org | 30 |
-| siteprice.org | 12 |
+| siteprice.org | 13 |
 | made-in-china.com | 11 |
 | marketreportanalytics.com | 7 |
+| packaging-industry.info | 5 |
 | pdf.marketpublishers.com | 4 |
-| packaging-industry.info | 4 |
 | 5e20301203be8.site123.me | 4 |
 | playervirus18.pythonanywhere.com | 3 |
 | importgenius.com | 3 |
@@ -71,6 +71,7 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | Siteprice competitors page listing MUGE under marber.net | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/marber.net |
 | Siteprice competitors page listing MUGE under packmojo.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/packmojo.com |
 | Siteprice competitors page listing MUGE under tube-boxes.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/tube-boxes.com |
+| Siteprice competitors page listing MUGE under yfpackaging.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/yfpackaging.com |
 | Siteprice competitors page listing MUGE under mlcustomgiftbox.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/mlcustomgiftbox.com |
 | Siteprice competitors page listing MUGE under boxforgifts.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/boxforgifts.com |
 | Siteprice competitors page listing MUGE under copackinc.com | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/copackinc.com |
@@ -89,9 +90,10 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | YellowPagesOnline MUGE business profile | B2B资料页 | yellowpagesonline.com | 200 | https://www.yellowpagesonline.com/china/shenzhen-shi/boxes-retail/muge-packaging |
 | Azure Blob gift box with window image source mention | 图片来源聚合页 | giofgrzaa.blob.core.windows.net | 200 | https://giofgrzaa.blob.core.windows.net/gift-box-with-window.html |
 | ScamAdviser MUGE website check page | 域名声誉/安全检查页 | scamadviser.com | 200 | https://www.scamadviser.com/check-website/mugepackaging.com |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1384 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-2-1384/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1390 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-2-1390/ |
 | Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1388 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-1388/ |
 | Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1386 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/how-buyers-should-compare-rigid-gift-box-structures-before-sampling-1386/ |
-| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1384 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-2-1384/ |
 | Packaging-Industry.info ASSET-PackagingIndustry-article-20260606-1379 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-1379/ |
 | ME Junction ASSET-MEJunction-profile-20260606 | third_party_directory_profile | mejunction.com | 200 | https://www.mejunction.com/events/muge-packaging?printpage=yes |
 | Site123 Blog ASSET-Site123-blog-20260606 | external_blog_post | 5e20301203be8.site123.me | 200 | https://5e20301203be8.site123.me/blog/how-to-get-the-perfect-customized-cosmetic-packaging |
