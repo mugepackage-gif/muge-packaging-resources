@@ -1,13 +1,13 @@
 {
   "name": "MUGE PACKAGING Priority-A Third-Party Link Editor Request Pack 2026-06-01",
-  "generated_at": "2026-06-08T09:36:23.861Z",
+  "generated_at": "2026-06-09T06:01:35.045Z",
   "source_json": "/Users/molice/muge-packaging-resources/data/independent-third-party-direct-link-update-pack-2026-06-01.json",
   "public_html_url": "https://mugepackage-gif.github.io/muge-packaging-resources/priority-a-third-party-link-editor-request-pack-2026-06-01.html",
   "public_markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/priority-a-third-party-link-editor-request-pack-2026-06-01.md",
   "public_json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/priority-a-third-party-link-editor-request-pack-2026-06-01.json",
   "summary": {
-    "unique_priority_a_items": 5,
-    "precheck_ok": 5,
+    "unique_priority_a_items": 4,
+    "precheck_ok": 4,
     "contains_brand": 4,
     "contains_domain": 4
   },
@@ -75,22 +75,6 @@
         "contains_domain": true
       },
       "editor_request": "Subject: Request to update MUGE PACKAGING website link on sourcifychina.com\n\nHello,\n\nI am contacting you on behalf of MUGE PACKAGING / Shenzhen Muge Design Packaging Product Co., Ltd.\n\nWe noticed that your public page references MUGE PACKAGING:\nhttps://www.sourcifychina.com/top-foldable-gift-box-factory-compare/\n\nCould you please update or add the most relevant official link for the referenced packaging category?\n\nPreferred company name:\nMUGE PACKAGING\n\nOfficial website:\nhttps://mugepackaging.com\n\nRecommended category link:\nhttps://mugepackaging.com/blog/rigid-gift-box-structure-material-guide\n\nRecommended anchor text:\ncustom rigid gift box manufacturer\n\nShort safe description:\nMUGE PACKAGING is a Shenzhen-based source factory specializing in custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging.\n\nPlease do not add claims such as verified supplier status, fixed MOQ, fixed lead time, food-contact compliance, FDA/FSC certification, customer cases, production capacity, revenue or lowest-price statements.\n\nThank you."
-    },
-    {
-      "platform_host": "zearches.com",
-      "third_party_url": "https://zearches.com/directory.php?slug=business-company",
-      "primary_official_target": "https://mugepackaging.com/products",
-      "recommended_anchor": "custom packaging products by MUGE PACKAGING",
-      "recommended_action": "复验目录资料，若可编辑则加入 https://mugepackaging.com/products 作为产品/服务页，保留公司官网主页链接。",
-      "precheck": {
-        "url": "https://zearches.com/directory.php?slug=business-company",
-        "status": 200,
-        "ok": true,
-        "final_url": "https://zearches.com/directory.php?slug=business-company",
-        "contains_brand": false,
-        "contains_domain": false
-      },
-      "editor_request": "Subject: Request to update MUGE PACKAGING website link on zearches.com\n\nHello,\n\nI am contacting you on behalf of MUGE PACKAGING / Shenzhen Muge Design Packaging Product Co., Ltd.\n\nWe noticed that your public page references MUGE PACKAGING:\nhttps://zearches.com/directory.php?slug=business-company\n\nCould you please update or add the most relevant official link for the referenced packaging category?\n\nPreferred company name:\nMUGE PACKAGING\n\nOfficial website:\nhttps://mugepackaging.com\n\nRecommended category link:\nhttps://mugepackaging.com/products\n\nRecommended anchor text:\ncustom packaging products by MUGE PACKAGING\n\nShort safe description:\nMUGE PACKAGING is a Shenzhen-based source factory specializing in custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging.\n\nPlease do not add claims such as verified supplier status, fixed MOQ, fixed lead time, food-contact compliance, FDA/FSC certification, customer cases, production capacity, revenue or lowest-price statements.\n\nThank you."
     }
   ]
 }

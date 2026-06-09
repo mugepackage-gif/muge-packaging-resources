@@ -5,8 +5,8 @@
 ## 摘要
 
 - 来源执行包：/Users/molice/muge-packaging-resources/data/independent-third-party-direct-link-update-pack-2026-06-01.json
-- A 级去重平台/页面：5
-- 预检成功：5
+- A 级去重平台/页面：4
+- 预检成功：4
 - 已含品牌：4
 - 已含官网域名：4
 
@@ -165,45 +165,6 @@ https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide
 
 Recommended anchor text:
 custom rigid gift box manufacturer
-
-Short safe description:
-MUGE PACKAGING is a Shenzhen-based source factory specializing in custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging.
-
-Please do not add claims such as verified supplier status, fixed MOQ, fixed lead time, food-contact compliance, FDA/FSC certification, customer cases, production capacity, revenue or lowest-price statements.
-
-Thank you.
-```
-
-### 5. zearches.com
-
-- 第三方页面：https://zearches.com/directory.php?slug=business-company
-- 官网目标页：https://mugepackaging.com/products
-- 推荐锚文本：custom packaging products by MUGE PACKAGING
-- 预检：HTTP 200；品牌 无；官网域名 无
-
-```text
-Subject: Request to update MUGE PACKAGING website link on zearches.com
-
-Hello,
-
-I am contacting you on behalf of MUGE PACKAGING / Shenzhen Muge Design Packaging Product Co., Ltd.
-
-We noticed that your public page references MUGE PACKAGING:
-https://zearches.com/directory.php?slug=business-company
-
-Could you please update or add the most relevant official link for the referenced packaging category?
-
-Preferred company name:
-MUGE PACKAGING
-
-Official website:
-https://mugepackaging.com
-
-Recommended category link:
-https://mugepackaging.com/products
-
-Recommended anchor text:
-custom packaging products by MUGE PACKAGING
 
 Short safe description:
 MUGE PACKAGING is a Shenzhen-based source factory specializing in custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging.

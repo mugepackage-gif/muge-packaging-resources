@@ -18,6 +18,21 @@
   ],
   "verified_external_results": [
     {
+      "type": "priority_a_third_party_link_editor_request_pack",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/priority-a-third-party-link-editor-request-pack-2026-06-01.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/priority-a-third-party-link-editor-request-pack-2026-06-01.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/priority-a-third-party-link-editor-request-pack-2026-06-01.json",
+      "summary": {
+        "unique_priority_a_items": 4,
+        "precheck_ok": 4,
+        "contains_brand": 4,
+        "contains_domain": 4
+      },
+      "verification": "Generated copy-ready editor request pack for 4 unique A-priority third-party pages. Precheck confirmed 4 reachable pages and 4 pages already containing the official domain.",
+      "counting_rule": "Counts as a verified public execution asset and manual outreach source; it does not count as completed outreach or new backlink movement until platform changes are submitted and reverified."
+    },
+    {
       "type": "top_20_backlink_opportunity_live_precheck",
       "platform": "GitHub Pages",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/top-20-backlink-opportunity-live-precheck-2026-06-01.html",
@@ -51,21 +66,6 @@
       },
       "verification": "Strict independent-third-party-only pack. Maps 28 verified independent direct-link pages across 68 hosts to official MUGE PACKAGING P0/P1 pages for manual profile correction and editor requests.",
       "counting_rule": "Counts as a verified public execution asset and crawlable P0/P1 link-update routing source; it does not count as completed manual outreach or a new backlink until the third-party page changes are verified."
-    },
-    {
-      "type": "priority_a_third_party_link_editor_request_pack",
-      "platform": "GitHub Pages",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/priority-a-third-party-link-editor-request-pack-2026-06-01.html",
-      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/priority-a-third-party-link-editor-request-pack-2026-06-01.md",
-      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/priority-a-third-party-link-editor-request-pack-2026-06-01.json",
-      "summary": {
-        "unique_priority_a_items": 5,
-        "precheck_ok": 5,
-        "contains_brand": 4,
-        "contains_domain": 4
-      },
-      "verification": "Generated copy-ready editor request pack for 5 unique A-priority third-party pages. Precheck confirmed 5 reachable pages and 4 pages already containing the official domain.",
-      "counting_rule": "Counts as a verified public execution asset and manual outreach source; it does not count as completed outreach or new backlink movement until platform changes are submitted and reverified."
     },
     {
       "type": "ai_buyer_question_third_party_support_map",
