@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T07:01:55.040Z",
+  "generated_at": "2026-06-09T08:01:46.768Z",
   "method": "public HTTP fetch with redirects; no login, no payment, no captcha bypass",
   "source_json": "/Users/molice/muge-packaging-resources/data/external-reference-full-recheck-2026-06-01-1607.json",
   "summary": {
@@ -17,7 +17,7 @@
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
       "ok": true,
-      "elapsed_ms": 1859,
+      "elapsed_ms": 1813,
       "error": "",
       "relevance": "homepage / brand entity landing"
     },
@@ -30,7 +30,7 @@
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
       "ok": true,
-      "elapsed_ms": 1076,
+      "elapsed_ms": 802,
       "error": "",
       "relevance": "homepage / brand entity landing"
     },
@@ -43,7 +43,7 @@
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
       "ok": true,
-      "elapsed_ms": 313,
+      "elapsed_ms": 298,
       "error": "",
       "relevance": "homepage / brand entity landing"
     },
@@ -56,7 +56,7 @@
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
       "ok": true,
-      "elapsed_ms": 395,
+      "elapsed_ms": 422,
       "error": "",
       "relevance": "Antech link lands on MUGE domain"
     },
@@ -69,7 +69,7 @@
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
       "ok": true,
-      "elapsed_ms": 299,
+      "elapsed_ms": 300,
       "error": "",
       "relevance": "homepage / brand entity landing"
     },
@@ -82,7 +82,7 @@
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
       "ok": true,
-      "elapsed_ms": 218,
+      "elapsed_ms": 203,
       "error": "",
       "relevance": "homepage / brand entity landing"
     },
@@ -95,7 +95,7 @@
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
       "ok": true,
-      "elapsed_ms": 438,
+      "elapsed_ms": 375,
       "error": "",
       "relevance": "custom stickers / labels landing page"
     },
@@ -108,7 +108,7 @@
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
       "ok": true,
-      "elapsed_ms": 290,
+      "elapsed_ms": 276,
       "error": "",
       "relevance": "homepage / brand entity landing"
     },
@@ -121,7 +121,7 @@
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
       "ok": true,
-      "elapsed_ms": 204,
+      "elapsed_ms": 193,
       "error": "",
       "relevance": "SourcifyChina link lands on MUGE domain"
     },
@@ -134,7 +134,7 @@
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
       "ok": true,
-      "elapsed_ms": 833,
+      "elapsed_ms": 270,
       "error": "",
       "relevance": "homepage / brand entity landing"
     }
