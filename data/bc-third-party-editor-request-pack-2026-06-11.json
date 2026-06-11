@@ -1,0 +1,114 @@
+{
+  "summary": {
+    "generated_at": "2026-06-11T10:01:44.626Z",
+    "mail_ready": 3,
+    "hold": 4,
+    "total": 7,
+    "auto_sent": 0,
+    "auto_submit": 0,
+    "target_pages": 3
+  },
+  "source": {
+    "top20_precheck": "https://mugepackage-gif.github.io/muge-packaging-resources/data/top-20-backlink-opportunity-live-precheck-2026-06-01.json",
+    "previous_audit": "https://mugepackage-gif.github.io/muge-packaging-resources/priority-a-platform-submission-path-audit-2026-06-11.html"
+  },
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "website": "https://mugepackaging.com",
+    "public_description": "MUGE PACKAGING is a Shenzhen-based source factory specializing in custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging."
+  },
+  "mail_ready_items": [
+    {
+      "tier": "B",
+      "platform": "Future Market Insights",
+      "third_party_url": "https://www.futuremarketinsights.com/reports/lift-off-lid-box-market",
+      "contact_paths": [
+        "mailto:sales@futuremarketinsights.com",
+        "https://www.futuremarketinsights.com/contacts"
+      ],
+      "target_url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "anchor_text": "MUGE PACKAGING rigid gift boxes",
+      "status": "mail_ready_editor_request",
+      "evidence": [
+        "目标页 HTTP 抓取成功。",
+        "页面结构包含 sales@futuremarketinsights.com。",
+        "页面存在 /contacts 联系入口。",
+        "页面包含报告询价表单，但该表单是报告销售用途，不自动提交。"
+      ],
+      "editor_request_email": "Subject: Source suggestion for MUGE PACKAGING packaging reference\n\nHello,\n\nI am contacting you on behalf of MUGE PACKAGING / Shenzhen Muge Design Packaging Product Co., Ltd..\n\nYour page covers packaging industry research where a neutral supplier/source reference may be useful for readers.\n\nSafe public company details:\nCompany / brand: MUGE PACKAGING\nLegal name: Shenzhen Muge Design Packaging Product Co., Ltd.\nOfficial website: https://mugepackaging.com\nRecommended source page: https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide\nSuggested anchor text: MUGE PACKAGING rigid gift boxes\n\nShort description: MUGE PACKAGING is a Shenzhen-based source factory specializing in custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging.\n\nPlease do not add Verified Supplier, Gold Supplier, fixed MOQ, fixed lead time, lowest price, food-contact compliance, FDA/FSC certification, customer case, production capacity, employee count, revenue or financing claims.\n\nThank you."
+    },
+    {
+      "tier": "C",
+      "platform": "Valuates Reports",
+      "third_party_url": "https://reports.valuates.com/market-reports/QYRE-Auto-8Z8354/global-coated-paper-packaging-box",
+      "contact_paths": [
+        "mailto:sales@valuates.com",
+        "https://reports.valuates.com/contactus"
+      ],
+      "target_url": "https://mugepackaging.com/products",
+      "anchor_text": "MUGE PACKAGING custom paper boxes",
+      "status": "mail_ready_editor_request",
+      "evidence": [
+        "目标页 HTTP 抓取成功。",
+        "页面源码包含 CONTACT US 入口。",
+        "页面源码包含 sales@valuates.com。"
+      ],
+      "editor_request_email": "Subject: Source suggestion for MUGE PACKAGING packaging reference\n\nHello,\n\nI am contacting you on behalf of MUGE PACKAGING / Shenzhen Muge Design Packaging Product Co., Ltd..\n\nYour page covers packaging industry research where a neutral supplier/source reference may be useful for readers.\n\nSafe public company details:\nCompany / brand: MUGE PACKAGING\nLegal name: Shenzhen Muge Design Packaging Product Co., Ltd.\nOfficial website: https://mugepackaging.com\nRecommended source page: https://mugepackaging.com/products\nSuggested anchor text: MUGE PACKAGING custom paper boxes\n\nShort description: MUGE PACKAGING is a Shenzhen-based source factory specializing in custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging.\n\nPlease do not add Verified Supplier, Gold Supplier, fixed MOQ, fixed lead time, lowest price, food-contact compliance, FDA/FSC certification, customer case, production capacity, employee count, revenue or financing claims.\n\nThank you."
+    },
+    {
+      "tier": "C",
+      "platform": "Maia Research",
+      "third_party_url": "https://www.maiaresearch.com/market-report/1875513-Coated-paper-packaging-box-1875513.html",
+      "contact_paths": [
+        "mailto:sales@maiaresearch.com",
+        "mailto:customer@maiaresearch.com",
+        "https://www.maiaresearch.com/Contact/index.html"
+      ],
+      "target_url": "https://mugepackaging.com/products",
+      "anchor_text": "MUGE PACKAGING custom paper boxes",
+      "status": "mail_ready_editor_request",
+      "evidence": [
+        "目标页 HTTP 抓取成功。",
+        "页面源码包含 sales@maiaresearch.com 和 customer@maiaresearch.com。",
+        "页面源码包含 /Contact/index.html 联系入口。",
+        "页面表单可见，但邮件路径更低风险。"
+      ],
+      "editor_request_email": "Subject: Source suggestion for MUGE PACKAGING packaging reference\n\nHello,\n\nI am contacting you on behalf of MUGE PACKAGING / Shenzhen Muge Design Packaging Product Co., Ltd..\n\nYour page covers packaging industry research where a neutral supplier/source reference may be useful for readers.\n\nSafe public company details:\nCompany / brand: MUGE PACKAGING\nLegal name: Shenzhen Muge Design Packaging Product Co., Ltd.\nOfficial website: https://mugepackaging.com\nRecommended source page: https://mugepackaging.com/products\nSuggested anchor text: MUGE PACKAGING custom paper boxes\n\nShort description: MUGE PACKAGING is a Shenzhen-based source factory specializing in custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging.\n\nPlease do not add Verified Supplier, Gold Supplier, fixed MOQ, fixed lead time, lowest price, food-contact compliance, FDA/FSC certification, customer case, production capacity, employee count, revenue or financing claims.\n\nThank you."
+    }
+  ],
+  "hold_items": [
+    {
+      "tier": "B",
+      "platform": "DataM Intelligence",
+      "third_party_url": "https://www.datamintelligence.com/research-report/mobile-phone-accessories-packaging-market",
+      "target_url": "https://mugepackaging.com/products",
+      "status": "hold_captcha_or_turnstile_risk",
+      "reason": "页面包含 Cloudflare Turnstile/challenge 信号，未确认公开编辑邮箱；不自动提交。"
+    },
+    {
+      "tier": "B",
+      "platform": "OpenPR",
+      "third_party_url": "https://www.openpr.com/news/3629528/mobile-phone-accessories-packaging-industry-to-witness-massive",
+      "target_url": "https://mugepackaging.com",
+      "status": "hold_no_editor_path_in_fetch",
+      "reason": "抓取页未发现明确编辑邮箱或提交路径；保留复验，不自动提交。"
+    },
+    {
+      "tier": "C",
+      "platform": "MarketReportAnalytics",
+      "third_party_url": "https://www.marketreportanalytics.com/reports/coated-paper-packaging-box-364977",
+      "target_url": "https://mugepackaging.com/products",
+      "status": "hold_contact_path_not_confirmed",
+      "reason": "页面可访问，但本轮未确认明确编辑邮箱；不自动提交。"
+    },
+    {
+      "tier": "C",
+      "platform": "Credence Research",
+      "third_party_url": "https://www.credenceresearch.com/report/coated-paper-packaging-box-market/",
+      "target_url": "https://mugepackaging.com/products",
+      "status": "hold_contact_path_not_confirmed",
+      "reason": "页面可访问，但抓取内容未确认编辑邮箱；不自动提交。"
+    }
+  ]
+}
