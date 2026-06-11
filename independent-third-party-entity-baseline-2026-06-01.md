@@ -10,14 +10,14 @@ date: 2026-06-01
 
 # MUGE PACKAGING 独立第三方外部实体基线
 
-- Generated at: 2026-06-09T15:15:30.169Z
+- Generated at: 2026-06-11T06:13:02.780Z
 - Official website: https://mugepackaging.com
-- Independent third-party assets: 174
-- Independent direct website links: 42
+- Independent third-party assets: 218
+- Independent direct website links: 67
 - Independent indirect links: 30
 - Independent structured sameAs: 2
-- Independent mention-only assets: 102
-- Independent hosts: 78
+- Independent mention-only assets: 119
+- Independent hosts: 76
 
 ## Counting Rule
 
@@ -27,18 +27,19 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 
 | Host | Count |
 |---|---:|
+| packaging-industry.info | 35 |
 | sitelike.org | 30 |
+| web.archive.org | 20 |
 | siteprice.org | 13 |
 | made-in-china.com | 11 |
-| packaging-industry.info | 8 |
 | marketreportanalytics.com | 7 |
-| pdf.marketpublishers.com | 4 |
+| submitpr.org | 5 |
 | 5e20301203be8.site123.me | 4 |
 | playervirus18.pythonanywhere.com | 3 |
 | importgenius.com | 3 |
 | old.reddit.com | 3 |
 | storage.googleapis.com | 3 |
-| web.archive.org | 3 |
+| hypestat.com | 3 |
 | openpr.com | 2 |
 | reports.valuates.com | 2 |
 | feedingtrends.com | 2 |
@@ -53,7 +54,6 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | mercatora.com | 2 |
 | yellowpagesonline.com | 2 |
 | es.made-in-china.com | 2 |
-| submitpr.org | 2 |
 | businessseek.biz | 2 |
 | datamintelligence.com | 1 |
 | databridgemarketresearch.com | 1 |
@@ -80,8 +80,6 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | Siteprice competitors page listing MUGE under packagingbox.org | 聚合目录页 | siteprice.org | 200 | https://www.siteprice.org/competitors/packagingbox.org |
 | CricketInfo domain list page | 域名列表页 | cricketinfo.co.in | 200 | https://www.cricketinfo.co.in/domain-list-523 |
 | Legacy WordPress MUGE shoe packaging article | 历史自建外部内容 | mugepackaging.wordpress.com | 200 | https://mugepackaging.wordpress.com/2021/06/19/imaginative-shoe-packaging-ideas/ |
-| LinkedIn company page CN URL | 社媒资料页 | cn.linkedin.com | 200 | https://cn.linkedin.com/company/mugepackaging |
-| LinkedIn company page | 社媒资料页 | linkedin.com | 200 | https://www.linkedin.com/company/mugepackaging/ |
 | OMMMM MUGE public profile | 社区资料页 | ommmm.com | 200 | https://ommmm.com/users/mugepackaging/ |
 | Old Reddit MUGE historical post direct URL | 历史社媒帖 | old.reddit.com | 200 | https://old.reddit.com/user/mugepackaging1/comments/ookn5u/custom_boxes_wholesale/ |
 | Blogspot handkerchief gift box image source page | 图片热链/博客聚合页 | new27ledscreen.blogspot.com | 200 | https://new27ledscreen.blogspot.com/2020/11/34-hankercheif-gift-boxes-png.html |
@@ -90,6 +88,33 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | YellowPagesOnline MUGE business profile | B2B资料页 | yellowpagesonline.com | 200 | https://www.yellowpagesonline.com/china/shenzhen-shi/boxes-retail/muge-packaging |
 | Azure Blob gift box with window image source mention | 图片来源聚合页 | giofgrzaa.blob.core.windows.net | 200 | https://giofgrzaa.blob.core.windows.net/gift-box-with-window.html |
 | ScamAdviser MUGE website check page | 域名声誉/安全检查页 | scamadviser.com | 200 | https://www.scamadviser.com/check-website/mugepackaging.com |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1491 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/custom-labels-and-sticker-packaging-what-buyers-should-confirm-before-ordering-5-1491/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1487 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-8-1487/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1485 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/clear-pvc-and-pet-boxes-a-buyer-checklist-for-retail-display-packaging-4-1485/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1483 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/custom-packaging-manufacturer-review-checklist-for-international-buyers-4-1483/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1481 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-11-1481/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1478 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-what-e-commerce-buyers-should-confirm-before-sampling-5-1478/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1477 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/custom-labels-and-sticker-packaging-what-buyers-should-confirm-before-ordering-4-1477/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1473 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/custom-printed-packaging-boxes-with-logo-what-buyers-should-prepare-before-sampling-3-1473/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1471 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/cosmetic-packaging-supplier-review-checklist-for-skincare-brands-3-1471/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1475 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/clear-pvc-and-pet-boxes-a-buyer-checklist-for-retail-display-packaging-3-1475/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1469 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/how-buyers-should-compare-rigid-gift-box-structures-before-sampling-10-1469/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1465 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/custom-packaging-manufacturer-review-checklist-for-international-buyers-3-1465/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1447 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-what-e-commerce-buyers-should-confirm-before-sampling-2-1447/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1441 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-9-1441/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1445 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-6-1445/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1431 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/custom-packaging-manufacturer-review-checklist-for-international-buyers-1431/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1429 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/cosmetic-packaging-supplier-review-checklist-for-skincare-brands-1429/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1427 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/how-buyers-should-compare-rigid-gift-box-structures-before-sampling-6-1427/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1425 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/custom-printed-packaging-boxes-with-logo-what-buyers-should-prepare-before-sampling-1425/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1423 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-what-e-commerce-buyers-should-confirm-before-sampling-1423/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1421 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/custom-labels-and-sticker-packaging-what-buyers-should-confirm-before-ordering-2-1421/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1419 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-7-1419/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1417 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/clear-pvc-and-pet-boxes-a-buyer-checklist-for-retail-display-packaging-1417/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1415 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/custom-labels-and-sticker-packaging-what-buyers-should-confirm-before-ordering-1415/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1413 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/how-buyers-should-compare-rigid-gift-box-structures-before-sampling-5-1413/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1411 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-6-1411/ |
+| Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1409 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-4-1409/ |
 | Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1402 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-3-1402/ |
 | Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1399 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-4-1399/ |
 | Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1397 | third_party_article | packaging-industry.info | 200 | https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-3-1397/ |
@@ -128,7 +153,6 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | openPR hazardous chemicals packaging market news mention | 新闻稿聚合页 | openpr.com | 200 | https://www.openpr.com/news/2743885/hazardous-chemicals-packaging-market-witness-an-outstanding |
 | MarketReportAnalytics hazardous chemicals packaging expansion strategies | 市场报告 | marketreportanalytics.com | 200 | https://www.marketreportanalytics.com/reports/hazardous-chemicals-packaging-358821 |
 | MarketResearchReports hazardous chemicals packaging growth report | 市场报告 | marketresearchreports.com | 200 | https://www.marketresearchreports.com/lpi/global-hazardous-chemicals-packaging-market-growth-2024-2030 |
-| MarketPublishers hazardous chemicals packaging HTML report 2024 | 市场报告 | marketpublishers.com | 200 | https://marketpublishers.com/report/industry/other_industries/global-hazardous-chemicals-packaging-market-research-report-2024status-n-outlook.html |
 | Maia Research hazardous chemicals packaging market report | 市场报告 | maiaresearch.com | 200 | https://www.maiaresearch.com/market-report/1638293-Packaging-of-hazardous-chemicals-1638293.html |
 | Cognitive Market Research hazardous chemicals packaging market report | 市场报告 | cognitivemarketresearch.com | 200 | https://www.cognitivemarketresearch.com/hazardous-chemicals-packaging-market-report |
 | MarketReportAnalytics hazardous chemicals packaging report 364988 | 市场报告 | marketreportanalytics.com | 200 | https://www.marketreportanalytics.com/reports/hazardous-chemicals-packaging-364988 |
@@ -138,10 +162,6 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | DataInsightsReports coated paper packaging box report | 市场报告 | datainsightsreports.com | 200 | https://www.datainsightsreports.com/reports/coated-paper-packaging-box-568132 |
 | ReportsAndMarkets coated paper packaging box report 4512898 | 市场报告 | reportsandmarkets.com | 200 | https://www.reportsandmarkets.com/reports/global-coated-paper-packaging-box-market-4512898 |
 | DataInsightsMarket coated paper packaging box report | 市场报告 | datainsightsmarket.com | 200 | https://www.datainsightsmarket.com/reports/coated-paper-packaging-box-349294 |
-| MarketPublishers coated paper packaging box PDF report 2020 | 市场报告PDF | pdf.marketpublishers.com | 200 | https://pdf.marketpublishers.com/bisreport/global-coated-paper-packaging-box-market-report-2020.pdf |
-| MarketPublishers coated paper packaging box PDF status report 2021 | 市场报告PDF | pdf.marketpublishers.com | 200 | https://pdf.marketpublishers.com/bisreport/global-coated-paper-packaging-box-market-status-trends-n-covid-19-impact-report-2021.pdf |
-| MarketPublishers hazardous chemicals packaging PDF status report 2021 | 市场报告PDF | pdf.marketpublishers.com | 200 | https://pdf.marketpublishers.com/bisreport/global-hazardous-chemicals-packaging-market-status-trends-n-covid-19-impact-report-2021.pdf |
-| MarketPublishers hazardous chemicals packaging PDF research report 2025 | 市场报告PDF | pdf.marketpublishers.com | 200 | https://pdf.marketpublishers.com/bosson_research/global-hazardous-chemicals-packaging-market-research-report-2024status-n-outlook.pdf |
 | Mercatora homepage verified suppliers section | B2B平台首页 | mercatora.com | 200 | https://www.mercatora.com/ |
 | Mercatora MUGE company profile | B2B资料页 | mercatora.com | 200 | https://www.mercatora.com/companies/shenzhen-muge-design-packaging-product-co-ltd-3a52f2 |
 | ImportGenius shipment mention | 贸易数据页 | importgenius.com | 200 | https://www.importgenius.com/suppliers/shenzhen-muge-design-packaging-prod |
@@ -189,3 +209,8 @@ Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Wor
 | Made-in-China Portuguese storage packaging box supplier list | B2B目录列表页 | pt.made-in-china.com | 200 | https://pt.made-in-china.com/company-search/storage-packaging-box/huntq--AR_4/1.html |
 | ImportGenius Fuggin Vapor importer trade partner page | 贸易数据页 | importgenius.com | 200 | https://www.importgenius.com/importers/fuggin-vapor-co |
 | Trademo Shenzhen Muge Packaging & Printing trade profile | 贸易数据页 | trademo.com | 200 | https://www.trademo.com/companies/shenzhen-muge-packaging-printing/27801441 |
+| Pakoro China box manufacturers list | 行业榜单页 | pakoro.com | 200 | https://pakoro.com/blog/box-manufacturers-china/ |
+| Website Informer MUGE domain page | 域名信息页 | website.informer.com | 200 | https://website.informer.com/mugepackaging.com |
+| StatShow MUGE domain valuation page | 域名信息页 | statshow.com | 200 | https://www.statshow.com/www/mugepackaging.com |
+| StatsCrop MUGE domain analytics page | 域名信息页 | statscrop.com | 200 | https://www.statscrop.com/www/mugepackaging.com |
+| CubDomain MUGE domain analysis page | 域名信息页 | cubdomain.com | 403 | https://www.cubdomain.com/site/mugepackaging.com |

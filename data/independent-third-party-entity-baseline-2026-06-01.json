@@ -1,21 +1,29 @@
 {
   "name": "MUGE PACKAGING Independent Third-Party Entity Baseline 2026-06-01",
-  "generatedAt": "2026-06-09T15:15:30.169Z",
-  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-09_2307_MUGE外部品牌提及复验基线.json",
+  "generatedAt": "2026-06-11T06:13:02.780Z",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/品牌提及基线/2026-06-11_1357_MUGE外部品牌提及复验基线.json",
   "countingRule": "Excludes self-controlled GitHub, GitHub Pages, Gist raw, Netlify, Cloudflare Workers, Weebly and official mugepackaging.com URLs. verified_link means independent public page with direct website link; verified_mention means independent public brand/entity mention only.",
   "summary": {
-    "sourceRows": 864,
-    "independentThirdPartyAssets": 174,
-    "independentDirectLinks": 42,
+    "sourceRows": 926,
+    "independentThirdPartyAssets": 218,
+    "independentDirectLinks": 67,
     "independentIndirectLinks": 30,
     "independentStructuredSameAs": 2,
-    "independentMentionOnly": 102,
-    "independentHosts": 78
+    "independentMentionOnly": 119,
+    "independentHosts": 76
   },
   "topHosts": [
     {
+      "host": "packaging-industry.info",
+      "count": 35
+    },
+    {
       "host": "sitelike.org",
       "count": 30
+    },
+    {
+      "host": "web.archive.org",
+      "count": 20
     },
     {
       "host": "siteprice.org",
@@ -26,16 +34,12 @@
       "count": 11
     },
     {
-      "host": "packaging-industry.info",
-      "count": 8
-    },
-    {
       "host": "marketreportanalytics.com",
       "count": 7
     },
     {
-      "host": "pdf.marketpublishers.com",
-      "count": 4
+      "host": "submitpr.org",
+      "count": 5
     },
     {
       "host": "5e20301203be8.site123.me",
@@ -58,7 +62,7 @@
       "count": 3
     },
     {
-      "host": "web.archive.org",
+      "host": "hypestat.com",
       "count": 3
     },
     {
@@ -115,10 +119,6 @@
     },
     {
       "host": "es.made-in-china.com",
-      "count": 2
-    },
-    {
-      "host": "submitpr.org",
       "count": 2
     },
     {
@@ -280,22 +280,6 @@
       "note": "2026-05-30 单页复验检出 Muge Packaging 与官网链接；只作弱外链和实体资产，不引用旧 FSC/CE 或旧分类话术。"
     },
     {
-      "label": "LinkedIn company page CN URL",
-      "type": "社媒资料页",
-      "url": "https://cn.linkedin.com/company/mugepackaging",
-      "httpStatus": 200,
-      "host": "cn.linkedin.com",
-      "note": "公开页 JSON-LD 可能含 sameAs 官网关联；计入 GEO 实体关系，不冒充传统 href 外链。"
-    },
-    {
-      "label": "LinkedIn company page",
-      "type": "社媒资料页",
-      "url": "https://www.linkedin.com/company/mugepackaging/",
-      "httpStatus": 200,
-      "host": "linkedin.com",
-      "note": "公开抓取受登录墙和地区影响，能稳定检出才计入。"
-    },
-    {
       "label": "OMMMM MUGE public profile",
       "type": "社区资料页",
       "url": "https://ommmm.com/users/mugepackaging/",
@@ -358,6 +342,222 @@
       "httpStatus": 200,
       "host": "scamadviser.com",
       "note": "2026-05-30 公开页面检出 mugepackaging.com 并含 Visit 官网链接；只计入外部链接与实体资产，不引用其评分或安全结论。"
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1491",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/custom-labels-and-sticker-packaging-what-buyers-should-confirm-before-ordering-5-1491/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1487",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-8-1487/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1485",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/clear-pvc-and-pet-boxes-a-buyer-checklist-for-retail-display-packaging-4-1485/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1483",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/custom-packaging-manufacturer-review-checklist-for-international-buyers-4-1483/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1481",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-11-1481/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1478",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-what-e-commerce-buyers-should-confirm-before-sampling-5-1478/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1477",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/custom-labels-and-sticker-packaging-what-buyers-should-confirm-before-ordering-4-1477/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1473",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/custom-printed-packaging-boxes-with-logo-what-buyers-should-prepare-before-sampling-3-1473/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1471",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/cosmetic-packaging-supplier-review-checklist-for-skincare-brands-3-1471/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1475",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/clear-pvc-and-pet-boxes-a-buyer-checklist-for-retail-display-packaging-3-1475/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1469",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/how-buyers-should-compare-rigid-gift-box-structures-before-sampling-10-1469/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1465",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/custom-packaging-manufacturer-review-checklist-for-international-buyers-3-1465/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1447",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-what-e-commerce-buyers-should-confirm-before-sampling-2-1447/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1441",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-9-1441/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info with MUGE PACKAGING, legal company name and direct product-page link."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1445",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-6-1445/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1431",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/custom-packaging-manufacturer-review-checklist-for-international-buyers-1431/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article contains MUGE PACKAGING, legal name and official URL text; no official-site href backlink was present in the live HTML."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1429",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/cosmetic-packaging-supplier-review-checklist-for-skincare-brands-1429/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1427",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/how-buyers-should-compare-rigid-gift-box-structures-before-sampling-6-1427/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1425",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/custom-printed-packaging-boxes-with-logo-what-buyers-should-prepare-before-sampling-1425/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1423",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-what-e-commerce-buyers-should-confirm-before-sampling-1423/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1421",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/custom-labels-and-sticker-packaging-what-buyers-should-confirm-before-ordering-2-1421/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1419",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-7-1419/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1417",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/clear-pvc-and-pet-boxes-a-buyer-checklist-for-retail-display-packaging-1417/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1415",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/custom-labels-and-sticker-packaging-what-buyers-should-confirm-before-ordering-1415/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1413",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/how-buyers-should-compare-rigid-gift-box-structures-before-sampling-5-1413/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1411",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-6-1411/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
+    },
+    {
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1409",
+      "type": "third_party_article",
+      "url": "https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-4-1409/",
+      "httpStatus": 200,
+      "host": "packaging-industry.info",
+      "note": "Third-party public article published on Packaging-Industry.info and verified by live fetch."
     },
     {
       "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1402",
@@ -569,7 +769,7 @@
       "url": "https://www.marketreportanalytics.com/reports/coated-paper-packaging-box-364977",
       "httpStatus": 200,
       "host": "marketreportanalytics.com",
-      "snippet": "roy Cultural Creativity,JK Paper,Shanghai Custom Packaging,The Siam Cement Public Company,Muge Packaging,Koch Industries,Mondi Group.\\\"}}]}\"]) self.__next_f.push([1,\"{\\\"@context\\\":\\\"https://schema.org\\\",",
+      "snippet": "roy Cultural Creativity,JK Paper,Shanghai Custom Packaging,The Siam Cement Public Company,Muge Packaging,Koch Industries,Mondi Group.\\\"}},{\\\"@type\\\":\\\"Question\\\",\\\"name\\\":\\\"Are there any additional resources or data provided in the report?\\\",\\\"acceptedAnswer\\\":{\\\"@type\\",
       "note": "2026-05-31 公开页面 HTTP 200，检出 Muge Packaging；无官网 href，只计入第三方品牌/实体提及，不引用市场份额或未核实描述。"
     },
     {
@@ -643,15 +843,6 @@
       "host": "marketresearchreports.com",
       "snippet": "enetration. Time Technoplast Heritage Precision IBC Siam Cement Group Muge Packaging Koch Industries Mondi Group Key Questions Addressed in this Report What is the 10-year outlook for the global Hazardous Chemicals Packaging market?",
       "note": "2026-05-30 单页复验检出 Muge Packaging；涉及危险化学品包装报告，只作第三方品牌提及信号，不作为 MUGE 资质、业务范围或合规承诺引用。"
-    },
-    {
-      "label": "MarketPublishers hazardous chemicals packaging HTML report 2024",
-      "type": "市场报告",
-      "url": "https://marketpublishers.com/report/industry/other_industries/global-hazardous-chemicals-packaging-market-research-report-2024status-n-outlook.html",
-      "httpStatus": 200,
-      "host": "marketpublishers.com",
-      "snippet": "strong> Time Technoplast Heritage Precision IBC Siam Cement Group Muge Packaging Koch Industries Mondi Group Market Segmentation (by Type) Metal Hazardous Chemicals Packaging Plastic Hazardous Chemica",
-      "note": "2026-05-30 公开 HTML 检出 Muge Packaging；涉及危险化学品包装报告，只作第三方品牌提及信号，不作为 MUGE 资质、业务范围或合规承诺引用。"
     },
     {
       "label": "Maia Research hazardous chemicals packaging market report",
@@ -733,42 +924,6 @@
       "host": "datainsightsmarket.com",
       "snippet": "d solutions, driven by innovation and sustainability efforts.\\u003c/li\\u003e\\u003cli\\u003eMuge Packaging: A manufacturer recognized for its capabilities in producing high-quality coated paper packaging boxes, catering to sectors demanding superior printability and struc",
       "note": "2026-05-30 公开 HTML 检出 Muge Packaging；无官网链接，只计入品牌/实体提及，不作为客户案例、产能、资质或产品质量承诺引用。"
-    },
-    {
-      "label": "MarketPublishers coated paper packaging box PDF report 2020",
-      "type": "市场报告PDF",
-      "url": "https://pdf.marketpublishers.com/bisreport/global-coated-paper-packaging-box-market-report-2020.pdf",
-      "httpStatus": 200,
-      "host": "pdf.marketpublishers.com",
-      "snippet": "Box Market Report 2020 JK Paper Shanghai Custom Packaging The Siam Cement Public Company Muge Packaging Koch Industries Mondi Group Section 4: 900 USDRegion Segmentation North America Country (United States, Canada) South America Asia Country (China, Japan, India, Ko",
-      "note": "2026-05-29 搜索发现并下载复核，PDF 正文检出 Muge Packaging；无官网 href，只计入品牌/实体提及。"
-    },
-    {
-      "label": "MarketPublishers coated paper packaging box PDF status report 2021",
-      "type": "市场报告PDF",
-      "url": "https://pdf.marketpublishers.com/bisreport/global-coated-paper-packaging-box-market-status-trends-n-covid-19-impact-report-2021.pdf",
-      "httpStatus": 200,
-      "host": "pdf.marketpublishers.com",
-      "snippet": "roy Cultural Creativity JK Paper Shanghai Custom Packaging The Siam Cement Public Company Muge Packaging Koch Industries Mondi Group Section 4: 900 USDRegion Segment North America (United States, Canada, Mexico) South America (Brazil, Argentina, Other) Asia Pacific (C",
-      "note": "2026-05-29 搜索发现并下载复核，PDF 正文检出 Muge Packaging；无官网 href，只计入品牌/实体提及。"
-    },
-    {
-      "label": "MarketPublishers hazardous chemicals packaging PDF status report 2021",
-      "type": "市场报告PDF",
-      "url": "https://pdf.marketpublishers.com/bisreport/global-hazardous-chemicals-packaging-market-status-trends-n-covid-19-impact-report-2021.pdf",
-      "httpStatus": 200,
-      "host": "pdf.marketpublishers.com",
-      "snippet": ": 1200 USDManufacturer Detail Time Technoplast Heritage Precision IBC Siam Cement Group Muge Packaging Koch Industries Mondi Group ... Section 4: 900 USDRegion Segment North America (United States, Canada, Mexico) South America (Brazil, Argentina, Other) Asia Pacifi",
-      "note": "2026-05-29 搜索发现并下载复核，PDF 正文检出 Muge Packaging；涉及危险化学品包装报告，不作为 MUGE 资质或业务承诺引用。"
-    },
-    {
-      "label": "MarketPublishers hazardous chemicals packaging PDF research report 2025",
-      "type": "市场报告PDF",
-      "url": "https://pdf.marketpublishers.com/bosson_research/global-hazardous-chemicals-packaging-market-research-report-2024status-n-outlook.pdf",
-      "httpStatus": 200,
-      "host": "pdf.marketpublishers.com",
-      "snippet": "se customer groups. Key Company Time Technoplast Heritage Precision IBC Siam Cement Group Muge Packaging Koch Industries Mondi Group Market Segmentation (by Type) Metal Hazardous Chemicals Packaging Plastic Hazardous Chemicals Packaging +357 96 030922 info@marketpublish",
-      "note": "2026-05-29 搜索发现并下载复核，PDF 正文多处检出 Muge Packaging；涉及危险化学品包装报告，不作为 MUGE 资质或业务承诺引用。"
     },
     {
       "label": "Mercatora homepage verified suppliers section",
@@ -992,7 +1147,7 @@
       "url": "https://www.marketreportanalytics.com/reports/coated-paper-packaging-box-368383",
       "httpStatus": 200,
       "host": "marketreportanalytics.com",
-      "snippet": "roy Cultural Creativity,JK Paper,Shanghai Custom Packaging,The Siam Cement Public Company,Muge Packaging,Koch Industries,Mondi Group.\\\"}},{\\\"@type\\\":\\\"Question\\\",\\\"name\\\":\\\"Can you provide details about the market size?\\\",\\\"acceptedAnswer\\\":{\\\"@type\\\":\\\"Answer\\\",\\\"text\\",
+      "snippet": "roy Cultural Creativity,JK Paper,Shanghai Custom Packaging,The Siam Cement Public Company,Muge Packaging,Koch Industries,Mondi Group.\\\"}},{\\\"@type\\\":\\\"Question\\\",\\\"name\\\":\\\"How do I determine which pricing option suits my needs best?\\\",\\\"acceptedAnswer\\\":{\\\"@type\\\":\\\"An",
       "note": "公开 HTML 检出 Muge Packaging，通常无官网链接；计入品牌/实体提及，不计入 direct backlink。"
     },
     {
@@ -1192,6 +1347,51 @@
       "host": "trademo.com",
       "snippet": "web.open 2026-05-31 lines 72-80: shenzhen muge packaging & printing; based out of china with export shipments recorded in global import export data.",
       "note": "2026-05-31 web.open 可公开读取并检出 shenzhen muge packaging & printing、纸盒出口记录；本机 fetch 403，使用人工证据口径，只作实体信号跟踪。"
+    },
+    {
+      "label": "Pakoro China box manufacturers list",
+      "type": "行业榜单页",
+      "url": "https://pakoro.com/blog/box-manufacturers-china/",
+      "httpStatus": 200,
+      "host": "pakoro.com",
+      "snippet": "2026-05-31 web.open lines 100-107 and 209-225: Muge Packaging appears in a top 10 box manufacturers China table and detail section.",
+      "note": "2026-05-30 公开 HTML 检出 Muge Packaging / Shenzhen / 250+，未检出官网 href；只计入独立第三方品牌/实体提及，不作为外链或产能承诺引用。"
+    },
+    {
+      "label": "Website Informer MUGE domain page",
+      "type": "域名信息页",
+      "url": "https://website.informer.com/mugepackaging.com",
+      "httpStatus": 200,
+      "host": "website.informer.com",
+      "snippet": "mugepackaging.com at WI. Muge Packaging | All-in-One Custom Paper Packaging Solution <meta name=\"",
+      "note": "2026-05-29 访问复核后公开页面返回 200，title 检出 Muge Packaging 与 mugepackaging.com；未检出传统 href 外链，只计入品牌/实体提及。"
+    },
+    {
+      "label": "StatShow MUGE domain valuation page",
+      "type": "域名信息页",
+      "url": "https://www.statshow.com/www/mugepackaging.com",
+      "httpStatus": 200,
+      "host": "statshow.com",
+      "snippet": "evisit-after\" content=\"1 day\" /> mugepackaging.com - Worth and traffic estimation | MUGE PACKAGING — Custom Boxes, Tubes & Pouches <meta name=\"description\" content=\"Custom paper boxes, rigid gift boxes, paper tubes, PVC/PET clear boxes and corrugated packag",
+      "note": "2026-05-29 访问复核后公开页面返回 200，title 检出 MUGE PACKAGING；未检出传统 href 外链，只计入品牌/实体提及。"
+    },
+    {
+      "label": "StatsCrop MUGE domain analytics page",
+      "type": "域名信息页",
+      "url": "https://www.statscrop.com/www/mugepackaging.com",
+      "httpStatus": 200,
+      "host": "statscrop.com",
+      "snippet": "Muge Packaging: Mugepackaging.com - StatsCrop <meta name=\"description\" content=\"Mugepackaging(Muge Packaging): Muge Packaging can provide you with the best custom paper pac",
+      "note": "2026-05-29 访问复核后公开页面返回 200，title/description 检出 Muge Packaging 与 Mugepackaging.com；未检出传统 href 官网外链，只计入品牌/实体提及。"
+    },
+    {
+      "label": "CubDomain MUGE domain analysis page",
+      "type": "域名信息页",
+      "url": "https://www.cubdomain.com/site/mugepackaging.com",
+      "httpStatus": 403,
+      "host": "cubdomain.com",
+      "snippet": "ay: 'a09e6380fc430799',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/site/mugepackaging.com?__cf_chl_tk=jDu8WF.9TNqbRpWE47rSIAdBMMwkkcRo29ihIoIBGJA-1781157555-1.0.1.1-q0DMw2RaVkRQ0O0XCNckAdqKG8WQBLGMeTfwTsqByQg\",cvId: '3',cZone: 'www.cubdomain.com',fa:\"/",
+      "note": "2026-05-29 访问生成/更新的公开域名分析页，检出 mugepackaging.com 直接链接；计入外部实体资产，并交叉进入外链基线。"
     }
   ]
 }
