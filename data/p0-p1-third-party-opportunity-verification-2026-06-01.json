@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-10T06:21:27.442Z",
+  "generated_at": "2026-06-11T03:19:05.282Z",
   "source_json": "/Users/molice/muge-packaging-resources/data/p0-p1-third-party-link-update-pack-2026-06-01.json",
   "brand": "MUGE PACKAGING",
   "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "website": "https://mugepackaging.com",
   "summary": {
-    "total": 19,
-    "verified_direct_link": 16,
-    "verified_entity_signal": 2,
-    "reachable_needs_manual_review": 0,
-    "blocked_or_unreachable_recheck_later": 1
+    "total": 20,
+    "verified_direct_link": 19,
+    "verified_entity_signal": 0,
+    "reachable_needs_manual_review": 1,
+    "blocked_or_unreachable_recheck_later": 0
   },
   "items": [
     {
@@ -28,46 +28,10 @@
           "priority": "P0",
           "label": "Cosmetic packaging supplier selection",
           "official_url": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier"
-        },
-        {
-          "target_id": "pvc-pet-clear-box",
-          "priority": "P0",
-          "label": "PVC/PET clear box packaging",
-          "official_url": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide"
         }
       ],
       "http_status": 200,
       "final_url": "https://www.siteprice.org/competitors/marber.net",
-      "fetch_error": null,
-      "has_official_href": true,
-      "has_official_text": true,
-      "has_brand": true,
-      "has_brand_or_domain": true,
-      "live_status": "verified_direct_link",
-      "snippet_brand": "-center\"> <a href='https://www.siteprice.org/competitors/mugepackaging.com'> <img loading=\"lazy\" src=\"https://www.siteprice.org/SiteThumbs/m/mugepackaging.com.webp\" alt=\"mugepackag",
-      "snippet_domain": "-center\"> <a href='https://www.siteprice.org/competitors/mugepackaging.com'> <img loading=\"lazy\" src=\"https://www.siteprice.org/SiteThumbs/m/mugepackaging.com.webp\" alt=\"mugepackag",
-      "next_action": "保留为已验证第三方 direct link；下一步只做周期复验，不引用页面估值、流量、客户、产能、价格或认证。"
-    },
-    {
-      "priority": "A",
-      "url": "https://www.siteprice.org/competitors/yfpackaging.com",
-      "host": "siteprice.org",
-      "mapped_official_pages": [
-        {
-          "target_id": "custom-packaging-boxes",
-          "priority": "P0",
-          "label": "Custom packaging boxes / product categories",
-          "official_url": "https://mugepackaging.com/products"
-        },
-        {
-          "target_id": "cosmetic-packaging-supplier",
-          "priority": "P0",
-          "label": "Cosmetic packaging supplier selection",
-          "official_url": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier"
-        }
-      ],
-      "http_status": 200,
-      "final_url": "https://www.siteprice.org/competitors/yfpackaging.com",
       "fetch_error": null,
       "has_official_href": true,
       "has_official_text": true,
@@ -109,36 +73,6 @@
       "next_action": "保留为已验证第三方 direct link；下一步只做周期复验，不引用页面估值、流量、客户、产能、价格或认证。"
     },
     {
-      "priority": "A",
-      "url": "https://www.siteprice.org/competitors/packmojo.com",
-      "host": "siteprice.org",
-      "mapped_official_pages": [
-        {
-          "target_id": "cosmetic-packaging-supplier",
-          "priority": "P0",
-          "label": "Cosmetic packaging supplier selection",
-          "official_url": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier"
-        },
-        {
-          "target_id": "pvc-pet-clear-box",
-          "priority": "P0",
-          "label": "PVC/PET clear box packaging",
-          "official_url": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide"
-        }
-      ],
-      "http_status": 200,
-      "final_url": "https://www.siteprice.org/competitors/packmojo.com",
-      "fetch_error": null,
-      "has_official_href": true,
-      "has_official_text": true,
-      "has_brand": true,
-      "has_brand_or_domain": true,
-      "live_status": "verified_direct_link",
-      "snippet_brand": "-center\"> <a href='https://www.siteprice.org/competitors/mugepackaging.com'> <img loading=\"lazy\" src=\"https://www.siteprice.org/SiteThumbs/m/mugepackaging.com.webp\" alt=\"mugepackag",
-      "snippet_domain": "-center\"> <a href='https://www.siteprice.org/competitors/mugepackaging.com'> <img loading=\"lazy\" src=\"https://www.siteprice.org/SiteThumbs/m/mugepackaging.com.webp\" alt=\"mugepackag",
-      "next_action": "保留为已验证第三方 direct link；下一步只做周期复验，不引用页面估值、流量、客户、产能、价格或认证。"
-    },
-    {
       "priority": "B",
       "url": "https://www.sourcifychina.com/top-foldable-gift-box-factory-compare/",
       "host": "sourcifychina.com",
@@ -166,30 +100,6 @@
       "live_status": "verified_direct_link",
       "snippet_brand": "-carton-boxes%2F&amp;width=800\"/><br /> </a></p> <h2>Folding Gift Boxes Wholesale &#8211; Muge Packaging</h2> <p><strong>Product Details:</strong> Folding gift boxes are extraordinarily designed gift boxes made from thick luxury rigid stock, availabl",
       "snippet_domain": "8211; Potentially higher cost compared to standard gift boxes</p> <p><a href=\"https://www.mugepackaging.com/product/folding-gift-boxes-wholesale/\" rel=\"noopener nofollow\" target=\"_blank\"><br /> <img alt=\"Folding Gift Boxes Wholesale - Muge Packaging\"",
-      "next_action": "保留为已验证第三方 direct link；下一步只做周期复验，不引用页面估值、流量、客户、产能、价格或认证。"
-    },
-    {
-      "priority": "B",
-      "url": "https://www.siteprice.org/competitors/mlcustomgiftbox.com",
-      "host": "siteprice.org",
-      "mapped_official_pages": [
-        {
-          "target_id": "custom-packaging-boxes",
-          "priority": "P0",
-          "label": "Custom packaging boxes / product categories",
-          "official_url": "https://mugepackaging.com/products"
-        }
-      ],
-      "http_status": 200,
-      "final_url": "https://www.siteprice.org/competitors/mlcustomgiftbox.com",
-      "fetch_error": null,
-      "has_official_href": true,
-      "has_official_text": true,
-      "has_brand": true,
-      "has_brand_or_domain": true,
-      "live_status": "verified_direct_link",
-      "snippet_brand": "-center\"> <a href='https://www.siteprice.org/competitors/mugepackaging.com'> <img loading=\"lazy\" src=\"https://www.siteprice.org/SiteThumbs/m/mugepackaging.com.webp\" alt=\"mugepackag",
-      "snippet_domain": "-center\"> <a href='https://www.siteprice.org/competitors/mugepackaging.com'> <img loading=\"lazy\" src=\"https://www.siteprice.org/SiteThumbs/m/mugepackaging.com.webp\" alt=\"mugepackag",
       "next_action": "保留为已验证第三方 direct link；下一步只做周期复验，不引用页面估值、流量、客户、产能、价格或认证。"
     },
     {
@@ -266,51 +176,51 @@
     },
     {
       "priority": "B",
-      "url": "https://cn.linkedin.com/company/mugepackaging",
-      "host": "cn.linkedin.com",
+      "url": "https://www.siteprice.org/competitors/papertube.com",
+      "host": "siteprice.org",
       "mapped_official_pages": [
         {
-          "target_id": "rigid-gift-box",
-          "priority": "P0/P1",
-          "label": "Rigid gift box structure and material",
-          "official_url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide"
+          "target_id": "custom-packaging-boxes",
+          "priority": "P0",
+          "label": "Custom packaging boxes / product categories",
+          "official_url": "https://mugepackaging.com/products"
         }
       ],
       "http_status": 200,
-      "final_url": "https://cn.linkedin.com/company/mugepackaging",
+      "final_url": "https://www.siteprice.org/competitors/papertube.com",
       "fetch_error": null,
       "has_official_href": false,
-      "has_official_text": true,
-      "has_brand": true,
-      "has_brand_or_domain": true,
-      "live_status": "verified_entity_signal",
-      "snippet_brand": "uest-enabled=\"true\"> <link rel=\"canonical\" href=\"https://cn.linkedin.com/company/mugepackaging\"> <link rel=\"alternate\" hreflang=\"zh-CN\" href=\"https://cn.linkedin.com/company/mugepackaging\"> <link rel=\"alternate\" hreflang=",
-      "snippet_domain": "\":\"Custom Paper Boxes, Rigid Gift Boxes, Paper Tubes & Clear Packaging\",\"sameAs\":\"https://mugepackaging.com/\"}]} </script> <!----> </head> <body dir=\"ltr\"> <!----><!----><!----> <!----> <!---->",
-      "next_action": "保留为第三方实体信号；如平台可编辑或可联系，补充可点击官网链接和标准品牌名。"
+      "has_official_text": false,
+      "has_brand": false,
+      "has_brand_or_domain": false,
+      "live_status": "reachable_needs_manual_review",
+      "snippet_brand": "",
+      "snippet_domain": "",
+      "next_action": "页面可访问但未检出品牌/官网；需要人工打开复核页面渲染内容或搜索页内 MUGE。"
     },
     {
       "priority": "B",
-      "url": "https://www.linkedin.com/company/mugepackaging/",
-      "host": "linkedin.com",
+      "url": "https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-4-1409/",
+      "host": "packaging-industry.info",
       "mapped_official_pages": [
         {
-          "target_id": "rigid-gift-box",
+          "target_id": "paper-tube-packaging",
           "priority": "P0/P1",
-          "label": "Rigid gift box structure and material",
-          "official_url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide"
+          "label": "Paper tube packaging",
+          "official_url": "https://mugepackaging.com/blog/paper-tube-packaging-buying-guide"
         }
       ],
       "http_status": 200,
-      "final_url": "https://www.linkedin.com/company/mugepackaging/",
+      "final_url": "https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-4-1409/",
       "fetch_error": null,
-      "has_official_href": false,
+      "has_official_href": true,
       "has_official_text": true,
       "has_brand": true,
       "has_brand_or_domain": true,
-      "live_status": "verified_entity_signal",
-      "snippet_brand": "uest-enabled=\"true\"> <link rel=\"canonical\" href=\"https://cn.linkedin.com/company/mugepackaging\"> <!----><!----> <!----> <!----> <meta property=\"al:android:url\" content=\"https://cn.linkedin.com/company/mugepackaging\"> <met",
-      "snippet_domain": "\":\"Custom Paper Boxes, Rigid Gift Boxes, Paper Tubes & Clear Packaging\",\"sameAs\":\"https://mugepackaging.com/\"}]} </script> <!----> </head> <body dir=\"ltr\"> <!----><!----><!----> <form",
-      "next_action": "保留为第三方实体信号；如平台可编辑或可联系，补充可点击官网链接和标准品牌名。"
+      "live_status": "verified_direct_link",
+      "snippet_brand": "></svg> <a class=\"url fn n\" href=\"https://packaging-industry.info/author/admin/\" title=\"MUGE PACKAGING\" data-wpel-link=\"internal\"> MUGE PACKAGING </a> </span> </div> <div class=\"cm-entry-summary\"> <div class='code-block code-block-1",
+      "snippet_domain": "res for overseas B2B buyers. Buyers can review paper tube packaging options here: https://mugepackaging.com/products/paper-tubes</p> <p>This article is a practical sourcing checklist. Project structure, material, quantity, sample type, production tim",
+      "next_action": "保留为已验证第三方 direct link；下一步只做周期复验，不引用页面估值、流量、客户、产能、价格或认证。"
     },
     {
       "priority": "B",
@@ -386,6 +296,54 @@
     },
     {
       "priority": "B",
+      "url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-7-1419/",
+      "host": "packaging-industry.info",
+      "mapped_official_pages": [
+        {
+          "target_id": "pvc-pet-clear-box",
+          "priority": "P0",
+          "label": "PVC/PET clear box packaging",
+          "official_url": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-7-1419/",
+      "fetch_error": null,
+      "has_official_href": true,
+      "has_official_text": true,
+      "has_brand": true,
+      "has_brand_or_domain": true,
+      "live_status": "verified_direct_link",
+      "snippet_brand": "></svg> <a class=\"url fn n\" href=\"https://packaging-industry.info/author/admin/\" title=\"MUGE PACKAGING\" data-wpel-link=\"internal\"> MUGE PACKAGING </a> </span> </div> <div class=\"cm-entry-summary\"> <div class='code-block code-block-1",
+      "snippet_domain": "ng cartons and corrugated packaging. Buyers can review packaging categories here: https://mugepackaging.com/products</p> <p>This article is intended as a practical sourcing checklist. Project details such as structure, material, quantity, sample timi",
+      "next_action": "保留为已验证第三方 direct link；下一步只做周期复验，不引用页面估值、流量、客户、产能、价格或认证。"
+    },
+    {
+      "priority": "B",
+      "url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-6-1411/",
+      "host": "packaging-industry.info",
+      "mapped_official_pages": [
+        {
+          "target_id": "pvc-pet-clear-box",
+          "priority": "P0",
+          "label": "PVC/PET clear box packaging",
+          "official_url": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-6-1411/",
+      "fetch_error": null,
+      "has_official_href": true,
+      "has_official_text": true,
+      "has_brand": true,
+      "has_brand_or_domain": true,
+      "live_status": "verified_direct_link",
+      "snippet_brand": "></svg> <a class=\"url fn n\" href=\"https://packaging-industry.info/author/admin/\" title=\"MUGE PACKAGING\" data-wpel-link=\"internal\"> MUGE PACKAGING </a> </span> </div> <div class=\"cm-entry-summary\"> <div class='code-block code-block-1",
+      "snippet_domain": "ng cartons and corrugated packaging. Buyers can review packaging categories here: https://mugepackaging.com/products</p> <p>This article is intended as a practical sourcing checklist. Project details such as structure, material, quantity, sample timi",
+      "next_action": "保留为已验证第三方 direct link；下一步只做周期复验，不引用页面估值、流量、客户、产能、价格或认证。"
+    },
+    {
+      "priority": "B",
       "url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-4-1399/",
       "host": "packaging-industry.info",
       "mapped_official_pages": [
@@ -396,17 +354,17 @@
           "official_url": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide"
         }
       ],
-      "http_status": 0,
+      "http_status": 200,
       "final_url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-4-1399/",
-      "fetch_error": "socket hang up",
-      "has_official_href": false,
-      "has_official_text": false,
-      "has_brand": false,
-      "has_brand_or_domain": false,
-      "live_status": "blocked_or_unreachable_recheck_later",
-      "snippet_brand": "",
-      "snippet_domain": "",
-      "next_action": "本轮本机无法复验；保留历史证据，下一轮换网络或浏览器复验。"
+      "fetch_error": null,
+      "has_official_href": true,
+      "has_official_text": true,
+      "has_brand": true,
+      "has_brand_or_domain": true,
+      "live_status": "verified_direct_link",
+      "snippet_brand": "></svg> <a class=\"url fn n\" href=\"https://packaging-industry.info/author/admin/\" title=\"MUGE PACKAGING\" data-wpel-link=\"internal\"> MUGE PACKAGING </a> </span> </div> <div class=\"cm-entry-summary\"> <div class='code-block code-block-1",
+      "snippet_domain": "ng cartons and corrugated packaging. Buyers can review packaging categories here: https://mugepackaging.com/products</p> <p>This article is intended as a practical sourcing checklist. Project details such as structure, material, quantity, sample timi",
+      "next_action": "保留为已验证第三方 direct link；下一步只做周期复验，不引用页面估值、流量、客户、产能、价格或认证。"
     },
     {
       "priority": "B",
@@ -482,6 +440,30 @@
     },
     {
       "priority": "B",
+      "url": "https://www.siteprice.org/competitors/packmojo.com",
+      "host": "siteprice.org",
+      "mapped_official_pages": [
+        {
+          "target_id": "cosmetic-packaging-supplier",
+          "priority": "P0",
+          "label": "Cosmetic packaging supplier selection",
+          "official_url": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://www.siteprice.org/competitors/packmojo.com",
+      "fetch_error": null,
+      "has_official_href": true,
+      "has_official_text": true,
+      "has_brand": true,
+      "has_brand_or_domain": true,
+      "live_status": "verified_direct_link",
+      "snippet_brand": "-center\"> <a href='https://www.siteprice.org/competitors/mugepackaging.com'> <img loading=\"lazy\" src=\"https://www.siteprice.org/SiteThumbs/m/mugepackaging.com.webp\" alt=\"mugepackag",
+      "snippet_domain": "-center\"> <a href='https://www.siteprice.org/competitors/mugepackaging.com'> <img loading=\"lazy\" src=\"https://www.siteprice.org/SiteThumbs/m/mugepackaging.com.webp\" alt=\"mugepackag",
+      "next_action": "保留为已验证第三方 direct link；下一步只做周期复验，不引用页面估值、流量、客户、产能、价格或认证。"
+    },
+    {
+      "priority": "B",
       "url": "https://www.siteprice.org/competitors/tube-boxes.com",
       "host": "siteprice.org",
       "mapped_official_pages": [
@@ -494,6 +476,30 @@
       ],
       "http_status": 200,
       "final_url": "https://www.siteprice.org/competitors/tube-boxes.com",
+      "fetch_error": null,
+      "has_official_href": true,
+      "has_official_text": true,
+      "has_brand": true,
+      "has_brand_or_domain": true,
+      "live_status": "verified_direct_link",
+      "snippet_brand": "-center\"> <a href='https://www.siteprice.org/competitors/mugepackaging.com'> <img loading=\"lazy\" src=\"https://www.siteprice.org/SiteThumbs/m/mugepackaging.com.webp\" alt=\"mugepackag",
+      "snippet_domain": "-center\"> <a href='https://www.siteprice.org/competitors/mugepackaging.com'> <img loading=\"lazy\" src=\"https://www.siteprice.org/SiteThumbs/m/mugepackaging.com.webp\" alt=\"mugepackag",
+      "next_action": "保留为已验证第三方 direct link；下一步只做周期复验，不引用页面估值、流量、客户、产能、价格或认证。"
+    },
+    {
+      "priority": "B",
+      "url": "https://www.siteprice.org/competitors/boxforgifts.com",
+      "host": "siteprice.org",
+      "mapped_official_pages": [
+        {
+          "target_id": "cosmetic-packaging-supplier",
+          "priority": "P0",
+          "label": "Cosmetic packaging supplier selection",
+          "official_url": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://www.siteprice.org/competitors/boxforgifts.com",
       "fetch_error": null,
       "has_official_href": true,
       "has_official_text": true,
