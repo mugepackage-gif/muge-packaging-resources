@@ -1,6 +1,6 @@
 {
   "name": "MUGE PACKAGING Independent Third-Party Direct Link Update Pack 2026-06-01",
-  "generated_at": "2026-06-10T16:13:13.846Z",
+  "generated_at": "2026-06-11T07:16:18.711Z",
   "brand": "MUGE PACKAGING",
   "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "website": "https://mugepackaging.com",
@@ -9,13 +9,13 @@
   "public_html_url": "https://mugepackage-gif.github.io/muge-packaging-resources/independent-third-party-direct-link-update-pack-2026-06-01.html",
   "public_json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/independent-third-party-direct-link-update-pack-2026-06-01.json",
   "summary": {
-    "independent_third_party_assets": 174,
-    "independent_direct_links": 42,
-    "independent_hosts": 78,
-    "update_items": 42,
+    "independent_third_party_assets": 218,
+    "independent_direct_links": 67,
+    "independent_hosts": 76,
+    "update_items": 67,
     "priority_A": 4,
     "priority_B": 14,
-    "priority_C": 24,
+    "priority_C": 49,
     "mapped_official_p0_p1_pages": 7
   },
   "official_p0_p1_targets": [
@@ -444,22 +444,6 @@
     },
     {
       "priority": "C",
-      "platform_host": "cn.linkedin.com",
-      "label": "LinkedIn company page CN URL",
-      "type": "社媒资料页",
-      "third_party_url": "https://cn.linkedin.com/company/mugepackaging",
-      "http_status": 200,
-      "current_signal": "公开页 JSON-LD 可能含 sameAs 官网关联；计入 GEO 实体关系，不冒充传统 href 外链。",
-      "primary_official_target": "https://mugepackaging.com/products",
-      "mapped_official_targets": [
-        "https://mugepackaging.com/products"
-      ],
-      "recommended_anchor": "custom packaging products by MUGE PACKAGING",
-      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/products。",
-      "status": "pending_manual_platform_update_or_editor_request"
-    },
-    {
-      "priority": "C",
       "platform_host": "cricketinfo.co.in",
       "label": "CricketInfo domain list page",
       "type": "域名列表页",
@@ -509,22 +493,6 @@
     },
     {
       "priority": "C",
-      "platform_host": "linkedin.com",
-      "label": "LinkedIn company page",
-      "type": "社媒资料页",
-      "third_party_url": "https://www.linkedin.com/company/mugepackaging/",
-      "http_status": 200,
-      "current_signal": "公开抓取受登录墙和地区影响，能稳定检出才计入。",
-      "primary_official_target": "https://mugepackaging.com/products",
-      "mapped_official_targets": [
-        "https://mugepackaging.com/products"
-      ],
-      "recommended_anchor": "custom packaging products by MUGE PACKAGING",
-      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/products。",
-      "status": "pending_manual_platform_update_or_editor_request"
-    },
-    {
-      "priority": "C",
       "platform_host": "mejunction.com",
       "label": "ME Junction ASSET-MEJunction-profile-20260606",
       "type": "third_party_directory_profile",
@@ -570,6 +538,457 @@
       ],
       "recommended_anchor": "custom rigid gift box manufacturer",
       "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1491",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/custom-labels-and-sticker-packaging-what-buyers-should-confirm-before-ordering-5-1491/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/products",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom packaging products by MUGE PACKAGING",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/products。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1487",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-8-1487/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom cosmetic packaging supplier",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1485",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/clear-pvc-and-pet-boxes-a-buyer-checklist-for-retail-display-packaging-4-1485/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide",
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "PVC PET clear box packaging manufacturer",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1483",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/custom-packaging-manufacturer-review-checklist-for-international-buyers-4-1483/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+        "https://mugepackaging.com/about",
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom cosmetic packaging supplier",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1481",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-11-1481/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/products",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom packaging products by MUGE PACKAGING",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/products。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1478",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-what-e-commerce-buyers-should-confirm-before-sampling-5-1478/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/products",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom packaging products by MUGE PACKAGING",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/products。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1477",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/custom-labels-and-sticker-packaging-what-buyers-should-confirm-before-ordering-4-1477/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/products",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom packaging products by MUGE PACKAGING",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/products。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1473",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/custom-printed-packaging-boxes-with-logo-what-buyers-should-prepare-before-sampling-3-1473/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/products",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom packaging products by MUGE PACKAGING",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/products。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1471",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/cosmetic-packaging-supplier-review-checklist-for-skincare-brands-3-1471/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+        "https://mugepackaging.com/about",
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom cosmetic packaging supplier",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1475",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/clear-pvc-and-pet-boxes-a-buyer-checklist-for-retail-display-packaging-3-1475/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide",
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "PVC PET clear box packaging manufacturer",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1469",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/how-buyers-should-compare-rigid-gift-box-structures-before-sampling-10-1469/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom rigid gift box manufacturer",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1465",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/custom-packaging-manufacturer-review-checklist-for-international-buyers-3-1465/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+        "https://mugepackaging.com/about",
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom cosmetic packaging supplier",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1447",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-what-e-commerce-buyers-should-confirm-before-sampling-2-1447/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/products",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom packaging products by MUGE PACKAGING",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/products。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1441",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-9-1441/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info with MUGE PACKAGING, legal company name and direct product-page link.",
+      "primary_official_target": "https://mugepackaging.com/products",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom packaging products by MUGE PACKAGING",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/products。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1445",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-6-1445/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom cosmetic packaging supplier",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1431",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/custom-packaging-manufacturer-review-checklist-for-international-buyers-1431/",
+      "http_status": 200,
+      "current_signal": "Third-party public article contains MUGE PACKAGING, legal name and official URL text; no official-site href backlink was present in the live HTML.",
+      "primary_official_target": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+        "https://mugepackaging.com/about",
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom cosmetic packaging supplier",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1429",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/cosmetic-packaging-supplier-review-checklist-for-skincare-brands-1429/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+        "https://mugepackaging.com/about",
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom cosmetic packaging supplier",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1427",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/how-buyers-should-compare-rigid-gift-box-structures-before-sampling-6-1427/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom rigid gift box manufacturer",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1425",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/custom-printed-packaging-boxes-with-logo-what-buyers-should-prepare-before-sampling-1425/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/products",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom packaging products by MUGE PACKAGING",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/products。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1423",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-what-e-commerce-buyers-should-confirm-before-sampling-1423/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/products",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom packaging products by MUGE PACKAGING",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/products。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1421",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/custom-labels-and-sticker-packaging-what-buyers-should-confirm-before-ordering-2-1421/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/products",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom packaging products by MUGE PACKAGING",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/products。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1419",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-7-1419/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/products",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom packaging products by MUGE PACKAGING",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/products。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1417",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/clear-pvc-and-pet-boxes-a-buyer-checklist-for-retail-display-packaging-1417/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide",
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "PVC PET clear box packaging manufacturer",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1415",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/custom-labels-and-sticker-packaging-what-buyers-should-confirm-before-ordering-1415/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/products",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom packaging products by MUGE PACKAGING",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/products。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1413",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/how-buyers-should-compare-rigid-gift-box-structures-before-sampling-5-1413/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom rigid gift box manufacturer",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1411",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-6-1411/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/products",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom packaging products by MUGE PACKAGING",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/products。",
+      "status": "pending_manual_platform_update_or_editor_request"
+    },
+    {
+      "priority": "C",
+      "platform_host": "packaging-industry.info",
+      "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1409",
+      "type": "third_party_article",
+      "third_party_url": "https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-4-1409/",
+      "http_status": 200,
+      "current_signal": "Third-party public article published on Packaging-Industry.info and verified by live fetch.",
+      "primary_official_target": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "mapped_official_targets": [
+        "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+        "https://mugepackaging.com/products"
+      ],
+      "recommended_anchor": "custom cosmetic packaging supplier",
+      "recommended_action": "复验 direct href；若平台允许编辑或人工纠错，优先把相关产品/服务链接更新为 https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide。",
       "status": "pending_manual_platform_update_or_editor_request"
     },
     {
