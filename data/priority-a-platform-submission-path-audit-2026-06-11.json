@@ -1,0 +1,101 @@
+{
+  "summary": {
+    "generated_at": "2026-06-11T09:30:45.383Z",
+    "source_pack": {
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/priority-a-third-party-editor-request-pack-2026-06-11.html",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/priority-a-third-party-editor-request-pack-2026-06-11.json"
+    },
+    "total_priority_a_items": 4,
+    "public_contact_possible": 2,
+    "captcha_or_form_risk": 2,
+    "account_claim_required": 1,
+    "auto_submit_allowed": 0,
+    "manual_or_human_gate_required": 4
+  },
+  "company": {
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "brand": "MUGE PACKAGING",
+    "website": "https://mugepackaging.com"
+  },
+  "items": [
+    {
+      "host": "antech.ru",
+      "third_party_url": "https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/",
+      "official_target_url": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+      "status": "public_contact_possible",
+      "auto_submit_allowed": false,
+      "public_paths": [
+        "https://www.antech.ru/about/contacts/",
+        "mailto:zakaz@antech.ru"
+      ],
+      "evidence": [
+        "目标页和联系页 HTTP 200。",
+        "页面源码存在 /about/contacts/ 联系入口和 zakaz@antech.ru 邮箱。",
+        "页面表单是包装询价/订单表单，不适合作为自动编辑请求提交入口。"
+      ],
+      "next_action": "人工或邮件方式发送第三方页面补充/更正请求，附 MUGE 官网目标页和公开证据包。",
+      "human_gate": "邮件发送属于对外触达，需按公司口径人工确认后发送。"
+    },
+    {
+      "host": "packaza.com",
+      "third_party_url": "https://packaza.com/blog/top-10-magnetic-gift-box-manufacturer-in-china/",
+      "official_target_url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "status": "contact_form_captcha_or_sales_form_only",
+      "auto_submit_allowed": false,
+      "public_paths": [
+        "https://packaza.com/blog/author/1719458182qq-com/",
+        "mailto:cady2016@foxmail.com",
+        "https://wa.me/8615099817100"
+      ],
+      "evidence": [
+        "目标页和作者页 HTTP 200。",
+        "页面 JSON-LD 暴露作者页。",
+        "页面存在邮箱 cady2016@foxmail.com 和 WhatsApp 8615099817100。",
+        "页面表单带 reCAPTCHA v3，且定位为询价表单，不适合自动提交编辑请求。",
+        "/contact/ 返回 404。"
+      ],
+      "next_action": "准备邮件式编辑请求，不走网页表单；避免 WhatsApp 冷发。",
+      "human_gate": "邮箱触达需人工确认发送内容；WhatsApp 禁止自动冷发。"
+    },
+    {
+      "host": "sourcifychina.com",
+      "third_party_url": "https://www.sourcifychina.com/top-foldable-gift-box-factory-compare/",
+      "official_target_url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "status": "public_contact_possible_with_cloudflare_risk",
+      "auto_submit_allowed": false,
+      "public_paths": [
+        "https://www.sourcifychina.com/contact/",
+        "https://www.sourcifychina.com/author/chatgpt/",
+        "mailto:support@sourcifychina.com",
+        "https://wa.me/8615951276160"
+      ],
+      "evidence": [
+        "目标页、联系页和作者页 HTTP 200。",
+        "页面结构显示作者 wei zheng。",
+        "页面显示 support@sourcifychina.com 和 WhatsApp 8615951276160。",
+        "页面存在 Cloudflare challenge/验证码相关脚本，自动提交风险较高。"
+      ],
+      "next_action": "优先用邮件式编辑请求；联系页可人工提交，自动提交停止。",
+      "human_gate": "验证码/Cloudflare 和 WhatsApp 冷发均不自动处理。"
+    },
+    {
+      "host": "provenexpert.com",
+      "third_party_url": "https://www.provenexpert.com/en-us/muge-packaging/",
+      "official_target_url": "https://mugepackaging.com/about",
+      "status": "account_claim_required",
+      "auto_submit_allowed": false,
+      "public_paths": [
+        "https://www.provenexpert.com/en-us/muge-packaging/",
+        "https://www.provenexpert.com/en-us/login/"
+      ],
+      "evidence": [
+        "MUGE Packaging 的 ProvenExpert 公开 Profile HTTP 200。",
+        "页面内已有 sales@mugepackaging.com 和公司电话字段。",
+        "页面内存在 Claim profile for FREE 表单结构，但直接 claim endpoint 返回 HTTP 410。",
+        "修改 Profile 资料需要账号登录/认领，属于账号核心权限。"
+      ],
+      "next_action": "人工登录或认领 ProvenExpert Profile 后补充官网链接和品牌资料。",
+      "human_gate": "需要用户账号登录/认领，不自动绕过。"
+    }
+  ]
+}
