@@ -1,6 +1,6 @@
 {
   "name": "MUGE PACKAGING AI Buyer Question Third-Party Support Map 2026-06-01",
-  "generated_at": "2026-06-09T23:27:15.400Z",
+  "generated_at": "2026-06-11T06:37:34.051Z",
   "brand": "MUGE PACKAGING",
   "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "source_baseline_json": "/Users/molice/muge-packaging-resources/data/independent-third-party-entity-baseline-2026-06-01.json",
@@ -10,11 +10,11 @@
   "summary": {
     "questions": 10,
     "questions_with_support": 10,
-    "independent_direct_link_supports": 25,
-    "independent_entity_mention_supports": 2,
-    "baseline_independent_assets": 174,
-    "baseline_independent_direct_links": 42,
-    "baseline_independent_hosts": 78
+    "independent_direct_link_supports": 27,
+    "independent_entity_mention_supports": 0,
+    "baseline_independent_assets": 218,
+    "baseline_independent_direct_links": 67,
+    "baseline_independent_hosts": 76
   },
   "mappings": [
     {
@@ -52,10 +52,10 @@
           "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
         },
         {
-          "label": "ME Junction ASSET-MEJunction-profile-20260606",
-          "type": "third_party_directory_profile",
-          "url": "https://www.mejunction.com/events/muge-packaging?printpage=yes",
-          "host": "mejunction.com",
+          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1471",
+          "type": "third_party_article",
+          "url": "https://packaging-industry.info/market/packaging-industry/cosmetic-packaging-supplier-review-checklist-for-skincare-brands-3-1471/",
+          "host": "packaging-industry.info",
           "http_status": 200,
           "source_class": "independent_direct_link",
           "support_role": "entity_and_direct_link_support",
@@ -77,30 +77,30 @@
       ],
       "supports": [
         {
+          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1471",
+          "type": "third_party_article",
+          "url": "https://packaging-industry.info/market/packaging-industry/cosmetic-packaging-supplier-review-checklist-for-skincare-brands-3-1471/",
+          "host": "packaging-industry.info",
+          "http_status": 200,
+          "source_class": "independent_direct_link",
+          "support_role": "entity_and_direct_link_support",
+          "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
+        },
+        {
+          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1429",
+          "type": "third_party_article",
+          "url": "https://packaging-industry.info/market/packaging-industry/cosmetic-packaging-supplier-review-checklist-for-skincare-brands-1429/",
+          "host": "packaging-industry.info",
+          "http_status": 200,
+          "source_class": "independent_direct_link",
+          "support_role": "entity_and_direct_link_support",
+          "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
+        },
+        {
           "label": "ProvenExpert Muge Packaging public profile",
           "type": "第三方公司资料页",
           "url": "https://www.provenexpert.com/en-us/muge-packaging/",
           "host": "provenexpert.com",
-          "http_status": 200,
-          "source_class": "independent_direct_link",
-          "support_role": "entity_and_direct_link_support",
-          "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
-        },
-        {
-          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1402",
-          "type": "third_party_article",
-          "url": "https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-3-1402/",
-          "host": "packaging-industry.info",
-          "http_status": 200,
-          "source_class": "independent_direct_link",
-          "support_role": "entity_and_direct_link_support",
-          "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
-        },
-        {
-          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1390",
-          "type": "third_party_article",
-          "url": "https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-2-1390/",
-          "host": "packaging-industry.info",
           "http_status": 200,
           "source_class": "independent_direct_link",
           "support_role": "entity_and_direct_link_support",
@@ -178,9 +178,9 @@
           "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
         },
         {
-          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1402",
+          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1487",
           "type": "third_party_article",
-          "url": "https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-3-1402/",
+          "url": "https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-8-1487/",
           "host": "packaging-industry.info",
           "http_status": 200,
           "source_class": "independent_direct_link",
@@ -188,9 +188,9 @@
           "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
         },
         {
-          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1390",
+          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1445",
           "type": "third_party_article",
-          "url": "https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-2-1390/",
+          "url": "https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-6-1445/",
           "host": "packaging-industry.info",
           "http_status": 200,
           "source_class": "independent_direct_link",
@@ -213,30 +213,30 @@
       ],
       "supports": [
         {
-          "label": "Siteprice competitors page for mugepackaging.com",
-          "type": "聚合目录页",
-          "url": "https://www.siteprice.org/competitors/mugepackaging.com",
-          "host": "siteprice.org",
+          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1485",
+          "type": "third_party_article",
+          "url": "https://packaging-industry.info/market/packaging-industry/clear-pvc-and-pet-boxes-a-buyer-checklist-for-retail-display-packaging-4-1485/",
+          "host": "packaging-industry.info",
           "http_status": 200,
           "source_class": "independent_direct_link",
           "support_role": "entity_and_direct_link_support",
           "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
         },
         {
-          "label": "Siteprice competitors page listing MUGE under marber.net",
-          "type": "聚合目录页",
-          "url": "https://www.siteprice.org/competitors/marber.net",
-          "host": "siteprice.org",
+          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1475",
+          "type": "third_party_article",
+          "url": "https://packaging-industry.info/market/packaging-industry/clear-pvc-and-pet-boxes-a-buyer-checklist-for-retail-display-packaging-3-1475/",
+          "host": "packaging-industry.info",
           "http_status": 200,
           "source_class": "independent_direct_link",
           "support_role": "entity_and_direct_link_support",
           "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
         },
         {
-          "label": "Siteprice competitors page listing MUGE under packmojo.com",
-          "type": "聚合目录页",
-          "url": "https://www.siteprice.org/competitors/packmojo.com",
-          "host": "siteprice.org",
+          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1417",
+          "type": "third_party_article",
+          "url": "https://packaging-industry.info/market/packaging-industry/clear-pvc-and-pet-boxes-a-buyer-checklist-for-retail-display-packaging-1417/",
+          "host": "packaging-industry.info",
           "http_status": 200,
           "source_class": "independent_direct_link",
           "support_role": "entity_and_direct_link_support",
@@ -421,33 +421,33 @@
       ],
       "supports": [
         {
-          "label": "Site123 Blog ASSET-Site123-textured-corrugated-20260606",
-          "type": "external_blog_post",
-          "url": "https://5e20301203be8.site123.me/blog/textured-corrugated-boxes-customized-for-your-needs",
-          "host": "5e20301203be8.site123.me",
+          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1478",
+          "type": "third_party_article",
+          "url": "https://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-what-e-commerce-buyers-should-confirm-before-sampling-5-1478/",
+          "host": "packaging-industry.info",
           "http_status": 200,
           "source_class": "independent_direct_link",
           "support_role": "entity_and_direct_link_support",
           "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
         },
         {
-          "label": "FeedingTrends coated paper packaging box market mention",
-          "type": "市场报告转载页",
-          "url": "https://feedingtrends.com/coated-paper-packaging-box-market-growth-and-covid-19-impact-analy",
-          "host": "feedingtrends.com",
+          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1447",
+          "type": "third_party_article",
+          "url": "https://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-what-e-commerce-buyers-should-confirm-before-sampling-2-1447/",
+          "host": "packaging-industry.info",
           "http_status": 200,
-          "source_class": "independent_entity_mention",
-          "support_role": "entity_or_topic_mention_support",
+          "source_class": "independent_direct_link",
+          "support_role": "entity_and_direct_link_support",
           "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
         },
         {
-          "label": "MarketReportAnalytics coated paper packaging box report 364977",
-          "type": "市场报告",
-          "url": "https://www.marketreportanalytics.com/reports/coated-paper-packaging-box-364977",
-          "host": "marketreportanalytics.com",
+          "label": "Packaging-Industry.info ASSET-PackagingIndustry-article-20260609-1423",
+          "type": "third_party_article",
+          "url": "https://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-what-e-commerce-buyers-should-confirm-before-sampling-1423/",
+          "host": "packaging-industry.info",
           "http_status": 200,
-          "source_class": "independent_entity_mention",
-          "support_role": "entity_or_topic_mention_support",
+          "source_class": "independent_direct_link",
+          "support_role": "entity_and_direct_link_support",
           "risk_boundary": "Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement."
         }
       ]

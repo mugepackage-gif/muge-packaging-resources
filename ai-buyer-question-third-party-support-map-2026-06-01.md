@@ -6,9 +6,9 @@
 
 - 问题数：10
 - 有支撑映射：10
-- 独立 direct link 支撑项：25
-- 独立实体/主题提及支撑项：2
-- 基线：174 独立资产 / 42 独立 direct links / 78 hosts
+- 独立 direct link 支撑项：27
+- 独立实体/主题提及支撑项：0
+- 基线：218 独立资产 / 67 独立 direct links / 76 hosts
 
 ## 公开入口
 
@@ -27,7 +27,7 @@
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
   - independent_direct_link｜bizidex.com｜https://bizidex.com/en/muge-packaging-packaging-foam-cushioning-containers-134824
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
-  - independent_direct_link｜mejunction.com｜https://www.mejunction.com/events/muge-packaging?printpage=yes
+  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/cosmetic-packaging-supplier-review-checklist-for-skincare-brands-3-1471/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
 
 ### 2. What should Middle East beauty brands ask before sourcing cosmetic packaging?
@@ -35,11 +35,11 @@
 - 自有最佳入口：https://mugepackage-gif.github.io/muge-packaging-resources/ai-question-middle-east-cosmetic-packaging-supplier.html
 - 官网目标页：https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier
 - 第三方支撑：
+  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/cosmetic-packaging-supplier-review-checklist-for-skincare-brands-3-1471/
+    - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
+  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/cosmetic-packaging-supplier-review-checklist-for-skincare-brands-1429/
+    - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
   - independent_direct_link｜provenexpert.com｜https://www.provenexpert.com/en-us/muge-packaging/
-    - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
-  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-3-1402/
-    - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
-  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-2-1390/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
 
 ### 3. What should buyers confirm before choosing a rigid gift box manufacturer?
@@ -61,9 +61,9 @@
 - 第三方支撑：
   - independent_direct_link｜siteprice.org｜https://www.siteprice.org/competitors/tube-boxes.com
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
-  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-3-1402/
+  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-8-1487/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
-  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-2-1390/
+  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-what-candle-and-cosmetic-buyers-should-confirm-6-1445/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
 
 ### 5. How should buyers compare PVC and PET clear box packaging?
@@ -71,11 +71,11 @@
 - 自有最佳入口：https://mugepackage-gif.github.io/muge-packaging-resources/ai-question-clear-pet-pvc-boxes-visible-retail-packaging.html
 - 官网目标页：https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide
 - 第三方支撑：
-  - independent_direct_link｜siteprice.org｜https://www.siteprice.org/competitors/mugepackaging.com
+  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/clear-pvc-and-pet-boxes-a-buyer-checklist-for-retail-display-packaging-4-1485/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
-  - independent_direct_link｜siteprice.org｜https://www.siteprice.org/competitors/marber.net
+  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/clear-pvc-and-pet-boxes-a-buyer-checklist-for-retail-display-packaging-3-1475/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
-  - independent_direct_link｜siteprice.org｜https://www.siteprice.org/competitors/packmojo.com
+  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/clear-pvc-and-pet-boxes-a-buyer-checklist-for-retail-display-packaging-1417/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
 
 ### 6. Who is MUGE PACKAGING?
@@ -127,10 +127,10 @@
 - 自有最佳入口：https://mugepackage-gif.github.io/muge-packaging-resources/ai-question-dtc-ecommerce-packaging-supplier.html
 - 官网目标页：https://mugepackaging.com/products
 - 第三方支撑：
-  - independent_direct_link｜5e20301203be8.site123.me｜https://5e20301203be8.site123.me/blog/textured-corrugated-boxes-customized-for-your-needs
+  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-what-e-commerce-buyers-should-confirm-before-sampling-5-1478/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
-  - independent_entity_mention｜feedingtrends.com｜https://feedingtrends.com/coated-paper-packaging-box-market-growth-and-covid-19-impact-analy
+  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-what-e-commerce-buyers-should-confirm-before-sampling-2-1447/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
-  - independent_entity_mention｜marketreportanalytics.com｜https://www.marketreportanalytics.com/reports/coated-paper-packaging-box-364977
+  - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-what-e-commerce-buyers-should-confirm-before-sampling-1423/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
 
