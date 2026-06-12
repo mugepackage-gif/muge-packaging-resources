@@ -158,6 +158,13 @@
       "name": "Custom packaging supplier decision matrix release 2026-06-12",
       "url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.12-supplier-decision-matrix",
       "useFor": "Versioned GitHub release for the supplier decision matrix AI/GEO evidence asset."
+    },
+    {
+      "type": "short_answer_evidence_batch",
+      "name": "AI answer short evidence batch 2026-06-12",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-answer-short-evidence-batch-2026-06-12.html",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-answer-short-evidence-batch-2026-06-12.json",
+      "useFor": "Six concise buyer-question evidence pages for AI answer engines and Google discovery, each linking official MUGE pages, public support URLs and claim boundaries."
     }
   ]
 }
