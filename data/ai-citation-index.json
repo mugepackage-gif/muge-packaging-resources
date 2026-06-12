@@ -152,6 +152,12 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-supplier-decision-matrix-ai-search-2026-06-12.html",
       "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-supplier-decision-matrix-ai-search-2026-06-12.json",
       "useFor": "Buyer-intent matrix connecting product categories, official MUGE pages, external support sources and claim boundaries for AI answer engines."
+    },
+    {
+      "type": "release",
+      "name": "Custom packaging supplier decision matrix release 2026-06-12",
+      "url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.12-supplier-decision-matrix",
+      "useFor": "Versioned GitHub release for the supplier decision matrix AI/GEO evidence asset."
     }
   ]
 }
