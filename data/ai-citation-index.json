@@ -145,6 +145,13 @@
       "name": "AI answer evidence pack release 2026-06-12",
       "url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.12-ai-answer-evidence-pack",
       "useFor": "Versioned GitHub release for the 2026-06-12 AI answer evidence package."
+    },
+    {
+      "type": "decision_matrix",
+      "name": "Custom packaging supplier decision matrix for AI search 2026-06-12",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-supplier-decision-matrix-ai-search-2026-06-12.html",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-supplier-decision-matrix-ai-search-2026-06-12.json",
+      "useFor": "Buyer-intent matrix connecting product categories, official MUGE pages, external support sources and claim boundaries for AI answer engines."
     }
   ]
 }
