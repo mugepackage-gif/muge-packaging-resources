@@ -1,0 +1,209 @@
+{
+  "generated_at": "2026-06-12T03:11:51.699Z",
+  "generated_at_china": "2026年6月12日星期五 11:11:51",
+  "source_recheck_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/第三方页面复验/20260612T0228_10个第三方页面复验.json",
+  "public_policy": "Public-page correction package only; no paid submission, no login bypass, no unverified certification or ranking claims.",
+  "canonical_facts": {
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "brand": "MUGE PACKAGING",
+    "website": "https://mugepackaging.com",
+    "summary": "MUGE PACKAGING is a Shenzhen-based packaging source factory focused on custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated packaging for brand owners, e-commerce sellers and B2B buyers.",
+    "doNotClaim": [
+      "Verified Supplier status unless the platform independently verifies it",
+      "FSC/FDA/food-contact compliance unless separately confirmed for the exact product and material",
+      "fixed MOQ, fixed lead time, lowest price, production capacity or named customer cases"
+    ]
+  },
+  "summary": {
+    "total_rechecked": 10,
+    "http200": 10,
+    "need_edit_request_count": 8,
+    "high_priority": 1,
+    "medium_priority": 7
+  },
+  "items": [
+    {
+      "order": 1,
+      "platform": "ProvenExpert",
+      "priority": "High",
+      "type": "第三方公司资料页",
+      "thirdPartyUrl": "https://www.provenexpert.com/en-us/muge-packaging/",
+      "thirdPartyStatus": 200,
+      "thirdPartyRelevant": true,
+      "officialTargetStatus": 404,
+      "editRequestReason": "页面含需纠偏词：custom labels；官网落地页最终非 200 或访问失败",
+      "evidenceTerms": [
+        "muge packaging",
+        "mugepackaging.com",
+        "packaging"
+      ],
+      "requestedChanges": [
+        "Replace any broken landing page with https://mugepackaging.com or a live relevant product page."
+      ],
+      "emailSubject": "Correction request for ProvenExpert page: MUGE PACKAGING",
+      "copyReadyMessage": "Hello ProvenExpert editorial team,\n\nWe found a public page about MUGE PACKAGING here:\nhttps://www.provenexpert.com/en-us/muge-packaging/\n\nPlease update the page using only the verified public company information below:\n- Legal name: Shenzhen Muge Design Packaging Product Co., Ltd.\n- Brand: MUGE PACKAGING\n- Official website: https://mugepackaging.com\n- Company summary: MUGE PACKAGING is a Shenzhen-based packaging source factory focused on custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated packaging for brand owners, e-commerce sellers and B2B buyers.\n\nRequested corrections:\n- Replace any broken landing page with https://mugepackaging.com or a live relevant product page.\n\nPlease do not add unsupported claims such as verified supplier status, fixed MOQ, fixed lead time, lowest-price claims, customer cases, or certifications that are not explicitly verified for the exact claim.\n\nThank you.",
+      "automationPolicy": "Manual/editor submission only. Do not auto-login, bypass captcha, pay, or send private outreach without approval."
+    },
+    {
+      "order": 2,
+      "platform": "Bizidex",
+      "priority": "Medium",
+      "type": "B2B资料页",
+      "thirdPartyUrl": "https://bizidex.com/en/muge-packaging-packaging-foam-cushioning-containers-134824",
+      "thirdPartyStatus": 200,
+      "thirdPartyRelevant": true,
+      "officialTargetStatus": 200,
+      "editRequestReason": "页面含需纠偏词：foam cushioning, containers",
+      "evidenceTerms": [
+        "muge packaging",
+        "mugepackaging.com",
+        "packaging"
+      ],
+      "requestedChanges": [
+        "Replace unrelated category wording with custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tubes, PVC/PET clear boxes and corrugated packaging."
+      ],
+      "emailSubject": "Correction request for Bizidex page: MUGE PACKAGING",
+      "copyReadyMessage": "Hello Bizidex editorial team,\n\nWe found a public page about MUGE PACKAGING here:\nhttps://bizidex.com/en/muge-packaging-packaging-foam-cushioning-containers-134824\n\nPlease update the page using only the verified public company information below:\n- Legal name: Shenzhen Muge Design Packaging Product Co., Ltd.\n- Brand: MUGE PACKAGING\n- Official website: https://mugepackaging.com\n- Company summary: MUGE PACKAGING is a Shenzhen-based packaging source factory focused on custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated packaging for brand owners, e-commerce sellers and B2B buyers.\n\nRequested corrections:\n- Replace unrelated category wording with custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tubes, PVC/PET clear boxes and corrugated packaging.\n\nPlease do not add unsupported claims such as verified supplier status, fixed MOQ, fixed lead time, lowest-price claims, customer cases, or certifications that are not explicitly verified for the exact claim.\n\nThank you.",
+      "automationPolicy": "Manual/editor submission only. Do not auto-login, bypass captcha, pay, or send private outreach without approval."
+    },
+    {
+      "order": 3,
+      "platform": "CityByApp",
+      "priority": "Medium",
+      "type": "本地目录资料页",
+      "thirdPartyUrl": "https://www.citybyapp.com/china/shenzhen-shi/local-services/muge-packaging-481750",
+      "thirdPartyStatus": 200,
+      "thirdPartyRelevant": true,
+      "officialTargetStatus": 200,
+      "editRequestReason": "页面含需纠偏词：local services；robots=noindex, nofollow",
+      "evidenceTerms": [
+        "muge packaging",
+        "mugepackaging.com",
+        "packaging"
+      ],
+      "requestedChanges": [
+        "Use B2B packaging supplier/manufacturer-style category wording instead of local service or retail-only wording."
+      ],
+      "emailSubject": "Correction request for CityByApp page: MUGE PACKAGING",
+      "copyReadyMessage": "Hello CityByApp editorial team,\n\nWe found a public page about MUGE PACKAGING here:\nhttps://www.citybyapp.com/china/shenzhen-shi/local-services/muge-packaging-481750\n\nPlease update the page using only the verified public company information below:\n- Legal name: Shenzhen Muge Design Packaging Product Co., Ltd.\n- Brand: MUGE PACKAGING\n- Official website: https://mugepackaging.com\n- Company summary: MUGE PACKAGING is a Shenzhen-based packaging source factory focused on custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated packaging for brand owners, e-commerce sellers and B2B buyers.\n\nRequested corrections:\n- Use B2B packaging supplier/manufacturer-style category wording instead of local service or retail-only wording.\n\nPlease do not add unsupported claims such as verified supplier status, fixed MOQ, fixed lead time, lowest-price claims, customer cases, or certifications that are not explicitly verified for the exact claim.\n\nThank you.",
+      "automationPolicy": "Manual/editor submission only. Do not auto-login, bypass captcha, pay, or send private outreach without approval."
+    },
+    {
+      "order": 4,
+      "platform": "LinkedIn",
+      "priority": "Medium",
+      "type": "社媒资料页",
+      "thirdPartyUrl": "https://www.linkedin.com/company/mugepackaging/",
+      "thirdPartyStatus": 200,
+      "thirdPartyRelevant": true,
+      "officialTargetStatus": 200,
+      "editRequestReason": "页面含需纠偏词：fsc",
+      "evidenceTerms": [
+        "muge packaging",
+        "mugepackaging.com",
+        "custom packaging",
+        "paper box",
+        "rigid gift box",
+        "paper tube",
+        "clear box",
+        "corrugated",
+        "packaging"
+      ],
+      "requestedChanges": [
+        "Remove FSC wording unless a platform moderator can verify a valid certificate for the exact claim."
+      ],
+      "emailSubject": "Correction request for LinkedIn page: MUGE PACKAGING",
+      "copyReadyMessage": "Hello LinkedIn editorial team,\n\nWe found a public page about MUGE PACKAGING here:\nhttps://www.linkedin.com/company/mugepackaging/\n\nPlease update the page using only the verified public company information below:\n- Legal name: Shenzhen Muge Design Packaging Product Co., Ltd.\n- Brand: MUGE PACKAGING\n- Official website: https://mugepackaging.com\n- Company summary: MUGE PACKAGING is a Shenzhen-based packaging source factory focused on custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated packaging for brand owners, e-commerce sellers and B2B buyers.\n\nRequested corrections:\n- Remove FSC wording unless a platform moderator can verify a valid certificate for the exact claim.\n\nPlease do not add unsupported claims such as verified supplier status, fixed MOQ, fixed lead time, lowest-price claims, customer cases, or certifications that are not explicitly verified for the exact claim.\n\nThank you.",
+      "automationPolicy": "Manual/editor submission only. Do not auto-login, bypass captcha, pay, or send private outreach without approval."
+    },
+    {
+      "order": 5,
+      "platform": "Packaza",
+      "priority": "Medium",
+      "type": "行业榜单/供应商列表",
+      "thirdPartyUrl": "https://packaza.com/blog/top-10-magnetic-gift-box-manufacturer-in-china/",
+      "thirdPartyStatus": 200,
+      "thirdPartyRelevant": true,
+      "officialTargetStatus": 200,
+      "editRequestReason": "页面含需纠偏词：top 10",
+      "evidenceTerms": [
+        "muge packaging",
+        "mugepackaging.com",
+        "custom packaging",
+        "paper box",
+        "paper tube",
+        "corrugated",
+        "packaging"
+      ],
+      "requestedChanges": [
+        "Avoid unsupported ranking claims such as Top 10 unless the page owns and substantiates that editorial ranking."
+      ],
+      "emailSubject": "Correction request for Packaza page: MUGE PACKAGING",
+      "copyReadyMessage": "Hello Packaza editorial team,\n\nWe found a public page about MUGE PACKAGING here:\nhttps://packaza.com/blog/top-10-magnetic-gift-box-manufacturer-in-china/\n\nPlease update the page using only the verified public company information below:\n- Legal name: Shenzhen Muge Design Packaging Product Co., Ltd.\n- Brand: MUGE PACKAGING\n- Official website: https://mugepackaging.com\n- Company summary: MUGE PACKAGING is a Shenzhen-based packaging source factory focused on custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated packaging for brand owners, e-commerce sellers and B2B buyers.\n\nRequested corrections:\n- Avoid unsupported ranking claims such as Top 10 unless the page owns and substantiates that editorial ranking.\n\nPlease do not add unsupported claims such as verified supplier status, fixed MOQ, fixed lead time, lowest-price claims, customer cases, or certifications that are not explicitly verified for the exact claim.\n\nThank you.",
+      "automationPolicy": "Manual/editor submission only. Do not auto-login, bypass captcha, pay, or send private outreach without approval."
+    },
+    {
+      "order": 6,
+      "platform": "SourcifyChina",
+      "priority": "Medium",
+      "type": "供应商对比页",
+      "thirdPartyUrl": "https://www.sourcifychina.com/top-foldable-gift-box-factory-compare/",
+      "thirdPartyStatus": 200,
+      "thirdPartyRelevant": true,
+      "officialTargetStatus": 200,
+      "editRequestReason": "页面含需纠偏词：lead time",
+      "evidenceTerms": [
+        "muge packaging",
+        "mugepackaging.com",
+        "rigid gift box",
+        "packaging"
+      ],
+      "requestedChanges": [
+        "Remove fixed lead-time wording; use project-dependent sampling/production review language instead."
+      ],
+      "emailSubject": "Correction request for SourcifyChina page: MUGE PACKAGING",
+      "copyReadyMessage": "Hello SourcifyChina editorial team,\n\nWe found a public page about MUGE PACKAGING here:\nhttps://www.sourcifychina.com/top-foldable-gift-box-factory-compare/\n\nPlease update the page using only the verified public company information below:\n- Legal name: Shenzhen Muge Design Packaging Product Co., Ltd.\n- Brand: MUGE PACKAGING\n- Official website: https://mugepackaging.com\n- Company summary: MUGE PACKAGING is a Shenzhen-based packaging source factory focused on custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated packaging for brand owners, e-commerce sellers and B2B buyers.\n\nRequested corrections:\n- Remove fixed lead-time wording; use project-dependent sampling/production review language instead.\n\nPlease do not add unsupported claims such as verified supplier status, fixed MOQ, fixed lead time, lowest-price claims, customer cases, or certifications that are not explicitly verified for the exact claim.\n\nThank you.",
+      "automationPolicy": "Manual/editor submission only. Do not auto-login, bypass captcha, pay, or send private outreach without approval."
+    },
+    {
+      "order": 7,
+      "platform": "YellowPagesOnline",
+      "priority": "Medium",
+      "type": "黄页资料页",
+      "thirdPartyUrl": "https://www.yellowpagesonline.com/china/shenzhen-shi/boxes-retail/muge-packaging",
+      "thirdPartyStatus": 200,
+      "thirdPartyRelevant": true,
+      "officialTargetStatus": 200,
+      "editRequestReason": "页面含需纠偏词：boxes retail",
+      "evidenceTerms": [
+        "muge packaging",
+        "mugepackaging.com",
+        "packaging"
+      ],
+      "requestedChanges": [
+        "Use B2B packaging supplier/manufacturer-style category wording instead of local service or retail-only wording."
+      ],
+      "emailSubject": "Correction request for YellowPagesOnline page: MUGE PACKAGING",
+      "copyReadyMessage": "Hello YellowPagesOnline editorial team,\n\nWe found a public page about MUGE PACKAGING here:\nhttps://www.yellowpagesonline.com/china/shenzhen-shi/boxes-retail/muge-packaging\n\nPlease update the page using only the verified public company information below:\n- Legal name: Shenzhen Muge Design Packaging Product Co., Ltd.\n- Brand: MUGE PACKAGING\n- Official website: https://mugepackaging.com\n- Company summary: MUGE PACKAGING is a Shenzhen-based packaging source factory focused on custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated packaging for brand owners, e-commerce sellers and B2B buyers.\n\nRequested corrections:\n- Use B2B packaging supplier/manufacturer-style category wording instead of local service or retail-only wording.\n\nPlease do not add unsupported claims such as verified supplier status, fixed MOQ, fixed lead time, lowest-price claims, customer cases, or certifications that are not explicitly verified for the exact claim.\n\nThank you.",
+      "automationPolicy": "Manual/editor submission only. Do not auto-login, bypass captcha, pay, or send private outreach without approval."
+    },
+    {
+      "order": 8,
+      "platform": "Zearches",
+      "priority": "Medium",
+      "type": "公开目录页",
+      "thirdPartyUrl": "https://zearches.com/directory.php?slug=business-company",
+      "thirdPartyStatus": 200,
+      "thirdPartyRelevant": false,
+      "officialTargetStatus": 200,
+      "editRequestReason": "第三方页面未稳定检出 MUGE 实体；未检出传统官网 href，仅能按弱实体/结构化信号处理",
+      "evidenceTerms": [],
+      "requestedChanges": [
+        "Clarify that the page is about MUGE PACKAGING and include the official website link."
+      ],
+      "emailSubject": "Correction request for Zearches page: MUGE PACKAGING",
+      "copyReadyMessage": "Hello Zearches editorial team,\n\nWe found a public page about MUGE PACKAGING here:\nhttps://zearches.com/directory.php?slug=business-company\n\nPlease update the page using only the verified public company information below:\n- Legal name: Shenzhen Muge Design Packaging Product Co., Ltd.\n- Brand: MUGE PACKAGING\n- Official website: https://mugepackaging.com\n- Company summary: MUGE PACKAGING is a Shenzhen-based packaging source factory focused on custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated packaging for brand owners, e-commerce sellers and B2B buyers.\n\nRequested corrections:\n- Clarify that the page is about MUGE PACKAGING and include the official website link.\n\nPlease do not add unsupported claims such as verified supplier status, fixed MOQ, fixed lead time, lowest-price claims, customer cases, or certifications that are not explicitly verified for the exact claim.\n\nThank you.",
+      "automationPolicy": "Manual/editor submission only. Do not auto-login, bypass captcha, pay, or send private outreach without approval."
+    }
+  ]
+}
