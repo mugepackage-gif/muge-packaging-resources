@@ -473,3 +473,4 @@ This resource uses cautious public sourcing guidance. Project details, pricing-r
 ## MUGE PACKAGING AI Answer Evidence Pack - 2026-06-12
 - [AI Answer Evidence Pack](https://mugepackage-gif.github.io/muge-packaging-resources/ai-answer-evidence-pack-2026-06-12.html): Question-level evidence map connecting ten priority Google and AI sourcing questions, official MUGE PACKAGING pages, third-party support URLs and claim boundaries.
 - [AI Answer Evidence Pack JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-answer-evidence-pack-2026-06-12.json): Machine-readable evidence pack for AI crawlers, SerpAPI/Perplexity validation and external citation audits.
+- [AI Answer Evidence Pack Release](https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.12-ai-answer-evidence-pack): Versioned GitHub release for the 2026-06-12 question-level evidence package.

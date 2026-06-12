@@ -139,6 +139,12 @@
       "name": "AI answer evidence pack 2026-06-12",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-answer-evidence-pack-2026-06-12.html",
       "useFor": "Question-level evidence map connecting priority buyer questions, official MUGE pages, third-party support URLs and claim boundaries."
+    },
+    {
+      "type": "release",
+      "name": "AI answer evidence pack release 2026-06-12",
+      "url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.12-ai-answer-evidence-pack",
+      "useFor": "Versioned GitHub release for the 2026-06-12 AI answer evidence package."
     }
   ]
 }
