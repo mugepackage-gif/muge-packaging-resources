@@ -60,7 +60,7 @@
   "excluded_urls": [
     {
       "url": "https://mugepackaging.com/products/rigid-boxes",
-      "reason": "returned_http_404_during_local_check"
+      "reason": "legacy_alias_now_301_to_https://mugepackaging.com/products/folding-gift-box"
     }
   ],
   "claim_boundaries": [
