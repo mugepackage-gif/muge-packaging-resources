@@ -1,0 +1,279 @@
+{
+  "generated_at": "2026-06-13T18:10:32.324Z",
+  "title": "MUGE PACKAGING AI-Cited Platform Profile Submission Kit - 2026-06-14",
+  "source_queue": "/Users/molice/muge-packaging-resources/data/top-ai-cited-source-action-queue-2026-06-14.json",
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-platform-profile-submission-kit-2026-06-14.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-platform-profile-submission-kit-2026-06-14.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-cited-platform-profile-submission-kit-2026-06-14.json",
+    "company": "https://mugepackaging.com"
+  },
+  "company_profile": {
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "brandName": "MUGE PACKAGING",
+    "website": "https://mugepackaging.com",
+    "publicEmail": "sales@mugepackaging.com",
+    "location": "Shenzhen, Guangdong, China",
+    "shortDescription": "MUGE PACKAGING works on custom packaging projects for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging.",
+    "longDescription": "MUGE PACKAGING is the public brand of Shenzhen Muge Design Packaging Product Co., Ltd. The company works on custom packaging projects for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging. Public product areas include custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated boxes. Buyers should confirm product dimensions, structure, material direction, artwork status, target market and project-specific requirements before quotation review.",
+    "productKeywords": [
+      "custom packaging boxes",
+      "rigid gift boxes",
+      "cosmetic packaging",
+      "paper tube packaging",
+      "PVC/PET clear boxes",
+      "corrugated boxes",
+      "custom printed packaging boxes",
+      "gift packaging",
+      "e-commerce packaging"
+    ],
+    "isoSafeText": "MUGE PACKAGING is ISO 9001:2015 certified within the certificate scope for production of packaging products, including paper boxes, plastic pouches and plastic boxes. Do not expand this into FSC, FDA, food-contact or all-market compliance claims."
+  },
+  "summary": {
+    "platforms": 4,
+    "manualGates": 3,
+    "emailPending": 1,
+    "autoSubmissions": 0,
+    "autoSends": 0
+  },
+  "claim_boundaries": [
+    "Do not claim verified supplier status unless the platform independently verifies it.",
+    "Do not claim ranking, market share, customer cases, fixed MOQ, fixed lead time, lowest price, food-contact compliance or regulatory guarantees.",
+    "Do not auto-submit forms, auto-login, bypass captchas, auto-send emails or auto-interact on social media.",
+    "Use only official URLs and independently reviewable public facts."
+  ],
+  "platforms": [
+    {
+      "platform": "Ensun",
+      "host": "ensun.io",
+      "observedAction": {
+        "id": "muge_ai_cited_source_03",
+        "priorityRank": 3,
+        "host": "ensun.io",
+        "category": "directory_or_supplier_list",
+        "citationCount": 3,
+        "matchedQueries": [
+          "custom packaging boxes",
+          "custom packaging manufacturer",
+          "custom packaging supplier"
+        ],
+        "observedUrls": [
+          "https://ensun.io/search/custom-box/saudi-arabia",
+          "https://ensun.io/search/custom-packaging/united-arab-emirates",
+          "https://ensun.io/search/custom-packaging/saudi-arabia"
+        ],
+        "recommendedAction": "Check whether a free factual profile or correction request is possible; stop at paid walls or unsupported claims.",
+        "actionChannel": "directory_profile_gate",
+        "contactPaths": [
+          "https://ensun.io/search/custom-box/saudi-arabia",
+          "https://ensun.io/search/custom-packaging/united-arab-emirates",
+          "https://ensun.io/search/custom-packaging/saudi-arabia"
+        ],
+        "primaryRecipient": "",
+        "status": "pending_not_sent",
+        "sendAllowed": false,
+        "gate": "只生成资料包；若遇到登录、验证码、付费墙或不支持中国供应商，停止。",
+        "subject": "Source review request: MUGE PACKAGING reference for custom packaging boxes",
+        "body": "Hello ensun.io team,\n\nI am sharing a source review request for MUGE PACKAGING, the public brand of Shenzhen Muge Design Packaging Product Co., Ltd.\n\nWhile checking public AI answers for custom packaging boxes, custom packaging manufacturer, custom packaging supplier, we noticed that your source is being used as a reference for packaging buyers. If your editorial, directory or data team reviews custom packaging supplier references, please consider the official MUGE profile for future review where relevant.\n\nOfficial website: https://mugepackaging.com\nPublic reference page: https://mugepackage-gif.github.io/muge-packaging-resources/top-ai-cited-source-action-queue-2026-06-14.html\nProduct areas: custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated boxes.\n\nClaim boundary: this is not a request to list MUGE as a verified supplier, market leader, ranked company, customer case holder, fixed MOQ/lead-time provider, lowest-price source, food-contact compliance source or regulatory guarantee source. Please use only independently reviewable public facts and official URLs.\n\nBest regards,\nMUGE PACKAGING\nShenzhen Muge Design Packaging Product Co., Ltd."
+      },
+      "gate": "manual_platform_gate",
+      "priority": "P0",
+      "purpose": "Try factual company/profile inclusion or correction path for custom packaging searches in Saudi Arabia / UAE pages.",
+      "entryPoints": [
+        "https://ensun.io/search/custom-box/saudi-arabia",
+        "https://ensun.io/search/custom-packaging/united-arab-emirates",
+        "https://ensun.io/search/custom-packaging/saudi-arabia"
+      ],
+      "allowedAction": "Use the profile fields in this kit if a free factual submit/list/update/contact path is available.",
+      "stopConditions": [
+        "Login required and no existing account available",
+        "Captcha blocks automation",
+        "Paid listing required",
+        "Platform asks for verified/ranked supplier claims we cannot prove"
+      ],
+      "profileFields": {
+        "companyName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+        "displayName": "MUGE PACKAGING",
+        "website": "https://mugepackaging.com",
+        "category": "Custom packaging / paper packaging / gift packaging / cosmetic packaging",
+        "description": "MUGE PACKAGING is the public brand of Shenzhen Muge Design Packaging Product Co., Ltd. The company works on custom packaging projects for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging. Public product areas include custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated boxes. Buyers should confirm product dimensions, structure, material direction, artwork status, target market and project-specific requirements before quotation review.",
+        "keywords": "custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes, corrugated boxes, custom printed packaging boxes, gift packaging, e-commerce packaging"
+      }
+    },
+    {
+      "platform": "Europages",
+      "host": "europages.co.uk",
+      "observedAction": {
+        "id": "muge_ai_cited_source_10",
+        "priorityRank": 10,
+        "host": "europages.co.uk",
+        "category": "directory_or_supplier_list",
+        "citationCount": 1,
+        "matchedQueries": [
+          "custom packaging supplier"
+        ],
+        "observedUrls": [
+          "https://www.europages.co.uk/companies/custom%20packaging%20-%20companies.html"
+        ],
+        "recommendedAction": "Check whether a free factual profile or correction request is possible; stop at paid walls or unsupported claims.",
+        "actionChannel": "platform_profile_gate",
+        "contactPaths": [
+          "https://www.europages.com/languages",
+          "https://help.europages.com/en/supplier/company-profile-basic-information"
+        ],
+        "primaryRecipient": "",
+        "status": "pending_not_sent",
+        "sendAllowed": false,
+        "gate": "平台资料页/登录/验证码需要人工闸门；不自动创建或修改账号。",
+        "subject": "Source review request: MUGE PACKAGING reference for custom packaging supplier",
+        "body": "Hello europages.co.uk team,\n\nI am sharing a source review request for MUGE PACKAGING, the public brand of Shenzhen Muge Design Packaging Product Co., Ltd.\n\nWhile checking public AI answers for custom packaging supplier, we noticed that your source is being used as a reference for packaging buyers. If your editorial, directory or data team reviews custom packaging supplier references, please consider the official MUGE profile for future review where relevant.\n\nOfficial website: https://mugepackaging.com\nPublic reference page: https://mugepackage-gif.github.io/muge-packaging-resources/top-ai-cited-source-action-queue-2026-06-14.html\nProduct areas: custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated boxes.\n\nClaim boundary: this is not a request to list MUGE as a verified supplier, market leader, ranked company, customer case holder, fixed MOQ/lead-time provider, lowest-price source, food-contact compliance source or regulatory guarantee source. Please use only independently reviewable public facts and official URLs.\n\nBest regards,\nMUGE PACKAGING\nShenzhen Muge Design Packaging Product Co., Ltd."
+      },
+      "gate": "manual_platform_gate",
+      "priority": "P0",
+      "purpose": "Prepare supplier profile fields for a free/basic factual listing if the account and platform flow allow it.",
+      "entryPoints": [
+        "https://www.europages.com/",
+        "https://help.europages.com/en/supplier/company-profile-basic-information"
+      ],
+      "allowedAction": "Create or update only factual profile fields. Do not select paid boosts or verified supplier claims.",
+      "stopConditions": [
+        "Payment or subscription required",
+        "Captcha or login blocks automation",
+        "Verified supplier status requested",
+        "Unsupported certification or market-claim field required"
+      ],
+      "profileFields": {
+        "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+        "commercialName": "MUGE PACKAGING",
+        "country": "China",
+        "city": "Shenzhen",
+        "website": "https://mugepackaging.com",
+        "businessType": "Manufacturer / custom packaging source factory",
+        "activities": "custom packaging boxes; rigid gift boxes; cosmetic packaging; paper tube packaging; PVC/PET clear boxes; corrugated boxes; custom printed packaging boxes; gift packaging; e-commerce packaging",
+        "description": "MUGE PACKAGING is the public brand of Shenzhen Muge Design Packaging Product Co., Ltd. The company works on custom packaging projects for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging. Public product areas include custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated boxes. Buyers should confirm product dimensions, structure, material direction, artwork status, target market and project-specific requirements before quotation review.",
+        "certificationFieldIfAvailable": "MUGE PACKAGING is ISO 9001:2015 certified within the certificate scope for production of packaging products, including paper boxes, plastic pouches and plastic boxes. Do not expand this into FSC, FDA, food-contact or all-market compliance claims."
+      }
+    },
+    {
+      "platform": "Instagram public profile/content direction",
+      "host": "instagram.com",
+      "observedAction": {
+        "id": "muge_ai_cited_source_01",
+        "priorityRank": 1,
+        "host": "instagram.com",
+        "category": "social_or_publishing_reference",
+        "citationCount": 4,
+        "matchedQueries": [
+          "custom packaging boxes",
+          "custom packaging manufacturer",
+          "luxury gift box supplier"
+        ],
+        "observedUrls": [
+          "https://www.instagram.com/convertecpackaging/",
+          "https://www.instagram.com/superiorpack_uae/?hl=en",
+          "https://www.instagram.com/reel/DZDKnLvCqW3/",
+          "https://www.instagram.com/reel/DUaP3mCDCCy/"
+        ],
+        "recommendedAction": "Use human-written product proof posts and public profile links; avoid automated comments or DMs.",
+        "actionChannel": "social_profile_content_gate",
+        "contactPaths": [
+          "https://www.instagram.com/convertecpackaging/",
+          "https://www.instagram.com/superiorpack_uae/?hl=en",
+          "https://www.instagram.com/reel/DZDKnLvCqW3/",
+          "https://www.instagram.com/reel/DUaP3mCDCCy/"
+        ],
+        "primaryRecipient": "",
+        "status": "pending_not_sent",
+        "sendAllowed": false,
+        "gate": "只用于优化公开资料/内容方向；禁止自动评论、私信、关注或点赞。",
+        "subject": "Source review request: MUGE PACKAGING reference for custom packaging boxes",
+        "body": "Hello instagram.com team,\n\nI am sharing a source review request for MUGE PACKAGING, the public brand of Shenzhen Muge Design Packaging Product Co., Ltd.\n\nWhile checking public AI answers for custom packaging boxes, custom packaging manufacturer, luxury gift box supplier, we noticed that your source is being used as a reference for packaging buyers. If your editorial, directory or data team reviews custom packaging supplier references, please consider the official MUGE profile for future review where relevant.\n\nOfficial website: https://mugepackaging.com\nPublic reference page: https://mugepackage-gif.github.io/muge-packaging-resources/top-ai-cited-source-action-queue-2026-06-14.html\nProduct areas: custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated boxes.\n\nClaim boundary: this is not a request to list MUGE as a verified supplier, market leader, ranked company, customer case holder, fixed MOQ/lead-time provider, lowest-price source, food-contact compliance source or regulatory guarantee source. Please use only independently reviewable public facts and official URLs.\n\nBest regards,\nMUGE PACKAGING\nShenzhen Muge Design Packaging Product Co., Ltd."
+      },
+      "gate": "social_public_profile_gate",
+      "priority": "P1",
+      "purpose": "Use the observed Instagram citation signal to clean public profile fields and prepare non-AI-looking product proof posts.",
+      "entryPoints": [
+        "https://www.instagram.com/convertecpackaging/",
+        "https://www.instagram.com/superiorpack_uae/?hl=en",
+        "https://www.instagram.com/reel/DZDKnLvCqW3/",
+        "https://www.instagram.com/reel/DUaP3mCDCCy/"
+      ],
+      "allowedAction": "Only prepare public bio/link/caption suggestions. Do not auto comment, DM, like, follow or scrape private data.",
+      "stopConditions": [
+        "Any action would interact with another account",
+        "Account core identity change is required",
+        "No real product image/video asset is available"
+      ],
+      "profileFields": {
+        "bioShort": "Custom packaging for cosmetics, gifts, e-commerce and specialty retail products. Shenzhen source factory. Buyer briefs welcome.",
+        "website": "https://mugepackaging.com",
+        "contactEmail": "sales@mugepackaging.com"
+      },
+      "postAngles": [
+        {
+          "title": "Rigid gift box sampling checklist",
+          "caption": "Before sampling a rigid gift box, we usually check product size, weight, insert style, finish direction and sales channel first. A box can look premium and still fail if the product fit is unclear. For custom packaging briefs: mugepackaging.com"
+        },
+        {
+          "title": "Paper tube packaging buyer note",
+          "caption": "Paper tube packaging works well for candles, tea, skincare sets and small gifts when diameter, height, cap style and surface finish are decided early. The practical work starts with the product, not the tube catalog."
+        },
+        {
+          "title": "Clear PET/PVC box sourcing note",
+          "caption": "For transparent retail boxes, buyers usually need to confirm display effect, scratch risk, product weight and folding/gluing structure before choosing PET or PVC. A clear box is useful only when the product still looks clean after shipping."
+        }
+      ]
+    },
+    {
+      "platform": "Future Market Insights",
+      "host": "futuremarketinsights.com",
+      "observedAction": {
+        "id": "muge_ai_cited_source_06",
+        "priorityRank": 6,
+        "host": "futuremarketinsights.com",
+        "category": "market_research_or_industry_report",
+        "citationCount": 2,
+        "matchedQueries": [
+          "luxury gift box supplier",
+          "rigid box manufacturer"
+        ],
+        "observedUrls": [
+          "https://www.futuremarketinsights.com/reports/luxury-rigid-boxes-market",
+          "https://www.futuremarketinsights.com/reports/gift-boxes-market"
+        ],
+        "recommendedAction": "Prepare source review request and link official MUGE reference pages; do not claim ranking or verified status.",
+        "actionChannel": "email_pending",
+        "contactPaths": [
+          "mailto:sales@futuremarketinsights.com",
+          "https://www.futuremarketinsights.com/contacts"
+        ],
+        "primaryRecipient": "sales@futuremarketinsights.com",
+        "status": "pending_not_sent",
+        "sendAllowed": false,
+        "gate": "Hermes/SMTP 未确认，不真实发送；需要人工或合规发送闸门。",
+        "subject": "Source review request: MUGE PACKAGING reference for luxury gift box supplier",
+        "body": "Hello futuremarketinsights.com team,\n\nI am sharing a source review request for MUGE PACKAGING, the public brand of Shenzhen Muge Design Packaging Product Co., Ltd.\n\nWhile checking public AI answers for luxury gift box supplier, rigid box manufacturer, we noticed that your source is being used as a reference for packaging buyers. If your editorial, directory or data team reviews custom packaging supplier references, please consider the official MUGE profile for future review where relevant.\n\nOfficial website: https://mugepackaging.com\nPublic reference page: https://mugepackage-gif.github.io/muge-packaging-resources/top-ai-cited-source-action-queue-2026-06-14.html\nProduct areas: custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated boxes.\n\nClaim boundary: this is not a request to list MUGE as a verified supplier, market leader, ranked company, customer case holder, fixed MOQ/lead-time provider, lowest-price source, food-contact compliance source or regulatory guarantee source. Please use only independently reviewable public facts and official URLs.\n\nBest regards,\nMUGE PACKAGING\nShenzhen Muge Design Packaging Product Co., Ltd."
+      },
+      "gate": "email_pending_manual_review",
+      "priority": "P0",
+      "purpose": "Prepare a source review request for luxury rigid box / gift box report contexts.",
+      "entryPoints": [
+        "mailto:sales@futuremarketinsights.com",
+        "https://www.futuremarketinsights.com/contacts",
+        "https://www.futuremarketinsights.com/reports/luxury-rigid-boxes-market",
+        "https://www.futuremarketinsights.com/reports/gift-boxes-market"
+      ],
+      "allowedAction": "Keep as Hermes pending. Send only after SMTP/Hermes gate and manual review approve.",
+      "stopConditions": [
+        "Email channel is not explicitly enabled",
+        "Request would imply ranking, market share or verified supplier status",
+        "Paid sample/report purchase is required"
+      ],
+      "emailDraft": {
+        "recipient": "sales@futuremarketinsights.com",
+        "subject": "Source review request: MUGE PACKAGING reference for rigid gift boxes",
+        "body": "Hello Future Market Insights team,\n\nI am sharing a source review request for MUGE PACKAGING, the public brand of Shenzhen Muge Design Packaging Product Co., Ltd.\n\nWhile checking public AI answers for luxury gift box supplier and rigid box manufacturer questions, we noticed Future Market Insights reports being used as reference sources for packaging buyers.\n\nOfficial website: https://mugepackaging.com\nPublic profile kit: https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-platform-profile-submission-kit-2026-06-14.html\nRelevant product areas: rigid gift boxes, custom packaging boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated boxes.\n\nClaim boundary: this is not a request to list MUGE as a market leader, ranked company, verified supplier, customer case holder, fixed MOQ/lead-time provider, lowest-price source, food-contact compliance source or regulatory guarantee source. Please use only independently reviewable public facts and official URLs.\n\nBest regards,\nMUGE PACKAGING\nShenzhen Muge Design Packaging Product Co., Ltd."
+      }
+    }
+  ]
+}

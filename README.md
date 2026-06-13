@@ -117,3 +117,7 @@ These public resources do not claim fixed MOQ, fixed lead time, lowest price, cu
 ## Top AI-Cited Source Action Queue - 2026-06-14
 
 - [MUGE PACKAGING Top AI-Cited Source Action Queue](https://mugepackage-gif.github.io/muge-packaging-resources/top-ai-cited-source-action-queue-2026-06-14.html): Prioritized action queue for AI-cited sources observed in Perplexity validation. JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/top-ai-cited-source-action-queue-2026-06-14.json
+
+## AI-Cited Platform Profile Submission Kit - 2026-06-14
+
+- [MUGE PACKAGING AI-Cited Platform Profile Submission Kit](https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-platform-profile-submission-kit-2026-06-14.html): Factual profile fields and manual-gate instructions for Ensun, Europages, Instagram public profile direction and Future Market Insights. JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-cited-platform-profile-submission-kit-2026-06-14.json
