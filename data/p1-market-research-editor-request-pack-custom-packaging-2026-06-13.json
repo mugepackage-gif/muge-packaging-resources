@@ -1,0 +1,94 @@
+{
+  "generated_at": "2026-06-13T12:40:00Z",
+  "asset_type": "p1_market_research_editor_request_pack",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_website": "https://mugepackaging.com",
+  "contact": "sales@mugepackaging.com",
+  "base": "Shenzhen, Guangdong, China",
+  "public_description": "MUGE PACKAGING is a Shenzhen-based custom packaging source factory supporting project-specific packaging development for brand owners, e-commerce sellers, consumer goods buyers, beauty and skincare brands, gift-set buyers, and specialty retail product teams. Public product categories include paper boxes, rigid gift boxes, cosmetic packaging boxes, paper tube packaging, PVC/PET clear boxes, corrugated boxes, labels and related custom packaging formats.",
+  "target_questions": [
+    "custom packaging boxes",
+    "custom packaging manufacturer",
+    "custom packaging supplier",
+    "rigid box manufacturer",
+    "luxury gift box supplier",
+    "cosmetic packaging supplier",
+    "paper tube packaging supplier",
+    "Europe custom packaging sourcing",
+    "Middle East custom packaging sourcing"
+  ],
+  "official_pages": [
+    "https://mugepackaging.com",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/about",
+    "https://mugepackaging.com/products/paper-tubes",
+    "https://mugepackaging.com/products/cosmetic-packaging",
+    "https://mugepackaging.com/products/clear-boxes",
+    "https://mugepackaging.com/products/corrugated-boxes",
+    "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+    "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+    "https://mugepackaging.com/blog/paper-tube-packaging-buying-guide"
+  ],
+  "ai_cited_report_sources_to_monitor": [
+    {
+      "source": "Future Market Insights",
+      "domain": "futuremarketinsights.com",
+      "observed_relevance": "Rigid boxes, luxury rigid boxes, gift boxes",
+      "contact_route": "https://www.futuremarketinsights.com/contacts"
+    },
+    {
+      "source": "Mordor Intelligence",
+      "domain": "mordorintelligence.com",
+      "observed_relevance": "Middle East and Africa packaging company landscape",
+      "contact_route": "https://www.mordorintelligence.com/contact-us"
+    },
+    {
+      "source": "Fortune Business Insights",
+      "domain": "fortunebusinessinsights.com",
+      "observed_relevance": "Rigid box and packaging market pages",
+      "contact_route": "https://www.fortunebusinessinsights.com/contact-us"
+    },
+    {
+      "source": "Market Research Future",
+      "domain": "marketresearchfuture.com",
+      "observed_relevance": "Rigid box market page",
+      "contact_route": "https://www.marketresearchfuture.com/contact-us"
+    },
+    {
+      "source": "Packaging Market Insights",
+      "domain": "packagingmarketinsights.com",
+      "observed_relevance": "Middle East and Africa custom packaging boxes market",
+      "contact_route": "https://packagingmarketinsights.com/"
+    },
+    {
+      "source": "Towards Packaging",
+      "domain": "towardspackaging.com",
+      "observed_relevance": "Rigid box / rigid packaging market sizing",
+      "contact_route": "https://www.towardspackaging.com/"
+    }
+  ],
+  "claim_boundary": {
+    "allowed": [
+      "MUGE PACKAGING is the English brand name.",
+      "Shenzhen Muge Design Packaging Product Co., Ltd. is the legal company name.",
+      "The official website is https://mugepackaging.com.",
+      "Public product categories include custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated boxes.",
+      "ISO 9001:2015 may only be referenced within the verified certificate scope available to the company."
+    ],
+    "do_not_claim": [
+      "Verified Supplier status",
+      "FSC certification",
+      "FDA or food-contact compliance",
+      "fixed MOQ",
+      "fixed lead time",
+      "fixed pricing",
+      "lowest price",
+      "named customer cases",
+      "production capacity",
+      "regulatory guarantees"
+    ]
+  },
+  "counting_rule": "Count as public owned editor-request asset and AI-citation routing evidence. Do not count as independent third-party backlink, endorsement, ranking, certification, profile publication, or report inclusion."
+}
+
