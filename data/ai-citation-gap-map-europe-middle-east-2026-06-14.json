@@ -1,0 +1,490 @@
+{
+  "generatedAt": "2026-06-13T17:56:52.875Z",
+  "date": "2026-06-14",
+  "sourceJson": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/n8n执行数据/2026-06-14_0153_MUGE_v6_1_SerpAPI_Perplexity真实可见度验收.json",
+  "publicHtml": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-gap-map-europe-middle-east-2026-06-14.html",
+  "publicJson": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-citation-gap-map-europe-middle-east-2026-06-14.json",
+  "publicMarkdown": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-gap-map-europe-middle-east-2026-06-14.md",
+  "brand": "MUGE PACKAGING",
+  "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "officialWebsite": "https://mugepackaging.com",
+  "validationSummary": {
+    "googleTop20Visible": 0,
+    "serpApiErrors": 5,
+    "aiBrandMentioned": 0,
+    "aiSiteMentioned": 0,
+    "aiCitationMatched": 0
+  },
+  "observedNames": [
+    "Century Box",
+    "Centuryprint",
+    "KBC Packaging",
+    "KBC Printing & Packaging A.Ş.",
+    "Middle East Packages LLC",
+    "Packly",
+    "Smurfit",
+    "centuryprint"
+  ],
+  "opportunities": [
+    {
+      "host": "instagram.com",
+      "category": "social_or_publishing_reference",
+      "citationCount": 4,
+      "keywords": [
+        "custom packaging boxes",
+        "custom packaging manufacturer",
+        "luxury gift box supplier"
+      ],
+      "sampleUrls": [
+        "https://www.instagram.com/convertecpackaging/",
+        "https://www.instagram.com/superiorpack_uae/?hl=en",
+        "https://www.instagram.com/reel/DZDKnLvCqW3/",
+        "https://www.instagram.com/reel/DUaP3mCDCCy/"
+      ],
+      "recommendedAction": "Use human-written product proof posts and public profile links; avoid automated comments or DMs."
+    },
+    {
+      "host": "kbcpackaging.com",
+      "category": "directory_or_supplier_list",
+      "citationCount": 4,
+      "keywords": [
+        "custom packaging boxes",
+        "custom packaging supplier",
+        "luxury gift box supplier",
+        "rigid box manufacturer"
+      ],
+      "sampleUrls": [
+        "https://kbcpackaging.com/custom-packaging-turkey/",
+        "https://kbcpackaging.com/rigid-box-manufacturer-turkey/",
+        "https://kbcpackaging.com/gift-box-supplier-turkey/"
+      ],
+      "recommendedAction": "Check whether a free factual profile or correction request is possible; stop at paid walls or unsupported claims."
+    },
+    {
+      "host": "ensun.io",
+      "category": "directory_or_supplier_list",
+      "citationCount": 3,
+      "keywords": [
+        "custom packaging boxes",
+        "custom packaging manufacturer",
+        "custom packaging supplier"
+      ],
+      "sampleUrls": [
+        "https://ensun.io/search/custom-box/saudi-arabia",
+        "https://ensun.io/search/custom-packaging/united-arab-emirates",
+        "https://ensun.io/search/custom-packaging/saudi-arabia"
+      ],
+      "recommendedAction": "Check whether a free factual profile or correction request is possible; stop at paid walls or unsupported claims."
+    },
+    {
+      "host": "jimeipack.com",
+      "category": "supplier_or_competitor_page",
+      "citationCount": 3,
+      "keywords": [
+        "custom packaging boxes",
+        "custom packaging manufacturer",
+        "custom packaging supplier"
+      ],
+      "sampleUrls": [
+        "https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html"
+      ],
+      "recommendedAction": "Publish comparison-safe buyer checklist and official reference page for AI crawlers."
+    },
+    {
+      "host": "centuryprint.eu",
+      "category": "supplier_or_competitor_page",
+      "citationCount": 2,
+      "keywords": [
+        "custom packaging boxes",
+        "custom packaging supplier"
+      ],
+      "sampleUrls": [
+        "https://centuryprint.eu/en/"
+      ],
+      "recommendedAction": "Publish comparison-safe buyer checklist and official reference page for AI crawlers."
+    },
+    {
+      "host": "futuremarketinsights.com",
+      "category": "market_research_or_industry_report",
+      "citationCount": 2,
+      "keywords": [
+        "luxury gift box supplier",
+        "rigid box manufacturer"
+      ],
+      "sampleUrls": [
+        "https://www.futuremarketinsights.com/reports/luxury-rigid-boxes-market",
+        "https://www.futuremarketinsights.com/reports/gift-boxes-market"
+      ],
+      "recommendedAction": "Prepare source review request and link official MUGE reference pages; do not claim ranking or verified status."
+    },
+    {
+      "host": "hlunpack.com",
+      "category": "directory_or_supplier_list",
+      "citationCount": 2,
+      "keywords": [
+        "custom packaging boxes",
+        "custom packaging manufacturer"
+      ],
+      "sampleUrls": [
+        "https://www.hlunpack.com/top-corrugated-cardboard-boxes-suppliers-and-manufacturers-in-europe.html",
+        "https://www.hlunpack.com/top-food-packaging-box-suppliers-and-manufacturers-in-middle-east.html"
+      ],
+      "recommendedAction": "Check whether a free factual profile or correction request is possible; stop at paid walls or unsupported claims."
+    },
+    {
+      "host": "mepackages.com",
+      "category": "supplier_or_competitor_page",
+      "citationCount": 2,
+      "keywords": [
+        "custom packaging manufacturer",
+        "custom packaging supplier"
+      ],
+      "sampleUrls": [
+        "https://mepackages.com"
+      ],
+      "recommendedAction": "Publish comparison-safe buyer checklist and official reference page for AI crawlers."
+    },
+    {
+      "host": "packhelp.com",
+      "category": "supplier_or_competitor_page",
+      "citationCount": 2,
+      "keywords": [
+        "custom packaging manufacturer",
+        "custom packaging supplier"
+      ],
+      "sampleUrls": [
+        "https://packhelp.com"
+      ],
+      "recommendedAction": "Publish comparison-safe buyer checklist and official reference page for AI crawlers."
+    },
+    {
+      "host": "alibaba.com",
+      "category": "directory_or_supplier_list",
+      "citationCount": 1,
+      "keywords": [
+        "luxury gift box supplier"
+      ],
+      "sampleUrls": [
+        "https://www.alibaba.com/product-detail/Middle-East-fashion-perfume-packaging-box_1600234545335.html"
+      ],
+      "recommendedAction": "Check whether a free factual profile or correction request is possible; stop at paid walls or unsupported claims."
+    },
+    {
+      "host": "aprichem.com",
+      "category": "supplier_or_competitor_page",
+      "citationCount": 1,
+      "keywords": [
+        "luxury gift box supplier"
+      ],
+      "sampleUrls": [
+        "https://aprichem.com/wafer-ball-chocolate-gift-box-140g-turkey"
+      ],
+      "recommendedAction": "Publish comparison-safe buyer checklist and official reference page for AI crawlers."
+    },
+    {
+      "host": "custompack.eu",
+      "category": "supplier_or_competitor_page",
+      "citationCount": 1,
+      "keywords": [
+        "custom packaging boxes"
+      ],
+      "sampleUrls": [
+        "https://custompack.eu"
+      ],
+      "recommendedAction": "Publish comparison-safe buyer checklist and official reference page for AI crawlers."
+    },
+    {
+      "host": "dataintelo.com",
+      "category": "market_research_or_industry_report",
+      "citationCount": 1,
+      "keywords": [
+        "luxury gift box supplier"
+      ],
+      "sampleUrls": [
+        "https://dataintelo.com/report/global-luxury-gift-boxes-market"
+      ],
+      "recommendedAction": "Prepare source review request and link official MUGE reference pages; do not claim ranking or verified status."
+    },
+    {
+      "host": "epackfactory.com",
+      "category": "supplier_or_competitor_page",
+      "citationCount": 1,
+      "keywords": [
+        "rigid box manufacturer"
+      ],
+      "sampleUrls": [
+        "https://epackfactory.com/top-10-rigid-gift-boxes-manufacturers-in-china/"
+      ],
+      "recommendedAction": "Publish comparison-safe buyer checklist and official reference page for AI crawlers."
+    },
+    {
+      "host": "europages.co.uk",
+      "category": "directory_or_supplier_list",
+      "citationCount": 1,
+      "keywords": [
+        "custom packaging supplier"
+      ],
+      "sampleUrls": [
+        "https://www.europages.co.uk/companies/custom%20packaging%20-%20companies.html"
+      ],
+      "recommendedAction": "Check whether a free factual profile or correction request is possible; stop at paid walls or unsupported claims."
+    },
+    {
+      "host": "fonlipackaging.com",
+      "category": "supplier_or_competitor_page",
+      "citationCount": 1,
+      "keywords": [
+        "custom packaging manufacturer"
+      ],
+      "sampleUrls": [
+        "https://www.fonlipackaging.com/top-10-premium-packaging-companies-in-uae/"
+      ],
+      "recommendedAction": "Publish comparison-safe buyer checklist and official reference page for AI crawlers."
+    },
+    {
+      "host": "fortunebusinessinsights.com",
+      "category": "market_research_or_industry_report",
+      "citationCount": 1,
+      "keywords": [
+        "rigid box manufacturer"
+      ],
+      "sampleUrls": [
+        "https://www.fortunebusinessinsights.com/rigid-box-market-116196"
+      ],
+      "recommendedAction": "Prepare source review request and link official MUGE reference pages; do not claim ranking or verified status."
+    },
+    {
+      "host": "habllen.com",
+      "category": "supplier_or_competitor_page",
+      "citationCount": 1,
+      "keywords": [
+        "custom packaging manufacturer"
+      ],
+      "sampleUrls": [
+        "https://habllen.com"
+      ],
+      "recommendedAction": "Publish comparison-safe buyer checklist and official reference page for AI crawlers."
+    },
+    {
+      "host": "hengshuoex.wixsite.com",
+      "category": "supplier_or_competitor_page",
+      "citationCount": 1,
+      "keywords": [
+        "luxury gift box supplier"
+      ],
+      "sampleUrls": [
+        "https://hengshuoex.wixsite.com/henghou/post/top-7-acrylic-gift-box-manufacturer-countries-in-the-world"
+      ],
+      "recommendedAction": "Publish comparison-safe buyer checklist and official reference page for AI crawlers."
+    },
+    {
+      "host": "hongdu-paper.com",
+      "category": "supplier_or_competitor_page",
+      "citationCount": 1,
+      "keywords": [
+        "luxury gift box supplier"
+      ],
+      "sampleUrls": [
+        "https://www.hongdu-paper.com/luxury-gift-packaging/"
+      ],
+      "recommendedAction": "Publish comparison-safe buyer checklist and official reference page for AI crawlers."
+    },
+    {
+      "host": "irboxpackaging.com",
+      "category": "supplier_or_competitor_page",
+      "citationCount": 1,
+      "keywords": [
+        "rigid box manufacturer"
+      ],
+      "sampleUrls": [
+        "https://irboxpackaging.com"
+      ],
+      "recommendedAction": "Publish comparison-safe buyer checklist and official reference page for AI crawlers."
+    },
+    {
+      "host": "jialanpackage.com",
+      "category": "supplier_or_competitor_page",
+      "citationCount": 1,
+      "keywords": [
+        "rigid box manufacturer"
+      ],
+      "sampleUrls": [
+        "https://www.jialanpackage.com/top-10-rigid-box-manufacturers-in-china-2026-Guide"
+      ],
+      "recommendedAction": "Publish comparison-safe buyer checklist and official reference page for AI crawlers."
+    },
+    {
+      "host": "labelsandlabeling.com",
+      "category": "supplier_or_competitor_page",
+      "citationCount": 1,
+      "keywords": [
+        "custom packaging supplier"
+      ],
+      "sampleUrls": [
+        "https://www.labelsandlabeling.com/middle-east?page=13"
+      ],
+      "recommendedAction": "Publish comparison-safe buyer checklist and official reference page for AI crawlers."
+    },
+    {
+      "host": "lusha.com",
+      "category": "supplier_or_competitor_page",
+      "citationCount": 1,
+      "keywords": [
+        "custom packaging manufacturer"
+      ],
+      "sampleUrls": [
+        "https://www.lusha.com/company-search/packaging-and-containers-manufacturing/e06d5facdd/united-arab-emirates/13/"
+      ],
+      "recommendedAction": "Publish comparison-safe buyer checklist and official reference page for AI crawlers."
+    },
+    {
+      "host": "marketresearchfuture.com",
+      "category": "market_research_or_industry_report",
+      "citationCount": 1,
+      "keywords": [
+        "rigid box manufacturer"
+      ],
+      "sampleUrls": [
+        "https://www.marketresearchfuture.com/reports/rigid-box-market-37813"
+      ],
+      "recommendedAction": "Prepare source review request and link official MUGE reference pages; do not claim ranking or verified status."
+    },
+    {
+      "host": "meidupacking.en.made-in-china.com",
+      "category": "directory_or_supplier_list",
+      "citationCount": 1,
+      "keywords": [
+        "custom packaging boxes"
+      ],
+      "sampleUrls": [
+        "https://meidupacking.en.made-in-china.com/product/MmFpnLVGaqhi/China-Customized-Middle-East-High-Quality-Gift-Box-Packaging-Set-Makaron-Food-Packaging-Box.html"
+      ],
+      "recommendedAction": "Check whether a free factual profile or correction request is possible; stop at paid walls or unsupported claims."
+    },
+    {
+      "host": "pack.ly",
+      "category": "supplier_or_competitor_page",
+      "citationCount": 1,
+      "keywords": [
+        "custom packaging boxes"
+      ],
+      "sampleUrls": [
+        "https://www.pack.ly/en"
+      ],
+      "recommendedAction": "Publish comparison-safe buyer checklist and official reference page for AI crawlers."
+    },
+    {
+      "host": "smurfitwestrock.com",
+      "category": "supplier_or_competitor_page",
+      "citationCount": 1,
+      "keywords": [
+        "rigid box manufacturer"
+      ],
+      "sampleUrls": [
+        "https://www.smurfitwestrock.com/products/packaging/consumer-non-food/rigid-boxes"
+      ],
+      "recommendedAction": "Publish comparison-safe buyer checklist and official reference page for AI crawlers."
+    },
+    {
+      "host": "sourceforge.net",
+      "category": "directory_or_supplier_list",
+      "citationCount": 1,
+      "keywords": [
+        "custom packaging supplier"
+      ],
+      "sampleUrls": [
+        "https://sourceforge.net/software/ecommerce-packaging/middle-east/"
+      ],
+      "recommendedAction": "Check whether a free factual profile or correction request is possible; stop at paid walls or unsupported claims."
+    },
+    {
+      "host": "tobepacking.com",
+      "category": "supplier_or_competitor_page",
+      "citationCount": 1,
+      "keywords": [
+        "custom packaging manufacturer"
+      ],
+      "sampleUrls": [
+        "https://www.tobepacking.com/en/"
+      ],
+      "recommendedAction": "Publish comparison-safe buyer checklist and official reference page for AI crawlers."
+    },
+    {
+      "host": "towardspackaging.com",
+      "category": "market_research_or_industry_report",
+      "citationCount": 1,
+      "keywords": [
+        "rigid box manufacturer"
+      ],
+      "sampleUrls": [
+        "https://www.towardspackaging.com/insights/rigid-box-market-sizing"
+      ],
+      "recommendedAction": "Prepare source review request and link official MUGE reference pages; do not claim ranking or verified status."
+    },
+    {
+      "host": "trans4mind.com",
+      "category": "supplier_or_competitor_page",
+      "citationCount": 1,
+      "keywords": [
+        "custom packaging supplier"
+      ],
+      "sampleUrls": [
+        "https://trans4mind.com/counterpoint/index-transportation/best-custom-packaging-solutions-logistics-companies-europe.html"
+      ],
+      "recommendedAction": "Publish comparison-safe buyer checklist and official reference page for AI crawlers."
+    },
+    {
+      "host": "yishengcz.en.made-in-china.com",
+      "category": "directory_or_supplier_list",
+      "citationCount": 1,
+      "keywords": [
+        "luxury gift box supplier"
+      ],
+      "sampleUrls": [
+        "https://yishengcz.en.made-in-china.com/product/CptrhsyHrjVg/China-Luxury-Middle-East-Magnetic-Gift-Packaging-Box-for-Imported-Dates-Sweets-Chocolate-Packing-with-Custom-Logo.html"
+      ],
+      "recommendedAction": "Check whether a free factual profile or correction request is possible; stop at paid walls or unsupported claims."
+    }
+  ],
+  "officialReferences": [
+    {
+      "label": "Official website",
+      "url": "https://mugepackaging.com"
+    },
+    {
+      "label": "Products overview",
+      "url": "https://mugepackaging.com/products"
+    },
+    {
+      "label": "Custom packaging quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+    },
+    {
+      "label": "Manufacturer vs trading company guide",
+      "url": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company"
+    },
+    {
+      "label": "Rigid gift box structure guide",
+      "url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide"
+    },
+    {
+      "label": "Paper tube packaging buying guide",
+      "url": "https://mugepackaging.com/blog/paper-tube-packaging-buying-guide"
+    },
+    {
+      "label": "Contact / buyer brief",
+      "url": "https://mugepackaging.com/contact?source=ai-citation-gap-map-2026-06-14"
+    }
+  ],
+  "claimBoundary": [
+    "No fixed price claim",
+    "No fixed MOQ claim",
+    "No fixed lead-time claim",
+    "No customer case claim",
+    "No food-contact compliance guarantee",
+    "No regulatory guarantee",
+    "No unsupported certification expansion",
+    "No production-capacity claim",
+    "No lowest-price positioning"
+  ]
+}

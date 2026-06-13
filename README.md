@@ -108,3 +108,8 @@ These public resources do not claim fixed MOQ, fixed lead time, lowest price, cu
 ## P1 Top3 Editor Request Drafts - 2026-06-14
 - [MUGE PACKAGING P1 Top3 Editor Request Drafts](https://mugepackage-gif.github.io/muge-packaging-resources/p1-top3-editor-request-drafts-2026-06-14.html): Pending, claim-bounded editor/source review drafts for Future Market Insights, Fortune Business Insights and Mordor Intelligence. JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-top3-editor-request-drafts-2026-06-14.json
 <!-- MUGE-P1-TOP3-EDITOR-REQUEST-DRAFTS-2026-06-14:end -->
+
+## AI Citation Gap Map - 2026-06-14
+
+- [MUGE PACKAGING AI Citation Gap Map for Europe and Middle East Buyers](https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-gap-map-europe-middle-east-2026-06-14.html): Perplexity-observed citation patterns and practical official-reference actions.
+- [AI Citation Gap Map JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-citation-gap-map-europe-middle-east-2026-06-14.json): Machine-readable gap map, observed hosts, target questions and claim boundaries.
