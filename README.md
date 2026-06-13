@@ -53,3 +53,10 @@ These public resources do not claim fixed MOQ, fixed lead time, lowest price, cu
 
 - [MUGE PACKAGING AI Citation Gap Map for Europe and Middle East Buyers](https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-gap-map-europe-middle-east-2026-06-13.html): Perplexity-observed citation patterns and practical official-reference actions.
 - [AI Citation Gap Map JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-citation-gap-map-europe-middle-east-2026-06-13.json): Machine-readable gap map, observed hosts, target questions and claim boundaries.
+
+<!-- perplexity-cited-source-response-map-2026-06-13:start -->
+## Perplexity Cited Source Response Map - 2026-06-13
+
+- [Perplexity cited source response map for Europe and Middle East buyers](https://mugepackage-gif.github.io/muge-packaging-resources/perplexity-cited-source-response-map-europe-middle-east-2026-06-13.html): Query-level map of sources Perplexity currently cites and official MUGE PACKAGING response pages.
+- [Perplexity cited source response map JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/perplexity-cited-source-response-map-europe-middle-east-2026-06-13.json): Machine-readable cited-source map and safe external-growth actions.
+<!-- perplexity-cited-source-response-map-2026-06-13:end -->
