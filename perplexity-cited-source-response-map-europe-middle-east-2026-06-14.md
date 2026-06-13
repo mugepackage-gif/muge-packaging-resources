@@ -11,18 +11,19 @@ Current result: broad category questions still did not naturally mention or cite
 - Tested queries: 5
 - Perplexity brand mentions: 0
 - Perplexity MUGE citation matches: 0
-- Unique cited hosts: 31
+- Unique cited hosts: 32
 - SerpAPI errors: 5
 
 ## Observed Cited Hosts
 
 | Host | Count | Queries | Sample URLs |
 |---|---:|---|---|
-| jimeipack.com | 4 | custom packaging boxes, custom packaging manufacturer, custom packaging supplier, rigid box manufacturer | https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html |
-| kbcpackaging.com | 4 | custom packaging boxes, custom packaging manufacturer, rigid box manufacturer, luxury gift box supplier | https://kbcpackaging.com/custom-packaging-turkey/<br>https://kbcpackaging.com/rigid-box-manufacturer-turkey/<br>https://kbcpackaging.com/gift-box-supplier-turkey/ |
 | ensun.io | 3 | custom packaging boxes, custom packaging manufacturer, custom packaging supplier | https://ensun.io/search/custom-box/saudi-arabia<br>https://ensun.io/search/custom-packaging/saudi-arabia |
 | instagram.com | 3 | custom packaging boxes, luxury gift box supplier | https://www.instagram.com/convertecpackaging/<br>https://www.instagram.com/reel/DZDKnLvCqW3/<br>https://www.instagram.com/reel/DUaP3mCDCCy/ |
+| jimeipack.com | 3 | custom packaging boxes, custom packaging manufacturer, custom packaging supplier | https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html |
+| kbcpackaging.com | 3 | custom packaging boxes, rigid box manufacturer, luxury gift box supplier | https://kbcpackaging.com/custom-packaging-turkey/<br>https://kbcpackaging.com/rigid-box-manufacturer-turkey/<br>https://kbcpackaging.com/gift-box-supplier-turkey/ |
 | centuryprint.eu | 2 | custom packaging boxes, custom packaging supplier | https://centuryprint.eu/en/ |
+| cypackaging.net | 2 | custom packaging manufacturer, custom packaging supplier | https://cypackaging.net/blog-packaging-manufacturing-partner-middle-east.html<br>https://cypackaging.net/blog-packaging-distributor-partner-middle-east.html |
 | europages.co.uk | 2 | custom packaging boxes, custom packaging supplier | https://www.europages.co.uk/companies/turkey/custom%20boxes.html<br>https://www.europages.co.uk/companies/custom%20packaging%20-%20companies.html |
 | futuremarketinsights.com | 2 | rigid box manufacturer, luxury gift box supplier | https://www.futuremarketinsights.com/reports/luxury-rigid-boxes-market<br>https://www.futuremarketinsights.com/reports/gift-boxes-market |
 | meidupacking.en.made-in-china.com | 2 | custom packaging boxes, luxury gift box supplier | https://meidupacking.en.made-in-china.com/product/MmFpnLVGaqhi/China-Customized-Middle-East-High-Quality-Gift-Box-Packaging-Set-Makaron-Food-Packaging-Box.html |
@@ -30,7 +31,6 @@ Current result: broad category questions still did not naturally mention or cite
 | tobepacking.com | 2 | custom packaging manufacturer, custom packaging supplier | https://www.tobepacking.com/en/ |
 | alibaba.com | 1 | luxury gift box supplier | https://www.alibaba.com/product-detail/Middle-East-fashion-perfume-packaging-box_1600234545335.html |
 | aprichem.com | 1 | luxury gift box supplier | https://aprichem.com/wafer-ball-chocolate-gift-box-140g-turkey |
-| berlinpackaging.com | 1 | custom packaging manufacturer | https://www.berlinpackaging.com/insights/news/berlin-packaging-expands-in-eastern-europe-with-the-acquisition-of-eps |
 | dataintelo.com | 1 | luxury gift box supplier | https://dataintelo.com/report/global-luxury-gift-boxes-market |
 | epackfactory.com | 1 | rigid box manufacturer | https://epackfactory.com/top-10-rigid-gift-boxes-manufacturers-in-china/ |
 | fortunebusinessinsights.com | 1 | rigid box manufacturer | https://www.fortunebusinessinsights.com/rigid-box-market-116196 |
@@ -45,10 +45,11 @@ Current result: broad category questions still did not naturally mention or cite
 | pack.ly | 1 | custom packaging boxes | https://www.pack.ly/en |
 | packaging-alliance.eu | 1 | custom packaging supplier | https://packaging-alliance.eu |
 | packagingmarketinsights.com | 1 | custom packaging manufacturer | https://packagingmarketinsights.com/vision/insights/custom-packaging-boxes-market/middle-east-and-africa |
-| packagingmea.com | 1 | custom packaging supplier | https://www.packagingmea.com |
 | packhelp.com | 1 | custom packaging supplier | https://packhelp.com |
+| smurfitwestrock.com | 1 | rigid box manufacturer | https://www.smurfitwestrock.com/products/packaging/consumer-non-food/rigid-boxes |
 | towardspackaging.com | 1 | rigid box manufacturer | https://www.towardspackaging.com/insights/rigid-box-market-sizing |
 | viapromo.co.uk | 1 | rigid box manufacturer | https://viapromo.co.uk/european-rigid-box-manufacturer-packaging-producer/ |
+| youtube.com | 1 | custom packaging manufacturer | https://www.youtube.com/watch?v=zOfl4Ry2IBI |
 
 ## custom packaging boxes
 
@@ -70,11 +71,11 @@ Current result: broad category questions still did not naturally mention or cite
 - MUGE official target: https://mugepackaging.com/about
 - Current Perplexity status: brand mentioned no, official site mentioned no, MUGE citation matched no.
 
-- kbcpackaging.com: https://kbcpackaging.com/custom-packaging-turkey/ (supplier_or_industry_page)
 - mepackages.com: https://mepackages.com (supplier_or_industry_page)
 - ensun.io: https://ensun.io/search/custom-packaging/saudi-arabia (directory_or_supplier_database)
-- berlinpackaging.com: https://www.berlinpackaging.com/insights/news/berlin-packaging-expands-in-eastern-europe-with-the-acquisition-of-eps (supplier_or_industry_page)
+- cypackaging.net: https://cypackaging.net/blog-packaging-manufacturing-partner-middle-east.html (supplier_or_industry_page)
 - mordorintelligence.com: https://www.mordorintelligence.com/industry-reports/mea-single-use-plastic-packaging-market/companies (market_report_or_statistics)
+- youtube.com: https://www.youtube.com/watch?v=zOfl4Ry2IBI (social_or_user_generated_reference)
 - tobepacking.com: https://www.tobepacking.com/en/ (supplier_or_industry_page)
 - jimeipack.com: https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html (supplier_or_industry_page)
 - internationalpaper.com: https://www.internationalpaper.com/en-gb/packaging (supplier_or_industry_page)
@@ -88,13 +89,13 @@ Current result: broad category questions still did not naturally mention or cite
 - ensun.io: https://ensun.io/search/custom-packaging/saudi-arabia (directory_or_supplier_database)
 - mepackages.com: https://mepackages.com (supplier_or_industry_page)
 - centuryprint.eu: https://centuryprint.eu/en/ (supplier_or_industry_page)
-- jimeipack.com: https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html (supplier_or_industry_page)
+- cypackaging.net: https://cypackaging.net/blog-packaging-distributor-partner-middle-east.html (supplier_or_industry_page)
 - europages.co.uk: https://www.europages.co.uk/companies/custom%20packaging%20-%20companies.html (directory_or_supplier_database)
 - tobepacking.com: https://www.tobepacking.com/en/ (supplier_or_industry_page)
 - packaging-alliance.eu: https://packaging-alliance.eu (supplier_or_industry_page)
 - packhelp.com: https://packhelp.com (supplier_or_industry_page)
+- jimeipack.com: https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html (supplier_or_industry_page)
 - habllen.com: https://habllen.com/products (supplier_or_industry_page)
-- packagingmea.com: https://www.packagingmea.com (supplier_or_industry_page)
 
 ## rigid box manufacturer
 
@@ -108,8 +109,8 @@ Current result: broad category questions still did not naturally mention or cite
 - towardspackaging.com: https://www.towardspackaging.com/insights/rigid-box-market-sizing (market_report_or_statistics)
 - fortunebusinessinsights.com: https://www.fortunebusinessinsights.com/rigid-box-market-116196 (market_report_or_statistics)
 - futuremarketinsights.com: https://www.futuremarketinsights.com/reports/luxury-rigid-boxes-market (market_report_or_statistics)
-- jimeipack.com: https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html (supplier_or_industry_page)
 - epackfactory.com: https://epackfactory.com/top-10-rigid-gift-boxes-manufacturers-in-china/ (supplier_or_industry_page)
+- smurfitwestrock.com: https://www.smurfitwestrock.com/products/packaging/consumer-non-food/rigid-boxes (supplier_or_industry_page)
 
 ## luxury gift box supplier
 

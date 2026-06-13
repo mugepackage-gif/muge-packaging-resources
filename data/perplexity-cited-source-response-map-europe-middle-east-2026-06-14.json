@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-13T16:39:20.183Z",
+  "generated_at": "2026-06-13T17:04:06.788Z",
   "title": "MUGE PACKAGING Perplexity Cited Source Response Map for Europe and Middle East Buyers",
   "purpose": "Map the sources Perplexity currently cites for custom packaging supplier questions, then connect each query to official MUGE PACKAGING pages and safe external-growth actions.",
-  "source_acceptance_json": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/n8n执行数据/2026-06-14_0037_MUGE_v6_1_SerpAPI_Perplexity真实可见度验收.json",
+  "source_acceptance_json": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/n8n执行数据/2026-06-14_0103_MUGE_v6_1_SerpAPI_Perplexity真实可见度验收.json",
   "official_brand": "MUGE PACKAGING",
   "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "official_website": "https://mugepackaging.com",
@@ -12,7 +12,7 @@
     "ai_citation_matches": 0,
     "google_top20_visible": 0,
     "serpapi_errors": 5,
-    "unique_cited_hosts": 31
+    "unique_cited_hosts": 32
   },
   "rows": [
     {
@@ -81,11 +81,6 @@
       "officialMugeTarget": "https://mugepackaging.com/about",
       "observedCitations": [
         {
-          "url": "https://kbcpackaging.com/custom-packaging-turkey/",
-          "host": "kbcpackaging.com",
-          "sourceType": "supplier_or_industry_page"
-        },
-        {
           "url": "https://mepackages.com",
           "host": "mepackages.com",
           "sourceType": "supplier_or_industry_page"
@@ -96,14 +91,19 @@
           "sourceType": "directory_or_supplier_database"
         },
         {
-          "url": "https://www.berlinpackaging.com/insights/news/berlin-packaging-expands-in-eastern-europe-with-the-acquisition-of-eps",
-          "host": "berlinpackaging.com",
+          "url": "https://cypackaging.net/blog-packaging-manufacturing-partner-middle-east.html",
+          "host": "cypackaging.net",
           "sourceType": "supplier_or_industry_page"
         },
         {
           "url": "https://www.mordorintelligence.com/industry-reports/mea-single-use-plastic-packaging-market/companies",
           "host": "mordorintelligence.com",
           "sourceType": "market_report_or_statistics"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=zOfl4Ry2IBI",
+          "host": "youtube.com",
+          "sourceType": "social_or_user_generated_reference"
         },
         {
           "url": "https://www.tobepacking.com/en/",
@@ -152,8 +152,8 @@
           "sourceType": "supplier_or_industry_page"
         },
         {
-          "url": "https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html",
-          "host": "jimeipack.com",
+          "url": "https://cypackaging.net/blog-packaging-distributor-partner-middle-east.html",
+          "host": "cypackaging.net",
           "sourceType": "supplier_or_industry_page"
         },
         {
@@ -177,13 +177,13 @@
           "sourceType": "supplier_or_industry_page"
         },
         {
-          "url": "https://habllen.com/products",
-          "host": "habllen.com",
+          "url": "https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html",
+          "host": "jimeipack.com",
           "sourceType": "supplier_or_industry_page"
         },
         {
-          "url": "https://www.packagingmea.com",
-          "host": "packagingmea.com",
+          "url": "https://habllen.com/products",
+          "host": "habllen.com",
           "sourceType": "supplier_or_industry_page"
         }
       ]
@@ -233,13 +233,13 @@
           "sourceType": "market_report_or_statistics"
         },
         {
-          "url": "https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html",
-          "host": "jimeipack.com",
+          "url": "https://epackfactory.com/top-10-rigid-gift-boxes-manufacturers-in-china/",
+          "host": "epackfactory.com",
           "sourceType": "supplier_or_industry_page"
         },
         {
-          "url": "https://epackfactory.com/top-10-rigid-gift-boxes-manufacturers-in-china/",
-          "host": "epackfactory.com",
+          "url": "https://www.smurfitwestrock.com/products/packaging/consumer-non-food/rigid-boxes",
+          "host": "smurfitwestrock.com",
           "sourceType": "supplier_or_industry_page"
         }
       ]
@@ -308,34 +308,6 @@
   ],
   "cited_hosts": [
     {
-      "host": "jimeipack.com",
-      "count": 4,
-      "sampleUrls": [
-        "https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html"
-      ],
-      "queries": [
-        "custom packaging boxes",
-        "custom packaging manufacturer",
-        "custom packaging supplier",
-        "rigid box manufacturer"
-      ]
-    },
-    {
-      "host": "kbcpackaging.com",
-      "count": 4,
-      "sampleUrls": [
-        "https://kbcpackaging.com/custom-packaging-turkey/",
-        "https://kbcpackaging.com/rigid-box-manufacturer-turkey/",
-        "https://kbcpackaging.com/gift-box-supplier-turkey/"
-      ],
-      "queries": [
-        "custom packaging boxes",
-        "custom packaging manufacturer",
-        "rigid box manufacturer",
-        "luxury gift box supplier"
-      ]
-    },
-    {
       "host": "ensun.io",
       "count": 3,
       "sampleUrls": [
@@ -362,6 +334,32 @@
       ]
     },
     {
+      "host": "jimeipack.com",
+      "count": 3,
+      "sampleUrls": [
+        "https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html"
+      ],
+      "queries": [
+        "custom packaging boxes",
+        "custom packaging manufacturer",
+        "custom packaging supplier"
+      ]
+    },
+    {
+      "host": "kbcpackaging.com",
+      "count": 3,
+      "sampleUrls": [
+        "https://kbcpackaging.com/custom-packaging-turkey/",
+        "https://kbcpackaging.com/rigid-box-manufacturer-turkey/",
+        "https://kbcpackaging.com/gift-box-supplier-turkey/"
+      ],
+      "queries": [
+        "custom packaging boxes",
+        "rigid box manufacturer",
+        "luxury gift box supplier"
+      ]
+    },
+    {
       "host": "centuryprint.eu",
       "count": 2,
       "sampleUrls": [
@@ -369,6 +367,18 @@
       ],
       "queries": [
         "custom packaging boxes",
+        "custom packaging supplier"
+      ]
+    },
+    {
+      "host": "cypackaging.net",
+      "count": 2,
+      "sampleUrls": [
+        "https://cypackaging.net/blog-packaging-manufacturing-partner-middle-east.html",
+        "https://cypackaging.net/blog-packaging-distributor-partner-middle-east.html"
+      ],
+      "queries": [
+        "custom packaging manufacturer",
         "custom packaging supplier"
       ]
     },
@@ -447,16 +457,6 @@
       ],
       "queries": [
         "luxury gift box supplier"
-      ]
-    },
-    {
-      "host": "berlinpackaging.com",
-      "count": 1,
-      "sampleUrls": [
-        "https://www.berlinpackaging.com/insights/news/berlin-packaging-expands-in-eastern-europe-with-the-acquisition-of-eps"
-      ],
-      "queries": [
-        "custom packaging manufacturer"
       ]
     },
     {
@@ -600,16 +600,6 @@
       ]
     },
     {
-      "host": "packagingmea.com",
-      "count": 1,
-      "sampleUrls": [
-        "https://www.packagingmea.com"
-      ],
-      "queries": [
-        "custom packaging supplier"
-      ]
-    },
-    {
       "host": "packhelp.com",
       "count": 1,
       "sampleUrls": [
@@ -617,6 +607,16 @@
       ],
       "queries": [
         "custom packaging supplier"
+      ]
+    },
+    {
+      "host": "smurfitwestrock.com",
+      "count": 1,
+      "sampleUrls": [
+        "https://www.smurfitwestrock.com/products/packaging/consumer-non-food/rigid-boxes"
+      ],
+      "queries": [
+        "rigid box manufacturer"
       ]
     },
     {
@@ -637,6 +637,16 @@
       ],
       "queries": [
         "rigid box manufacturer"
+      ]
+    },
+    {
+      "host": "youtube.com",
+      "count": 1,
+      "sampleUrls": [
+        "https://www.youtube.com/watch?v=zOfl4Ry2IBI"
+      ],
+      "queries": [
+        "custom packaging manufacturer"
       ]
     }
   ],
