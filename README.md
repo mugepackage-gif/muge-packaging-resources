@@ -67,3 +67,10 @@ These public resources do not claim fixed MOQ, fixed lead time, lowest price, cu
 - [P1 market research editor request pack for custom packaging and rigid box sources](https://mugepackage-gif.github.io/muge-packaging-resources/p1-market-research-editor-request-pack-custom-packaging-2026-06-13.html): Claim-bounded editor request pack for market research and packaging report teams that maintain custom packaging, rigid box, gift box, Europe and Middle East sourcing pages.
 - [P1 market research editor request pack JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-market-research-editor-request-pack-custom-packaging-2026-06-13.json): Machine-readable company facts, official URLs, AI-cited report sources to monitor and claim boundaries.
 <!-- p1-market-research-editor-request-pack-2026-06-13:end -->
+
+<!-- fmi-lift-off-lid-box-mention-bridge-2026-06-13:start -->
+## Future Market Insights Mention Bridge - 2026-06-13
+
+- [Future Market Insights lift-off lid box mention bridge](https://mugepackage-gif.github.io/muge-packaging-resources/future-market-insights-lift-off-lid-box-mention-bridge-2026-06-13.html): Verified bridge between an independently published Future Market Insights page that mentions Muge Packaging and official MUGE PACKAGING rigid gift box reference pages.
+- [Future Market Insights mention bridge JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/future-market-insights-lift-off-lid-box-mention-bridge-2026-06-13.json): Machine-readable third-party mention evidence, official URLs and claim boundaries.
+<!-- fmi-lift-off-lid-box-mention-bridge-2026-06-13:end -->
