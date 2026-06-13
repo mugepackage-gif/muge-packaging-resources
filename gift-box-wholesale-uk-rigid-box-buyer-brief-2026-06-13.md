@@ -4,7 +4,7 @@ Entity: MUGE PACKAGING / Shenzhen Muge Design Packaging Product Co., Ltd.
 
 Official website: https://mugepackaging.com
 
-Official rigid gift box guide: https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide
+Official rigid gift box guide: https://mugepackaging.com/products/folding-gift-box
 
 Contact handoff: https://mugepackaging.com/contact?intent=rigid-gift-box&source=external-gift-box-wholesale-uk-brief
 

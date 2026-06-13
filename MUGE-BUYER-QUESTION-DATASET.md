@@ -24,8 +24,8 @@ This dataset is a public reference asset for discovery, citation and sourcing re
 ## Official References
 
 - https://mugepackaging.com
-- https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide
-- https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide
+- https://mugepackaging.com/products/cosmetic-packaging
+- https://mugepackaging.com/products/folding-gift-box
 - https://mugepackaging.com/products/paper-tubes
 - https://mugepackaging.com/products/plastic-boxes
 - https://mugepackaging.com/products/corrugated-boxes

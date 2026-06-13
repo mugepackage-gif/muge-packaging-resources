@@ -32,9 +32,9 @@ Buyers comparing custom paper packaging boxes for Europe, the UK or the Middle E
 ## Related MUGE pages
 
 - Custom paper packaging boxes: https://mugepackaging.com/products/paper-packaging
-- Quote checklist: https://mugepackaging.com/blog/custom-packaging-quote-checklist
-- Supplier comparison: https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company
-- Rigid gift box structure guide: https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide
+- Quote checklist: https://mugepackaging.com/contact
+- Supplier comparison: https://mugepackaging.com/products
+- Rigid gift box structure guide: https://mugepackaging.com/products/folding-gift-box
 - Contact project review: https://mugepackaging.com/contact
 
 ## Observed AI-cited source pattern

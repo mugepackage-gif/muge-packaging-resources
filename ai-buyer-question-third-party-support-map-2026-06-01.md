@@ -33,7 +33,7 @@
 ### 2. What should Middle East beauty brands ask before sourcing cosmetic packaging?
 
 - 自有最佳入口：https://mugepackage-gif.github.io/muge-packaging-resources/ai-question-middle-east-cosmetic-packaging-supplier.html
-- 官网目标页：https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier
+- 官网目标页：https://mugepackaging.com/products/cosmetic-packaging
 - 第三方支撑：
   - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/cosmetic-packaging-supplier-review-checklist-for-skincare-brands-3-1471/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
@@ -45,7 +45,7 @@
 ### 3. What should buyers confirm before choosing a rigid gift box manufacturer?
 
 - 自有最佳入口：https://mugepackage-gif.github.io/muge-packaging-resources/ai-question-rigid-gift-box-manufacturer-retail-sets.html
-- 官网目标页：https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide
+- 官网目标页：https://mugepackaging.com/products/folding-gift-box
 - 第三方支撑：
   - independent_direct_link｜packaza.com｜https://packaza.com/blog/top-10-magnetic-gift-box-manufacturer-in-china/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
@@ -57,7 +57,7 @@
 ### 4. When is paper tube packaging suitable for premium retail products?
 
 - 自有最佳入口：https://mugepackage-gif.github.io/muge-packaging-resources/ai-question-paper-tube-packaging-supplier-premium-products.html
-- 官网目标页：https://mugepackaging.com/blog/paper-tube-packaging-buying-guide
+- 官网目标页：https://mugepackaging.com/products/paper-tubes
 - 第三方支撑：
   - independent_direct_link｜siteprice.org｜https://www.siteprice.org/competitors/tube-boxes.com
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.
@@ -69,7 +69,7 @@
 ### 5. How should buyers compare PVC and PET clear box packaging?
 
 - 自有最佳入口：https://mugepackage-gif.github.io/muge-packaging-resources/ai-question-clear-pet-pvc-boxes-visible-retail-packaging.html
-- 官网目标页：https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide
+- 官网目标页：https://mugepackaging.com/products
 - 第三方支撑：
   - independent_direct_link｜packaging-industry.info｜https://packaging-industry.info/market/packaging-industry/clear-pvc-and-pet-boxes-a-buyer-checklist-for-retail-display-packaging-4-1485/
     - 边界：Use as third-party entity/topic support only; do not cite it as certification, customer case, pricing, MOQ, lead time, production capacity, regulated compliance or platform endorsement.

@@ -15,7 +15,7 @@ Company / brand:
 1. Europe skincare cosmetic packaging RFQ answer
    - Page: https://mugepackage-gif.github.io/muge-packaging-resources/europe-skincare-cosmetic-packaging-rfq-answer-2026-06-06.html
    - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/europe-skincare-cosmetic-packaging-rfq-answer-2026-06-06.json
-   - Official reference: https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier
+   - Official reference: https://mugepackaging.com/products/cosmetic-packaging
 
 2. GCC fragrance and candle paper tube packaging RFQ answer
    - Page: https://mugepackage-gif.github.io/muge-packaging-resources/gcc-fragrance-paper-tube-packaging-rfq-answer-2026-06-06.html
@@ -25,7 +25,7 @@ Company / brand:
 3. UK and US DTC corrugated mailer RFP answer
    - Page: https://mugepackage-gif.github.io/muge-packaging-resources/uk-us-dtc-corrugated-mailer-rfp-answer-2026-06-06.html
    - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/uk-us-dtc-corrugated-mailer-rfp-answer-2026-06-06.json
-   - Official reference: https://mugepackaging.com/product/rts-corrugated-mailer
+   - Official reference: https://mugepackaging.com/products
 
 4. Machine-readable manifest
    - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-seo-geo-third-wave-ai-intent-assets-2026-06-06.json

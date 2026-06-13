@@ -18,7 +18,7 @@ Active Search Results accepted all three submitted URLs and returned the confirm
 | URL | HTTP | Final URL | Accepted |
 |---|---:|---|---|
 | https://mugepackage-gif.github.io/muge-packaging-resources/sustainable-packaging-buyer-decision-matrix-2026-06-01.html | 200 | https://www.activesearchresults.com/urladdedconfirm.php | yes |
-| https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging | 200 | https://www.activesearchresults.com/urladdedconfirm.php | yes |
+| https://mugepackaging.com/products | 200 | https://www.activesearchresults.com/urladdedconfirm.php | yes |
 | https://mugepackaging.com/products/paper-tubes | 200 | https://www.activesearchresults.com/urladdedconfirm.php | yes |
 
 ## Counting Rule

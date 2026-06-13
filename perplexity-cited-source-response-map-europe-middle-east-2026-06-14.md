@@ -99,7 +99,7 @@ Current result: broad category questions still did not naturally mention or cite
 
 ## rigid box manufacturer
 
-- MUGE official target: https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide
+- MUGE official target: https://mugepackaging.com/products/folding-gift-box
 - Current Perplexity status: brand mentioned no, official site mentioned no, MUGE citation matched no.
 
 - kbcpackaging.com: https://kbcpackaging.com/rigid-box-manufacturer-turkey/ (supplier_or_industry_page)
@@ -114,7 +114,7 @@ Current result: broad category questions still did not naturally mention or cite
 
 ## luxury gift box supplier
 
-- MUGE official target: https://mugepackaging.com/blog/custom-gift-box-magnetic-closure
+- MUGE official target: https://mugepackaging.com/products/folding-gift-box
 - Current Perplexity status: brand mentioned no, official site mentioned no, MUGE citation matched no.
 
 - kbcpackaging.com: https://kbcpackaging.com/gift-box-supplier-turkey/ (supplier_or_industry_page)

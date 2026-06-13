@@ -30,13 +30,13 @@ created: 2026-06-01
 | LinkedIn | 200 | 是 | 是 | https://www.linkedin.com/company/mugepackaging/ | https://mugepackaging.com/ |
 | Bizidex | 200 | 是 | 是 | https://bizidex.com/en/muge-packaging-packaging-foam-cushioning-containers-134824 | https://www.mugepackaging.com/<br>https://www.mugepackaging.com/<br>https://www.mugepackaging.com/ |
 | CityByApp | 200 | 是 | 是 | https://www.citybyapp.com/china/shenzhen-shi/local-services/muge-packaging-481750 | https://www.mugepackaging.com/ |
-| Antech | 200 | 是 | 是 | https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/ | https://www.mugepackaging.com/product/hexagon-corrugated-box-wholesale/ |
+| Antech | 200 | 是 | 是 | https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/ | https://mugepackaging.com/products |
 | YellowPagesOnline | 200 | 是 | 是 | https://www.yellowpagesonline.com/china/shenzhen-shi/boxes-retail/muge-packaging | https://www.mugepackaging.com/ |
 | Mercatora | 200 | 是 | 否 | https://www.mercatora.com/companies/shenzhen-muge-design-packaging-product-co-ltd-3a52f2 | - |
 | Zearches | 200 | 是 | 是 | https://zearches.com/directory.php?slug=business-company | https://mugepackaging.com<br>https://mugepackaging.com/ |
-| ProvenExpert | 200 | 是 | 是 | https://www.provenexpert.com/en-us/muge-packaging/ | https://www.mugepackaging.com/c/custom-stickers/ |
+| ProvenExpert | 200 | 是 | 是 | https://www.provenexpert.com/en-us/muge-packaging/ | https://mugepackaging.com/products |
 | Packaza | 200 | 是 | 是 | https://packaza.com/blog/top-10-magnetic-gift-box-manufacturer-in-china/ | https://www.mugepackaging.com/ |
-| SourcifyChina | 200 | 是 | 是 | https://www.sourcifychina.com/top-foldable-gift-box-factory-compare/ | https://www.mugepackaging.com/product/folding-gift-boxes-wholesale/ |
+| SourcifyChina | 200 | 是 | 是 | https://www.sourcifychina.com/top-foldable-gift-box-factory-compare/ | https://mugepackaging.com/products/folding-gift-box |
 | Siteprice | 200 | 是 | 是 | https://www.siteprice.org/competitors/mugepackaging.com | https://www.mugepackaging.com |
 | Global Site Directory | 404 | 否 | 否 | https://gsdirectory.org/search/?q=mugepackaging | - |
 

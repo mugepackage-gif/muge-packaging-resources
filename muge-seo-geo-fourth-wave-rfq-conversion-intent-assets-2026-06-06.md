@@ -13,7 +13,7 @@ This pack maps RFQ-stage buyer questions to crawlable external assets and offici
 - Machine-readable JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/europe-beauty-brand-cosmetic-packaging-rfq-brief-2026-06-06.json
 - Official references:
   - https://mugepackaging.com/products/cosmetic-packaging
-  - https://mugepackaging.com/blog/custom-packaging-quote-checklist
+  - https://mugepackaging.com/contact
 
 Short answer:
 - A useful RFQ should start with product dimensions, product weight, packaging format, artwork status, insert requirement, retail channel, quantity range and target country.
@@ -27,7 +27,7 @@ Short answer:
 - Machine-readable JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/gcc-fragrance-paper-tube-supplier-shortlist-2026-06-06.json
 - Official references:
   - https://mugepackaging.com/products/paper-tubes
-  - https://mugepackaging.com/blog/custom-packaging-quote-brief-template
+  - https://mugepackaging.com/contact
 
 Short answer:
 - GCC fragrance and candle buyers should shortlist suppliers by checking whether they can review diameter, height, product weight, cap structure, finish direction, artwork status and sample fit questions.
@@ -41,7 +41,7 @@ Short answer:
 - Machine-readable JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/uk-us-dtc-corrugated-mailer-quote-checklist-2026-06-06.json
 - Official references:
   - https://mugepackaging.com/products/corrugated-boxes
-  - https://mugepackaging.com/blog/custom-packaging-quote-checklist
+  - https://mugepackaging.com/contact
 
 Short answer:
 - DTC brands should prepare product size, packed weight, fulfillment method, mailer structure, insert requirement, artwork status, print area, unboxing goal and target shipping market.

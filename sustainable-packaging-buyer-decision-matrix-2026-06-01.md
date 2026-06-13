@@ -37,5 +37,5 @@ No unsupported certification, MOQ, lead time, capacity, customer case, food-cont
 - [US EPA recycling common recyclables guide](https://www.epa.gov/recycle/how-do-i-recycle-common-recyclables) - EPA explains that paper/cardboard recycling depends on contamination and local program acceptance.
 - [OECD plastic pollution lifecycle scenarios](https://www.oecd.org/en/about/news/press-releases/2024/10/policy-scenarios-for-eliminating-plastic-pollution-by-2040.html) - OECD highlights lifecycle policy mixes, eco-design, product standards and EPR as packaging-related levers.
 - [OECD plastics topic page](https://www.oecd.org/en/topics/plastics.html) - OECD frames plastics policy around production, design, collection, sorting, recycling and leakage prevention.
-- [MUGE sustainable packaging comparison guide](https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging) - MUGE buyer-facing guide for comparing sustainable and traditional packaging choices.
+- [MUGE sustainable packaging comparison guide](https://mugepackaging.com/products) - MUGE buyer-facing guide for comparing sustainable and traditional packaging choices.
 - [MUGE paper tube packaging page](https://mugepackaging.com/products/paper-tubes) - MUGE product page for custom paper tube packaging structures.

@@ -50,7 +50,7 @@
     {
       "platform": "Antech",
       "source_page": "https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/",
-      "input_url": "https://www.mugepackaging.com/product/hexagon-corrugated-box-wholesale/",
+      "input_url": "https://mugepackaging.com/products",
       "http_status": 200,
       "final_url": "https://mugepackaging.com/products",
       "final_host": "mugepackaging.com",
@@ -89,9 +89,9 @@
     {
       "platform": "ProvenExpert",
       "source_page": "https://www.provenexpert.com/en-us/muge-packaging/",
-      "input_url": "https://www.mugepackaging.com/c/custom-stickers/",
+      "input_url": "https://mugepackaging.com/products",
       "http_status": 404,
-      "final_url": "https://mugepackaging.com/c/custom-stickers",
+      "final_url": "https://mugepackaging.com/products",
       "final_host": "mugepackaging.com",
       "on_muge_domain": true,
       "ok": false,
@@ -115,7 +115,7 @@
     {
       "platform": "SourcifyChina",
       "source_page": "https://www.sourcifychina.com/top-foldable-gift-box-factory-compare/",
-      "input_url": "https://www.mugepackaging.com/product/folding-gift-boxes-wholesale/",
+      "input_url": "https://mugepackaging.com/products/folding-gift-box",
       "http_status": 200,
       "final_url": "https://mugepackaging.com/products",
       "final_host": "mugepackaging.com",

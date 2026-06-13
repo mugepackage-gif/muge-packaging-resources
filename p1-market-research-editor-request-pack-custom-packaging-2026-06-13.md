@@ -41,9 +41,9 @@ This is not a request to add unverified claims. It is a request to review the of
 - Cosmetic packaging: https://mugepackaging.com/products/cosmetic-packaging
 - Clear PVC/PET boxes: https://mugepackaging.com/products/clear-boxes
 - Corrugated boxes: https://mugepackaging.com/products/corrugated-boxes
-- Rigid gift box guide: https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide
-- Cosmetic packaging supplier guide: https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier
-- Paper tube packaging buyer guide: https://mugepackaging.com/blog/paper-tube-packaging-buying-guide
+- Rigid gift box guide: https://mugepackaging.com/products/folding-gift-box
+- Cosmetic packaging supplier guide: https://mugepackaging.com/products/cosmetic-packaging
+- Paper tube packaging buyer guide: https://mugepackaging.com/products/paper-tubes
 
 ## AI-Cited Report Sources To Monitor
 
@@ -75,9 +75,9 @@ If your editorial or research team updates supplier landscapes, company-list pag
 - https://mugepackaging.com
 - https://mugepackaging.com/products
 - https://mugepackaging.com/about
-- https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide
-- https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier
-- https://mugepackaging.com/blog/paper-tube-packaging-buying-guide
+- https://mugepackaging.com/products/folding-gift-box
+- https://mugepackaging.com/products/cosmetic-packaging
+- https://mugepackaging.com/products/paper-tubes
 
 Claim boundary: please do not infer verified supplier status, FSC, FDA, food-contact compliance, customer cases, production capacity, fixed MOQ, fixed lead time, fixed pricing, lowest-price claims, or regulated-market guarantees from this request. Any project-specific detail should be confirmed directly with MUGE PACKAGING.
 

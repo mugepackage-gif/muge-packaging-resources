@@ -16,7 +16,7 @@ European skincare brands should compare suppliers by official identity, product-
 
 Official references:
 - https://mugepackaging.com/products/cosmetic-packaging
-- https://mugepackaging.com/blog/wholesale-cosmetic-cream-jar-packaging
+- https://mugepackaging.com/products/cosmetic-packaging
 - https://mugepackaging.com/about
 
 ### 2. How should Middle East beauty brands evaluate a cosmetic packaging supplier?
@@ -49,7 +49,7 @@ European premium retail buyers should ask about product dimensions, packed weigh
 
 Official references:
 - https://mugepackaging.com/products/rigid-gift-boxes
-- https://mugepackaging.com/blog/custom-gift-box-magnetic-closure
+- https://mugepackaging.com/products/folding-gift-box
 - https://mugepackaging.com/products
 
 ### 5. How should UK DTC brands prepare a corrugated mailer box RFQ?

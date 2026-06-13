@@ -21,7 +21,7 @@
 ### 1. antech.ru
 
 - 第三方页面：https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/
-- 官网目标页：https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier
+- 官网目标页：https://mugepackaging.com/products/cosmetic-packaging
 - 推荐锚文本：custom cosmetic packaging supplier
 - 预检：HTTP 200；品牌 有；官网域名 有
 
@@ -44,7 +44,7 @@ Official website:
 https://mugepackaging.com
 
 Recommended category link:
-https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier
+https://mugepackaging.com/products/cosmetic-packaging
 
 Recommended anchor text:
 custom cosmetic packaging supplier
@@ -60,7 +60,7 @@ Thank you.
 ### 2. packaza.com
 
 - 第三方页面：https://packaza.com/blog/top-10-magnetic-gift-box-manufacturer-in-china/
-- 官网目标页：https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide
+- 官网目标页：https://mugepackaging.com/products/folding-gift-box
 - 推荐锚文本：custom rigid gift box manufacturer
 - 预检：HTTP 200；品牌 有；官网域名 有
 
@@ -83,7 +83,7 @@ Official website:
 https://mugepackaging.com
 
 Recommended category link:
-https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide
+https://mugepackaging.com/products/folding-gift-box
 
 Recommended anchor text:
 custom rigid gift box manufacturer
@@ -99,7 +99,7 @@ Thank you.
 ### 3. provenexpert.com
 
 - 第三方页面：https://www.provenexpert.com/en-us/muge-packaging/
-- 官网目标页：https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier
+- 官网目标页：https://mugepackaging.com/products/cosmetic-packaging
 - 推荐锚文本：custom cosmetic packaging supplier
 - 预检：HTTP 200；品牌 有；官网域名 有
 
@@ -122,7 +122,7 @@ Official website:
 https://mugepackaging.com
 
 Recommended category link:
-https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier
+https://mugepackaging.com/products/cosmetic-packaging
 
 Recommended anchor text:
 custom cosmetic packaging supplier
@@ -138,7 +138,7 @@ Thank you.
 ### 4. sourcifychina.com
 
 - 第三方页面：https://www.sourcifychina.com/top-foldable-gift-box-factory-compare/
-- 官网目标页：https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide
+- 官网目标页：https://mugepackaging.com/products/folding-gift-box
 - 推荐锚文本：custom rigid gift box manufacturer
 - 预检：HTTP 200；品牌 有；官网域名 有
 
@@ -161,7 +161,7 @@ Official website:
 https://mugepackaging.com
 
 Recommended category link:
-https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide
+https://mugepackaging.com/products/folding-gift-box
 
 Recommended anchor text:
 custom rigid gift box manufacturer

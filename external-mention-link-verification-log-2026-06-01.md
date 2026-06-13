@@ -47,9 +47,9 @@ No paid placement, no verified-supplier claim, no fixed MOQ, no fixed lead time,
 - Main site: https://mugepackaging.com
 - Paper tubes: https://mugepackaging.com/products/paper-tubes
 - Paper packaging: https://mugepackaging.com/products/paper-packaging
-- Sustainable packaging comparison: https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging
-- Rigid gift box guide: https://mugepackaging.com/blog/custom-gift-box-magnetic-closure
-- Cosmetic packaging guide: https://mugepackaging.com/blog/wholesale-cosmetic-cream-jar-packaging
+- Sustainable packaging comparison: https://mugepackaging.com/products
+- Rigid gift box guide: https://mugepackaging.com/products/folding-gift-box
+- Cosmetic packaging guide: https://mugepackaging.com/products/cosmetic-packaging
 
 ## Safe Company Description
 

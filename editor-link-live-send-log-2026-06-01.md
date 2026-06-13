@@ -14,9 +14,9 @@ Counting rule: these are live outreach actions, not verified backlinks. A result
 
 | Platform | Target page | Recipient | Requested target URL | Requested anchor | Send result | Verification status |
 |---|---|---|---|---|---|---|
-| Packaza | https://packaza.com/blog/top-10-magnetic-gift-box-manufacturer-in-china/ | cady2016@foxmail.com | https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide | custom rigid gift box manufacturer | submitted_to_local_mail_transport_no_local_queue_after_send | awaiting_editor_response_or_public_page_change |
+| Packaza | https://packaza.com/blog/top-10-magnetic-gift-box-manufacturer-in-china/ | cady2016@foxmail.com | https://mugepackaging.com/products/folding-gift-box | custom rigid gift box manufacturer | submitted_to_local_mail_transport_no_local_queue_after_send | awaiting_editor_response_or_public_page_change |
 | Zearches | https://zearches.com/directory.php?slug=business-company | team@zearches.com | https://mugepackaging.com/products | custom packaging products by MUGE PACKAGING | submitted_to_local_mail_transport_no_local_queue_after_send | awaiting_editor_response_or_public_page_change |
-| ProvenExpert | https://www.provenexpert.com/en-us/muge-packaging/ | support@provenexpert.com | https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier | custom cosmetic packaging supplier | queued_after_remote_450: Outlook protection rejected the current IPv6 sender because reverse DNS is missing; local mail queue will retry. | not_delivered_yet_local_queue_retry |
+| ProvenExpert | https://www.provenexpert.com/en-us/muge-packaging/ | support@provenexpert.com | https://mugepackaging.com/products/cosmetic-packaging | custom cosmetic packaging supplier | queued_after_remote_450: Outlook protection rejected the current IPv6 sender because reverse DNS is missing; local mail queue will retry. | not_delivered_yet_local_queue_retry |
 
 ## Blockers
 

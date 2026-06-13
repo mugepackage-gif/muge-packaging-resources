@@ -26,12 +26,12 @@ created: 2026-06-01
 | LinkedIn | 200 | 是 | https://www.linkedin.com/company/mugepackaging/ | https://mugepackaging.com/ | https://mugepackaging.com/ | homepage / brand entity landing | - |
 | Bizidex | 200 | 是 | https://bizidex.com/en/muge-packaging-packaging-foam-cushioning-containers-134824 | https://www.mugepackaging.com/ | https://mugepackaging.com/ | homepage / brand entity landing | - |
 | CityByApp | 200 | 是 | https://www.citybyapp.com/china/shenzhen-shi/local-services/muge-packaging-481750 | https://www.mugepackaging.com/ | https://mugepackaging.com/ | homepage / brand entity landing | - |
-| Antech | 200 | 是 | https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/ | https://www.mugepackaging.com/product/hexagon-corrugated-box-wholesale/ | https://mugepackaging.com/products | Antech link lands on MUGE domain | - |
+| Antech | 200 | 是 | https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/ | https://mugepackaging.com/products | https://mugepackaging.com/products | Antech link lands on MUGE domain | - |
 | YellowPagesOnline | 200 | 是 | https://www.yellowpagesonline.com/china/shenzhen-shi/boxes-retail/muge-packaging | https://www.mugepackaging.com/ | https://mugepackaging.com/ | homepage / brand entity landing | - |
 | Zearches | 200 | 是 | https://zearches.com/directory.php?slug=business-company | https://mugepackaging.com | https://mugepackaging.com/ | homepage / brand entity landing | - |
-| ProvenExpert | 404 | 否 | https://www.provenexpert.com/en-us/muge-packaging/ | https://www.mugepackaging.com/c/custom-stickers/ | https://mugepackaging.com/c/custom-stickers | ProvenExpert link lands on MUGE domain | - |
+| ProvenExpert | 404 | 否 | https://www.provenexpert.com/en-us/muge-packaging/ | https://mugepackaging.com/products | https://mugepackaging.com/products | ProvenExpert link lands on MUGE domain | - |
 | Packaza | 200 | 是 | https://packaza.com/blog/top-10-magnetic-gift-box-manufacturer-in-china/ | https://www.mugepackaging.com/ | https://mugepackaging.com/ | homepage / brand entity landing | - |
-| SourcifyChina | 200 | 是 | https://www.sourcifychina.com/top-foldable-gift-box-factory-compare/ | https://www.mugepackaging.com/product/folding-gift-boxes-wholesale/ | https://mugepackaging.com/products | SourcifyChina link lands on MUGE domain | - |
+| SourcifyChina | 200 | 是 | https://www.sourcifychina.com/top-foldable-gift-box-factory-compare/ | https://mugepackaging.com/products/folding-gift-box | https://mugepackaging.com/products | SourcifyChina link lands on MUGE domain | - |
 | Siteprice | 200 | 是 | https://www.siteprice.org/competitors/mugepackaging.com | https://www.mugepackaging.com | https://mugepackaging.com/ | homepage / brand entity landing | - |
 
 ## 下一步

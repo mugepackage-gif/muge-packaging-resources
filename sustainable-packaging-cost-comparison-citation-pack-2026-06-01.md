@@ -27,6 +27,6 @@ A sustainable packaging cost vs traditional packaging comparison should compare 
 
 ## Related MUGE Pages
 
-- https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging
+- https://mugepackaging.com/products
 - https://mugepackaging.com/products/paper-tubes
-- https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier
+- https://mugepackaging.com/products/cosmetic-packaging
