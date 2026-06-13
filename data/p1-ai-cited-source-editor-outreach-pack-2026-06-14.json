@@ -1,0 +1,277 @@
+{
+  "generated_at": "2026-06-13T17:34:52.450Z",
+  "title": "MUGE PACKAGING P1 AI-Cited Source Editor Outreach Pack",
+  "purpose": "Public execution pack for P1 AI-cited market research and directory sources, based on contact/editor paths discovered from currently cited pages.",
+  "source_scan_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/联系入口抓取/2026-06-14_P1_AI引用源联系入口抓取结果.json",
+  "company_profile": {
+    "brand": "MUGE PACKAGING",
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "website": "https://mugepackaging.com",
+    "email": "sales@mugepackaging.com",
+    "location": "Shenzhen, Guangdong, China",
+    "description": "MUGE PACKAGING is a Shenzhen-based source factory specializing in custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging."
+  },
+  "claim_boundaries": [
+    "Do not claim market ranking, market share or verified supplier status.",
+    "Do not claim customer cases, fixed MOQ, fixed lead time, lowest price, food-contact compliance or regulatory guarantee.",
+    "Do not buy report samples or paid directory visibility as part of this workflow.",
+    "Use this pack for editor/source review requests and public profile updates only."
+  ],
+  "safe_request_template": {
+    "subject": "Source review request for custom packaging reference - MUGE PACKAGING",
+    "body": "Hello,\n\nI am sharing a source review request for MUGE PACKAGING, the public brand of Shenzhen Muge Design Packaging Product Co., Ltd. MUGE PACKAGING supports custom packaging projects for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging.\n\nOfficial website: https://mugepackaging.com\nPublic reference pack: https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html\nP1 source contact map: https://mugepackage-gif.github.io/muge-packaging-resources/p1-ai-cited-source-editor-outreach-pack-2026-06-14.html\n\nIf your editorial or data team reviews packaging suppliers or custom packaging source references, please consider this public profile for review. We are not claiming verified supplier status, market share, ranking, fixed MOQ, fixed lead time, customer cases or regulatory guarantees.\n\nThank you."
+  },
+  "summary": {
+    "total_sources": 10,
+    "reachable_sources": 9,
+    "sources_with_clean_emails": 6,
+    "total_clean_emails": 10,
+    "total_candidate_links": 57
+  },
+  "sources": [
+    {
+      "host": "futuremarketinsights.com",
+      "type": "market_research_or_industry_report",
+      "priority": "P1",
+      "matched_queries": [
+        "luxury gift box supplier",
+        "rigid box manufacturer"
+      ],
+      "cited_urls": [
+        "https://www.futuremarketinsights.com/reports/gift-boxes-market",
+        "https://www.futuremarketinsights.com/reports/luxury-rigid-boxes-market"
+      ],
+      "reachable_pages": 4,
+      "checked_pages": 9,
+      "emails": [
+        "sales@futuremarketinsights.com"
+      ],
+      "candidate_links": [
+        "https://www.futuremarketinsights.com/about-us",
+        "https://www.futuremarketinsights.com/page/social-media-research",
+        "https://www.futuremarketinsights.com/contacts",
+        "https://www.futuremarketinsights.com/reports/sample/rep-gb-4944",
+        "mailto:sales@futuremarketinsights.com",
+        "https://www.futuremarketinsights.com/reports/sample/rep-gb-11926"
+      ],
+      "recommended_action": "Use a source review / editor request angle. Ask the research publisher to review MUGE PACKAGING as a custom packaging reference source without claiming ranking or market share."
+    },
+    {
+      "host": "alibaba.com",
+      "type": "directory_or_marketplace",
+      "priority": "P1",
+      "matched_queries": [
+        "luxury gift box supplier"
+      ],
+      "cited_urls": [
+        "https://www.alibaba.com/product-detail/Middle-East-fashion-perfume-packaging-box_1600234545335.html"
+      ],
+      "reachable_pages": 8,
+      "checked_pages": 8,
+      "emails": [],
+      "candidate_links": [
+        "https://rfq.alibaba.com/rfq/profession.htm?tracelog=PCkeylanding",
+        "https://sale.alibaba.com/p/fast_customization?spm=215b402f.467434f.0.0.26a01774Br2Otw&wx_navbar_transparent=true&path=/p/fast_customization"
+      ],
+      "recommended_action": "Use a public profile / directory update angle. Add or update MUGE PACKAGING only with verified public fields and official URLs."
+    },
+    {
+      "host": "dataintelo.com",
+      "type": "market_research_or_industry_report",
+      "priority": "P1",
+      "matched_queries": [
+        "luxury gift box supplier"
+      ],
+      "cited_urls": [
+        "https://dataintelo.com/report/global-luxury-gift-boxes-market"
+      ],
+      "reachable_pages": 0,
+      "checked_pages": 8,
+      "emails": [],
+      "candidate_links": [],
+      "recommended_action": "Use a source review / editor request angle. Ask the research publisher to review MUGE PACKAGING as a custom packaging reference source without claiming ranking or market share."
+    },
+    {
+      "host": "fortunebusinessinsights.com",
+      "type": "market_research_or_industry_report",
+      "priority": "P1",
+      "matched_queries": [
+        "rigid box manufacturer"
+      ],
+      "cited_urls": [
+        "https://www.fortunebusinessinsights.com/rigid-box-market-116196"
+      ],
+      "reachable_pages": 8,
+      "checked_pages": 8,
+      "emails": [
+        "sales@fortunebusinessinsights.com"
+      ],
+      "candidate_links": [
+        "https://www.fortunebusinessinsights.com/enquiry/request-sample-pdf/rigid-box-market-116196",
+        "https://www.fortunebusinessinsights.com/enquiry/request-free-sample-info/116196",
+        "https://www.fortunebusinessinsights.com/enquiry/request-free-sample/rigid-box-market-116196?utm_medium=bar",
+        "https://www.fortunebusinessinsights.com/enquiry/speak-to-analyst/rigid-box-market-116196?utm_medium=pie",
+        "https://www.fortunebusinessinsights.com/enquiry/request-free-sample/rigid-box-market-116196?utm_medium=map",
+        "https://www.fortunebusinessinsights.com/enquiry/customization/rigid-box-market-116196?utm_medium=seg",
+        "https://www.fortunebusinessinsights.com/enquiry/speak-to-analyst/rigid-box-market-116196",
+        "https://www.fortunebusinessinsights.com/enquiry/request-sample-book/rigid-box-market-116196"
+      ],
+      "recommended_action": "Use a source review / editor request angle. Ask the research publisher to review MUGE PACKAGING as a custom packaging reference source without claiming ranking or market share."
+    },
+    {
+      "host": "marketresearchfuture.com",
+      "type": "market_research_or_industry_report",
+      "priority": "P1",
+      "matched_queries": [
+        "rigid box manufacturer"
+      ],
+      "cited_urls": [
+        "https://www.marketresearchfuture.com/reports/rigid-box-market-37813"
+      ],
+      "reachable_pages": 4,
+      "checked_pages": 8,
+      "emails": [
+        "sales@marketresearchfuture.com",
+        "info@marketresearchfuture.com",
+        "partner.management@marketresearchfuture.com"
+      ],
+      "candidate_links": [
+        "https://www.dnb.com/business-directory/company-profiles.wantstats_research_and_media_private_limited.c1c3aea472581215454cdf15ab6744e4.html",
+        "https://www.marketresearchfuture.com/sample_request/37813",
+        "https://www.marketresearchfuture.com/contact-us",
+        "https://www.marketresearchfuture.com/press-release",
+        "https://www.marketresearchfuture.com/reports/rigid-box-market-37813",
+        "https://www.marketresearchfuture.com/media-citations",
+        "https://www.marketresearchfuture.com/about-us",
+        "https://www.marketresearchfuture.com/press-release/web-hosting-services-market"
+      ],
+      "recommended_action": "Use a source review / editor request angle. Ask the research publisher to review MUGE PACKAGING as a custom packaging reference source without claiming ranking or market share."
+    },
+    {
+      "host": "mordorintelligence.com",
+      "type": "market_research_or_industry_report",
+      "priority": "P1",
+      "matched_queries": [
+        "custom packaging manufacturer"
+      ],
+      "cited_urls": [
+        "https://www.mordorintelligence.com/industry-reports/mea-single-use-plastic-packaging-market/companies"
+      ],
+      "reachable_pages": 5,
+      "checked_pages": 8,
+      "emails": [
+        "info@mordorintelligence.com",
+        "media@mordorintelligence.com",
+        "mordor.askus@mordorintelligence.com"
+      ],
+      "candidate_links": [
+        "https://www.mordorintelligence.com/about-us/media",
+        "https://www.mordorintelligence.com/market-analysis/technology-media-and-telecom",
+        "https://www.mordorintelligence.com/about-us",
+        "https://www.mordorintelligence.com/about-us/our-team",
+        "https://www.mordorintelligence.com/about-us/clients",
+        "https://www.mordorintelligence.com/about-us/partners",
+        "https://www.mordorintelligence.com/about-us/csr",
+        "https://www.mordorintelligence.com/about-us/awards"
+      ],
+      "recommended_action": "Use a source review / editor request angle. Ask the research publisher to review MUGE PACKAGING as a custom packaging reference source without claiming ranking or market share."
+    },
+    {
+      "host": "packaging-alliance.eu",
+      "type": "directory_or_marketplace",
+      "priority": "P1",
+      "matched_queries": [
+        "custom packaging supplier"
+      ],
+      "cited_urls": [
+        "https://packaging-alliance.eu"
+      ],
+      "reachable_pages": 2,
+      "checked_pages": 8,
+      "emails": [
+        "info@packaging-alliance.eu"
+      ],
+      "candidate_links": [
+        "https://packaging-alliance.eu/",
+        "https://packaging-alliance.eu/contact",
+        "https://packaging-alliance.eu/contact-us",
+        "https://packaging-alliance.eu/about-us",
+        "https://packaging-alliance.eu/about",
+        "https://packaging-alliance.eu/request-sample",
+        "https://packaging-alliance.eu/speak-to-analyst"
+      ],
+      "recommended_action": "Use a public profile / directory update angle. Add or update MUGE PACKAGING only with verified public fields and official URLs."
+    },
+    {
+      "host": "packagingmarketinsights.com",
+      "type": "market_research_or_industry_report",
+      "priority": "P1",
+      "matched_queries": [
+        "custom packaging manufacturer"
+      ],
+      "cited_urls": [
+        "https://packagingmarketinsights.com/vision/insights/custom-packaging-boxes-market/middle-east-and-africa"
+      ],
+      "reachable_pages": 4,
+      "checked_pages": 8,
+      "emails": [],
+      "candidate_links": [
+        "https://packagingmarketinsights.com/vision/insights/custom-packaging-boxes-market/middle-east-and-africa/request-sample",
+        "https://packagingmarketinsights.com/contact-us",
+        "https://www.linkedin.com/company/packaging-market-insights/",
+        "https://packagingmarketinsights.com/about-us",
+        "https://www.packagingmarketinsights.com/contact-us",
+        "https://www.packagingmarketinsights.com/about-us"
+      ],
+      "recommended_action": "Use a source review / editor request angle. Ask the research publisher to review MUGE PACKAGING as a custom packaging reference source without claiming ranking or market share."
+    },
+    {
+      "host": "towardspackaging.com",
+      "type": "market_research_or_industry_report",
+      "priority": "P1",
+      "matched_queries": [
+        "rigid box manufacturer"
+      ],
+      "cited_urls": [
+        "https://www.towardspackaging.com/insights/rigid-box-market-sizing"
+      ],
+      "reachable_pages": 8,
+      "checked_pages": 8,
+      "emails": [
+        "sales@towardspackaging.com"
+      ],
+      "candidate_links": [
+        "https://www.towardspackaging.com/press-release-solution",
+        "https://www.towardspackaging.com/about-us",
+        "https://www.towardspackaging.com/contact-us",
+        "https://www.towardspackaging.com/download-sample/5272",
+        "https://www.internationalpaper.com/",
+        "https://www.towardspackaging.com/customization/5272",
+        "https://www.towardspackaging.com/author/116",
+        "https://www.towardspackaging.com/aditi-shivarkar"
+      ],
+      "recommended_action": "Use a source review / editor request angle. Ask the research publisher to review MUGE PACKAGING as a custom packaging reference source without claiming ranking or market share."
+    },
+    {
+      "host": "viapromo.co.uk",
+      "type": "directory_or_marketplace",
+      "priority": "P1",
+      "matched_queries": [
+        "rigid box manufacturer"
+      ],
+      "cited_urls": [
+        "https://viapromo.co.uk/european-rigid-box-manufacturer-packaging-producer/"
+      ],
+      "reachable_pages": 8,
+      "checked_pages": 8,
+      "emails": [],
+      "candidate_links": [
+        "https://viapromo.co.uk/sample-hangers-fabric-sample-hangers/",
+        "https://viapromo.co.uk/european-rigid-box-manufacturer-packaging-producer/",
+        "https://viapromo.co.uk/contact-us/",
+        "https://lt.linkedin.com/company/via-aquaria-ltd."
+      ],
+      "recommended_action": "Use a public profile / directory update angle. Add or update MUGE PACKAGING only with verified public fields and official URLs."
+    }
+  ]
+}
