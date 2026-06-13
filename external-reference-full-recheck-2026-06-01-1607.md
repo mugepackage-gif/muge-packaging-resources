@@ -28,7 +28,7 @@ created: 2026-06-01
 | 平台 | HTTP | 公开信号 | 官网链接信号 | URL | 检测到的链接 |
 |---|---:|---|---|---|---|
 | LinkedIn | 200 | 是 | 是 | https://www.linkedin.com/company/mugepackaging/ | https://mugepackaging.com/ |
-| Bizidex | 200 | 是 | 是 | https://bizidex.com/en/muge-packaging-packaging-foam-cushioning-containers-134824 | https://www.mugepackaging.com/<br>https://www.mugepackaging.com:443/?utm_source=bizidex&amp;utm_medium=ads<br>https://www.mugepackaging.com:443/?utm_source=bizidex&utm_medium=ads |
+| Bizidex | 200 | 是 | 是 | https://bizidex.com/en/muge-packaging-packaging-foam-cushioning-containers-134824 | https://www.mugepackaging.com/<br>https://www.mugepackaging.com/<br>https://www.mugepackaging.com/ |
 | CityByApp | 200 | 是 | 是 | https://www.citybyapp.com/china/shenzhen-shi/local-services/muge-packaging-481750 | https://www.mugepackaging.com/ |
 | Antech | 200 | 是 | 是 | https://www.antech.ru/wiki/potrebitelskaya-upakovka-dlya-tovarov/shestigrannaya-korobka-hexagon/ | https://www.mugepackaging.com/product/hexagon-corrugated-box-wholesale/ |
 | YellowPagesOnline | 200 | 是 | 是 | https://www.yellowpagesonline.com/china/shenzhen-shi/boxes-retail/muge-packaging | https://www.mugepackaging.com/ |

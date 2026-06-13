@@ -51,7 +51,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "公开 HTML 单独长时复验已检出 Website: https://www.mugepackaging.com/；通用复验器偶发 25 秒超时，避免将慢响应误判为外链丢失。"
+      "evidence_note": "公开 HTML 单独长时复验已检出 Website: https://mugepackaging.com 25 秒超时，避免将慢响应误判为外链丢失。"
     },
     {
       "source_url": "https://cn.linkedin.com/company/mugepackaging",
@@ -94,7 +94,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-30 单页复验 HTTP 200，源码检出 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+      "evidence_note": "2026-05-30 单页复验 HTTP 200，源码检出 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com 429，按单页公开源码证据计入弱 direct backlink。"
     },
     {
       "source_url": "https://www.sitelike.org/similar/luv2pak.com/",
@@ -109,7 +109,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-30 单页复验 HTTP 200，源码检出 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。页面周边可能含未核实 FSC 词，仅计外链，不引用其描述。"
+      "evidence_note": "2026-05-30 单页复验 HTTP 200，源码检出 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com 429，按单页公开源码证据计入弱 direct backlink。页面周边可能含未核实 FSC 词，仅计外链，不引用其描述。"
     },
     {
       "source_url": "https://www.sitelike.org/similar/copackinc.com/",
@@ -124,7 +124,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-30 单页复验 HTTP 200，源码检出 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。页面周边可能含未核实 FSC 词，仅计外链，不引用其描述。"
+      "evidence_note": "2026-05-30 单页复验 HTTP 200，源码检出 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com 429，按单页公开源码证据计入弱 direct backlink。页面周边可能含未核实 FSC 词，仅计外链，不引用其描述。"
     },
     {
       "source_url": "https://www.sitelike.org/similar/madovar.com/",
@@ -139,7 +139,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求可能触发 429，按单页公开源码证据计入弱 direct backlink。"
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com 429，按单页公开源码证据计入弱 direct backlink。"
     },
     {
       "source_url": "https://www.sitelike.org/similar/innovativeboxprinting.com/",
@@ -154,7 +154,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求可能触发 429，按单页公开源码证据计入弱 direct backlink。"
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com 429，按单页公开源码证据计入弱 direct backlink。"
     },
     {
       "source_url": "https://www.sitelike.org/similar/boxforgifts.com/",
@@ -169,7 +169,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求可能触发 429，按单页公开源码证据计入弱 direct backlink。"
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com 429，按单页公开源码证据计入弱 direct backlink。"
     },
     {
       "source_url": "https://www.sitelike.org/similar/apaper.com/",
@@ -184,7 +184,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求可能触发 429，按单页公开源码证据计入弱 direct backlink。"
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com 429，按单页公开源码证据计入弱 direct backlink。"
     },
     {
       "source_url": "https://www.sitelike.org/similar/4giftpack.com/",
@@ -199,7 +199,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器未稳定检出时按单页公开源码证据计入弱 direct backlink。"
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com direct backlink。"
     },
     {
       "source_url": "https://www.sitelike.org/similar/clawscustomboxes.com/",
@@ -214,7 +214,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求可能触发 429，按单页公开源码证据计入弱 direct backlink。"
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com 429，按单页公开源码证据计入弱 direct backlink。"
     },
     {
       "source_url": "https://www.sitelike.org/similar/lihua-printing.com/",
@@ -229,7 +229,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求可能触发 429，按单页公开源码证据计入弱 direct backlink。"
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com 429，按单页公开源码证据计入弱 direct backlink。"
     },
     {
       "source_url": "https://www.sitelike.org/similar/paper-tubes.com/",
@@ -244,7 +244,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求可能触发 429，按单页公开源码证据计入弱 direct backlink。"
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com 429，按单页公开源码证据计入弱 direct backlink。"
     },
     {
       "source_url": "https://www.sitelike.org/similar/whiteconfettibox.com/",
@@ -259,7 +259,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com 429，按单页公开源码证据计入弱 direct backlink。"
     },
     {
       "source_url": "https://www.sitelike.org/similar/happyboxstore.com/",
@@ -274,7 +274,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com 429，按单页公开源码证据计入弱 direct backlink。"
     },
     {
       "source_url": "https://www.sitelike.org/similar/gift-basket-supplies.com/",
@@ -289,7 +289,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com 429，按单页公开源码证据计入弱 direct backlink。"
     },
     {
       "source_url": "https://www.sitelike.org/similar/giftboxesfactory.com/",
@@ -304,7 +304,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com 429，按单页公开源码证据计入弱 direct backlink。"
     },
     {
       "source_url": "https://www.sitelike.org/similar/cloveandtwine.com/",
@@ -319,7 +319,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com 429，按单页公开源码证据计入弱 direct backlink。"
     },
     {
       "source_url": "https://www.sitelike.org/similar/papercraftproducts.com/",
@@ -334,7 +334,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com 429，按单页公开源码证据计入弱 direct backlink。"
     },
     {
       "source_url": "https://www.sitelike.org/similar/buyboxes.com/",
@@ -349,7 +349,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com 429，按单页公开源码证据计入弱 direct backlink。"
     },
     {
       "source_url": "https://www.sitelike.org/similar/mlcustomgiftbox.com/",
@@ -364,7 +364,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com 429，按单页公开源码证据计入弱 direct backlink。"
     },
     {
       "source_url": "https://www.sitelike.org/similar/custommadeboxes.com/",
@@ -379,7 +379,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com 429，按单页公开源码证据计入弱 direct backlink。"
     },
     {
       "source_url": "https://www.sitelike.org/similar/tube-boxes.com/",
@@ -394,7 +394,7 @@
       "link_context": null,
       "error": null,
       "original_status": "skipped_manual_evidence",
-      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://www.mugepackaging.com；主复验器批量请求触发 429，按单页公开源码证据计入弱 direct backlink。"
+      "evidence_note": "2026-05-31 单页复验 HTTP 200，源码检出 Muge Packaging、mugepackaging.com 与 https://www.sitelike.org/redir.aspx?url=https://mugepackaging.com 429，按单页公开源码证据计入弱 direct backlink。"
     },
     {
       "source_url": "https://www.livebacklinks.com/domain-list-523",
