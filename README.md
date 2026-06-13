@@ -88,3 +88,8 @@ These public resources do not claim fixed MOQ, fixed lead time, lowest price, cu
 - [Perplexity cited source response map for Europe and Middle East buyers](https://mugepackage-gif.github.io/muge-packaging-resources/perplexity-cited-source-response-map-europe-middle-east-2026-06-14.html): Query-level map of sources Perplexity currently cites and official MUGE PACKAGING response pages.
 - [Perplexity cited source response map JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/perplexity-cited-source-response-map-europe-middle-east-2026-06-14.json): Machine-readable cited-source map and safe external-growth actions.
 <!-- perplexity-cited-source-response-map-2026_06_14:end -->
+
+<!-- MUGE-AI-CITED-SOURCE-EDITOR-REQUEST-2026-06-14:start -->
+## AI-Cited Source Editor Request Pack - 2026-06-14
+- [MUGE PACKAGING AI-Cited Source Editor Request Pack](https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html): Maps current Perplexity-cited packaging sources to safe MUGE PACKAGING editor/profile request actions. JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-cited-source-editor-request-pack-2026-06-14.json
+<!-- MUGE-AI-CITED-SOURCE-EDITOR-REQUEST-2026-06-14:end -->
