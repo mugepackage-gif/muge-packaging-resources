@@ -48,3 +48,8 @@ This repository hosts public sourcing references for **MUGE PACKAGING**, the pub
 ## Compliance Note
 
 These public resources do not claim fixed MOQ, fixed lead time, lowest price, customer cases, production capacity or regulated-market guarantees. Buyers should confirm project-specific details directly with MUGE PACKAGING.
+
+## AI Citation Gap Map - 2026-06-13
+
+- [MUGE PACKAGING AI Citation Gap Map for Europe and Middle East Buyers](https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-gap-map-europe-middle-east-2026-06-13.html): Perplexity-observed citation patterns and practical official-reference actions.
+- [AI Citation Gap Map JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-citation-gap-map-europe-middle-east-2026-06-13.json): Machine-readable gap map, observed hosts, target questions and claim boundaries.
