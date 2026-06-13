@@ -113,3 +113,7 @@ These public resources do not claim fixed MOQ, fixed lead time, lowest price, cu
 
 - [MUGE PACKAGING AI Citation Gap Map for Europe and Middle East Buyers](https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-gap-map-europe-middle-east-2026-06-14.html): Perplexity-observed citation patterns and practical official-reference actions.
 - [AI Citation Gap Map JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-citation-gap-map-europe-middle-east-2026-06-14.json): Machine-readable gap map, observed hosts, target questions and claim boundaries.
+
+## Top AI-Cited Source Action Queue - 2026-06-14
+
+- [MUGE PACKAGING Top AI-Cited Source Action Queue](https://mugepackage-gif.github.io/muge-packaging-resources/top-ai-cited-source-action-queue-2026-06-14.html): Prioritized action queue for AI-cited sources observed in Perplexity validation. JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/top-ai-cited-source-action-queue-2026-06-14.json
