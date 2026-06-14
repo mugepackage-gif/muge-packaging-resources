@@ -23,5 +23,19 @@
       "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/uk-us-dtc-corrugated-mailer-rfp-answer-2026-06-06.json",
       "official_reference": "https://mugepackaging.com/products"
     }
-  ]
+  ],
+  "muge_product_context": {
+    "brand": "MUGE PACKAGING",
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "officialWebsite": "https://mugepackaging.com",
+    "productKeywords": [
+      "custom packaging boxes",
+      "rigid gift boxes",
+      "cosmetic packaging",
+      "paper tube packaging",
+      "PVC/PET clear boxes",
+      "corrugated boxes"
+    ],
+    "claimBoundary": "No verified supplier, customer case, fixed MOQ, fixed lead time, lowest price, food-contact compliance or regulatory guarantee claim is made."
+  }
 }

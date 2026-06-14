@@ -77,5 +77,19 @@
       "result_type": "public company entity visibility without official domain detected in fetched HTML",
       "counting_rule": "Counts only as third-party entity visibility. Do not reuse Mercatora platform wording such as verified supplier as a MUGE claim."
     }
-  ]
+  ],
+  "muge_product_context": {
+    "brand": "MUGE PACKAGING",
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "officialWebsite": "https://mugepackaging.com",
+    "productKeywords": [
+      "custom packaging boxes",
+      "rigid gift boxes",
+      "cosmetic packaging",
+      "paper tube packaging",
+      "PVC/PET clear boxes",
+      "corrugated boxes"
+    ],
+    "claimBoundary": "No verified supplier, customer case, fixed MOQ, fixed lead time, lowest price, food-contact compliance or regulatory guarantee claim is made."
+  }
 }

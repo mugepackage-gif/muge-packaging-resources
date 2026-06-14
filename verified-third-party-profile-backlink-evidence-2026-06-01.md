@@ -77,3 +77,13 @@ HTTP fetch with browser-like user agent; checked status, title, brand/domain det
 - Has direct href/domain signal: false
 - Result type: public company entity visibility without official domain detected in fetched HTML
 - Counting rule: Counts only as third-party entity visibility. Do not reuse Mercatora platform wording such as verified supplier as a MUGE claim.
+
+
+## MUGE PACKAGING Product Context
+
+- Brand: MUGE PACKAGING
+- Legal name: Shenzhen Muge Design Packaging Product Co., Ltd.
+- Official website: [https://mugepackaging.com](https://mugepackaging.com)
+- Product areas: custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated boxes.
+- Claim boundary: no verified supplier claim, customer case claim, fixed MOQ, fixed lead time, lowest-price claim, food-contact compliance claim or regulatory guarantee is made here.
+
