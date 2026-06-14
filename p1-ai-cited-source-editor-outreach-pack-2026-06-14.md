@@ -16,11 +16,11 @@ Public execution pack for P1 AI-cited market research and directory sources, bas
 
 ## Summary
 
-- Total sources: 10
-- Reachable sources: 9
+- Total sources: 8
+- Reachable sources: 7
 - Sources with clean emails: 6
 - Clean emails: 10
-- Candidate links: 57
+- Candidate links: 47
 
 ## Claim Boundaries
 
@@ -56,9 +56,7 @@ Thank you.
 | marketresearchfuture.com | market_research_or_industry_report | 4/8 | sales@marketresearchfuture.com, info@marketresearchfuture.com, partner.management@marketresearchfuture.com | https://www.dnb.com/business-directory/company-profiles.wantstats_research_and_media_private_limited.c1c3aea472581215454cdf15ab6744e4.html<br>https://www.marketresearchfuture.com/sample_request/37813<br>https://www.marketresearchfuture.com/contact-us |
 | mordorintelligence.com | market_research_or_industry_report | 5/8 | info@mordorintelligence.com, media@mordorintelligence.com, mordor.askus@mordorintelligence.com | https://www.mordorintelligence.com/about-us/media<br>https://www.mordorintelligence.com/market-analysis/technology-media-and-telecom<br>https://www.mordorintelligence.com/about-us |
 | packaging-alliance.eu | directory_or_marketplace | 2/8 | info@packaging-alliance.eu | https://packaging-alliance.eu/<br>https://packaging-alliance.eu/contact<br>https://packaging-alliance.eu/contact-us |
-| packagingmarketinsights.com | market_research_or_industry_report | 4/8 | - | https://packagingmarketinsights.com/vision/insights/custom-packaging-boxes-market/middle-east-and-africa/request-sample<br>https://packagingmarketinsights.com/contact-us<br>https://www.linkedin.com/company/packaging-market-insights/ |
 | towardspackaging.com | market_research_or_industry_report | 8/8 | sales@towardspackaging.com | https://www.towardspackaging.com/press-release-solution<br>https://www.towardspackaging.com/about-us<br>https://www.towardspackaging.com/contact-us |
-| viapromo.co.uk | directory_or_marketplace | 8/8 | - | https://viapromo.co.uk/sample-hangers-fabric-sample-hangers/<br>https://viapromo.co.uk/european-rigid-box-manufacturer-packaging-producer/<br>https://viapromo.co.uk/contact-us/ |
 
 ## Details
 
@@ -165,21 +163,6 @@ Thank you.
   - https://packaging-alliance.eu/speak-to-analyst
 - Recommended action: Use a public profile / directory update angle. Add or update MUGE PACKAGING only with verified public fields and official URLs.
 
-### packagingmarketinsights.com
-
-- Type: market_research_or_industry_report
-- Matched queries: custom packaging manufacturer
-- Reachable pages: 4/8
-- Emails: None
-- Candidate links:
-  - https://packagingmarketinsights.com/vision/insights/custom-packaging-boxes-market/middle-east-and-africa/request-sample
-  - https://packagingmarketinsights.com/contact-us
-  - https://www.linkedin.com/company/packaging-market-insights/
-  - https://packagingmarketinsights.com/about-us
-  - https://www.packagingmarketinsights.com/contact-us
-  - https://www.packagingmarketinsights.com/about-us
-- Recommended action: Use a source review / editor request angle. Ask the research publisher to review MUGE PACKAGING as a custom packaging reference source without claiming ranking or market share.
-
 ### towardspackaging.com
 
 - Type: market_research_or_industry_report
@@ -196,17 +179,4 @@ Thank you.
   - https://www.towardspackaging.com/author/116
   - https://www.towardspackaging.com/aditi-shivarkar
 - Recommended action: Use a source review / editor request angle. Ask the research publisher to review MUGE PACKAGING as a custom packaging reference source without claiming ranking or market share.
-
-### viapromo.co.uk
-
-- Type: directory_or_marketplace
-- Matched queries: rigid box manufacturer
-- Reachable pages: 8/8
-- Emails: None
-- Candidate links:
-  - https://viapromo.co.uk/sample-hangers-fabric-sample-hangers/
-  - https://viapromo.co.uk/european-rigid-box-manufacturer-packaging-producer/
-  - https://viapromo.co.uk/contact-us/
-  - https://lt.linkedin.com/company/via-aquaria-ltd.
-- Recommended action: Use a public profile / directory update angle. Add or update MUGE PACKAGING only with verified public fields and official URLs.
 

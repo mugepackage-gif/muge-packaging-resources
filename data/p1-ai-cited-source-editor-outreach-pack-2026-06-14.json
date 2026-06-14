@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T17:34:52.450Z",
+  "generated_at": "2026-06-14T01:54:50.324Z",
   "title": "MUGE PACKAGING P1 AI-Cited Source Editor Outreach Pack",
   "purpose": "Public execution pack for P1 AI-cited market research and directory sources, based on contact/editor paths discovered from currently cited pages.",
   "source_scan_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/联系入口抓取/2026-06-14_P1_AI引用源联系入口抓取结果.json",
@@ -22,11 +22,11 @@
     "body": "Hello,\n\nI am sharing a source review request for MUGE PACKAGING, the public brand of Shenzhen Muge Design Packaging Product Co., Ltd. MUGE PACKAGING supports custom packaging projects for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging.\n\nOfficial website: https://mugepackaging.com\nPublic reference pack: https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html\nP1 source contact map: https://mugepackage-gif.github.io/muge-packaging-resources/p1-ai-cited-source-editor-outreach-pack-2026-06-14.html\n\nIf your editorial or data team reviews packaging suppliers or custom packaging source references, please consider this public profile for review. We are not claiming verified supplier status, market share, ranking, fixed MOQ, fixed lead time, customer cases or regulatory guarantees.\n\nThank you."
   },
   "summary": {
-    "total_sources": 10,
-    "reachable_sources": 9,
+    "total_sources": 8,
+    "reachable_sources": 7,
     "sources_with_clean_emails": 6,
     "total_clean_emails": 10,
-    "total_candidate_links": 57
+    "total_candidate_links": 47
   },
   "sources": [
     {
@@ -64,7 +64,7 @@
         "luxury gift box supplier"
       ],
       "cited_urls": [
-        "https://www.alibaba.com/product-detail/Middle-East-fashion-perfume-packaging-box_1600234545335.html"
+        "https://www.alibaba.com/product-detail/Wholesale-Luxury-Gift-Packaging-Boxes-Magnet_1600795781342.html"
       ],
       "reachable_pages": 8,
       "checked_pages": 8,
@@ -203,29 +203,6 @@
       "recommended_action": "Use a public profile / directory update angle. Add or update MUGE PACKAGING only with verified public fields and official URLs."
     },
     {
-      "host": "packagingmarketinsights.com",
-      "type": "market_research_or_industry_report",
-      "priority": "P1",
-      "matched_queries": [
-        "custom packaging manufacturer"
-      ],
-      "cited_urls": [
-        "https://packagingmarketinsights.com/vision/insights/custom-packaging-boxes-market/middle-east-and-africa"
-      ],
-      "reachable_pages": 4,
-      "checked_pages": 8,
-      "emails": [],
-      "candidate_links": [
-        "https://packagingmarketinsights.com/vision/insights/custom-packaging-boxes-market/middle-east-and-africa/request-sample",
-        "https://packagingmarketinsights.com/contact-us",
-        "https://www.linkedin.com/company/packaging-market-insights/",
-        "https://packagingmarketinsights.com/about-us",
-        "https://www.packagingmarketinsights.com/contact-us",
-        "https://www.packagingmarketinsights.com/about-us"
-      ],
-      "recommended_action": "Use a source review / editor request angle. Ask the research publisher to review MUGE PACKAGING as a custom packaging reference source without claiming ranking or market share."
-    },
-    {
       "host": "towardspackaging.com",
       "type": "market_research_or_industry_report",
       "priority": "P1",
@@ -251,27 +228,6 @@
         "https://www.towardspackaging.com/aditi-shivarkar"
       ],
       "recommended_action": "Use a source review / editor request angle. Ask the research publisher to review MUGE PACKAGING as a custom packaging reference source without claiming ranking or market share."
-    },
-    {
-      "host": "viapromo.co.uk",
-      "type": "directory_or_marketplace",
-      "priority": "P1",
-      "matched_queries": [
-        "rigid box manufacturer"
-      ],
-      "cited_urls": [
-        "https://viapromo.co.uk/european-rigid-box-manufacturer-packaging-producer/"
-      ],
-      "reachable_pages": 8,
-      "checked_pages": 8,
-      "emails": [],
-      "candidate_links": [
-        "https://viapromo.co.uk/sample-hangers-fabric-sample-hangers/",
-        "https://viapromo.co.uk/european-rigid-box-manufacturer-packaging-producer/",
-        "https://viapromo.co.uk/contact-us/",
-        "https://lt.linkedin.com/company/via-aquaria-ltd."
-      ],
-      "recommended_action": "Use a public profile / directory update angle. Add or update MUGE PACKAGING only with verified public fields and official URLs."
     }
   ]
 }
