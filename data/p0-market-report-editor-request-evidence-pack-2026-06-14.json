@@ -1,0 +1,145 @@
+{
+  "generated_at": "2026-06-14T04:42:41.546Z",
+  "title": "MUGE PACKAGING P0 Market Report Editor Request Evidence Pack - 2026-06-14",
+  "purpose": "Provide a public, crawlable, claim-bounded evidence pack for editor/source review requests to market research and packaging report sources currently cited by AI answers.",
+  "source_pending": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Hermes触达池/AI引用源编辑请求pending/2026-06-14_1236_Perplexity31引用域名机会拆解_HermesPending.json",
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-market-report-editor-request-evidence-pack-2026-06-14.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-market-report-editor-request-evidence-pack-2026-06-14.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-market-report-editor-request-evidence-pack-2026-06-14.json",
+    "official_website": "https://mugepackaging.com"
+  },
+  "company_profile": {
+    "brand": "MUGE PACKAGING",
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "website": "https://mugepackaging.com",
+    "public_email": "sales@mugepackaging.com",
+    "product_areas": [
+      "custom packaging boxes",
+      "rigid gift boxes",
+      "cosmetic packaging",
+      "paper tube packaging",
+      "PVC/PET clear boxes",
+      "corrugated boxes"
+    ],
+    "short_description": "MUGE PACKAGING works on custom packaging projects for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging."
+  },
+  "summary": {
+    "total_sources": 5,
+    "email_pending": 4,
+    "form_review": 1,
+    "auto_send_allowed": 0,
+    "auto_submit_allowed": 0
+  },
+  "sources": [
+    {
+      "host": "futuremarketinsights.com",
+      "status": "ready_manual_email_pending",
+      "queries": [
+        "rigid box manufacturer",
+        "luxury gift box supplier"
+      ],
+      "entryUrls": [
+        "https://www.futuremarketinsights.com/reports/luxury-rigid-boxes-market",
+        "https://www.futuremarketinsights.com/reports/gift-boxes-market",
+        "https://futuremarketinsights.com",
+        "https://futuremarketinsights.com/contacts",
+        "https://futuremarketinsights.com/about-us"
+      ],
+      "emails": [
+        "sales@futuremarketinsights.com"
+      ],
+      "emlDraftPath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/真实编辑请求发送记录/2026-06-14_futuremarketinsights.com_AI引用源编辑请求草稿.eml",
+      "actionGate": "EML draft only. Do not send unless Hermes/SMTP is explicitly enabled and manually reviewed."
+    },
+    {
+      "host": "fortunebusinessinsights.com",
+      "status": "ready_manual_email_pending",
+      "queries": [
+        "rigid box manufacturer"
+      ],
+      "entryUrls": [
+        "https://www.fortunebusinessinsights.com/rigid-box-market-116196",
+        "https://fortunebusinessinsights.com",
+        "https://fortunebusinessinsights.com/contact-us"
+      ],
+      "emails": [
+        "sales@fortunebusinessinsights.com"
+      ],
+      "emlDraftPath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/真实编辑请求发送记录/2026-06-14_fortunebusinessinsights.com_AI引用源编辑请求草稿.eml",
+      "actionGate": "EML draft only. Do not send unless Hermes/SMTP is explicitly enabled and manually reviewed."
+    },
+    {
+      "host": "marketresearchfuture.com",
+      "status": "ready_manual_email_pending",
+      "queries": [
+        "rigid box manufacturer"
+      ],
+      "entryUrls": [
+        "https://www.marketresearchfuture.com/reports/rigid-box-market-37813",
+        "https://marketresearchfuture.com",
+        "https://marketresearchfuture.com/contact-us",
+        "https://marketresearchfuture.com/about-us"
+      ],
+      "emails": [
+        "sales@marketresearchfuture.com",
+        "info@marketresearchfuture.com",
+        "partner.management@marketresearchfuture.com"
+      ],
+      "emlDraftPath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/真实编辑请求发送记录/2026-06-14_marketresearchfuture.com_AI引用源编辑请求草稿.eml",
+      "actionGate": "EML draft only. Do not send unless Hermes/SMTP is explicitly enabled and manually reviewed."
+    },
+    {
+      "host": "packagingmarketinsights.com",
+      "status": "ready_manual_form_review",
+      "queries": [
+        "custom packaging manufacturer"
+      ],
+      "entryUrls": [
+        "https://packagingmarketinsights.com/vision/insights/custom-packaging-boxes-market/middle-east-and-africa",
+        "https://packagingmarketinsights.com",
+        "https://packagingmarketinsights.com/contact-us",
+        "https://packagingmarketinsights.com/about-us"
+      ],
+      "emails": [],
+      "emlDraftPath": "",
+      "actionGate": "Manual form review only. Do not auto-submit."
+    },
+    {
+      "host": "towardspackaging.com",
+      "status": "ready_manual_email_pending",
+      "queries": [
+        "rigid box manufacturer"
+      ],
+      "entryUrls": [
+        "https://www.towardspackaging.com/insights/rigid-box-market-sizing",
+        "https://towardspackaging.com",
+        "https://towardspackaging.com/contact",
+        "https://towardspackaging.com/contact-us",
+        "https://towardspackaging.com/contacts",
+        "https://towardspackaging.com/about",
+        "https://towardspackaging.com/about-us",
+        "https://towardspackaging.com/submit",
+        "https://towardspackaging.com/submit-news",
+        "https://towardspackaging.com/advertise",
+        "https://towardspackaging.com/editorial",
+        "https://towardspackaging.com/press",
+        "https://towardspackaging.com/partnership",
+        "https://towardspackaging.com/partners",
+        "https://towardspackaging.com/supplier",
+        "https://towardspackaging.com/company-profile"
+      ],
+      "emails": [
+        "sales@towardspackaging.com"
+      ],
+      "emlDraftPath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/真实编辑请求发送记录/2026-06-14_towardspackaging.com_AI引用源编辑请求草稿.eml",
+      "actionGate": "EML draft only. Do not send unless Hermes/SMTP is explicitly enabled and manually reviewed."
+    }
+  ],
+  "claim_boundaries": [
+    "This pack is not a ranking claim, market share claim, endorsement, verified supplier claim or customer case.",
+    "Do not infer fixed MOQ, fixed lead time, lowest price, food-contact compliance or regulatory guarantees.",
+    "Use only independently reviewable public facts and official URLs.",
+    "No automatic email sending, form submission, login, captcha bypass or paid action is allowed."
+  ]
+}
