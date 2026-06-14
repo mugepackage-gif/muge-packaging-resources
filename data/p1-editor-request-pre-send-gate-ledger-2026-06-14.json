@@ -1,0 +1,166 @@
+{
+  "generatedAt": "2026-06-14T08:56:10.417Z",
+  "brand": "MUGE PACKAGING",
+  "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "website": "https://mugepackaging.com",
+  "status": "pre_send_gate_verified_not_sent",
+  "boundary": "This ledger documents pre-send verification only. No email has been sent, no third-party form has been submitted, and no third-party acceptance is implied.",
+  "summary": {
+    "sources": 5,
+    "recipientDomains": 5,
+    "publicPathsChecked": 15,
+    "publicPathsReachable": 15,
+    "mxOkDomains": 5,
+    "spfOkDomains": 5,
+    "dmarcOkDomains": 5,
+    "allowedToSend": false,
+    "actuallySent": 0
+  },
+  "sources": [
+    {
+      "host": "futuremarketinsights.com",
+      "matchedQueries": [
+        "luxury gift box supplier",
+        "rigid box manufacturer"
+      ],
+      "recipientDomains": [
+        "futuremarketinsights.com"
+      ],
+      "publicPathsChecked": 3,
+      "publicPathsReachable": 3,
+      "dns": [
+        {
+          "domain": "futuremarketinsights.com",
+          "mxOk": true,
+          "spfOk": true,
+          "dmarcOk": true
+        }
+      ],
+      "decision": "hold_send_gate_missing",
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p1-ai-cited-source-editor-outreach-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p1-top3-editor-request-drafts-2026-06-14.html",
+        "https://mugepackaging.com",
+        "https://mugepackaging.com/products",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.md",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-live-fact-block-citation-response-pack-2026-06-14.json"
+      ]
+    },
+    {
+      "host": "fortunebusinessinsights.com",
+      "matchedQueries": [
+        "rigid box manufacturer"
+      ],
+      "recipientDomains": [
+        "fortunebusinessinsights.com"
+      ],
+      "publicPathsChecked": 3,
+      "publicPathsReachable": 3,
+      "dns": [
+        {
+          "domain": "fortunebusinessinsights.com",
+          "mxOk": true,
+          "spfOk": true,
+          "dmarcOk": true
+        }
+      ],
+      "decision": "hold_send_gate_missing",
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p1-ai-cited-source-editor-outreach-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p1-top3-editor-request-drafts-2026-06-14.html",
+        "https://mugepackaging.com",
+        "https://mugepackaging.com/products",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.md",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-live-fact-block-citation-response-pack-2026-06-14.json"
+      ]
+    },
+    {
+      "host": "mordorintelligence.com",
+      "matchedQueries": [
+        "custom packaging manufacturer"
+      ],
+      "recipientDomains": [
+        "mordorintelligence.com"
+      ],
+      "publicPathsChecked": 3,
+      "publicPathsReachable": 3,
+      "dns": [
+        {
+          "domain": "mordorintelligence.com",
+          "mxOk": true,
+          "spfOk": true,
+          "dmarcOk": true
+        }
+      ],
+      "decision": "hold_send_gate_missing",
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p1-ai-cited-source-editor-outreach-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p1-top3-editor-request-drafts-2026-06-14.html",
+        "https://mugepackaging.com",
+        "https://mugepackaging.com/products",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.md",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-live-fact-block-citation-response-pack-2026-06-14.json"
+      ]
+    },
+    {
+      "host": "marketresearchfuture.com",
+      "matchedQueries": [
+        "rigid box manufacturer"
+      ],
+      "recipientDomains": [
+        "marketresearchfuture.com"
+      ],
+      "publicPathsChecked": 3,
+      "publicPathsReachable": 3,
+      "dns": [
+        {
+          "domain": "marketresearchfuture.com",
+          "mxOk": true,
+          "spfOk": true,
+          "dmarcOk": true
+        }
+      ],
+      "decision": "hold_send_gate_missing",
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/top-ai-cited-source-action-queue-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+        "https://mugepackaging.com",
+        "https://mugepackaging.com/products"
+      ]
+    },
+    {
+      "host": "towardspackaging.com",
+      "matchedQueries": [
+        "rigid box manufacturer"
+      ],
+      "recipientDomains": [
+        "towardspackaging.com"
+      ],
+      "publicPathsChecked": 3,
+      "publicPathsReachable": 3,
+      "dns": [
+        {
+          "domain": "towardspackaging.com",
+          "mxOk": true,
+          "spfOk": true,
+          "dmarcOk": true
+        }
+      ],
+      "decision": "hold_send_gate_missing",
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/top-ai-cited-source-action-queue-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+        "https://mugepackaging.com",
+        "https://mugepackaging.com/products"
+      ]
+    }
+  ]
+}
