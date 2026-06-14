@@ -121,3 +121,8 @@ These public resources do not claim fixed MOQ, fixed lead time, lowest price, cu
 ## AI-Cited Platform Profile Submission Kit - 2026-06-14
 
 - [MUGE PACKAGING AI-Cited Platform Profile Submission Kit](https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-platform-profile-submission-kit-2026-06-14.html): Factual profile fields and manual-gate instructions for Ensun, Europages, Instagram public profile direction and Future Market Insights. JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-cited-platform-profile-submission-kit-2026-06-14.json
+
+<!-- MUGE-P1-EDITOR-REQUEST-ACTION-QUEUE-2026-06-14:start -->
+## P1 Editor Request Action Queue - 2026-06-14
+- [Action queue](https://mugepackage-gif.github.io/muge-packaging-resources/p1-editor-request-action-queue-2026-06-14.html): controlled submission queue for P1 AI-cited sources. JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-editor-request-action-queue-2026-06-14.json
+<!-- MUGE-P1-EDITOR-REQUEST-ACTION-QUEUE-2026-06-14:end -->
