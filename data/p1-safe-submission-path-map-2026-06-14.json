@@ -1,0 +1,1386 @@
+{
+  "generatedAt": "2026-06-14T07:24:15.851Z",
+  "policy": "GET-only verification. No email sent, no third-party form submitted, no login, no payment, no captcha bypass.",
+  "summary": {
+    "totalHosts": 8,
+    "emailPathReady": 5,
+    "safeFormCandidate": 0,
+    "blockedByGate": 2,
+    "noSafePath": 2,
+    "autoSendAllowed": 0,
+    "autoSubmitAllowed": 0
+  },
+  "items": [
+    {
+      "host": "futuremarketinsights.com",
+      "summary": {
+        "host": "futuremarketinsights.com",
+        "rank": 1,
+        "matchedQueries": [
+          "luxury gift box supplier",
+          "rigid box manufacturer"
+        ],
+        "status": "email_path_ready_send_gate_missing",
+        "nextAction": "邮箱路径已确认；缺少 Hermes/SMTP/Gmail 发送闸门时保留 pending，不真实发送。",
+        "reachablePages": 7,
+        "totalPages": 7,
+        "emails": [
+          "sales@futuremarketinsights.com"
+        ],
+        "emailCount": 1,
+        "formPageCount": 7,
+        "safeFormCandidates": [
+          "https://www.futuremarketinsights.com/about-us",
+          "https://www.futuremarketinsights.com/page/social-media-research",
+          "https://www.futuremarketinsights.com/contacts",
+          "https://www.futuremarketinsights.com/reports/sample/rep-gb-4944",
+          "https://www.futuremarketinsights.com/reports/sample/rep-gb-11926"
+        ],
+        "captchaPages": [],
+        "paidSignalPages": [
+          "https://www.futuremarketinsights.com/reports/gift-boxes-market",
+          "https://www.futuremarketinsights.com/reports/luxury-rigid-boxes-market"
+        ],
+        "loginOrPlatformPages": [],
+        "publicEvidenceToAttach": [
+          "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/p1-ai-cited-source-editor-outreach-pack-2026-06-14.html",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/p1-top3-editor-request-drafts-2026-06-14.html",
+          "https://mugepackaging.com",
+          "https://mugepackaging.com/products",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.md",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-live-fact-block-citation-response-pack-2026-06-14.json",
+          "https://mugepackaging.com/products/paper-tubes",
+          "https://mugepackaging.com/products/folding-gift-box",
+          "https://mugepackaging.com/products/cosmetic-packaging"
+        ]
+      },
+      "pages": [
+        {
+          "url": "https://www.futuremarketinsights.com/about-us",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@futuremarketinsights.com"
+          ],
+          "formCount": 1,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": false,
+            "platform": false
+          },
+          "safeFormCandidate": true
+        },
+        {
+          "url": "https://www.futuremarketinsights.com/page/social-media-research",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@futuremarketinsights.com"
+          ],
+          "formCount": 1,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": false,
+            "platform": false
+          },
+          "safeFormCandidate": true
+        },
+        {
+          "url": "https://www.futuremarketinsights.com/contacts",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@futuremarketinsights.com"
+          ],
+          "formCount": 1,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": false,
+            "platform": false
+          },
+          "safeFormCandidate": true
+        },
+        {
+          "url": "https://www.futuremarketinsights.com/reports/sample/rep-gb-4944",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@futuremarketinsights.com"
+          ],
+          "formCount": 2,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": false,
+            "platform": false
+          },
+          "safeFormCandidate": true
+        },
+        {
+          "url": "https://www.futuremarketinsights.com/reports/sample/rep-gb-11926",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@futuremarketinsights.com"
+          ],
+          "formCount": 2,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": false,
+            "platform": false
+          },
+          "safeFormCandidate": true
+        },
+        {
+          "url": "https://www.futuremarketinsights.com/reports/gift-boxes-market",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@futuremarketinsights.com"
+          ],
+          "formCount": 3,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.futuremarketinsights.com/reports/luxury-rigid-boxes-market",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@futuremarketinsights.com"
+          ],
+          "formCount": 3,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        }
+      ]
+    },
+    {
+      "host": "fortunebusinessinsights.com",
+      "summary": {
+        "host": "fortunebusinessinsights.com",
+        "rank": 2,
+        "matchedQueries": [
+          "rigid box manufacturer"
+        ],
+        "status": "email_path_ready_send_gate_missing",
+        "nextAction": "邮箱路径已确认；缺少 Hermes/SMTP/Gmail 发送闸门时保留 pending，不真实发送。",
+        "reachablePages": 9,
+        "totalPages": 9,
+        "emails": [
+          "sales@fortunebusinessinsights.com"
+        ],
+        "emailCount": 1,
+        "formPageCount": 9,
+        "safeFormCandidates": [],
+        "captchaPages": [
+          "https://www.fortunebusinessinsights.com/enquiry/request-sample-pdf/rigid-box-market-116196",
+          "https://www.fortunebusinessinsights.com/enquiry/request-free-sample-info/116196",
+          "https://www.fortunebusinessinsights.com/enquiry/request-free-sample/rigid-box-market-116196?utm_medium=bar",
+          "https://www.fortunebusinessinsights.com/enquiry/speak-to-analyst/rigid-box-market-116196?utm_medium=pie",
+          "https://www.fortunebusinessinsights.com/enquiry/request-free-sample/rigid-box-market-116196?utm_medium=map",
+          "https://www.fortunebusinessinsights.com/enquiry/customization/rigid-box-market-116196?utm_medium=seg",
+          "https://www.fortunebusinessinsights.com/enquiry/speak-to-analyst/rigid-box-market-116196",
+          "https://www.fortunebusinessinsights.com/enquiry/request-sample-book/rigid-box-market-116196",
+          "https://www.fortunebusinessinsights.com/rigid-box-market-116196"
+        ],
+        "paidSignalPages": [
+          "https://www.fortunebusinessinsights.com/enquiry/request-sample-pdf/rigid-box-market-116196",
+          "https://www.fortunebusinessinsights.com/enquiry/request-free-sample-info/116196",
+          "https://www.fortunebusinessinsights.com/enquiry/request-free-sample/rigid-box-market-116196?utm_medium=bar",
+          "https://www.fortunebusinessinsights.com/enquiry/speak-to-analyst/rigid-box-market-116196?utm_medium=pie",
+          "https://www.fortunebusinessinsights.com/enquiry/request-free-sample/rigid-box-market-116196?utm_medium=map",
+          "https://www.fortunebusinessinsights.com/enquiry/customization/rigid-box-market-116196?utm_medium=seg",
+          "https://www.fortunebusinessinsights.com/enquiry/speak-to-analyst/rigid-box-market-116196",
+          "https://www.fortunebusinessinsights.com/enquiry/request-sample-book/rigid-box-market-116196",
+          "https://www.fortunebusinessinsights.com/rigid-box-market-116196"
+        ],
+        "loginOrPlatformPages": [],
+        "publicEvidenceToAttach": [
+          "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/p1-ai-cited-source-editor-outreach-pack-2026-06-14.html",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/p1-top3-editor-request-drafts-2026-06-14.html",
+          "https://mugepackaging.com",
+          "https://mugepackaging.com/products",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.md",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-live-fact-block-citation-response-pack-2026-06-14.json",
+          "https://mugepackaging.com/products/paper-tubes",
+          "https://mugepackaging.com/products/folding-gift-box",
+          "https://mugepackaging.com/products/cosmetic-packaging"
+        ]
+      },
+      "pages": [
+        {
+          "url": "https://www.fortunebusinessinsights.com/enquiry/request-sample-pdf/rigid-box-market-116196",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@fortunebusinessinsights.com"
+          ],
+          "formCount": 4,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.fortunebusinessinsights.com/enquiry/request-free-sample-info/116196",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@fortunebusinessinsights.com"
+          ],
+          "formCount": 4,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.fortunebusinessinsights.com/enquiry/request-free-sample/rigid-box-market-116196?utm_medium=bar",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@fortunebusinessinsights.com"
+          ],
+          "formCount": 4,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.fortunebusinessinsights.com/enquiry/speak-to-analyst/rigid-box-market-116196?utm_medium=pie",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@fortunebusinessinsights.com"
+          ],
+          "formCount": 4,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.fortunebusinessinsights.com/enquiry/request-free-sample/rigid-box-market-116196?utm_medium=map",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@fortunebusinessinsights.com"
+          ],
+          "formCount": 4,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.fortunebusinessinsights.com/enquiry/customization/rigid-box-market-116196?utm_medium=seg",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@fortunebusinessinsights.com"
+          ],
+          "formCount": 4,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.fortunebusinessinsights.com/enquiry/speak-to-analyst/rigid-box-market-116196",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@fortunebusinessinsights.com"
+          ],
+          "formCount": 4,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.fortunebusinessinsights.com/enquiry/request-sample-book/rigid-box-market-116196",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@fortunebusinessinsights.com"
+          ],
+          "formCount": 4,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.fortunebusinessinsights.com/rigid-box-market-116196",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@fortunebusinessinsights.com"
+          ],
+          "formCount": 9,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        }
+      ]
+    },
+    {
+      "host": "mordorintelligence.com",
+      "summary": {
+        "host": "mordorintelligence.com",
+        "rank": 3,
+        "matchedQueries": [
+          "custom packaging manufacturer"
+        ],
+        "status": "email_path_ready_send_gate_missing",
+        "nextAction": "邮箱路径已确认；缺少 Hermes/SMTP/Gmail 发送闸门时保留 pending，不真实发送。",
+        "reachablePages": 9,
+        "totalPages": 9,
+        "emails": [
+          "info@mordorintelligence.com",
+          "media@mordorintelligence.com",
+          "saideepthi.bitra@mordorintelligence.com",
+          "aditya.soni@mordorintelligence.com",
+          "partners@mordorintelligence.com"
+        ],
+        "emailCount": 5,
+        "formPageCount": 9,
+        "safeFormCandidates": [],
+        "captchaPages": [],
+        "paidSignalPages": [
+          "https://www.mordorintelligence.com/about-us/media",
+          "https://www.mordorintelligence.com/market-analysis/technology-media-and-telecom",
+          "https://www.mordorintelligence.com/about-us",
+          "https://www.mordorintelligence.com/about-us/our-team",
+          "https://www.mordorintelligence.com/about-us/clients",
+          "https://www.mordorintelligence.com/about-us/partners",
+          "https://www.mordorintelligence.com/about-us/csr",
+          "https://www.mordorintelligence.com/about-us/awards",
+          "https://www.mordorintelligence.com/industry-reports/mea-single-use-plastic-packaging-market/companies"
+        ],
+        "loginOrPlatformPages": [
+          "https://www.mordorintelligence.com/about-us/partners",
+          "https://www.mordorintelligence.com/about-us/awards"
+        ],
+        "publicEvidenceToAttach": [
+          "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/p1-ai-cited-source-editor-outreach-pack-2026-06-14.html",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/p1-top3-editor-request-drafts-2026-06-14.html",
+          "https://mugepackaging.com",
+          "https://mugepackaging.com/products",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.md",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-live-fact-block-citation-response-pack-2026-06-14.json",
+          "https://mugepackaging.com/products/paper-tubes",
+          "https://mugepackaging.com/products/folding-gift-box",
+          "https://mugepackaging.com/products/cosmetic-packaging"
+        ]
+      },
+      "pages": [
+        {
+          "url": "https://www.mordorintelligence.com/about-us/media",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "info@mordorintelligence.com",
+            "media@mordorintelligence.com",
+            "saideepthi.bitra@mordorintelligence.com",
+            "aditya.soni@mordorintelligence.com"
+          ],
+          "formCount": 2,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.mordorintelligence.com/market-analysis/technology-media-and-telecom",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "info@mordorintelligence.com",
+            "media@mordorintelligence.com"
+          ],
+          "formCount": 3,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.mordorintelligence.com/about-us",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "info@mordorintelligence.com",
+            "media@mordorintelligence.com"
+          ],
+          "formCount": 2,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.mordorintelligence.com/about-us/our-team",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "info@mordorintelligence.com",
+            "media@mordorintelligence.com"
+          ],
+          "formCount": 1,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.mordorintelligence.com/about-us/clients",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "info@mordorintelligence.com",
+            "media@mordorintelligence.com"
+          ],
+          "formCount": 3,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.mordorintelligence.com/about-us/partners",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "partners@mordorintelligence.com",
+            "info@mordorintelligence.com",
+            "media@mordorintelligence.com"
+          ],
+          "formCount": 1,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": true,
+            "platform": true
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.mordorintelligence.com/about-us/csr",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "info@mordorintelligence.com",
+            "media@mordorintelligence.com"
+          ],
+          "formCount": 2,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.mordorintelligence.com/about-us/awards",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "info@mordorintelligence.com",
+            "media@mordorintelligence.com"
+          ],
+          "formCount": 2,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": true,
+            "platform": true
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.mordorintelligence.com/industry-reports/mea-single-use-plastic-packaging-market/companies",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "info@mordorintelligence.com",
+            "media@mordorintelligence.com"
+          ],
+          "formCount": 6,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        }
+      ]
+    },
+    {
+      "host": "alibaba.com",
+      "summary": {
+        "host": "alibaba.com",
+        "rank": 101,
+        "matchedQueries": [
+          "luxury gift box supplier"
+        ],
+        "status": "reachable_no_editor_path",
+        "nextAction": "页面可访问但没有安全编辑/联系路径，继续换入口。",
+        "reachablePages": 9,
+        "totalPages": 9,
+        "emails": [],
+        "emailCount": 0,
+        "formPageCount": 0,
+        "safeFormCandidates": [],
+        "captchaPages": [],
+        "paidSignalPages": [
+          "https://alibaba.com/contact",
+          "https://www.alibaba.com/contact",
+          "https://alibaba.com/contact-us",
+          "https://www.alibaba.com/contact-us",
+          "https://alibaba.com/contacts",
+          "https://www.alibaba.com/contacts",
+          "https://alibaba.com/about-us",
+          "https://www.alibaba.com/help/contact-us.html"
+        ],
+        "loginOrPlatformPages": [
+          "https://www.alibaba.com/product-detail/Middle-East-fashion-perfume-packaging-box_1600234545335.html",
+          "https://alibaba.com/contact",
+          "https://www.alibaba.com/contact",
+          "https://alibaba.com/contact-us",
+          "https://www.alibaba.com/contact-us",
+          "https://alibaba.com/contacts",
+          "https://www.alibaba.com/contacts",
+          "https://alibaba.com/about-us",
+          "https://www.alibaba.com/help/contact-us.html"
+        ],
+        "publicEvidenceToAttach": [
+          "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/top-ai-cited-source-action-queue-2026-06-14.html",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+          "https://mugepackaging.com",
+          "https://mugepackaging.com/products"
+        ]
+      },
+      "pages": [
+        {
+          "url": "https://www.alibaba.com/product-detail/Middle-East-fashion-perfume-packaging-box_1600234545335.html",
+          "status": 200,
+          "ok": true,
+          "emails": [],
+          "formCount": 0,
+          "signals": {
+            "contact": false,
+            "captcha": false,
+            "login": true,
+            "paid": false,
+            "platform": true
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://alibaba.com/contact",
+          "status": 200,
+          "ok": true,
+          "emails": [],
+          "formCount": 0,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": true,
+            "paid": true,
+            "platform": true
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.alibaba.com/contact",
+          "status": 200,
+          "ok": true,
+          "emails": [],
+          "formCount": 0,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": true,
+            "paid": true,
+            "platform": true
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://alibaba.com/contact-us",
+          "status": 200,
+          "ok": true,
+          "emails": [],
+          "formCount": 0,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": true,
+            "paid": true,
+            "platform": true
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.alibaba.com/contact-us",
+          "status": 200,
+          "ok": true,
+          "emails": [],
+          "formCount": 0,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": true,
+            "paid": true,
+            "platform": true
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://alibaba.com/contacts",
+          "status": 200,
+          "ok": true,
+          "emails": [],
+          "formCount": 0,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": true,
+            "paid": true,
+            "platform": true
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.alibaba.com/contacts",
+          "status": 200,
+          "ok": true,
+          "emails": [],
+          "formCount": 0,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": true,
+            "paid": true,
+            "platform": true
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://alibaba.com/about-us",
+          "status": 200,
+          "ok": true,
+          "emails": [],
+          "formCount": 0,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": true,
+            "paid": true,
+            "platform": true
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.alibaba.com/help/contact-us.html",
+          "status": 200,
+          "ok": true,
+          "emails": [],
+          "formCount": 0,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": true,
+            "paid": true,
+            "platform": true
+          },
+          "safeFormCandidate": false
+        }
+      ]
+    },
+    {
+      "host": "dataintelo.com",
+      "summary": {
+        "host": "dataintelo.com",
+        "rank": 101,
+        "matchedQueries": [
+          "luxury gift box supplier"
+        ],
+        "status": "unreachable_or_blocked",
+        "nextAction": "公开入口不可访问或被拦截，保留证据并换来源。",
+        "reachablePages": 0,
+        "totalPages": 4,
+        "emails": [],
+        "emailCount": 0,
+        "formPageCount": 0,
+        "safeFormCandidates": [],
+        "captchaPages": [
+          "https://dataintelo.com/report/global-luxury-gift-boxes-market",
+          "https://dataintelo.com/contact-us",
+          "https://dataintelo.com/contact",
+          "https://dataintelo.com/about-us"
+        ],
+        "paidSignalPages": [],
+        "loginOrPlatformPages": [],
+        "publicEvidenceToAttach": [
+          "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/top-ai-cited-source-action-queue-2026-06-14.html",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+          "https://mugepackaging.com",
+          "https://mugepackaging.com/products"
+        ]
+      },
+      "pages": [
+        {
+          "url": "https://dataintelo.com/report/global-luxury-gift-boxes-market",
+          "status": 403,
+          "ok": false,
+          "emails": [],
+          "formCount": 0,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": false,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://dataintelo.com/contact-us",
+          "status": 403,
+          "ok": false,
+          "emails": [],
+          "formCount": 0,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": false,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://dataintelo.com/contact",
+          "status": 403,
+          "ok": false,
+          "emails": [],
+          "formCount": 0,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": false,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://dataintelo.com/about-us",
+          "status": 403,
+          "ok": false,
+          "emails": [],
+          "formCount": 0,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": false,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        }
+      ]
+    },
+    {
+      "host": "marketresearchfuture.com",
+      "summary": {
+        "host": "marketresearchfuture.com",
+        "rank": 101,
+        "matchedQueries": [
+          "rigid box manufacturer"
+        ],
+        "status": "email_path_ready_send_gate_missing",
+        "nextAction": "邮箱路径已确认；缺少 Hermes/SMTP/Gmail 发送闸门时保留 pending，不真实发送。",
+        "reachablePages": 5,
+        "totalPages": 5,
+        "emails": [
+          "info@marketresearchfuture.com",
+          "sales@marketresearchfuture.com",
+          "partner.management@marketresearchfuture.com"
+        ],
+        "emailCount": 3,
+        "formPageCount": 5,
+        "safeFormCandidates": [],
+        "captchaPages": [
+          "https://marketresearchfuture.com/contact-us",
+          "https://www.marketresearchfuture.com/contact-us"
+        ],
+        "paidSignalPages": [
+          "https://www.marketresearchfuture.com/reports/rigid-box-market-37813",
+          "https://marketresearchfuture.com/contact-us",
+          "https://www.marketresearchfuture.com/contact-us",
+          "https://marketresearchfuture.com/about-us",
+          "https://www.marketresearchfuture.com/about-us"
+        ],
+        "loginOrPlatformPages": [
+          "https://www.marketresearchfuture.com/reports/rigid-box-market-37813",
+          "https://marketresearchfuture.com/contact-us",
+          "https://www.marketresearchfuture.com/contact-us",
+          "https://marketresearchfuture.com/about-us",
+          "https://www.marketresearchfuture.com/about-us"
+        ],
+        "publicEvidenceToAttach": [
+          "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/top-ai-cited-source-action-queue-2026-06-14.html",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+          "https://mugepackaging.com",
+          "https://mugepackaging.com/products"
+        ]
+      },
+      "pages": [
+        {
+          "url": "https://www.marketresearchfuture.com/reports/rigid-box-market-37813",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "info@marketresearchfuture.com",
+            "sales@marketresearchfuture.com"
+          ],
+          "formCount": 6,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": true,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://marketresearchfuture.com/contact-us",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "info@marketresearchfuture.com",
+            "partner.management@marketresearchfuture.com",
+            "sales@marketresearchfuture.com"
+          ],
+          "formCount": 3,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": true,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.marketresearchfuture.com/contact-us",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "info@marketresearchfuture.com",
+            "partner.management@marketresearchfuture.com",
+            "sales@marketresearchfuture.com"
+          ],
+          "formCount": 3,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": true,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://marketresearchfuture.com/about-us",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "info@marketresearchfuture.com",
+            "sales@marketresearchfuture.com"
+          ],
+          "formCount": 2,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": true,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.marketresearchfuture.com/about-us",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "info@marketresearchfuture.com",
+            "sales@marketresearchfuture.com"
+          ],
+          "formCount": 2,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": true,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        }
+      ]
+    },
+    {
+      "host": "packagingmarketinsights.com",
+      "summary": {
+        "host": "packagingmarketinsights.com",
+        "rank": 101,
+        "matchedQueries": [
+          "custom packaging manufacturer"
+        ],
+        "status": "form_blocked_by_captcha",
+        "nextAction": "表单含验证码信号，不自动提交。",
+        "reachablePages": 7,
+        "totalPages": 7,
+        "emails": [],
+        "emailCount": 0,
+        "formPageCount": 2,
+        "safeFormCandidates": [],
+        "captchaPages": [
+          "https://packagingmarketinsights.com/contact-us",
+          "https://www.packagingmarketinsights.com/contact-us"
+        ],
+        "paidSignalPages": [
+          "https://packagingmarketinsights.com/vision/insights/customized-packaging-market/middle-east-and-africa",
+          "https://packagingmarketinsights.com/contact-us",
+          "https://www.packagingmarketinsights.com/contact-us",
+          "https://packagingmarketinsights.com/about-us",
+          "https://www.packagingmarketinsights.com/about-us",
+          "https://packagingmarketinsights.com/media",
+          "https://www.packagingmarketinsights.com/media"
+        ],
+        "loginOrPlatformPages": [],
+        "publicEvidenceToAttach": [
+          "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/top-ai-cited-source-action-queue-2026-06-14.html",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+          "https://mugepackaging.com",
+          "https://mugepackaging.com/products"
+        ]
+      },
+      "pages": [
+        {
+          "url": "https://packagingmarketinsights.com/vision/insights/customized-packaging-market/middle-east-and-africa",
+          "status": 200,
+          "ok": true,
+          "emails": [],
+          "formCount": 0,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://packagingmarketinsights.com/contact-us",
+          "status": 200,
+          "ok": true,
+          "emails": [],
+          "formCount": 1,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.packagingmarketinsights.com/contact-us",
+          "status": 200,
+          "ok": true,
+          "emails": [],
+          "formCount": 1,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://packagingmarketinsights.com/about-us",
+          "status": 200,
+          "ok": true,
+          "emails": [],
+          "formCount": 0,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.packagingmarketinsights.com/about-us",
+          "status": 200,
+          "ok": true,
+          "emails": [],
+          "formCount": 0,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://packagingmarketinsights.com/media",
+          "status": 200,
+          "ok": true,
+          "emails": [],
+          "formCount": 0,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.packagingmarketinsights.com/media",
+          "status": 200,
+          "ok": true,
+          "emails": [],
+          "formCount": 0,
+          "signals": {
+            "contact": true,
+            "captcha": false,
+            "login": false,
+            "paid": true,
+            "platform": false
+          },
+          "safeFormCandidate": false
+        }
+      ]
+    },
+    {
+      "host": "towardspackaging.com",
+      "summary": {
+        "host": "towardspackaging.com",
+        "rank": 101,
+        "matchedQueries": [
+          "rigid box manufacturer"
+        ],
+        "status": "email_path_ready_send_gate_missing",
+        "nextAction": "邮箱路径已确认；缺少 Hermes/SMTP/Gmail 发送闸门时保留 pending，不真实发送。",
+        "reachablePages": 9,
+        "totalPages": 9,
+        "emails": [
+          "sales@towardspackaging.com"
+        ],
+        "emailCount": 1,
+        "formPageCount": 7,
+        "safeFormCandidates": [],
+        "captchaPages": [
+          "https://www.towardspackaging.com/insights/rigid-box-market-sizing",
+          "https://towardspackaging.com/contact",
+          "https://www.towardspackaging.com/contact",
+          "https://towardspackaging.com/contact-us",
+          "https://www.towardspackaging.com/contact-us",
+          "https://towardspackaging.com/contacts",
+          "https://www.towardspackaging.com/contacts",
+          "https://towardspackaging.com/about-us",
+          "https://www.towardspackaging.com/about-us"
+        ],
+        "paidSignalPages": [
+          "https://www.towardspackaging.com/insights/rigid-box-market-sizing"
+        ],
+        "loginOrPlatformPages": [
+          "https://www.towardspackaging.com/insights/rigid-box-market-sizing",
+          "https://towardspackaging.com/contact",
+          "https://www.towardspackaging.com/contact",
+          "https://towardspackaging.com/contact-us",
+          "https://www.towardspackaging.com/contact-us",
+          "https://towardspackaging.com/contacts",
+          "https://www.towardspackaging.com/contacts",
+          "https://towardspackaging.com/about-us",
+          "https://www.towardspackaging.com/about-us"
+        ],
+        "publicEvidenceToAttach": [
+          "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/top-ai-cited-source-action-queue-2026-06-14.html",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+          "https://mugepackaging.com",
+          "https://mugepackaging.com/products"
+        ]
+      },
+      "pages": [
+        {
+          "url": "https://www.towardspackaging.com/insights/rigid-box-market-sizing",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@towardspackaging.com"
+          ],
+          "formCount": 2,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": true,
+            "platform": true
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://towardspackaging.com/contact",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@towardspackaging.com"
+          ],
+          "formCount": 0,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": false,
+            "platform": true
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.towardspackaging.com/contact",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@towardspackaging.com"
+          ],
+          "formCount": 0,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": false,
+            "platform": true
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://towardspackaging.com/contact-us",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@towardspackaging.com"
+          ],
+          "formCount": 1,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": false,
+            "platform": true
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.towardspackaging.com/contact-us",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@towardspackaging.com"
+          ],
+          "formCount": 1,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": false,
+            "platform": true
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://towardspackaging.com/contacts",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@towardspackaging.com"
+          ],
+          "formCount": 1,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": false,
+            "platform": true
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.towardspackaging.com/contacts",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@towardspackaging.com"
+          ],
+          "formCount": 1,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": false,
+            "platform": true
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://towardspackaging.com/about-us",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@towardspackaging.com"
+          ],
+          "formCount": 1,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": false,
+            "platform": true
+          },
+          "safeFormCandidate": false
+        },
+        {
+          "url": "https://www.towardspackaging.com/about-us",
+          "status": 200,
+          "ok": true,
+          "emails": [
+            "sales@towardspackaging.com"
+          ],
+          "formCount": 1,
+          "signals": {
+            "contact": true,
+            "captcha": true,
+            "login": false,
+            "paid": false,
+            "platform": true
+          },
+          "safeFormCandidate": false
+        }
+      ]
+    }
+  ]
+}
