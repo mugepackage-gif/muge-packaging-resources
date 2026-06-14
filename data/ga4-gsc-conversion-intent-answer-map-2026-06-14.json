@@ -1,0 +1,84 @@
+{
+  "generatedAt": "2026-06-14T09:37:22.037Z",
+  "title": "MUGE PACKAGING GA4/GSC Conversion Intent Answer Map",
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "officialWebsite": "https://mugepackaging.com",
+    "contactUrl": "https://mugepackaging.com/contact",
+    "contactEmail": "sales@mugepackaging.com",
+    "publicScope": "custom packaging boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated packaging"
+  },
+  "eventSummary": {
+    "window": "Recent 30-day GA4/GSC observation window used by the MUGE v6.1 growth controller",
+    "whatsappClicks": 48,
+    "whatsappUsers": 2,
+    "contactFormSubmits": 6,
+    "contactFormUsers": 2,
+    "quoteContactClicks": 2,
+    "quoteContactUsers": 1,
+    "interpretation": "The site has early contact-event signals, but the main high-click pages still need clearer RFQ handoff and buyer-intent answers."
+  },
+  "pages": [
+    {
+      "priority": "P0",
+      "page": "Custom packaging quote checklist",
+      "officialUrl": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "queryCluster": "custom packaging boxes, paper box supplier, custom packaging boxes supplier, custom boxes, custom gloss paper box with multi-sided shapes",
+      "observedClicks": 32,
+      "observedConversions": 0,
+      "buyerQuestion": "What should a buyer prepare before asking for a custom packaging boxes quote?",
+      "answer": "Buyers should prepare box type, product size, estimated quantity, material direction, artwork status, finishing reference, target market and any document questions that need project review. MUGE PACKAGING can use these inputs to review custom paper boxes, rigid boxes, paper tubes, clear boxes and corrugated packaging projects.",
+      "handoff": "Send box specs, quantity direction, material idea and artwork status for project review.",
+      "contactSource": "ga4-gsc-custom-packaging-quote-checklist"
+    },
+    {
+      "priority": "P0",
+      "page": "Manufacturer vs trading company guide",
+      "officialUrl": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "queryCluster": "custom packaging for business, custom packaging supplier",
+      "observedClicks": 17,
+      "observedConversions": 0,
+      "buyerQuestion": "How should brands compare a custom packaging supplier, manufacturer and trading company?",
+      "answer": "Brands should compare category fit, structure review ability, sample discussion quality, artwork and finish handling, document discipline and whether the supplier avoids unsupported fixed promises. A useful supplier conversation starts from product fit and project requirements before price comparison.",
+      "handoff": "Share product category, packaging format, size, quantity direction and whether structure review is needed.",
+      "contactSource": "ga4-gsc-supplier-comparison"
+    },
+    {
+      "priority": "P0",
+      "page": "Contact project review page",
+      "officialUrl": "https://mugepackaging.com/contact",
+      "queryCluster": "shipping mailer boxes, custom printed boxes UK, product mailer boxes, compare packaging",
+      "observedClicks": 5,
+      "observedConversions": 0,
+      "buyerQuestion": "What information should a buyer include in a custom packaging inquiry?",
+      "answer": "A useful packaging inquiry should include product category, product size and weight, required packaging type, estimated quantity range, material or finishing preference, artwork status, target market and any document or compliance questions for manual review.",
+      "handoff": "Use the contact page to send product details and target market context for project-specific review.",
+      "contactSource": "ga4-gsc-contact-project-review"
+    },
+    {
+      "priority": "P0",
+      "page": "Rigid gift box structure guide",
+      "officialUrl": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "queryCluster": "gift box wholesale UK",
+      "observedClicks": 3,
+      "observedConversions": 0,
+      "buyerQuestion": "What should buyers confirm before requesting rigid gift box samples?",
+      "answer": "Buyers should confirm product dimensions, product weight, box opening style, insert needs, surface paper direction, print and finish reference, estimated quantity range and retail or gift-set channel before sampling rigid gift boxes.",
+      "handoff": "Share dimensions, insert expectations, finish direction and sample review goal before asking for a rigid gift box quote.",
+      "contactSource": "ga4-gsc-rigid-gift-box-structure"
+    }
+  ],
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/ga4-gsc-conversion-intent-answer-map-2026-06-14.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/ga4-gsc-conversion-intent-answer-map-2026-06-14.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ga4-gsc-conversion-intent-answer-map-2026-06-14.json"
+  },
+  "claimBoundaries": [
+    "This map is an external buyer-intent reference and crawl-discovery asset, not proof of Google ranking or AI citation.",
+    "Observed clicks and contact events are internal analytics signals used for page prioritization, not customer-case claims.",
+    "No fixed MOQ, fixed lead time, lowest-price, production-capacity or customer-case claim is made.",
+    "Certification, regulated-market and compliance questions require project-specific document review.",
+    "Any final quotation, schedule and document commitment must be confirmed manually by MUGE PACKAGING."
+  ]
+}

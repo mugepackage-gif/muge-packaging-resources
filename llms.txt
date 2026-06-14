@@ -1,3 +1,10 @@
+<!-- MUGE_GA4_GSC_CONVERSION_INTENT_ANSWER_MAP_2026_06_14:start -->
+## GA4/GSC Conversion Intent Answer Map - 2026-06-14
+- [GA4/GSC Conversion Intent Answer Map](https://mugepackage-gif.github.io/muge-packaging-resources/ga4-gsc-conversion-intent-answer-map-2026-06-14.html): AI-readable map connecting high-click, low-conversion pages to buyer RFQ questions and official handoff URLs.
+- [GA4/GSC Conversion Intent Answer Map Markdown](https://mugepackage-gif.github.io/muge-packaging-resources/ga4-gsc-conversion-intent-answer-map-2026-06-14.md): Plain-text answer map for AI crawler discovery.
+- [GA4/GSC Conversion Intent Answer Map JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/ga4-gsc-conversion-intent-answer-map-2026-06-14.json): Machine-readable answer map.
+<!-- MUGE_GA4_GSC_CONVERSION_INTENT_ANSWER_MAP_2026_06_14:end -->
+
 <!-- MUGE_P0P1_BUYER_BRIEF_SOURCE_MAP_2026_06_14:start -->
 ## P0/P1 Buyer Brief Source Map - 2026-06-14
 - [P0/P1 Buyer Brief Source Map](https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-buyer-brief-source-map-2026-06-14.html): External AI-readable map linking GA4-observed product pages to quote-ready buyer brief paths.
