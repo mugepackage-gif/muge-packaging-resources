@@ -1,3 +1,10 @@
+<!-- MUGE_P0P1_BUYER_BRIEF_SOURCE_MAP_2026_06_14:start -->
+## P0/P1 Buyer Brief Source Map - 2026-06-14
+- [P0/P1 Buyer Brief Source Map](https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-buyer-brief-source-map-2026-06-14.html): External AI-readable map linking GA4-observed product pages to quote-ready buyer brief paths.
+- [P0/P1 Buyer Brief Source Map Markdown](https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-buyer-brief-source-map-2026-06-14.md): Plain-text map for AI crawler discovery.
+- [P0/P1 Buyer Brief Source Map JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-buyer-brief-source-map-2026-06-14.json): Machine-readable source map.
+<!-- MUGE_P0P1_BUYER_BRIEF_SOURCE_MAP_2026_06_14:end -->
+
 # MUGE PACKAGING Custom Packaging Resources
 
 This repository hosts public sourcing references for **MUGE PACKAGING**, the public brand of **Shenzhen Muge Design Packaging Product Co., Ltd.**
