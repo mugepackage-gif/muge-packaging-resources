@@ -83,6 +83,12 @@ MUGE PACKAGING
 Shenzhen Muge Design Packaging Product Co., Ltd.
 https://mugepackaging.com
 sales@mugepackaging.com
+
+Updated P0/P1 public fact-block evidence:
+- P0/P1 citation response pack: https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html
+- Product pages: https://mugepackaging.com/products/paper-tubes, https://mugepackaging.com/products/folding-gift-box, https://mugepackaging.com/products/cosmetic-packaging
+
+These links provide official, claim-bounded MUGE PACKAGING source facts for custom packaging buyers. They should not be treated as verified supplier status, market ranking, fixed MOQ/lead-time, customer case, lowest-price claim or regulatory guarantee.
 ```
 
 ## Public Evidence Links
@@ -92,6 +98,12 @@ sales@mugepackaging.com
 - https://mugepackage-gif.github.io/muge-packaging-resources/p1-top3-editor-request-drafts-2026-06-14.html
 - https://mugepackaging.com
 - https://mugepackaging.com/products
+- https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html
+- https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.md
+- https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-live-fact-block-citation-response-pack-2026-06-14.json
+- https://mugepackaging.com/products/paper-tubes
+- https://mugepackaging.com/products/folding-gift-box
+- https://mugepackaging.com/products/cosmetic-packaging
 
 ## Claim Boundaries
 
