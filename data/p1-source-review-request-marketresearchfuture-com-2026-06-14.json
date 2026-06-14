@@ -1,0 +1,128 @@
+{
+  "generatedAt": "2026-06-14T08:37:57.350Z",
+  "host": "marketresearchfuture.com",
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "website": "https://mugepackaging.com"
+  },
+  "status": "public_source_review_request_not_sent",
+  "safetyBoundary": "GET-only verification. No email sent, no third-party form submitted, no login, no payment, no captcha bypass.",
+  "matchedQueries": [
+    "rigid box manufacturer"
+  ],
+  "emails": [
+    "info@marketresearchfuture.com",
+    "sales@marketresearchfuture.com",
+    "partner.management@marketresearchfuture.com"
+  ],
+  "recipientPath": [
+    "info@marketresearchfuture.com",
+    "sales@marketresearchfuture.com",
+    "partner.management@marketresearchfuture.com"
+  ],
+  "pages": [
+    {
+      "url": "https://www.marketresearchfuture.com/reports/rigid-box-market-37813",
+      "status": 200,
+      "ok": true,
+      "emails": [
+        "info@marketresearchfuture.com",
+        "sales@marketresearchfuture.com"
+      ],
+      "safeFormCandidate": false,
+      "signals": {
+        "contact": true,
+        "captcha": false,
+        "login": true,
+        "paid": true,
+        "platform": false
+      },
+      "title": "Rigid Box Market Size, Analysis &amp; Industry Growth"
+    },
+    {
+      "url": "https://marketresearchfuture.com/contact-us",
+      "status": 200,
+      "ok": true,
+      "emails": [
+        "info@marketresearchfuture.com",
+        "partner.management@marketresearchfuture.com",
+        "sales@marketresearchfuture.com"
+      ],
+      "safeFormCandidate": false,
+      "signals": {
+        "contact": true,
+        "captcha": true,
+        "login": true,
+        "paid": true,
+        "platform": false
+      },
+      "title": "Market Research Future - Contact Us"
+    },
+    {
+      "url": "https://www.marketresearchfuture.com/contact-us",
+      "status": 200,
+      "ok": true,
+      "emails": [
+        "info@marketresearchfuture.com",
+        "partner.management@marketresearchfuture.com",
+        "sales@marketresearchfuture.com"
+      ],
+      "safeFormCandidate": false,
+      "signals": {
+        "contact": true,
+        "captcha": true,
+        "login": true,
+        "paid": true,
+        "platform": false
+      },
+      "title": "Market Research Future - Contact Us"
+    },
+    {
+      "url": "https://marketresearchfuture.com/about-us",
+      "status": 200,
+      "ok": true,
+      "emails": [
+        "info@marketresearchfuture.com",
+        "sales@marketresearchfuture.com"
+      ],
+      "safeFormCandidate": false,
+      "signals": {
+        "contact": true,
+        "captcha": false,
+        "login": true,
+        "paid": true,
+        "platform": false
+      },
+      "title": "About Us | Market Research Future"
+    },
+    {
+      "url": "https://www.marketresearchfuture.com/about-us",
+      "status": 200,
+      "ok": true,
+      "emails": [
+        "info@marketresearchfuture.com",
+        "sales@marketresearchfuture.com"
+      ],
+      "safeFormCandidate": false,
+      "signals": {
+        "contact": true,
+        "captcha": false,
+        "login": true,
+        "paid": true,
+        "platform": false
+      },
+      "title": "About Us | Market Research Future"
+    }
+  ],
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-marketresearchfuture-com-2026-06-14.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-marketresearchfuture-com-2026-06-14.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-request-marketresearchfuture-com-2026-06-14.json"
+  },
+  "claimBoundaries": [
+    "No verified supplier claim unless independently verified by the target platform.",
+    "No customer cases, market share, market leadership, fixed MOQ, fixed lead time, lowest-price claims, food-contact compliance claims or regulatory guarantees.",
+    "This is not proof of third-party acceptance, backlink, ranking, endorsement, certification or AI citation."
+  ]
+}

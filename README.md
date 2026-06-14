@@ -185,3 +185,11 @@ Policy: GET-only verification. No email sent, no third-party form submitted, no 
 ## Research Editor Source Review Kit - 2026-06-14
 - [MUGE PACKAGING research editor source review kit](https://mugepackage-gif.github.io/muge-packaging-resources/research-editor-source-review-kit-2026-06-14.html): claim-bounded public facts and source review paths for AI-cited market research editors. JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/research-editor-source-review-kit-2026-06-14.json
 <!-- MUGE-RESEARCH-EDITOR-SOURCE-REVIEW-KIT-2026-06-14:end -->
+
+<!-- MUGE-P1-SOURCE-REVIEW-LEDGER-2026-06-14:start -->
+## P1 Source Review Request Ledger - 2026-06-14
+
+- [P1 source review request ledger](https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-ledger-2026-06-14.html)
+- Machine-readable JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-request-ledger-2026-06-14.json
+- Host pages: [futuremarketinsights.com](https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-futuremarketinsights-com-2026-06-14.html), [fortunebusinessinsights.com](https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-fortunebusinessinsights-com-2026-06-14.html), [mordorintelligence.com](https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-mordorintelligence-com-2026-06-14.html), [marketresearchfuture.com](https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-marketresearchfuture-com-2026-06-14.html), [towardspackaging.com](https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-towardspackaging-com-2026-06-14.html)
+<!-- MUGE-P1-SOURCE-REVIEW-LEDGER-2026-06-14:end -->

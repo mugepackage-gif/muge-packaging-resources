@@ -1,0 +1,205 @@
+{
+  "generatedAt": "2026-06-14T08:37:57.350Z",
+  "host": "mordorintelligence.com",
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "website": "https://mugepackaging.com"
+  },
+  "status": "public_source_review_request_not_sent",
+  "safetyBoundary": "GET-only verification. No email sent, no third-party form submitted, no login, no payment, no captcha bypass.",
+  "matchedQueries": [
+    "custom packaging manufacturer"
+  ],
+  "emails": [
+    "info@mordorintelligence.com",
+    "media@mordorintelligence.com",
+    "saideepthi.bitra@mordorintelligence.com",
+    "aditya.soni@mordorintelligence.com",
+    "partners@mordorintelligence.com"
+  ],
+  "recipientPath": [
+    "info@mordorintelligence.com",
+    "media@mordorintelligence.com",
+    "saideepthi.bitra@mordorintelligence.com",
+    "aditya.soni@mordorintelligence.com",
+    "partners@mordorintelligence.com"
+  ],
+  "pages": [
+    {
+      "url": "https://www.mordorintelligence.com/about-us/media",
+      "status": 200,
+      "ok": true,
+      "emails": [
+        "info@mordorintelligence.com",
+        "media@mordorintelligence.com",
+        "saideepthi.bitra@mordorintelligence.com",
+        "aditya.soni@mordorintelligence.com"
+      ],
+      "safeFormCandidate": false,
+      "signals": {
+        "contact": true,
+        "captcha": false,
+        "login": false,
+        "paid": true,
+        "platform": false
+      },
+      "title": "Mordor Intelligence in the News | Media Coverage"
+    },
+    {
+      "url": "https://www.mordorintelligence.com/market-analysis/technology-media-and-telecom",
+      "status": 200,
+      "ok": true,
+      "emails": [
+        "info@mordorintelligence.com",
+        "media@mordorintelligence.com"
+      ],
+      "safeFormCandidate": false,
+      "signals": {
+        "contact": true,
+        "captcha": false,
+        "login": false,
+        "paid": true,
+        "platform": false
+      },
+      "title": "Technology, Media and Telecom Research Reports and Market Analysis"
+    },
+    {
+      "url": "https://www.mordorintelligence.com/about-us",
+      "status": 200,
+      "ok": true,
+      "emails": [
+        "info@mordorintelligence.com",
+        "media@mordorintelligence.com"
+      ],
+      "safeFormCandidate": false,
+      "signals": {
+        "contact": true,
+        "captcha": false,
+        "login": false,
+        "paid": true,
+        "platform": false
+      },
+      "title": "About Us | Mordor Intelligence"
+    },
+    {
+      "url": "https://www.mordorintelligence.com/about-us/our-team",
+      "status": 200,
+      "ok": true,
+      "emails": [
+        "info@mordorintelligence.com",
+        "media@mordorintelligence.com"
+      ],
+      "safeFormCandidate": false,
+      "signals": {
+        "contact": true,
+        "captcha": false,
+        "login": false,
+        "paid": true,
+        "platform": false
+      },
+      "title": "Meet the Team | Mordor Intelligence"
+    },
+    {
+      "url": "https://www.mordorintelligence.com/about-us/clients",
+      "status": 200,
+      "ok": true,
+      "emails": [
+        "info@mordorintelligence.com",
+        "media@mordorintelligence.com"
+      ],
+      "safeFormCandidate": false,
+      "signals": {
+        "contact": true,
+        "captcha": false,
+        "login": false,
+        "paid": true,
+        "platform": false
+      },
+      "title": "Trusted by Global Clients | Mordor Intelligence"
+    },
+    {
+      "url": "https://www.mordorintelligence.com/about-us/partners",
+      "status": 200,
+      "ok": true,
+      "emails": [
+        "partners@mordorintelligence.com",
+        "info@mordorintelligence.com",
+        "media@mordorintelligence.com"
+      ],
+      "safeFormCandidate": false,
+      "signals": {
+        "contact": true,
+        "captcha": false,
+        "login": false,
+        "paid": true,
+        "platform": true
+      },
+      "title": "Growth Partners | Mordor Intelligence™"
+    },
+    {
+      "url": "https://www.mordorintelligence.com/about-us/csr",
+      "status": 200,
+      "ok": true,
+      "emails": [
+        "info@mordorintelligence.com",
+        "media@mordorintelligence.com"
+      ],
+      "safeFormCandidate": false,
+      "signals": {
+        "contact": true,
+        "captcha": false,
+        "login": false,
+        "paid": true,
+        "platform": false
+      },
+      "title": "Corporate Social Responsibility (CSR) | Mordor Intelligence"
+    },
+    {
+      "url": "https://www.mordorintelligence.com/about-us/awards",
+      "status": 200,
+      "ok": true,
+      "emails": [
+        "info@mordorintelligence.com",
+        "media@mordorintelligence.com"
+      ],
+      "safeFormCandidate": false,
+      "signals": {
+        "contact": true,
+        "captcha": false,
+        "login": false,
+        "paid": true,
+        "platform": true
+      },
+      "title": "Awards and Recognition | Mordor Intelligence™"
+    },
+    {
+      "url": "https://www.mordorintelligence.com/industry-reports/mea-single-use-plastic-packaging-market/companies",
+      "status": 200,
+      "ok": true,
+      "emails": [
+        "info@mordorintelligence.com",
+        "media@mordorintelligence.com"
+      ],
+      "safeFormCandidate": false,
+      "signals": {
+        "contact": true,
+        "captcha": false,
+        "login": false,
+        "paid": true,
+        "platform": false
+      },
+      "title": "Middle East And Africa Single-use Plastic Packaging Companies - Top Players' List"
+    }
+  ],
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-mordorintelligence-com-2026-06-14.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-mordorintelligence-com-2026-06-14.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-request-mordorintelligence-com-2026-06-14.json"
+  },
+  "claimBoundaries": [
+    "No verified supplier claim unless independently verified by the target platform.",
+    "No customer cases, market share, market leadership, fixed MOQ, fixed lead time, lowest-price claims, food-contact compliance claims or regulatory guarantees.",
+    "This is not proof of third-party acceptance, backlink, ranking, endorsement, certification or AI citation."
+  ]
+}
