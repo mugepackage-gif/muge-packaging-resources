@@ -143,3 +143,9 @@ These public resources do not claim fixed MOQ, fixed lead time, lowest price, cu
 - [fortunebusinessinsights.com execution card](https://mugepackage-gif.github.io/muge-packaging-resources/p1-editor-request-card-fortunebusinessinsights-com-2026-06-14.html) | JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-editor-request-card-fortunebusinessinsights-com-2026-06-14.json
 - [mordorintelligence.com execution card](https://mugepackage-gif.github.io/muge-packaging-resources/p1-editor-request-card-mordorintelligence-com-2026-06-14.html) | JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-editor-request-card-mordorintelligence-com-2026-06-14.json
 <!-- MUGE-P1-SINGLE-EDITOR-REQUEST-CARDS-2026-06-14:end -->
+
+<!-- MUGE-P0-DIRECTORY-SINGLE-EXECUTION-CARDS-2026-06-14:start -->
+## P0 Directory Single Execution Cards - 2026-06-14
+- [Ensun directory execution card](https://mugepackage-gif.github.io/muge-packaging-resources/p0-directory-execution-card-ensun-ensun-io-2026-06-14.html) | JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-directory-execution-card-ensun-ensun-io-2026-06-14.json
+- [Europages directory execution card](https://mugepackage-gif.github.io/muge-packaging-resources/p0-directory-execution-card-europages-europages-co-uk-2026-06-14.html) | JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-directory-execution-card-europages-europages-co-uk-2026-06-14.json
+<!-- MUGE-P0-DIRECTORY-SINGLE-EXECUTION-CARDS-2026-06-14:end -->
