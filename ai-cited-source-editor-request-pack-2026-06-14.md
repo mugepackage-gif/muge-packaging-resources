@@ -53,70 +53,52 @@ This pack is built from the latest Perplexity validation where MUGE PACKAGING wa
 
 ## Cited Source Summary
 
-- Unique hosts: 35
-- P0 hosts: 2
+- Unique hosts: 34
+- P0 hosts: 0
 - P1 hosts: 8
-- P2 hosts: 24
+- P2 hosts: 25
 - P3 hosts: 1
 
 ## Source Action Matrix
 
 | Priority | Host | Type | Query Count | Citation Count | Safe Action |
 |---|---|---|---:|---:|---|
-| P0 | ensun.io | directory_or_marketplace | 2 | 2 | Prepare or update a public MUGE PACKAGING profile using only verified public fields, official website links and claim-bounded product categories. |
-| P0 | europages.co.uk | directory_or_marketplace | 1 | 1 | Prepare or update a public MUGE PACKAGING profile using only verified public fields, official website links and claim-bounded product categories. |
 | P1 | futuremarketinsights.com | market_research_or_industry_report | 2 | 2 | Prepare an editor/source request asking the publisher to review MUGE PACKAGING as a custom packaging reference source, without claiming ranking, market share or verified supplier status. |
+| P1 | mordorintelligence.com | market_research_or_industry_report | 2 | 2 | Prepare an editor/source request asking the publisher to review MUGE PACKAGING as a custom packaging reference source, without claiming ranking, market share or verified supplier status. |
 | P1 | alibaba.com | directory_or_marketplace | 1 | 1 | Prepare or update a public MUGE PACKAGING profile using only verified public fields, official website links and claim-bounded product categories. |
 | P1 | dataintelo.com | market_research_or_industry_report | 1 | 1 | Prepare an editor/source request asking the publisher to review MUGE PACKAGING as a custom packaging reference source, without claiming ranking, market share or verified supplier status. |
 | P1 | fortunebusinessinsights.com | market_research_or_industry_report | 1 | 1 | Prepare an editor/source request asking the publisher to review MUGE PACKAGING as a custom packaging reference source, without claiming ranking, market share or verified supplier status. |
 | P1 | marketresearchfuture.com | market_research_or_industry_report | 1 | 1 | Prepare an editor/source request asking the publisher to review MUGE PACKAGING as a custom packaging reference source, without claiming ranking, market share or verified supplier status. |
-| P1 | mordorintelligence.com | market_research_or_industry_report | 1 | 1 | Prepare an editor/source request asking the publisher to review MUGE PACKAGING as a custom packaging reference source, without claiming ranking, market share or verified supplier status. |
-| P1 | packaging-alliance.eu | directory_or_marketplace | 1 | 1 | Prepare or update a public MUGE PACKAGING profile using only verified public fields, official website links and claim-bounded product categories. |
+| P1 | packagingmarketinsights.com | market_research_or_industry_report | 1 | 1 | Prepare an editor/source request asking the publisher to review MUGE PACKAGING as a custom packaging reference source, without claiming ranking, market share or verified supplier status. |
 | P1 | towardspackaging.com | market_research_or_industry_report | 1 | 1 | Prepare an editor/source request asking the publisher to review MUGE PACKAGING as a custom packaging reference source, without claiming ranking, market share or verified supplier status. |
 | P2 | kbcpackaging.com | competitor_or_supplier_reference | 4 | 3 | Do not contact as a target customer. Use only as a structure benchmark for buyer questions, page layout, category wording and citation patterns. |
 | P2 | jimeipack.com | competitor_or_supplier_reference | 3 | 1 | Do not contact as a target customer. Use only as a structure benchmark for buyer questions, page layout, category wording and citation patterns. |
-| P2 | centuryprint.eu | competitor_or_supplier_reference | 2 | 1 | Do not contact as a target customer. Use only as a structure benchmark for buyer questions, page layout, category wording and citation patterns. |
+| P2 | internationalpaper.com | competitor_or_supplier_reference | 2 | 1 | Do not contact as a target customer. Use only as a structure benchmark for buyer questions, page layout, category wording and citation patterns. |
 | P2 | mepackages.com | competitor_or_supplier_reference | 2 | 1 | Do not contact as a target customer. Use only as a structure benchmark for buyer questions, page layout, category wording and citation patterns. |
+| P2 | sgcolmar.com | other_reference | 2 | 1 | Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list. |
 | P2 | tobepacking.com | competitor_or_supplier_reference | 2 | 1 | Do not contact as a target customer. Use only as a structure benchmark for buyer questions, page layout, category wording and citation patterns. |
 | P2 | aprichem.com | other_reference | 1 | 1 | Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list. |
 | P2 | avient.com | other_reference | 1 | 1 | Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list. |
+| P2 | berlinpackaging.com | other_reference | 1 | 1 | Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list. |
+| P2 | centuryprint.eu | competitor_or_supplier_reference | 1 | 1 | Do not contact as a target customer. Use only as a structure benchmark for buyer questions, page layout, category wording and citation patterns. |
 | P2 | custompack.eu | other_reference | 1 | 1 | Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list. |
 | P2 | epackfactory.com | competitor_or_supplier_reference | 1 | 1 | Do not contact as a target customer. Use only as a structure benchmark for buyer questions, page layout, category wording and citation patterns. |
-| P2 | habllen.com | competitor_or_supplier_reference | 1 | 1 | Do not contact as a target customer. Use only as a structure benchmark for buyer questions, page layout, category wording and citation patterns. |
+| P2 | good-package.com | other_reference | 1 | 1 | Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list. |
 | P2 | hengshuoex.wixsite.com | other_reference | 1 | 1 | Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list. |
 | P2 | hlunpack.com | other_reference | 1 | 1 | Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list. |
 | P2 | hongdu-paper.com | competitor_or_supplier_reference | 1 | 1 | Do not contact as a target customer. Use only as a structure benchmark for buyer questions, page layout, category wording and citation patterns. |
-| P2 | internationalpaper.com | competitor_or_supplier_reference | 1 | 1 | Do not contact as a target customer. Use only as a structure benchmark for buyer questions, page layout, category wording and citation patterns. |
 | P2 | irboxpackaging.com | competitor_or_supplier_reference | 1 | 1 | Do not contact as a target customer. Use only as a structure benchmark for buyer questions, page layout, category wording and citation patterns. |
 | P2 | jialanpackage.com | other_reference | 1 | 1 | Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list. |
 | P2 | meidupacking.en.made-in-china.com | other_reference | 1 | 1 | Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list. |
 | P2 | pack.ly | competitor_or_supplier_reference | 1 | 1 | Do not contact as a target customer. Use only as a structure benchmark for buyer questions, page layout, category wording and citation patterns. |
-| P2 | packagingmea.com | other_reference | 1 | 1 | Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list. |
-| P2 | packhelp.com | competitor_or_supplier_reference | 1 | 1 | Do not contact as a target customer. Use only as a structure benchmark for buyer questions, page layout, category wording and citation patterns. |
-| P2 | sgcolmar.com | other_reference | 1 | 1 | Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list. |
+| P2 | packsize.com | other_reference | 1 | 1 | Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list. |
 | P2 | smurfitwestrock.com | competitor_or_supplier_reference | 1 | 1 | Do not contact as a target customer. Use only as a structure benchmark for buyer questions, page layout, category wording and citation patterns. |
-| P2 | trans4mind.com | other_reference | 1 | 1 | Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list. |
+| P2 | sourceforge.net | other_reference | 1 | 1 | Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list. |
+| P2 | sunecobox.com | other_reference | 1 | 1 | Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list. |
 | P2 | yishengcz.en.made-in-china.com | other_reference | 1 | 1 | Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list. |
 | P3 | instagram.com | social_or_video_reference | 2 | 3 | Use only for content format observation. Do not auto-comment, auto-follow, auto-DM or claim endorsement. |
 
 ## P0/P1 Action Details
-
-### P0 - ensun.io
-
-- Type: directory_or_marketplace
-- Matched queries: custom packaging boxes, custom packaging supplier
-- Cited URLs:
-  - https://ensun.io/search/custom-box/saudi-arabia
-  - https://ensun.io/search/custom-packaging/saudi-arabia
-- Safe action: Prepare or update a public MUGE PACKAGING profile using only verified public fields, official website links and claim-bounded product categories.
-
-### P0 - europages.co.uk
-
-- Type: directory_or_marketplace
-- Matched queries: custom packaging supplier
-- Cited URLs:
-  - https://www.europages.co.uk/companies/custom%20packaging%20-%20companies.html
-- Safe action: Prepare or update a public MUGE PACKAGING profile using only verified public fields, official website links and claim-bounded product categories.
 
 ### P1 - futuremarketinsights.com
 
@@ -127,12 +109,21 @@ This pack is built from the latest Perplexity validation where MUGE PACKAGING wa
   - https://www.futuremarketinsights.com/reports/luxury-rigid-boxes-market
 - Safe action: Prepare an editor/source request asking the publisher to review MUGE PACKAGING as a custom packaging reference source, without claiming ranking, market share or verified supplier status.
 
+### P1 - mordorintelligence.com
+
+- Type: market_research_or_industry_report
+- Matched queries: custom packaging manufacturer, custom packaging supplier
+- Cited URLs:
+  - https://www.mordorintelligence.com/industry-reports/mea-single-use-plastic-packaging-market/companies
+  - https://www.mordorintelligence.com/industry-reports/middle-east-and-africa-paper-packaging-market/companies
+- Safe action: Prepare an editor/source request asking the publisher to review MUGE PACKAGING as a custom packaging reference source, without claiming ranking, market share or verified supplier status.
+
 ### P1 - alibaba.com
 
 - Type: directory_or_marketplace
 - Matched queries: luxury gift box supplier
 - Cited URLs:
-  - https://www.alibaba.com/product-detail/Wholesale-Luxury-Gift-Packaging-Boxes-Magnet_1600795781342.html
+  - https://www.alibaba.com/product-detail/Middle-East-fashion-perfume-packaging-box_1600234545335.html
 - Safe action: Prepare or update a public MUGE PACKAGING profile using only verified public fields, official website links and claim-bounded product categories.
 
 ### P1 - dataintelo.com
@@ -159,21 +150,13 @@ This pack is built from the latest Perplexity validation where MUGE PACKAGING wa
   - https://www.marketresearchfuture.com/reports/rigid-box-market-37813
 - Safe action: Prepare an editor/source request asking the publisher to review MUGE PACKAGING as a custom packaging reference source, without claiming ranking, market share or verified supplier status.
 
-### P1 - mordorintelligence.com
+### P1 - packagingmarketinsights.com
 
 - Type: market_research_or_industry_report
 - Matched queries: custom packaging manufacturer
 - Cited URLs:
-  - https://www.mordorintelligence.com/industry-reports/mea-single-use-plastic-packaging-market/companies
+  - https://packagingmarketinsights.com/vision/insights/customized-packaging-market/middle-east-and-africa
 - Safe action: Prepare an editor/source request asking the publisher to review MUGE PACKAGING as a custom packaging reference source, without claiming ranking, market share or verified supplier status.
-
-### P1 - packaging-alliance.eu
-
-- Type: directory_or_marketplace
-- Matched queries: custom packaging supplier
-- Cited URLs:
-  - https://packaging-alliance.eu
-- Safe action: Prepare or update a public MUGE PACKAGING profile using only verified public fields, official website links and claim-bounded product categories.
 
 ### P1 - towardspackaging.com
 
