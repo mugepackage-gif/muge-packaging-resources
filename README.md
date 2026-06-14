@@ -3,6 +3,9 @@
 - [GA4/GSC Conversion Intent Answer Map](https://mugepackage-gif.github.io/muge-packaging-resources/ga4-gsc-conversion-intent-answer-map-2026-06-14.html): AI-readable map connecting high-click, low-conversion pages to buyer RFQ questions and official handoff URLs.
 - [GA4/GSC Conversion Intent Answer Map Markdown](https://mugepackage-gif.github.io/muge-packaging-resources/ga4-gsc-conversion-intent-answer-map-2026-06-14.md): Plain-text answer map for AI crawler discovery.
 - [GA4/GSC Conversion Intent Answer Map JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/ga4-gsc-conversion-intent-answer-map-2026-06-14.json): Machine-readable answer map.
+- [Archived GA4/GSC Conversion Intent Answer Map HTML](https://web.archive.org/web/20260614093845/https://mugepackage-gif.github.io/muge-packaging-resources/ga4-gsc-conversion-intent-answer-map-2026-06-14.html): Internet Archive snapshot.
+- [Archived GA4/GSC Conversion Intent Answer Map Markdown](https://web.archive.org/web/20260614093902/https://mugepackage-gif.github.io/muge-packaging-resources/ga4-gsc-conversion-intent-answer-map-2026-06-14.md): Internet Archive Markdown snapshot.
+- [Archived GA4/GSC Conversion Intent Answer Map JSON](https://web.archive.org/web/20260614093909/https://mugepackage-gif.github.io/muge-packaging-resources/data/ga4-gsc-conversion-intent-answer-map-2026-06-14.json): Internet Archive JSON snapshot.
 <!-- MUGE_GA4_GSC_CONVERSION_INTENT_ANSWER_MAP_2026_06_14:end -->
 
 <!-- MUGE_P0P1_BUYER_BRIEF_SOURCE_MAP_2026_06_14:start -->
