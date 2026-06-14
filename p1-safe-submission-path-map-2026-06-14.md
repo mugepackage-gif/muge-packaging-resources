@@ -5,11 +5,15 @@ tags:
   - GEO
   - P1引用源
   - 真实提交路径
-created: 2026-06-14T07:24:15.851Z
+created: 2026-06-14T07:28:35.662Z
 status: 已复验未提交
 ---
 
 # P1 安全提交路径地图
+
+公司：MUGE PACKAGING / Shenzhen Muge Design Packaging Product Co., Ltd.
+
+官网：https://mugepackaging.com
 
 ## 安全边界
 
