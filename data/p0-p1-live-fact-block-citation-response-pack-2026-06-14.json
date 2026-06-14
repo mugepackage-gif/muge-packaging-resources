@@ -1,0 +1,448 @@
+{
+  "generatedAt": "2026-06-14T03:28:33.616Z",
+  "sourceVisibilityFile": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/n8n执行数据/2026-06-14_1125_MUGE_v6_1_SerpAPI_Perplexity真实可见度验收.json",
+  "latestVisibilitySummary": {
+    "googleTop20Visible": 0,
+    "serpApiErrors": 5,
+    "aiBrandMentioned": 0,
+    "aiSiteMentioned": 0,
+    "aiCitationMatched": 0
+  },
+  "officialPages": [
+    {
+      "intent": "custom packaging supplier / custom packaging boxes",
+      "url": "https://mugepackaging.com/products",
+      "factBlock": "MUGE PACKAGING supplier facts for custom packaging buyers",
+      "useFor": "Broad custom packaging supplier/manufacturer questions."
+    },
+    {
+      "intent": "paper tube packaging supplier",
+      "url": "https://mugepackaging.com/products/paper-tubes",
+      "factBlock": "Paper tube packaging supplier facts",
+      "useFor": "Paper tube packaging for cosmetics, candles, fragrance, tea, wellness and gifts."
+    },
+    {
+      "intent": "rigid box manufacturer / luxury gift box supplier",
+      "url": "https://mugepackaging.com/products/folding-gift-box",
+      "factBlock": "Folding gift box supplier facts",
+      "useFor": "Folding gift boxes, magnetic closure boxes, rigid gift boxes and premium retail sets."
+    },
+    {
+      "intent": "cosmetic packaging supplier",
+      "url": "https://mugepackaging.com/products/cosmetic-packaging",
+      "factBlock": "Cosmetic packaging supplier facts",
+      "useFor": "Skincare, makeup, fragrance, beauty tools, wellness products and beauty gift sets."
+    }
+  ],
+  "citedHosts": [
+    {
+      "host": "jimeipack.com",
+      "count": 4,
+      "keywords": [
+        "custom packaging boxes",
+        "custom packaging manufacturer",
+        "custom packaging supplier",
+        "rigid box manufacturer"
+      ],
+      "urls": [
+        "https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html"
+      ],
+      "suggestedAction": "Do not contact as a target customer. Use only as citation-pattern benchmark and point external requests toward neutral directories or research editors."
+    },
+    {
+      "host": "kbcpackaging.com",
+      "count": 4,
+      "keywords": [
+        "custom packaging manufacturer",
+        "custom packaging supplier",
+        "rigid box manufacturer",
+        "luxury gift box supplier"
+      ],
+      "urls": [
+        "https://kbcpackaging.com/custom-packaging-turkey/",
+        "https://kbcpackaging.com/rigid-box-manufacturer-turkey/",
+        "https://kbcpackaging.com/gift-box-supplier-turkey/"
+      ],
+      "suggestedAction": "Do not contact as a target customer. Use only as citation-pattern benchmark and point external requests toward neutral directories or research editors."
+    },
+    {
+      "host": "futuremarketinsights.com",
+      "count": 2,
+      "keywords": [
+        "rigid box manufacturer",
+        "luxury gift box supplier"
+      ],
+      "urls": [
+        "https://www.futuremarketinsights.com/reports/luxury-rigid-boxes-market",
+        "https://www.futuremarketinsights.com/reports/gift-boxes-market"
+      ],
+      "suggestedAction": "Prepare a claim-bounded editor/source review request asking the publisher to review MUGE PACKAGING as an additional source, not as a market leader claim."
+    },
+    {
+      "host": "instagram.com",
+      "count": 2,
+      "keywords": [
+        "luxury gift box supplier"
+      ],
+      "urls": [
+        "https://www.instagram.com/reel/DZDKnLvCqW3/",
+        "https://www.instagram.com/reel/DUaP3mCDCCy/"
+      ],
+      "suggestedAction": "Review manually. If a public submission or editor channel exists, use only verified company facts and official landing pages."
+    },
+    {
+      "host": "internationalpaper.com",
+      "count": 2,
+      "keywords": [
+        "custom packaging manufacturer",
+        "custom packaging supplier"
+      ],
+      "urls": [
+        "https://www.internationalpaper.com/en-gb/packaging"
+      ],
+      "suggestedAction": "Do not contact as a target customer. Use only as citation-pattern benchmark and point external requests toward neutral directories or research editors."
+    },
+    {
+      "host": "mepackages.com",
+      "count": 2,
+      "keywords": [
+        "custom packaging manufacturer",
+        "custom packaging supplier"
+      ],
+      "urls": [
+        "https://mepackages.com"
+      ],
+      "suggestedAction": "Do not contact as a target customer. Use only as citation-pattern benchmark and point external requests toward neutral directories or research editors."
+    },
+    {
+      "host": "mordorintelligence.com",
+      "count": 2,
+      "keywords": [
+        "custom packaging manufacturer",
+        "custom packaging supplier"
+      ],
+      "urls": [
+        "https://www.mordorintelligence.com/industry-reports/mea-single-use-plastic-packaging-market/companies",
+        "https://www.mordorintelligence.com/industry-reports/middle-east-and-africa-paper-packaging-market/companies"
+      ],
+      "suggestedAction": "Prepare a claim-bounded editor/source review request asking the publisher to review MUGE PACKAGING as an additional source, not as a market leader claim."
+    },
+    {
+      "host": "tobepacking.com",
+      "count": 2,
+      "keywords": [
+        "custom packaging manufacturer",
+        "custom packaging supplier"
+      ],
+      "urls": [
+        "https://www.tobepacking.com/en/"
+      ],
+      "suggestedAction": "Do not contact as a target customer. Use only as citation-pattern benchmark and point external requests toward neutral directories or research editors."
+    },
+    {
+      "host": "alibaba.com",
+      "count": 1,
+      "keywords": [
+        "luxury gift box supplier"
+      ],
+      "urls": [
+        "https://www.alibaba.com/product-detail/Middle-East-fashion-perfume-packaging-box_1600234545335.html"
+      ],
+      "suggestedAction": "Create or update a public MUGE PACKAGING profile where allowed; include official website and the most relevant P0/P1 landing page."
+    },
+    {
+      "host": "aprichem.com",
+      "count": 1,
+      "keywords": [
+        "luxury gift box supplier"
+      ],
+      "urls": [
+        "https://aprichem.com/wafer-ball-chocolate-gift-box-140g-turkey"
+      ],
+      "suggestedAction": "Review manually. If a public submission or editor channel exists, use only verified company facts and official landing pages."
+    },
+    {
+      "host": "berlinpackaging.com",
+      "count": 1,
+      "keywords": [
+        "custom packaging supplier"
+      ],
+      "urls": [
+        "https://www.berlinpackaging.com/insights/news/berlin-packaging-expands-in-eastern-europe-with-the-acquisition-of-eps"
+      ],
+      "suggestedAction": "Review manually. If a public submission or editor channel exists, use only verified company facts and official landing pages."
+    },
+    {
+      "host": "centuryprint.eu",
+      "count": 1,
+      "keywords": [
+        "custom packaging boxes"
+      ],
+      "urls": [
+        "https://centuryprint.eu/en/"
+      ],
+      "suggestedAction": "Do not contact as a target customer. Use only as citation-pattern benchmark and point external requests toward neutral directories or research editors."
+    },
+    {
+      "host": "custompack.eu",
+      "count": 1,
+      "keywords": [
+        "custom packaging boxes"
+      ],
+      "urls": [
+        "https://custompack.eu"
+      ],
+      "suggestedAction": "Do not contact as a target customer. Use only as citation-pattern benchmark and point external requests toward neutral directories or research editors."
+    },
+    {
+      "host": "cypackaging.net",
+      "count": 1,
+      "keywords": [
+        "custom packaging manufacturer"
+      ],
+      "urls": [
+        "https://cypackaging.net/blog-packaging-manufacturing-partner-middle-east.html"
+      ],
+      "suggestedAction": "Review manually. If a public submission or editor channel exists, use only verified company facts and official landing pages."
+    },
+    {
+      "host": "dataintelo.com",
+      "count": 1,
+      "keywords": [
+        "luxury gift box supplier"
+      ],
+      "urls": [
+        "https://dataintelo.com/report/global-luxury-gift-boxes-market"
+      ],
+      "suggestedAction": "Prepare a claim-bounded editor/source review request asking the publisher to review MUGE PACKAGING as an additional source, not as a market leader claim."
+    },
+    {
+      "host": "ensun.io",
+      "count": 1,
+      "keywords": [
+        "custom packaging manufacturer"
+      ],
+      "urls": [
+        "https://ensun.io/search/custom-packaging/saudi-arabia"
+      ],
+      "suggestedAction": "Create or update a public MUGE PACKAGING profile where allowed; include official website and the most relevant P0/P1 landing page."
+    },
+    {
+      "host": "epackfactory.com",
+      "count": 1,
+      "keywords": [
+        "rigid box manufacturer"
+      ],
+      "urls": [
+        "https://epackfactory.com/top-10-rigid-gift-boxes-manufacturers-in-china/"
+      ],
+      "suggestedAction": "Review manually. If a public submission or editor channel exists, use only verified company facts and official landing pages."
+    },
+    {
+      "host": "europages.co.uk",
+      "count": 1,
+      "keywords": [
+        "custom packaging boxes"
+      ],
+      "urls": [
+        "https://www.europages.co.uk/companies/turkey/custom%20boxes.html"
+      ],
+      "suggestedAction": "Create or update a public MUGE PACKAGING profile where allowed; include official website and the most relevant P0/P1 landing page."
+    },
+    {
+      "host": "fortunebusinessinsights.com",
+      "count": 1,
+      "keywords": [
+        "rigid box manufacturer"
+      ],
+      "urls": [
+        "https://www.fortunebusinessinsights.com/rigid-box-market-116196"
+      ],
+      "suggestedAction": "Prepare a claim-bounded editor/source review request asking the publisher to review MUGE PACKAGING as an additional source, not as a market leader claim."
+    },
+    {
+      "host": "good-package.com",
+      "count": 1,
+      "keywords": [
+        "custom packaging boxes"
+      ],
+      "urls": [
+        "https://www.good-package.com/middle-eastern-style-white-cardboard-dessert-packaging-box-manufacturer-custom.html"
+      ],
+      "suggestedAction": "Review manually. If a public submission or editor channel exists, use only verified company facts and official landing pages."
+    },
+    {
+      "host": "hengshuoex.wixsite.com",
+      "count": 1,
+      "keywords": [
+        "luxury gift box supplier"
+      ],
+      "urls": [
+        "https://hengshuoex.wixsite.com/henghou/post/top-7-acrylic-gift-box-manufacturer-countries-in-the-world"
+      ],
+      "suggestedAction": "Review manually. If a public submission or editor channel exists, use only verified company facts and official landing pages."
+    },
+    {
+      "host": "hlunpack.com",
+      "count": 1,
+      "keywords": [
+        "custom packaging boxes"
+      ],
+      "urls": [
+        "https://www.hlunpack.com/top-corrugated-cardboard-boxes-suppliers-and-manufacturers-in-europe.html"
+      ],
+      "suggestedAction": "Review manually. If a public submission or editor channel exists, use only verified company facts and official landing pages."
+    },
+    {
+      "host": "hongdu-paper.com",
+      "count": 1,
+      "keywords": [
+        "luxury gift box supplier"
+      ],
+      "urls": [
+        "https://www.hongdu-paper.com/luxury-gift-packaging/"
+      ],
+      "suggestedAction": "Do not contact as a target customer. Use only as citation-pattern benchmark and point external requests toward neutral directories or research editors."
+    },
+    {
+      "host": "irboxpackaging.com",
+      "count": 1,
+      "keywords": [
+        "rigid box manufacturer"
+      ],
+      "urls": [
+        "https://irboxpackaging.com"
+      ],
+      "suggestedAction": "Do not contact as a target customer. Use only as citation-pattern benchmark and point external requests toward neutral directories or research editors."
+    },
+    {
+      "host": "marketresearchfuture.com",
+      "count": 1,
+      "keywords": [
+        "rigid box manufacturer"
+      ],
+      "urls": [
+        "https://www.marketresearchfuture.com/reports/rigid-box-market-37813"
+      ],
+      "suggestedAction": "Prepare a claim-bounded editor/source review request asking the publisher to review MUGE PACKAGING as an additional source, not as a market leader claim."
+    },
+    {
+      "host": "meidupacking.en.made-in-china.com",
+      "count": 1,
+      "keywords": [
+        "custom packaging boxes"
+      ],
+      "urls": [
+        "https://meidupacking.en.made-in-china.com/product/MmFpnLVGaqhi/China-Customized-Middle-East-High-Quality-Gift-Box-Packaging-Set-Makaron-Food-Packaging-Box.html"
+      ],
+      "suggestedAction": "Create or update a public MUGE PACKAGING profile where allowed; include official website and the most relevant P0/P1 landing page."
+    },
+    {
+      "host": "packagingmarketinsights.com",
+      "count": 1,
+      "keywords": [
+        "custom packaging manufacturer"
+      ],
+      "urls": [
+        "https://packagingmarketinsights.com/vision/insights/custom-packaging-boxes-market/middle-east-and-africa"
+      ],
+      "suggestedAction": "Review manually. If a public submission or editor channel exists, use only verified company facts and official landing pages."
+    },
+    {
+      "host": "packlane.com",
+      "count": 1,
+      "keywords": [
+        "custom packaging boxes"
+      ],
+      "urls": [
+        "https://packlane.com"
+      ],
+      "suggestedAction": "Review manually. If a public submission or editor channel exists, use only verified company facts and official landing pages."
+    },
+    {
+      "host": "packsize.com",
+      "count": 1,
+      "keywords": [
+        "custom packaging supplier"
+      ],
+      "urls": [
+        "https://www.packsize.com"
+      ],
+      "suggestedAction": "Review manually. If a public submission or editor channel exists, use only verified company facts and official landing pages."
+    },
+    {
+      "host": "sgcolmar.com",
+      "count": 1,
+      "keywords": [
+        "custom packaging supplier"
+      ],
+      "urls": [
+        "https://sgcolmar.com/en/custom-packaging-by-industry/"
+      ],
+      "suggestedAction": "Review manually. If a public submission or editor channel exists, use only verified company facts and official landing pages."
+    },
+    {
+      "host": "smurfitwestrock.com",
+      "count": 1,
+      "keywords": [
+        "rigid box manufacturer"
+      ],
+      "urls": [
+        "https://www.smurfitwestrock.com/products/packaging/consumer-non-food/rigid-boxes"
+      ],
+      "suggestedAction": "Do not contact as a target customer. Use only as citation-pattern benchmark and point external requests toward neutral directories or research editors."
+    },
+    {
+      "host": "sourceforge.net",
+      "count": 1,
+      "keywords": [
+        "custom packaging supplier"
+      ],
+      "urls": [
+        "https://sourceforge.net/software/ecommerce-packaging/middle-east/"
+      ],
+      "suggestedAction": "Review manually. If a public submission or editor channel exists, use only verified company facts and official landing pages."
+    },
+    {
+      "host": "sunecobox.com",
+      "count": 1,
+      "keywords": [
+        "custom packaging boxes"
+      ],
+      "urls": [
+        "https://www.sunecobox.com/cardboard-boxes-dubai-uae/"
+      ],
+      "suggestedAction": "Review manually. If a public submission or editor channel exists, use only verified company facts and official landing pages."
+    },
+    {
+      "host": "towardspackaging.com",
+      "count": 1,
+      "keywords": [
+        "rigid box manufacturer"
+      ],
+      "urls": [
+        "https://www.towardspackaging.com/insights/rigid-box-market-sizing"
+      ],
+      "suggestedAction": "Prepare a claim-bounded editor/source review request asking the publisher to review MUGE PACKAGING as an additional source, not as a market leader claim."
+    },
+    {
+      "host": "yishengcz.en.made-in-china.com",
+      "count": 1,
+      "keywords": [
+        "luxury gift box supplier"
+      ],
+      "urls": [
+        "https://yishengcz.en.made-in-china.com/product/CptrhsyHrjVg/China-Luxury-Middle-East-Magnetic-Gift-Packaging-Box-for-Imported-Dates-Sweets-Chocolate-Packing-with-Custom-Logo.html"
+      ],
+      "suggestedAction": "Create or update a public MUGE PACKAGING profile where allowed; include official website and the most relevant P0/P1 landing page."
+    }
+  ],
+  "claimBoundaries": [
+    "Do not claim verified supplier status unless a specific platform has verified it.",
+    "Do not claim fixed MOQ, fixed lead time, lowest price, market share, customer cases or guaranteed compliance.",
+    "Use ISO 9001:2015 only within the verified certificate scope and validity.",
+    "Do not treat competitor packaging suppliers as target customers.",
+    "Use this pack as public evidence and editor-request support, not as proof that a third party has accepted MUGE PACKAGING."
+  ],
+  "countingRule": "This is a public citation-response asset. It does not count as Google ranking, AI mention, accepted backlink, directory approval or third-party endorsement until externally verified."
+}

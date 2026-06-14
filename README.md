@@ -161,3 +161,10 @@ These public resources do not claim fixed MOQ, fixed lead time, lowest price, cu
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/third-party-correction-evidence-pack-2026-06-14.html
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/third-party-correction-evidence-pack-2026-06-14.md
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/third-party-correction-evidence-pack-2026-06-14.json
+
+<!-- MUGE-P0P1-LIVE-FACT-BLOCK-CITATION-RESPONSE-2026-06-14:start -->
+## P0/P1 Live Fact Block Citation Response Pack - 2026-06-14
+- [P0/P1 live fact block citation response pack](https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html): maps newly deployed official MUGE PACKAGING P0/P1 fact blocks to current AI-cited source gaps and safe editor/profile request actions.
+- [Machine-readable JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-live-fact-block-citation-response-pack-2026-06-14.json): official pages, cited hosts, validation snapshot and claim boundaries.
+- [Markdown copy](https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.md): crawler-friendly public copy.
+<!-- MUGE-P0P1-LIVE-FACT-BLOCK-CITATION-RESPONSE-2026-06-14:end -->
