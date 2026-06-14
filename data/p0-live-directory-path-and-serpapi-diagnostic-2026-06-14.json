@@ -1,0 +1,148 @@
+{
+  "generated_at": "2026-06-14T02:43:50.415Z",
+  "status": "external-path-ready-result-not-achieved",
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "official_site": "https://mugepackaging.com",
+    "official_pages": [
+      "https://mugepackaging.com/products",
+      "https://mugepackaging.com/about",
+      "https://mugepackaging.com/contact",
+      "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier"
+    ]
+  },
+  "result_acceptance_snapshot": {
+    "gsc_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-14_1034_目标关键词排名验收.json",
+    "ai_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/n8n执行数据/2026-06-14_1034_MUGE_v6_1_SerpAPI_Perplexity真实可见度验收.json",
+    "summary": {
+      "total_targets": 23,
+      "exact_visible": 0,
+      "related_visible": 0,
+      "top20": 0,
+      "clicked": 0,
+      "failed": 23,
+      "google_top20_visible": 0,
+      "ai_brand_mentioned": 0,
+      "ai_site_mentioned": 0,
+      "ai_citation_matched": 0,
+      "serpapi_errors": 3
+    }
+  },
+  "serpapi_diagnostic": {
+    "env_path": "/Users/molice/.config/muge-secrets/serpapi.env",
+    "key_present": true,
+    "key_length": 24,
+    "key_masked_prefix": "oY1***",
+    "public_status": "env-present-but-latest-live-validation-has-errors",
+    "latest_observed_issue": "Latest MUGE v6.1 visibility validation recorded serpApiErrors=3 while GSC and Perplexity result metrics remained zero. This pack does not expose the key and does not claim SerpAPI account health.",
+    "fallback_validation": [
+      "Google Search Console target keyword validation",
+      "Perplexity prompt-level brand/site/citation checks",
+      "manual web search spot checks",
+      "DataForSEO when balance is restored"
+    ]
+  },
+  "p0_live_paths": [
+    {
+      "platform": "Europages",
+      "priority": "P0",
+      "reason": "B2B supplier directory with logged-in supplier profile, product/service publishing and buyer request hub. Useful for Europe-facing custom packaging source visibility.",
+      "public_help_sources": [
+        {
+          "title": "Europages supplier help: present products and services",
+          "url": "https://help.europages.com/en/supplier/present-your-products-services",
+          "verified_signal": "Supplier profile supports publishing products and services after account login."
+        },
+        {
+          "title": "Europages supplier help: manual upload of products and services",
+          "url": "https://help.europages.com/en/supplier/add-products-and-services-via-manual-upload",
+          "verified_signal": "Logged-in supplier can add product/service items manually."
+        },
+        {
+          "title": "Europages supplier help: Request Hub",
+          "url": "https://help.europages.com/en/supplier/europages-request-hub",
+          "verified_signal": "Logged-in suppliers can view and respond to buyer RFQs."
+        },
+        {
+          "title": "Europages language / listing page",
+          "url": "https://www.europages.com/languages",
+          "verified_signal": "Public page exposes list-company entry points."
+        }
+      ],
+      "allowed_action": "Prepare profile/product fields and stop at login, captcha, paid package or core-account setting gate.",
+      "blocked_action": "No paid upgrade, no fake verification, no fixed MOQ/lead-time/price, no unverified certification beyond known ISO 9001:2015 scope.",
+      "execution_fields": {
+        "company_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+        "brand_name": "MUGE PACKAGING",
+        "site": "https://mugepackaging.com",
+        "category_keywords": [
+          "Custom Packaging Boxes",
+          "Rigid Gift Boxes",
+          "Cosmetic Packaging",
+          "Paper Tube Packaging",
+          "PVC/PET Clear Boxes",
+          "Corrugated Boxes"
+        ],
+        "short_description": "MUGE PACKAGING is a Shenzhen-based custom packaging source factory supporting custom paper boxes, rigid gift boxes, cosmetic packaging, paper tube packaging, PVC/PET clear boxes and corrugated packaging for brand owners and B2B buyers."
+      },
+      "status": "manual-login-gate-ready"
+    },
+    {
+      "platform": "Ensun",
+      "priority": "P0",
+      "reason": "Ensun custom-packaging pages are indexed and appear as AI-friendly supplier-list style pages for country/category searches.",
+      "public_search_sources": [
+        {
+          "title": "Ensun custom packaging supplier page",
+          "url": "https://ensun.io/search/custom-packaging",
+          "verified_signal": "Search-visible custom packaging supplier list format."
+        },
+        {
+          "title": "Ensun custom packaging Saudi Arabia page",
+          "url": "https://ensun.io/search/custom-packaging/saudi-arabia",
+          "verified_signal": "Search-visible Middle East category page for custom packaging suppliers."
+        },
+        {
+          "title": "Ensun custom packaging United States page",
+          "url": "https://ensun.io/search/custom-packaging/united-states",
+          "verified_signal": "Search-visible country/category supplier page."
+        }
+      ],
+      "current_muge_presence": "No verified MUGE PACKAGING / mugepackaging.com profile found in source search at generation time.",
+      "allowed_action": "Keep profile-submission fields ready and search for official add-company/contact path. Stop at login, captcha, paid package or unverified scrape path.",
+      "blocked_action": "No automated form spam, no account creation bypass, no paid action.",
+      "execution_fields": {
+        "company_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+        "brand_name": "MUGE PACKAGING",
+        "site": "https://mugepackaging.com",
+        "buyer_fit": "custom packaging supplier for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging"
+      },
+      "status": "public-source-verified-submit-path-not-yet-verified"
+    }
+  ],
+  "next_actions": [
+    {
+      "owner": "Codex",
+      "action": "Use this pack to keep P0 directory actions in the queue and avoid repeating blind searches.",
+      "status": "done"
+    },
+    {
+      "owner": "Claude Code",
+      "action": "Use public help/source links to prepare browser-step instructions for Europages supplier profile/product publishing. Stop at login/captcha/payment.",
+      "status": "ready-for-dispatch"
+    },
+    {
+      "owner": "Codex",
+      "action": "Continue result validation through GSC + Perplexity and do not treat this asset as ranking success.",
+      "status": "active"
+    },
+    {
+      "owner": "User",
+      "action": "Only needed if a browser login/captcha/payment wall appears, or if SerpAPI key/account must be replaced.",
+      "status": "conditional"
+    }
+  ],
+  "counting_rule": "Count this as a public external-action evidence pack and execution path. Do not count as Google ranking, AI citation, direct third-party backlink, Europages/Ensun profile publication, buyer inquiry or paid listing."
+}

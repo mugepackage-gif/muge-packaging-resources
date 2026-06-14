@@ -149,3 +149,8 @@ These public resources do not claim fixed MOQ, fixed lead time, lowest price, cu
 - [Ensun directory execution card](https://mugepackage-gif.github.io/muge-packaging-resources/p0-directory-execution-card-ensun-ensun-io-2026-06-14.html) | JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-directory-execution-card-ensun-ensun-io-2026-06-14.json
 - [Europages directory execution card](https://mugepackage-gif.github.io/muge-packaging-resources/p0-directory-execution-card-europages-europages-co-uk-2026-06-14.html) | JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-directory-execution-card-europages-europages-co-uk-2026-06-14.json
 <!-- MUGE-P0-DIRECTORY-SINGLE-EXECUTION-CARDS-2026-06-14:end -->
+
+<!-- MUGE-P0-LIVE-DIRECTORY-SERPAPI-DIAGNOSTIC-2026-06-14:start -->
+## P0 Live Directory Path And SerpAPI Diagnostic - 2026-06-14
+- [P0 live directory path and SerpAPI diagnostic](https://mugepackage-gif.github.io/muge-packaging-resources/p0-live-directory-path-and-serpapi-diagnostic-2026-06-14.html): safe Ensun/Europages public path evidence and current visibility-validation gap. JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-live-directory-path-and-serpapi-diagnostic-2026-06-14.json
+<!-- MUGE-P0-LIVE-DIRECTORY-SERPAPI-DIAGNOSTIC-2026-06-14:end -->
