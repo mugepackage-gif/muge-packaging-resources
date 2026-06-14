@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T02:04:00.273Z",
+  "generated_at": "2026-06-14T04:19:39.271Z",
   "title": "MUGE PACKAGING P1 Editor Request Status Ledger",
   "source_queue_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/提交队列/2026-06-14_P1编辑请求提交队列_MUGE.json",
   "public_urls": {
@@ -9,14 +9,14 @@
   },
   "policy": "This ledger verifies public contact paths only. It does not send emails, submit forms, pay for listings, or make unverified claims.",
   "summary": {
-    "total_items": 3,
-    "ready_manual_email_or_form": 3,
+    "total_items": 8,
+    "ready_manual_email_or_form": 5,
     "ready_manual_email": 0,
-    "ready_manual_form": 0,
-    "needs_manual_research": 0,
+    "ready_manual_form": 2,
+    "needs_manual_research": 1,
     "blocked_paid_or_verification_review": 0,
-    "reachable_probe_urls": 18,
-    "total_probe_urls": 19,
+    "reachable_probe_urls": 42,
+    "total_probe_urls": 44,
     "auto_send_allowed": 0,
     "auto_submit_allowed": 0
   },
@@ -49,7 +49,13 @@
         "https://mugepackage-gif.github.io/muge-packaging-resources/p1-ai-cited-source-editor-outreach-pack-2026-06-14.html",
         "https://mugepackage-gif.github.io/muge-packaging-resources/p1-top3-editor-request-drafts-2026-06-14.html",
         "https://mugepackaging.com",
-        "https://mugepackaging.com/products"
+        "https://mugepackaging.com/products",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.md",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-live-fact-block-citation-response-pack-2026-06-14.json",
+        "https://mugepackaging.com/products/paper-tubes",
+        "https://mugepackaging.com/products/folding-gift-box",
+        "https://mugepackaging.com/products/cosmetic-packaging"
       ],
       "evidenceFields": {
         "submittedAt": "",
@@ -177,7 +183,13 @@
         "https://mugepackage-gif.github.io/muge-packaging-resources/p1-ai-cited-source-editor-outreach-pack-2026-06-14.html",
         "https://mugepackage-gif.github.io/muge-packaging-resources/p1-top3-editor-request-drafts-2026-06-14.html",
         "https://mugepackaging.com",
-        "https://mugepackaging.com/products"
+        "https://mugepackaging.com/products",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.md",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-live-fact-block-citation-response-pack-2026-06-14.json",
+        "https://mugepackaging.com/products/paper-tubes",
+        "https://mugepackaging.com/products/folding-gift-box",
+        "https://mugepackaging.com/products/cosmetic-packaging"
       ],
       "evidenceFields": {
         "submittedAt": "",
@@ -275,7 +287,9 @@
       "recipientEmails": [
         "info@mordorintelligence.com",
         "media@mordorintelligence.com",
-        "mordor.askus@mordorintelligence.com"
+        "saideepthi.bitra@mordorintelligence.com",
+        "aditya.soni@mordorintelligence.com",
+        "partners@mordorintelligence.com"
       ],
       "contactHints": [
         "https://www.mordorintelligence.com/about-us/media",
@@ -295,7 +309,13 @@
         "https://mugepackage-gif.github.io/muge-packaging-resources/p1-ai-cited-source-editor-outreach-pack-2026-06-14.html",
         "https://mugepackage-gif.github.io/muge-packaging-resources/p1-top3-editor-request-drafts-2026-06-14.html",
         "https://mugepackaging.com",
-        "https://mugepackaging.com/products"
+        "https://mugepackaging.com/products",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.md",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-live-fact-block-citation-response-pack-2026-06-14.json",
+        "https://mugepackaging.com/products/paper-tubes",
+        "https://mugepackaging.com/products/folding-gift-box",
+        "https://mugepackaging.com/products/cosmetic-packaging"
       ],
       "evidenceFields": {
         "submittedAt": "",
@@ -375,6 +395,512 @@
           "reachable": true,
           "title": "Middle East And Africa Single-use Plastic Packaging Companies - Top Players' List",
           "bytes": 82288,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-06-14_alibaba_com_editor_request",
+      "rank": 101,
+      "host": "alibaba.com",
+      "currentStatus": "ready_manual_form",
+      "submissionStatus": "not_submitted",
+      "sendAllowed": false,
+      "submitAllowed": false,
+      "recipientEmails": [],
+      "contactHints": [
+        "https://www.alibaba.com/product-detail/Middle-East-fashion-perfume-packaging-box_1600234545335.html",
+        "https://alibaba.com/contact",
+        "https://www.alibaba.com/contact",
+        "https://alibaba.com/contact-us",
+        "https://www.alibaba.com/contact-us",
+        "https://alibaba.com/contacts",
+        "https://www.alibaba.com/contacts",
+        "https://alibaba.com/about-us"
+      ],
+      "matchedQueries": [
+        "luxury gift box supplier"
+      ],
+      "publicEvidenceToAttach": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/top-ai-cited-source-action-queue-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+        "https://mugepackaging.com",
+        "https://mugepackaging.com/products"
+      ],
+      "evidenceFields": {
+        "submittedAt": "",
+        "submittedBy": "",
+        "platformUrl": "",
+        "confirmationUrl": "",
+        "confirmationEmailSubject": "",
+        "screenshotPath": "",
+        "statusAfterSubmit": "not_submitted",
+        "nextRecheckDate": ""
+      },
+      "probes": [
+        {
+          "url": "https://www.alibaba.com/product-detail/Middle-East-fashion-perfume-packaging-box_1600234545335.html",
+          "finalUrl": "https://www.alibaba.com/product-detail/Middle-East-fashion-perfume-packaging-box_1600234545335.html",
+          "status": 200,
+          "reachable": true,
+          "title": "",
+          "bytes": 3812,
+          "hasContactSignal": false,
+          "hasPaidSignal": false,
+          "hasVerificationSignal": false,
+          "error": ""
+        },
+        {
+          "url": "https://alibaba.com/contact",
+          "finalUrl": "https://error.alibaba.com/error404.htm",
+          "status": 200,
+          "reachable": true,
+          "title": "404-Error",
+          "bytes": 264673,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": false,
+          "error": ""
+        },
+        {
+          "url": "https://www.alibaba.com/contact",
+          "finalUrl": "https://error.alibaba.com/error404.htm",
+          "status": 200,
+          "reachable": true,
+          "title": "404-Error",
+          "bytes": 264673,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": false,
+          "error": ""
+        },
+        {
+          "url": "https://alibaba.com/contact-us",
+          "finalUrl": "https://error.alibaba.com/error404.htm",
+          "status": 200,
+          "reachable": true,
+          "title": "404-Error",
+          "bytes": 264684,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": false,
+          "error": ""
+        },
+        {
+          "url": "https://www.alibaba.com/contact-us",
+          "finalUrl": "https://error.alibaba.com/error404.htm",
+          "status": 200,
+          "reachable": true,
+          "title": "404-Error",
+          "bytes": 264683,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": false,
+          "error": ""
+        },
+        {
+          "url": "https://www.alibaba.com/product-detail/Middle-East-fashion-perfume-packaging-box_1600234545335.html",
+          "finalUrl": "https://www.alibaba.com/product-detail/Middle-East-fashion-perfume-packaging-box_1600234545335.html",
+          "status": 200,
+          "reachable": true,
+          "title": "",
+          "bytes": 3524,
+          "hasContactSignal": false,
+          "hasPaidSignal": false,
+          "hasVerificationSignal": false,
+          "error": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-06-14_dataintelo_com_editor_request",
+      "rank": 101,
+      "host": "dataintelo.com",
+      "currentStatus": "needs_manual_research",
+      "submissionStatus": "not_submitted",
+      "sendAllowed": false,
+      "submitAllowed": false,
+      "recipientEmails": [],
+      "contactHints": [],
+      "matchedQueries": [
+        "luxury gift box supplier"
+      ],
+      "publicEvidenceToAttach": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/top-ai-cited-source-action-queue-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+        "https://mugepackaging.com",
+        "https://mugepackaging.com/products"
+      ],
+      "evidenceFields": {
+        "submittedAt": "",
+        "submittedBy": "",
+        "platformUrl": "",
+        "confirmationUrl": "",
+        "confirmationEmailSubject": "",
+        "screenshotPath": "",
+        "statusAfterSubmit": "not_submitted",
+        "nextRecheckDate": ""
+      },
+      "probes": [
+        {
+          "url": "https://dataintelo.com/report/global-luxury-gift-boxes-market",
+          "finalUrl": "https://dataintelo.com/report/global-luxury-gift-boxes-market",
+          "status": 403,
+          "reachable": false,
+          "title": "Attention Required! | Cloudflare",
+          "bytes": 6275,
+          "hasContactSignal": false,
+          "hasPaidSignal": false,
+          "hasVerificationSignal": true,
+          "error": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-06-14_marketresearchfuture_com_editor_request",
+      "rank": 101,
+      "host": "marketresearchfuture.com",
+      "currentStatus": "ready_manual_email_or_form",
+      "submissionStatus": "not_submitted",
+      "sendAllowed": false,
+      "submitAllowed": false,
+      "recipientEmails": [
+        "info@marketresearchfuture.com",
+        "sales@marketresearchfuture.com",
+        "partner.management@marketresearchfuture.com"
+      ],
+      "contactHints": [
+        "https://www.marketresearchfuture.com/reports/rigid-box-market-37813",
+        "https://marketresearchfuture.com/contact-us",
+        "https://www.marketresearchfuture.com/contact-us",
+        "https://marketresearchfuture.com/about-us",
+        "https://www.marketresearchfuture.com/about-us"
+      ],
+      "matchedQueries": [
+        "rigid box manufacturer"
+      ],
+      "publicEvidenceToAttach": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/top-ai-cited-source-action-queue-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+        "https://mugepackaging.com",
+        "https://mugepackaging.com/products"
+      ],
+      "evidenceFields": {
+        "submittedAt": "",
+        "submittedBy": "",
+        "platformUrl": "",
+        "confirmationUrl": "",
+        "confirmationEmailSubject": "",
+        "screenshotPath": "",
+        "statusAfterSubmit": "not_submitted",
+        "nextRecheckDate": ""
+      },
+      "probes": [
+        {
+          "url": "https://www.marketresearchfuture.com/reports/rigid-box-market-37813",
+          "finalUrl": "https://www.marketresearchfuture.com/reports/rigid-box-market-37813",
+          "status": 200,
+          "reachable": true,
+          "title": "Rigid Box Market Size, Analysis &amp; Industry Growth",
+          "bytes": 252360,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://marketresearchfuture.com/contact-us",
+          "finalUrl": "https://www.marketresearchfuture.com/contact-us",
+          "status": 200,
+          "reachable": true,
+          "title": "Market Research Future - Contact Us",
+          "bytes": 164495,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://www.marketresearchfuture.com/contact-us",
+          "finalUrl": "https://www.marketresearchfuture.com/contact-us",
+          "status": 200,
+          "reachable": true,
+          "title": "Market Research Future - Contact Us",
+          "bytes": 164495,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://marketresearchfuture.com/about-us",
+          "finalUrl": "https://www.marketresearchfuture.com/about-us",
+          "status": 200,
+          "reachable": true,
+          "title": "About Us | Market Research Future",
+          "bytes": 140236,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://www.marketresearchfuture.com/about-us",
+          "finalUrl": "https://www.marketresearchfuture.com/about-us",
+          "status": 200,
+          "reachable": true,
+          "title": "About Us | Market Research Future",
+          "bytes": 140236,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://www.marketresearchfuture.com/reports/rigid-box-market-37813",
+          "finalUrl": "https://www.marketresearchfuture.com/reports/rigid-box-market-37813",
+          "status": 200,
+          "reachable": true,
+          "title": "Rigid Box Market Size, Analysis &amp; Industry Growth",
+          "bytes": 252360,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-06-14_packagingmarketinsights_com_editor_request",
+      "rank": 101,
+      "host": "packagingmarketinsights.com",
+      "currentStatus": "ready_manual_form",
+      "submissionStatus": "not_submitted",
+      "sendAllowed": false,
+      "submitAllowed": false,
+      "recipientEmails": [],
+      "contactHints": [
+        "https://packagingmarketinsights.com/vision/insights/customized-packaging-market/middle-east-and-africa",
+        "https://packagingmarketinsights.com/contact-us",
+        "https://www.packagingmarketinsights.com/contact-us",
+        "https://packagingmarketinsights.com/vision/insights/customized-packaging-market/middle-east-and-africa",
+        "https://packagingmarketinsights.com/contact-us",
+        "https://www.packagingmarketinsights.com/contact-us",
+        "https://packagingmarketinsights.com/about-us",
+        "https://www.packagingmarketinsights.com/about-us",
+        "https://packagingmarketinsights.com/media",
+        "https://www.packagingmarketinsights.com/media"
+      ],
+      "matchedQueries": [
+        "custom packaging manufacturer"
+      ],
+      "publicEvidenceToAttach": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/top-ai-cited-source-action-queue-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+        "https://mugepackaging.com",
+        "https://mugepackaging.com/products"
+      ],
+      "evidenceFields": {
+        "submittedAt": "",
+        "submittedBy": "",
+        "platformUrl": "",
+        "confirmationUrl": "",
+        "confirmationEmailSubject": "",
+        "screenshotPath": "",
+        "statusAfterSubmit": "not_submitted",
+        "nextRecheckDate": ""
+      },
+      "probes": [
+        {
+          "url": "https://packagingmarketinsights.com/vision/insights/customized-packaging-market/middle-east-and-africa",
+          "finalUrl": "https://packagingmarketinsights.com/vision/insights/customized-packaging-market/middle-east-and-africa",
+          "status": 200,
+          "reachable": true,
+          "title": "Middle East And Africa Customized Packaging Market Size, Share & Trends Report By 2034",
+          "bytes": 171278,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://packagingmarketinsights.com/contact-us",
+          "finalUrl": "https://packagingmarketinsights.com/contact-us",
+          "status": 200,
+          "reachable": true,
+          "title": "Contact US Packaging Market Insights",
+          "bytes": 47234,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://www.packagingmarketinsights.com/contact-us",
+          "finalUrl": "https://www.packagingmarketinsights.com/contact-us",
+          "status": 200,
+          "reachable": true,
+          "title": "Contact US Packaging Market Insights",
+          "bytes": 47234,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://packagingmarketinsights.com/vision/insights/customized-packaging-market/middle-east-and-africa",
+          "finalUrl": "https://packagingmarketinsights.com/vision/insights/customized-packaging-market/middle-east-and-africa",
+          "status": 200,
+          "reachable": true,
+          "title": "Middle East And Africa Customized Packaging Market Size, Share & Trends Report By 2034",
+          "bytes": 171278,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://packagingmarketinsights.com/contact-us",
+          "finalUrl": "https://packagingmarketinsights.com/contact-us",
+          "status": 200,
+          "reachable": true,
+          "title": "Contact US Packaging Market Insights",
+          "bytes": 47234,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://packagingmarketinsights.com/vision/insights/customized-packaging-market/middle-east-and-africa",
+          "finalUrl": "https://packagingmarketinsights.com/vision/insights/customized-packaging-market/middle-east-and-africa",
+          "status": 200,
+          "reachable": true,
+          "title": "Middle East And Africa Customized Packaging Market Size, Share & Trends Report By 2034",
+          "bytes": 171278,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-06-14_towardspackaging_com_editor_request",
+      "rank": 101,
+      "host": "towardspackaging.com",
+      "currentStatus": "ready_manual_email_or_form",
+      "submissionStatus": "not_submitted",
+      "sendAllowed": false,
+      "submitAllowed": false,
+      "recipientEmails": [
+        "sales@towardspackaging.com"
+      ],
+      "contactHints": [
+        "https://www.towardspackaging.com/insights/rigid-box-market-sizing",
+        "https://towardspackaging.com/contact",
+        "https://www.towardspackaging.com/contact",
+        "https://towardspackaging.com/contact-us",
+        "https://www.towardspackaging.com/contact-us",
+        "https://towardspackaging.com/contacts",
+        "https://www.towardspackaging.com/contacts",
+        "https://towardspackaging.com/about-us"
+      ],
+      "matchedQueries": [
+        "rigid box manufacturer"
+      ],
+      "publicEvidenceToAttach": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/top-ai-cited-source-action-queue-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-live-fact-block-citation-response-pack-2026-06-14.html",
+        "https://mugepackaging.com",
+        "https://mugepackaging.com/products"
+      ],
+      "evidenceFields": {
+        "submittedAt": "",
+        "submittedBy": "",
+        "platformUrl": "",
+        "confirmationUrl": "",
+        "confirmationEmailSubject": "",
+        "screenshotPath": "",
+        "statusAfterSubmit": "not_submitted",
+        "nextRecheckDate": ""
+      },
+      "probes": [
+        {
+          "url": "https://www.towardspackaging.com/insights/rigid-box-market-sizing",
+          "finalUrl": "https://www.towardspackaging.com/insights/rigid-box-market-sizing",
+          "status": 200,
+          "reachable": true,
+          "title": "Rigid Box Market Size and Trends 2026-35",
+          "bytes": 161217,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://towardspackaging.com/contact",
+          "finalUrl": "https://www.towardspackaging.com/searchDataset.php?q=contact",
+          "status": 200,
+          "reachable": true,
+          "title": "Towards Packaging - Packaging Knowledge Services",
+          "bytes": 26189,
+          "hasContactSignal": true,
+          "hasPaidSignal": false,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://www.towardspackaging.com/contact",
+          "finalUrl": "https://www.towardspackaging.com/contact",
+          "status": 200,
+          "reachable": true,
+          "title": "Towards Packaging - Packaging Knowledge Services",
+          "bytes": 26189,
+          "hasContactSignal": true,
+          "hasPaidSignal": false,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://towardspackaging.com/contact-us",
+          "finalUrl": "https://www.towardspackaging.com/contact-us.php",
+          "status": 200,
+          "reachable": true,
+          "title": "Contact Us - Towards Packaging",
+          "bytes": 90230,
+          "hasContactSignal": true,
+          "hasPaidSignal": false,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://www.towardspackaging.com/contact-us",
+          "finalUrl": "https://www.towardspackaging.com/contact-us",
+          "status": 200,
+          "reachable": true,
+          "title": "Contact Us - Towards Packaging",
+          "bytes": 90230,
+          "hasContactSignal": true,
+          "hasPaidSignal": false,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://www.towardspackaging.com/insights/rigid-box-market-sizing",
+          "finalUrl": "https://www.towardspackaging.com/insights/rigid-box-market-sizing",
+          "status": 200,
+          "reachable": true,
+          "title": "Rigid Box Market Size and Trends 2026-35",
+          "bytes": 161217,
           "hasContactSignal": true,
           "hasPaidSignal": true,
           "hasVerificationSignal": true,
