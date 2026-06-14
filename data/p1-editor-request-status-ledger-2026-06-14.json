@@ -1,0 +1,386 @@
+{
+  "generated_at": "2026-06-14T02:04:00.273Z",
+  "title": "MUGE PACKAGING P1 Editor Request Status Ledger",
+  "source_queue_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/提交队列/2026-06-14_P1编辑请求提交队列_MUGE.json",
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-editor-request-status-ledger-2026-06-14.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-editor-request-status-ledger-2026-06-14.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-editor-request-status-ledger-2026-06-14.json"
+  },
+  "policy": "This ledger verifies public contact paths only. It does not send emails, submit forms, pay for listings, or make unverified claims.",
+  "summary": {
+    "total_items": 3,
+    "ready_manual_email_or_form": 3,
+    "ready_manual_email": 0,
+    "ready_manual_form": 0,
+    "needs_manual_research": 0,
+    "blocked_paid_or_verification_review": 0,
+    "reachable_probe_urls": 18,
+    "total_probe_urls": 19,
+    "auto_send_allowed": 0,
+    "auto_submit_allowed": 0
+  },
+  "items": [
+    {
+      "id": "2026-06-14_futuremarketinsights_com_editor_request",
+      "rank": 1,
+      "host": "futuremarketinsights.com",
+      "currentStatus": "ready_manual_email_or_form",
+      "submissionStatus": "not_submitted",
+      "sendAllowed": false,
+      "submitAllowed": false,
+      "recipientEmails": [
+        "sales@futuremarketinsights.com"
+      ],
+      "contactHints": [
+        "https://www.futuremarketinsights.com/about-us",
+        "https://www.futuremarketinsights.com/page/social-media-research",
+        "https://www.futuremarketinsights.com/contacts",
+        "https://www.futuremarketinsights.com/reports/sample/rep-gb-4944",
+        "mailto:sales@futuremarketinsights.com",
+        "https://www.futuremarketinsights.com/reports/sample/rep-gb-11926"
+      ],
+      "matchedQueries": [
+        "luxury gift box supplier",
+        "rigid box manufacturer"
+      ],
+      "publicEvidenceToAttach": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p1-ai-cited-source-editor-outreach-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p1-top3-editor-request-drafts-2026-06-14.html",
+        "https://mugepackaging.com",
+        "https://mugepackaging.com/products"
+      ],
+      "evidenceFields": {
+        "submittedAt": "",
+        "submittedBy": "",
+        "platformUrl": "",
+        "confirmationUrl": "",
+        "confirmationEmailSubject": "",
+        "screenshotPath": "",
+        "statusAfterSubmit": "not_submitted",
+        "nextRecheckDate": ""
+      },
+      "probes": [
+        {
+          "url": "https://www.futuremarketinsights.com/about-us",
+          "finalUrl": "https://www.futuremarketinsights.com/about-us",
+          "status": 200,
+          "reachable": true,
+          "title": "Future Market Insights: Market Research & Consulting | Newark, DE",
+          "bytes": 47478,
+          "hasContactSignal": true,
+          "hasPaidSignal": false,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://www.futuremarketinsights.com/page/social-media-research",
+          "finalUrl": "https://www.futuremarketinsights.com/page/social-media-research",
+          "status": 200,
+          "reachable": true,
+          "title": "Social Media Monitor and Market Research Services | Future Market Insights",
+          "bytes": 40483,
+          "hasContactSignal": true,
+          "hasPaidSignal": false,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://www.futuremarketinsights.com/contacts",
+          "finalUrl": "https://www.futuremarketinsights.com/contacts",
+          "status": 200,
+          "reachable": true,
+          "title": "Contact Us | Future Market Insights (FMI)",
+          "bytes": 38584,
+          "hasContactSignal": true,
+          "hasPaidSignal": false,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://www.futuremarketinsights.com/reports/sample/rep-gb-4944",
+          "finalUrl": "https://www.futuremarketinsights.com/reports/sample/rep-gb-4944",
+          "status": 200,
+          "reachable": true,
+          "title": "Gift Boxes Market - Sample | Future Market Insights",
+          "bytes": 40978,
+          "hasContactSignal": true,
+          "hasPaidSignal": false,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "mailto:sales@futuremarketinsights.com",
+          "finalUrl": "",
+          "status": 0,
+          "reachable": false,
+          "title": "",
+          "bytes": 0,
+          "hasContactSignal": false,
+          "hasPaidSignal": false,
+          "hasVerificationSignal": false,
+          "error": "TypeError: fetch failed"
+        },
+        {
+          "url": "https://www.futuremarketinsights.com/reports/gift-boxes-market",
+          "finalUrl": "https://www.futuremarketinsights.com/reports/gift-boxes-market",
+          "status": 200,
+          "reachable": true,
+          "title": "Gift Boxes Market | Global Market Analysis Report - 2036",
+          "bytes": 159138,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://www.futuremarketinsights.com/reports/luxury-rigid-boxes-market",
+          "finalUrl": "https://www.futuremarketinsights.com/reports/luxury-rigid-boxes-market",
+          "status": 200,
+          "reachable": true,
+          "title": "Luxury Rigid Box Market | Global Market Analysis Report - 2036",
+          "bytes": 183550,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-06-14_fortunebusinessinsights_com_editor_request",
+      "rank": 2,
+      "host": "fortunebusinessinsights.com",
+      "currentStatus": "ready_manual_email_or_form",
+      "submissionStatus": "not_submitted",
+      "sendAllowed": false,
+      "submitAllowed": false,
+      "recipientEmails": [
+        "sales@fortunebusinessinsights.com"
+      ],
+      "contactHints": [
+        "https://www.fortunebusinessinsights.com/enquiry/request-sample-pdf/rigid-box-market-116196",
+        "https://www.fortunebusinessinsights.com/enquiry/request-free-sample-info/116196",
+        "https://www.fortunebusinessinsights.com/enquiry/request-free-sample/rigid-box-market-116196?utm_medium=bar",
+        "https://www.fortunebusinessinsights.com/enquiry/speak-to-analyst/rigid-box-market-116196?utm_medium=pie",
+        "https://www.fortunebusinessinsights.com/enquiry/request-free-sample/rigid-box-market-116196?utm_medium=map",
+        "https://www.fortunebusinessinsights.com/enquiry/customization/rigid-box-market-116196?utm_medium=seg",
+        "https://www.fortunebusinessinsights.com/enquiry/speak-to-analyst/rigid-box-market-116196",
+        "https://www.fortunebusinessinsights.com/enquiry/request-sample-book/rigid-box-market-116196"
+      ],
+      "matchedQueries": [
+        "rigid box manufacturer"
+      ],
+      "publicEvidenceToAttach": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p1-ai-cited-source-editor-outreach-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p1-top3-editor-request-drafts-2026-06-14.html",
+        "https://mugepackaging.com",
+        "https://mugepackaging.com/products"
+      ],
+      "evidenceFields": {
+        "submittedAt": "",
+        "submittedBy": "",
+        "platformUrl": "",
+        "confirmationUrl": "",
+        "confirmationEmailSubject": "",
+        "screenshotPath": "",
+        "statusAfterSubmit": "not_submitted",
+        "nextRecheckDate": ""
+      },
+      "probes": [
+        {
+          "url": "https://www.fortunebusinessinsights.com/enquiry/request-sample-pdf/rigid-box-market-116196",
+          "finalUrl": "https://www.fortunebusinessinsights.com/enquiry/request-sample-pdf/rigid-box-market-116196",
+          "status": 200,
+          "reachable": true,
+          "title": "Request Sample Pdf - Rigid Box Market Size, Share | Forecast Report [2026-2034]",
+          "bytes": 78352,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://www.fortunebusinessinsights.com/enquiry/request-free-sample-info/116196",
+          "finalUrl": "https://www.fortunebusinessinsights.com/enquiry/request-free-sample-info/116196",
+          "status": 200,
+          "reachable": true,
+          "title": "Request Free Sample Info - Rigid Box Market Size, Share | Forecast Report [2026-2034]",
+          "bytes": 78387,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://www.fortunebusinessinsights.com/enquiry/request-free-sample/rigid-box-market-116196?utm_medium=bar",
+          "finalUrl": "https://www.fortunebusinessinsights.com/enquiry/request-free-sample/rigid-box-market-116196?utm_medium=bar",
+          "status": 200,
+          "reachable": true,
+          "title": "Request Free Sample - Rigid Box Market Size, Share | Forecast Report [2026-2034]",
+          "bytes": 78380,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://www.fortunebusinessinsights.com/enquiry/speak-to-analyst/rigid-box-market-116196?utm_medium=pie",
+          "finalUrl": "https://www.fortunebusinessinsights.com/enquiry/speak-to-analyst/rigid-box-market-116196?utm_medium=pie",
+          "status": 200,
+          "reachable": true,
+          "title": "Speak To Analyst - Rigid Box Market Size, Share | Forecast Report [2026-2034]",
+          "bytes": 78338,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://www.fortunebusinessinsights.com/enquiry/request-free-sample/rigid-box-market-116196?utm_medium=map",
+          "finalUrl": "https://www.fortunebusinessinsights.com/enquiry/request-free-sample/rigid-box-market-116196?utm_medium=map",
+          "status": 200,
+          "reachable": true,
+          "title": "Request Free Sample - Rigid Box Market Size, Share | Forecast Report [2026-2034]",
+          "bytes": 78380,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://www.fortunebusinessinsights.com/rigid-box-market-116196",
+          "finalUrl": "https://www.fortunebusinessinsights.com/rigid-box-market-116196",
+          "status": 200,
+          "reachable": true,
+          "title": "Rigid Box Market Size, Share | Forecast Report [2026-2034]",
+          "bytes": 278584,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-06-14_mordorintelligence_com_editor_request",
+      "rank": 3,
+      "host": "mordorintelligence.com",
+      "currentStatus": "ready_manual_email_or_form",
+      "submissionStatus": "not_submitted",
+      "sendAllowed": false,
+      "submitAllowed": false,
+      "recipientEmails": [
+        "info@mordorintelligence.com",
+        "media@mordorintelligence.com",
+        "mordor.askus@mordorintelligence.com"
+      ],
+      "contactHints": [
+        "https://www.mordorintelligence.com/about-us/media",
+        "https://www.mordorintelligence.com/market-analysis/technology-media-and-telecom",
+        "https://www.mordorintelligence.com/about-us",
+        "https://www.mordorintelligence.com/about-us/our-team",
+        "https://www.mordorintelligence.com/about-us/clients",
+        "https://www.mordorintelligence.com/about-us/partners",
+        "https://www.mordorintelligence.com/about-us/csr",
+        "https://www.mordorintelligence.com/about-us/awards"
+      ],
+      "matchedQueries": [
+        "custom packaging manufacturer"
+      ],
+      "publicEvidenceToAttach": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-editor-request-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p1-ai-cited-source-editor-outreach-pack-2026-06-14.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/p1-top3-editor-request-drafts-2026-06-14.html",
+        "https://mugepackaging.com",
+        "https://mugepackaging.com/products"
+      ],
+      "evidenceFields": {
+        "submittedAt": "",
+        "submittedBy": "",
+        "platformUrl": "",
+        "confirmationUrl": "",
+        "confirmationEmailSubject": "",
+        "screenshotPath": "",
+        "statusAfterSubmit": "not_submitted",
+        "nextRecheckDate": ""
+      },
+      "probes": [
+        {
+          "url": "https://www.mordorintelligence.com/about-us/media",
+          "finalUrl": "https://www.mordorintelligence.com/about-us/media",
+          "status": 200,
+          "reachable": true,
+          "title": "Mordor Intelligence in the News | Media Coverage",
+          "bytes": 141076,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://www.mordorintelligence.com/market-analysis/technology-media-and-telecom",
+          "finalUrl": "https://www.mordorintelligence.com/market-analysis/technology-media-and-telecom",
+          "status": 200,
+          "reachable": true,
+          "title": "Technology, Media and Telecom Research Reports and Market Analysis",
+          "bytes": 511478,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": false,
+          "error": ""
+        },
+        {
+          "url": "https://www.mordorintelligence.com/about-us",
+          "finalUrl": "https://www.mordorintelligence.com/about-us",
+          "status": 200,
+          "reachable": true,
+          "title": "About Us | Mordor Intelligence",
+          "bytes": 205606,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://www.mordorintelligence.com/about-us/our-team",
+          "finalUrl": "https://www.mordorintelligence.com/about-us/our-team",
+          "status": 200,
+          "reachable": true,
+          "title": "Meet the Team | Mordor Intelligence",
+          "bytes": 184711,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://www.mordorintelligence.com/about-us/clients",
+          "finalUrl": "https://www.mordorintelligence.com/about-us/clients",
+          "status": 200,
+          "reachable": true,
+          "title": "Trusted by Global Clients | Mordor Intelligence",
+          "bytes": 382845,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        },
+        {
+          "url": "https://www.mordorintelligence.com/industry-reports/mea-single-use-plastic-packaging-market/companies",
+          "finalUrl": "https://www.mordorintelligence.com/industry-reports/mea-single-use-plastic-packaging-market/companies",
+          "status": 200,
+          "reachable": true,
+          "title": "Middle East And Africa Single-use Plastic Packaging Companies - Top Players' List",
+          "bytes": 82288,
+          "hasContactSignal": true,
+          "hasPaidSignal": true,
+          "hasVerificationSignal": true,
+          "error": ""
+        }
+      ]
+    }
+  ]
+}

@@ -126,3 +126,8 @@ These public resources do not claim fixed MOQ, fixed lead time, lowest price, cu
 ## P1 Editor Request Action Queue - 2026-06-14
 - [Action queue](https://mugepackage-gif.github.io/muge-packaging-resources/p1-editor-request-action-queue-2026-06-14.html): controlled submission queue for P1 AI-cited sources. JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-editor-request-action-queue-2026-06-14.json
 <!-- MUGE-P1-EDITOR-REQUEST-ACTION-QUEUE-2026-06-14:end -->
+
+<!-- MUGE-P1-EDITOR-REQUEST-STATUS-LEDGER-2026-06-14:start -->
+## P1 Editor Request Status Ledger - 2026-06-14
+- [Status ledger](https://mugepackage-gif.github.io/muge-packaging-resources/p1-editor-request-status-ledger-2026-06-14.html): verified public contact paths and submission status fields for P1 AI-cited sources. JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-editor-request-status-ledger-2026-06-14.json
+<!-- MUGE-P1-EDITOR-REQUEST-STATUS-LEDGER-2026-06-14:end -->
