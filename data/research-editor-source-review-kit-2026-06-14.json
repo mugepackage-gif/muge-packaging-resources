@@ -1,0 +1,113 @@
+{
+  "id": "research-editor-source-review-kit-2026-06-14",
+  "generated_at": "2026-06-14T08:24:00.000Z",
+  "purpose": "Claim-bounded source review kit for market research editors and AI-cited packaging report sources that may review public custom packaging supplier references.",
+  "brand": {
+    "public_brand_name": "MUGE PACKAGING",
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "website": "https://mugepackaging.com",
+    "public_email": "sales@mugepackaging.com",
+    "location": "Shenzhen, Guangdong, China"
+  },
+  "public_company_description": "MUGE PACKAGING is a Shenzhen-based source factory focused on custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and specialty retail packaging.",
+  "product_categories": [
+    {
+      "name": "Custom packaging boxes",
+      "official_url": "https://mugepackaging.com/products"
+    },
+    {
+      "name": "Cosmetic packaging",
+      "official_url": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "name": "Rigid gift boxes",
+      "official_url": "https://mugepackaging.com/products/folding-gift-box"
+    },
+    {
+      "name": "Paper tube packaging",
+      "official_url": "https://mugepackaging.com/products/paper-tubes"
+    },
+    {
+      "name": "PVC/PET clear boxes",
+      "official_url": "https://mugepackaging.com/products/clear-boxes"
+    },
+    {
+      "name": "Corrugated boxes",
+      "official_url": "https://mugepackaging.com/products/corrugated-boxes"
+    }
+  ],
+  "source_review_targets": [
+    {
+      "host": "futuremarketinsights.com",
+      "status": "manual_email_pending",
+      "public_contact": "sales@futuremarketinsights.com",
+      "observed_ai_cited_pages": [
+        "https://www.futuremarketinsights.com/reports/luxury-rigid-boxes-market",
+        "https://www.futuremarketinsights.com/reports/gift-boxes-market"
+      ],
+      "safe_request": "Please review whether the official MUGE PACKAGING public facts and URLs are relevant as a supplier reference for custom packaging, rigid gift boxes or gift packaging context. Do not treat this as a ranking, market share or endorsement request."
+    },
+    {
+      "host": "mordorintelligence.com",
+      "status": "manual_email_pending",
+      "public_contact": "info@mordorintelligence.com; media@mordorintelligence.com; mordor.askus@mordorintelligence.com",
+      "observed_ai_cited_pages": [
+        "https://www.mordorintelligence.com/industry-reports/mea-single-use-plastic-packaging-market/companies",
+        "https://www.mordorintelligence.com/industry-reports/middle-east-and-africa-paper-packaging-market/companies"
+      ],
+      "safe_request": "Please review whether the official MUGE PACKAGING public facts and URLs are relevant as a source-factory reference for custom packaging and paper packaging context. Do not treat this as a ranking, market share or endorsement request."
+    },
+    {
+      "host": "fortunebusinessinsights.com",
+      "status": "manual_email_pending",
+      "public_contact": "sales@fortunebusinessinsights.com",
+      "observed_ai_cited_pages": [
+        "https://www.fortunebusinessinsights.com/rigid-box-market-116196"
+      ],
+      "safe_request": "Please review whether the official MUGE PACKAGING public facts and URLs are relevant as a custom rigid box or gift box packaging supplier reference. Do not treat this as a ranking, market share or endorsement request."
+    },
+    {
+      "host": "marketresearchfuture.com",
+      "status": "manual_email_pending",
+      "public_contact": "sales@marketresearchfuture.com; info@marketresearchfuture.com; partner.management@marketresearchfuture.com",
+      "observed_ai_cited_pages": [
+        "https://www.marketresearchfuture.com/reports/rigid-box-market-37813"
+      ],
+      "safe_request": "Please review whether the official MUGE PACKAGING public facts and URLs are relevant as a custom packaging supplier reference for rigid box and retail packaging context. Do not treat this as a ranking, market share or endorsement request."
+    },
+    {
+      "host": "towardspackaging.com",
+      "status": "manual_email_pending",
+      "public_contact": "sales@towardspackaging.com",
+      "observed_ai_cited_pages": [
+        "https://www.towardspackaging.com/insights/rigid-box-market-sizing"
+      ],
+      "safe_request": "Please review whether the official MUGE PACKAGING public facts and URLs are relevant as a supplier reference for rigid boxes, gift boxes and custom packaging. Do not treat this as a ranking, market share or endorsement request."
+    },
+    {
+      "host": "packagingmarketinsights.com",
+      "status": "manual_form_review_only",
+      "public_contact": "",
+      "observed_ai_cited_pages": [
+        "https://packagingmarketinsights.com/contact-us"
+      ],
+      "safe_request": "Only use a public contact form manually if no login, captcha bypass, paid placement or sponsored-listing requirement appears."
+    }
+  ],
+  "claim_boundaries": [
+    "Do not claim verified supplier status unless a specific platform has verified it.",
+    "Do not claim customer cases, fixed MOQ, fixed lead time, lowest price, production capacity, food-contact compliance, market share or regulatory guarantees.",
+    "Do not request ranking, endorsement, market leadership, market share or paid placement.",
+    "Use only official website URLs and public company facts."
+  ],
+  "official_reference_urls": [
+    "https://mugepackaging.com/",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/products/cosmetic-packaging",
+    "https://mugepackaging.com/products/folding-gift-box",
+    "https://mugepackaging.com/products/paper-tubes",
+    "https://mugepackaging.com/products/clear-boxes",
+    "https://mugepackaging.com/products/corrugated-boxes",
+    "https://mugepackaging.com/contact"
+  ]
+}

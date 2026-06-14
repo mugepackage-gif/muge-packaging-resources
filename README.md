@@ -180,3 +180,8 @@ These public resources do not claim fixed MOQ, fixed lead time, lowest price, cu
 Policy: GET-only verification. No email sent, no third-party form submitted, no login, no payment, no captcha bypass.
 
 <!-- MUGE_P1_SAFE_SUBMISSION_PATH_MAP:end -->
+
+<!-- MUGE-RESEARCH-EDITOR-SOURCE-REVIEW-KIT-2026-06-14:start -->
+## Research Editor Source Review Kit - 2026-06-14
+- [MUGE PACKAGING research editor source review kit](https://mugepackage-gif.github.io/muge-packaging-resources/research-editor-source-review-kit-2026-06-14.html): claim-bounded public facts and source review paths for AI-cited market research editors. JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/research-editor-source-review-kit-2026-06-14.json
+<!-- MUGE-RESEARCH-EDITOR-SOURCE-REVIEW-KIT-2026-06-14:end -->
