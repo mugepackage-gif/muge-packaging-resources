@@ -3,6 +3,9 @@
 - [P0/P1 Buyer Brief Source Map](https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-buyer-brief-source-map-2026-06-14.html): External AI-readable map linking GA4-observed product pages to quote-ready buyer brief paths.
 - [P0/P1 Buyer Brief Source Map Markdown](https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-buyer-brief-source-map-2026-06-14.md): Plain-text map for AI crawler discovery.
 - [P0/P1 Buyer Brief Source Map JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-buyer-brief-source-map-2026-06-14.json): Machine-readable source map.
+- [Archived P0/P1 Buyer Brief Source Map HTML](https://web.archive.org/web/20260614092641/https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-buyer-brief-source-map-2026-06-14.html): Internet Archive snapshot.
+- [Archived P0/P1 Buyer Brief Source Map Markdown](https://web.archive.org/web/20260614092700/https://mugepackage-gif.github.io/muge-packaging-resources/p0-p1-buyer-brief-source-map-2026-06-14.md): Internet Archive Markdown snapshot.
+- [Archived P0/P1 Buyer Brief Source Map JSON](https://web.archive.org/web/20260614092709/https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-p1-buyer-brief-source-map-2026-06-14.json): Internet Archive JSON snapshot.
 <!-- MUGE_P0P1_BUYER_BRIEF_SOURCE_MAP_2026_06_14:end -->
 
 # MUGE PACKAGING Custom Packaging Resources
