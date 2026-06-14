@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-13T18:40:35.430Z",
+  "generated_at": "2026-06-14T04:26:44.051Z",
   "title": "MUGE PACKAGING Perplexity Cited Source Response Map for Europe and Middle East Buyers",
   "purpose": "Map the sources Perplexity currently cites for custom packaging supplier questions, then connect each query to official MUGE PACKAGING pages and safe external-growth actions.",
-  "source_acceptance_json": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/n8n执行数据/2026-06-14_0239_MUGE_v6_1_SerpAPI_Perplexity真实可见度验收.json",
+  "source_acceptance_json": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/n8n执行数据/2026-06-14_1225_MUGE_v6_1_SerpAPI_Perplexity真实可见度验收.json",
   "official_brand": "MUGE PACKAGING",
   "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "official_website": "https://mugepackaging.com",
@@ -12,7 +12,7 @@
     "ai_citation_matches": 0,
     "google_top20_visible": 0,
     "serpapi_errors": 5,
-    "unique_cited_hosts": 35
+    "unique_cited_hosts": 31
   },
   "rows": [
     {
@@ -24,16 +24,6 @@
       },
       "officialMugeTarget": "https://mugepackaging.com/products",
       "observedCitations": [
-        {
-          "url": "https://kbcpackaging.com/custom-packaging-turkey/",
-          "host": "kbcpackaging.com",
-          "sourceType": "supplier_or_industry_page"
-        },
-        {
-          "url": "https://ensun.io/search/custom-box/saudi-arabia",
-          "host": "ensun.io",
-          "sourceType": "directory_or_supplier_database"
-        },
         {
           "url": "https://meidupacking.en.made-in-china.com/product/MmFpnLVGaqhi/China-Customized-Middle-East-High-Quality-Gift-Box-Packaging-Set-Makaron-Food-Packaging-Box.html",
           "host": "meidupacking.en.made-in-china.com",
@@ -50,8 +40,13 @@
           "sourceType": "supplier_or_industry_page"
         },
         {
-          "url": "https://www.hlunpack.com/top-corrugated-cardboard-boxes-suppliers-and-manufacturers-in-europe.html",
-          "host": "hlunpack.com",
+          "url": "https://www.sunecobox.com/cardboard-boxes-dubai-uae/",
+          "host": "sunecobox.com",
+          "sourceType": "supplier_or_industry_page"
+        },
+        {
+          "url": "https://packlane.com",
+          "host": "packlane.com",
           "sourceType": "supplier_or_industry_page"
         },
         {
@@ -67,6 +62,11 @@
         {
           "url": "https://custompack.eu",
           "host": "custompack.eu",
+          "sourceType": "supplier_or_industry_page"
+        },
+        {
+          "url": "https://www.good-package.com/middle-eastern-style-white-cardboard-dessert-packaging-box-manufacturer-custom.html",
+          "host": "good-package.com",
           "sourceType": "supplier_or_industry_page"
         }
       ]
@@ -91,18 +91,13 @@
           "sourceType": "supplier_or_industry_page"
         },
         {
-          "url": "https://www.avient.com/center-of-excellence/avient-europe-middle-east-and-africa",
-          "host": "avient.com",
-          "sourceType": "supplier_or_industry_page"
+          "url": "https://ensun.io/search/custom-packaging/saudi-arabia",
+          "host": "ensun.io",
+          "sourceType": "directory_or_supplier_database"
         },
         {
-          "url": "https://sgcolmar.com/en/custom-packaging-by-industry/",
-          "host": "sgcolmar.com",
-          "sourceType": "supplier_or_industry_page"
-        },
-        {
-          "url": "https://trans4mind.com/counterpoint/index-transportation/best-custom-packaging-solutions-logistics-companies-europe.html",
-          "host": "trans4mind.com",
+          "url": "https://cypackaging.net/blog-packaging-manufacturing-partner-middle-east.html",
+          "host": "cypackaging.net",
           "sourceType": "supplier_or_industry_page"
         },
         {
@@ -124,6 +119,11 @@
           "url": "https://www.internationalpaper.com/en-gb/packaging",
           "host": "internationalpaper.com",
           "sourceType": "supplier_or_industry_page"
+        },
+        {
+          "url": "https://packagingmarketinsights.com/vision/insights/custom-packaging-boxes-market/middle-east-and-africa",
+          "host": "packagingmarketinsights.com",
+          "sourceType": "market_report_or_statistics"
         }
       ]
     },
@@ -137,9 +137,9 @@
       "officialMugeTarget": "https://mugepackaging.com/products",
       "observedCitations": [
         {
-          "url": "https://ensun.io/search/custom-packaging/saudi-arabia",
-          "host": "ensun.io",
-          "sourceType": "directory_or_supplier_database"
+          "url": "https://kbcpackaging.com/custom-packaging-turkey/",
+          "host": "kbcpackaging.com",
+          "sourceType": "supplier_or_industry_page"
         },
         {
           "url": "https://mepackages.com",
@@ -147,28 +147,28 @@
           "sourceType": "supplier_or_industry_page"
         },
         {
-          "url": "https://centuryprint.eu/en/",
-          "host": "centuryprint.eu",
+          "url": "https://cypackaging.net/blog-packaging-distributor-partner-middle-east.html",
+          "host": "cypackaging.net",
           "sourceType": "supplier_or_industry_page"
         },
         {
-          "url": "https://www.europages.co.uk/companies/custom%20packaging%20-%20companies.html",
-          "host": "europages.co.uk",
+          "url": "https://www.berlinpackaging.com/insights/news/berlin-packaging-expands-in-eastern-europe-with-the-acquisition-of-eps",
+          "host": "berlinpackaging.com",
+          "sourceType": "supplier_or_industry_page"
+        },
+        {
+          "url": "https://meidupacking.en.made-in-china.com/product/MmFpnLVGaqhi/China-Customized-Middle-East-High-Quality-Gift-Box-Packaging-Set-Makaron-Food-Packaging-Box.html",
+          "host": "meidupacking.en.made-in-china.com",
           "sourceType": "directory_or_supplier_database"
+        },
+        {
+          "url": "https://www.mordorintelligence.com/industry-reports/middle-east-and-africa-paper-packaging-market/companies",
+          "host": "mordorintelligence.com",
+          "sourceType": "market_report_or_statistics"
         },
         {
           "url": "https://www.tobepacking.com/en/",
           "host": "tobepacking.com",
-          "sourceType": "supplier_or_industry_page"
-        },
-        {
-          "url": "https://packhelp.com",
-          "host": "packhelp.com",
-          "sourceType": "supplier_or_industry_page"
-        },
-        {
-          "url": "https://packaging-alliance.eu",
-          "host": "packaging-alliance.eu",
           "sourceType": "supplier_or_industry_page"
         },
         {
@@ -177,13 +177,8 @@
           "sourceType": "supplier_or_industry_page"
         },
         {
-          "url": "https://habllen.com/products",
-          "host": "habllen.com",
-          "sourceType": "supplier_or_industry_page"
-        },
-        {
-          "url": "https://www.packagingmea.com",
-          "host": "packagingmea.com",
+          "url": "https://www.internationalpaper.com/en-gb/packaging",
+          "host": "internationalpaper.com",
           "sourceType": "supplier_or_industry_page"
         }
       ]
@@ -264,6 +259,11 @@
           "sourceType": "supplier_or_industry_page"
         },
         {
+          "url": "https://meidupacking.en.made-in-china.com/product/MmFpnLVGaqhi/China-Customized-Middle-East-High-Quality-Gift-Box-Packaging-Set-Makaron-Food-Packaging-Box.html",
+          "host": "meidupacking.en.made-in-china.com",
+          "sourceType": "directory_or_supplier_database"
+        },
+        {
           "url": "https://dataintelo.com/report/global-luxury-gift-boxes-market",
           "host": "dataintelo.com",
           "sourceType": "market_report_or_statistics"
@@ -279,9 +279,9 @@
           "sourceType": "social_or_user_generated_reference"
         },
         {
-          "url": "https://yishengcz.en.made-in-china.com/product/CptrhsyHrjVg/China-Luxury-Middle-East-Magnetic-Gift-Packaging-Box-for-Imported-Dates-Sweets-Chocolate-Packing-with-Custom-Logo.html",
-          "host": "yishengcz.en.made-in-china.com",
-          "sourceType": "directory_or_supplier_database"
+          "url": "https://www.alibaba.com/product-detail/Middle-East-fashion-perfume-packaging-box_1600234545335.html",
+          "host": "alibaba.com",
+          "sourceType": "supplier_or_industry_page"
         },
         {
           "url": "https://www.futuremarketinsights.com/reports/gift-boxes-market",
@@ -297,11 +297,6 @@
           "url": "https://www.instagram.com/reel/DUaP3mCDCCy/",
           "host": "instagram.com",
           "sourceType": "social_or_user_generated_reference"
-        },
-        {
-          "url": "https://www.alibaba.com/product-detail/Wholesale-Luxury-Gift-Packaging-Boxes-Magnet_1600795781342.html",
-          "host": "alibaba.com",
-          "sourceType": "supplier_or_industry_page"
         }
       ]
     }
@@ -316,8 +311,8 @@
         "https://kbcpackaging.com/gift-box-supplier-turkey/"
       ],
       "queries": [
-        "custom packaging boxes",
         "custom packaging manufacturer",
+        "custom packaging supplier",
         "rigid box manufacturer",
         "luxury gift box supplier"
       ]
@@ -348,25 +343,26 @@
       ]
     },
     {
-      "host": "centuryprint.eu",
-      "count": 2,
+      "host": "meidupacking.en.made-in-china.com",
+      "count": 3,
       "sampleUrls": [
-        "https://centuryprint.eu/en/"
+        "https://meidupacking.en.made-in-china.com/product/MmFpnLVGaqhi/China-Customized-Middle-East-High-Quality-Gift-Box-Packaging-Set-Makaron-Food-Packaging-Box.html"
       ],
       "queries": [
         "custom packaging boxes",
-        "custom packaging supplier"
+        "custom packaging supplier",
+        "luxury gift box supplier"
       ]
     },
     {
-      "host": "ensun.io",
+      "host": "cypackaging.net",
       "count": 2,
       "sampleUrls": [
-        "https://ensun.io/search/custom-box/saudi-arabia",
-        "https://ensun.io/search/custom-packaging/saudi-arabia"
+        "https://cypackaging.net/blog-packaging-manufacturing-partner-middle-east.html",
+        "https://cypackaging.net/blog-packaging-distributor-partner-middle-east.html"
       ],
       "queries": [
-        "custom packaging boxes",
+        "custom packaging manufacturer",
         "custom packaging supplier"
       ]
     },
@@ -383,10 +379,33 @@
       ]
     },
     {
+      "host": "internationalpaper.com",
+      "count": 2,
+      "sampleUrls": [
+        "https://www.internationalpaper.com/en-gb/packaging"
+      ],
+      "queries": [
+        "custom packaging manufacturer",
+        "custom packaging supplier"
+      ]
+    },
+    {
       "host": "mepackages.com",
       "count": 2,
       "sampleUrls": [
         "https://mepackages.com"
+      ],
+      "queries": [
+        "custom packaging manufacturer",
+        "custom packaging supplier"
+      ]
+    },
+    {
+      "host": "mordorintelligence.com",
+      "count": 2,
+      "sampleUrls": [
+        "https://www.mordorintelligence.com/industry-reports/mea-single-use-plastic-packaging-market/companies",
+        "https://www.mordorintelligence.com/industry-reports/middle-east-and-africa-paper-packaging-market/companies"
       ],
       "queries": [
         "custom packaging manufacturer",
@@ -408,7 +427,7 @@
       "host": "alibaba.com",
       "count": 1,
       "sampleUrls": [
-        "https://www.alibaba.com/product-detail/Wholesale-Luxury-Gift-Packaging-Boxes-Magnet_1600795781342.html"
+        "https://www.alibaba.com/product-detail/Middle-East-fashion-perfume-packaging-box_1600234545335.html"
       ],
       "queries": [
         "luxury gift box supplier"
@@ -425,13 +444,23 @@
       ]
     },
     {
-      "host": "avient.com",
+      "host": "berlinpackaging.com",
       "count": 1,
       "sampleUrls": [
-        "https://www.avient.com/center-of-excellence/avient-europe-middle-east-and-africa"
+        "https://www.berlinpackaging.com/insights/news/berlin-packaging-expands-in-eastern-europe-with-the-acquisition-of-eps"
       ],
       "queries": [
-        "custom packaging manufacturer"
+        "custom packaging supplier"
+      ]
+    },
+    {
+      "host": "centuryprint.eu",
+      "count": 1,
+      "sampleUrls": [
+        "https://centuryprint.eu/en/"
+      ],
+      "queries": [
+        "custom packaging boxes"
       ]
     },
     {
@@ -455,6 +484,16 @@
       ]
     },
     {
+      "host": "ensun.io",
+      "count": 1,
+      "sampleUrls": [
+        "https://ensun.io/search/custom-packaging/saudi-arabia"
+      ],
+      "queries": [
+        "custom packaging manufacturer"
+      ]
+    },
+    {
       "host": "epackfactory.com",
       "count": 1,
       "sampleUrls": [
@@ -462,16 +501,6 @@
       ],
       "queries": [
         "rigid box manufacturer"
-      ]
-    },
-    {
-      "host": "europages.co.uk",
-      "count": 1,
-      "sampleUrls": [
-        "https://www.europages.co.uk/companies/custom%20packaging%20-%20companies.html"
-      ],
-      "queries": [
-        "custom packaging supplier"
       ]
     },
     {
@@ -485,13 +514,13 @@
       ]
     },
     {
-      "host": "habllen.com",
+      "host": "good-package.com",
       "count": 1,
       "sampleUrls": [
-        "https://habllen.com/products"
+        "https://www.good-package.com/middle-eastern-style-white-cardboard-dessert-packaging-box-manufacturer-custom.html"
       ],
       "queries": [
-        "custom packaging supplier"
+        "custom packaging boxes"
       ]
     },
     {
@@ -505,16 +534,6 @@
       ]
     },
     {
-      "host": "hlunpack.com",
-      "count": 1,
-      "sampleUrls": [
-        "https://www.hlunpack.com/top-corrugated-cardboard-boxes-suppliers-and-manufacturers-in-europe.html"
-      ],
-      "queries": [
-        "custom packaging boxes"
-      ]
-    },
-    {
       "host": "hongdu-paper.com",
       "count": 1,
       "sampleUrls": [
@@ -522,16 +541,6 @@
       ],
       "queries": [
         "luxury gift box supplier"
-      ]
-    },
-    {
-      "host": "internationalpaper.com",
-      "count": 1,
-      "sampleUrls": [
-        "https://www.internationalpaper.com/en-gb/packaging"
-      ],
-      "queries": [
-        "custom packaging manufacturer"
       ]
     },
     {
@@ -565,26 +574,6 @@
       ]
     },
     {
-      "host": "meidupacking.en.made-in-china.com",
-      "count": 1,
-      "sampleUrls": [
-        "https://meidupacking.en.made-in-china.com/product/MmFpnLVGaqhi/China-Customized-Middle-East-High-Quality-Gift-Box-Packaging-Set-Makaron-Food-Packaging-Box.html"
-      ],
-      "queries": [
-        "custom packaging boxes"
-      ]
-    },
-    {
-      "host": "mordorintelligence.com",
-      "count": 1,
-      "sampleUrls": [
-        "https://www.mordorintelligence.com/industry-reports/mea-single-use-plastic-packaging-market/companies"
-      ],
-      "queries": [
-        "custom packaging manufacturer"
-      ]
-    },
-    {
       "host": "pack.ly",
       "count": 1,
       "sampleUrls": [
@@ -595,43 +584,23 @@
       ]
     },
     {
-      "host": "packaging-alliance.eu",
+      "host": "packagingmarketinsights.com",
       "count": 1,
       "sampleUrls": [
-        "https://packaging-alliance.eu"
-      ],
-      "queries": [
-        "custom packaging supplier"
-      ]
-    },
-    {
-      "host": "packagingmea.com",
-      "count": 1,
-      "sampleUrls": [
-        "https://www.packagingmea.com"
-      ],
-      "queries": [
-        "custom packaging supplier"
-      ]
-    },
-    {
-      "host": "packhelp.com",
-      "count": 1,
-      "sampleUrls": [
-        "https://packhelp.com"
-      ],
-      "queries": [
-        "custom packaging supplier"
-      ]
-    },
-    {
-      "host": "sgcolmar.com",
-      "count": 1,
-      "sampleUrls": [
-        "https://sgcolmar.com/en/custom-packaging-by-industry/"
+        "https://packagingmarketinsights.com/vision/insights/custom-packaging-boxes-market/middle-east-and-africa"
       ],
       "queries": [
         "custom packaging manufacturer"
+      ]
+    },
+    {
+      "host": "packlane.com",
+      "count": 1,
+      "sampleUrls": [
+        "https://packlane.com"
+      ],
+      "queries": [
+        "custom packaging boxes"
       ]
     },
     {
@@ -645,6 +614,16 @@
       ]
     },
     {
+      "host": "sunecobox.com",
+      "count": 1,
+      "sampleUrls": [
+        "https://www.sunecobox.com/cardboard-boxes-dubai-uae/"
+      ],
+      "queries": [
+        "custom packaging boxes"
+      ]
+    },
+    {
       "host": "towardspackaging.com",
       "count": 1,
       "sampleUrls": [
@@ -652,26 +631,6 @@
       ],
       "queries": [
         "rigid box manufacturer"
-      ]
-    },
-    {
-      "host": "trans4mind.com",
-      "count": 1,
-      "sampleUrls": [
-        "https://trans4mind.com/counterpoint/index-transportation/best-custom-packaging-solutions-logistics-companies-europe.html"
-      ],
-      "queries": [
-        "custom packaging manufacturer"
-      ]
-    },
-    {
-      "host": "yishengcz.en.made-in-china.com",
-      "count": 1,
-      "sampleUrls": [
-        "https://yishengcz.en.made-in-china.com/product/CptrhsyHrjVg/China-Luxury-Middle-East-Magnetic-Gift-Packaging-Box-for-Imported-Dates-Sweets-Chocolate-Packing-with-Custom-Logo.html"
-      ],
-      "queries": [
-        "luxury gift box supplier"
       ]
     }
   ],
