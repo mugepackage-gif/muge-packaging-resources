@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-13T17:16:01.714Z",
+  "generated_at": "2026-06-13T18:52:03.405Z",
   "title": "MUGE PACKAGING AI-Cited Source Editor Request Pack",
-  "source_acceptance_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/n8n执行数据/2026-06-14_0103_MUGE_v6_1_SerpAPI_Perplexity真实可见度验收.json",
+  "source_acceptance_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/n8n执行数据/2026-06-14_0239_MUGE_v6_1_SerpAPI_Perplexity真实可见度验收.json",
   "latest_visibility_summary": {
     "googleTop20Visible": 0,
     "serpApiErrors": 5,
@@ -44,11 +44,11 @@
     "https://mugepackage-gif.github.io/muge-packaging-resources/perplexity-cited-source-response-map-europe-middle-east-2026-06-14.html"
   ],
   "cited_source_summary": {
-    "unique_hosts": 32,
+    "unique_hosts": 35,
     "p0_hosts": 2,
-    "p1_hosts": 10,
-    "p2_hosts": 18,
-    "p3_hosts": 2
+    "p1_hosts": 8,
+    "p2_hosts": 24,
+    "p3_hosts": 1
   },
   "cited_sources": [
     {
@@ -62,11 +62,10 @@
       ],
       "matchedQueries": [
         "custom packaging boxes",
-        "custom packaging manufacturer",
         "custom packaging supplier"
       ],
       "citationCount": 2,
-      "queryCount": 3
+      "queryCount": 2
     },
     {
       "host": "europages.co.uk",
@@ -74,15 +73,13 @@
       "priority": "P0",
       "action": "Prepare or update a public MUGE PACKAGING profile using only verified public fields, official website links and claim-bounded product categories.",
       "citedUrls": [
-        "https://www.europages.co.uk/companies/custom%20packaging%20-%20companies.html",
-        "https://www.europages.co.uk/companies/turkey/custom%20boxes.html"
+        "https://www.europages.co.uk/companies/custom%20packaging%20-%20companies.html"
       ],
       "matchedQueries": [
-        "custom packaging boxes",
         "custom packaging supplier"
       ],
-      "citationCount": 2,
-      "queryCount": 2
+      "citationCount": 1,
+      "queryCount": 1
     },
     {
       "host": "futuremarketinsights.com",
@@ -106,7 +103,7 @@
       "priority": "P1",
       "action": "Prepare or update a public MUGE PACKAGING profile using only verified public fields, official website links and claim-bounded product categories.",
       "citedUrls": [
-        "https://www.alibaba.com/product-detail/Middle-East-fashion-perfume-packaging-box_1600234545335.html"
+        "https://www.alibaba.com/product-detail/Wholesale-Luxury-Gift-Packaging-Boxes-Magnet_1600795781342.html"
       ],
       "matchedQueries": [
         "luxury gift box supplier"
@@ -185,40 +182,12 @@
       "queryCount": 1
     },
     {
-      "host": "packagingmarketinsights.com",
-      "type": "market_research_or_industry_report",
-      "priority": "P1",
-      "action": "Prepare an editor/source request asking the publisher to review MUGE PACKAGING as a custom packaging reference source, without claiming ranking, market share or verified supplier status.",
-      "citedUrls": [
-        "https://packagingmarketinsights.com/vision/insights/custom-packaging-boxes-market/middle-east-and-africa"
-      ],
-      "matchedQueries": [
-        "custom packaging manufacturer"
-      ],
-      "citationCount": 1,
-      "queryCount": 1
-    },
-    {
       "host": "towardspackaging.com",
       "type": "market_research_or_industry_report",
       "priority": "P1",
       "action": "Prepare an editor/source request asking the publisher to review MUGE PACKAGING as a custom packaging reference source, without claiming ranking, market share or verified supplier status.",
       "citedUrls": [
         "https://www.towardspackaging.com/insights/rigid-box-market-sizing"
-      ],
-      "matchedQueries": [
-        "rigid box manufacturer"
-      ],
-      "citationCount": 1,
-      "queryCount": 1
-    },
-    {
-      "host": "viapromo.co.uk",
-      "type": "directory_or_marketplace",
-      "priority": "P1",
-      "action": "Prepare or update a public MUGE PACKAGING profile using only verified public fields, official website links and claim-bounded product categories.",
-      "citedUrls": [
-        "https://viapromo.co.uk/european-rigid-box-manufacturer-packaging-producer/"
       ],
       "matchedQueries": [
         "rigid box manufacturer"
@@ -238,11 +207,12 @@
       ],
       "matchedQueries": [
         "custom packaging boxes",
+        "custom packaging manufacturer",
         "luxury gift box supplier",
         "rigid box manufacturer"
       ],
       "citationCount": 3,
-      "queryCount": 3
+      "queryCount": 4
     },
     {
       "host": "jimeipack.com",
@@ -261,22 +231,6 @@
       "queryCount": 3
     },
     {
-      "host": "cypackaging.net",
-      "type": "competitor_or_supplier_reference",
-      "priority": "P2",
-      "action": "Do not contact as a target customer. Use only as a structure benchmark for buyer questions, page layout, category wording and citation patterns.",
-      "citedUrls": [
-        "https://cypackaging.net/blog-packaging-distributor-partner-middle-east.html",
-        "https://cypackaging.net/blog-packaging-manufacturing-partner-middle-east.html"
-      ],
-      "matchedQueries": [
-        "custom packaging manufacturer",
-        "custom packaging supplier"
-      ],
-      "citationCount": 2,
-      "queryCount": 2
-    },
-    {
       "host": "centuryprint.eu",
       "type": "competitor_or_supplier_reference",
       "priority": "P2",
@@ -287,21 +241,6 @@
       "matchedQueries": [
         "custom packaging boxes",
         "custom packaging supplier"
-      ],
-      "citationCount": 1,
-      "queryCount": 2
-    },
-    {
-      "host": "meidupacking.en.made-in-china.com",
-      "type": "other_reference",
-      "priority": "P2",
-      "action": "Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list.",
-      "citedUrls": [
-        "https://meidupacking.en.made-in-china.com/product/MmFpnLVGaqhi/China-Customized-Middle-East-High-Quality-Gift-Box-Packaging-Set-Makaron-Food-Packaging-Box.html"
-      ],
-      "matchedQueries": [
-        "custom packaging boxes",
-        "luxury gift box supplier"
       ],
       "citationCount": 1,
       "queryCount": 2
@@ -346,6 +285,34 @@
       ],
       "matchedQueries": [
         "luxury gift box supplier"
+      ],
+      "citationCount": 1,
+      "queryCount": 1
+    },
+    {
+      "host": "avient.com",
+      "type": "other_reference",
+      "priority": "P2",
+      "action": "Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list.",
+      "citedUrls": [
+        "https://www.avient.com/center-of-excellence/avient-europe-middle-east-and-africa"
+      ],
+      "matchedQueries": [
+        "custom packaging manufacturer"
+      ],
+      "citationCount": 1,
+      "queryCount": 1
+    },
+    {
+      "host": "custompack.eu",
+      "type": "other_reference",
+      "priority": "P2",
+      "action": "Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list.",
+      "citedUrls": [
+        "https://custompack.eu"
+      ],
+      "matchedQueries": [
+        "custom packaging boxes"
       ],
       "citationCount": 1,
       "queryCount": 1
@@ -449,6 +416,34 @@
       "queryCount": 1
     },
     {
+      "host": "jialanpackage.com",
+      "type": "other_reference",
+      "priority": "P2",
+      "action": "Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list.",
+      "citedUrls": [
+        "https://www.jialanpackage.com/top-10-rigid-box-manufacturers-in-china-2026-Guide"
+      ],
+      "matchedQueries": [
+        "rigid box manufacturer"
+      ],
+      "citationCount": 1,
+      "queryCount": 1
+    },
+    {
+      "host": "meidupacking.en.made-in-china.com",
+      "type": "other_reference",
+      "priority": "P2",
+      "action": "Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list.",
+      "citedUrls": [
+        "https://meidupacking.en.made-in-china.com/product/MmFpnLVGaqhi/China-Customized-Middle-East-High-Quality-Gift-Box-Packaging-Set-Makaron-Food-Packaging-Box.html"
+      ],
+      "matchedQueries": [
+        "custom packaging boxes"
+      ],
+      "citationCount": 1,
+      "queryCount": 1
+    },
+    {
       "host": "pack.ly",
       "type": "competitor_or_supplier_reference",
       "priority": "P2",
@@ -458,6 +453,20 @@
       ],
       "matchedQueries": [
         "custom packaging boxes"
+      ],
+      "citationCount": 1,
+      "queryCount": 1
+    },
+    {
+      "host": "packagingmea.com",
+      "type": "other_reference",
+      "priority": "P2",
+      "action": "Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list.",
+      "citedUrls": [
+        "https://www.packagingmea.com"
+      ],
+      "matchedQueries": [
+        "custom packaging supplier"
       ],
       "citationCount": 1,
       "queryCount": 1
@@ -477,6 +486,20 @@
       "queryCount": 1
     },
     {
+      "host": "sgcolmar.com",
+      "type": "other_reference",
+      "priority": "P2",
+      "action": "Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list.",
+      "citedUrls": [
+        "https://sgcolmar.com/en/custom-packaging-by-industry/"
+      ],
+      "matchedQueries": [
+        "custom packaging manufacturer"
+      ],
+      "citationCount": 1,
+      "queryCount": 1
+    },
+    {
       "host": "smurfitwestrock.com",
       "type": "competitor_or_supplier_reference",
       "priority": "P2",
@@ -486,6 +509,34 @@
       ],
       "matchedQueries": [
         "rigid box manufacturer"
+      ],
+      "citationCount": 1,
+      "queryCount": 1
+    },
+    {
+      "host": "trans4mind.com",
+      "type": "other_reference",
+      "priority": "P2",
+      "action": "Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list.",
+      "citedUrls": [
+        "https://trans4mind.com/counterpoint/index-transportation/best-custom-packaging-solutions-logistics-companies-europe.html"
+      ],
+      "matchedQueries": [
+        "custom packaging manufacturer"
+      ],
+      "citationCount": 1,
+      "queryCount": 1
+    },
+    {
+      "host": "yishengcz.en.made-in-china.com",
+      "type": "other_reference",
+      "priority": "P2",
+      "action": "Review manually before action. If it has a public submission/editor channel, use the safe public profile and official source list.",
+      "citedUrls": [
+        "https://yishengcz.en.made-in-china.com/product/CptrhsyHrjVg/China-Luxury-Middle-East-Magnetic-Gift-Packaging-Box-for-Imported-Dates-Sweets-Chocolate-Packing-with-Custom-Logo.html"
+      ],
+      "matchedQueries": [
+        "luxury gift box supplier"
       ],
       "citationCount": 1,
       "queryCount": 1
@@ -506,20 +557,6 @@
       ],
       "citationCount": 3,
       "queryCount": 2
-    },
-    {
-      "host": "youtube.com",
-      "type": "social_or_video_reference",
-      "priority": "P3",
-      "action": "Use only for content format observation. Do not auto-comment, auto-follow, auto-DM or claim endorsement.",
-      "citedUrls": [
-        "https://www.youtube.com/watch?v=zOfl4Ry2IBI"
-      ],
-      "matchedQueries": [
-        "custom packaging manufacturer"
-      ],
-      "citationCount": 1,
-      "queryCount": 1
     }
   ]
 }
