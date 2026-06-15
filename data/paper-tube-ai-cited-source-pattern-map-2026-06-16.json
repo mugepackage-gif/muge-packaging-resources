@@ -1,0 +1,667 @@
+{
+  "generatedAt": "2026-06-15T20:55:06.979Z",
+  "sourceValidationJson": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/n8n执行数据/20260616_0452_MUGE_PaperTube新资产自然可见度与引用源复验.json",
+  "title": "Paper Tube AI-Cited Source Pattern Map",
+  "slug": "paper-tube-ai-cited-source-pattern-map-2026-06-16",
+  "official": "https://mugepackaging.com/products/paper-tubes",
+  "guide": "https://mugepackaging.com/blog/paper-tube-packaging-buying-guide",
+  "newAsset": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-third-party-directory-entry-gate-2026-06-16.html",
+  "sourceEntryPack": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-ai-cited-source-entry-pack-2026-06-16.html",
+  "summary": {
+    "perplexityTotal": 8,
+    "perplexityOk": 8,
+    "mugeMentioned": 2,
+    "officialMentioned": 0,
+    "newAssetMentioned": 0,
+    "sourceEntryPackMentioned": 0,
+    "serpTotal": 6,
+    "serpOk": 0,
+    "serpMugeTop20": 0
+  },
+  "opportunities": [
+    {
+      "host": "custompapertubes.com",
+      "count": 7,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which suppliers should Europe buyers compare for custom paper tube packaging?",
+        "Which suppliers should Middle East buyers compare for custom paper tube packaging?",
+        "Who supplies custom paper tube packaging for candles, tea, cosmetics and specialty retail products?",
+        "What should buyers check before sourcing custom paper tube packaging?",
+        "Which public sources mention MUGE PACKAGING paper tube packaging?",
+        "Find public sources for MUGE PACKAGING custom paper tube packaging.",
+        "Which packaging suppliers have public source assets for paper tube packaging buyer questions?"
+      ],
+      "urls": [
+        "https://www.custompapertubes.com"
+      ],
+      "category": "竞品/同行引用结构",
+      "priority": "P2",
+      "action": "只分析页面结构与被引用信息块，不联系、不当客户。"
+    },
+    {
+      "host": "papertube.co",
+      "count": 7,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which suppliers should Europe buyers compare for custom paper tube packaging?",
+        "Which suppliers should Middle East buyers compare for custom paper tube packaging?",
+        "What should buyers check before sourcing custom paper tube packaging?",
+        "Which public sources mention MUGE PACKAGING paper tube packaging?",
+        "Find public sources for MUGE PACKAGING custom paper tube packaging.",
+        "Which packaging suppliers have public source assets for paper tube packaging buyer questions?",
+        "What third-party directory or supplier profile gates exist for paper tube packaging suppliers?"
+      ],
+      "urls": [
+        "https://papertube.co",
+        "https://papertube.co/blogs/down-the-tubes/quick-start-guide-tubes-101"
+      ],
+      "category": "竞品/同行引用结构",
+      "priority": "P2",
+      "action": "只分析页面结构与被引用信息块，不联系、不当客户。"
+    },
+    {
+      "host": "allpapertube.com",
+      "count": 5,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which suppliers should Europe buyers compare for custom paper tube packaging?",
+        "Which suppliers should Middle East buyers compare for custom paper tube packaging?",
+        "Who supplies custom paper tube packaging for candles, tea, cosmetics and specialty retail products?",
+        "What should buyers check before sourcing custom paper tube packaging?",
+        "Which public sources mention MUGE PACKAGING paper tube packaging?"
+      ],
+      "urls": [
+        "https://www.allpapertube.com/global-paper-tube-packaging-supplier/",
+        "https://www.allpapertube.com",
+        "https://www.allpapertube.com/paper-tube-packaging-for-herbal-teas-a-sustainable-choice-for-your-brand/",
+        "https://www.allpapertube.com/complete-guide-to-custom-paper-tube-packaging/"
+      ],
+      "category": "竞品/同行引用结构",
+      "priority": "P2",
+      "action": "只分析页面结构与被引用信息块，不联系、不当客户。"
+    },
+    {
+      "host": "paper-tubes.net",
+      "count": 5,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which suppliers should Middle East buyers compare for custom paper tube packaging?",
+        "Find public sources for MUGE PACKAGING custom paper tube packaging.",
+        "Which packaging suppliers have public source assets for paper tube packaging buyer questions?",
+        "What third-party directory or supplier profile gates exist for paper tube packaging suppliers?"
+      ],
+      "urls": [
+        "https://paper-tubes.net/custom-paper-tubes-inc/",
+        "https://paper-tubes.net",
+        "https://paper-tubes.net/paper-tubes/"
+      ],
+      "category": "竞品/同行引用结构",
+      "priority": "P2",
+      "action": "只分析页面结构与被引用信息块，不联系、不当客户。"
+    },
+    {
+      "host": "premiumcustomboxes.com",
+      "count": 5,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which suppliers should Middle East buyers compare for custom paper tube packaging?",
+        "Who supplies custom paper tube packaging for candles, tea, cosmetics and specialty retail products?",
+        "What should buyers check before sourcing custom paper tube packaging?",
+        "Which public sources mention MUGE PACKAGING paper tube packaging?",
+        "Find public sources for MUGE PACKAGING custom paper tube packaging."
+      ],
+      "urls": [
+        "https://www.premiumcustomboxes.com/custom-paper-tubes/",
+        "https://www.premiumcustomboxes.com/black-paper-candle-tubes/"
+      ],
+      "category": "竞品/同行引用结构",
+      "priority": "P2",
+      "action": "只分析页面结构与被引用信息块，不联系、不当客户。"
+    },
+    {
+      "host": "roastar.com",
+      "count": 5,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which suppliers should Europe buyers compare for custom paper tube packaging?",
+        "Which suppliers should Middle East buyers compare for custom paper tube packaging?",
+        "Which public sources mention MUGE PACKAGING paper tube packaging?",
+        "Find public sources for MUGE PACKAGING custom paper tube packaging.",
+        "Which packaging suppliers have public source assets for paper tube packaging buyer questions?"
+      ],
+      "urls": [
+        "https://www.roastar.com/products/custom-paper-tubes"
+      ],
+      "category": "待复核外部来源",
+      "priority": "P2",
+      "action": "检查是否有公开编辑/资料修正入口，不能自动提交账号资料。"
+    },
+    {
+      "host": "customcardboardtube.com",
+      "count": 3,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Who supplies custom paper tube packaging for candles, tea, cosmetics and specialty retail products?",
+        "Which public sources mention MUGE PACKAGING paper tube packaging?",
+        "Which packaging suppliers have public source assets for paper tube packaging buyer questions?"
+      ],
+      "urls": [
+        "https://customcardboardtube.com/custom-candle-packaging-boxes/",
+        "https://customcardboardtube.com/the-journey-of-paper-tube-packaging-from-manufacturing-to-market/",
+        "https://customcardboardtube.com"
+      ],
+      "category": "竞品/同行引用结构",
+      "priority": "P2",
+      "action": "只分析页面结构与被引用信息块，不联系、不当客户。"
+    },
+    {
+      "host": "custompapertubeboxes.com",
+      "count": 3,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which suppliers should Europe buyers compare for custom paper tube packaging?",
+        "Which suppliers should Middle East buyers compare for custom paper tube packaging?",
+        "What should buyers check before sourcing custom paper tube packaging?"
+      ],
+      "urls": [
+        "https://custompapertubeboxes.com",
+        "https://custompapertubeboxes.com/custom-paper-tube-packaging-cost-what-affects-the-price-most/"
+      ],
+      "category": "竞品/同行引用结构",
+      "priority": "P2",
+      "action": "只分析页面结构与被引用信息块，不联系、不当客户。"
+    },
+    {
+      "host": "ipacku.com",
+      "count": 3,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Who supplies custom paper tube packaging for candles, tea, cosmetics and specialty retail products?",
+        "What should buyers check before sourcing custom paper tube packaging?",
+        "Find public sources for MUGE PACKAGING custom paper tube packaging."
+      ],
+      "urls": [
+        "https://ipacku.com/product/candle-tube-packaging/",
+        "https://ipacku.com/custom-paper-tubes/",
+        "https://ipacku.com/product/paper-tube-packaging/"
+      ],
+      "category": "待复核外部来源",
+      "priority": "P2",
+      "action": "检查是否有公开编辑/资料修正入口，不能自动提交账号资料。"
+    },
+    {
+      "host": "thecustomboxes.com",
+      "count": 3,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which suppliers should Europe buyers compare for custom paper tube packaging?",
+        "Which suppliers should Middle East buyers compare for custom paper tube packaging?",
+        "Find public sources for MUGE PACKAGING custom paper tube packaging."
+      ],
+      "urls": [
+        "https://www.thecustomboxes.com/custom-paper-tubes/"
+      ],
+      "category": "竞品/同行引用结构",
+      "priority": "P2",
+      "action": "只分析页面结构与被引用信息块，不联系、不当客户。"
+    },
+    {
+      "host": "tycoonpackaging.com",
+      "count": 3,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Who supplies custom paper tube packaging for candles, tea, cosmetics and specialty retail products?",
+        "Which public sources mention MUGE PACKAGING paper tube packaging?",
+        "Find public sources for MUGE PACKAGING custom paper tube packaging."
+      ],
+      "urls": [
+        "https://tycoonpackaging.com/product/paper-tube-candle-packaging/",
+        "https://tycoonpackaging.com/product/black-paper-tubes-packaging/",
+        "https://tycoonpackaging.com/product/custom-printed-paper-tubes-with-logo-usa/"
+      ],
+      "category": "竞品/同行引用结构",
+      "priority": "P2",
+      "action": "只分析页面结构与被引用信息块，不联系、不当客户。"
+    },
+    {
+      "host": "cardboardtubemanufacturers.com",
+      "count": 2,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which packaging suppliers have public source assets for paper tube packaging buyer questions?",
+        "What third-party directory or supplier profile gates exist for paper tube packaging suppliers?"
+      ],
+      "urls": [
+        "https://cardboardtubemanufacturers.com"
+      ],
+      "category": "竞品/同行引用结构",
+      "priority": "P2",
+      "action": "只分析页面结构与被引用信息块，不联系、不当客户。"
+    },
+    {
+      "host": "balkanpaper.com",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which suppliers should Europe buyers compare for custom paper tube packaging?"
+      ],
+      "urls": [
+        "https://balkanpaper.com/paper-tube/"
+      ],
+      "category": "竞品/同行引用结构",
+      "priority": "P2",
+      "action": "只分析页面结构与被引用信息块，不联系、不当客户。"
+    },
+    {
+      "host": "better-package.com",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Who supplies custom paper tube packaging for candles, tea, cosmetics and specialty retail products?"
+      ],
+      "urls": [
+        "https://better-package.com/paper-tube/"
+      ],
+      "category": "待复核外部来源",
+      "priority": "P2",
+      "action": "检查是否有公开编辑/资料修正入口，不能自动提交账号资料。"
+    },
+    {
+      "host": "betubed.de",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which suppliers should Europe buyers compare for custom paper tube packaging?"
+      ],
+      "urls": [
+        "https://www.betubed.de/en/"
+      ],
+      "category": "竞品/同行引用结构",
+      "priority": "P2",
+      "action": "只分析页面结构与被引用信息块，不联系、不当客户。"
+    },
+    {
+      "host": "callenor.com",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which packaging suppliers have public source assets for paper tube packaging buyer questions?"
+      ],
+      "urls": [
+        "https://www.callenor.com"
+      ],
+      "category": "待复核外部来源",
+      "priority": "P2",
+      "action": "检查是否有公开编辑/资料修正入口，不能自动提交账号资料。"
+    },
+    {
+      "host": "cals.cornell.edu",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "What third-party directory or supplier profile gates exist for paper tube packaging suppliers?"
+      ],
+      "urls": [
+        "https://cals.cornell.edu/cornell-agritech/partners-institutes/cornell-food-venture-center/cfvc-regulatory-resources/packaging-supplier-list"
+      ],
+      "category": "待复核外部来源",
+      "priority": "P2",
+      "action": "检查是否有公开编辑/资料修正入口，不能自动提交账号资料。"
+    },
+    {
+      "host": "customboxesmarket.com",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which suppliers should Middle East buyers compare for custom paper tube packaging?"
+      ],
+      "urls": [
+        "https://customboxesmarket.com/eco-friendly-paper-tube/"
+      ],
+      "category": "竞品/同行引用结构",
+      "priority": "P2",
+      "action": "只分析页面结构与被引用信息块，不联系、不当客户。"
+    },
+    {
+      "host": "dobbpking.com",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "What should buyers check before sourcing custom paper tube packaging?"
+      ],
+      "urls": [
+        "https://dobbpking.com/blogs/how-to-make-paper-tube-packaging"
+      ],
+      "category": "待复核外部来源",
+      "priority": "P2",
+      "action": "检查是否有公开编辑/资料修正入口，不能自动提交账号资料。"
+    },
+    {
+      "host": "ecopackables.com",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "What should buyers check before sourcing custom paper tube packaging?"
+      ],
+      "urls": [
+        "https://www.ecopackables.com/pages/guide-to-paper-tube-packaging-options"
+      ],
+      "category": "待复核外部来源",
+      "priority": "P2",
+      "action": "检查是否有公开编辑/资料修正入口，不能自动提交账号资料。"
+    },
+    {
+      "host": "evergreenresources.com",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which public sources mention MUGE PACKAGING paper tube packaging?"
+      ],
+      "urls": [
+        "https://evergreenresources.com/products/sustainable/paper-tubes/"
+      ],
+      "category": "待复核外部来源",
+      "priority": "P2",
+      "action": "检查是否有公开编辑/资料修正入口，不能自动提交账号资料。"
+    },
+    {
+      "host": "hallpack.net",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which public sources mention MUGE PACKAGING paper tube packaging?"
+      ],
+      "urls": [
+        "https://www.hallpack.net/how-to-make-cardboard-tube-packaging.html"
+      ],
+      "category": "待复核外部来源",
+      "priority": "P2",
+      "action": "检查是否有公开编辑/资料修正入口，不能自动提交账号资料。"
+    },
+    {
+      "host": "impackedpackaging.com",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "What third-party directory or supplier profile gates exist for paper tube packaging suppliers?"
+      ],
+      "urls": [
+        "https://www.impackedpackaging.com/blog/expertise/post/6-cosmetic-tube-packaging-suppliers-to-use-for-your-next-product-launch"
+      ],
+      "category": "竞品/同行引用结构",
+      "priority": "P2",
+      "action": "只分析页面结构与被引用信息块，不联系、不当客户。"
+    },
+    {
+      "host": "jemstonetube.com",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Who supplies custom paper tube packaging for candles, tea, cosmetics and specialty retail products?"
+      ],
+      "urls": [
+        "https://jemstonetube.com/candle-tube-packaging/"
+      ],
+      "category": "竞品/同行引用结构",
+      "priority": "P2",
+      "action": "只分析页面结构与被引用信息块，不联系、不当客户。"
+    },
+    {
+      "host": "makesy.com",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Who supplies custom paper tube packaging for candles, tea, cosmetics and specialty retail products?"
+      ],
+      "urls": [
+        "https://makesy.com/products/candle-tube"
+      ],
+      "category": "待复核外部来源",
+      "priority": "P2",
+      "action": "检查是否有公开编辑/资料修正入口，不能自动提交账号资料。"
+    },
+    {
+      "host": "oxopackaging.com",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which suppliers should Europe buyers compare for custom paper tube packaging?"
+      ],
+      "urls": [
+        "https://oxopackaging.com/paper-tubes.html"
+      ],
+      "category": "竞品/同行引用结构",
+      "priority": "P2",
+      "action": "只分析页面结构与被引用信息块，不联系、不当客户。"
+    },
+    {
+      "host": "paperconverter.org",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which packaging suppliers have public source assets for paper tube packaging buyer questions?"
+      ],
+      "urls": [
+        "https://www.paperconverter.org/members.php"
+      ],
+      "category": "竞品/同行引用结构",
+      "priority": "P2",
+      "action": "只分析页面结构与被引用信息块，不联系、不当客户。"
+    },
+    {
+      "host": "petsustainability.org",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "What third-party directory or supplier profile gates exist for paper tube packaging suppliers?"
+      ],
+      "urls": [
+        "https://petsustainability.org/packaging-supplier-directory/"
+      ],
+      "category": "待复核外部来源",
+      "priority": "P2",
+      "action": "检查是否有公开编辑/资料修正入口，不能自动提交账号资料。"
+    },
+    {
+      "host": "pts-mfg.com",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "What third-party directory or supplier profile gates exist for paper tube packaging suppliers?"
+      ],
+      "urls": [
+        "https://www.pts-mfg.com"
+      ],
+      "category": "待复核外部来源",
+      "priority": "P2",
+      "action": "检查是否有公开编辑/资料修正入口，不能自动提交账号资料。"
+    },
+    {
+      "host": "publicsource.org",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which packaging suppliers have public source assets for paper tube packaging buyer questions?"
+      ],
+      "urls": [
+        "https://www.publicsource.org"
+      ],
+      "category": "待复核外部来源",
+      "priority": "P2",
+      "action": "检查是否有公开编辑/资料修正入口，不能自动提交账号资料。"
+    },
+    {
+      "host": "s204.q4cdn.com",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "What third-party directory or supplier profile gates exist for paper tube packaging suppliers?"
+      ],
+      "urls": [
+        "https://s204.q4cdn.com/332108499/files/doc_downloads/paper-packaging-supplier-list.pdf"
+      ],
+      "category": "待复核外部来源",
+      "priority": "P2",
+      "action": "检查是否有公开编辑/资料修正入口，不能自动提交账号资料。"
+    },
+    {
+      "host": "stock.adobe.com",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which packaging suppliers have public source assets for paper tube packaging buyer questions?"
+      ],
+      "urls": [
+        "https://stock.adobe.com/search?k=paper+tube+packaging"
+      ],
+      "category": "待复核外部来源",
+      "priority": "P2",
+      "action": "检查是否有公开编辑/资料修正入口，不能自动提交账号资料。"
+    },
+    {
+      "host": "szfortress.com",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which suppliers should Middle East buyers compare for custom paper tube packaging?"
+      ],
+      "urls": [
+        "https://www.szfortress.com/fortress-packaging-supply-makeup-and-cosmetics-products-paper-tube-packaging-in-beauty-world-middle-east-exhibition-trade-show-dubai-uae/"
+      ],
+      "category": "待复核外部来源",
+      "priority": "P2",
+      "action": "检查是否有公开编辑/资料修正入口，不能自动提交账号资料。"
+    },
+    {
+      "host": "thecustomizeboxes.com",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Find public sources for MUGE PACKAGING custom paper tube packaging."
+      ],
+      "urls": [
+        "https://thecustomizeboxes.com/paper-tubes"
+      ],
+      "category": "竞品/同行引用结构",
+      "priority": "P2",
+      "action": "只分析页面结构与被引用信息块，不联系、不当客户。"
+    },
+    {
+      "host": "thetubepackaging.com",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Who supplies custom paper tube packaging for candles, tea, cosmetics and specialty retail products?"
+      ],
+      "urls": [
+        "https://thetubepackaging.com"
+      ],
+      "category": "竞品/同行引用结构",
+      "priority": "P2",
+      "action": "只分析页面结构与被引用信息块，不联系、不当客户。"
+    },
+    {
+      "host": "tubitex.com",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "Which suppliers should Europe buyers compare for custom paper tube packaging?"
+      ],
+      "urls": [
+        "https://www.tubitex.com/en/"
+      ],
+      "category": "待复核外部来源",
+      "priority": "P2",
+      "action": "检查是否有公开编辑/资料修正入口，不能自动提交账号资料。"
+    },
+    {
+      "host": "zhibangpackaging.com",
+      "count": 1,
+      "sourceTypes": [
+        "Perplexity"
+      ],
+      "keywords": [
+        "What should buyers check before sourcing custom paper tube packaging?"
+      ],
+      "urls": [
+        "https://zhibangpackaging.com/design-process-and-common-considerations-for-custom-tube-packaging/"
+      ],
+      "category": "竞品/同行引用结构",
+      "priority": "P2",
+      "action": "只分析页面结构与被引用信息块，不联系、不当客户。"
+    }
+  ]
+}
