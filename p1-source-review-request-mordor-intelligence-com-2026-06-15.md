@@ -5,7 +5,7 @@ tags:
   - source-review
   - AI引用源
 created: 2026-06-15
-status: public_source_review_request_not_sent
+status: public_issue_created_no_third_party_acceptance
 ---
 
 # MUGE PACKAGING Source Review Request - mordorintelligence.com
@@ -32,7 +32,8 @@ This is not proof of third-party acceptance, backlink, ranking, endorsement, cer
 - Category: 行业报告/编辑请求
 - Perplexity citation count in latest sample: 2
 - Matched buyer questions: custom packaging manufacturer, custom packaging supplier
-- Current action: public source review evidence prepared; no automated email sent.
+- Current action: public source review evidence prepared and public GitHub tracking issue created; no automated email sent.
+- Public tracking issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/55
 
 ## Public Evidence
 
@@ -47,6 +48,19 @@ This is not proof of third-party acceptance, backlink, ranking, endorsement, cer
 
 - https://www.mordorintelligence.com/industry-reports/mea-single-use-plastic-packaging-market/companies
 - https://www.mordorintelligence.com/industry-reports/middle-east-and-africa-paper-packaging-market/companies
+
+## Live Recheck - 2026-06-15
+
+The following checks were run before creating the public tracking issue:
+
+| URL | HTTP | Observed title | MUGE mention observed |
+|---|---:|---|---|
+| https://www.mordorintelligence.com/industry-reports/mea-single-use-plastic-packaging-market/companies | 200 | Middle East And Africa Single-use Plastic Packaging Companies - Top Players' List | No |
+| https://www.mordorintelligence.com/industry-reports/middle-east-and-africa-paper-packaging-market/companies | 200 | Middle East And Africa Paper Packaging Companies - Top Players' List | No |
+
+Observed public contact emails in fetched HTML: info@mordorintelligence.com, media@mordorintelligence.com, careers@mordorintelligence.com.
+
+Important boundary: no MUGE PACKAGING mention, backlink, endorsement or acceptance was observed on the fetched Mordor Intelligence pages. This remains a source review request evidence page only.
 
 ## Request Body
 
@@ -85,4 +99,5 @@ sales@mugepackaging.com
 - No email sent by automation.
 - No third-party form submitted.
 - No login, payment or captcha bypass.
+- Public tracking issue created: https://github.com/mugepackage-gif/muge-packaging-resources/issues/55
 - This page is a public evidence landing page for manual or separately authorized source review.

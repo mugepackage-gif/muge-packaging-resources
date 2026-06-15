@@ -16,7 +16,32 @@
   "publicUrls": {
     "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-mordor-intelligence-com-2026-06-15.html",
     "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-mordor-intelligence-com-2026-06-15.md",
-    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-request-mordor-intelligence-com-2026-06-15.json"
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-request-mordor-intelligence-com-2026-06-15.json",
+    "trackingIssue": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/55"
   },
+  "liveRecheck": {
+    "checkedAt": "2026-06-15",
+    "observedMugeMention": false,
+    "pages": [
+      {
+        "url": "https://www.mordorintelligence.com/industry-reports/mea-single-use-plastic-packaging-market/companies",
+        "httpStatus": 200,
+        "title": "Middle East And Africa Single-use Plastic Packaging Companies - Top Players' List",
+        "observedMugeMention": false
+      },
+      {
+        "url": "https://www.mordorintelligence.com/industry-reports/middle-east-and-africa-paper-packaging-market/companies",
+        "httpStatus": 200,
+        "title": "Middle East And Africa Paper Packaging Companies - Top Players' List",
+        "observedMugeMention": false
+      }
+    ],
+    "observedPublicEmails": [
+      "info@mordorintelligence.com",
+      "media@mordorintelligence.com",
+      "careers@mordorintelligence.com"
+    ]
+  },
+  "status": "public_issue_created_no_third_party_acceptance",
   "boundary": "Public source review evidence only. No automated email sent, no third-party form submitted, no login, no payment and no captcha bypass."
 }
