@@ -18,6 +18,10 @@ The monitored ExportHub URL is:
 
 - https://www.exporthub.com/shenzhen-moge-technology-co-ltd/
 
+Public GitHub Issue evidence card:
+
+- https://github.com/mugepackage-gif/muge-packaging-resources/issues/53
+
 Current automated access may return HTTP 403 or human verification. Because of that, this card does not attempt an automated profile edit, login, paid action, or hidden claim. It provides claim-bounded facts for human review, editor review, or platform support review.
 
 ## Correct Public Entity Facts
