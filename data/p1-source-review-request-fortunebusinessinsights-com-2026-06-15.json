@@ -14,7 +14,24 @@
   "publicUrls": {
     "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-fortunebusinessinsights-com-2026-06-15.html",
     "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-fortunebusinessinsights-com-2026-06-15.md",
-    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-request-fortunebusinessinsights-com-2026-06-15.json"
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-request-fortunebusinessinsights-com-2026-06-15.json",
+    "trackingIssue": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/56"
   },
+  "liveRecheck": {
+    "checkedAt": "2026-06-15",
+    "observedMugeMention": false,
+    "pages": [
+      {
+        "url": "https://www.fortunebusinessinsights.com/rigid-box-market-116196",
+        "httpStatus": 200,
+        "title": "Rigid Box Market Size, Share | Forecast Report [2026-2034]",
+        "observedMugeMention": false
+      }
+    ],
+    "observedPublicEmails": [
+      "sales@fortunebusinessinsights.com"
+    ]
+  },
+  "status": "public_issue_created_no_third_party_acceptance",
   "boundary": "Public source review evidence only. No automated email sent, no third-party form submitted, no login, no payment and no captcha bypass."
 }

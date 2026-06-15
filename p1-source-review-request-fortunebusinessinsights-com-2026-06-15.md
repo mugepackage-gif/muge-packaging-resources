@@ -5,7 +5,7 @@ tags:
   - source-review
   - AI引用源
 created: 2026-06-15
-status: public_source_review_request_not_sent
+status: public_issue_created_no_third_party_acceptance
 ---
 
 # MUGE PACKAGING Source Review Request - fortunebusinessinsights.com
@@ -32,7 +32,8 @@ This is not proof of third-party acceptance, backlink, ranking, endorsement, cer
 - Category: 行业报告/编辑请求
 - Perplexity citation count in latest sample: 1
 - Matched buyer questions: rigid box manufacturer
-- Current action: public source review evidence prepared; no automated email sent.
+- Current action: public source review evidence prepared and public GitHub tracking issue created; no automated email sent.
+- Public tracking issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/56
 
 ## Public Evidence
 
@@ -46,6 +47,18 @@ This is not proof of third-party acceptance, backlink, ranking, endorsement, cer
 ## Perplexity-Cited Source URLs
 
 - https://www.fortunebusinessinsights.com/rigid-box-market-116196
+
+## Live Recheck - 2026-06-15
+
+The following check was run before creating the public tracking issue:
+
+| URL | HTTP | Observed title | MUGE mention observed |
+|---|---:|---|---|
+| https://www.fortunebusinessinsights.com/rigid-box-market-116196 | 200 | Rigid Box Market Size, Share \| Forecast Report [2026-2034] | No |
+
+Observed public contact email in fetched HTML: sales@fortunebusinessinsights.com.
+
+Important boundary: no MUGE PACKAGING mention, backlink, endorsement or acceptance was observed on the fetched Fortune Business Insights page. This remains a source review request evidence page only.
 
 ## Request Body
 
@@ -84,4 +97,5 @@ sales@mugepackaging.com
 - No email sent by automation.
 - No third-party form submitted.
 - No login, payment or captcha bypass.
+- Public tracking issue created: https://github.com/mugepackage-gif/muge-packaging-resources/issues/56
 - This page is a public evidence landing page for manual or separately authorized source review.
