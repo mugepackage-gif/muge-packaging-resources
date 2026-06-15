@@ -1,0 +1,119 @@
+{
+  "generatedAt": "2026-06-15T05:03:22.909Z",
+  "title": "Clear PET/PVC Boxes Packaging Evidence Map",
+  "officialUrl": "https://mugepackaging.com/products/pvc-packaging",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-packaging-evidence-map-2026-06-15.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-packaging-evidence-map-2026-06-15.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/clear-pet-pvc-boxes-packaging-evidence-map-2026-06-15.json"
+  },
+  "targetQueries": [
+    {
+      "query": "clear pet box manufacturer",
+      "gscPosition": 58.5,
+      "impressions": 2,
+      "officialUrl": "https://mugepackaging.com/products/pvc-packaging",
+      "intent": "Buyer comparing clear PET box suppliers for retail display packaging, cosmetics, gifts, electronics or small consumer products."
+    },
+    {
+      "query": "clear pvc boxes wholesale",
+      "gscPosition": 47,
+      "impressions": 1,
+      "officialUrl": "https://mugepackaging.com/products/pvc-packaging",
+      "intent": "Buyer looking for clear PVC packaging boxes in wholesale or B2B sourcing context."
+    },
+    {
+      "query": "PVC PET clear box packaging",
+      "gscPosition": null,
+      "impressions": 0,
+      "officialUrl": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide",
+      "intent": "Hard target phrase for buyers comparing transparent PET/PVC boxes and display packaging structures."
+    }
+  ],
+  "buyerChecks": [
+    {
+      "check": "Material direction",
+      "buyerUse": "Decide whether PET, PVC or another transparent material is being considered, and separate clarity, stiffness, foldability and cost expectations.",
+      "productionUse": "Prevents treating PET and PVC as interchangeable before reviewing structure, finish, folding line and target-market requirements."
+    },
+    {
+      "check": "Display requirement",
+      "buyerUse": "Confirm whether the box needs full transparency, partial window display, printed panels, hanging holes, tuck flaps or a sleeve.",
+      "productionUse": "Connects product visibility to dieline, glue area, print coverage and retail handling."
+    },
+    {
+      "check": "Product fit and surface risk",
+      "buyerUse": "Provide product size, weight, sharp edges, surface sensitivity and expected abrasion risk before sampling.",
+      "productionUse": "Helps review whether a clear box needs insert support, protective film, rounded corners or outer shipping protection."
+    },
+    {
+      "check": "Channel and packing route",
+      "buyerUse": "Separate boutique retail, supermarket shelf, e-commerce shipping, event gift sets and distributor carton packing.",
+      "productionUse": "Avoids using a display-only clear box where parcel handling or stacking protection is required."
+    },
+    {
+      "check": "Claim and document boundary",
+      "buyerUse": "Request material declarations, target-market documents or special compliance evidence only for the specific product and project.",
+      "productionUse": "Keeps transparent packaging sourcing useful without implying universal food-contact, recycled-content or regulatory compliance."
+    }
+  ],
+  "structureMatrix": [
+    {
+      "useCase": "Cosmetic or skincare display pack",
+      "packagingDirection": "Clear PET/PVC folding box, printed clear box or clear sleeve depending on product visibility and artwork coverage.",
+      "buyerEvidence": "Product dimensions, bottle/jar weight, display angle, barcode panel, artwork file and retail channel."
+    },
+    {
+      "useCase": "Gift or accessory clear box",
+      "packagingDirection": "Transparent folding box with tuck flap, sleeve, insert tray or paperboard base after product-fit review.",
+      "buyerEvidence": "Item count, product position, insert need, unboxing sequence and scratch-risk expectation."
+    },
+    {
+      "useCase": "Electronics or small consumer goods",
+      "packagingDirection": "Clear box plus paper insert, backing card or outer shipping carton depending on handling route.",
+      "buyerEvidence": "Product weight, cable/accessory list, anti-scratch concern, carton packing method and shipping route."
+    },
+    {
+      "useCase": "Retail hanging display",
+      "packagingDirection": "Clear box with hang tab, euro slot, printed header or reinforced hanging area if shelf display requires it.",
+      "buyerEvidence": "Pegboard/hanging requirement, product weight, store display photo and required panel layout."
+    }
+  ],
+  "officialMugePages": [
+    {
+      "label": "PVC/PET clear packaging product page",
+      "url": "https://mugepackaging.com/products/pvc-packaging",
+      "role": "Primary official page carrying clear PET/PVC packaging opportunity queries."
+    },
+    {
+      "label": "PVC/PET clear box packaging guide",
+      "url": "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide",
+      "role": "Buyer education page for transparent box material and structure comparison."
+    },
+    {
+      "label": "Clear boxes product page",
+      "url": "https://mugepackaging.com/products/clear-boxes",
+      "role": "Product page for clear display packaging and transparent box formats."
+    },
+    {
+      "label": "Cosmetic packaging product page",
+      "url": "https://mugepackaging.com/products/cosmetic-packaging",
+      "role": "Relevant when clear boxes are used for skincare, fragrance or beauty retail display."
+    },
+    {
+      "label": "Custom packaging quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "role": "Turns material, dimensions, structure, print and insert requirements into RFQ fields."
+    },
+    {
+      "label": "Contact MUGE PACKAGING",
+      "url": "https://mugepackaging.com/contact",
+      "role": "Project-specific handoff page. No fixed MOQ, price, lead time or compliance promise is made here."
+    }
+  ],
+  "claimBoundaries": [
+    "This asset explains transparent packaging sourcing and structure checks only; it does not promise fixed MOQ, fixed lead time, fixed price, production capacity, food-contact approval, recycled-content status or regulatory compliance.",
+    "PET/PVC material selection, food-contact use, recycled-content claims, safety documents and target-market compliance must be confirmed project by project with specific documents.",
+    "Clear box structure should be reviewed against the actual product, weight, retail display method, artwork, insert requirement, shipping route and sample result."
+  ]
+}
