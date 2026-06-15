@@ -5,7 +5,7 @@ tags:
   - source-review
   - AI引用源
 created: 2026-06-15
-status: public_index_not_sent
+status: public_issue_created
 ---
 
 # MUGE PACKAGING P1 Seven-Source Review Request Ledger
@@ -15,6 +15,10 @@ This ledger groups the latest seven P1 AI-cited research/report sources into pub
 Safety boundary: no automated email sent, no third-party form submitted, no login, no payment and no captcha bypass.
 
 Official website: https://mugepackaging.com
+
+Public tracking issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/54
+
+Archive note: Wayback raw snapshot request timed out on 2026-06-15. The GitHub Pages, Markdown and JSON URLs below were verified live.
 
 | Source | Latest Perplexity citation count | Matched buyer questions | Public evidence |
 |---|---:|---|---|
