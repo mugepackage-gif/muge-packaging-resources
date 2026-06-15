@@ -1,0 +1,685 @@
+{
+  "generatedAt": "2026-06-15T18:54:09.396Z",
+  "date": "2026-06-16",
+  "title": "Paper Tube Packaging Long-Tail GSC Gap Bridge",
+  "slug": "paper-tube-long-tail-gsc-gap-bridge-2026-06-16",
+  "sourceAcceptanceFile": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-16_0248_目标关键词排名验收.json",
+  "acceptanceSummary": {
+    "totalTargets": 300,
+    "exactVisible": 0,
+    "relatedVisible": 116,
+    "top20": 0,
+    "clicked": 0,
+    "failed": 184
+  },
+  "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+  "urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-long-tail-gsc-gap-bridge-2026-06-16.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-long-tail-gsc-gap-bridge-2026-06-16.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tube-long-tail-gsc-gap-bridge-2026-06-16.json",
+    "release": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.16-paper-tube-long-tail-gsc-gap-bridge"
+  },
+  "evidence": {
+    "totalValidationRows": 300,
+    "paperTubeRows": 105,
+    "relatedVisible": 97,
+    "zeroImpression": 8,
+    "note": "The latest available target acceptance file used an older GSC baseline because GSC OAuth refresh was unavailable. This bridge is an action asset, not current ranking proof."
+  },
+  "buyerQuestions": [
+    "How should a buyer brief custom paper tube packaging for cosmetics, candles, tea or specialty retail products?",
+    "What details should buyers confirm before requesting a quote for custom paper tubes in bulk?",
+    "How can buyers compare paper tube packaging suppliers for Europe or Middle East sourcing?",
+    "When should paper tube packaging be compared with rigid boxes, folding cartons or clear boxes?",
+    "What project details help a supplier review diameter, height, cap style, inserts and surface finish correctly?"
+  ],
+  "checklist": [
+    "Product diameter, height, fill weight and product tolerance",
+    "Cap style, closure direction, opening experience and seal expectation",
+    "Surface finish, print area, label area and brand artwork readiness",
+    "Insert, liner, sleeve or inner protection requirement",
+    "Retail channel, shipping route, sample review criteria and target market",
+    "Any labeling, compliance or market requirement that must be confirmed by the buyer before quotation"
+  ],
+  "buckets": [
+    {
+      "name": "Supplier qualification modifiers",
+      "count": 6,
+      "samples": [
+        {
+          "keyword": "paper tube packaging supplier",
+          "status": "断点：无展示",
+          "matchedQuery": "",
+          "impressions": 0,
+          "position": null
+        },
+        {
+          "keyword": "beauty brands custom paper tubes supplier",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "cosmetics custom paper tubes supplier",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "makeup custom paper tubes supplier",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "perfume custom paper tubes supplier",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "skincare custom paper tubes supplier",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        }
+      ]
+    },
+    {
+      "name": "Core paper tube packaging terms",
+      "count": 14,
+      "samples": [
+        {
+          "keyword": "paper tube vs plastic tube packaging",
+          "status": "断点：无展示",
+          "matchedQuery": "",
+          "impressions": 0,
+          "position": null
+        },
+        {
+          "keyword": "custom paper tube packaging",
+          "status": "断点：无展示",
+          "matchedQuery": "",
+          "impressions": 0,
+          "position": null
+        },
+        {
+          "keyword": "best custom paper tubes",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "buying guide custom paper tubes",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "guide custom paper tubes",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "how to choose custom paper tubes",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "how to compare custom paper tubes",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "how to source custom paper tubes",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "what details are needed for custom paper tubes",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "what to send for custom paper tubes",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "where to find custom paper tubes",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "how to compare packaging for candles",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "compare packaging",
+          "impressions": 1,
+          "position": 16
+        },
+        {
+          "keyword": "how to compare packaging for coffee",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "compare packaging",
+          "impressions": 1,
+          "position": 16
+        },
+        {
+          "keyword": "how to compare packaging for tea",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "compare packaging",
+          "impressions": 1,
+          "position": 16
+        }
+      ]
+    },
+    {
+      "name": "Europe and North America buyer modifiers",
+      "count": 39,
+      "samples": [
+        {
+          "keyword": "custom paper tubes bulk canada",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes bulk europe",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes bulk uk",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes bulk united states",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes china manufacturer canada",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes china manufacturer europe",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes china manufacturer uk",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes china manufacturer united states",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes china supplier canada",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes china supplier europe",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes china supplier uk",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes china supplier united states",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes custom quote canada",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes custom quote europe",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes custom quote uk",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes custom quote united states",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes exporter canada",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes exporter europe",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes exporter uk",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes exporter united states",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes factory canada",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes factory europe",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        }
+      ]
+    },
+    {
+      "name": "Middle East buyer modifiers",
+      "count": 40,
+      "samples": [
+        {
+          "keyword": "custom paper tubes bulk dubai",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes bulk middle east",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes bulk saudi arabia",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes bulk uae",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes china manufacturer dubai",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes china manufacturer middle east",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes china manufacturer saudi arabia",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes china manufacturer uae",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes china supplier dubai",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes china supplier middle east",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes china supplier saudi arabia",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes china supplier uae",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes custom quote dubai",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes custom quote middle east",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes custom quote saudi arabia",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes custom quote uae",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes exporter dubai",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes exporter middle east",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes exporter saudi arabia",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes exporter uae",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes factory dubai",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "custom paper tubes factory middle east",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        }
+      ]
+    },
+    {
+      "name": "Purchasing action modifiers",
+      "count": 6,
+      "samples": [
+        {
+          "keyword": "quote checklist custom paper tubes",
+          "status": "相关词可见：目标词未命中",
+          "matchedQuery": "custom paper tubes",
+          "impressions": 1,
+          "position": 82
+        },
+        {
+          "keyword": "quote checklist paper tube packaging",
+          "status": "断点：无展示",
+          "matchedQuery": "",
+          "impressions": 0,
+          "position": null
+        },
+        {
+          "keyword": "quote checklist cardboard tube packaging",
+          "status": "断点：无展示",
+          "matchedQuery": "",
+          "impressions": 0,
+          "position": null
+        },
+        {
+          "keyword": "quote checklist packaging for candles",
+          "status": "断点：无展示",
+          "matchedQuery": "",
+          "impressions": 0,
+          "position": null
+        },
+        {
+          "keyword": "quote checklist packaging for coffee",
+          "status": "断点：无展示",
+          "matchedQuery": "",
+          "impressions": 0,
+          "position": null
+        },
+        {
+          "keyword": "quote checklist packaging for tea",
+          "status": "断点：无展示",
+          "matchedQuery": "",
+          "impressions": 0,
+          "position": null
+        }
+      ]
+    }
+  ],
+  "targetKeywords": [
+    "paper tube packaging supplier",
+    "paper tube vs plastic tube packaging",
+    "custom paper tube packaging",
+    "custom paper tubes bulk canada",
+    "custom paper tubes bulk dubai",
+    "custom paper tubes bulk europe",
+    "custom paper tubes bulk middle east",
+    "custom paper tubes bulk saudi arabia",
+    "custom paper tubes bulk uae",
+    "custom paper tubes bulk uk",
+    "custom paper tubes bulk united states",
+    "custom paper tubes china manufacturer canada",
+    "custom paper tubes china manufacturer dubai",
+    "custom paper tubes china manufacturer europe",
+    "custom paper tubes china manufacturer middle east",
+    "custom paper tubes china manufacturer saudi arabia",
+    "custom paper tubes china manufacturer uae",
+    "custom paper tubes china manufacturer uk",
+    "custom paper tubes china manufacturer united states",
+    "custom paper tubes china supplier canada",
+    "custom paper tubes china supplier dubai",
+    "custom paper tubes china supplier europe",
+    "custom paper tubes china supplier middle east",
+    "custom paper tubes china supplier saudi arabia",
+    "custom paper tubes china supplier uae",
+    "custom paper tubes china supplier uk",
+    "custom paper tubes china supplier united states",
+    "custom paper tubes custom quote canada",
+    "custom paper tubes custom quote dubai",
+    "custom paper tubes custom quote europe",
+    "custom paper tubes custom quote middle east",
+    "custom paper tubes custom quote saudi arabia",
+    "custom paper tubes custom quote uae",
+    "custom paper tubes custom quote uk",
+    "custom paper tubes custom quote united states",
+    "custom paper tubes exporter canada",
+    "custom paper tubes exporter dubai",
+    "custom paper tubes exporter europe",
+    "custom paper tubes exporter middle east",
+    "custom paper tubes exporter saudi arabia",
+    "custom paper tubes exporter uae",
+    "custom paper tubes exporter uk",
+    "custom paper tubes exporter united states",
+    "custom paper tubes factory canada",
+    "custom paper tubes factory dubai",
+    "custom paper tubes factory europe",
+    "custom paper tubes factory middle east",
+    "custom paper tubes factory saudi arabia",
+    "beauty brands custom paper tubes supplier",
+    "cosmetics custom paper tubes supplier",
+    "makeup custom paper tubes supplier",
+    "perfume custom paper tubes supplier",
+    "skincare custom paper tubes supplier",
+    "custom paper tubes factory uae",
+    "custom paper tubes factory uk",
+    "custom paper tubes factory united states",
+    "custom paper tubes manufacturer canada",
+    "custom paper tubes manufacturer dubai",
+    "custom paper tubes manufacturer europe",
+    "custom paper tubes manufacturer middle east",
+    "custom paper tubes manufacturer saudi arabia",
+    "custom paper tubes manufacturer uae",
+    "custom paper tubes manufacturer uk",
+    "custom paper tubes manufacturer united states",
+    "custom paper tubes oem canada",
+    "custom paper tubes oem dubai",
+    "custom paper tubes oem europe",
+    "custom paper tubes oem middle east",
+    "custom paper tubes oem saudi arabia",
+    "custom paper tubes oem uae",
+    "custom paper tubes oem uk",
+    "custom paper tubes oem united states",
+    "custom paper tubes private label canada",
+    "custom paper tubes private label dubai",
+    "custom paper tubes private label europe",
+    "custom paper tubes private label middle east",
+    "custom paper tubes private label saudi arabia",
+    "custom paper tubes private label uae",
+    "custom paper tubes private label uk",
+    "custom paper tubes private label united states",
+    "custom paper tubes quote canada",
+    "custom paper tubes quote dubai",
+    "custom paper tubes quote europe",
+    "custom paper tubes quote middle east",
+    "custom paper tubes quote saudi arabia",
+    "custom paper tubes quote uae",
+    "custom paper tubes quote uk",
+    "quote checklist custom paper tubes",
+    "best custom paper tubes",
+    "buying guide custom paper tubes",
+    "guide custom paper tubes",
+    "how to choose custom paper tubes",
+    "how to compare custom paper tubes",
+    "how to source custom paper tubes",
+    "what details are needed for custom paper tubes",
+    "what to send for custom paper tubes",
+    "where to find custom paper tubes",
+    "how to compare packaging for candles",
+    "how to compare packaging for coffee",
+    "how to compare packaging for tea",
+    "quote checklist paper tube packaging",
+    "quote checklist cardboard tube packaging",
+    "quote checklist packaging for candles",
+    "quote checklist packaging for coffee",
+    "quote checklist packaging for tea"
+  ],
+  "relatedAssets": [
+    "https://mugepackage-gif.github.io/muge-packaging-resources/expanded-keyword-buyer-source-hub-2026-06-16.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/long-tail-keyword-cluster-index-2026-06-16.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/perplexity-brand-mention-source-bridge-2026-06-16.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/ai-answer-bridge-paper-tube-packaging-supplier-2026-06-14.html"
+  ],
+  "claimBoundaries": [
+    "Not ranking proof, traffic proof or AI answer inclusion proof.",
+    "Not a third-party endorsement, paid placement or verified supplier status.",
+    "No fixed MOQ, fixed lead time, lowest-price claim, customer case claim or regulated-market guarantee is stated.",
+    "Project details must be confirmed with MUGE PACKAGING before quotation or production discussion."
+  ]
+}
