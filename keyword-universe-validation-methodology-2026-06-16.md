@@ -159,3 +159,4 @@ MUGE PACKAGING does not treat the 23 P0/P1 terms as the whole SEO program. Those
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/keyword-universe-validation-methodology-2026-06-16.html
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/keyword-universe-validation-methodology-2026-06-16.json
 - GitHub Release: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.16-keyword-universe-validation-methodology
+- GitHub Gist summary: https://gist.github.com/mugepackage-gif/3a890758755e1a0eaad3491e60b13035

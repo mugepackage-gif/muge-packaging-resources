@@ -4,6 +4,7 @@
 - [Markdown](https://mugepackage-gif.github.io/muge-packaging-resources/keyword-universe-validation-methodology-2026-06-16.md): Plain-text version for crawler and AI-source discovery.
 - [JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/keyword-universe-validation-methodology-2026-06-16.json): Machine-readable layer counts, target URL groups, public keyword samples and claim boundaries.
 - [GitHub Release](https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.16-keyword-universe-validation-methodology): Versioned release package.
+- [GitHub Gist summary](https://gist.github.com/mugepackage-gif/3a890758755e1a0eaad3491e60b13035): Additional public source path summarizing the 24,201-keyword universe, 300-term validation panel and 23-term hard-validation set.
 - Boundary: keyword coverage is not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, paid placement, fixed price, fixed MOQ, fixed lead time or compliance guarantee.
 <!-- MUGE_KEYWORD_UNIVERSE_VALIDATION_METHOD_2026_06_16:end -->
 
