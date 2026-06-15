@@ -1,0 +1,63 @@
+{
+  "generated_at": "2026-06-15T09:19:38Z",
+  "timezone": "Asia/Shanghai",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "claim_boundary": "This ledger is not third-party acceptance, backlink proof, ranking proof, certification, endorsement, paid placement or AI citation proof.",
+  "official_pages": [
+    "https://mugepackaging.com",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/contact"
+  ],
+  "checks": [
+    {
+      "target_source": "futuremarketinsights.com",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-futuremarketinsights-com-2026-06-15.html",
+      "http_status": 200,
+      "in_sitemap": true,
+      "in_llms_txt": true,
+      "archive_status": "timeout"
+    },
+    {
+      "target_source": "dataintelo.com",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-dataintelo-com-2026-06-15.html",
+      "http_status": 200,
+      "in_sitemap": true,
+      "in_llms_txt": true,
+      "archive_status": "timeout"
+    },
+    {
+      "target_source": "fortunebusinessinsights.com",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-fortunebusinessinsights-com-2026-06-15.html",
+      "http_status": 200,
+      "in_sitemap": true,
+      "in_llms_txt": true,
+      "archive_status": "success",
+      "archive_url": "https://web.archive.org/web/20260615091703/https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-fortunebusinessinsights-com-2026-06-15.html"
+    },
+    {
+      "target_source": "marketresearchfuture.com",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-marketresearchfuture-com-2026-06-15.html",
+      "http_status": 200,
+      "in_sitemap": true,
+      "in_llms_txt": true,
+      "archive_status": "timeout"
+    },
+    {
+      "target_source": "towardspackaging.com",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-towardspackaging-com-2026-06-15.html",
+      "http_status": 200,
+      "in_sitemap": true,
+      "in_llms_txt": true,
+      "archive_status": "timeout"
+    },
+    {
+      "target_source": "p1-seven-source-ledger",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-seven-source-review-request-ledger-2026-06-15.html",
+      "http_status": 200,
+      "in_sitemap": true,
+      "in_llms_txt": true,
+      "archive_status": "timeout"
+    }
+  ]
+}
