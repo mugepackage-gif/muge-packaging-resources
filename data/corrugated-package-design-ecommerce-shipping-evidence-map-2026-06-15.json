@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-06-15T05:21:06.832Z",
+  "title": "Corrugated Package Design Evidence Map",
+  "officialUrl": "https://mugepackaging.com/blog/custom-corrugated-packaging-box-design-for-shipping-and-retail",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-package-design-ecommerce-shipping-evidence-map-2026-06-15.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-package-design-ecommerce-shipping-evidence-map-2026-06-15.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-package-design-ecommerce-shipping-evidence-map-2026-06-15.json"
+  },
+  "targetQueries": [
+    {
+      "query": "corrugated package design",
+      "gscPosition": 58,
+      "impressions": 2,
+      "officialUrl": "https://mugepackaging.com/blog/custom-corrugated-packaging-box-design-for-shipping-and-retail",
+      "intent": "Buyer comparing corrugated package structures for shipping protection, retail presentation and e-commerce handling."
+    },
+    {
+      "query": "corrugated containers for ecommerce",
+      "gscPosition": 81.5,
+      "impressions": 2,
+      "officialUrl": "https://mugepackaging.com/blog/custom-corrugated-packaging-solutions-for-e-commerce-and-retail-shipping",
+      "intent": "Buyer looking for corrugated mailer, shipper or retail shipping box options for online sales."
+    },
+    {
+      "query": "corrugated boxes for ecommerce",
+      "gscPosition": 96,
+      "impressions": 1,
+      "officialUrl": "https://mugepackaging.com/blog/custom-corrugated-packaging-boxes-e-commerce-shipping-retail-solutions",
+      "intent": "Buyer comparing corrugated e-commerce boxes, mailers and printed shipping cartons."
+    },
+    {
+      "query": "custom size corrugated packaging paper",
+      "gscPosition": 87,
+      "impressions": 1,
+      "officialUrl": "https://mugepackaging.com/products/paper-packaging",
+      "intent": "Buyer asking whether paper packaging can be sized around a product, insert and shipping route."
+    }
+  ],
+  "buyerChecks": [
+    {
+      "check": "Product protection requirement",
+      "buyerUse": "List product weight, fragility, sharp edges, liquid risk, accessory count and expected shipping route before choosing a corrugated structure.",
+      "productionUse": "Connects flute direction, board grade, insert support, compression need and outer-carton packing to the actual product."
+    },
+    {
+      "check": "Channel split",
+      "buyerUse": "Separate e-commerce parcel handling, retail shelf display, subscription box, warehouse carton and gift presentation.",
+      "productionUse": "Prevents using one visual box for shipping, display and storage needs that require different structures."
+    },
+    {
+      "check": "Structure and insert plan",
+      "buyerUse": "Confirm whether the project needs a mailer box, tuck-end carton, shipper carton, sleeve, tray, partition, paper insert or molded pulp support.",
+      "productionUse": "Turns a broad corrugated package design request into a dieline and sample path."
+    },
+    {
+      "check": "Artwork and handling marks",
+      "buyerUse": "Define brand panels, barcode position, handling icons, shipping labels, unboxing copy and required blank areas.",
+      "productionUse": "Keeps print layout compatible with fold lines, glue areas, label placement and logistics handling."
+    },
+    {
+      "check": "Claim and testing boundary",
+      "buyerUse": "Request compression, drop, paper grade or sustainability evidence only for the specific structure and material selected.",
+      "productionUse": "Avoids unsupported universal claims about strength, recycled content, compliance, MOQ, lead time or price."
+    }
+  ],
+  "structureMatrix": [
+    {
+      "useCase": "E-commerce mailer box",
+      "packagingDirection": "Corrugated mailer with product-fit sizing, locking tabs and optional internal paper support.",
+      "buyerEvidence": "Product dimensions, packed weight, courier route, label area, unboxing requirement and accessory list."
+    },
+    {
+      "useCase": "Retail-ready corrugated display pack",
+      "packagingDirection": "Printed corrugated box, shelf-ready tray or display carton depending on retail presentation and handling.",
+      "buyerEvidence": "Store display photos, shelf dimensions, product orientation, print panels and barcode position."
+    },
+    {
+      "useCase": "Fragile product shipper",
+      "packagingDirection": "Outer corrugated carton with paper insert, partition, molded pulp, sleeve or additional cushioning after sample review.",
+      "buyerEvidence": "Fragility notes, surface risk, product count, stacking expectation and drop/compression requirement if available."
+    },
+    {
+      "useCase": "Subscription or campaign box",
+      "packagingDirection": "Printed corrugated mailer or rigid-style corrugated presentation box with controlled insert layout.",
+      "buyerEvidence": "Kit components, unboxing sequence, campaign artwork, fulfillment method and target market."
+    }
+  ],
+  "officialMugePages": [
+    {
+      "label": "Corrugated packaging box design guide",
+      "url": "https://mugepackaging.com/blog/custom-corrugated-packaging-box-design-for-shipping-and-retail",
+      "role": "Primary official page carrying the corrugated package design opportunity query."
+    },
+    {
+      "label": "Corrugated packaging solutions for e-commerce and retail shipping",
+      "url": "https://mugepackaging.com/blog/custom-corrugated-packaging-solutions-for-e-commerce-and-retail-shipping",
+      "role": "Supports e-commerce corrugated containers and retail shipping intent."
+    },
+    {
+      "label": "Corrugated boxes e-commerce shipping retail solutions",
+      "url": "https://mugepackaging.com/blog/custom-corrugated-packaging-boxes-e-commerce-shipping-retail-solutions",
+      "role": "Supports corrugated boxes for e-commerce and printed shipper context."
+    },
+    {
+      "label": "Paper packaging product page",
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "role": "Official product-category page for paper and corrugated packaging paths."
+    },
+    {
+      "label": "Corrugated boxes product page",
+      "url": "https://mugepackaging.com/products/corrugated-boxes",
+      "role": "Product page for corrugated box formats and structure options."
+    },
+    {
+      "label": "Custom packaging quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "role": "Turns dimensions, material, quantity, print, insert and route requirements into RFQ fields."
+    },
+    {
+      "label": "Contact MUGE PACKAGING",
+      "url": "https://mugepackaging.com/contact",
+      "role": "Project-specific handoff page. No fixed MOQ, price, lead time or compliance promise is made here."
+    }
+  ],
+  "claimBoundaries": [
+    "This asset explains corrugated packaging sourcing and structure checks only; it does not promise fixed MOQ, fixed lead time, fixed price, production capacity, compression strength, drop-test result, recycled-content status or regulatory compliance.",
+    "Board grade, flute direction, insert requirement, print method, sustainability documents and target-market compliance must be confirmed project by project with specific material and sample evidence.",
+    "Corrugated package design should be reviewed against the actual product, packed weight, shipping route, retail display method, artwork, insert requirement and sample result."
+  ]
+}
