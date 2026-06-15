@@ -1,0 +1,4246 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "title": "Custom Packaging Materials and Finishing Keyword Map",
+  "h1": "Custom Packaging Materials and Finishing Keyword Map",
+  "name": "Custom Packaging Materials and Finishing Keyword Map",
+  "description": "Claim-bounded MUGE PACKAGING keyword map for custom packaging materials, finishing options, surface treatment, foil stamping, embossing, debossing, lamination, coating and spot UV buyer-brief terms.",
+  "intro": "This public keyword map narrows the MUGE PACKAGING custom packaging universe into buyer-intent terms around packaging materials, surface finishing, foil stamping, embossing, debossing, lamination, coating and spot UV review before quote or sampling.",
+  "officialDesc": "Public keyword and buyer-brief map for custom packaging materials, finishing options, surface treatment, foil stamping, embossing, debossing, lamination, coating and spot UV sourcing queries.",
+  "focusPhrase": "materials, finishing options, surface treatment, foil stamping, embossing, debossing, lamination, coating and spot UV sourcing terms",
+  "datePublished": "2026-06-16",
+  "dateModified": "2026-06-15T23:09:27.637Z",
+  "creator": {
+    "@type": "Organization",
+    "name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "alternateName": "MUGE PACKAGING",
+    "url": "https://mugepackaging.com"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isBasedOn": "https://mugepackaging.com/products",
+  "parentKeywordCount": 4113,
+  "keywordCount": 104,
+  "officialUrl": "https://mugepackaging.com/products",
+  "urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-materials-finishing-keyword-map-2026-06-16.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-materials-finishing-keyword-map-2026-06-16.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-materials-finishing-keyword-map-2026-06-16.json",
+    "official": "https://mugepackaging.com/products"
+  },
+  "keywords": [
+    {
+      "keyword": "foil stamping or spot uv for custom packaging",
+      "source": "采购决策比较",
+      "class": "场景长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 125,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "matte lamination or gloss lamination for custom packaging",
+      "source": "采购决策比较",
+      "class": "场景长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 125,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "finishing options retail packaging boxes",
+      "source": "AI问答×产品词",
+      "class": "场景长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 115,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "foil stamping retail packaging boxes",
+      "source": "材料工艺×产品词",
+      "class": "场景长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 115,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+      "bucket": "P3长尾承接"
+    },
+    {
+      "keyword": "gloss lamination retail packaging boxes",
+      "source": "材料工艺×产品词",
+      "class": "场景长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 115,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+      "bucket": "P3长尾承接"
+    },
+    {
+      "keyword": "material guide retail packaging boxes",
+      "source": "AI问答×产品词",
+      "class": "场景长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 115,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "matte lamination retail packaging boxes",
+      "source": "材料工艺×产品词",
+      "class": "场景长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 115,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+      "bucket": "P3长尾承接"
+    },
+    {
+      "keyword": "retail packaging boxes with foil stamping",
+      "source": "产品词×材料工艺",
+      "class": "场景长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 115,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+      "bucket": "P3长尾承接"
+    },
+    {
+      "keyword": "retail packaging boxes with gloss lamination",
+      "source": "产品词×材料工艺",
+      "class": "场景长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 115,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+      "bucket": "P3长尾承接"
+    },
+    {
+      "keyword": "retail packaging boxes with matte lamination",
+      "source": "产品词×材料工艺",
+      "class": "场景长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 115,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+      "bucket": "P3长尾承接"
+    },
+    {
+      "keyword": "retail packaging boxes with spot uv",
+      "source": "产品词×材料工艺",
+      "class": "场景长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 115,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+      "bucket": "P3长尾承接"
+    },
+    {
+      "keyword": "spot uv retail packaging boxes",
+      "source": "材料工艺×产品词",
+      "class": "场景长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 115,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+      "bucket": "P3长尾承接"
+    },
+    {
+      "keyword": "foil stamping vs spot uv",
+      "source": "比较词",
+      "class": "比较教育",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 101,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+      "bucket": "P3长尾承接"
+    },
+    {
+      "keyword": "matte lamination vs gloss lamination",
+      "source": "比较词",
+      "class": "比较教育",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 101,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+      "bucket": "P3长尾承接"
+    },
+    {
+      "keyword": "custom packaging boxes with foil stamping",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 97,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "custom packaging boxes with gloss lamination",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 97,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "custom packaging boxes with matte lamination",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 97,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "custom packaging boxes with spot uv",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 97,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "custom packaging with foil stamping",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 97,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "custom packaging with gloss lamination",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 97,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "custom packaging with matte lamination",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 97,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "custom packaging with spot uv",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 97,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "finishing options custom packaging",
+      "source": "AI问答×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 97,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "finishing options custom packaging boxes",
+      "source": "AI问答×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 97,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "foil stamping custom packaging",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 97,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "foil stamping custom packaging boxes",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 97,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "gloss lamination custom packaging",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 97,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "gloss lamination custom packaging boxes",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 97,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "material guide custom packaging",
+      "source": "AI问答×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 97,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "material guide custom packaging boxes",
+      "source": "AI问答×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 97,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "matte lamination custom packaging",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 97,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "matte lamination custom packaging boxes",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 97,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "spot uv custom packaging",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 97,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "spot uv custom packaging boxes",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 97,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "custom boxes with logo with foil stamping",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "custom boxes with logo with gloss lamination",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "custom boxes with logo with matte lamination",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "custom boxes with logo with spot uv",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "custom paper boxes with foil stamping",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "custom paper boxes with gloss lamination",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "custom paper boxes with matte lamination",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "custom paper boxes with spot uv",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "custom printed boxes with foil stamping",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "custom printed boxes with gloss lamination",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "custom printed boxes with matte lamination",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "custom printed boxes with spot uv",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "finishing options custom boxes with logo",
+      "source": "AI问答×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "finishing options custom paper boxes",
+      "source": "AI问答×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "finishing options custom printed boxes",
+      "source": "AI问答×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "finishing options packaging design service",
+      "source": "AI问答×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "finishing options packaging inserts",
+      "source": "AI问答×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "finishing options paper packaging boxes",
+      "source": "AI问答×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "finishing options sleeve box packaging",
+      "source": "AI问答×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "foil stamping custom boxes with logo",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "foil stamping custom paper boxes",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "foil stamping custom printed boxes",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "foil stamping packaging design service",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "foil stamping packaging inserts",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "foil stamping paper packaging boxes",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "foil stamping sleeve box packaging",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "gloss lamination custom boxes with logo",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "gloss lamination custom paper boxes",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "gloss lamination custom printed boxes",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "gloss lamination packaging design service",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "gloss lamination packaging inserts",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "gloss lamination paper packaging boxes",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "gloss lamination sleeve box packaging",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "material guide custom boxes with logo",
+      "source": "AI问答×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "material guide custom paper boxes",
+      "source": "AI问答×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "material guide custom printed boxes",
+      "source": "AI问答×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "material guide packaging design service",
+      "source": "AI问答×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "material guide packaging inserts",
+      "source": "AI问答×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "material guide paper packaging boxes",
+      "source": "AI问答×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "material guide sleeve box packaging",
+      "source": "AI问答×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "matte lamination custom boxes with logo",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "matte lamination custom paper boxes",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "matte lamination custom printed boxes",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "matte lamination packaging design service",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "matte lamination packaging inserts",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "matte lamination paper packaging boxes",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "matte lamination sleeve box packaging",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "packaging design service with foil stamping",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "packaging design service with gloss lamination",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "packaging design service with matte lamination",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "packaging design service with spot uv",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "packaging inserts with foil stamping",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "packaging inserts with gloss lamination",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "packaging inserts with matte lamination",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "packaging inserts with spot uv",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "paper packaging boxes with foil stamping",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "paper packaging boxes with gloss lamination",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "paper packaging boxes with matte lamination",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "paper packaging boxes with spot uv",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "sleeve box packaging with foil stamping",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "sleeve box packaging with gloss lamination",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "sleeve box packaging with matte lamination",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "sleeve box packaging with spot uv",
+      "source": "产品词×材料工艺",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "spot uv custom boxes with logo",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "spot uv custom paper boxes",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "spot uv custom printed boxes",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "spot uv packaging design service",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "spot uv packaging inserts",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "spot uv paper packaging boxes",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    },
+    {
+      "keyword": "spot uv sleeve box packaging",
+      "source": "材料工艺×产品词",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 87,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+      "bucket": "候选池"
+    }
+  ],
+  "byRegion": {
+    "Middle East": [],
+    "Europe": [],
+    "North America": [],
+    "Global": [
+      {
+        "keyword": "foil stamping or spot uv for custom packaging",
+        "source": "采购决策比较",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 125,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "matte lamination or gloss lamination for custom packaging",
+        "source": "采购决策比较",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 125,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "finishing options retail packaging boxes",
+        "source": "AI问答×产品词",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "foil stamping retail packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "gloss lamination retail packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "material guide retail packaging boxes",
+        "source": "AI问答×产品词",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "matte lamination retail packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "retail packaging boxes with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "retail packaging boxes with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "retail packaging boxes with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "retail packaging boxes with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "spot uv retail packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "foil stamping vs spot uv",
+        "source": "比较词",
+        "class": "比较教育",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 101,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "matte lamination vs gloss lamination",
+        "source": "比较词",
+        "class": "比较教育",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 101,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "custom packaging boxes with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom packaging boxes with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom packaging boxes with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom packaging boxes with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom packaging with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom packaging with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom packaging with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom packaging with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "finishing options custom packaging",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "finishing options custom packaging boxes",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "foil stamping custom packaging",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "foil stamping custom packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "gloss lamination custom packaging",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "gloss lamination custom packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "material guide custom packaging",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "material guide custom packaging boxes",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "matte lamination custom packaging",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "matte lamination custom packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "spot uv custom packaging",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "spot uv custom packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom boxes with logo with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom boxes with logo with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom boxes with logo with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom boxes with logo with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom paper boxes with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom paper boxes with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom paper boxes with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom paper boxes with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom printed boxes with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom printed boxes with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom printed boxes with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom printed boxes with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "finishing options custom boxes with logo",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "finishing options custom paper boxes",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "finishing options custom printed boxes",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "finishing options packaging design service",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "finishing options packaging inserts",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "finishing options paper packaging boxes",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "finishing options sleeve box packaging",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "foil stamping custom boxes with logo",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "foil stamping custom paper boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "foil stamping custom printed boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "foil stamping packaging design service",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "foil stamping packaging inserts",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "foil stamping paper packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "foil stamping sleeve box packaging",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "gloss lamination custom boxes with logo",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "gloss lamination custom paper boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "gloss lamination custom printed boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "gloss lamination packaging design service",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "gloss lamination packaging inserts",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "gloss lamination paper packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "gloss lamination sleeve box packaging",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "material guide custom boxes with logo",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "material guide custom paper boxes",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "material guide custom printed boxes",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "material guide packaging design service",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "material guide packaging inserts",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "material guide paper packaging boxes",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "material guide sleeve box packaging",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "matte lamination custom boxes with logo",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "matte lamination custom paper boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "matte lamination custom printed boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "matte lamination packaging design service",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "matte lamination packaging inserts",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "matte lamination paper packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "matte lamination sleeve box packaging",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging design service with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging design service with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging design service with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging design service with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging inserts with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging inserts with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging inserts with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging inserts with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "paper packaging boxes with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "paper packaging boxes with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "paper packaging boxes with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "paper packaging boxes with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "sleeve box packaging with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "sleeve box packaging with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "sleeve box packaging with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "sleeve box packaging with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "spot uv custom boxes with logo",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "spot uv custom paper boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "spot uv custom printed boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "spot uv packaging design service",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "spot uv packaging inserts",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "spot uv paper packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "spot uv sleeve box packaging",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      }
+    ]
+  },
+  "byIntent": {
+    "Regional sourcing": [],
+    "Supplier comparison": [],
+    "Manufacturer comparison": [],
+    "Factory sourcing": [],
+    "China sourcing": [],
+    "OEM sourcing": [],
+    "Private label sourcing": [],
+    "Exporter sourcing": [],
+    "Bulk and wholesale": [],
+    "RFQ and quote preparation": [],
+    "Buyer brief preparation": [],
+    "Gift sets and retail": [
+      {
+        "keyword": "finishing options retail packaging boxes",
+        "source": "AI问答×产品词",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "foil stamping retail packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "gloss lamination retail packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "material guide retail packaging boxes",
+        "source": "AI问答×产品词",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "matte lamination retail packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "retail packaging boxes with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "retail packaging boxes with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "retail packaging boxes with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "retail packaging boxes with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "spot uv retail packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      }
+    ],
+    "Inserts and unboxing": [
+      {
+        "keyword": "finishing options packaging inserts",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "foil stamping packaging inserts",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "gloss lamination packaging inserts",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "material guide packaging inserts",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "matte lamination packaging inserts",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging inserts with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging inserts with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging inserts with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging inserts with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "spot uv packaging inserts",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      }
+    ],
+    "Design service and artwork": [
+      {
+        "keyword": "finishing options packaging design service",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "foil stamping packaging design service",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "gloss lamination packaging design service",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "material guide packaging design service",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "matte lamination packaging design service",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging design service with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging design service with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging design service with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging design service with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "spot uv packaging design service",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      }
+    ],
+    "Materials and finishing": [
+      {
+        "keyword": "foil stamping or spot uv for custom packaging",
+        "source": "采购决策比较",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 125,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "matte lamination or gloss lamination for custom packaging",
+        "source": "采购决策比较",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 125,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "finishing options retail packaging boxes",
+        "source": "AI问答×产品词",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "foil stamping retail packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "gloss lamination retail packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "material guide retail packaging boxes",
+        "source": "AI问答×产品词",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "matte lamination retail packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "retail packaging boxes with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "retail packaging boxes with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "retail packaging boxes with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "retail packaging boxes with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "spot uv retail packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "场景长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 115,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "foil stamping vs spot uv",
+        "source": "比较词",
+        "class": "比较教育",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 101,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "matte lamination vs gloss lamination",
+        "source": "比较词",
+        "class": "比较教育",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 101,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。",
+        "bucket": "P3长尾承接"
+      },
+      {
+        "keyword": "custom packaging boxes with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom packaging boxes with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom packaging boxes with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom packaging boxes with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom packaging with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom packaging with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom packaging with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom packaging with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "finishing options custom packaging",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "finishing options custom packaging boxes",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "foil stamping custom packaging",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "foil stamping custom packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "gloss lamination custom packaging",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "gloss lamination custom packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "material guide custom packaging",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "material guide custom packaging boxes",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "matte lamination custom packaging",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "matte lamination custom packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "spot uv custom packaging",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "spot uv custom packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 97,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom boxes with logo with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom boxes with logo with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom boxes with logo with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom boxes with logo with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom paper boxes with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom paper boxes with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom paper boxes with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom paper boxes with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom printed boxes with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom printed boxes with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom printed boxes with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "custom printed boxes with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "finishing options custom boxes with logo",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "finishing options custom paper boxes",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "finishing options custom printed boxes",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "finishing options packaging design service",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "finishing options packaging inserts",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "finishing options paper packaging boxes",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "finishing options sleeve box packaging",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "foil stamping custom boxes with logo",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "foil stamping custom paper boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "foil stamping custom printed boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "foil stamping packaging design service",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "foil stamping packaging inserts",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "foil stamping paper packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "foil stamping sleeve box packaging",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "gloss lamination custom boxes with logo",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "gloss lamination custom paper boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "gloss lamination custom printed boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "gloss lamination packaging design service",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "gloss lamination packaging inserts",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "gloss lamination paper packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "gloss lamination sleeve box packaging",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "material guide custom boxes with logo",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "material guide custom paper boxes",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "material guide custom printed boxes",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "material guide packaging design service",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "material guide packaging inserts",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "material guide paper packaging boxes",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "material guide sleeve box packaging",
+        "source": "AI问答×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+        "bucket": "GEO_AI问答测试"
+      },
+      {
+        "keyword": "matte lamination custom boxes with logo",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "matte lamination custom paper boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "matte lamination custom printed boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "matte lamination packaging design service",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "matte lamination packaging inserts",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "matte lamination paper packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "matte lamination sleeve box packaging",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging design service with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging design service with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging design service with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging design service with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging inserts with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging inserts with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging inserts with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "packaging inserts with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "paper packaging boxes with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "paper packaging boxes with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "paper packaging boxes with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "paper packaging boxes with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "sleeve box packaging with foil stamping",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "sleeve box packaging with gloss lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "sleeve box packaging with matte lamination",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "sleeve box packaging with spot uv",
+        "source": "产品词×材料工艺",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "spot uv custom boxes with logo",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "spot uv custom paper boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "spot uv custom printed boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "spot uv packaging design service",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "spot uv packaging inserts",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "spot uv paper packaging boxes",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      },
+      {
+        "keyword": "spot uv sleeve box packaging",
+        "source": "材料工艺×产品词",
+        "class": "主题长尾",
+        "targetUrl": "https://mugepackaging.com/products",
+        "score": 87,
+        "evidence": [
+          "GA4目标页：sessions 91，organic 6，paid 2"
+        ],
+        "nextAction": "保留候选，等待GSC/GA4/Ads/AI测试触发后升级。",
+        "bucket": "候选池"
+      }
+    ],
+    "General sourcing": []
+  },
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "Custom Packaging Materials and Finishing Keyword Map",
+    "description": "Claim-bounded MUGE PACKAGING keyword map for custom packaging materials, finishing options, surface treatment, foil stamping, embossing, debossing, lamination, coating and spot UV buyer-brief terms.",
+    "datePublished": "2026-06-16",
+    "dateModified": "2026-06-15T23:09:27.637Z",
+    "creator": {
+      "@type": "Organization",
+      "name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+      "alternateName": "MUGE PACKAGING",
+      "url": "https://mugepackaging.com"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "isBasedOn": "https://mugepackaging.com/products",
+    "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-materials-finishing-keyword-map-2026-06-16.html",
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "text/html",
+        "contentUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-materials-finishing-keyword-map-2026-06-16.html"
+      },
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "text/markdown",
+        "contentUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-materials-finishing-keyword-map-2026-06-16.md"
+      },
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-materials-finishing-keyword-map-2026-06-16.json"
+      }
+    ],
+    "about": [
+      "foil stamping or spot uv for custom packaging",
+      "matte lamination or gloss lamination for custom packaging",
+      "finishing options retail packaging boxes",
+      "foil stamping retail packaging boxes",
+      "gloss lamination retail packaging boxes",
+      "material guide retail packaging boxes",
+      "matte lamination retail packaging boxes",
+      "retail packaging boxes with foil stamping",
+      "retail packaging boxes with gloss lamination",
+      "retail packaging boxes with matte lamination",
+      "retail packaging boxes with spot uv",
+      "spot uv retail packaging boxes",
+      "foil stamping vs spot uv",
+      "matte lamination vs gloss lamination",
+      "custom packaging boxes with foil stamping",
+      "custom packaging boxes with gloss lamination",
+      "custom packaging boxes with matte lamination",
+      "custom packaging boxes with spot uv",
+      "custom packaging with foil stamping",
+      "custom packaging with gloss lamination",
+      "custom packaging with matte lamination",
+      "custom packaging with spot uv",
+      "finishing options custom packaging",
+      "finishing options custom packaging boxes",
+      "foil stamping custom packaging",
+      "foil stamping custom packaging boxes",
+      "gloss lamination custom packaging",
+      "gloss lamination custom packaging boxes",
+      "material guide custom packaging",
+      "material guide custom packaging boxes",
+      "matte lamination custom packaging",
+      "matte lamination custom packaging boxes",
+      "spot uv custom packaging",
+      "spot uv custom packaging boxes",
+      "custom boxes with logo with foil stamping",
+      "custom boxes with logo with gloss lamination",
+      "custom boxes with logo with matte lamination",
+      "custom boxes with logo with spot uv",
+      "custom paper boxes with foil stamping",
+      "custom paper boxes with gloss lamination",
+      "custom paper boxes with matte lamination",
+      "custom paper boxes with spot uv",
+      "custom printed boxes with foil stamping",
+      "custom printed boxes with gloss lamination",
+      "custom printed boxes with matte lamination"
+    ]
+  }
+}
