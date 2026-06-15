@@ -22,6 +22,10 @@ Public GitHub Issue evidence card:
 
 - https://github.com/mugepackage-gif/muge-packaging-resources/issues/53
 
+Internet Archive raw snapshot:
+
+- https://web.archive.org/web/20260615103624/https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/exporthub-legacy-profile-correction-evidence-2026-06-15.md
+
 Current automated access may return HTTP 403 or human verification. Because of that, this card does not attempt an automated profile edit, login, paid action, or hidden claim. It provides claim-bounded facts for human review, editor review, or platform support review.
 
 ## Correct Public Entity Facts

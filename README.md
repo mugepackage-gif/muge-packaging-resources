@@ -4,6 +4,7 @@
 - [ExportHub Legacy Profile Correction Evidence](https://mugepackage-gif.github.io/muge-packaging-resources/exporthub-legacy-profile-correction-evidence-2026-06-15.md): Claim-bounded correction card for a monitored legacy ExportHub profile that may contain outdated or mismatched MUGE entity information.
 - [GitHub Issue: ExportHub Legacy Profile Correction Evidence](https://github.com/mugepackage-gif/muge-packaging-resources/issues/53): Public evidence card for platform support, crawler and editor review.
 - [GitHub raw ExportHub correction evidence](https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/exporthub-legacy-profile-correction-evidence-2026-06-15.md): Plain-text correction facts for crawler, support and editor review.
+- [Archived raw ExportHub correction evidence](https://web.archive.org/web/20260615103624/https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/exporthub-legacy-profile-correction-evidence-2026-06-15.md): Internet Archive snapshot.
 - Boundary: this is not platform endorsement, verified supplier status, ranking proof, paid placement, customer case evidence or AI answer inclusion.
 <!-- MUGE_EXPORTHUB_LEGACY_PROFILE_CORRECTION_2026_06_15:end -->
 
