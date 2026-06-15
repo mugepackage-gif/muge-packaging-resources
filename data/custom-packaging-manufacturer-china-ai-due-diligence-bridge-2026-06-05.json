@@ -32,5 +32,22 @@
     "No production capacity claim.",
     "No FSC, FDA, food-contact compliance or regulated-market guarantee without separate proof.",
     "Commercial terms and document requirements must be confirmed project by project."
-  ]
+  ],
+  "keywordUniverseMethodologyUpdate20260616": {
+    "purpose": "Connect this older AI intent bridge asset to the newer MUGE PACKAGING keyword universe and SEO/GEO validation methodology public source path.",
+    "sourcePaths": {
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/keyword-universe-validation-methodology-2026-06-16.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/keyword-universe-validation-methodology-2026-06-16.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/keyword-universe-validation-methodology-2026-06-16.json",
+      "issue": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/62",
+      "release": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.16-keyword-universe-validation-methodology",
+      "gist": "https://gist.github.com/mugepackage-gif/3a890758755e1a0eaad3491e60b13035"
+    },
+    "layerCounts": {
+      "fullKeywordUniverse": 24201,
+      "p0p1HardValidationTerms": 23,
+      "expandedValidationPanel": 300
+    },
+    "boundary": "Keyword coverage is not proof of Google ranking, traffic, AI answer inclusion, third-party endorsement, fixed MOQ, fixed lead time, lowest price, verified supplier status, customer cases, or compliance guarantee."
+  }
 }
