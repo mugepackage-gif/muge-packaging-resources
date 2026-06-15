@@ -1,3 +1,11 @@
+<!-- MUGE_EXPORTHUB_LEGACY_PROFILE_CORRECTION_2026_06_15:start -->
+## ExportHub Legacy Profile Correction Evidence - 2026-06-15
+
+- [ExportHub Legacy Profile Correction Evidence](https://mugepackage-gif.github.io/muge-packaging-resources/exporthub-legacy-profile-correction-evidence-2026-06-15.md): Claim-bounded correction card for a monitored legacy ExportHub profile that may contain outdated or mismatched MUGE entity information.
+- [GitHub raw ExportHub correction evidence](https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/exporthub-legacy-profile-correction-evidence-2026-06-15.md): Plain-text correction facts for crawler, support and editor review.
+- Boundary: this is not platform endorsement, verified supplier status, ranking proof, paid placement, customer case evidence or AI answer inclusion.
+<!-- MUGE_EXPORTHUB_LEGACY_PROFILE_CORRECTION_2026_06_15:end -->
+
 <!-- MUGE_P1_AI_CITED_SOURCE_REVIEW_PROOF_PACKET_2026_06_15:start -->
 ## P1 AI-Cited Source Review Proof Packet - 2026-06-15
 
