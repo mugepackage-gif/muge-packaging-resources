@@ -1,0 +1,3139 @@
+{
+  "generatedAt": "2026-06-15T21:13:24.447Z",
+  "slug": "custom-packaging-europe-middle-east-keyword-execution-map-2026-06-16",
+  "title": "Custom Packaging Europe and Middle East Keyword Execution Map",
+  "sourceKeywordJson": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/关键词策略/分层关键词宇宙/MUGE_SEO_GEO_分层关键词宇宙当前输入.json",
+  "summary": {
+    "totalKeywords": 24201,
+    "byBucket": {
+      "P0P1硬验收": 23,
+      "P2交易执行": 10484,
+      "GEO_AI问答测试": 1084,
+      "P3长尾承接": 3823,
+      "候选池": 8787
+    },
+    "hardValidationKeywords": 23,
+    "executionQueueKeywords": 800,
+    "aiQuestionTests": 300,
+    "candidatePoolKeywords": 8787
+  },
+  "coreRows": [
+    {
+      "keyword": "custom packaging supplier",
+      "source": "P0/P1硬验收基准",
+      "tierHint": "P0交易型",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 292,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2",
+        "Perplexity引用源机会中出现同类关键词"
+      ],
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "bucket": "P0P1硬验收"
+    },
+    {
+      "keyword": "custom packaging boxes",
+      "source": "P0/P1硬验收基准",
+      "tierHint": "P0交易型",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 242,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2",
+        "Perplexity引用源机会中出现同类关键词"
+      ],
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "bucket": "P0P1硬验收"
+    },
+    {
+      "keyword": "custom packaging boxes with logo",
+      "source": "P0/P1硬验收基准",
+      "tierHint": "P1产品细分",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 197,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "bucket": "P0P1硬验收"
+    }
+  ],
+  "selectedExecutionRows": [
+    {
+      "keyword": "gift sets custom packaging boxes supplier",
+      "source": "行业×产品×供应商",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 155,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "gift sets custom packaging supplier",
+      "source": "行业×产品×供应商",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 155,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes bulk canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes bulk dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes bulk europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes bulk middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes bulk saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes bulk uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes bulk uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes bulk united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes china manufacturer canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes china manufacturer dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes china manufacturer europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes china manufacturer middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes china manufacturer saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes china manufacturer uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes china manufacturer uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes china manufacturer united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes china supplier canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes china supplier dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes china supplier europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes china supplier middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes china supplier saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes china supplier uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes china supplier uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes china supplier united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes exporter canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes exporter dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes exporter europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes exporter middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes exporter saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes exporter uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes exporter uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes exporter united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes factory canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes factory dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes factory europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes factory middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes factory saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes factory uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes factory uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes factory united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes manufacturer canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes manufacturer dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes manufacturer europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes manufacturer middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes manufacturer saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes manufacturer uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes manufacturer uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes manufacturer united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes oem canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes oem dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes oem europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes oem middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes oem saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes oem uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes oem uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes oem united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes source factory canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes source factory dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes source factory europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes source factory middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes source factory saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes source factory uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes source factory uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes source factory united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes supplier canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes supplier dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes supplier europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes supplier middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes supplier saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes supplier uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes supplier uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes supplier united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes vendor canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes vendor dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes vendor europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes vendor middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes vendor saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes vendor uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes vendor uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes vendor united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes wholesale canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes wholesale dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes wholesale europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes wholesale middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes wholesale saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes wholesale uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes wholesale uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging boxes wholesale united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging bulk canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging bulk dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging bulk europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging bulk middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging bulk saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging bulk uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging bulk uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging bulk united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging china manufacturer canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging china manufacturer dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging china manufacturer europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging china manufacturer middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging china manufacturer saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging china manufacturer uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging china manufacturer uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging china manufacturer united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging china supplier canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging china supplier dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging china supplier europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging china supplier middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging china supplier saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging china supplier uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging china supplier uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging china supplier united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging exporter canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging exporter dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging exporter europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging exporter middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging exporter saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging exporter uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging exporter uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging exporter united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging factory canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging factory dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging factory europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging factory middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging factory saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging factory uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging factory uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging factory united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging manufacturer canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging manufacturer dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging manufacturer europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging manufacturer middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging manufacturer saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging manufacturer uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging manufacturer uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging manufacturer united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging oem canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging oem dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging oem europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging oem middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging oem saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging oem uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging oem uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging oem united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging source factory canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging source factory dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging source factory europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging source factory middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging source factory saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging source factory uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging source factory uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging source factory united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging supplier canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging supplier dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging supplier europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging supplier middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging supplier saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging supplier uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging supplier uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging supplier united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging vendor canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging vendor dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging vendor europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging vendor middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging vendor saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging vendor uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging vendor uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging vendor united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging wholesale canada",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging wholesale dubai",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging wholesale europe",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging wholesale middle east",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging wholesale saudi arabia",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging wholesale uae",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging wholesale uk",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "custom packaging wholesale united states",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "european brands custom packaging boxes supplier",
+      "source": "行业×产品×供应商",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "keyword": "european brands custom packaging supplier",
+      "source": "行业×产品×供应商",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 153,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    }
+  ],
+  "selectedAiRows": [
+    {
+      "keyword": "manufacturer or trading company for custom packaging",
+      "source": "采购决策比较",
+      "tierHint": "GEO测试",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 147,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "best custom packaging",
+      "source": "AI问答×产品词",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 135,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "best custom packaging boxes",
+      "source": "AI问答×产品词",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 135,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "buying guide custom packaging",
+      "source": "AI问答×产品词",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 135,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "buying guide custom packaging boxes",
+      "source": "AI问答×产品词",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 135,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "guide custom packaging",
+      "source": "AI问答×产品词",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 135,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "guide custom packaging boxes",
+      "source": "AI问答×产品词",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 135,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "what details are needed for custom packaging",
+      "source": "AI问答×产品词",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 135,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "what details are needed for custom packaging boxes",
+      "source": "AI问答×产品词",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 135,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "what to send for custom packaging",
+      "source": "AI问答×产品词",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 135,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "what to send for custom packaging boxes",
+      "source": "AI问答×产品词",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 135,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "where to find custom packaging",
+      "source": "AI问答×产品词",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 135,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "where to find custom packaging boxes",
+      "source": "AI问答×产品词",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 135,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "best packaging for european brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 131,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "best packaging for middle east brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 131,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "best packaging for uk brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 131,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "buying guide packaging for european brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 131,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "buying guide packaging for middle east brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 131,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "buying guide packaging for uk brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 131,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "guide packaging for european brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 131,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "guide packaging for middle east brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 131,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "guide packaging for uk brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 131,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "what details are needed for packaging for european brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 131,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "what details are needed for packaging for middle east brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 131,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "what details are needed for packaging for uk brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 131,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "what to send for packaging for european brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 131,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "what to send for packaging for middle east brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 131,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "what to send for packaging for uk brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 131,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "where to find packaging for european brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 131,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "where to find packaging for middle east brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 131,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "where to find packaging for uk brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 131,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "best packaging for amazon sellers",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 125,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "best packaging for dtc brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 125,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "buying guide packaging for amazon sellers",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 125,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "buying guide packaging for dtc brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 125,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "custom packaging or ready made packaging for custom packaging",
+      "source": "采购决策比较",
+      "tierHint": "GEO测试",
+      "class": "场景长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 125,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "foil stamping or spot uv for custom packaging",
+      "source": "采购决策比较",
+      "tierHint": "GEO测试",
+      "class": "场景长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 125,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "guide packaging for amazon sellers",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 125,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "guide packaging for dtc brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 125,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "matte lamination or gloss lamination for custom packaging",
+      "source": "采购决策比较",
+      "tierHint": "GEO测试",
+      "class": "场景长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 125,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "paper insert or foam insert for custom packaging",
+      "source": "采购决策比较",
+      "tierHint": "GEO测试",
+      "class": "场景长尾",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 125,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "what details are needed for packaging for amazon sellers",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 125,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "what details are needed for packaging for dtc brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 125,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "what to send for packaging for amazon sellers",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 125,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "what to send for packaging for dtc brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 125,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "where to find packaging for amazon sellers",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 125,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "keyword": "where to find packaging for dtc brands",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products",
+      "score": 125,
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    }
+  ],
+  "groups": [
+    {
+      "region": "International",
+      "count": 68,
+      "topKeywords": [
+        "gift sets custom packaging boxes supplier",
+        "gift sets custom packaging supplier",
+        "custom packaging boxes bulk canada",
+        "custom packaging boxes bulk dubai",
+        "custom packaging boxes bulk united states",
+        "custom packaging boxes china manufacturer canada",
+        "custom packaging boxes china manufacturer dubai",
+        "custom packaging boxes china manufacturer united states",
+        "custom packaging boxes china supplier canada",
+        "custom packaging boxes china supplier dubai",
+        "custom packaging boxes china supplier united states",
+        "custom packaging boxes exporter canada",
+        "custom packaging boxes exporter dubai",
+        "custom packaging boxes exporter united states",
+        "custom packaging boxes factory canada",
+        "custom packaging boxes factory dubai",
+        "custom packaging boxes factory united states",
+        "custom packaging boxes manufacturer canada"
+      ],
+      "intents": [
+        "supplier",
+        "bulk / wholesale",
+        "manufacturer",
+        "exporter",
+        "factory",
+        "custom boxes",
+        "source factory",
+        "vendor",
+        "buyer research"
+      ]
+    },
+    {
+      "region": "Europe / UK",
+      "count": 46,
+      "topKeywords": [
+        "custom packaging boxes bulk europe",
+        "custom packaging boxes bulk uk",
+        "custom packaging boxes china manufacturer europe",
+        "custom packaging boxes china manufacturer uk",
+        "custom packaging boxes china supplier europe",
+        "custom packaging boxes china supplier uk",
+        "custom packaging boxes exporter europe",
+        "custom packaging boxes exporter uk",
+        "custom packaging boxes factory europe",
+        "custom packaging boxes factory uk",
+        "custom packaging boxes manufacturer europe",
+        "custom packaging boxes manufacturer uk",
+        "custom packaging boxes oem europe",
+        "custom packaging boxes oem uk",
+        "custom packaging boxes source factory europe",
+        "custom packaging boxes source factory uk",
+        "custom packaging boxes supplier europe",
+        "custom packaging boxes supplier uk"
+      ],
+      "intents": [
+        "bulk / wholesale",
+        "manufacturer",
+        "supplier",
+        "exporter",
+        "factory",
+        "custom boxes",
+        "source factory",
+        "vendor",
+        "buyer research"
+      ]
+    },
+    {
+      "region": "Middle East / GCC",
+      "count": 66,
+      "topKeywords": [
+        "custom packaging boxes bulk middle east",
+        "custom packaging boxes bulk saudi arabia",
+        "custom packaging boxes bulk uae",
+        "custom packaging boxes china manufacturer middle east",
+        "custom packaging boxes china manufacturer saudi arabia",
+        "custom packaging boxes china manufacturer uae",
+        "custom packaging boxes china supplier middle east",
+        "custom packaging boxes china supplier saudi arabia",
+        "custom packaging boxes china supplier uae",
+        "custom packaging boxes exporter middle east",
+        "custom packaging boxes exporter saudi arabia",
+        "custom packaging boxes exporter uae",
+        "custom packaging boxes factory middle east",
+        "custom packaging boxes factory saudi arabia",
+        "custom packaging boxes factory uae",
+        "custom packaging boxes manufacturer middle east",
+        "custom packaging boxes manufacturer saudi arabia",
+        "custom packaging boxes manufacturer uae"
+      ],
+      "intents": [
+        "bulk / wholesale",
+        "manufacturer",
+        "supplier",
+        "exporter",
+        "factory",
+        "custom boxes",
+        "source factory",
+        "vendor",
+        "buyer research"
+      ]
+    }
+  ],
+  "officialPages": [
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/contact",
+    "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company"
+  ],
+  "claimBoundary": [
+    "No ranking claim",
+    "No traffic claim",
+    "No AI inclusion claim",
+    "No third-party endorsement claim",
+    "No verified supplier claim",
+    "No fixed MOQ, fixed lead time, lowest price or compliance guarantee"
+  ]
+}
