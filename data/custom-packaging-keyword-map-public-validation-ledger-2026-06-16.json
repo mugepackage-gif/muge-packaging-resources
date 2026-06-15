@@ -1,0 +1,270 @@
+{
+  "generatedAt": "2026-06-15T21:34:49.364Z",
+  "publishedDate": "2026-06-16",
+  "slug": "custom-packaging-keyword-map-public-validation-ledger-2026-06-16",
+  "urls": {
+    "officialProducts": "https://mugepackaging.com/products",
+    "issue": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/65",
+    "mapAHtml": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-europe-middle-east-keyword-execution-map-2026-06-16.html",
+    "mapAMd": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-europe-middle-east-keyword-execution-map-2026-06-16.md",
+    "mapAJson": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-europe-middle-east-keyword-execution-map-2026-06-16.json",
+    "mapARelease": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.16-custom-packaging-keyword-execution-map",
+    "mapBHtml": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-bulk-rfq-buyer-map-2026-06-16.html",
+    "mapBMd": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-bulk-rfq-buyer-map-2026-06-16.md",
+    "mapBJson": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-boxes-bulk-rfq-buyer-map-2026-06-16.json",
+    "mapBRelease": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.16-custom-packaging-boxes-bulk-rfq-map"
+  },
+  "summary": {
+    "fullKeywordUniverse": 24201,
+    "hardValidationTerms": 23,
+    "expandedValidationPanel": 300,
+    "currentExecutionQueue": 800,
+    "mapA": {
+      "executionTerms": 180,
+      "aiGeoQuestions": 47
+    },
+    "mapB": {
+      "executionTerms": 160,
+      "aiGeoQuestions": 21
+    }
+  },
+  "checks": [
+    {
+      "label": "Official products page",
+      "url": "https://mugepackaging.com/products",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 1503,
+      "bytes": 98133,
+      "containsResults": [
+        {
+          "needle": "Custom Packaging Europe and Middle East Keyword Execution Map",
+          "found": true
+        },
+        {
+          "needle": "custom-packaging-europe-middle-east-keyword-execution-map-2026-06-16",
+          "found": true
+        },
+        {
+          "needle": "Custom Packaging Boxes Bulk and RFQ Buyer Map",
+          "found": true
+        },
+        {
+          "needle": "custom-packaging-boxes-bulk-rfq-buyer-map-2026-06-16",
+          "found": true
+        },
+        {
+          "needle": "v2026.06.16-custom-packaging-keyword-execution-map",
+          "found": true
+        },
+        {
+          "needle": "v2026.06.16-custom-packaging-boxes-bulk-rfq-map",
+          "found": true
+        },
+        {
+          "needle": "CreativeWork",
+          "found": true
+        }
+      ],
+      "containsPass": true
+    },
+    {
+      "label": "GitHub issue #65",
+      "url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/65",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 838,
+      "bytes": 252886,
+      "containsResults": [
+        {
+          "needle": "Custom packaging keyword maps public validation thread",
+          "found": true
+        }
+      ],
+      "containsPass": true
+    },
+    {
+      "label": "Keyword execution map HTML",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-europe-middle-east-keyword-execution-map-2026-06-16.html",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 436,
+      "bytes": 60872,
+      "containsResults": [
+        {
+          "needle": "Custom Packaging Europe and Middle East Keyword Execution Map",
+          "found": true
+        }
+      ],
+      "containsPass": true
+    },
+    {
+      "label": "Keyword execution map Markdown",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-europe-middle-east-keyword-execution-map-2026-06-16.md",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 422,
+      "bytes": 24558,
+      "containsResults": [
+        {
+          "needle": "Custom Packaging Europe and Middle East Keyword Execution Map",
+          "found": true
+        }
+      ],
+      "containsPass": true
+    },
+    {
+      "label": "Keyword execution map JSON",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-europe-middle-east-keyword-execution-map-2026-06-16.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 421,
+      "bytes": 119308,
+      "containsResults": [
+        {
+          "needle": "Custom Packaging Europe and Middle East Keyword Execution Map",
+          "found": true
+        }
+      ],
+      "containsPass": true
+    },
+    {
+      "label": "Keyword execution map Release",
+      "url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.16-custom-packaging-keyword-execution-map",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 912,
+      "bytes": 207848,
+      "containsResults": [
+        {
+          "needle": "custom-packaging-keyword-execution-map",
+          "found": true
+        }
+      ],
+      "containsPass": true
+    },
+    {
+      "label": "Boxes RFQ buyer map HTML",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-bulk-rfq-buyer-map-2026-06-16.html",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 502,
+      "bytes": 68248,
+      "containsResults": [
+        {
+          "needle": "Custom Packaging Boxes Bulk and RFQ Buyer Map",
+          "found": true
+        }
+      ],
+      "containsPass": true
+    },
+    {
+      "label": "Boxes RFQ buyer map Markdown",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-bulk-rfq-buyer-map-2026-06-16.md",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 501,
+      "bytes": 29023,
+      "containsResults": [
+        {
+          "needle": "Custom Packaging Boxes Bulk and RFQ Buyer Map",
+          "found": true
+        }
+      ],
+      "containsPass": true
+    },
+    {
+      "label": "Boxes RFQ buyer map JSON",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-boxes-bulk-rfq-buyer-map-2026-06-16.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 426,
+      "bytes": 99164,
+      "containsResults": [
+        {
+          "needle": "Custom Packaging Boxes Bulk and RFQ Buyer Map",
+          "found": true
+        }
+      ],
+      "containsPass": true
+    },
+    {
+      "label": "Boxes RFQ buyer map Release",
+      "url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.16-custom-packaging-boxes-bulk-rfq-map",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 908,
+      "bytes": 207889,
+      "containsResults": [
+        {
+          "needle": "custom-packaging-boxes-bulk-rfq-map",
+          "found": true
+        }
+      ],
+      "containsPass": true
+    }
+  ],
+  "officialContains": [
+    {
+      "needle": "Custom Packaging Europe and Middle East Keyword Execution Map",
+      "found": true
+    },
+    {
+      "needle": "custom-packaging-europe-middle-east-keyword-execution-map-2026-06-16",
+      "found": true
+    },
+    {
+      "needle": "Custom Packaging Boxes Bulk and RFQ Buyer Map",
+      "found": true
+    },
+    {
+      "needle": "custom-packaging-boxes-bulk-rfq-buyer-map-2026-06-16",
+      "found": true
+    },
+    {
+      "needle": "v2026.06.16-custom-packaging-keyword-execution-map",
+      "found": true
+    },
+    {
+      "needle": "v2026.06.16-custom-packaging-boxes-bulk-rfq-map",
+      "found": true
+    },
+    {
+      "needle": "CreativeWork",
+      "found": true
+    }
+  ],
+  "claimBoundary": "Public source-path evidence only; not ranking, traffic, AI inclusion, endorsement, paid placement or fixed commercial-term proof.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "MUGE PACKAGING Custom Packaging Keyword Map Public Validation Ledger",
+    "description": "Public source-path validation ledger for MUGE PACKAGING custom packaging keyword map assets and official product page references.",
+    "datePublished": "2026-06-16",
+    "dateModified": "2026-06-16",
+    "creator": {
+      "@type": "Organization",
+      "name": "MUGE PACKAGING",
+      "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+      "url": "https://mugepackaging.com"
+    },
+    "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-keyword-map-public-validation-ledger-2026-06-16.html",
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "text/html",
+        "contentUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-keyword-map-public-validation-ledger-2026-06-16.html"
+      },
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "text/markdown",
+        "contentUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-keyword-map-public-validation-ledger-2026-06-16.md"
+      },
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-keyword-map-public-validation-ledger-2026-06-16.json"
+      }
+    ]
+  }
+}
