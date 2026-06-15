@@ -40,6 +40,7 @@ This is not proof of third-party acceptance, backlink, ranking, endorsement, cer
 - https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-mordor-intelligence-com-2026-06-15.html
 - https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-mordor-intelligence-com-2026-06-15.md
 - https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-request-mordor-intelligence-com-2026-06-15.json
+- https://web.archive.org/web/20260615112528/https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/p1-source-review-request-mordor-intelligence-com-2026-06-15.md
 - https://mugepackaging.com
 - https://mugepackaging.com/products
 - https://mugepackaging.com/contact
