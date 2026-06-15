@@ -11,10 +11,24 @@
   "citedUrls": [
     "https://www.towardspackaging.com/insights/rigid-box-market-sizing"
   ],
+  "status": "public_issue_created_live_recheck_200_no_observed_muge",
   "publicUrls": {
     "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-towardspackaging-com-2026-06-15.html",
     "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-towardspackaging-com-2026-06-15.md",
-    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-request-towardspackaging-com-2026-06-15.json"
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-request-towardspackaging-com-2026-06-15.json",
+    "trackingIssue": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/60"
   },
-  "boundary": "Public source review evidence only. No automated email sent, no third-party form submitted, no login, no payment and no captcha bypass."
+  "liveRecheck": {
+    "checkedAt": "2026-06-15T13:15:00+08:00",
+    "checkedUrl": "https://www.towardspackaging.com/insights/rigid-box-market-sizing",
+    "httpStatus": 200,
+    "effectiveUrl": "https://www.towardspackaging.com/insights/rigid-box-market-sizing",
+    "pageTitle": "Rigid Box Market Size and Trends 2026-35",
+    "observedMugeMention": false,
+    "publicEmailsFound": [
+      "sales@towardspackaging.com"
+    ],
+    "boundary": "No login, payment, captcha bypass, automated email or third-party form submission."
+  },
+  "boundary": "Public source review evidence only. GitHub Issue #60 created for transparent tracking. This is not proof of Towards Packaging acceptance, backlink, endorsement, ranking, certification or AI citation."
 }

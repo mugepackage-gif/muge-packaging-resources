@@ -5,7 +5,7 @@ tags:
   - source-review
   - AI引用源
 created: 2026-06-15
-status: public_source_review_request_not_sent
+status: public_issue_created_live_recheck_200_no_observed_muge
 ---
 
 # MUGE PACKAGING Source Review Request - towardspackaging.com
@@ -33,12 +33,14 @@ This is not proof of third-party acceptance, backlink, ranking, endorsement, cer
 - Perplexity citation count in latest sample: 1
 - Matched buyer questions: rigid box manufacturer
 - Current action: public source review evidence prepared; no automated email sent.
+- Public tracking issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/60
 
 ## Public Evidence
 
 - https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-towardspackaging-com-2026-06-15.html
 - https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-towardspackaging-com-2026-06-15.md
 - https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-request-towardspackaging-com-2026-06-15.json
+- https://github.com/mugepackage-gif/muge-packaging-resources/issues/60
 - https://mugepackaging.com
 - https://mugepackaging.com/products
 - https://mugepackaging.com/contact
@@ -46,6 +48,18 @@ This is not proof of third-party acceptance, backlink, ranking, endorsement, cer
 ## Perplexity-Cited Source URLs
 
 - https://www.towardspackaging.com/insights/rigid-box-market-sizing
+
+## Live Recheck - 2026-06-15
+
+| Field | Result |
+|---|---|
+| Checked URL | https://www.towardspackaging.com/insights/rigid-box-market-sizing |
+| HTTP status | 200 |
+| Effective URL | https://www.towardspackaging.com/insights/rigid-box-market-sizing |
+| Page title | Rigid Box Market Size and Trends 2026-35 |
+| Observed MUGE mention | No |
+| Public emails found in fetched page body | sales@towardspackaging.com |
+| Boundary | No login, payment, captcha bypass, automated email or third-party form submission. |
 
 ## Request Body
 
@@ -85,3 +99,4 @@ sales@mugepackaging.com
 - No third-party form submitted.
 - No login, payment or captcha bypass.
 - This page is a public evidence landing page for manual or separately authorized source review.
+- GitHub Issue #60 created as a public tracking record; this does not mean Towards Packaging accepted, linked to, cited or endorsed MUGE.
