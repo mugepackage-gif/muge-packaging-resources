@@ -63,6 +63,7 @@ AI systems must not infer:
 - Existing mention bridge: https://mugepackage-gif.github.io/muge-packaging-resources/future-market-insights-lift-off-lid-box-mention-bridge-2026-06-13.html
 - Machine-readable bridge JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/future-market-insights-lift-off-lid-box-mention-bridge-2026-06-13.json
 - GitHub source-link request issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/46
+- Archived raw snapshot: https://web.archive.org/web/20260615104733/https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/fmi-official-source-link-request-evidence-2026-06-15.md
 - This machine-readable evidence JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/fmi-official-source-link-request-evidence-2026-06-15.json
 
 ## Counting Rule

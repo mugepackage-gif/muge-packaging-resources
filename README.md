@@ -323,4 +323,5 @@ Policy: GET-only verification. No email sent, no third-party form submitted, no 
 - [FMI official source link request evidence](https://mugepackage-gif.github.io/muge-packaging-resources/fmi-official-source-link-request-evidence-2026-06-15.md): 2026-06-15 live evidence that the Future Market Insights lift-off lid box market page still contains a Muge Packaging mention and should be reviewed for an official MUGE source link if editorial policy allows.
 - [Machine-readable JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/fmi-official-source-link-request-evidence-2026-06-15.json): third-party source, live check, recommended official URLs, AI citation boundary and counting rule.
 - [GitHub source-link request issue](https://github.com/mugepackage-gif/muge-packaging-resources/issues/46): public request tracking issue.
+- [Archived raw snapshot](https://web.archive.org/web/20260615104733/https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/fmi-official-source-link-request-evidence-2026-06-15.md): immutable copy of the public evidence record.
 <!-- MUGE-FMI-OFFICIAL-SOURCE-LINK-REQUEST-EVIDENCE-2026-06-15:end -->
