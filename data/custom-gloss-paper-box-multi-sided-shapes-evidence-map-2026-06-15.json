@@ -1,0 +1,87 @@
+{
+  "generatedAt": "2026-06-15T02:33:44.651Z",
+  "title": "Custom Gloss Paper Box With Multi-Sided Shapes Evidence Map",
+  "officialUrl": "https://mugepackaging.com/products/paper-packaging",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-gloss-paper-box-multi-sided-shapes-evidence-map-2026-06-15.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-gloss-paper-box-multi-sided-shapes-evidence-map-2026-06-15.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-gloss-paper-box-multi-sided-shapes-evidence-map-2026-06-15.json"
+  },
+  "targetQueries": [
+    {
+      "query": "custom gloss paper box with multi-sided shapes",
+      "gscPosition": 9,
+      "impressions": 1,
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "intent": "Buyer looking for a custom printed paper box with gloss finish and non-standard multi-panel or multi-sided structure."
+    }
+  ],
+  "structureChecks": [
+    {
+      "check": "Dieline and panel count",
+      "buyerUse": "Confirm how many visible panels need artwork, barcode, warning text, product claims or retail information.",
+      "productionUse": "Avoid artwork wraparound errors, panel mismatch and weak folding sequence before sampling."
+    },
+    {
+      "check": "Gloss finish direction",
+      "buyerUse": "Decide whether gloss lamination, spot gloss or UV should cover all panels or only logo/product-highlight areas.",
+      "productionUse": "Keeps finish review tied to scuff risk, fold lines, glue area and visual priority."
+    },
+    {
+      "check": "Folding tolerance",
+      "buyerUse": "Check whether the multi-sided shape needs extra tolerance around corners, locks, tabs, inserts or closure flaps.",
+      "productionUse": "Reduces fit issues when the structure moves from flat dieline to assembled sample."
+    },
+    {
+      "check": "Insert and product fit",
+      "buyerUse": "Confirm product weight, dimensions, movement risk and whether the box needs paperboard insert, EVA, pulp tray or sleeve.",
+      "productionUse": "Connects decorative multi-sided structure with real product protection."
+    },
+    {
+      "check": "Shipping and packing method",
+      "buyerUse": "Decide if the box ships flat, pre-assembled, nested or packed with outer cartons.",
+      "productionUse": "Prevents choosing a shape that looks good in retail but fails on packing efficiency."
+    }
+  ],
+  "officialMugePages": [
+    {
+      "label": "Paper packaging product page",
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "role": "Official page now carrying the GSC query and buyer FAQ for gloss / multi-sided paper boxes."
+    },
+    {
+      "label": "Custom packaging quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "role": "Use when turning shape and finish requirements into RFQ information."
+    },
+    {
+      "label": "Custom packaging quote brief template",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-brief-template",
+      "role": "Use when buyers need to collect dimensions, material direction, artwork and sample review notes."
+    },
+    {
+      "label": "Contact MUGE PACKAGING",
+      "url": "https://mugepackaging.com/contact",
+      "role": "Handoff page for project-specific review. No fixed MOQ, price or lead-time promise is made in this asset."
+    }
+  ],
+  "legacySignals": [
+    {
+      "oldPath": "http://www.mugepackaging.com/product-tag/printed-rigid-boxes/",
+      "currentUse": "Legacy GSC-visible path now converges toward paper packaging / rigid paper box structure discussion."
+    },
+    {
+      "oldPath": "http://www.mugepackaging.com/product-tag/paper-shipping-white-pit-box/",
+      "currentUse": "Legacy paper box signal that should reinforce paper packaging structure relevance after redirect and canonical consolidation."
+    },
+    {
+      "oldPath": "https://mugepackaging.com/product/custom-shaped-cardboard-boxes",
+      "currentUse": "Custom-shaped cardboard box interest should be bridged to current paper packaging structure guidance."
+    }
+  ],
+  "claimBoundaries": [
+    "This asset explains sourcing and structure checks only; it does not promise fixed MOQ, fixed lead time, fixed price or production capacity.",
+    "Gloss finish, board choice, dieline and insert decisions must be reviewed against the actual product, artwork and sampling result.",
+    "Food-contact, child-safety, sustainability, certification or regulated-market claims require project-specific documents and manual confirmation."
+  ]
+}
