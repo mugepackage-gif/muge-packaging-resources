@@ -1,0 +1,107 @@
+{
+  "generatedAt": "2026-06-15T03:37:37.511Z",
+  "title": "Custom Protective Packaging for Fragile Products Evidence Map",
+  "officialUrl": "https://mugepackaging.com/blog/custom-protective-packaging-solutions-for-fragile-and-valuable-products",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-protective-packaging-fragile-products-evidence-map-2026-06-15.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-protective-packaging-fragile-products-evidence-map-2026-06-15.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-protective-packaging-fragile-products-evidence-map-2026-06-15.json"
+  },
+  "targetQueries": [
+    {
+      "query": "custom protective packaging",
+      "gscPosition": 47,
+      "impressions": 8,
+      "officialUrl": "https://mugepackaging.com/blog/custom-protective-packaging-solutions-for-fragile-and-valuable-products",
+      "intent": "Buyer looking for packaging that protects fragile or valuable products during retail handling, shipping or sample review."
+    },
+    {
+      "query": "custom protective packaging supplier",
+      "gscPosition": 72.25,
+      "impressions": 4,
+      "officialUrl": "https://mugepackaging.com/blog/custom-protective-packaging-solutions-for-fragile-and-valuable-products",
+      "intent": "Buyer comparing suppliers who can discuss inserts, box structure, material direction and project-specific protection needs."
+    }
+  ],
+  "buyerChecks": [
+    {
+      "check": "Product fragility profile",
+      "buyerUse": "Define whether the product is glass, ceramic, electronics, cosmetic jar, candle, bottle, gift set or another damage-sensitive item.",
+      "productionUse": "Connects packaging structure to weight, pressure points, surface finish risk and movement inside the box."
+    },
+    {
+      "check": "Main damage path",
+      "buyerUse": "Separate drop, vibration, compression, scratch, moisture, leakage and retail handling risks before choosing structure.",
+      "productionUse": "Prevents treating all protective packaging as the same insert or outer carton problem."
+    },
+    {
+      "check": "Insert structure",
+      "buyerUse": "Compare paperboard insert, corrugated insert, molded pulp, EVA, foam, sleeve, divider or nested tray based on product fit.",
+      "productionUse": "Keeps the first sample focused on holding position and reducing movement rather than decorative appearance only."
+    },
+    {
+      "check": "Outer box and shipping route",
+      "buyerUse": "Confirm whether the pack is for retail shelf, e-commerce parcel, wholesale carton, gift set or sample shipment.",
+      "productionUse": "Links the decorative box, protective insert and master carton to the actual logistics route."
+    },
+    {
+      "check": "Sample review evidence",
+      "buyerUse": "Record fit photos, closure behavior, shake test notes, corner wear, insert pressure and unboxing sequence during review.",
+      "productionUse": "Turns sampling into a decision log that can be corrected before bulk production."
+    }
+  ],
+  "fitMatrix": [
+    {
+      "productType": "Glass jars, candles, bottles",
+      "likelyRisks": "Corner impact, side pressure, scratch, cap movement, leakage risk depending on product.",
+      "protectiveDirection": "Rigid box or corrugated outer pack with shaped insert, divider or pulp tray after sample review."
+    },
+    {
+      "productType": "Electronics accessories or small devices",
+      "likelyRisks": "Compression, cable movement, surface scratch and component separation.",
+      "protectiveDirection": "Paperboard tray, EVA or pulp insert with labeled accessory zones and outer carton check."
+    },
+    {
+      "productType": "Premium gift sets",
+      "likelyRisks": "Multi-item movement, uneven weight, presentation damage and retail handling.",
+      "protectiveDirection": "Rigid gift box, sleeve, divider, paperboard insert or nested tray depending on item count."
+    },
+    {
+      "productType": "Fragile e-commerce products",
+      "likelyRisks": "Parcel drop, vibration, warehouse compression and return-shipping damage.",
+      "protectiveDirection": "Corrugated mailer, insert, buffer zone and master carton review before scaling."
+    }
+  ],
+  "officialMugePages": [
+    {
+      "label": "Custom protective packaging guide",
+      "url": "https://mugepackaging.com/blog/custom-protective-packaging-solutions-for-fragile-and-valuable-products",
+      "role": "Primary official page carrying the GSC opportunity queries for protective packaging."
+    },
+    {
+      "label": "Corrugated boxes product page",
+      "url": "https://mugepackaging.com/products/corrugated-boxes",
+      "role": "Relevant for shipping, e-commerce and outer carton protection discussions."
+    },
+    {
+      "label": "Rigid / folding gift box product page",
+      "url": "https://mugepackaging.com/products/folding-gift-box",
+      "role": "Relevant when the buyer needs presentation plus internal product positioning."
+    },
+    {
+      "label": "Custom packaging quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "role": "Turns protection requirements into RFQ fields such as size, weight, material, insert and shipping route."
+    },
+    {
+      "label": "Contact MUGE PACKAGING",
+      "url": "https://mugepackaging.com/contact",
+      "role": "Project-specific handoff page. No fixed MOQ, price, lead time or damage-rate promise is made here."
+    }
+  ],
+  "claimBoundaries": [
+    "This asset explains sourcing and structure checks only; it does not promise fixed MOQ, fixed lead time, fixed price, production capacity or damage-rate results.",
+    "Protection level depends on product size, weight, fragility, shipping route, insert design, sample review and buyer acceptance criteria.",
+    "Food-contact, child-safety, regulatory, sustainability, certification or compliance claims require project-specific documents and manual confirmation."
+  ]
+}
