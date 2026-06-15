@@ -1,5 +1,6 @@
 {
-  "generatedAt": "2026-06-15T07:09:59.906Z",
+  "generatedAt": "2026-06-15T12:18:00.000Z",
+  "status": "public_issue_created_no_third_party_acceptance",
   "sourceFile": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/机会清单/20260615_1455_Perplexity已引用来源反向外部机会清单.json",
   "host": "marketresearchfuture.com",
   "priority": "P1",
@@ -14,7 +15,19 @@
   "publicUrls": {
     "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-marketresearchfuture-com-2026-06-15.html",
     "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-marketresearchfuture-com-2026-06-15.md",
-    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-request-marketresearchfuture-com-2026-06-15.json"
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-request-marketresearchfuture-com-2026-06-15.json",
+    "trackingIssue": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/57"
   },
-  "boundary": "Public source review evidence only. No automated email sent, no third-party form submitted, no login, no payment and no captcha bypass."
+  "liveRecheck": {
+    "checkedAt": "2026-06-15T12:18:00.000Z",
+    "url": "https://www.marketresearchfuture.com/reports/rigid-box-market-37813",
+    "httpStatus": 200,
+    "observedTitle": "Rigid Box Market Size, Analysis & Industry Growth",
+    "mugeMentionObserved": false,
+    "publicEmailsObserved": [
+      "info@marketresearchfuture.com",
+      "sales@marketresearchfuture.com"
+    ]
+  },
+  "boundary": "Public source review evidence only. No automated email sent, no third-party form submitted, no login, no payment and no captcha bypass. Not proof of backlink, acceptance, endorsement, ranking, certification, verified supplier status or AI answer inclusion."
 }

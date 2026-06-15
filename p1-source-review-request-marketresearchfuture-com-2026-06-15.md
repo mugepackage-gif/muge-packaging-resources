@@ -5,7 +5,7 @@ tags:
   - source-review
   - AI引用源
 created: 2026-06-15
-status: public_source_review_request_not_sent
+status: public_issue_created_no_third_party_acceptance
 ---
 
 # MUGE PACKAGING Source Review Request - marketresearchfuture.com
@@ -32,13 +32,14 @@ This is not proof of third-party acceptance, backlink, ranking, endorsement, cer
 - Category: 行业报告/编辑请求
 - Perplexity citation count in latest sample: 1
 - Matched buyer questions: rigid box manufacturer
-- Current action: public source review evidence prepared; no automated email sent.
+- Current action: public source review evidence and public GitHub tracking issue created; no automated email sent.
 
 ## Public Evidence
 
 - https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-marketresearchfuture-com-2026-06-15.html
 - https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-marketresearchfuture-com-2026-06-15.md
 - https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-request-marketresearchfuture-com-2026-06-15.json
+- https://github.com/mugepackage-gif/muge-packaging-resources/issues/57
 - https://mugepackaging.com
 - https://mugepackaging.com/products
 - https://mugepackaging.com/contact
@@ -46,6 +47,19 @@ This is not proof of third-party acceptance, backlink, ranking, endorsement, cer
 ## Perplexity-Cited Source URLs
 
 - https://www.marketresearchfuture.com/reports/rigid-box-market-37813
+
+## Live Recheck - 2026-06-15
+
+| Item | Result |
+|---|---|
+| Checked URL | https://www.marketresearchfuture.com/reports/rigid-box-market-37813 |
+| HTTP status | 200 |
+| Observed title | Rigid Box Market Size, Analysis & Industry Growth |
+| MUGE mention observed | No |
+| Public emails observed | info@marketresearchfuture.com, sales@marketresearchfuture.com |
+| Tracking issue | https://github.com/mugepackage-gif/muge-packaging-resources/issues/57 |
+
+Boundary: this live recheck does not prove a backlink, acceptance, endorsement, ranking, certification, AI citation or third-party listing. It only proves that the cited source page was reachable during this check and that no MUGE mention was observed in the fetched page content.
 
 ## Request Body
 
@@ -84,4 +98,5 @@ sales@mugepackaging.com
 - No email sent by automation.
 - No third-party form submitted.
 - No login, payment or captcha bypass.
+- Public GitHub issue created for crawler, editor and internal review tracking: https://github.com/mugepackage-gif/muge-packaging-resources/issues/57
 - This page is a public evidence landing page for manual or separately authorized source review.
