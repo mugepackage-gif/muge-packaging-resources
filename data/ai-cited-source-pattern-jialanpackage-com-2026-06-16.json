@@ -1,0 +1,28 @@
+{
+  "host": "jialanpackage.com",
+  "priority": "P2",
+  "category": "待人工复核",
+  "bridgeType": "ai_cited_source_review_bridge",
+  "filename": "ai-cited-source-pattern-jialanpackage-com-2026-06-16.html",
+  "jsonFilename": "data/ai-cited-source-pattern-jialanpackage-com-2026-06-16.json",
+  "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-pattern-jialanpackage-com-2026-06-16.html",
+  "title": "AI-Cited Source Pattern Bridge for jialanpackage.com | MUGE PACKAGING",
+  "officialPage": "https://mugepackaging.com/products/folding-gift-box",
+  "keywords": [
+    "rigid box manufacturer"
+  ],
+  "sourceUrls": [
+    "https://www.jialanpackage.com/top-10-rigid-box-manufacturers-in-china-2026-Guide"
+  ],
+  "fetched": [
+    {
+      "inputUrl": "https://www.jialanpackage.com/top-10-rigid-box-manufacturers-in-china-2026-Guide",
+      "finalUrl": "https://www.jialanpackage.com/top-10-rigid-box-manufacturers-in-china-2026-Guide",
+      "httpStatus": 200,
+      "ok": true,
+      "title": "​Top 10 Rigid Box Manufacturers in China (2026): The Complete Luxury Packaging Guide | Jialan Package",
+      "description": "Jialan Package : Discover the top rigid box manufacturers in China, market trends, customization insights, and why Jialan Package is a leading OEM/ODM supplier for luxury packaging.",
+      "h1": "​Top 10 Rigid Box Manufacturers in China (2026): The Complete Luxury Packaging Guide"
+    }
+  ]
+}

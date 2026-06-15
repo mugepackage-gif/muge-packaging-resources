@@ -1,0 +1,28 @@
+{
+  "host": "guddenberg-packaging.com",
+  "priority": "P2",
+  "category": "待人工复核",
+  "bridgeType": "ai_cited_source_review_bridge",
+  "filename": "ai-cited-source-pattern-guddenberg-packaging-com-2026-06-16.html",
+  "jsonFilename": "data/ai-cited-source-pattern-guddenberg-packaging-com-2026-06-16.json",
+  "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-pattern-guddenberg-packaging-com-2026-06-16.html",
+  "title": "AI-Cited Source Pattern Bridge for guddenberg-packaging.com | MUGE PACKAGING",
+  "officialPage": "https://mugepackaging.com/products",
+  "keywords": [
+    "custom packaging boxes"
+  ],
+  "sourceUrls": [
+    "https://www.guddenberg-packaging.com/en/luxury-packaging"
+  ],
+  "fetched": [
+    {
+      "inputUrl": "https://www.guddenberg-packaging.com/en/luxury-packaging",
+      "finalUrl": "https://www.guddenberg-packaging.com/en/luxury-packaging",
+      "httpStatus": 200,
+      "ok": true,
+      "title": "Custom luxury packaging | Guddenberg",
+      "description": "Sharp-edged, durable and sustainable. Discover custom luxury packaging by Guddenberg. Benefit from complete design freedom, flexible production and high-quality manufacturing in Europe.",
+      "h1": "Custom luxury packaging"
+    }
+  ]
+}

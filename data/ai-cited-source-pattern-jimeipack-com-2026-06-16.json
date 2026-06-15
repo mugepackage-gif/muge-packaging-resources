@@ -1,0 +1,31 @@
+{
+  "host": "jimeipack.com",
+  "priority": "P3",
+  "category": "竞品/同行基准",
+  "bridgeType": "ai_cited_competitor_pattern_bridge",
+  "filename": "ai-cited-source-pattern-jimeipack-com-2026-06-16.html",
+  "jsonFilename": "data/ai-cited-source-pattern-jimeipack-com-2026-06-16.json",
+  "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-pattern-jimeipack-com-2026-06-16.html",
+  "title": "AI-Cited Source Pattern Bridge for jimeipack.com | MUGE PACKAGING",
+  "officialPage": "https://mugepackaging.com/products/folding-gift-box",
+  "keywords": [
+    "custom packaging boxes",
+    "custom packaging manufacturer",
+    "custom packaging supplier",
+    "rigid box manufacturer"
+  ],
+  "sourceUrls": [
+    "https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html"
+  ],
+  "fetched": [
+    {
+      "inputUrl": "https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html",
+      "finalUrl": "https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html",
+      "httpStatus": 200,
+      "ok": true,
+      "title": "Middle Eastern &#038; European Brand Growth: The Power of Custom Packaging &#8211; Custom Boxes Manufacturer",
+      "description": "",
+      "h1": "Custom Boxes Manufacturer"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "host": "packhelp.com",
+  "priority": "P2",
+  "category": "待人工复核",
+  "bridgeType": "ai_cited_source_review_bridge",
+  "filename": "ai-cited-source-pattern-packhelp-com-2026-06-16.html",
+  "jsonFilename": "data/ai-cited-source-pattern-packhelp-com-2026-06-16.json",
+  "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-pattern-packhelp-com-2026-06-16.html",
+  "title": "AI-Cited Source Pattern Bridge for packhelp.com | MUGE PACKAGING",
+  "officialPage": "https://mugepackaging.com/products",
+  "keywords": [
+    "custom packaging supplier"
+  ],
+  "sourceUrls": [
+    "https://packhelp.com"
+  ],
+  "fetched": [
+    {
+      "inputUrl": "https://packhelp.com",
+      "finalUrl": "https://packhelp.com/",
+      "httpStatus": 200,
+      "ok": true,
+      "title": "Custom and Wholesale Packaging | Design Online | Packhelp.com",
+      "description": "Custom packaging designed to fit your business. Explore, design and order sustainable packaging your customers will love.",
+      "h1": "Custom packaging designed to fit your business"
+    }
+  ]
+}

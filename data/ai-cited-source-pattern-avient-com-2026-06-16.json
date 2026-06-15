@@ -1,0 +1,28 @@
+{
+  "host": "avient.com",
+  "priority": "P2",
+  "category": "待人工复核",
+  "bridgeType": "ai_cited_source_review_bridge",
+  "filename": "ai-cited-source-pattern-avient-com-2026-06-16.html",
+  "jsonFilename": "data/ai-cited-source-pattern-avient-com-2026-06-16.json",
+  "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-pattern-avient-com-2026-06-16.html",
+  "title": "AI-Cited Source Pattern Bridge for avient.com | MUGE PACKAGING",
+  "officialPage": "https://mugepackaging.com/products",
+  "keywords": [
+    "custom packaging manufacturer"
+  ],
+  "sourceUrls": [
+    "https://www.avient.com/center-of-excellence/avient-europe-middle-east-and-africa"
+  ],
+  "fetched": [
+    {
+      "inputUrl": "https://www.avient.com/center-of-excellence/avient-europe-middle-east-and-africa",
+      "finalUrl": "https://www.avient.com/center-of-excellence/avient-europe-middle-east-and-africa",
+      "httpStatus": 200,
+      "ok": true,
+      "title": "Avient Locations in Europe, Middle East and Africa: Addresses &amp; Phone Numbers",
+      "description": "Contact an Avient location in Europe, Middle East and Africa. Our experts speak your language, understand your markets, and can turn your project into a successful reality.",
+      "h1": "Get to Know Avient in Europe, Middle East and Africa"
+    }
+  ]
+}

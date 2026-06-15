@@ -1,0 +1,28 @@
+{
+  "host": "aprichem.com",
+  "priority": "P2",
+  "category": "待人工复核",
+  "bridgeType": "ai_cited_source_review_bridge",
+  "filename": "ai-cited-source-pattern-aprichem-com-2026-06-16.html",
+  "jsonFilename": "data/ai-cited-source-pattern-aprichem-com-2026-06-16.json",
+  "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-pattern-aprichem-com-2026-06-16.html",
+  "title": "AI-Cited Source Pattern Bridge for aprichem.com | MUGE PACKAGING",
+  "officialPage": "https://mugepackaging.com/products/folding-gift-box",
+  "keywords": [
+    "luxury gift box supplier"
+  ],
+  "sourceUrls": [
+    "https://aprichem.com/wafer-ball-chocolate-gift-box-140g-turkey"
+  ],
+  "fetched": [
+    {
+      "inputUrl": "https://aprichem.com/wafer-ball-chocolate-gift-box-140g-turkey",
+      "finalUrl": "https://aprichem.com/wafer-ball-chocolate-gift-box-140g-turkey",
+      "httpStatus": 200,
+      "ok": true,
+      "title": "Bonero Luxury 140g Wafer Ball Chocolate Gift Box Supplier Turkey",
+      "description": "Bonero luxury wafer ball chocolate gift box 140g from Turkey. B2B supplier with private label and export-ready confectionery solutions.",
+      "h1": "Bonero Luxury 140g Wafer Ball Chocolate Gift Box"
+    }
+  ]
+}

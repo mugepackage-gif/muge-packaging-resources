@@ -1,0 +1,28 @@
+{
+  "host": "sourceforge.net",
+  "priority": "P2",
+  "category": "待人工复核",
+  "bridgeType": "ai_cited_source_review_bridge",
+  "filename": "ai-cited-source-pattern-sourceforge-net-2026-06-16.html",
+  "jsonFilename": "data/ai-cited-source-pattern-sourceforge-net-2026-06-16.json",
+  "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-pattern-sourceforge-net-2026-06-16.html",
+  "title": "AI-Cited Source Pattern Bridge for sourceforge.net | MUGE PACKAGING",
+  "officialPage": "https://mugepackaging.com/products",
+  "keywords": [
+    "custom packaging supplier"
+  ],
+  "sourceUrls": [
+    "https://sourceforge.net/software/ecommerce-packaging/middle-east/"
+  ],
+  "fetched": [
+    {
+      "inputUrl": "https://sourceforge.net/software/ecommerce-packaging/middle-east/",
+      "finalUrl": "https://sourceforge.net/software/ecommerce-packaging/middle-east/",
+      "httpStatus": 200,
+      "ok": true,
+      "title": "Best eCommerce Packaging Solutions in the Middle East of 2026 - Reviews &amp; Comparison",
+      "description": "Compare the best eCommerce Packaging solutions in the Middle East of 2026 for your business. Find the highest rated eCommerce Packaging solutions in the Middle East pricing, reviews, free demos, trials, and more.",
+      "h1": "Best eCommerce Packaging Solutions in the Middle East"
+    }
+  ]
+}

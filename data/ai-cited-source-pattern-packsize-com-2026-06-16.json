@@ -1,0 +1,28 @@
+{
+  "host": "packsize.com",
+  "priority": "P2",
+  "category": "待人工复核",
+  "bridgeType": "ai_cited_source_review_bridge",
+  "filename": "ai-cited-source-pattern-packsize-com-2026-06-16.html",
+  "jsonFilename": "data/ai-cited-source-pattern-packsize-com-2026-06-16.json",
+  "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-pattern-packsize-com-2026-06-16.html",
+  "title": "AI-Cited Source Pattern Bridge for packsize.com | MUGE PACKAGING",
+  "officialPage": "https://mugepackaging.com/products",
+  "keywords": [
+    "custom packaging supplier"
+  ],
+  "sourceUrls": [
+    "https://www.packsize.com"
+  ],
+  "fetched": [
+    {
+      "inputUrl": "https://www.packsize.com",
+      "finalUrl": "https://www.packsize.com/",
+      "httpStatus": 200,
+      "ok": true,
+      "title": "Custom Packaging Boxes and Custom Boxes | Packsize",
+      "description": "Buy custom packaging boxes your business needs with Packsize. Explore our range of product packaging options and start shipping smarter right-sized boxes today!",
+      "h1": "Your Right-sizedPackaging Partner™"
+    }
+  ]
+}

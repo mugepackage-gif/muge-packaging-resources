@@ -1,0 +1,30 @@
+{
+  "host": "mepackages.com",
+  "priority": "P3",
+  "category": "竞品/同行基准",
+  "bridgeType": "ai_cited_competitor_pattern_bridge",
+  "filename": "ai-cited-source-pattern-mepackages-com-2026-06-16.html",
+  "jsonFilename": "data/ai-cited-source-pattern-mepackages-com-2026-06-16.json",
+  "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-pattern-mepackages-com-2026-06-16.html",
+  "title": "AI-Cited Source Pattern Bridge for mepackages.com | MUGE PACKAGING",
+  "officialPage": "https://mugepackaging.com/products",
+  "keywords": [
+    "custom packaging boxes",
+    "custom packaging manufacturer",
+    "custom packaging supplier"
+  ],
+  "sourceUrls": [
+    "https://mepackages.com"
+  ],
+  "fetched": [
+    {
+      "inputUrl": "https://mepackages.com",
+      "finalUrl": "https://mepackages.com/",
+      "httpStatus": 200,
+      "ok": true,
+      "title": "Middle East Packages LLC &#8211; Middle East Packages LLC",
+      "description": "",
+      "h1": "About US"
+    }
+  ]
+}

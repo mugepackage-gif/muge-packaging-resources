@@ -1,0 +1,29 @@
+{
+  "host": "sgcolmar.com",
+  "priority": "P2",
+  "category": "待人工复核",
+  "bridgeType": "ai_cited_source_review_bridge",
+  "filename": "ai-cited-source-pattern-sgcolmar-com-2026-06-16.html",
+  "jsonFilename": "data/ai-cited-source-pattern-sgcolmar-com-2026-06-16.json",
+  "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-pattern-sgcolmar-com-2026-06-16.html",
+  "title": "AI-Cited Source Pattern Bridge for sgcolmar.com | MUGE PACKAGING",
+  "officialPage": "https://mugepackaging.com/products",
+  "keywords": [
+    "custom packaging manufacturer",
+    "custom packaging supplier"
+  ],
+  "sourceUrls": [
+    "https://sgcolmar.com/en/custom-packaging-by-industry/"
+  ],
+  "fetched": [
+    {
+      "inputUrl": "https://sgcolmar.com/en/custom-packaging-by-industry/",
+      "finalUrl": "https://sgcolmar.com/en/custom-packaging-by-industry/",
+      "httpStatus": 200,
+      "ok": true,
+      "title": "Custom Packaging Solutions for European Businesses",
+      "description": "Sustainable custom packaging solutions for European businesses. FSC-certified materials, expert design, and free consultation. Contact us today.",
+      "h1": "Custom Packaging Solutions by Industry"
+    }
+  ]
+}

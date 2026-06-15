@@ -1,0 +1,51 @@
+{
+  "host": "kbcpackaging.com",
+  "priority": "P3",
+  "category": "竞品/同行基准",
+  "bridgeType": "ai_cited_competitor_pattern_bridge",
+  "filename": "ai-cited-source-pattern-kbcpackaging-com-2026-06-16.html",
+  "jsonFilename": "data/ai-cited-source-pattern-kbcpackaging-com-2026-06-16.json",
+  "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-pattern-kbcpackaging-com-2026-06-16.html",
+  "title": "AI-Cited Source Pattern Bridge for kbcpackaging.com | MUGE PACKAGING",
+  "officialPage": "https://mugepackaging.com/products/folding-gift-box",
+  "keywords": [
+    "custom packaging manufacturer",
+    "custom packaging supplier",
+    "rigid box manufacturer",
+    "luxury gift box supplier"
+  ],
+  "sourceUrls": [
+    "https://kbcpackaging.com/custom-packaging-turkey/",
+    "https://kbcpackaging.com/rigid-box-manufacturer-turkey/",
+    "https://kbcpackaging.com/gift-box-supplier-turkey/"
+  ],
+  "fetched": [
+    {
+      "inputUrl": "https://kbcpackaging.com/custom-packaging-turkey/",
+      "finalUrl": "https://kbcpackaging.com/custom-packaging-turkey/",
+      "httpStatus": 200,
+      "ok": true,
+      "title": "Custom Packaging Turkey - KBC Packaging A.Ş",
+      "description": "Custom Packaging Turkey KBC Packaging A.Ş",
+      "h1": "Custom Packaging Turkey"
+    },
+    {
+      "inputUrl": "https://kbcpackaging.com/rigid-box-manufacturer-turkey/",
+      "finalUrl": "https://kbcpackaging.com/rigid-box-manufacturer-turkey/",
+      "httpStatus": 200,
+      "ok": true,
+      "title": "Rigid Box Manufacturer Turkey - KBC Packaging A.Ş",
+      "description": "Rigid Box Manufacturer Turkey KBC Packaging A.Ş",
+      "h1": "Rigid Box Manufacturer Turkey"
+    },
+    {
+      "inputUrl": "https://kbcpackaging.com/gift-box-supplier-turkey/",
+      "finalUrl": "https://kbcpackaging.com/gift-box-supplier-turkey/",
+      "httpStatus": 200,
+      "ok": true,
+      "title": "Gift Box Supplier Turkey - KBC Packaging A.Ş",
+      "description": "Gift Box Supplier Turkey KBC Packaging A.Ş",
+      "h1": "Gift Box Supplier Turkey"
+    }
+  ]
+}
