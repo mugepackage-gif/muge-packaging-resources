@@ -5,7 +5,7 @@ tags:
   - source-review
   - AI引用源
 created: 2026-06-15
-status: public_source_review_request_not_sent
+status: public_issue_created_source_page_cloudflare_blocked
 ---
 
 # MUGE PACKAGING Source Review Request - dataintelo.com
@@ -32,13 +32,14 @@ This is not proof of third-party acceptance, backlink, ranking, endorsement, cer
 - Category: 行业报告/编辑请求
 - Perplexity citation count in latest sample: 1
 - Matched buyer questions: luxury gift box supplier
-- Current action: public source review evidence prepared; no automated email sent.
+- Current action: public source review evidence and public GitHub tracking issue created; no automated email sent.
 
 ## Public Evidence
 
 - https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-dataintelo-com-2026-06-15.html
 - https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-dataintelo-com-2026-06-15.md
 - https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-request-dataintelo-com-2026-06-15.json
+- https://github.com/mugepackage-gif/muge-packaging-resources/issues/58
 - https://mugepackaging.com
 - https://mugepackaging.com/products
 - https://mugepackaging.com/contact
@@ -46,6 +47,20 @@ This is not proof of third-party acceptance, backlink, ranking, endorsement, cer
 ## Perplexity-Cited Source URLs
 
 - https://dataintelo.com/report/global-luxury-gift-boxes-market
+
+## Live Recheck - 2026-06-15
+
+| Item | Result |
+|---|---|
+| Checked URL | https://dataintelo.com/report/global-luxury-gift-boxes-market |
+| HTTP status | 403 |
+| Effective URL | https://dataintelo.com/report/global-luxury-gift-boxes-market |
+| Observed title | Attention Required! \| Cloudflare |
+| MUGE mention observed | Not verified because the fetched page body was blocked by Cloudflare |
+| Public emails observed | None in fetched body |
+| Tracking issue | https://github.com/mugepackage-gif/muge-packaging-resources/issues/58 |
+
+Boundary: this live recheck does not prove a backlink, acceptance, endorsement, ranking, certification, AI citation or third-party listing. Cloudflare protection was not bypassed, and the page body could not be independently checked in this run.
 
 ## Request Body
 
@@ -84,4 +99,6 @@ sales@mugepackaging.com
 - No email sent by automation.
 - No third-party form submitted.
 - No login, payment or captcha bypass.
+- Cloudflare protection was not bypassed.
+- Public GitHub issue created for crawler, editor and internal review tracking: https://github.com/mugepackage-gif/muge-packaging-resources/issues/58
 - This page is a public evidence landing page for manual or separately authorized source review.

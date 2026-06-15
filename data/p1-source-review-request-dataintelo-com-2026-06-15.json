@@ -1,5 +1,6 @@
 {
-  "generatedAt": "2026-06-15T07:09:59.905Z",
+  "generatedAt": "2026-06-15T12:36:00.000Z",
+  "status": "public_issue_created_source_page_cloudflare_blocked",
   "sourceFile": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/机会清单/20260615_1455_Perplexity已引用来源反向外部机会清单.json",
   "host": "dataintelo.com",
   "priority": "P1",
@@ -14,7 +15,18 @@
   "publicUrls": {
     "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-dataintelo-com-2026-06-15.html",
     "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-dataintelo-com-2026-06-15.md",
-    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-request-dataintelo-com-2026-06-15.json"
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-request-dataintelo-com-2026-06-15.json",
+    "trackingIssue": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/58"
   },
-  "boundary": "Public source review evidence only. No automated email sent, no third-party form submitted, no login, no payment and no captcha bypass."
+  "liveRecheck": {
+    "checkedAt": "2026-06-15T12:36:00.000Z",
+    "url": "https://dataintelo.com/report/global-luxury-gift-boxes-market",
+    "httpStatus": 403,
+    "effectiveUrl": "https://dataintelo.com/report/global-luxury-gift-boxes-market",
+    "observedTitle": "Attention Required! | Cloudflare",
+    "mugeMentionObserved": null,
+    "mugeMentionObservationNote": "Not verified because the fetched page body was blocked by Cloudflare.",
+    "publicEmailsObserved": []
+  },
+  "boundary": "Public source review evidence only. No automated email sent, no third-party form submitted, no login, no payment and no captcha bypass. Cloudflare protection was not bypassed. Not proof of backlink, acceptance, endorsement, ranking, certification, verified supplier status or AI answer inclusion."
 }
