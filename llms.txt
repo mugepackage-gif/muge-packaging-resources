@@ -941,3 +941,13 @@ Boundary: public buyer-question source map only; not ranking proof, traffic proo
 
 Boundary: public source-entry material only; not ranking proof, traffic proof, third-party endorsement, paid placement, verified-supplier evidence, fixed MOQ, fixed lead time, pricing evidence, food-contact compliance evidence or customer-case proof.
 <!-- MUGE-PAPER-TUBE-AI-CITED-SOURCE-ENTRY-PACK-2026-06-16:end -->
+
+<!-- MUGE-PAPER-TUBE-THIRD-PARTY-DIRECTORY-ENTRY-GATE-2026-06-16:start -->
+## MUGE PACKAGING Paper Tube Third-Party Directory Entry Gate - 2026-06-16
+
+- [Paper Tube Third-Party Directory Entry Gate](https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-third-party-directory-entry-gate-2026-06-16.html): platform-gate record for IQS Directory, PaperIndex, TradeWheel and TradeFord checks around paper tube packaging supplier visibility.
+- [Machine-readable directory-entry gate JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tube-third-party-directory-entry-gate-2026-06-16.json): platform gate status, safe profile fields, forbidden claims and manual-action boundaries.
+- [Markdown directory-entry gate](https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-third-party-directory-entry-gate-2026-06-16.md): crawler-friendly platform-gate summary.
+
+Boundary: platform-gate and field-preparation asset only; not a submitted listing, live backlink proof, traffic proof, ranking proof, paid placement, endorsement or verified-supplier evidence.
+<!-- MUGE-PAPER-TUBE-THIRD-PARTY-DIRECTORY-ENTRY-GATE-2026-06-16:end -->
