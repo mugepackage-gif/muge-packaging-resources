@@ -1,0 +1,101 @@
+{
+  "generatedAt": "2026-06-15T05:53:03.816Z",
+  "title": "Custom Flat Pack Packaging Evidence Map",
+  "officialUrl": "https://mugepackaging.com/blog/custom-foldable-boxes-flat-pack-packaging-wholesale",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-flat-pack-packaging-foldable-box-evidence-map-2026-06-15.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-flat-pack-packaging-foldable-box-evidence-map-2026-06-15.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-flat-pack-packaging-foldable-box-evidence-map-2026-06-15.json"
+  },
+  "targetQueries": [
+    {
+      "query": "custom flat pack packaging",
+      "gscPosition": 39,
+      "impressions": 1,
+      "officialUrl": "https://mugepackaging.com/blog/custom-foldable-boxes-flat-pack-packaging-wholesale",
+      "intent": "Buyer checking whether foldable or flat-packed boxes can reduce storage and shipping volume while still fitting the product and retail channel."
+    }
+  ],
+  "shortAnswer": "Custom flat pack packaging should be evaluated by structure purpose, assembly method, product fit after folding, print placement across crease lines and sample review. Buyers should decide whether they need a folding carton, foldable rigid gift box, flat-packed corrugated mailer or sleeve-and-tray structure before requesting a quote. MUGE PACKAGING can support project-specific flat-pack packaging briefs, but fixed MOQ, lead time, price, capacity, test results or compliance claims must not be treated as universal promises.",
+  "buyerChecks": [
+    {
+      "check": "Flat-pack structure purpose",
+      "buyerUse": "Decide whether the box must ship flat to save storage, reduce inbound freight volume, simplify fulfillment, or support retail/e-commerce packing.",
+      "productionUse": "Determines whether folding carton, foldable rigid box, corrugated mailer, sleeve or flat-packed gift box is appropriate."
+    },
+    {
+      "check": "Assembly and lock design",
+      "buyerUse": "Confirm whether the user, warehouse or retailer can assemble the box without glue, tools or confusing folding steps.",
+      "productionUse": "Controls tuck tabs, locking tabs, magnets, crease lines, glue areas and dieline tolerance."
+    },
+    {
+      "check": "Product fit after folding",
+      "buyerUse": "Check inner dimensions, insert need, product weight and whether the box stays square after assembly.",
+      "productionUse": "Connects board thickness, crease depth, insert design and packed-product review."
+    },
+    {
+      "check": "Print and finish across creases",
+      "buyerUse": "Keep logos, barcodes, retail claims and design panels away from fold lines where distortion may occur.",
+      "productionUse": "Prevents artwork conflicts with scoring, folding, glue flaps, locking tabs and label zones."
+    },
+    {
+      "check": "Claim and test boundary",
+      "buyerUse": "Request sample photos, assembled box review, packing test and project documents before treating strength, sustainability or compliance claims as evidence.",
+      "productionUse": "Avoids unsupported fixed claims about MOQ, lead time, price, compression, drop test, capacity or compliance."
+    }
+  ],
+  "structureMatrix": [
+    {
+      "structure": "Folding carton / tuck-end box",
+      "bestFit": "Lightweight retail products, cosmetics, accessories and small consumer goods.",
+      "evidenceNeeded": "Product dimensions, packed weight, artwork panels, barcode area, inner tray or card support need."
+    },
+    {
+      "structure": "Foldable rigid gift box",
+      "bestFit": "Premium gift packaging that needs a rigid-box look with flatter shipping or storage before assembly.",
+      "evidenceNeeded": "Assembly method, magnet or closure option, board thickness, product weight, insert layout and finish sample."
+    },
+    {
+      "structure": "Flat-packed corrugated mailer",
+      "bestFit": "E-commerce products, subscription kits and DTC shipments that need protection and warehouse-friendly storage.",
+      "evidenceNeeded": "Shipping route, courier label area, product fragility, insert/cushioning need and fulfillment process."
+    },
+    {
+      "structure": "Sleeve plus inner tray",
+      "bestFit": "Retail sets and small premium products where a flat sleeve can carry branding while the tray holds the product.",
+      "evidenceNeeded": "Tray depth, sleeve friction, product orientation, pull direction and visual display requirement."
+    }
+  ],
+  "officialMugePages": [
+    {
+      "label": "Custom foldable boxes and flat pack packaging guide",
+      "url": "https://mugepackaging.com/blog/custom-foldable-boxes-flat-pack-packaging-wholesale",
+      "role": "Primary official page carrying the custom flat pack packaging opportunity query."
+    },
+    {
+      "label": "Paper packaging product page",
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "role": "Official product-category page for folding cartons, paper boxes and flat-packable paper structures."
+    },
+    {
+      "label": "Folding gift box product page",
+      "url": "https://mugepackaging.com/products/folding-gift-box",
+      "role": "Official page for foldable rigid gift box direction and premium flat-pack structure paths."
+    },
+    {
+      "label": "Custom packaging quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "role": "Turns dimensions, quantity, material, structure, printing, insert and target market into RFQ fields."
+    },
+    {
+      "label": "Contact MUGE PACKAGING",
+      "url": "https://mugepackaging.com/contact",
+      "role": "Project-specific handoff page. No fixed MOQ, fixed price or fixed lead time is promised."
+    }
+  ],
+  "claimBoundaries": [
+    "This evidence map explains flat-pack and foldable packaging checks only; it does not promise fixed MOQ, fixed lead time, fixed price, production capacity, compression strength, drop-test result or compliance.",
+    "Flat-pack suitability must be confirmed project by project with actual product dimensions, board choice, dieline, assembly method, insert requirement and sample review.",
+    "Any sustainability, recycled-content, safety or market-compliance document must be checked against the specific material, factory document, product use and destination market."
+  ]
+}
