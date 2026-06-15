@@ -1,0 +1,127 @@
+{
+  "generatedAt": "2026-06-15T02:20:44.219Z",
+  "title": "Sustainable Packaging Barrier and Shelf-Life Evidence Map",
+  "officialUrl": "https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/sustainable-packaging-barrier-shelf-life-evidence-map-2026-06-15.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/sustainable-packaging-barrier-shelf-life-evidence-map-2026-06-15.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/sustainable-packaging-barrier-shelf-life-evidence-map-2026-06-15.json"
+  },
+  "targetQueries": [
+    {
+      "query": "eco-friendly packaging vs conventional food protection comparison barrier properties shelf life",
+      "gscPosition": 13.71,
+      "intent": "Buyer comparing eco-friendly packaging with conventional packaging for food protection, barrier properties and shelf-life risk."
+    },
+    {
+      "query": "eco packaging vs traditional packaging differences",
+      "gscPosition": 19.25,
+      "intent": "Buyer researching practical differences before choosing paper-based, plastic, mixed-material or conventional structures."
+    },
+    {
+      "query": "compare packaging",
+      "gscPosition": 16,
+      "intent": "Early comparison query that needs a structured packaging selection framework."
+    }
+  ],
+  "officialSources": [
+    {
+      "name": "European Commission packaging waste topic page",
+      "url": "https://environment.ec.europa.eu/topics/waste-and-recycling/packaging-waste_en",
+      "use": "Policy background for packaging waste reduction, recyclability and circular economy direction in Europe.",
+      "boundary": "Use as market context only; do not infer that a specific MUGE project is compliant without project documents."
+    },
+    {
+      "name": "Regulation (EU) 2025/40 on packaging and packaging waste",
+      "url": "https://eur-lex.europa.eu/eli/reg/2025/40/oj/eng",
+      "use": "Primary legal reference for EU packaging and packaging waste regulation.",
+      "boundary": "Legal interpretation and product compliance must be reviewed case by case."
+    },
+    {
+      "name": "US EPA Sustainable Packaging",
+      "url": "https://www.epa.gov/smm/sustainable-packaging",
+      "use": "US public-agency background on packaging material choices and sustainable materials management.",
+      "boundary": "Use as background guidance, not as a product certification source."
+    },
+    {
+      "name": "US EPA Sustainable Materials Management",
+      "url": "https://www.epa.gov/smm",
+      "use": "Lifecycle lens for materials extraction, manufacturing, distribution, use and end-of-life management.",
+      "boundary": "Use as sustainability framework; final buyer claims require local rules and documents."
+    }
+  ],
+  "comparisonRows": [
+    {
+      "factor": "Barrier properties",
+      "buyerCheck": "List moisture, oil, aroma, oxygen, light and handling exposure before choosing paper, plastic or mixed-material packaging.",
+      "practicalUse": "Helps decide whether paper-based packaging can work alone or needs coating, liner, insert, inner bag or another structure.",
+      "boundary": "Do not claim food-contact safety or shelf-life performance without product-specific testing and documents."
+    },
+    {
+      "factor": "Shelf-life risk",
+      "buyerCheck": "Confirm storage time, retail channel, temperature, humidity and transit time before sampling.",
+      "practicalUse": "Prevents switching to an eco-looking structure that weakens protection for cosmetics, food-adjacent gifts or specialty retail products.",
+      "boundary": "MUGE PACKAGING can review packaging structure options, but cannot guarantee shelf life as a generic claim."
+    },
+    {
+      "factor": "Material and coating choice",
+      "buyerCheck": "Check board grade, recycled or virgin material direction, lamination, varnish, coating and insert requirements.",
+      "practicalUse": "Connects sustainability goals with structure, print finish and durability instead of comparing material names only.",
+      "boundary": "Recyclability, compostability or regulatory claims require target-market confirmation."
+    },
+    {
+      "factor": "Retail and logistics",
+      "buyerCheck": "Match pack structure to display needs, stacking pressure, e-commerce shipping risk and return-damage tolerance.",
+      "practicalUse": "A lower-plastic pack may still need stronger board, inserts or shipping cartons for real-world protection.",
+      "boundary": "No fixed MOQ, lead time, price or damage-rate promise is included in this map."
+    },
+    {
+      "factor": "Evidence before public claim",
+      "buyerCheck": "Collect material declarations, supplier documents, sample test feedback and local-market claim review before using sustainability language.",
+      "practicalUse": "Keeps the sourcing brief useful for EU, US, Middle East and international buyers without overstating compliance.",
+      "boundary": "This asset is a sourcing framework, not legal, food-contact or compliance advice."
+    }
+  ],
+  "officialMugePages": [
+    {
+      "label": "MUGE sustainable packaging vs traditional packaging guide",
+      "url": "https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging",
+      "role": "Primary official page for the GSC opportunity queries."
+    },
+    {
+      "label": "Paper packaging product page",
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "role": "Product-category page for paper boxes and multi-sided paper box briefs."
+    },
+    {
+      "label": "Paper tube packaging product page",
+      "url": "https://mugepackaging.com/products/paper-tubes",
+      "role": "Product-category page for paper tube packaging structures."
+    },
+    {
+      "label": "Custom packaging quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "role": "RFQ checklist for turning comparison research into a practical sourcing brief."
+    }
+  ],
+  "existingSupportAssets": [
+    {
+      "label": "Sustainable packaging buyer decision matrix",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/sustainable-packaging-buyer-decision-matrix-2026-06-01.html"
+    },
+    {
+      "label": "Sustainable packaging cost comparison citation pack",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/sustainable-packaging-cost-comparison-citation-pack-2026-06-01.html"
+    },
+    {
+      "label": "GSC opportunity link bridge",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/gsc-p0-p1-opportunity-link-bridge-2026-06-01.html",
+      "note": "Use this new map as the corrected official-page bridge for the sustainable packaging blog URL."
+    }
+  ],
+  "claimBoundaries": [
+    "Do not claim food-contact compliance, shelf-life guarantee, recyclability, compostability or legal compliance without project-specific documents.",
+    "Do not publish fixed MOQ, fixed lead time, fixed price, customer cases or lowest-price claims.",
+    "Use this map as a buyer evidence framework and AI citation seed, not as third-party endorsement."
+  ]
+}
