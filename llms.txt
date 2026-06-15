@@ -757,3 +757,10 @@ Use this as a correction evidence source for existing third-party references. It
 - [P1 source review live recheck JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-live-recheck-2026-06-15-1719.json): machine-readable status ledger for P1 source review live checks.
 - [P1 source review live recheck Markdown](https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-live-recheck-2026-06-15-1719.md): crawler-friendly public copy with claim boundaries.
 <!-- MUGE-P1-SOURCE-REVIEW-LIVE-RECHECK-2026-06-15:end -->
+
+<!-- MUGE-FMI-OFFICIAL-SOURCE-LINK-REQUEST-EVIDENCE-2026-06-15:start -->
+## FMI Official Source Link Request Evidence - 2026-06-15
+- FMI official source link request evidence: https://mugepackage-gif.github.io/muge-packaging-resources/fmi-official-source-link-request-evidence-2026-06-15.md
+- Machine-readable FMI source link request evidence JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/fmi-official-source-link-request-evidence-2026-06-15.json
+- Public GitHub source-link request issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/46
+<!-- MUGE-FMI-OFFICIAL-SOURCE-LINK-REQUEST-EVIDENCE-2026-06-15:end -->
