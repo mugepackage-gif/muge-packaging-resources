@@ -41,6 +41,7 @@ This public packet supports source-review requests for market research, packagin
 
 ## Public Evidence Package
 
+- Public GitHub Issue evidence card: https://github.com/mugepackage-gif/muge-packaging-resources/issues/52
 - Target keyword zero-impression action map: https://mugepackage-gif.github.io/muge-packaging-resources/target-keyword-zero-impression-action-map-2026-06-15.html
 - Machine-readable action map JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/target-keyword-zero-impression-action-map-2026-06-15.json
 - GitHub Release for the action map: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.15-target-keyword-zero-impression-action-map
