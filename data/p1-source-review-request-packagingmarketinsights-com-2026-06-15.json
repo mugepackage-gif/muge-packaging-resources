@@ -11,10 +11,22 @@
   "citedUrls": [
     "https://packagingmarketinsights.com/vision/insights/customized-packaging-market/middle-east-and-africa"
   ],
+  "status": "public_issue_created_live_recheck_200_no_observed_muge",
   "publicUrls": {
     "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-packagingmarketinsights-com-2026-06-15.html",
     "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-packagingmarketinsights-com-2026-06-15.md",
-    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-request-packagingmarketinsights-com-2026-06-15.json"
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-request-packagingmarketinsights-com-2026-06-15.json",
+    "trackingIssue": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/59"
   },
-  "boundary": "Public source review evidence only. No automated email sent, no third-party form submitted, no login, no payment and no captcha bypass."
+  "liveRecheck": {
+    "checkedAt": "2026-06-15T12:45:00+08:00",
+    "checkedUrl": "https://packagingmarketinsights.com/vision/insights/customized-packaging-market/middle-east-and-africa",
+    "httpStatus": 200,
+    "effectiveUrl": "https://packagingmarketinsights.com/vision/insights/customized-packaging-market/middle-east-and-africa",
+    "pageTitle": "Middle East And Africa Customized Packaging Market Size, Share & Trends Report By 2034",
+    "observedMugeMention": false,
+    "publicEmailsFound": [],
+    "boundary": "No login, payment, captcha bypass, automated email or third-party form submission."
+  },
+  "boundary": "Public source review evidence only. GitHub Issue #59 created for transparent tracking. This is not proof of PackagingMarketInsights acceptance, backlink, endorsement, ranking, certification or AI citation."
 }

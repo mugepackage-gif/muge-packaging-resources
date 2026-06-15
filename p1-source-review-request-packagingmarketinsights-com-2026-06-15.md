@@ -5,7 +5,7 @@ tags:
   - source-review
   - AI引用源
 created: 2026-06-15
-status: public_source_review_request_not_sent
+status: public_issue_created_live_recheck_200_no_observed_muge
 ---
 
 # MUGE PACKAGING Source Review Request - packagingmarketinsights.com
@@ -33,12 +33,14 @@ This is not proof of third-party acceptance, backlink, ranking, endorsement, cer
 - Perplexity citation count in latest sample: 1
 - Matched buyer questions: custom packaging manufacturer
 - Current action: public source review evidence prepared; no automated email sent.
+- Public tracking issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/59
 
 ## Public Evidence
 
 - https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-packagingmarketinsights-com-2026-06-15.html
 - https://mugepackage-gif.github.io/muge-packaging-resources/p1-source-review-request-packagingmarketinsights-com-2026-06-15.md
 - https://mugepackage-gif.github.io/muge-packaging-resources/data/p1-source-review-request-packagingmarketinsights-com-2026-06-15.json
+- https://github.com/mugepackage-gif/muge-packaging-resources/issues/59
 - https://mugepackaging.com
 - https://mugepackaging.com/products
 - https://mugepackaging.com/contact
@@ -46,6 +48,18 @@ This is not proof of third-party acceptance, backlink, ranking, endorsement, cer
 ## Perplexity-Cited Source URLs
 
 - https://packagingmarketinsights.com/vision/insights/customized-packaging-market/middle-east-and-africa
+
+## Live Recheck - 2026-06-15
+
+| Field | Result |
+|---|---|
+| Checked URL | https://packagingmarketinsights.com/vision/insights/customized-packaging-market/middle-east-and-africa |
+| HTTP status | 200 |
+| Effective URL | https://packagingmarketinsights.com/vision/insights/customized-packaging-market/middle-east-and-africa |
+| Page title | Middle East And Africa Customized Packaging Market Size, Share & Trends Report By 2034 |
+| Observed MUGE mention | No |
+| Public emails found in fetched page body | None |
+| Boundary | No login, payment, captcha bypass, automated email or third-party form submission. |
 
 ## Request Body
 
@@ -85,3 +99,4 @@ sales@mugepackaging.com
 - No third-party form submitted.
 - No login, payment or captcha bypass.
 - This page is a public evidence landing page for manual or separately authorized source review.
+- GitHub Issue #59 created as a public tracking record; this does not mean PackagingMarketInsights accepted, linked to, cited or endorsed MUGE.
