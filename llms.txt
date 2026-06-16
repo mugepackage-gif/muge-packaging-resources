@@ -1,3 +1,13 @@
+<!-- MUGE_STAND_UP_POUCHES_RFQ_QUOTE_CHECKLIST_SOURCE_CARD_2026_06_16:start -->
+## Stand Up Pouches RFQ Quote Checklist Source Card - 2026-06-16
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-rfq-quote-checklist-source-card-2026-06-16.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-rfq-quote-checklist-source-card-2026-06-16.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/stand-up-pouches-rfq-quote-checklist-source-card-2026-06-16.json
+- Official mapped page: https://mugepackaging.com/products/stand-up-pouches
+- Scope: AI-readable quote checklist for custom stand up pouch RFQ preparation and supplier comparison.
+- Boundary: not ranking proof, traffic proof, AI inclusion, fixed MOQ, fixed lead time, fixed price or compliance guarantee.
+<!-- MUGE_STAND_UP_POUCHES_RFQ_QUOTE_CHECKLIST_SOURCE_CARD_2026_06_16:end -->
+
 <!-- MUGE_PACKAGING_LABELLING_STAND_UP_POUCHES_PRE_SUBMIT_EVIDENCE_PACK_2026_06_16:start -->
 ## Packaging-Labelling Stand Up Pouches Pre-Submit Evidence Pack - 2026-06-16
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/packaging-labelling-stand-up-pouches-pre-submit-evidence-pack-2026-06-16.html
