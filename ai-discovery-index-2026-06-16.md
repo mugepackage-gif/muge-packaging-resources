@@ -1,6 +1,6 @@
 # MUGE PACKAGING AI Discovery Index
 
-Generated: 2026-06-16 11:02:49
+Generated: 2026-06-16 11:16:42
 
 ## Purpose
 
@@ -23,10 +23,10 @@ This public index helps search engines and AI crawlers discover MUGE PACKAGING p
 
 ## Asset Summary
 
-- Total public assets listed: 958
-- HTML: 415
-- Markdown: 202
-- JSON: 336
+- Total public assets listed: 961
+- HTML: 416
+- Markdown: 203
+- JSON: 337
 - TXT/XML: 5
 
 ## Priority Assets

@@ -1,3 +1,14 @@
+<!-- MUGE_PERPLEXITY_JINA_SOURCE_VISIBILITY_BRIDGE_2026_06_16:START -->
+## Perplexity / Jina / Archive Source Visibility Bridge
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/perplexity-jina-source-visibility-bridge-2026-06-16.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/perplexity-jina-source-visibility-bridge-2026-06-16.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/perplexity-jina-source-visibility-bridge-2026-06-16.json
+- Neutral buyer visibility: 0/3
+- Brand/source-aware visibility: 5/5
+- Boundary: external source bridge, not ranking/click/inquiry proof.
+<!-- MUGE_PERPLEXITY_JINA_SOURCE_VISIBILITY_BRIDGE_2026_06_16:END -->
+
 <!-- MUGE_AI_DISCOVERY_INDEX_2026_06_16:start -->
 ## AI Discovery Index - 2026-06-16
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/ai-discovery-index-2026-06-16.html
@@ -5,7 +16,7 @@
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-discovery-index-2026-06-16.json
 - Sitemap: https://mugepackage-gif.github.io/muge-packaging-resources/sitemap.xml
 - Asset manifest: https://mugepackage-gif.github.io/muge-packaging-resources/asset-manifest.json
-- Listed public assets: 958
+- Listed public assets: 961
 - Scope: crawl discovery layer for MUGE PACKAGING SEO/GEO public source-path assets.
 - Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
 <!-- MUGE_AI_DISCOVERY_INDEX_2026_06_16:end -->

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-16T03:02:49.887Z",
-  "generatedAtCst": "2026-06-16 11:02:49",
+  "generatedAt": "2026-06-16T03:16:42.358Z",
+  "generatedAtCst": "2026-06-16 11:16:42",
   "publicBase": "https://mugepackage-gif.github.io/muge-packaging-resources",
-  "assetCount": 958,
+  "assetCount": 961,
   "counts": {
-    "html": 415,
-    "md": 202,
-    "json": 336,
+    "html": 416,
+    "md": 203,
+    "json": 337,
     "other": 5
   },
   "assets": [
@@ -158,8 +158,8 @@
       "path": "llms.txt",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/llms.txt",
       "ext": ".txt",
-      "bytes": 204733,
-      "lastmod": "2026-06-16T03:00:46.921Z",
+      "bytes": 205450,
+      "lastmod": "2026-06-16T03:16:42.311Z",
       "title": "Llms",
       "priorityScore": 35
     },
@@ -167,8 +167,8 @@
       "path": "README.md",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/README.md",
       "ext": ".md",
-      "bytes": 74076,
-      "lastmod": "2026-06-16T03:00:46.919Z",
+      "bytes": 74793,
+      "lastmod": "2026-06-16T03:16:42.309Z",
       "title": "README",
       "priorityScore": 35
     },
@@ -176,8 +176,8 @@
       "path": "sitemap.xml",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/sitemap.xml",
       "ext": ".xml",
-      "bytes": 250119,
-      "lastmod": "2026-06-16T02:40:16.344Z",
+      "bytes": 250926,
+      "lastmod": "2026-06-16T03:02:49.918Z",
       "title": "Sitemap",
       "priorityScore": 35
     },
@@ -3156,7 +3156,7 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-discovery-index-2026-06-16.html",
       "ext": ".html",
       "bytes": 44718,
-      "lastmod": "2026-06-16T02:40:16.345Z",
+      "lastmod": "2026-06-16T03:02:49.920Z",
       "title": "Ai Discovery Index 2026 06 16",
       "priorityScore": 5
     },
@@ -5024,6 +5024,15 @@
       "priorityScore": 5
     },
     {
+      "path": "perplexity-jina-source-visibility-bridge-2026-06-16.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/perplexity-jina-source-visibility-bridge-2026-06-16.html",
+      "ext": ".html",
+      "bytes": 16126,
+      "lastmod": "2026-06-16T03:16:42.308Z",
+      "title": "Perplexity Jina Source Visibility Bridge 2026 06 16",
+      "priorityScore": 5
+    },
+    {
       "path": "perplexity-long-tail-gap-response-2026-06-16.html",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/perplexity-long-tail-gap-response-2026-06-16.html",
       "ext": ".html",
@@ -5712,7 +5721,7 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-discovery-index-2026-06-16.md",
       "ext": ".md",
       "bytes": 15684,
-      "lastmod": "2026-06-16T02:40:16.345Z",
+      "lastmod": "2026-06-16T03:02:49.919Z",
       "title": "Ai Discovery Index 2026 06 16",
       "priorityScore": 0
     },
@@ -5819,8 +5828,8 @@
       "path": "asset-manifest.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/asset-manifest.json",
       "ext": ".json",
-      "bytes": 389756,
-      "lastmod": "2026-06-16T02:40:16.344Z",
+      "bytes": 391038,
+      "lastmod": "2026-06-16T03:02:49.919Z",
       "title": "Asset Manifest",
       "priorityScore": 0
     },
@@ -6107,8 +6116,8 @@
       "path": "data/ai-discovery-index-2026-06-16.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-discovery-index-2026-06-16.json",
       "ext": ".json",
-      "bytes": 389756,
-      "lastmod": "2026-06-16T02:40:16.346Z",
+      "bytes": 391038,
+      "lastmod": "2026-06-16T03:02:49.920Z",
       "title": "Ai Discovery Index 2026 06 16",
       "priorityScore": 0
     },
@@ -7562,6 +7571,15 @@
       "priorityScore": 0
     },
     {
+      "path": "data/perplexity-jina-source-visibility-bridge-2026-06-16.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/perplexity-jina-source-visibility-bridge-2026-06-16.json",
+      "ext": ".json",
+      "bytes": 11570,
+      "lastmod": "2026-06-16T03:16:42.309Z",
+      "title": "Perplexity Jina Source Visibility Bridge 2026 06 16",
+      "priorityScore": 0
+    },
+    {
       "path": "data/perplexity-long-tail-gap-response-2026-06-16.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/perplexity-long-tail-gap-response-2026-06-16.json",
       "ext": ".json",
@@ -8513,6 +8531,15 @@
       "bytes": 12756,
       "lastmod": "2026-06-14T04:26:44.052Z",
       "title": "Perplexity Cited Source Response Map Europe Middle East 2026 06 14",
+      "priorityScore": 0
+    },
+    {
+      "path": "perplexity-jina-source-visibility-bridge-2026-06-16.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/perplexity-jina-source-visibility-bridge-2026-06-16.md",
+      "ext": ".md",
+      "bytes": 6740,
+      "lastmod": "2026-06-16T03:16:42.308Z",
+      "title": "Perplexity Jina Source Visibility Bridge 2026 06 16",
       "priorityScore": 0
     },
     {

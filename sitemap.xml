@@ -98,13 +98,13 @@
   </url>
   <url>
     <loc>https://mugepackage-gif.github.io/muge-packaging-resources/llms.txt</loc>
-    <lastmod>2026-06-16T03:00:46.921Z</lastmod>
+    <lastmod>2026-06-16T03:16:42.311Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://mugepackage-gif.github.io/muge-packaging-resources/README.md</loc>
-    <lastmod>2026-06-16T03:00:46.919Z</lastmod>
+    <lastmod>2026-06-16T03:16:42.309Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2090,7 +2090,7 @@
   </url>
   <url>
     <loc>https://mugepackage-gif.github.io/muge-packaging-resources/ai-discovery-index-2026-06-16.html</loc>
-    <lastmod>2026-06-16T02:40:16.345Z</lastmod>
+    <lastmod>2026-06-16T03:02:49.920Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3337,6 +3337,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://mugepackage-gif.github.io/muge-packaging-resources/perplexity-jina-source-visibility-bridge-2026-06-16.html</loc>
+    <lastmod>2026-06-16T03:16:42.308Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://mugepackage-gif.github.io/muge-packaging-resources/perplexity-long-tail-gap-response-2026-06-16.html</loc>
     <lastmod>2026-06-15T17:58:47.583Z</lastmod>
     <changefreq>daily</changefreq>
@@ -3794,7 +3800,7 @@
   </url>
   <url>
     <loc>https://mugepackage-gif.github.io/muge-packaging-resources/ai-discovery-index-2026-06-16.md</loc>
-    <lastmod>2026-06-16T02:40:16.345Z</lastmod>
+    <lastmod>2026-06-16T03:02:49.919Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3866,7 +3872,7 @@
   </url>
   <url>
     <loc>https://mugepackage-gif.github.io/muge-packaging-resources/asset-manifest.json</loc>
-    <lastmod>2026-06-16T02:40:16.344Z</lastmod>
+    <lastmod>2026-06-16T03:02:49.919Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4058,7 +4064,7 @@
   </url>
   <url>
     <loc>https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-discovery-index-2026-06-16.json</loc>
-    <lastmod>2026-06-16T02:40:16.346Z</lastmod>
+    <lastmod>2026-06-16T03:02:49.920Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5029,6 +5035,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://mugepackage-gif.github.io/muge-packaging-resources/data/perplexity-jina-source-visibility-bridge-2026-06-16.json</loc>
+    <lastmod>2026-06-16T03:16:42.309Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://mugepackage-gif.github.io/muge-packaging-resources/data/perplexity-long-tail-gap-response-2026-06-16.json</loc>
     <lastmod>2026-06-15T17:58:47.583Z</lastmod>
     <changefreq>daily</changefreq>
@@ -5661,6 +5673,12 @@
   <url>
     <loc>https://mugepackage-gif.github.io/muge-packaging-resources/perplexity-cited-source-response-map-europe-middle-east-2026-06-14.md</loc>
     <lastmod>2026-06-14T04:26:44.052Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mugepackage-gif.github.io/muge-packaging-resources/perplexity-jina-source-visibility-bridge-2026-06-16.md</loc>
+    <lastmod>2026-06-16T03:16:42.308Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
