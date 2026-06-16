@@ -1,0 +1,4130 @@
+{
+  "generatedAt": "2026-06-16T08:13:24.657Z",
+  "createdAtCst": "2026-06-16 16:13:24",
+  "publishedDate": "2026-06-16",
+  "sourceQueuePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/关键词策略/滚动执行总控队列/MUGE_SEO_GEO_当前800执行词_300AI问答滚动队列.json",
+  "slug": "seo-geo-rolling-keyword-execution-source-map-2026-06-16",
+  "summary": {
+    "totalKeywordsFromUniverse": 24201,
+    "hardValidationKeywords": 23,
+    "executionQueueKeywords": 800,
+    "aiQuestionTests": 300,
+    "todayExecutionKeywords": 120,
+    "todayAiQuestionTests": 60,
+    "totalClusters": 130,
+    "todayPriorityClusters": 20
+  },
+  "todayPriorityClusters": [
+    {
+      "clusterKey": "custom_packaging_general::global::comparison",
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "comparison",
+      "targetUrls": [
+        "https://mugepackaging.com/contact"
+      ],
+      "keywords": [
+        "how to compare packaging for gift sets",
+        "how to compare packaging design service",
+        "how to compare packaging for amazon sellers",
+        "how to compare packaging for dtc brands",
+        "how to compare packaging for home fragrance",
+        "how to compare packaging for product launch",
+        "how to compare packaging for retail",
+        "how to compare packaging for small business",
+        "how to compare packaging for soap",
+        "how to compare packaging for subscription boxes"
+      ],
+      "score": 1358,
+      "keywordCount": 10,
+      "topKeywords": [
+        "how to compare packaging for gift sets",
+        "how to compare packaging design service",
+        "how to compare packaging for amazon sellers",
+        "how to compare packaging for dtc brands",
+        "how to compare packaging for home fragrance",
+        "how to compare packaging for product launch",
+        "how to compare packaging for retail",
+        "how to compare packaging for small business",
+        "how to compare packaging for soap",
+        "how to compare packaging for subscription boxes"
+      ]
+    },
+    {
+      "clusterKey": "paper_tubes::europe::supplier_vetting",
+      "product": "paper_tubes",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "targetUrls": [
+        "https://mugepackaging.com/products/paper-tubes"
+      ],
+      "keywords": [
+        "custom paper tubes china manufacturer europe",
+        "custom paper tubes china supplier europe",
+        "custom paper tubes factory europe",
+        "custom paper tubes manufacturer europe",
+        "custom paper tubes source factory europe",
+        "custom paper tubes supplier europe",
+        "european brands custom paper tubes supplier"
+      ],
+      "score": 1218,
+      "keywordCount": 7,
+      "topKeywords": [
+        "custom paper tubes china manufacturer europe",
+        "custom paper tubes china supplier europe",
+        "custom paper tubes factory europe",
+        "custom paper tubes manufacturer europe",
+        "custom paper tubes source factory europe",
+        "custom paper tubes supplier europe",
+        "european brands custom paper tubes supplier"
+      ]
+    },
+    {
+      "clusterKey": "paper_tubes::middle_east::supplier_vetting",
+      "product": "paper_tubes",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "targetUrls": [
+        "https://mugepackaging.com/products/paper-tubes"
+      ],
+      "keywords": [
+        "custom paper tubes china manufacturer middle east",
+        "custom paper tubes china supplier middle east",
+        "custom paper tubes factory middle east",
+        "custom paper tubes manufacturer middle east",
+        "custom paper tubes source factory middle east",
+        "custom paper tubes supplier middle east",
+        "middle east brands custom paper tubes supplier"
+      ],
+      "score": 1218,
+      "keywordCount": 7,
+      "topKeywords": [
+        "custom paper tubes china manufacturer middle east",
+        "custom paper tubes china supplier middle east",
+        "custom paper tubes factory middle east",
+        "custom paper tubes manufacturer middle east",
+        "custom paper tubes source factory middle east",
+        "custom paper tubes supplier middle east",
+        "middle east brands custom paper tubes supplier"
+      ]
+    },
+    {
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "targetUrls": [
+        "https://mugepackaging.com/products/paper-tubes"
+      ],
+      "keywords": [
+        "custom paper tubes china manufacturer uk",
+        "custom paper tubes china supplier uk",
+        "custom paper tubes factory uk",
+        "custom paper tubes manufacturer uk",
+        "custom paper tubes source factory uk",
+        "custom paper tubes supplier uk",
+        "uk brands custom paper tubes supplier"
+      ],
+      "score": 1218,
+      "keywordCount": 7,
+      "topKeywords": [
+        "custom paper tubes china manufacturer uk",
+        "custom paper tubes china supplier uk",
+        "custom paper tubes factory uk",
+        "custom paper tubes manufacturer uk",
+        "custom paper tubes source factory uk",
+        "custom paper tubes supplier uk",
+        "uk brands custom paper tubes supplier"
+      ]
+    },
+    {
+      "clusterKey": "custom_packaging_general::global::buyer_education",
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "buyer_education",
+      "targetUrls": [
+        "https://mugepackaging.com/products"
+      ],
+      "keywords": [
+        "best custom packaging",
+        "best custom packaging boxes",
+        "buying guide custom packaging",
+        "buying guide custom packaging boxes",
+        "guide custom packaging",
+        "guide custom packaging boxes",
+        "best packaging for gift sets",
+        "buying guide packaging for gift sets",
+        "guide packaging for gift sets"
+      ],
+      "score": 1209,
+      "keywordCount": 9,
+      "topKeywords": [
+        "best custom packaging",
+        "best custom packaging boxes",
+        "buying guide custom packaging",
+        "buying guide custom packaging boxes",
+        "guide custom packaging",
+        "guide custom packaging boxes",
+        "best packaging for gift sets",
+        "buying guide packaging for gift sets",
+        "guide packaging for gift sets"
+      ]
+    },
+    {
+      "clusterKey": "custom_packaging_general::global::buyer_intent",
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "buyer_intent",
+      "targetUrls": [
+        "https://mugepackaging.com/products"
+      ],
+      "keywords": [
+        "what details are needed for custom packaging",
+        "what details are needed for custom packaging boxes",
+        "what to send for custom packaging",
+        "what to send for custom packaging boxes",
+        "where to find custom packaging",
+        "where to find custom packaging boxes",
+        "what details are needed for packaging for gift sets",
+        "what to send for packaging for gift sets",
+        "where to find packaging for gift sets"
+      ],
+      "score": 1209,
+      "keywordCount": 9,
+      "topKeywords": [
+        "what details are needed for custom packaging",
+        "what details are needed for custom packaging boxes",
+        "what to send for custom packaging",
+        "what to send for custom packaging boxes",
+        "where to find custom packaging",
+        "where to find custom packaging boxes",
+        "what details are needed for packaging for gift sets",
+        "what to send for packaging for gift sets",
+        "where to find packaging for gift sets"
+      ]
+    },
+    {
+      "clusterKey": "paper_tubes::canada::supplier_vetting",
+      "product": "paper_tubes",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "targetUrls": [
+        "https://mugepackaging.com/products/paper-tubes"
+      ],
+      "keywords": [
+        "custom paper tubes china manufacturer canada",
+        "custom paper tubes china supplier canada",
+        "custom paper tubes factory canada",
+        "custom paper tubes manufacturer canada",
+        "custom paper tubes source factory canada",
+        "custom paper tubes supplier canada"
+      ],
+      "score": 1044,
+      "keywordCount": 6,
+      "topKeywords": [
+        "custom paper tubes china manufacturer canada",
+        "custom paper tubes china supplier canada",
+        "custom paper tubes factory canada",
+        "custom paper tubes manufacturer canada",
+        "custom paper tubes source factory canada",
+        "custom paper tubes supplier canada"
+      ]
+    },
+    {
+      "clusterKey": "paper_tubes::dubai::supplier_vetting",
+      "product": "paper_tubes",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "targetUrls": [
+        "https://mugepackaging.com/products/paper-tubes"
+      ],
+      "keywords": [
+        "custom paper tubes china manufacturer dubai",
+        "custom paper tubes china supplier dubai",
+        "custom paper tubes factory dubai",
+        "custom paper tubes manufacturer dubai",
+        "custom paper tubes source factory dubai",
+        "custom paper tubes supplier dubai"
+      ],
+      "score": 1044,
+      "keywordCount": 6,
+      "topKeywords": [
+        "custom paper tubes china manufacturer dubai",
+        "custom paper tubes china supplier dubai",
+        "custom paper tubes factory dubai",
+        "custom paper tubes manufacturer dubai",
+        "custom paper tubes source factory dubai",
+        "custom paper tubes supplier dubai"
+      ]
+    },
+    {
+      "clusterKey": "paper_tubes::saudi_arabia::supplier_vetting",
+      "product": "paper_tubes",
+      "region": "saudi_arabia",
+      "intent": "supplier_vetting",
+      "targetUrls": [
+        "https://mugepackaging.com/products/paper-tubes"
+      ],
+      "keywords": [
+        "custom paper tubes china manufacturer saudi arabia",
+        "custom paper tubes china supplier saudi arabia",
+        "custom paper tubes factory saudi arabia",
+        "custom paper tubes manufacturer saudi arabia",
+        "custom paper tubes source factory saudi arabia",
+        "custom paper tubes supplier saudi arabia"
+      ],
+      "score": 1044,
+      "keywordCount": 6,
+      "topKeywords": [
+        "custom paper tubes china manufacturer saudi arabia",
+        "custom paper tubes china supplier saudi arabia",
+        "custom paper tubes factory saudi arabia",
+        "custom paper tubes manufacturer saudi arabia",
+        "custom paper tubes source factory saudi arabia",
+        "custom paper tubes supplier saudi arabia"
+      ]
+    },
+    {
+      "clusterKey": "paper_tubes::uae::supplier_vetting",
+      "product": "paper_tubes",
+      "region": "uae",
+      "intent": "supplier_vetting",
+      "targetUrls": [
+        "https://mugepackaging.com/products/paper-tubes"
+      ],
+      "keywords": [
+        "custom paper tubes china manufacturer uae",
+        "custom paper tubes china supplier uae",
+        "custom paper tubes factory uae",
+        "custom paper tubes manufacturer uae",
+        "custom paper tubes source factory uae",
+        "custom paper tubes supplier uae"
+      ],
+      "score": 1044,
+      "keywordCount": 6,
+      "topKeywords": [
+        "custom paper tubes china manufacturer uae",
+        "custom paper tubes china supplier uae",
+        "custom paper tubes factory uae",
+        "custom paper tubes manufacturer uae",
+        "custom paper tubes source factory uae",
+        "custom paper tubes supplier uae"
+      ]
+    },
+    {
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "targetUrls": [
+        "https://mugepackaging.com/products/paper-tubes"
+      ],
+      "keywords": [
+        "custom paper tubes china manufacturer united states",
+        "custom paper tubes china supplier united states",
+        "custom paper tubes factory united states",
+        "custom paper tubes manufacturer united states",
+        "custom paper tubes source factory united states",
+        "custom paper tubes supplier united states"
+      ],
+      "score": 1044,
+      "keywordCount": 6,
+      "topKeywords": [
+        "custom paper tubes china manufacturer united states",
+        "custom paper tubes china supplier united states",
+        "custom paper tubes factory united states",
+        "custom paper tubes manufacturer united states",
+        "custom paper tubes source factory united states",
+        "custom paper tubes supplier united states"
+      ]
+    },
+    {
+      "clusterKey": "paper_tubes::global::supplier_vetting",
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "supplier_vetting",
+      "targetUrls": [
+        "https://mugepackaging.com/products/paper-tubes",
+        "https://mugepackaging.com/products/cosmetic-packaging"
+      ],
+      "keywords": [
+        "amazon sellers custom paper tubes supplier",
+        "apparel custom paper tubes supplier",
+        "beauty brands custom paper tubes supplier",
+        "candles custom paper tubes supplier",
+        "candy custom paper tubes supplier"
+      ],
+      "score": 840,
+      "keywordCount": 5,
+      "topKeywords": [
+        "amazon sellers custom paper tubes supplier",
+        "apparel custom paper tubes supplier",
+        "beauty brands custom paper tubes supplier",
+        "candles custom paper tubes supplier",
+        "candy custom paper tubes supplier"
+      ]
+    },
+    {
+      "clusterKey": "paper_tubes::global::buyer_education",
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "buyer_education",
+      "targetUrls": [
+        "https://mugepackaging.com/products/paper-tubes"
+      ],
+      "keywords": [
+        "best custom paper tubes",
+        "buying guide custom paper tubes",
+        "guide custom paper tubes",
+        "how to choose custom paper tubes",
+        "how to source custom paper tubes"
+      ],
+      "score": 780,
+      "keywordCount": 5,
+      "topKeywords": [
+        "best custom paper tubes",
+        "buying guide custom paper tubes",
+        "guide custom paper tubes",
+        "how to choose custom paper tubes",
+        "how to source custom paper tubes"
+      ]
+    },
+    {
+      "clusterKey": "cosmetic_packaging::global::comparison",
+      "product": "cosmetic_packaging",
+      "region": "global",
+      "intent": "comparison",
+      "targetUrls": [
+        "https://mugepackaging.com/products/cosmetic-packaging"
+      ],
+      "keywords": [
+        "how to compare packaging for cosmetics",
+        "how to compare packaging for skincare",
+        "how to compare packaging for beauty brands",
+        "how to compare packaging for makeup",
+        "how to compare packaging for perfume"
+      ],
+      "score": 756,
+      "keywordCount": 5,
+      "topKeywords": [
+        "how to compare packaging for cosmetics",
+        "how to compare packaging for skincare",
+        "how to compare packaging for beauty brands",
+        "how to compare packaging for makeup",
+        "how to compare packaging for perfume"
+      ]
+    },
+    {
+      "clusterKey": "paper_tubes::canada::buyer_intent",
+      "product": "paper_tubes",
+      "region": "canada",
+      "intent": "buyer_intent",
+      "targetUrls": [
+        "https://mugepackaging.com/products/paper-tubes"
+      ],
+      "keywords": [
+        "custom paper tubes exporter canada",
+        "custom paper tubes oem canada",
+        "custom paper tubes private label canada",
+        "custom paper tubes vendor canada"
+      ],
+      "score": 696,
+      "keywordCount": 4,
+      "topKeywords": [
+        "custom paper tubes exporter canada",
+        "custom paper tubes oem canada",
+        "custom paper tubes private label canada",
+        "custom paper tubes vendor canada"
+      ]
+    },
+    {
+      "clusterKey": "paper_tubes::dubai::buyer_intent",
+      "product": "paper_tubes",
+      "region": "dubai",
+      "intent": "buyer_intent",
+      "targetUrls": [
+        "https://mugepackaging.com/products/paper-tubes"
+      ],
+      "keywords": [
+        "custom paper tubes exporter dubai",
+        "custom paper tubes oem dubai",
+        "custom paper tubes private label dubai",
+        "custom paper tubes vendor dubai"
+      ],
+      "score": 696,
+      "keywordCount": 4,
+      "topKeywords": [
+        "custom paper tubes exporter dubai",
+        "custom paper tubes oem dubai",
+        "custom paper tubes private label dubai",
+        "custom paper tubes vendor dubai"
+      ]
+    },
+    {
+      "clusterKey": "paper_tubes::europe::buyer_intent",
+      "product": "paper_tubes",
+      "region": "europe",
+      "intent": "buyer_intent",
+      "targetUrls": [
+        "https://mugepackaging.com/products/paper-tubes"
+      ],
+      "keywords": [
+        "custom paper tubes exporter europe",
+        "custom paper tubes oem europe",
+        "custom paper tubes private label europe",
+        "custom paper tubes vendor europe"
+      ],
+      "score": 696,
+      "keywordCount": 4,
+      "topKeywords": [
+        "custom paper tubes exporter europe",
+        "custom paper tubes oem europe",
+        "custom paper tubes private label europe",
+        "custom paper tubes vendor europe"
+      ]
+    },
+    {
+      "clusterKey": "paper_tubes::middle_east::buyer_intent",
+      "product": "paper_tubes",
+      "region": "middle_east",
+      "intent": "buyer_intent",
+      "targetUrls": [
+        "https://mugepackaging.com/products/paper-tubes"
+      ],
+      "keywords": [
+        "custom paper tubes exporter middle east",
+        "custom paper tubes oem middle east",
+        "custom paper tubes private label middle east",
+        "custom paper tubes vendor middle east"
+      ],
+      "score": 696,
+      "keywordCount": 4,
+      "topKeywords": [
+        "custom paper tubes exporter middle east",
+        "custom paper tubes oem middle east",
+        "custom paper tubes private label middle east",
+        "custom paper tubes vendor middle east"
+      ]
+    },
+    {
+      "clusterKey": "paper_tubes::saudi_arabia::buyer_intent",
+      "product": "paper_tubes",
+      "region": "saudi_arabia",
+      "intent": "buyer_intent",
+      "targetUrls": [
+        "https://mugepackaging.com/products/paper-tubes"
+      ],
+      "keywords": [
+        "custom paper tubes exporter saudi arabia",
+        "custom paper tubes oem saudi arabia",
+        "custom paper tubes private label saudi arabia",
+        "custom paper tubes vendor saudi arabia"
+      ],
+      "score": 696,
+      "keywordCount": 4,
+      "topKeywords": [
+        "custom paper tubes exporter saudi arabia",
+        "custom paper tubes oem saudi arabia",
+        "custom paper tubes private label saudi arabia",
+        "custom paper tubes vendor saudi arabia"
+      ]
+    },
+    {
+      "clusterKey": "paper_tubes::uae::buyer_intent",
+      "product": "paper_tubes",
+      "region": "uae",
+      "intent": "buyer_intent",
+      "targetUrls": [
+        "https://mugepackaging.com/products/paper-tubes"
+      ],
+      "keywords": [
+        "custom paper tubes exporter uae",
+        "custom paper tubes oem uae",
+        "custom paper tubes private label uae",
+        "custom paper tubes vendor uae"
+      ],
+      "score": 696,
+      "keywordCount": 4,
+      "topKeywords": [
+        "custom paper tubes exporter uae",
+        "custom paper tubes oem uae",
+        "custom paper tubes private label uae",
+        "custom paper tubes vendor uae"
+      ]
+    }
+  ],
+  "todayCombinedQueue": [
+    {
+      "order": 1,
+      "keyword": "custom paper tubes bulk canada",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "canada",
+      "intent": "bulk_wholesale",
+      "clusterKey": "paper_tubes::canada::bulk_wholesale",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 2,
+      "keyword": "custom paper tubes bulk dubai",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "dubai",
+      "intent": "bulk_wholesale",
+      "clusterKey": "paper_tubes::dubai::bulk_wholesale",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 3,
+      "keyword": "custom paper tubes bulk europe",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "europe",
+      "intent": "bulk_wholesale",
+      "clusterKey": "paper_tubes::europe::bulk_wholesale",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 4,
+      "keyword": "custom paper tubes bulk middle east",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "middle_east",
+      "intent": "bulk_wholesale",
+      "clusterKey": "paper_tubes::middle_east::bulk_wholesale",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 5,
+      "keyword": "custom paper tubes bulk saudi arabia",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "saudi_arabia",
+      "intent": "bulk_wholesale",
+      "clusterKey": "paper_tubes::saudi_arabia::bulk_wholesale",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 6,
+      "keyword": "custom paper tubes bulk uae",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uae",
+      "intent": "bulk_wholesale",
+      "clusterKey": "paper_tubes::uae::bulk_wholesale",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 7,
+      "keyword": "custom paper tubes bulk uk",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "bulk_wholesale",
+      "clusterKey": "paper_tubes::uk::bulk_wholesale",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 8,
+      "keyword": "custom paper tubes bulk united states",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "bulk_wholesale",
+      "clusterKey": "paper_tubes::united_states::bulk_wholesale",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 9,
+      "keyword": "custom paper tubes china manufacturer canada",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::canada::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 10,
+      "keyword": "custom paper tubes china manufacturer dubai",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::dubai::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 11,
+      "keyword": "custom paper tubes china manufacturer europe",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::europe::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 12,
+      "keyword": "custom paper tubes china manufacturer middle east",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::middle_east::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 13,
+      "keyword": "custom paper tubes china manufacturer saudi arabia",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "saudi_arabia",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::saudi_arabia::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 14,
+      "keyword": "custom paper tubes china manufacturer uae",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uae",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::uae::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 15,
+      "keyword": "custom paper tubes china manufacturer uk",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 16,
+      "keyword": "custom paper tubes china manufacturer united states",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 17,
+      "keyword": "custom paper tubes china supplier canada",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::canada::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 18,
+      "keyword": "custom paper tubes china supplier dubai",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::dubai::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 19,
+      "keyword": "custom paper tubes china supplier europe",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::europe::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 20,
+      "keyword": "custom paper tubes china supplier middle east",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::middle_east::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 21,
+      "keyword": "custom paper tubes china supplier saudi arabia",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "saudi_arabia",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::saudi_arabia::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 22,
+      "keyword": "custom paper tubes china supplier uae",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uae",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::uae::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 23,
+      "keyword": "custom paper tubes china supplier uk",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 24,
+      "keyword": "custom paper tubes china supplier united states",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 25,
+      "keyword": "custom paper tubes custom quote canada",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "canada",
+      "intent": "quote_rfq",
+      "clusterKey": "paper_tubes::canada::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 26,
+      "keyword": "custom paper tubes custom quote dubai",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "clusterKey": "paper_tubes::dubai::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 27,
+      "keyword": "custom paper tubes custom quote europe",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "europe",
+      "intent": "quote_rfq",
+      "clusterKey": "paper_tubes::europe::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 28,
+      "keyword": "custom paper tubes custom quote middle east",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "middle_east",
+      "intent": "quote_rfq",
+      "clusterKey": "paper_tubes::middle_east::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 29,
+      "keyword": "custom paper tubes custom quote saudi arabia",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "saudi_arabia",
+      "intent": "quote_rfq",
+      "clusterKey": "paper_tubes::saudi_arabia::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 30,
+      "keyword": "custom paper tubes custom quote uae",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uae",
+      "intent": "quote_rfq",
+      "clusterKey": "paper_tubes::uae::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 31,
+      "keyword": "custom paper tubes custom quote uk",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "quote_rfq",
+      "clusterKey": "paper_tubes::uk::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 32,
+      "keyword": "custom paper tubes custom quote united states",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "quote_rfq",
+      "clusterKey": "paper_tubes::united_states::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 33,
+      "keyword": "custom paper tubes exporter canada",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "canada",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::canada::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 34,
+      "keyword": "custom paper tubes exporter dubai",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "dubai",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::dubai::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 35,
+      "keyword": "custom paper tubes exporter europe",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "europe",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::europe::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 36,
+      "keyword": "custom paper tubes exporter middle east",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "middle_east",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::middle_east::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 37,
+      "keyword": "custom paper tubes exporter saudi arabia",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "saudi_arabia",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::saudi_arabia::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 38,
+      "keyword": "custom paper tubes exporter uae",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uae",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::uae::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 39,
+      "keyword": "custom paper tubes exporter uk",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::uk::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 40,
+      "keyword": "custom paper tubes exporter united states",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::united_states::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 41,
+      "keyword": "custom paper tubes factory canada",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::canada::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 42,
+      "keyword": "custom paper tubes factory dubai",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::dubai::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 43,
+      "keyword": "custom paper tubes factory europe",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::europe::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 44,
+      "keyword": "custom paper tubes factory middle east",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::middle_east::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 45,
+      "keyword": "custom paper tubes factory saudi arabia",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "saudi_arabia",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::saudi_arabia::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 46,
+      "keyword": "custom paper tubes factory uae",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uae",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::uae::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 47,
+      "keyword": "custom paper tubes factory uk",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 48,
+      "keyword": "custom paper tubes factory united states",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 49,
+      "keyword": "custom paper tubes manufacturer canada",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::canada::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 50,
+      "keyword": "custom paper tubes manufacturer dubai",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::dubai::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 51,
+      "keyword": "custom paper tubes manufacturer europe",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::europe::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 52,
+      "keyword": "custom paper tubes manufacturer middle east",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::middle_east::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 53,
+      "keyword": "custom paper tubes manufacturer saudi arabia",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "saudi_arabia",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::saudi_arabia::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 54,
+      "keyword": "custom paper tubes manufacturer uae",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uae",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::uae::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 55,
+      "keyword": "custom paper tubes manufacturer uk",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 56,
+      "keyword": "custom paper tubes manufacturer united states",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 57,
+      "keyword": "custom paper tubes oem canada",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "canada",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::canada::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 58,
+      "keyword": "custom paper tubes oem dubai",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "dubai",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::dubai::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 59,
+      "keyword": "custom paper tubes oem europe",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "europe",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::europe::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 60,
+      "keyword": "custom paper tubes oem middle east",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "middle_east",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::middle_east::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 61,
+      "keyword": "custom paper tubes oem saudi arabia",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "saudi_arabia",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::saudi_arabia::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 62,
+      "keyword": "custom paper tubes oem uae",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uae",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::uae::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 63,
+      "keyword": "custom paper tubes oem uk",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::uk::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 64,
+      "keyword": "custom paper tubes oem united states",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::united_states::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 65,
+      "keyword": "custom paper tubes private label canada",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "canada",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::canada::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 66,
+      "keyword": "custom paper tubes private label dubai",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "dubai",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::dubai::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 67,
+      "keyword": "custom paper tubes private label europe",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "europe",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::europe::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 68,
+      "keyword": "custom paper tubes private label middle east",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "middle_east",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::middle_east::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 69,
+      "keyword": "custom paper tubes private label saudi arabia",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "saudi_arabia",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::saudi_arabia::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 70,
+      "keyword": "custom paper tubes private label uae",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uae",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::uae::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 71,
+      "keyword": "custom paper tubes private label uk",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::uk::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 72,
+      "keyword": "custom paper tubes private label united states",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::united_states::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 73,
+      "keyword": "custom paper tubes quote canada",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "canada",
+      "intent": "quote_rfq",
+      "clusterKey": "paper_tubes::canada::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 74,
+      "keyword": "custom paper tubes quote dubai",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "clusterKey": "paper_tubes::dubai::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 75,
+      "keyword": "custom paper tubes quote europe",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "europe",
+      "intent": "quote_rfq",
+      "clusterKey": "paper_tubes::europe::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 76,
+      "keyword": "custom paper tubes quote middle east",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "middle_east",
+      "intent": "quote_rfq",
+      "clusterKey": "paper_tubes::middle_east::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 77,
+      "keyword": "custom paper tubes quote saudi arabia",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "saudi_arabia",
+      "intent": "quote_rfq",
+      "clusterKey": "paper_tubes::saudi_arabia::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 78,
+      "keyword": "custom paper tubes quote uae",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uae",
+      "intent": "quote_rfq",
+      "clusterKey": "paper_tubes::uae::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 79,
+      "keyword": "custom paper tubes quote uk",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "quote_rfq",
+      "clusterKey": "paper_tubes::uk::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 80,
+      "keyword": "custom paper tubes quote united states",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "quote_rfq",
+      "clusterKey": "paper_tubes::united_states::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 81,
+      "keyword": "custom paper tubes source factory canada",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::canada::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 82,
+      "keyword": "custom paper tubes source factory dubai",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::dubai::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 83,
+      "keyword": "custom paper tubes source factory europe",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::europe::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 84,
+      "keyword": "custom paper tubes source factory middle east",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::middle_east::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 85,
+      "keyword": "custom paper tubes source factory saudi arabia",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "saudi_arabia",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::saudi_arabia::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 86,
+      "keyword": "custom paper tubes source factory uae",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uae",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::uae::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 87,
+      "keyword": "custom paper tubes source factory uk",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 88,
+      "keyword": "custom paper tubes source factory united states",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 89,
+      "keyword": "custom paper tubes supplier canada",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::canada::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 90,
+      "keyword": "custom paper tubes supplier dubai",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::dubai::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 91,
+      "keyword": "custom paper tubes supplier europe",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::europe::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 92,
+      "keyword": "custom paper tubes supplier middle east",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::middle_east::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 93,
+      "keyword": "custom paper tubes supplier saudi arabia",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "saudi_arabia",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::saudi_arabia::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 94,
+      "keyword": "custom paper tubes supplier uae",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uae",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::uae::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 95,
+      "keyword": "custom paper tubes supplier uk",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 96,
+      "keyword": "custom paper tubes supplier united states",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 97,
+      "keyword": "custom paper tubes vendor canada",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "canada",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::canada::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 98,
+      "keyword": "custom paper tubes vendor dubai",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "dubai",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::dubai::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 99,
+      "keyword": "custom paper tubes vendor europe",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "europe",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::europe::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 100,
+      "keyword": "custom paper tubes vendor middle east",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "middle_east",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::middle_east::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 101,
+      "keyword": "custom paper tubes vendor saudi arabia",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "saudi_arabia",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::saudi_arabia::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 102,
+      "keyword": "custom paper tubes vendor uae",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uae",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::uae::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 103,
+      "keyword": "custom paper tubes vendor uk",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::uk::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 104,
+      "keyword": "custom paper tubes vendor united states",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::united_states::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 105,
+      "keyword": "custom paper tubes wholesale canada",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "canada",
+      "intent": "bulk_wholesale",
+      "clusterKey": "paper_tubes::canada::bulk_wholesale",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 106,
+      "keyword": "custom paper tubes wholesale dubai",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "dubai",
+      "intent": "bulk_wholesale",
+      "clusterKey": "paper_tubes::dubai::bulk_wholesale",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 107,
+      "keyword": "custom paper tubes wholesale europe",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "europe",
+      "intent": "bulk_wholesale",
+      "clusterKey": "paper_tubes::europe::bulk_wholesale",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 108,
+      "keyword": "custom paper tubes wholesale middle east",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "middle_east",
+      "intent": "bulk_wholesale",
+      "clusterKey": "paper_tubes::middle_east::bulk_wholesale",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 109,
+      "keyword": "custom paper tubes wholesale saudi arabia",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "saudi_arabia",
+      "intent": "bulk_wholesale",
+      "clusterKey": "paper_tubes::saudi_arabia::bulk_wholesale",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 110,
+      "keyword": "custom paper tubes wholesale uae",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uae",
+      "intent": "bulk_wholesale",
+      "clusterKey": "paper_tubes::uae::bulk_wholesale",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 111,
+      "keyword": "custom paper tubes wholesale uk",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "bulk_wholesale",
+      "clusterKey": "paper_tubes::uk::bulk_wholesale",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 112,
+      "keyword": "custom paper tubes wholesale united states",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "bulk_wholesale",
+      "clusterKey": "paper_tubes::united_states::bulk_wholesale",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 113,
+      "keyword": "european brands custom paper tubes supplier",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::europe::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 114,
+      "keyword": "middle east brands custom paper tubes supplier",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::middle_east::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 115,
+      "keyword": "uk brands custom paper tubes supplier",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 174,
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 116,
+      "keyword": "amazon sellers custom paper tubes supplier",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 168,
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::global::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 117,
+      "keyword": "apparel custom paper tubes supplier",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 168,
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::global::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 118,
+      "keyword": "beauty brands custom paper tubes supplier",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 168,
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::global::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 55，organic 36，paid 0"
+      ]
+    },
+    {
+      "order": 119,
+      "keyword": "candles custom paper tubes supplier",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 168,
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::global::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 120,
+      "keyword": "candy custom paper tubes supplier",
+      "sourceType": "P2交易执行",
+      "bucket": "P2交易执行",
+      "class": "交易型",
+      "score": 168,
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "supplier_vetting",
+      "clusterKey": "paper_tubes::global::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Claude Code+n8n+Codex",
+      "executionRoute": "官网承接检查 -> 外部SourcePack/目录入口/证据页 -> IndexNow -> SerpAPI/GSC/Perplexity验收",
+      "nextConcreteAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 1,
+      "keyword": "quote checklist custom paper tubes",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "交易型",
+      "score": 168,
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "quote_rfq",
+      "clusterKey": "paper_tubes::global::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 2,
+      "keyword": "best custom paper tubes",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 156,
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "buyer_education",
+      "clusterKey": "paper_tubes::global::buyer_education",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 3,
+      "keyword": "buying guide custom paper tubes",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 156,
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "buyer_education",
+      "clusterKey": "paper_tubes::global::buyer_education",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 4,
+      "keyword": "guide custom paper tubes",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 156,
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "buyer_education",
+      "clusterKey": "paper_tubes::global::buyer_education",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 5,
+      "keyword": "how to choose custom paper tubes",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 156,
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "buyer_education",
+      "clusterKey": "paper_tubes::global::buyer_education",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 6,
+      "keyword": "how to compare custom paper tubes",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 156,
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "comparison",
+      "clusterKey": "paper_tubes::global::comparison",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 7,
+      "keyword": "how to compare packaging for cosmetics",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 156,
+      "product": "cosmetic_packaging",
+      "region": "global",
+      "intent": "comparison",
+      "clusterKey": "cosmetic_packaging::global::comparison",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 55，organic 36，paid 0"
+      ]
+    },
+    {
+      "order": 8,
+      "keyword": "how to compare packaging for skincare",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 156,
+      "product": "cosmetic_packaging",
+      "region": "global",
+      "intent": "comparison",
+      "clusterKey": "cosmetic_packaging::global::comparison",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 55，organic 36，paid 0"
+      ]
+    },
+    {
+      "order": 9,
+      "keyword": "how to source custom paper tubes",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 156,
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "buyer_education",
+      "clusterKey": "paper_tubes::global::buyer_education",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 10,
+      "keyword": "what details are needed for custom paper tubes",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 156,
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::global::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 11,
+      "keyword": "what to send for custom paper tubes",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 156,
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::global::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 12,
+      "keyword": "where to find custom paper tubes",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 156,
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "buyer_intent",
+      "clusterKey": "paper_tubes::global::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 13,
+      "keyword": "how to compare packaging for beauty brands",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 148,
+      "product": "cosmetic_packaging",
+      "region": "global",
+      "intent": "comparison",
+      "clusterKey": "cosmetic_packaging::global::comparison",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 55，organic 36，paid 0"
+      ]
+    },
+    {
+      "order": 14,
+      "keyword": "how to compare packaging for candles",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 148,
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "comparison",
+      "clusterKey": "paper_tubes::global::comparison",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 15,
+      "keyword": "how to compare packaging for coffee",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 148,
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "comparison",
+      "clusterKey": "paper_tubes::global::comparison",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 16,
+      "keyword": "how to compare packaging for makeup",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 148,
+      "product": "cosmetic_packaging",
+      "region": "global",
+      "intent": "comparison",
+      "clusterKey": "cosmetic_packaging::global::comparison",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 55，organic 36，paid 0"
+      ]
+    },
+    {
+      "order": 17,
+      "keyword": "how to compare packaging for perfume",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 148,
+      "product": "cosmetic_packaging",
+      "region": "global",
+      "intent": "comparison",
+      "clusterKey": "cosmetic_packaging::global::comparison",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 55，organic 36，paid 0"
+      ]
+    },
+    {
+      "order": 18,
+      "keyword": "how to compare packaging for tea",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 148,
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "comparison",
+      "clusterKey": "paper_tubes::global::comparison",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 19,
+      "keyword": "manufacturer or trading company for custom packaging",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "交易型",
+      "score": 147,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "supplier_vetting",
+      "clusterKey": "custom_packaging_general::global::supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ]
+    },
+    {
+      "order": 20,
+      "keyword": "how to compare packaging for gift sets",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 143,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "comparison",
+      "clusterKey": "custom_packaging_general::global::comparison",
+      "targetUrl": "https://mugepackaging.com/contact",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 69，organic 0，paid 13"
+      ]
+    },
+    {
+      "order": 21,
+      "keyword": "quote checklist custom cosmetic packaging",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "交易型",
+      "score": 143,
+      "product": "cosmetic_packaging",
+      "region": "global",
+      "intent": "quote_rfq",
+      "clusterKey": "cosmetic_packaging::global::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 55，organic 36，paid 0"
+      ]
+    },
+    {
+      "order": 22,
+      "keyword": "how to compare packaging for european brands",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 141,
+      "product": "custom_packaging_general",
+      "region": "europe",
+      "intent": "comparison",
+      "clusterKey": "custom_packaging_general::europe::comparison",
+      "targetUrl": "https://mugepackaging.com/contact",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 69，organic 0，paid 13"
+      ]
+    },
+    {
+      "order": 23,
+      "keyword": "how to compare packaging for middle east brands",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 141,
+      "product": "custom_packaging_general",
+      "region": "middle_east",
+      "intent": "comparison",
+      "clusterKey": "custom_packaging_general::middle_east::comparison",
+      "targetUrl": "https://mugepackaging.com/contact",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 69，organic 0，paid 13"
+      ]
+    },
+    {
+      "order": 24,
+      "keyword": "how to compare packaging for uk brands",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 141,
+      "product": "custom_packaging_general",
+      "region": "uk",
+      "intent": "comparison",
+      "clusterKey": "custom_packaging_general::uk::comparison",
+      "targetUrl": "https://mugepackaging.com/contact",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 69，organic 0，paid 13"
+      ]
+    },
+    {
+      "order": 25,
+      "keyword": "best custom packaging",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "buyer_education",
+      "clusterKey": "custom_packaging_general::global::buyer_education",
+      "targetUrl": "https://mugepackaging.com/products",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ]
+    },
+    {
+      "order": 26,
+      "keyword": "best custom packaging boxes",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "buyer_education",
+      "clusterKey": "custom_packaging_general::global::buyer_education",
+      "targetUrl": "https://mugepackaging.com/products",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ]
+    },
+    {
+      "order": 27,
+      "keyword": "buying guide custom packaging",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "buyer_education",
+      "clusterKey": "custom_packaging_general::global::buyer_education",
+      "targetUrl": "https://mugepackaging.com/products",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ]
+    },
+    {
+      "order": 28,
+      "keyword": "buying guide custom packaging boxes",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "buyer_education",
+      "clusterKey": "custom_packaging_general::global::buyer_education",
+      "targetUrl": "https://mugepackaging.com/products",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ]
+    },
+    {
+      "order": 29,
+      "keyword": "guide custom packaging",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "buyer_education",
+      "clusterKey": "custom_packaging_general::global::buyer_education",
+      "targetUrl": "https://mugepackaging.com/products",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ]
+    },
+    {
+      "order": 30,
+      "keyword": "guide custom packaging boxes",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "buyer_education",
+      "clusterKey": "custom_packaging_general::global::buyer_education",
+      "targetUrl": "https://mugepackaging.com/products",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ]
+    },
+    {
+      "order": 31,
+      "keyword": "how to compare packaging design service",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "comparison",
+      "clusterKey": "custom_packaging_general::global::comparison",
+      "targetUrl": "https://mugepackaging.com/contact",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 69，organic 0，paid 13"
+      ]
+    },
+    {
+      "order": 32,
+      "keyword": "how to compare packaging for amazon sellers",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "comparison",
+      "clusterKey": "custom_packaging_general::global::comparison",
+      "targetUrl": "https://mugepackaging.com/contact",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 69，organic 0，paid 13"
+      ]
+    },
+    {
+      "order": 33,
+      "keyword": "how to compare packaging for dtc brands",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "comparison",
+      "clusterKey": "custom_packaging_general::global::comparison",
+      "targetUrl": "https://mugepackaging.com/contact",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 69，organic 0，paid 13"
+      ]
+    },
+    {
+      "order": 34,
+      "keyword": "how to compare packaging for home fragrance",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "comparison",
+      "clusterKey": "custom_packaging_general::global::comparison",
+      "targetUrl": "https://mugepackaging.com/contact",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 69，organic 0，paid 13"
+      ]
+    },
+    {
+      "order": 35,
+      "keyword": "how to compare packaging for product launch",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "comparison",
+      "clusterKey": "custom_packaging_general::global::comparison",
+      "targetUrl": "https://mugepackaging.com/contact",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 69，organic 0，paid 13"
+      ]
+    },
+    {
+      "order": 36,
+      "keyword": "how to compare packaging for retail",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "comparison",
+      "clusterKey": "custom_packaging_general::global::comparison",
+      "targetUrl": "https://mugepackaging.com/contact",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 69，organic 0，paid 13"
+      ]
+    },
+    {
+      "order": 37,
+      "keyword": "how to compare packaging for small business",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "comparison",
+      "clusterKey": "custom_packaging_general::global::comparison",
+      "targetUrl": "https://mugepackaging.com/contact",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 69，organic 0，paid 13"
+      ]
+    },
+    {
+      "order": 38,
+      "keyword": "how to compare packaging for soap",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "comparison",
+      "clusterKey": "custom_packaging_general::global::comparison",
+      "targetUrl": "https://mugepackaging.com/contact",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 69，organic 0，paid 13"
+      ]
+    },
+    {
+      "order": 39,
+      "keyword": "how to compare packaging for subscription boxes",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "comparison",
+      "clusterKey": "custom_packaging_general::global::comparison",
+      "targetUrl": "https://mugepackaging.com/contact",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 69，organic 0，paid 13"
+      ]
+    },
+    {
+      "order": 40,
+      "keyword": "how to compare packaging inserts",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "packaging_inserts",
+      "region": "global",
+      "intent": "comparison",
+      "clusterKey": "packaging_inserts::global::comparison",
+      "targetUrl": "https://mugepackaging.com/contact",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 69，organic 0，paid 13"
+      ]
+    },
+    {
+      "order": 41,
+      "keyword": "what details are needed for custom packaging",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "buyer_intent",
+      "clusterKey": "custom_packaging_general::global::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ]
+    },
+    {
+      "order": 42,
+      "keyword": "what details are needed for custom packaging boxes",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "buyer_intent",
+      "clusterKey": "custom_packaging_general::global::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ]
+    },
+    {
+      "order": 43,
+      "keyword": "what to send for custom packaging",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "buyer_intent",
+      "clusterKey": "custom_packaging_general::global::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ]
+    },
+    {
+      "order": 44,
+      "keyword": "what to send for custom packaging boxes",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "buyer_intent",
+      "clusterKey": "custom_packaging_general::global::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ]
+    },
+    {
+      "order": 45,
+      "keyword": "where to find custom packaging",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "buyer_intent",
+      "clusterKey": "custom_packaging_general::global::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ]
+    },
+    {
+      "order": 46,
+      "keyword": "where to find custom packaging boxes",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 135,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "buyer_intent",
+      "clusterKey": "custom_packaging_general::global::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ]
+    },
+    {
+      "order": 47,
+      "keyword": "best packaging for gift sets",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 133,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "buyer_education",
+      "clusterKey": "custom_packaging_general::global::buyer_education",
+      "targetUrl": "https://mugepackaging.com/products",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ]
+    },
+    {
+      "order": 48,
+      "keyword": "buying guide packaging for gift sets",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 133,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "buyer_education",
+      "clusterKey": "custom_packaging_general::global::buyer_education",
+      "targetUrl": "https://mugepackaging.com/products",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ]
+    },
+    {
+      "order": 49,
+      "keyword": "guide packaging for gift sets",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 133,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "buyer_education",
+      "clusterKey": "custom_packaging_general::global::buyer_education",
+      "targetUrl": "https://mugepackaging.com/products",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ]
+    },
+    {
+      "order": 50,
+      "keyword": "quote checklist cosmetic packaging",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "交易型",
+      "score": 133,
+      "product": "cosmetic_packaging",
+      "region": "global",
+      "intent": "quote_rfq",
+      "clusterKey": "cosmetic_packaging::global::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 55，organic 36，paid 0"
+      ]
+    },
+    {
+      "order": 51,
+      "keyword": "quote checklist custom gift boxes",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "交易型",
+      "score": 133,
+      "product": "rigid_gift_boxes",
+      "region": "global",
+      "intent": "quote_rfq",
+      "clusterKey": "rigid_gift_boxes::global::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 57，organic 33，paid 0"
+      ]
+    },
+    {
+      "order": 52,
+      "keyword": "quote checklist gift box packaging",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "交易型",
+      "score": 133,
+      "product": "rigid_gift_boxes",
+      "region": "global",
+      "intent": "quote_rfq",
+      "clusterKey": "rigid_gift_boxes::global::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 57，organic 33，paid 0"
+      ]
+    },
+    {
+      "order": 53,
+      "keyword": "quote checklist packaging for cosmetics",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "交易型",
+      "score": 133,
+      "product": "cosmetic_packaging",
+      "region": "global",
+      "intent": "quote_rfq",
+      "clusterKey": "cosmetic_packaging::global::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 55，organic 36，paid 0"
+      ]
+    },
+    {
+      "order": 54,
+      "keyword": "quote checklist packaging for skincare",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "交易型",
+      "score": 133,
+      "product": "cosmetic_packaging",
+      "region": "global",
+      "intent": "quote_rfq",
+      "clusterKey": "cosmetic_packaging::global::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 55，organic 36，paid 0"
+      ]
+    },
+    {
+      "order": 55,
+      "keyword": "quote checklist paper tube packaging",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "交易型",
+      "score": 133,
+      "product": "paper_tubes",
+      "region": "global",
+      "intent": "quote_rfq",
+      "clusterKey": "paper_tubes::global::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 76，organic 39，paid 0"
+      ]
+    },
+    {
+      "order": 56,
+      "keyword": "quote checklist skincare packaging boxes",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "交易型",
+      "score": 133,
+      "product": "cosmetic_packaging",
+      "region": "global",
+      "intent": "quote_rfq",
+      "clusterKey": "cosmetic_packaging::global::quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 55，organic 36，paid 0"
+      ]
+    },
+    {
+      "order": 57,
+      "keyword": "what details are needed for packaging for gift sets",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 133,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "buyer_intent",
+      "clusterKey": "custom_packaging_general::global::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ]
+    },
+    {
+      "order": 58,
+      "keyword": "what to send for packaging for gift sets",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 133,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "buyer_intent",
+      "clusterKey": "custom_packaging_general::global::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ]
+    },
+    {
+      "order": 59,
+      "keyword": "where to find packaging for gift sets",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 133,
+      "product": "custom_packaging_general",
+      "region": "global",
+      "intent": "buyer_intent",
+      "clusterKey": "custom_packaging_general::global::buyer_intent",
+      "targetUrl": "https://mugepackaging.com/products",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 91，organic 6，paid 2"
+      ]
+    },
+    {
+      "order": 60,
+      "keyword": "best custom cosmetic packaging",
+      "sourceType": "GEO_AI问答测试",
+      "bucket": "GEO_AI问答测试",
+      "class": "GEO问答",
+      "score": 131,
+      "product": "cosmetic_packaging",
+      "region": "global",
+      "intent": "buyer_education",
+      "clusterKey": "cosmetic_packaging::global::buyer_education",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "owner": "Codex+n8n+Perplexity",
+      "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
+      "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
+      "evidence": [
+        "GA4目标页：sessions 55，organic 36，paid 0"
+      ]
+    }
+  ]
+}

@@ -1,3 +1,12 @@
+<!-- MUGE_ROLLING_KEYWORD_SOURCE_MAP:start -->
+## MUGE SEO/GEO rolling keyword execution source map
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/seo-geo-rolling-keyword-execution-source-map-2026-06-16.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/seo-geo-rolling-keyword-execution-source-map-2026-06-16.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/seo-geo-rolling-keyword-execution-source-map-2026-06-16.json
+- Scope: 23 hard-validation terms, 800 transaction execution terms, 300 AI buyer-question tests.
+<!-- MUGE_ROLLING_KEYWORD_SOURCE_MAP:end -->
+
 <!-- MUGE_SHORT_AI_SOURCE_INDEX_2026_06_16:start -->
 ## MUGE PACKAGING Short AI Source Index - 2026-06-16
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/short-ai-source-index-2026-06-16.html
