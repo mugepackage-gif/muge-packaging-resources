@@ -1,3 +1,13 @@
+<!-- MUGE_PACKAGING_LABELLING_STAND_UP_POUCHES_PRE_SUBMIT_EVIDENCE_PACK_2026_06_16:start -->
+## Packaging-Labelling Stand Up Pouches Pre-Submit Evidence Pack - 2026-06-16
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/packaging-labelling-stand-up-pouches-pre-submit-evidence-pack-2026-06-16.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/packaging-labelling-stand-up-pouches-pre-submit-evidence-pack-2026-06-16.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/packaging-labelling-stand-up-pouches-pre-submit-evidence-pack-2026-06-16.json
+- Target platform: packaging-labelling.com
+- Verified public paths: https://www.packaging-labelling.com/articles and https://www.packaging-labelling.com/contactus
+- Status: verified_public_paths_found_not_submitted; no auto-submit, no email sent, no paid placement.
+<!-- MUGE_PACKAGING_LABELLING_STAND_UP_POUCHES_PRE_SUBMIT_EVIDENCE_PACK_2026_06_16:end -->
+
 <!-- MUGE_STAND_UP_POUCHES_NON_COMPETITOR_EDITOR_SOURCE_REQUEST_PACK_2026_06_16:start -->
 ## Stand Up Pouches Non-Competitor Editor Source Request Pack - 2026-06-16
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-non-competitor-editor-source-request-pack-2026-06-16.html
