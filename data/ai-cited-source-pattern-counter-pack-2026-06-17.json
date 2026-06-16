@@ -1,0 +1,2648 @@
+{
+  "generatedAt": "2026-06-16T18:01:48.645Z",
+  "generatedAtCst": "2026-06-17 02:01:48",
+  "sourceJson": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/n8n执行数据/20260617_0157_MUGE关键词宇宙8簇_Perplexity可见度复验.json",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-pattern-counter-pack-2026-06-17.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-pattern-counter-pack-2026-06-17.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-cited-source-pattern-counter-pack-2026-06-17.json"
+  },
+  "inputSummary": {
+    "perplexityTotal": 10,
+    "perplexityPositive": 2,
+    "naturalTotal": 8,
+    "naturalPositive": 0,
+    "brandTotal": 2,
+    "brandPositive": 2,
+    "result": "8 个自然买家问题仍未命中 MUGE/MUGE Source Pack，需要发布缺口响应包并继续做第三方来源路径。"
+  },
+  "sourceUrlCount": 72,
+  "uniqueHostCount": 43,
+  "sourceItems": [
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://custompapertubeboxes.com",
+      "host": "custompapertubeboxes.com",
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers",
+      "host": "innorhino.com",
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://brandtbox.com/blog/how-to-evaluate-custom-packaging-supplier/",
+      "host": "brandtbox.com",
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://orangepkg.com/blog/questions-to-ask-packaging-manufacturers-during-the-evaluation-process/",
+      "host": "orangepkg.com",
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://presidentcontainergroup.com/6-questions-to-ask-before-choosing-a-packaging-supplier/",
+      "host": "presidentcontainergroup.com",
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.nhpapertube.com/questions-to-ask-your-paper-tube-provider",
+      "host": "nhpapertube.com",
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://brownpackaging.com/10-essential-questions-you-should-ask-your-packaging-supplier/",
+      "host": "brownpackaging.com",
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://companybox.com/blog/5-questions-to-ask-your-packaging-supplier/",
+      "host": "companybox.com",
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://papertube.co/pages/faq",
+      "host": "papertube.co",
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://tubepackagingpro.com/custom-paper-tube-packaging-guide/",
+      "host": "tubepackagingpro.com",
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://cardboardtubemanufacturers.com",
+      "host": "cardboardtubemanufacturers.com",
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://custompapertubeboxes.com",
+      "host": "custompapertubeboxes.com",
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.valkindustries.com/latest-news/how-to-choose-a-paper-tube-manufacturer.html",
+      "host": "valkindustries.com",
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers",
+      "host": "innorhino.com",
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://brandtbox.com/blog/how-to-evaluate-custom-packaging-supplier/",
+      "host": "brandtbox.com",
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.nhpapertube.com/questions-to-ask-your-paper-tube-provider",
+      "host": "nhpapertube.com",
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://brownpackaging.com/10-essential-questions-you-should-ask-your-packaging-supplier/",
+      "host": "brownpackaging.com",
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://companybox.com/blog/5-questions-to-ask-your-packaging-supplier/",
+      "host": "companybox.com",
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.youtube.com/watch?v=ijglKdM_KgU",
+      "host": "youtube.com",
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "classification": {
+        "type": "social_video",
+        "label": "社媒/视频入口",
+        "action": "生成人工发布草稿、简介/描述字段检查清单；不自动评论、私信、关注或群发。",
+        "priority": "P2"
+      }
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://papertube.co/pages/faq",
+      "host": "papertube.co",
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers",
+      "host": "innorhino.com",
+      "product": "custom_packaging_general",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://boltboxes.com/blog/how-to-choose-custom-packaging-supplier/",
+      "host": "boltboxes.com",
+      "product": "custom_packaging_general",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.theboxery.com/blog/what-questions-should-you-ask-a-shipping-boxes-supplier/",
+      "host": "theboxery.com",
+      "product": "custom_packaging_general",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://presidentcontainergroup.com/6-questions-to-ask-before-choosing-a-packaging-supplier/",
+      "host": "presidentcontainergroup.com",
+      "product": "custom_packaging_general",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.packagingcorp.com/wp-content/uploads/2022/11/Right-Vendor-Infographic.pdf",
+      "host": "packagingcorp.com",
+      "product": "custom_packaging_general",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://companybox.com/blog/5-questions-to-ask-your-packaging-supplier/",
+      "host": "companybox.com",
+      "product": "custom_packaging_general",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.modpac.com/essential-questions-to-ask-your-packaging-supplier/",
+      "host": "modpac.com",
+      "product": "custom_packaging_general",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.expresspkg.com/news/10-questions-to-ask-before-selecting-a-box-manufacturer/",
+      "host": "expresspkg.com",
+      "product": "custom_packaging_general",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://brownpackaging.com/10-essential-questions-you-should-ask-your-packaging-supplier/",
+      "host": "brownpackaging.com",
+      "product": "custom_packaging_general",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://ufppackaging.com/insights/six-things-to-consider-when-choosing-your-packaging-supplier",
+      "host": "ufppackaging.com",
+      "product": "custom_packaging_general",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers",
+      "host": "innorhino.com",
+      "product": "custom_packaging_general",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.theboxery.com/blog/what-questions-should-you-ask-a-shipping-boxes-supplier/",
+      "host": "theboxery.com",
+      "product": "custom_packaging_general",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://presidentcontainergroup.com/6-questions-to-ask-before-choosing-a-packaging-supplier/",
+      "host": "presidentcontainergroup.com",
+      "product": "custom_packaging_general",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://pakfactory.com/blog/learn/questions-to-ask-before-buying-packaging/",
+      "host": "pakfactory.com",
+      "product": "custom_packaging_general",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.jamestowncontainer.com/packaging-resources/blog/4-things-to-look-for-in-corrugated-packaging-suppliers/",
+      "host": "jamestowncontainer.com",
+      "product": "custom_packaging_general",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.modpac.com/essential-questions-to-ask-your-packaging-supplier/",
+      "host": "modpac.com",
+      "product": "custom_packaging_general",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://companybox.com/blog/5-questions-to-ask-your-packaging-supplier/",
+      "host": "companybox.com",
+      "product": "custom_packaging_general",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.expresspkg.com/news/10-questions-to-ask-before-selecting-a-box-manufacturer/",
+      "host": "expresspkg.com",
+      "product": "custom_packaging_general",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://brownpackaging.com/10-essential-questions-you-should-ask-your-packaging-supplier/",
+      "host": "brownpackaging.com",
+      "product": "custom_packaging_general",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://ufppackaging.com/insights/six-things-to-consider-when-choosing-your-packaging-supplier",
+      "host": "ufppackaging.com",
+      "product": "custom_packaging_general",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_5",
+      "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.icustomboxes.ca/cosmetic-boxes/",
+      "host": "icustomboxes.ca",
+      "product": "cosmetic_packaging",
+      "region": "canada",
+      "intent": "quote_rfq",
+      "productLabel": "Cosmetic packaging",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_5",
+      "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://packagingtoronto.ca/cosmetic-boxes/",
+      "host": "packagingtoronto.ca",
+      "product": "cosmetic_packaging",
+      "region": "canada",
+      "intent": "quote_rfq",
+      "productLabel": "Cosmetic packaging",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_5",
+      "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://custompackaginglane.ca/cosmetic-boxes/",
+      "host": "custompackaginglane.ca",
+      "product": "cosmetic_packaging",
+      "region": "canada",
+      "intent": "quote_rfq",
+      "productLabel": "Cosmetic packaging",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_5",
+      "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.stocksmetic.com/us/custom-cosmetic-packaging",
+      "host": "stocksmetic.com",
+      "product": "cosmetic_packaging",
+      "region": "canada",
+      "intent": "quote_rfq",
+      "productLabel": "Cosmetic packaging",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_5",
+      "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.instagram.com/reel/DZC3MyKzT2r/",
+      "host": "instagram.com",
+      "product": "cosmetic_packaging",
+      "region": "canada",
+      "intent": "quote_rfq",
+      "productLabel": "Cosmetic packaging",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "classification": {
+        "type": "social_video",
+        "label": "社媒/视频入口",
+        "action": "生成人工发布草稿、简介/描述字段检查清单；不自动评论、私信、关注或群发。",
+        "priority": "P2"
+      }
+    },
+    {
+      "clusterId": "cluster_5",
+      "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://thepackaging.ca/product/custom-luxury-cosmetic-packaging-boxes/",
+      "host": "thepackaging.ca",
+      "product": "cosmetic_packaging",
+      "region": "canada",
+      "intent": "quote_rfq",
+      "productLabel": "Cosmetic packaging",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_6",
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.alibaba.com/price-comparison/custom-cosmetic-packaging-manufacturers",
+      "host": "alibaba.com",
+      "product": "cosmetic_packaging",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "productLabel": "Cosmetic packaging",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "classification": {
+        "type": "marketplace_directory",
+        "label": "B2B/目录平台",
+        "action": "只检查免费公开资料页和官网链接；要求登录、验证码、付费或 Verified 声明则停止。",
+        "priority": "P1"
+      }
+    },
+    {
+      "clusterId": "cluster_6",
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://al-kamal.com",
+      "host": "al-kamal.com",
+      "product": "cosmetic_packaging",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "productLabel": "Cosmetic packaging",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "classification": {
+        "type": "unknown_research_first",
+        "label": "待确认来源",
+        "action": "先做站点属性预检；确认非同行且有公开投稿/目录机制后再进入人工闸门。",
+        "priority": "P2"
+      }
+    },
+    {
+      "clusterId": "cluster_6",
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.tradewheel.com/buyers/cosmetics-packaging/",
+      "host": "tradewheel.com",
+      "product": "cosmetic_packaging",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "productLabel": "Cosmetic packaging",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "classification": {
+        "type": "marketplace_directory",
+        "label": "B2B/目录平台",
+        "action": "只检查免费公开资料页和官网链接；要求登录、验证码、付费或 Verified 声明则停止。",
+        "priority": "P1"
+      }
+    },
+    {
+      "clusterId": "cluster_6",
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://sevich.com/2026-middle-east-cosmetic-registration-uae-ksa-for-b2b-buyers/",
+      "host": "sevich.com",
+      "product": "cosmetic_packaging",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "productLabel": "Cosmetic packaging",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "classification": {
+        "type": "unknown_research_first",
+        "label": "待确认来源",
+        "action": "先做站点属性预检；确认非同行且有公开投稿/目录机制后再进入人工闸门。",
+        "priority": "P2"
+      }
+    },
+    {
+      "clusterId": "cluster_6",
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.instagram.com/reel/Cv4iC7btMVs/",
+      "host": "instagram.com",
+      "product": "cosmetic_packaging",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "productLabel": "Cosmetic packaging",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "classification": {
+        "type": "social_video",
+        "label": "社媒/视频入口",
+        "action": "生成人工发布草稿、简介/描述字段检查清单；不自动评论、私信、关注或群发。",
+        "priority": "P2"
+      }
+    },
+    {
+      "clusterId": "cluster_6",
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.facebook.com/groups/480114936438748/posts/1626545201795710/",
+      "host": "facebook.com",
+      "product": "cosmetic_packaging",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "productLabel": "Cosmetic packaging",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "classification": {
+        "type": "social_video",
+        "label": "社媒/视频入口",
+        "action": "生成人工发布草稿、简介/描述字段检查清单；不自动评论、私信、关注或群发。",
+        "priority": "P2"
+      }
+    },
+    {
+      "clusterId": "cluster_6",
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.instagram.com/reel/DUA3-ILkmpb/",
+      "host": "instagram.com",
+      "product": "cosmetic_packaging",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "productLabel": "Cosmetic packaging",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "classification": {
+        "type": "social_video",
+        "label": "社媒/视频入口",
+        "action": "生成人工发布草稿、简介/描述字段检查清单；不自动评论、私信、关注或群发。",
+        "priority": "P2"
+      }
+    },
+    {
+      "clusterId": "cluster_6",
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.instagram.com/reel/DBGZNXzy20D/",
+      "host": "instagram.com",
+      "product": "cosmetic_packaging",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "productLabel": "Cosmetic packaging",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "classification": {
+        "type": "social_video",
+        "label": "社媒/视频入口",
+        "action": "生成人工发布草稿、简介/描述字段检查清单；不自动评论、私信、关注或群发。",
+        "priority": "P2"
+      }
+    },
+    {
+      "clusterId": "cluster_6",
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://onyxplastic.com/cosmetic-packaging-bottles-manufacturer-in-dubai/",
+      "host": "onyxplastic.com",
+      "product": "cosmetic_packaging",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "productLabel": "Cosmetic packaging",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_7",
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.wecustomboxes.com/rigid-boxes/",
+      "host": "wecustomboxes.com",
+      "product": "rigid_gift_boxes",
+      "region": "canada",
+      "intent": "quote_rfq",
+      "productLabel": "Rigid gift boxes",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_7",
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.madovar.com",
+      "host": "madovar.com",
+      "product": "rigid_gift_boxes",
+      "region": "canada",
+      "intent": "quote_rfq",
+      "productLabel": "Rigid gift boxes",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "classification": {
+        "type": "unknown_research_first",
+        "label": "待确认来源",
+        "action": "先做站点属性预检；确认非同行且有公开投稿/目录机制后再进入人工闸门。",
+        "priority": "P2"
+      }
+    },
+    {
+      "clusterId": "cluster_7",
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.instagram.com/reel/DZYAmGIgRNs/",
+      "host": "instagram.com",
+      "product": "rigid_gift_boxes",
+      "region": "canada",
+      "intent": "quote_rfq",
+      "productLabel": "Rigid gift boxes",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "classification": {
+        "type": "social_video",
+        "label": "社媒/视频入口",
+        "action": "生成人工发布草稿、简介/描述字段检查清单；不自动评论、私信、关注或群发。",
+        "priority": "P2"
+      }
+    },
+    {
+      "clusterId": "cluster_7",
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.icustomboxes.com",
+      "host": "icustomboxes.com",
+      "product": "rigid_gift_boxes",
+      "region": "canada",
+      "intent": "quote_rfq",
+      "productLabel": "Rigid gift boxes",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_7",
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://theboxes.ca/product/rigid-gift-boxes/",
+      "host": "theboxes.ca",
+      "product": "rigid_gift_boxes",
+      "region": "canada",
+      "intent": "quote_rfq",
+      "productLabel": "Rigid gift boxes",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_7",
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.facebook.com/groups/NextUpAsia/posts/10158344484216657/",
+      "host": "facebook.com",
+      "product": "rigid_gift_boxes",
+      "region": "canada",
+      "intent": "quote_rfq",
+      "productLabel": "Rigid gift boxes",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "classification": {
+        "type": "social_video",
+        "label": "社媒/视频入口",
+        "action": "生成人工发布草稿、简介/描述字段检查清单；不自动评论、私信、关注或群发。",
+        "priority": "P2"
+      }
+    },
+    {
+      "clusterId": "cluster_7",
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.instagram.com/p/DRh4R_MjRHb/",
+      "host": "instagram.com",
+      "product": "rigid_gift_boxes",
+      "region": "canada",
+      "intent": "quote_rfq",
+      "productLabel": "Rigid gift boxes",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "classification": {
+        "type": "social_video",
+        "label": "社媒/视频入口",
+        "action": "生成人工发布草稿、简介/描述字段检查清单；不自动评论、私信、关注或群发。",
+        "priority": "P2"
+      }
+    },
+    {
+      "clusterId": "cluster_7",
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.instagram.com/reel/DYkWHeAAJ1j/",
+      "host": "instagram.com",
+      "product": "rigid_gift_boxes",
+      "region": "canada",
+      "intent": "quote_rfq",
+      "productLabel": "Rigid gift boxes",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "classification": {
+        "type": "social_video",
+        "label": "社媒/视频入口",
+        "action": "生成人工发布草稿、简介/描述字段检查清单；不自动评论、私信、关注或群发。",
+        "priority": "P2"
+      }
+    },
+    {
+      "clusterId": "cluster_8",
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/packaging-printing/custom-gift-packaging-boxes-guide-alibaba-b2b",
+      "host": "seller.alibaba.com",
+      "product": "rigid_gift_boxes",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "productLabel": "Rigid gift boxes",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "classification": {
+        "type": "marketplace_directory",
+        "label": "B2B/目录平台",
+        "action": "只检查免费公开资料页和官网链接；要求登录、验证码、付费或 Verified 声明则停止。",
+        "priority": "P1"
+      }
+    },
+    {
+      "clusterId": "cluster_8",
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://therpsllc.com/product/rigid-boxes-printing-supplier-dubai/",
+      "host": "therpsllc.com",
+      "product": "rigid_gift_boxes",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "productLabel": "Rigid gift boxes",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_8",
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://printerydubai.com/product/rigid-boxes/",
+      "host": "printerydubai.com",
+      "product": "rigid_gift_boxes",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "productLabel": "Rigid gift boxes",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_8",
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.almiskboxes.com",
+      "host": "almiskboxes.com",
+      "product": "rigid_gift_boxes",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "productLabel": "Rigid gift boxes",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_8",
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://veesham.com/rigid-box-printing-in-dubai/",
+      "host": "veesham.com",
+      "product": "rigid_gift_boxes",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "productLabel": "Rigid gift boxes",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      }
+    },
+    {
+      "clusterId": "cluster_8",
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.instagram.com/reel/Cv4iC7btMVs/",
+      "host": "instagram.com",
+      "product": "rigid_gift_boxes",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "productLabel": "Rigid gift boxes",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "classification": {
+        "type": "social_video",
+        "label": "社媒/视频入口",
+        "action": "生成人工发布草稿、简介/描述字段检查清单；不自动评论、私信、关注或群发。",
+        "priority": "P2"
+      }
+    },
+    {
+      "clusterId": "cluster_8",
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.instagram.com/reel/DBGZNXzy20D/",
+      "host": "instagram.com",
+      "product": "rigid_gift_boxes",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "productLabel": "Rigid gift boxes",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "classification": {
+        "type": "social_video",
+        "label": "社媒/视频入口",
+        "action": "生成人工发布草稿、简介/描述字段检查清单；不自动评论、私信、关注或群发。",
+        "priority": "P2"
+      }
+    },
+    {
+      "clusterId": "cluster_8",
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.instagram.com/reel/DSt9QbiiHpo/",
+      "host": "instagram.com",
+      "product": "rigid_gift_boxes",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "productLabel": "Rigid gift boxes",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "classification": {
+        "type": "social_video",
+        "label": "社媒/视频入口",
+        "action": "生成人工发布草稿、简介/描述字段检查清单；不自动评论、私信、关注或群发。",
+        "priority": "P2"
+      }
+    },
+    {
+      "clusterId": "cluster_8",
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://habllen.com",
+      "host": "habllen.com",
+      "product": "rigid_gift_boxes",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "productLabel": "Rigid gift boxes",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "classification": {
+        "type": "unknown_research_first",
+        "label": "待确认来源",
+        "action": "先做站点属性预检；确认非同行且有公开投稿/目录机制后再进入人工闸门。",
+        "priority": "P2"
+      }
+    }
+  ],
+  "hostSummary": [
+    {
+      "host": "instagram.com",
+      "classification": {
+        "type": "social_video",
+        "label": "社媒/视频入口",
+        "action": "生成人工发布草稿、简介/描述字段检查清单；不自动评论、私信、关注或群发。",
+        "priority": "P2"
+      },
+      "urlCount": 10,
+      "clusters": [
+        "cosmetic_packaging::canada::quote_rfq",
+        "cosmetic_packaging::dubai::quote_rfq",
+        "rigid_gift_boxes::canada::quote_rfq",
+        "rigid_gift_boxes::dubai::quote_rfq"
+      ],
+      "products": [
+        "Cosmetic packaging",
+        "Rigid gift boxes"
+      ],
+      "urls": [
+        "https://www.instagram.com/p/DRh4R_MjRHb/",
+        "https://www.instagram.com/reel/Cv4iC7btMVs/",
+        "https://www.instagram.com/reel/DBGZNXzy20D/",
+        "https://www.instagram.com/reel/DSt9QbiiHpo/",
+        "https://www.instagram.com/reel/DUA3-ILkmpb/",
+        "https://www.instagram.com/reel/DYkWHeAAJ1j/",
+        "https://www.instagram.com/reel/DZC3MyKzT2r/",
+        "https://www.instagram.com/reel/DZYAmGIgRNs/"
+      ]
+    },
+    {
+      "host": "brownpackaging.com",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      },
+      "urlCount": 4,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting",
+        "paper_tubes::uk::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "products": [
+        "Custom packaging boxes",
+        "Paper tube packaging"
+      ],
+      "urls": [
+        "https://brownpackaging.com/10-essential-questions-you-should-ask-your-packaging-supplier/"
+      ]
+    },
+    {
+      "host": "companybox.com",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      },
+      "urlCount": 4,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting",
+        "paper_tubes::uk::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "products": [
+        "Custom packaging boxes",
+        "Paper tube packaging"
+      ],
+      "urls": [
+        "https://companybox.com/blog/5-questions-to-ask-your-packaging-supplier/"
+      ]
+    },
+    {
+      "host": "innorhino.com",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      },
+      "urlCount": 4,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting",
+        "paper_tubes::uk::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "products": [
+        "Custom packaging boxes",
+        "Paper tube packaging"
+      ],
+      "urls": [
+        "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers"
+      ]
+    },
+    {
+      "host": "presidentcontainergroup.com",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      },
+      "urlCount": 3,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting",
+        "paper_tubes::uk::supplier_vetting"
+      ],
+      "products": [
+        "Custom packaging boxes",
+        "Paper tube packaging"
+      ],
+      "urls": [
+        "https://presidentcontainergroup.com/6-questions-to-ask-before-choosing-a-packaging-supplier/"
+      ]
+    },
+    {
+      "host": "brandtbox.com",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      },
+      "urlCount": 2,
+      "clusters": [
+        "paper_tubes::uk::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "products": [
+        "Paper tube packaging"
+      ],
+      "urls": [
+        "https://brandtbox.com/blog/how-to-evaluate-custom-packaging-supplier/"
+      ]
+    },
+    {
+      "host": "custompapertubeboxes.com",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      },
+      "urlCount": 2,
+      "clusters": [
+        "paper_tubes::uk::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "products": [
+        "Paper tube packaging"
+      ],
+      "urls": [
+        "https://custompapertubeboxes.com"
+      ]
+    },
+    {
+      "host": "expresspkg.com",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      },
+      "urlCount": 2,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting"
+      ],
+      "products": [
+        "Custom packaging boxes"
+      ],
+      "urls": [
+        "https://www.expresspkg.com/news/10-questions-to-ask-before-selecting-a-box-manufacturer/"
+      ]
+    },
+    {
+      "host": "facebook.com",
+      "classification": {
+        "type": "social_video",
+        "label": "社媒/视频入口",
+        "action": "生成人工发布草稿、简介/描述字段检查清单；不自动评论、私信、关注或群发。",
+        "priority": "P2"
+      },
+      "urlCount": 2,
+      "clusters": [
+        "cosmetic_packaging::dubai::quote_rfq",
+        "rigid_gift_boxes::canada::quote_rfq"
+      ],
+      "products": [
+        "Cosmetic packaging",
+        "Rigid gift boxes"
+      ],
+      "urls": [
+        "https://www.facebook.com/groups/480114936438748/posts/1626545201795710/",
+        "https://www.facebook.com/groups/NextUpAsia/posts/10158344484216657/"
+      ]
+    },
+    {
+      "host": "modpac.com",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      },
+      "urlCount": 2,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting"
+      ],
+      "products": [
+        "Custom packaging boxes"
+      ],
+      "urls": [
+        "https://www.modpac.com/essential-questions-to-ask-your-packaging-supplier/"
+      ]
+    },
+    {
+      "host": "nhpapertube.com",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      },
+      "urlCount": 2,
+      "clusters": [
+        "paper_tubes::uk::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "products": [
+        "Paper tube packaging"
+      ],
+      "urls": [
+        "https://www.nhpapertube.com/questions-to-ask-your-paper-tube-provider"
+      ]
+    },
+    {
+      "host": "papertube.co",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      },
+      "urlCount": 2,
+      "clusters": [
+        "paper_tubes::uk::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "products": [
+        "Paper tube packaging"
+      ],
+      "urls": [
+        "https://papertube.co/pages/faq"
+      ]
+    },
+    {
+      "host": "theboxery.com",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      },
+      "urlCount": 2,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting"
+      ],
+      "products": [
+        "Custom packaging boxes"
+      ],
+      "urls": [
+        "https://www.theboxery.com/blog/what-questions-should-you-ask-a-shipping-boxes-supplier/"
+      ]
+    },
+    {
+      "host": "ufppackaging.com",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      },
+      "urlCount": 2,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting"
+      ],
+      "products": [
+        "Custom packaging boxes"
+      ],
+      "urls": [
+        "https://ufppackaging.com/insights/six-things-to-consider-when-choosing-your-packaging-supplier"
+      ]
+    },
+    {
+      "host": "al-kamal.com",
+      "classification": {
+        "type": "unknown_research_first",
+        "label": "待确认来源",
+        "action": "先做站点属性预检；确认非同行且有公开投稿/目录机制后再进入人工闸门。",
+        "priority": "P2"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "cosmetic_packaging::dubai::quote_rfq"
+      ],
+      "products": [
+        "Cosmetic packaging"
+      ],
+      "urls": [
+        "https://al-kamal.com"
+      ]
+    },
+    {
+      "host": "alibaba.com",
+      "classification": {
+        "type": "marketplace_directory",
+        "label": "B2B/目录平台",
+        "action": "只检查免费公开资料页和官网链接；要求登录、验证码、付费或 Verified 声明则停止。",
+        "priority": "P1"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "cosmetic_packaging::dubai::quote_rfq"
+      ],
+      "products": [
+        "Cosmetic packaging"
+      ],
+      "urls": [
+        "https://www.alibaba.com/price-comparison/custom-cosmetic-packaging-manufacturers"
+      ]
+    },
+    {
+      "host": "almiskboxes.com",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "rigid_gift_boxes::dubai::quote_rfq"
+      ],
+      "products": [
+        "Rigid gift boxes"
+      ],
+      "urls": [
+        "https://www.almiskboxes.com"
+      ]
+    },
+    {
+      "host": "boltboxes.com",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting"
+      ],
+      "products": [
+        "Custom packaging boxes"
+      ],
+      "urls": [
+        "https://boltboxes.com/blog/how-to-choose-custom-packaging-supplier/"
+      ]
+    },
+    {
+      "host": "cardboardtubemanufacturers.com",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "products": [
+        "Paper tube packaging"
+      ],
+      "urls": [
+        "https://cardboardtubemanufacturers.com"
+      ]
+    },
+    {
+      "host": "custompackaginglane.ca",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "cosmetic_packaging::canada::quote_rfq"
+      ],
+      "products": [
+        "Cosmetic packaging"
+      ],
+      "urls": [
+        "https://custompackaginglane.ca/cosmetic-boxes/"
+      ]
+    },
+    {
+      "host": "habllen.com",
+      "classification": {
+        "type": "unknown_research_first",
+        "label": "待确认来源",
+        "action": "先做站点属性预检；确认非同行且有公开投稿/目录机制后再进入人工闸门。",
+        "priority": "P2"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "rigid_gift_boxes::dubai::quote_rfq"
+      ],
+      "products": [
+        "Rigid gift boxes"
+      ],
+      "urls": [
+        "https://habllen.com"
+      ]
+    },
+    {
+      "host": "icustomboxes.ca",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "cosmetic_packaging::canada::quote_rfq"
+      ],
+      "products": [
+        "Cosmetic packaging"
+      ],
+      "urls": [
+        "https://www.icustomboxes.ca/cosmetic-boxes/"
+      ]
+    },
+    {
+      "host": "icustomboxes.com",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "rigid_gift_boxes::canada::quote_rfq"
+      ],
+      "products": [
+        "Rigid gift boxes"
+      ],
+      "urls": [
+        "https://www.icustomboxes.com"
+      ]
+    },
+    {
+      "host": "jamestowncontainer.com",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "custom_packaging_general::dubai::supplier_vetting"
+      ],
+      "products": [
+        "Custom packaging boxes"
+      ],
+      "urls": [
+        "https://www.jamestowncontainer.com/packaging-resources/blog/4-things-to-look-for-in-corrugated-packaging-suppliers/"
+      ]
+    },
+    {
+      "host": "madovar.com",
+      "classification": {
+        "type": "unknown_research_first",
+        "label": "待确认来源",
+        "action": "先做站点属性预检；确认非同行且有公开投稿/目录机制后再进入人工闸门。",
+        "priority": "P2"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "rigid_gift_boxes::canada::quote_rfq"
+      ],
+      "products": [
+        "Rigid gift boxes"
+      ],
+      "urls": [
+        "https://www.madovar.com"
+      ]
+    },
+    {
+      "host": "onyxplastic.com",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "cosmetic_packaging::dubai::quote_rfq"
+      ],
+      "products": [
+        "Cosmetic packaging"
+      ],
+      "urls": [
+        "https://onyxplastic.com/cosmetic-packaging-bottles-manufacturer-in-dubai/"
+      ]
+    },
+    {
+      "host": "orangepkg.com",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "paper_tubes::uk::supplier_vetting"
+      ],
+      "products": [
+        "Paper tube packaging"
+      ],
+      "urls": [
+        "https://orangepkg.com/blog/questions-to-ask-packaging-manufacturers-during-the-evaluation-process/"
+      ]
+    },
+    {
+      "host": "packagingcorp.com",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting"
+      ],
+      "products": [
+        "Custom packaging boxes"
+      ],
+      "urls": [
+        "https://www.packagingcorp.com/wp-content/uploads/2022/11/Right-Vendor-Infographic.pdf"
+      ]
+    },
+    {
+      "host": "packagingtoronto.ca",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "cosmetic_packaging::canada::quote_rfq"
+      ],
+      "products": [
+        "Cosmetic packaging"
+      ],
+      "urls": [
+        "https://packagingtoronto.ca/cosmetic-boxes/"
+      ]
+    },
+    {
+      "host": "pakfactory.com",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "custom_packaging_general::dubai::supplier_vetting"
+      ],
+      "products": [
+        "Custom packaging boxes"
+      ],
+      "urls": [
+        "https://pakfactory.com/blog/learn/questions-to-ask-before-buying-packaging/"
+      ]
+    },
+    {
+      "host": "printerydubai.com",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "rigid_gift_boxes::dubai::quote_rfq"
+      ],
+      "products": [
+        "Rigid gift boxes"
+      ],
+      "urls": [
+        "https://printerydubai.com/product/rigid-boxes/"
+      ]
+    },
+    {
+      "host": "seller.alibaba.com",
+      "classification": {
+        "type": "marketplace_directory",
+        "label": "B2B/目录平台",
+        "action": "只检查免费公开资料页和官网链接；要求登录、验证码、付费或 Verified 声明则停止。",
+        "priority": "P1"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "rigid_gift_boxes::dubai::quote_rfq"
+      ],
+      "products": [
+        "Rigid gift boxes"
+      ],
+      "urls": [
+        "https://seller.alibaba.com/blogs/2026/southeast-asia/packaging-printing/custom-gift-packaging-boxes-guide-alibaba-b2b"
+      ]
+    },
+    {
+      "host": "sevich.com",
+      "classification": {
+        "type": "unknown_research_first",
+        "label": "待确认来源",
+        "action": "先做站点属性预检；确认非同行且有公开投稿/目录机制后再进入人工闸门。",
+        "priority": "P2"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "cosmetic_packaging::dubai::quote_rfq"
+      ],
+      "products": [
+        "Cosmetic packaging"
+      ],
+      "urls": [
+        "https://sevich.com/2026-middle-east-cosmetic-registration-uae-ksa-for-b2b-buyers/"
+      ]
+    },
+    {
+      "host": "stocksmetic.com",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "cosmetic_packaging::canada::quote_rfq"
+      ],
+      "products": [
+        "Cosmetic packaging"
+      ],
+      "urls": [
+        "https://www.stocksmetic.com/us/custom-cosmetic-packaging"
+      ]
+    },
+    {
+      "host": "theboxes.ca",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "rigid_gift_boxes::canada::quote_rfq"
+      ],
+      "products": [
+        "Rigid gift boxes"
+      ],
+      "urls": [
+        "https://theboxes.ca/product/rigid-gift-boxes/"
+      ]
+    },
+    {
+      "host": "thepackaging.ca",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "cosmetic_packaging::canada::quote_rfq"
+      ],
+      "products": [
+        "Cosmetic packaging"
+      ],
+      "urls": [
+        "https://thepackaging.ca/product/custom-luxury-cosmetic-packaging-boxes/"
+      ]
+    },
+    {
+      "host": "therpsllc.com",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "rigid_gift_boxes::dubai::quote_rfq"
+      ],
+      "products": [
+        "Rigid gift boxes"
+      ],
+      "urls": [
+        "https://therpsllc.com/product/rigid-boxes-printing-supplier-dubai/"
+      ]
+    },
+    {
+      "host": "tradewheel.com",
+      "classification": {
+        "type": "marketplace_directory",
+        "label": "B2B/目录平台",
+        "action": "只检查免费公开资料页和官网链接；要求登录、验证码、付费或 Verified 声明则停止。",
+        "priority": "P1"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "cosmetic_packaging::dubai::quote_rfq"
+      ],
+      "products": [
+        "Cosmetic packaging"
+      ],
+      "urls": [
+        "https://www.tradewheel.com/buyers/cosmetics-packaging/"
+      ]
+    },
+    {
+      "host": "tubepackagingpro.com",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "paper_tubes::uk::supplier_vetting"
+      ],
+      "products": [
+        "Paper tube packaging"
+      ],
+      "urls": [
+        "https://tubepackagingpro.com/custom-paper-tube-packaging-guide/"
+      ]
+    },
+    {
+      "host": "valkindustries.com",
+      "classification": {
+        "type": "buyer_checklist_editorial",
+        "label": "买家检查清单/编辑型内容",
+        "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "products": [
+        "Paper tube packaging"
+      ],
+      "urls": [
+        "https://www.valkindustries.com/latest-news/how-to-choose-a-paper-tube-manufacturer.html"
+      ]
+    },
+    {
+      "host": "veesham.com",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "rigid_gift_boxes::dubai::quote_rfq"
+      ],
+      "products": [
+        "Rigid gift boxes"
+      ],
+      "urls": [
+        "https://veesham.com/rigid-box-printing-in-dubai/"
+      ]
+    },
+    {
+      "host": "wecustomboxes.com",
+      "classification": {
+        "type": "competitor_supplier_research_only",
+        "label": "同行/供应商研究源",
+        "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+        "priority": "P0"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "rigid_gift_boxes::canada::quote_rfq"
+      ],
+      "products": [
+        "Rigid gift boxes"
+      ],
+      "urls": [
+        "https://www.wecustomboxes.com/rigid-boxes/"
+      ]
+    },
+    {
+      "host": "youtube.com",
+      "classification": {
+        "type": "social_video",
+        "label": "社媒/视频入口",
+        "action": "生成人工发布草稿、简介/描述字段检查清单；不自动评论、私信、关注或群发。",
+        "priority": "P2"
+      },
+      "urlCount": 1,
+      "clusters": [
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "products": [
+        "Paper tube packaging"
+      ],
+      "urls": [
+        "https://www.youtube.com/watch?v=ijglKdM_KgU"
+      ]
+    }
+  ],
+  "typeSummary": [
+    {
+      "type": "buyer_checklist_editorial",
+      "label": "买家检查清单/编辑型内容",
+      "priority": "P0",
+      "action": "仿照其可引用结构，产出 MUGE 问答卡、检查表、RFQ字段表和可复制编辑请求草稿。",
+      "hosts": [
+        "brownpackaging.com",
+        "companybox.com",
+        "innorhino.com",
+        "presidentcontainergroup.com",
+        "brandtbox.com",
+        "expresspkg.com",
+        "modpac.com",
+        "nhpapertube.com",
+        "theboxery.com",
+        "ufppackaging.com",
+        "boltboxes.com",
+        "cardboardtubemanufacturers.com",
+        "jamestowncontainer.com",
+        "onyxplastic.com",
+        "orangepkg.com",
+        "packagingcorp.com",
+        "pakfactory.com",
+        "therpsllc.com",
+        "tubepackagingpro.com",
+        "valkindustries.com"
+      ],
+      "count": 37
+    },
+    {
+      "type": "competitor_supplier_research_only",
+      "label": "同行/供应商研究源",
+      "priority": "P0",
+      "action": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户。",
+      "hosts": [
+        "custompapertubeboxes.com",
+        "papertube.co",
+        "almiskboxes.com",
+        "custompackaginglane.ca",
+        "icustomboxes.ca",
+        "icustomboxes.com",
+        "packagingtoronto.ca",
+        "printerydubai.com",
+        "stocksmetic.com",
+        "theboxes.ca",
+        "thepackaging.ca",
+        "veesham.com",
+        "wecustomboxes.com"
+      ],
+      "count": 15
+    },
+    {
+      "type": "social_video",
+      "label": "社媒/视频入口",
+      "priority": "P2",
+      "action": "生成人工发布草稿、简介/描述字段检查清单；不自动评论、私信、关注或群发。",
+      "hosts": [
+        "instagram.com",
+        "facebook.com",
+        "youtube.com"
+      ],
+      "count": 13
+    },
+    {
+      "type": "unknown_research_first",
+      "label": "待确认来源",
+      "priority": "P2",
+      "action": "先做站点属性预检；确认非同行且有公开投稿/目录机制后再进入人工闸门。",
+      "hosts": [
+        "al-kamal.com",
+        "habllen.com",
+        "madovar.com",
+        "sevich.com"
+      ],
+      "count": 4
+    },
+    {
+      "type": "marketplace_directory",
+      "label": "B2B/目录平台",
+      "priority": "P1",
+      "action": "只检查免费公开资料页和官网链接；要求登录、验证码、付费或 Verified 声明则停止。",
+      "hosts": [
+        "alibaba.com",
+        "seller.alibaba.com",
+        "tradewheel.com"
+      ],
+      "count": 3
+    }
+  ],
+  "clusterActions": [
+    {
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "topHosts": [
+        [
+          "custompapertubeboxes.com",
+          1
+        ],
+        [
+          "innorhino.com",
+          1
+        ],
+        [
+          "brandtbox.com",
+          1
+        ],
+        [
+          "orangepkg.com",
+          1
+        ],
+        [
+          "presidentcontainergroup.com",
+          1
+        ],
+        [
+          "nhpapertube.com",
+          1
+        ]
+      ],
+      "sourceTypes": [
+        [
+          "买家检查清单/编辑型内容",
+          8
+        ],
+        [
+          "同行/供应商研究源",
+          2
+        ]
+      ],
+      "nextAsset": "Paper tube packaging supplier-vetting question article + public checklist + issue/gist second-hop"
+    },
+    {
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "productLabel": "Paper tube packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "topHosts": [
+        [
+          "cardboardtubemanufacturers.com",
+          1
+        ],
+        [
+          "custompapertubeboxes.com",
+          1
+        ],
+        [
+          "valkindustries.com",
+          1
+        ],
+        [
+          "innorhino.com",
+          1
+        ],
+        [
+          "brandtbox.com",
+          1
+        ],
+        [
+          "nhpapertube.com",
+          1
+        ]
+      ],
+      "sourceTypes": [
+        [
+          "买家检查清单/编辑型内容",
+          7
+        ],
+        [
+          "同行/供应商研究源",
+          2
+        ],
+        [
+          "社媒/视频入口",
+          1
+        ]
+      ],
+      "nextAsset": "Paper tube packaging supplier-vetting question article + public checklist + issue/gist second-hop"
+    },
+    {
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "topHosts": [
+        [
+          "innorhino.com",
+          1
+        ],
+        [
+          "boltboxes.com",
+          1
+        ],
+        [
+          "theboxery.com",
+          1
+        ],
+        [
+          "presidentcontainergroup.com",
+          1
+        ],
+        [
+          "packagingcorp.com",
+          1
+        ],
+        [
+          "companybox.com",
+          1
+        ]
+      ],
+      "sourceTypes": [
+        [
+          "买家检查清单/编辑型内容",
+          10
+        ]
+      ],
+      "nextAsset": "Custom packaging boxes supplier-vetting question article + public checklist + issue/gist second-hop"
+    },
+    {
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "productLabel": "Custom packaging boxes",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "topHosts": [
+        [
+          "innorhino.com",
+          1
+        ],
+        [
+          "theboxery.com",
+          1
+        ],
+        [
+          "presidentcontainergroup.com",
+          1
+        ],
+        [
+          "pakfactory.com",
+          1
+        ],
+        [
+          "jamestowncontainer.com",
+          1
+        ],
+        [
+          "modpac.com",
+          1
+        ]
+      ],
+      "sourceTypes": [
+        [
+          "买家检查清单/编辑型内容",
+          10
+        ]
+      ],
+      "nextAsset": "Custom packaging boxes supplier-vetting question article + public checklist + issue/gist second-hop"
+    },
+    {
+      "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+      "productLabel": "Cosmetic packaging",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "canada",
+      "intent": "quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "topHosts": [
+        [
+          "icustomboxes.ca",
+          1
+        ],
+        [
+          "packagingtoronto.ca",
+          1
+        ],
+        [
+          "custompackaginglane.ca",
+          1
+        ],
+        [
+          "stocksmetic.com",
+          1
+        ],
+        [
+          "instagram.com",
+          1
+        ],
+        [
+          "thepackaging.ca",
+          1
+        ]
+      ],
+      "sourceTypes": [
+        [
+          "同行/供应商研究源",
+          5
+        ],
+        [
+          "社媒/视频入口",
+          1
+        ]
+      ],
+      "nextAsset": "Cosmetic packaging RFQ preparation article + buyer fields table + source-card second-hop"
+    },
+    {
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "productLabel": "Cosmetic packaging",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "topHosts": [
+        [
+          "instagram.com",
+          3
+        ],
+        [
+          "alibaba.com",
+          1
+        ],
+        [
+          "al-kamal.com",
+          1
+        ],
+        [
+          "tradewheel.com",
+          1
+        ],
+        [
+          "sevich.com",
+          1
+        ],
+        [
+          "facebook.com",
+          1
+        ]
+      ],
+      "sourceTypes": [
+        [
+          "社媒/视频入口",
+          4
+        ],
+        [
+          "B2B/目录平台",
+          2
+        ],
+        [
+          "待确认来源",
+          2
+        ],
+        [
+          "买家检查清单/编辑型内容",
+          1
+        ]
+      ],
+      "nextAsset": "Cosmetic packaging RFQ preparation article + buyer fields table + source-card second-hop"
+    },
+    {
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "productLabel": "Rigid gift boxes",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "region": "canada",
+      "intent": "quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "topHosts": [
+        [
+          "instagram.com",
+          3
+        ],
+        [
+          "wecustomboxes.com",
+          1
+        ],
+        [
+          "madovar.com",
+          1
+        ],
+        [
+          "icustomboxes.com",
+          1
+        ],
+        [
+          "theboxes.ca",
+          1
+        ],
+        [
+          "facebook.com",
+          1
+        ]
+      ],
+      "sourceTypes": [
+        [
+          "社媒/视频入口",
+          4
+        ],
+        [
+          "同行/供应商研究源",
+          3
+        ],
+        [
+          "待确认来源",
+          1
+        ]
+      ],
+      "nextAsset": "Rigid gift boxes RFQ preparation article + buyer fields table + source-card second-hop"
+    },
+    {
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "productLabel": "Rigid gift boxes",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "topHosts": [
+        [
+          "instagram.com",
+          3
+        ],
+        [
+          "seller.alibaba.com",
+          1
+        ],
+        [
+          "therpsllc.com",
+          1
+        ],
+        [
+          "printerydubai.com",
+          1
+        ],
+        [
+          "almiskboxes.com",
+          1
+        ],
+        [
+          "veesham.com",
+          1
+        ]
+      ],
+      "sourceTypes": [
+        [
+          "同行/供应商研究源",
+          3
+        ],
+        [
+          "社媒/视频入口",
+          3
+        ],
+        [
+          "B2B/目录平台",
+          1
+        ],
+        [
+          "买家检查清单/编辑型内容",
+          1
+        ],
+        [
+          "待确认来源",
+          1
+        ]
+      ],
+      "nextAsset": "Rigid gift boxes RFQ preparation article + buyer fields table + source-card second-hop"
+    }
+  ],
+  "obsidianMdPath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/AI引用源模式反制包/20260617_0201_AI引用源模式反制包生成记录.md"
+}
