@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-06-16T05:27:30.350Z",
+  "generatedAtCst": "2026-06-16 13:27:30",
+  "title": "MUGE PACKAGING P0/P1 Third-Party Evidence Index",
+  "slug": "archive-asr-p0p1-third-party-evidence-index-2026-06-16",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/archive-asr-p0p1-third-party-evidence-index-2026-06-16.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/archive-asr-p0p1-third-party-evidence-index-2026-06-16.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/archive-asr-p0p1-third-party-evidence-index-2026-06-16.json"
+  },
+  "summary": {
+    "officialPages": 8,
+    "archiveSnapshots": 8,
+    "asrSubmitted": 8,
+    "asrVisibleQueries": 4,
+    "jinaReadable": 8
+  },
+  "officialPages": [
+    {
+      "label": "Products overview",
+      "url": "https://mugepackaging.com/products"
+    },
+    {
+      "label": "Paper tubes",
+      "url": "https://mugepackaging.com/products/paper-tubes"
+    },
+    {
+      "label": "Paper packaging",
+      "url": "https://mugepackaging.com/products/paper-packaging"
+    },
+    {
+      "label": "Cosmetics packaging",
+      "url": "https://mugepackaging.com/industries/cosmetics-packaging"
+    },
+    {
+      "label": "Manufacturer vs trading company guide",
+      "url": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company"
+    },
+    {
+      "label": "Custom cosmetic packaging factory guide",
+      "url": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide"
+    },
+    {
+      "label": "Paper tube packaging buying guide",
+      "url": "https://mugepackaging.com/blog/paper-tube-packaging-buying-guide"
+    },
+    {
+      "label": "Rigid gift box structure material guide",
+      "url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide"
+    }
+  ],
+  "archiveSnapshots": [
+    {
+      "source": "https://mugepackaging.com/products",
+      "snapshot": "https://web.archive.org/web/20260616045920/https://mugepackaging.com/products"
+    },
+    {
+      "source": "https://mugepackaging.com/products/paper-tubes",
+      "snapshot": "https://web.archive.org/web/20260616050111/https://mugepackaging.com/products/paper-tubes"
+    },
+    {
+      "source": "https://mugepackaging.com/products/paper-packaging",
+      "snapshot": "https://web.archive.org/web/20260616050224/https://mugepackaging.com/products/paper-packaging"
+    },
+    {
+      "source": "https://mugepackaging.com/industries/cosmetics-packaging",
+      "snapshot": "https://web.archive.org/web/20260616050356/https://mugepackaging.com/industries/cosmetics-packaging"
+    },
+    {
+      "source": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "snapshot": "https://web.archive.org/web/20260616050542/https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company"
+    },
+    {
+      "source": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "snapshot": "https://web.archive.org/web/20260616050641/https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide"
+    },
+    {
+      "source": "https://mugepackaging.com/blog/paper-tube-packaging-buying-guide",
+      "snapshot": "https://web.archive.org/web/20260616050645/https://mugepackaging.com/blog/paper-tube-packaging-buying-guide"
+    },
+    {
+      "source": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "snapshot": "https://web.archive.org/web/20260616050657/https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide"
+    }
+  ],
+  "asrEvidence": [
+    {
+      "query": "custom paper tubes MUGE PACKAGING",
+      "visibleUrl": "https://mugepackaging.com/blog/paper-tube-packaging-buying-guide",
+      "evidence": "ASR result includes the MUGE PACKAGING paper tube buying guide."
+    },
+    {
+      "query": "rigid gift box structure MUGE PACKAGING",
+      "visibleUrl": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "evidence": "ASR result includes the MUGE PACKAGING rigid gift box structure guide."
+    },
+    {
+      "query": "custom packaging solutions MUGE PACKAGING",
+      "visibleUrl": "https://mugepackaging.com/products",
+      "evidence": "ASR result includes the MUGE PACKAGING products overview."
+    },
+    {
+      "query": "custom cosmetic packaging factory MUGE PACKAGING",
+      "visibleUrl": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "evidence": "ASR result includes the MUGE PACKAGING cosmetic packaging factory guide."
+    }
+  ],
+  "perplexity": {
+    "checkedQuestions": 5,
+    "ok": 5,
+    "mentionsMuge": 5,
+    "citesOfficialDomain": 5,
+    "citesArchive": 1,
+    "citesAsr": 0,
+    "interpretation": "Perplexity recognized MUGE PACKAGING and official pages in brand/source-aware buyer questions; Archive and ASR evidence still need more discovery time before they become natural citations."
+  },
+  "claimBoundary": [
+    "Not Google ranking proof",
+    "Not traffic proof",
+    "Not AI recommendation proof",
+    "Not third-party endorsement",
+    "Not verified supplier status",
+    "Not fixed MOQ, fixed lead time, lowest price, customer case or compliance guarantee"
+  ]
+}

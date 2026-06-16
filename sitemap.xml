@@ -5796,4 +5796,22 @@
     <changefreq>daily</changefreq>
     <priority>0.95</priority>
   </url>
+  <url>
+    <loc>https://mugepackage-gif.github.io/muge-packaging-resources/archive-asr-p0p1-third-party-evidence-index-2026-06-16.html</loc>
+    <lastmod>2026-06-16T05:26:26.465Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mugepackage-gif.github.io/muge-packaging-resources/archive-asr-p0p1-third-party-evidence-index-2026-06-16.md</loc>
+    <lastmod>2026-06-16T05:26:26.465Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mugepackage-gif.github.io/muge-packaging-resources/data/archive-asr-p0p1-third-party-evidence-index-2026-06-16.json</loc>
+    <lastmod>2026-06-16T05:26:26.465Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

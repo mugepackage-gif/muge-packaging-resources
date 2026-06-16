@@ -1,90 +1,12 @@
 {
-  "generated_at": "2026-06-16T04:33:31.562Z",
-  "total": 975,
+  "generated_at": "2026-06-16T05:27:30.373Z",
+  "total": 969,
   "files": [
-    {
-      "path": "short-ai-source-index-2026-06-16.html",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/short-ai-source-index-2026-06-16.html",
-      "bytes": 7027,
-      "updated_at": "2026-06-16T04:33:31.562Z"
-    },
-    {
-      "path": "short-ai-source-index-2026-06-16.md",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/short-ai-source-index-2026-06-16.md",
-      "bytes": 5230,
-      "updated_at": "2026-06-16T04:33:31.562Z"
-    },
-    {
-      "path": "data/short-ai-source-index-2026-06-16.json",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/short-ai-source-index-2026-06-16.json",
-      "bytes": 6273,
-      "updated_at": "2026-06-16T04:33:31.562Z"
-    },
-    {
-      "path": "README.md",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/README.md",
-      "bytes": 76712,
-      "updated_at": "2026-06-16T04:33:31.562Z"
-    },
-    {
-      "path": "llms.txt",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/llms.txt",
-      "bytes": 207416,
-      "updated_at": "2026-06-16T04:33:31.562Z"
-    },
-    {
-      "path": "sitemap.xml",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/sitemap.xml",
-      "bytes": 253245,
-      "updated_at": "2026-06-16T04:33:31.562Z"
-    },
-    {
-      "path": ".gitignore",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/.gitignore",
-      "bytes": 10,
-      "updated_at": "2026-05-31T17:25:39.224Z"
-    },
-    {
-      "path": ".netlify/state.json",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/.netlify/state.json",
-      "bytes": 54,
-      "updated_at": "2026-05-31T17:19:19.608Z"
-    },
-    {
-      "path": ".nojekyll",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/.nojekyll",
-      "bytes": 1,
-      "updated_at": "2026-06-01T01:03:00.281Z"
-    },
     {
       "path": "1aa7d32a1071cb3fa0a5903f6fc641eb.txt",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/1aa7d32a1071cb3fa0a5903f6fc641eb.txt",
       "bytes": 32,
       "updated_at": "2026-05-31T07:52:47.995Z"
-    },
-    {
-      "path": "MUGE-AI-BUYER-QUESTION-ANSWER-PACK.md",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/MUGE-AI-BUYER-QUESTION-ANSWER-PACK.md",
-      "bytes": 2384,
-      "updated_at": "2026-05-31T16:31:12.184Z"
-    },
-    {
-      "path": "MUGE-BUYER-QUESTION-DATASET.md",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/MUGE-BUYER-QUESTION-DATASET.md",
-      "bytes": 1441,
-      "updated_at": "2026-06-13T18:31:17.806Z"
-    },
-    {
-      "path": "MUGE-MEDIUM-CANONICAL-SUMMARY-POSTS-PUBLISHABLE.md",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/MUGE-MEDIUM-CANONICAL-SUMMARY-POSTS-PUBLISHABLE.md",
-      "bytes": 3637,
-      "updated_at": "2026-06-13T18:31:17.806Z"
-    },
-    {
-      "path": "MUGE-REGIONAL-CUSTOM-PACKAGING-SOURCING-PACK.md",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/MUGE-REGIONAL-CUSTOM-PACKAGING-SOURCING-PACK.md",
-      "bytes": 1706,
-      "updated_at": "2026-05-31T16:31:12.184Z"
     },
     {
       "path": "active-search-results-p0p1-refresh-submit-2026-06-08-0339.html",
@@ -969,10 +891,22 @@
       "updated_at": "2026-06-02T01:37:17.693Z"
     },
     {
+      "path": "archive-asr-p0p1-third-party-evidence-index-2026-06-16.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/archive-asr-p0p1-third-party-evidence-index-2026-06-16.html",
+      "bytes": 11259,
+      "updated_at": "2026-06-16T05:27:30.361Z"
+    },
+    {
+      "path": "archive-asr-p0p1-third-party-evidence-index-2026-06-16.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/archive-asr-p0p1-third-party-evidence-index-2026-06-16.md",
+      "bytes": 5418,
+      "updated_at": "2026-06-16T05:27:30.361Z"
+    },
+    {
       "path": "asset-manifest.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/asset-manifest.json",
-      "bytes": 392250,
-      "updated_at": "2026-06-16T03:16:42.398Z"
+      "bytes": 282342,
+      "updated_at": "2026-06-16T05:26:26.475Z"
     },
     {
       "path": "b2b-citation-outreach-targets-2026-06-01.html",
@@ -1797,12 +1731,6 @@
       "updated_at": "2026-06-12T07:56:36.315Z"
     },
     {
-      "path": "data/ai-buyer-question-answer-pack.jsonl",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-buyer-question-answer-pack.jsonl",
-      "bytes": 6641,
-      "updated_at": "2026-05-31T16:17:14.498Z"
-    },
-    {
       "path": "data/ai-buyer-question-third-party-support-map-2026-06-01.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-buyer-question-third-party-support-map-2026-06-01.json",
       "bytes": 24683,
@@ -2143,6 +2071,12 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/anoox-free-index-submit-attempt-2026-06-02.json",
       "bytes": 1260,
       "updated_at": "2026-06-02T01:37:17.693Z"
+    },
+    {
+      "path": "data/archive-asr-p0p1-third-party-evidence-index-2026-06-16.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/archive-asr-p0p1-third-party-evidence-index-2026-06-16.json",
+      "bytes": 5262,
+      "updated_at": "2026-06-16T05:27:30.361Z"
     },
     {
       "path": "data/b2b-citation-outreach-targets-2026-06-01.json",
@@ -2871,22 +2805,10 @@
       "updated_at": "2026-05-31T20:59:48.595Z"
     },
     {
-      "path": "data/muge-packaging-10-ai-target-questions.jsonl",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-packaging-10-ai-target-questions.jsonl",
-      "bytes": 9488,
-      "updated_at": "2026-06-04T13:29:16.359Z"
-    },
-    {
       "path": "data/muge-packaging-ai-citation-answer-blocks-2026-06-01.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-packaging-ai-citation-answer-blocks-2026-06-01.json",
       "bytes": 4827,
       "updated_at": "2026-06-01T01:09:44.503Z"
-    },
-    {
-      "path": "data/muge-packaging-ai-citation-sources.jsonl",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-packaging-ai-citation-sources.jsonl",
-      "bytes": 4288,
-      "updated_at": "2026-06-09T17:20:44.506Z"
     },
     {
       "path": "data/muge-packaging-ai-verifiable-facts-2026-06-01.json",
@@ -2895,22 +2817,10 @@
       "updated_at": "2026-06-13T18:31:17.893Z"
     },
     {
-      "path": "data/muge-packaging-buyer-questions.csv",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-packaging-buyer-questions.csv",
-      "bytes": 5748,
-      "updated_at": "2026-06-13T18:31:17.893Z"
-    },
-    {
       "path": "data/muge-packaging-buyer-questions.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-packaging-buyer-questions.json",
       "bytes": 3762,
       "updated_at": "2026-06-13T18:31:17.894Z"
-    },
-    {
-      "path": "data/muge-packaging-buyer-questions.jsonl",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-packaging-buyer-questions.jsonl",
-      "bytes": 7022,
-      "updated_at": "2026-06-13T18:33:50.810Z"
     },
     {
       "path": "data/muge-packaging-company-profile.json",
@@ -3459,12 +3369,6 @@
       "updated_at": "2026-06-13T18:31:17.910Z"
     },
     {
-      "path": "data/regional-custom-packaging-sourcing-reference-pack.jsonl",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/regional-custom-packaging-sourcing-reference-pack.jsonl",
-      "bytes": 2173,
-      "updated_at": "2026-05-31T16:24:03.043Z"
-    },
-    {
       "path": "data/research-editor-source-review-kit-2026-06-14.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/research-editor-source-review-kit-2026-06-14.json",
       "bytes": 5827,
@@ -3529,6 +3433,12 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/seo-geo-editor-source-review-pack-2026-06-16.json",
       "bytes": 47791,
       "updated_at": "2026-06-16T01:58:36.682Z"
+    },
+    {
+      "path": "data/short-ai-source-index-2026-06-16.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/short-ai-source-index-2026-06-16.json",
+      "bytes": 6273,
+      "updated_at": "2026-06-16T04:33:31.572Z"
     },
     {
       "path": "data/submitpr-third-party-brand-mention-evidence-pack-2026-06-16.json",
@@ -4091,8 +4001,8 @@
     {
       "path": "index.html",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/index.html",
-      "bytes": 84054,
-      "updated_at": "2026-06-16T00:44:14.800Z"
+      "bytes": 84962,
+      "updated_at": "2026-06-16T05:27:30.363Z"
     },
     {
       "path": "international-custom-packaging-supplier-risk-check-2026-06-06.html",
@@ -4159,6 +4069,12 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/kompass-execution-checklist.html",
       "bytes": 2642,
       "updated_at": "2026-06-10T16:13:44.305Z"
+    },
+    {
+      "path": "llms.txt",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/llms.txt",
+      "bytes": 208315,
+      "updated_at": "2026-06-16T05:27:30.362Z"
     },
     {
       "path": "long-tail-keyword-cluster-contact-2026-06-16.html",
@@ -4341,10 +4257,28 @@
       "updated_at": "2026-06-15T19:35:21.321Z"
     },
     {
+      "path": "MUGE-AI-BUYER-QUESTION-ANSWER-PACK.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/MUGE-AI-BUYER-QUESTION-ANSWER-PACK.md",
+      "bytes": 2384,
+      "updated_at": "2026-05-31T16:31:12.184Z"
+    },
+    {
+      "path": "MUGE-BUYER-QUESTION-DATASET.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/MUGE-BUYER-QUESTION-DATASET.md",
+      "bytes": 1441,
+      "updated_at": "2026-06-13T18:31:17.806Z"
+    },
+    {
       "path": "muge-buyer-question-hub-index.html",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-buyer-question-hub-index.html",
       "bytes": 14075,
       "updated_at": "2026-05-31T20:59:48.595Z"
+    },
+    {
+      "path": "MUGE-MEDIUM-CANONICAL-SUMMARY-POSTS-PUBLISHABLE.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/MUGE-MEDIUM-CANONICAL-SUMMARY-POSTS-PUBLISHABLE.md",
+      "bytes": 3637,
+      "updated_at": "2026-06-13T18:31:17.806Z"
     },
     {
       "path": "muge-packaging-ai-citation-answer-blocks-2026-06-01.md",
@@ -4375,6 +4309,12 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-public-entity-backlink-mention-verification-baseline-2026-06-05.html",
       "bytes": 15210,
       "updated_at": "2026-06-13T18:18:09.431Z"
+    },
+    {
+      "path": "MUGE-REGIONAL-CUSTOM-PACKAGING-SOURCING-PACK.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/MUGE-REGIONAL-CUSTOM-PACKAGING-SOURCING-PACK.md",
+      "bytes": 1706,
+      "updated_at": "2026-05-31T16:31:12.184Z"
     },
     {
       "path": "muge-seo-geo-fourth-wave-rfq-conversion-intent-assets-2026-06-06.md",
@@ -5319,6 +5259,12 @@
       "updated_at": "2026-06-13T18:31:17.954Z"
     },
     {
+      "path": "README.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/README.md",
+      "bytes": 76712,
+      "updated_at": "2026-06-16T04:33:31.573Z"
+    },
+    {
       "path": "regional-ai-citation-01-europe-cosmetic-packaging-rfq-2026-06-01.md",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/regional-ai-citation-01-europe-cosmetic-packaging-rfq-2026-06-01.md",
       "bytes": 1750,
@@ -5545,6 +5491,24 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/seo-geo-editor-source-review-pack-2026-06-16.md",
       "bytes": 8893,
       "updated_at": "2026-06-16T01:58:36.682Z"
+    },
+    {
+      "path": "short-ai-source-index-2026-06-16.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/short-ai-source-index-2026-06-16.html",
+      "bytes": 7027,
+      "updated_at": "2026-06-16T04:33:31.572Z"
+    },
+    {
+      "path": "short-ai-source-index-2026-06-16.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/short-ai-source-index-2026-06-16.md",
+      "bytes": 5230,
+      "updated_at": "2026-06-16T04:33:31.572Z"
+    },
+    {
+      "path": "sitemap.xml",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/sitemap.xml",
+      "bytes": 254037,
+      "updated_at": "2026-06-16T05:27:30.364Z"
     },
     {
       "path": "sourcing-guide-china.html",
