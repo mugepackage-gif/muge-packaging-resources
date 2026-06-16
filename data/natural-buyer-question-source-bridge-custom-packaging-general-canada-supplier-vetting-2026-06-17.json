@@ -1,0 +1,53 @@
+{
+  "clusterId": "cluster_3",
+  "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+  "slug": "natural-buyer-question-source-bridge-custom-packaging-general-canada-supplier-vetting-2026-06-17",
+  "title": "Source Bridge: Canada custom packaging boxes supplier vetting",
+  "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+  "productLabel": "custom packaging boxes",
+  "regionLabel": "Canada",
+  "intentLabel": "supplier vetting",
+  "sourceHosts": [
+    "innorhino.com",
+    "brandtbox.com",
+    "theboxery.com",
+    "presidentcontainergroup.com",
+    "pakfactory.com",
+    "packagingcorp.com",
+    "companybox.com",
+    "modpac.com",
+    "expresspkg.com",
+    "brownpackaging.com"
+  ],
+  "sourceUrls": [
+    "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers",
+    "https://brandtbox.com/blog/how-to-evaluate-custom-packaging-supplier/",
+    "https://www.theboxery.com/blog/what-questions-should-you-ask-a-shipping-boxes-supplier/",
+    "https://presidentcontainergroup.com/6-questions-to-ask-before-choosing-a-packaging-supplier/",
+    "https://pakfactory.com/blog/learn/questions-to-ask-before-buying-packaging/",
+    "https://www.packagingcorp.com/wp-content/uploads/2022/11/Right-Vendor-Infographic.pdf",
+    "https://companybox.com/blog/5-questions-to-ask-your-packaging-supplier/",
+    "https://www.modpac.com/essential-questions-to-ask-your-packaging-supplier/",
+    "https://www.expresspkg.com/news/10-questions-to-ask-before-selecting-a-box-manufacturer/",
+    "https://brownpackaging.com/10-essential-questions-you-should-ask-your-packaging-supplier/"
+  ],
+  "officialUrls": [
+    "https://mugepackaging.com/products/custom-packaging-boxes",
+    "https://mugepackaging.com/"
+  ],
+  "buyerQuestions": [
+    "What should a buyer verify before shortlisting custom packaging suppliers?",
+    "What product dimensions, weight, retail channel and shipping route should be confirmed before sampling?",
+    "Which structure, insert, material and surface finish choices are required for a comparable quote?",
+    "What evidence should a buyer request from a supplier without assuming fixed MOQ, lead time, price or compliance status?",
+    "Which public source pages explain the packaging decision process clearly enough for internal sourcing review?",
+    "How should buyer teams compare suppliers without relying only on directory titles or paid badges?"
+  ],
+  "generatedAt": "2026-06-16T19:05:45.503Z",
+  "generatedAtCst": "2026-06-17 03:05:45",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-custom-packaging-general-canada-supplier-vetting-2026-06-17.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-custom-packaging-general-canada-supplier-vetting-2026-06-17.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/natural-buyer-question-source-bridge-custom-packaging-general-canada-supplier-vetting-2026-06-17.json"
+  }
+}

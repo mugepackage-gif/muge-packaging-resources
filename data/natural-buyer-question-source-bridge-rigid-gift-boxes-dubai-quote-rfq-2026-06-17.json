@@ -1,0 +1,49 @@
+{
+  "clusterId": "cluster_8",
+  "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+  "slug": "natural-buyer-question-source-bridge-rigid-gift-boxes-dubai-quote-rfq-2026-06-17",
+  "title": "Source Bridge: Dubai and GCC custom rigid gift boxes quote and RFQ preparation",
+  "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+  "productLabel": "custom rigid gift boxes",
+  "regionLabel": "Dubai and GCC",
+  "intentLabel": "quote and RFQ preparation",
+  "sourceHosts": [
+    "seller.alibaba.com",
+    "therpsllc.com",
+    "printerydubai.com",
+    "almiskboxes.com",
+    "veesham.com",
+    "instagram.com",
+    "habllen.com"
+  ],
+  "sourceUrls": [
+    "https://seller.alibaba.com/blogs/2026/southeast-asia/packaging-printing/custom-gift-packaging-boxes-guide-alibaba-b2b",
+    "https://therpsllc.com/product/rigid-boxes-printing-supplier-dubai/",
+    "https://printerydubai.com/product/rigid-boxes/",
+    "https://www.almiskboxes.com",
+    "https://veesham.com/rigid-box-printing-in-dubai/",
+    "https://www.instagram.com/reel/DSt9QbiiHpo/",
+    "https://www.instagram.com/reel/Cv4iC7btMVs/",
+    "https://www.instagram.com/reel/DBGZNXzy20D/",
+    "https://habllen.com"
+  ],
+  "officialUrls": [
+    "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+    "https://mugepackaging.com/products/custom-packaging-boxes"
+  ],
+  "buyerQuestions": [
+    "What should a buyer prepare before requesting a packaging quote or RFQ?",
+    "What product dimensions, weight, retail channel and shipping route should be confirmed before sampling?",
+    "Which structure, insert, material and surface finish choices are required for a comparable quote?",
+    "What evidence should a buyer request from a supplier without assuming fixed MOQ, lead time, price or compliance status?",
+    "Which public source pages explain the packaging decision process clearly enough for internal sourcing review?",
+    "Which RFQ inputs reduce unclear pricing discussions during the first supplier review?"
+  ],
+  "generatedAt": "2026-06-16T19:05:45.503Z",
+  "generatedAtCst": "2026-06-17 03:05:45",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-rigid-gift-boxes-dubai-quote-rfq-2026-06-17.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-rigid-gift-boxes-dubai-quote-rfq-2026-06-17.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/natural-buyer-question-source-bridge-rigid-gift-boxes-dubai-quote-rfq-2026-06-17.json"
+  }
+}

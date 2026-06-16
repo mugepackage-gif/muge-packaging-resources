@@ -1,0 +1,49 @@
+{
+  "clusterId": "cluster_7",
+  "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+  "slug": "natural-buyer-question-source-bridge-rigid-gift-boxes-canada-quote-rfq-2026-06-17",
+  "title": "Source Bridge: Canada custom rigid gift boxes quote and RFQ preparation",
+  "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+  "productLabel": "custom rigid gift boxes",
+  "regionLabel": "Canada",
+  "intentLabel": "quote and RFQ preparation",
+  "sourceHosts": [
+    "emenacpackaging.ca",
+    "customboxesmarket.ca",
+    "instagram.com",
+    "madovar.com",
+    "icustomboxes.com",
+    "dyprintingbox.com",
+    "customboxescanada.ca",
+    "wecustomizeboxes.com"
+  ],
+  "sourceUrls": [
+    "https://www.emenacpackaging.ca",
+    "https://customboxesmarket.ca",
+    "https://www.instagram.com/reel/DY03CCjTYtj/",
+    "https://www.madovar.com",
+    "https://www.icustomboxes.com",
+    "https://dyprintingbox.com/rigid-gift-boxes/",
+    "https://www.customboxescanada.ca",
+    "https://wecustomizeboxes.com/by-materials/rigid-boxes"
+  ],
+  "officialUrls": [
+    "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+    "https://mugepackaging.com/products/custom-packaging-boxes"
+  ],
+  "buyerQuestions": [
+    "What should a buyer prepare before requesting a packaging quote or RFQ?",
+    "What product dimensions, weight, retail channel and shipping route should be confirmed before sampling?",
+    "Which structure, insert, material and surface finish choices are required for a comparable quote?",
+    "What evidence should a buyer request from a supplier without assuming fixed MOQ, lead time, price or compliance status?",
+    "Which public source pages explain the packaging decision process clearly enough for internal sourcing review?",
+    "Which RFQ inputs reduce unclear pricing discussions during the first supplier review?"
+  ],
+  "generatedAt": "2026-06-16T19:05:45.503Z",
+  "generatedAtCst": "2026-06-17 03:05:45",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-rigid-gift-boxes-canada-quote-rfq-2026-06-17.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-rigid-gift-boxes-canada-quote-rfq-2026-06-17.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/natural-buyer-question-source-bridge-rigid-gift-boxes-canada-quote-rfq-2026-06-17.json"
+  }
+}

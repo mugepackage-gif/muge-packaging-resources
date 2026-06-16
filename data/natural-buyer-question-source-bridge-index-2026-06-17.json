@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-06-16T19:05:45.503Z",
+  "generatedAtCst": "2026-06-17 03:05:45",
+  "title": "MUGE Natural Buyer Question Source Bridge Index",
+  "summary": "Index of question-first source bridge pages created from Perplexity natural buyer-query gaps where MUGE was not yet cited.",
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "website": "https://mugepackaging.com"
+  },
+  "pages": [
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "publicUrls": {
+        "html": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-paper-tubes-uk-supplier-vetting-2026-06-17.html",
+        "md": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-paper-tubes-uk-supplier-vetting-2026-06-17.md",
+        "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/natural-buyer-question-source-bridge-paper-tubes-uk-supplier-vetting-2026-06-17.json"
+      },
+      "observedSourceHosts": [
+        "custompapertubeboxes.com",
+        "innorhino.com",
+        "brandtbox.com",
+        "oren-intl.com",
+        "presidentcontainergroup.com",
+        "nhpapertube.com",
+        "brownpackaging.com",
+        "companybox.com",
+        "papertube.co",
+        "tubepackagingpro.com"
+      ],
+      "officialMugeUrls": [
+        "https://mugepackaging.com/products/paper-tubes",
+        "https://mugepackaging.com/blog/custom-paper-tube-packaging-guide"
+      ]
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "publicUrls": {
+        "html": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-paper-tubes-united-states-supplier-vetting-2026-06-17.html",
+        "md": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-paper-tubes-united-states-supplier-vetting-2026-06-17.md",
+        "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/natural-buyer-question-source-bridge-paper-tubes-united-states-supplier-vetting-2026-06-17.json"
+      },
+      "observedSourceHosts": [
+        "cardboardtubemanufacturers.com",
+        "valkindustries.com",
+        "custompapertubeboxes.com",
+        "innorhino.com",
+        "brandtbox.com",
+        "presidentcontainergroup.com",
+        "brownpackaging.com",
+        "companybox.com",
+        "paperindex.com",
+        "papertube.co"
+      ],
+      "officialMugeUrls": [
+        "https://mugepackaging.com/products/paper-tubes",
+        "https://mugepackaging.com/blog/custom-paper-tube-packaging-guide"
+      ]
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "publicUrls": {
+        "html": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-custom-packaging-general-canada-supplier-vetting-2026-06-17.html",
+        "md": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-custom-packaging-general-canada-supplier-vetting-2026-06-17.md",
+        "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/natural-buyer-question-source-bridge-custom-packaging-general-canada-supplier-vetting-2026-06-17.json"
+      },
+      "observedSourceHosts": [
+        "innorhino.com",
+        "brandtbox.com",
+        "theboxery.com",
+        "presidentcontainergroup.com",
+        "pakfactory.com",
+        "packagingcorp.com",
+        "companybox.com",
+        "modpac.com",
+        "expresspkg.com",
+        "brownpackaging.com"
+      ],
+      "officialMugeUrls": [
+        "https://mugepackaging.com/products/custom-packaging-boxes",
+        "https://mugepackaging.com/"
+      ]
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "publicUrls": {
+        "html": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-custom-packaging-general-dubai-supplier-vetting-2026-06-17.html",
+        "md": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-custom-packaging-general-dubai-supplier-vetting-2026-06-17.md",
+        "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/natural-buyer-question-source-bridge-custom-packaging-general-dubai-supplier-vetting-2026-06-17.json"
+      },
+      "observedSourceHosts": [
+        "brandtbox.com",
+        "innorhino.com",
+        "theboxery.com",
+        "presidentcontainergroup.com",
+        "jamestowncontainer.com",
+        "pakfactory.com",
+        "modpac.com",
+        "expresspkg.com",
+        "companybox.com",
+        "ufppackaging.com"
+      ],
+      "officialMugeUrls": [
+        "https://mugepackaging.com/products/custom-packaging-boxes",
+        "https://mugepackaging.com/"
+      ]
+    },
+    {
+      "clusterId": "cluster_5",
+      "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "publicUrls": {
+        "html": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-cosmetic-packaging-canada-quote-rfq-2026-06-17.html",
+        "md": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-cosmetic-packaging-canada-quote-rfq-2026-06-17.md",
+        "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/natural-buyer-question-source-bridge-cosmetic-packaging-canada-quote-rfq-2026-06-17.json"
+      },
+      "observedSourceHosts": [
+        "icustomboxes.ca",
+        "packagingtoronto.ca",
+        "custompackaginglane.ca",
+        "tradewheel.com",
+        "stocksmetic.com",
+        "instagram.com",
+        "thepackaging.ca"
+      ],
+      "officialMugeUrls": [
+        "https://mugepackaging.com/blog/wholesale-cosmetic-cream-jar-packaging",
+        "https://mugepackaging.com/products/custom-packaging-boxes"
+      ]
+    },
+    {
+      "clusterId": "cluster_6",
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "publicUrls": {
+        "html": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-cosmetic-packaging-dubai-quote-rfq-2026-06-17.html",
+        "md": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-cosmetic-packaging-dubai-quote-rfq-2026-06-17.md",
+        "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/natural-buyer-question-source-bridge-cosmetic-packaging-dubai-quote-rfq-2026-06-17.json"
+      },
+      "observedSourceHosts": [
+        "al-kamal.com",
+        "shabouk.ae",
+        "sevich.com",
+        "instagram.com",
+        "onyxplastic.com",
+        "habllen.com",
+        "ospheremedia.com"
+      ],
+      "officialMugeUrls": [
+        "https://mugepackaging.com/blog/wholesale-cosmetic-cream-jar-packaging",
+        "https://mugepackaging.com/products/custom-packaging-boxes"
+      ]
+    },
+    {
+      "clusterId": "cluster_7",
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "publicUrls": {
+        "html": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-rigid-gift-boxes-canada-quote-rfq-2026-06-17.html",
+        "md": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-rigid-gift-boxes-canada-quote-rfq-2026-06-17.md",
+        "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/natural-buyer-question-source-bridge-rigid-gift-boxes-canada-quote-rfq-2026-06-17.json"
+      },
+      "observedSourceHosts": [
+        "emenacpackaging.ca",
+        "customboxesmarket.ca",
+        "instagram.com",
+        "madovar.com",
+        "icustomboxes.com",
+        "dyprintingbox.com",
+        "customboxescanada.ca",
+        "wecustomizeboxes.com"
+      ],
+      "officialMugeUrls": [
+        "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+        "https://mugepackaging.com/products/custom-packaging-boxes"
+      ]
+    },
+    {
+      "clusterId": "cluster_8",
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "publicUrls": {
+        "html": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-rigid-gift-boxes-dubai-quote-rfq-2026-06-17.html",
+        "md": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-rigid-gift-boxes-dubai-quote-rfq-2026-06-17.md",
+        "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/natural-buyer-question-source-bridge-rigid-gift-boxes-dubai-quote-rfq-2026-06-17.json"
+      },
+      "observedSourceHosts": [
+        "seller.alibaba.com",
+        "therpsllc.com",
+        "printerydubai.com",
+        "almiskboxes.com",
+        "veesham.com",
+        "instagram.com",
+        "habllen.com"
+      ],
+      "officialMugeUrls": [
+        "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+        "https://mugepackaging.com/products/custom-packaging-boxes"
+      ]
+    }
+  ],
+  "boundary": "This index does not claim ranking, traffic, AI citation, endorsement or inquiry generation."
+}
