@@ -1,3 +1,12 @@
+<!-- ai-cited-buyer-guide-structure-standard-2026-06-17:start -->
+## AI-Cited Buyer Guide Structure Standard - 2026-06-17
+
+- [HTML](https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-buyer-guide-structure-standard-2026-06-17.html): structure standard used to strengthen eight P0 MUGE buyer checklist assets.
+- [Markdown](https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-buyer-guide-structure-standard-2026-06-17.md): crawler-friendly plain text version.
+- [JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-cited-buyer-guide-structure-standard-2026-06-17.json): machine-readable structure modules and enhanced P0 page map.
+- Boundary: not ranking proof, AI natural citation proof, traffic proof, inquiry proof, endorsement, certification, fixed MOQ, fixed lead time or price claim.
+<!-- ai-cited-buyer-guide-structure-standard-2026-06-17:end -->
+
 <!-- p0-editorial-source-opportunity-gate-pack-2026-06-17:start -->
 ## P0 Editorial Source Opportunity Gate Pack - 2026-06-17
 

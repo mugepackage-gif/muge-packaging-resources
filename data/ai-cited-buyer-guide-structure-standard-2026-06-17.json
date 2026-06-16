@@ -1,0 +1,400 @@
+{
+  "generatedAt": "2026-06-16T18:51:31.799Z",
+  "generatedAtCst": "2026-06-17 02:51:31",
+  "company": {
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "brand": "MUGE PACKAGING",
+    "website": "https://mugepackaging.com",
+    "domain": "mugepackaging.com"
+  },
+  "structureStandard": {
+    "name": "AI-cited buyer guide structure standard",
+    "sourceBasis": "Perplexity-cited packaging buyer guide and supplier evaluation page patterns observed across 8 P0 buyer questions.",
+    "modules": [
+      {
+        "key": "buyer_context",
+        "label": "Buyer context",
+        "purpose": "State region, product category, buyer role and evaluation stage.",
+        "fields": [
+          "region",
+          "product category",
+          "buyer type",
+          "comparison stage",
+          "sales channel"
+        ]
+      },
+      {
+        "key": "supplier_vetting_questions",
+        "label": "Supplier-vetting questions",
+        "purpose": "Give buyers practical questions without implying any fixed supplier promise.",
+        "fields": [
+          "manufacturer vs reseller",
+          "project review workflow",
+          "sample/dieline/artwork proof",
+          "material and structure limits",
+          "claim verification"
+        ]
+      },
+      {
+        "key": "rfq_input_table",
+        "label": "RFQ input table",
+        "purpose": "Convert vague buyer intent into quote-ready fields.",
+        "fields": [
+          "dimensions",
+          "weight",
+          "material direction",
+          "structure",
+          "insert/protection",
+          "finish",
+          "artwork status",
+          "quantity context"
+        ]
+      },
+      {
+        "key": "review_sequence",
+        "label": "Review sequence",
+        "purpose": "Show a safe step-by-step path before quote, sample or production review.",
+        "fields": [
+          "fit check",
+          "structure check",
+          "visual direction",
+          "sample path",
+          "pre-production review"
+        ]
+      },
+      {
+        "key": "claim_boundaries",
+        "label": "Claim boundaries",
+        "purpose": "Explicitly prevent unsupported claims from being treated as facts.",
+        "fields": [
+          "no fixed MOQ",
+          "no fixed lead time",
+          "no fixed price",
+          "no customer case",
+          "no compliance guarantee",
+          "no third-party endorsement"
+        ]
+      },
+      {
+        "key": "source_pattern_note",
+        "label": "Observed source-pattern note",
+        "purpose": "Explain that third-party hosts are research references only, not endorsement or prospect targets.",
+        "fields": [
+          "observed host types",
+          "research-only boundary",
+          "official MUGE page",
+          "public MUGE checklist"
+        ]
+      }
+    ]
+  },
+  "enhancedCards": [
+    {
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "slug": "p0-buyer-checklist-paper-tubes-uk-supplier-vetting-2026-06-17",
+      "pageTheme": "supplier vetting questions for paper tube packaging",
+      "publicUrls": {
+        "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-uk-supplier-vetting-2026-06-17.html",
+        "md": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-uk-supplier-vetting-2026-06-17.md",
+        "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-buyer-checklist-paper-tubes-uk-supplier-vetting-2026-06-17.json"
+      },
+      "sourcePatternHosts": [
+        {
+          "host": "brandtbox.com",
+          "gate": "observe_only_no_safe_submission_path",
+          "reason": "未发现安全投稿/目录/联系路径；暂作结构研究和观察。",
+          "observedCount": 4
+        },
+        {
+          "host": "companybox.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 4
+        },
+        {
+          "host": "innorhino.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 4
+        },
+        {
+          "host": "brownpackaging.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 3
+        },
+        {
+          "host": "papertube.co",
+          "gate": "observe_only_no_safe_submission_path",
+          "reason": "未发现安全投稿/目录/联系路径；暂作结构研究和观察。",
+          "observedCount": 2
+        },
+        {
+          "host": "valkindustries.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 2
+        },
+        {
+          "host": "nhpapertube.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 1
+        },
+        {
+          "host": "tubepackagingpro.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 1
+        }
+      ]
+    },
+    {
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "slug": "p0-buyer-checklist-paper-tubes-united-states-supplier-vetting-2026-06-17",
+      "pageTheme": "supplier vetting questions for paper tube packaging",
+      "publicUrls": {
+        "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-united-states-supplier-vetting-2026-06-17.html",
+        "md": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-united-states-supplier-vetting-2026-06-17.md",
+        "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-buyer-checklist-paper-tubes-united-states-supplier-vetting-2026-06-17.json"
+      },
+      "sourcePatternHosts": [
+        {
+          "host": "brandtbox.com",
+          "gate": "observe_only_no_safe_submission_path",
+          "reason": "未发现安全投稿/目录/联系路径；暂作结构研究和观察。",
+          "observedCount": 4
+        },
+        {
+          "host": "companybox.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 4
+        },
+        {
+          "host": "innorhino.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 4
+        },
+        {
+          "host": "brownpackaging.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 3
+        },
+        {
+          "host": "presidentcontainergroup.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 3
+        },
+        {
+          "host": "papertube.co",
+          "gate": "observe_only_no_safe_submission_path",
+          "reason": "未发现安全投稿/目录/联系路径；暂作结构研究和观察。",
+          "observedCount": 2
+        },
+        {
+          "host": "valkindustries.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 2
+        },
+        {
+          "host": "cardboardtubemanufacturers.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 1
+        }
+      ]
+    },
+    {
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "slug": "p0-buyer-checklist-custom-packaging-general-canada-supplier-vetting-2026-06-17",
+      "pageTheme": "supplier vetting questions for custom packaging boxes",
+      "publicUrls": {
+        "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-canada-supplier-vetting-2026-06-17.html",
+        "md": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-canada-supplier-vetting-2026-06-17.md",
+        "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-buyer-checklist-custom-packaging-general-canada-supplier-vetting-2026-06-17.json"
+      },
+      "sourcePatternHosts": [
+        {
+          "host": "brandtbox.com",
+          "gate": "observe_only_no_safe_submission_path",
+          "reason": "未发现安全投稿/目录/联系路径；暂作结构研究和观察。",
+          "observedCount": 4
+        },
+        {
+          "host": "companybox.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 4
+        },
+        {
+          "host": "innorhino.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 4
+        },
+        {
+          "host": "brownpackaging.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 3
+        },
+        {
+          "host": "presidentcontainergroup.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 3
+        },
+        {
+          "host": "expresspkg.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 2
+        },
+        {
+          "host": "jamestowncontainer.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 2
+        },
+        {
+          "host": "modpac.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 2
+        }
+      ]
+    },
+    {
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "slug": "p0-buyer-checklist-custom-packaging-general-dubai-supplier-vetting-2026-06-17",
+      "pageTheme": "supplier vetting questions for custom packaging boxes",
+      "publicUrls": {
+        "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-dubai-supplier-vetting-2026-06-17.html",
+        "md": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-dubai-supplier-vetting-2026-06-17.md",
+        "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-buyer-checklist-custom-packaging-general-dubai-supplier-vetting-2026-06-17.json"
+      },
+      "sourcePatternHosts": [
+        {
+          "host": "brandtbox.com",
+          "gate": "observe_only_no_safe_submission_path",
+          "reason": "未发现安全投稿/目录/联系路径；暂作结构研究和观察。",
+          "observedCount": 4
+        },
+        {
+          "host": "companybox.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 4
+        },
+        {
+          "host": "innorhino.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 4
+        },
+        {
+          "host": "presidentcontainergroup.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 3
+        },
+        {
+          "host": "expresspkg.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 2
+        },
+        {
+          "host": "jamestowncontainer.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 2
+        },
+        {
+          "host": "modpac.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 2
+        },
+        {
+          "host": "theboxery.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 2
+        }
+      ]
+    },
+    {
+      "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+      "slug": "p0-buyer-checklist-cosmetic-packaging-canada-quote-rfq-2026-06-17",
+      "pageTheme": "RFQ preparation for cosmetic packaging",
+      "publicUrls": {
+        "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-canada-quote-rfq-2026-06-17.html",
+        "md": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-canada-quote-rfq-2026-06-17.md",
+        "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-buyer-checklist-cosmetic-packaging-canada-quote-rfq-2026-06-17.json"
+      },
+      "sourcePatternHosts": []
+    },
+    {
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "slug": "p0-buyer-checklist-cosmetic-packaging-dubai-quote-rfq-2026-06-17",
+      "pageTheme": "RFQ preparation for cosmetic packaging",
+      "publicUrls": {
+        "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-dubai-quote-rfq-2026-06-17.html",
+        "md": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-dubai-quote-rfq-2026-06-17.md",
+        "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-buyer-checklist-cosmetic-packaging-dubai-quote-rfq-2026-06-17.json"
+      },
+      "sourcePatternHosts": [
+        {
+          "host": "onyxplastic.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 1
+        }
+      ]
+    },
+    {
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "slug": "p0-buyer-checklist-rigid-gift-boxes-canada-quote-rfq-2026-06-17",
+      "pageTheme": "RFQ preparation for rigid gift boxes",
+      "publicUrls": {
+        "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-canada-quote-rfq-2026-06-17.html",
+        "md": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-canada-quote-rfq-2026-06-17.md",
+        "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-buyer-checklist-rigid-gift-boxes-canada-quote-rfq-2026-06-17.json"
+      },
+      "sourcePatternHosts": []
+    },
+    {
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "slug": "p0-buyer-checklist-rigid-gift-boxes-dubai-quote-rfq-2026-06-17",
+      "pageTheme": "RFQ preparation for rigid gift boxes",
+      "publicUrls": {
+        "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-dubai-quote-rfq-2026-06-17.html",
+        "md": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-dubai-quote-rfq-2026-06-17.md",
+        "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-buyer-checklist-rigid-gift-boxes-dubai-quote-rfq-2026-06-17.json"
+      },
+      "sourcePatternHosts": [
+        {
+          "host": "therpsllc.com",
+          "gate": "research_only_competitor_or_supplier",
+          "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+          "observedCount": 1
+        }
+      ]
+    }
+  ],
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-buyer-guide-structure-standard-2026-06-17.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-buyer-guide-structure-standard-2026-06-17.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-cited-buyer-guide-structure-standard-2026-06-17.json"
+  },
+  "sourceFiles": {
+    "p0Record": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/P0买家检查清单反制页/20260617_0209_P0买家检查清单反制页发布记录.json",
+    "gatePack": "/Users/molice/muge-packaging-resources/data/p0-editorial-source-opportunity-gate-pack-2026-06-17.json"
+  }
+}

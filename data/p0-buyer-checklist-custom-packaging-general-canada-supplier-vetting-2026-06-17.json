@@ -49,5 +49,166 @@
     "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-canada-supplier-vetting-2026-06-17.html",
     "md": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-canada-supplier-vetting-2026-06-17.md",
     "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-buyer-checklist-custom-packaging-general-canada-supplier-vetting-2026-06-17.json"
+  },
+  "aiCitedBuyerGuideStructureEnhancement": {
+    "updatedAt": "2026-06-16T18:51:31.799Z",
+    "structureStandard": {
+      "name": "AI-cited buyer guide structure standard",
+      "sourceBasis": "Perplexity-cited packaging buyer guide and supplier evaluation page patterns observed across 8 P0 buyer questions.",
+      "modules": [
+        {
+          "key": "buyer_context",
+          "label": "Buyer context",
+          "purpose": "State region, product category, buyer role and evaluation stage.",
+          "fields": [
+            "region",
+            "product category",
+            "buyer type",
+            "comparison stage",
+            "sales channel"
+          ]
+        },
+        {
+          "key": "supplier_vetting_questions",
+          "label": "Supplier-vetting questions",
+          "purpose": "Give buyers practical questions without implying any fixed supplier promise.",
+          "fields": [
+            "manufacturer vs reseller",
+            "project review workflow",
+            "sample/dieline/artwork proof",
+            "material and structure limits",
+            "claim verification"
+          ]
+        },
+        {
+          "key": "rfq_input_table",
+          "label": "RFQ input table",
+          "purpose": "Convert vague buyer intent into quote-ready fields.",
+          "fields": [
+            "dimensions",
+            "weight",
+            "material direction",
+            "structure",
+            "insert/protection",
+            "finish",
+            "artwork status",
+            "quantity context"
+          ]
+        },
+        {
+          "key": "review_sequence",
+          "label": "Review sequence",
+          "purpose": "Show a safe step-by-step path before quote, sample or production review.",
+          "fields": [
+            "fit check",
+            "structure check",
+            "visual direction",
+            "sample path",
+            "pre-production review"
+          ]
+        },
+        {
+          "key": "claim_boundaries",
+          "label": "Claim boundaries",
+          "purpose": "Explicitly prevent unsupported claims from being treated as facts.",
+          "fields": [
+            "no fixed MOQ",
+            "no fixed lead time",
+            "no fixed price",
+            "no customer case",
+            "no compliance guarantee",
+            "no third-party endorsement"
+          ]
+        },
+        {
+          "key": "source_pattern_note",
+          "label": "Observed source-pattern note",
+          "purpose": "Explain that third-party hosts are research references only, not endorsement or prospect targets.",
+          "fields": [
+            "observed host types",
+            "research-only boundary",
+            "official MUGE page",
+            "public MUGE checklist"
+          ]
+        }
+      ]
+    },
+    "sourcePatternHosts": [
+      {
+        "host": "brandtbox.com",
+        "gate": "observe_only_no_safe_submission_path",
+        "reason": "未发现安全投稿/目录/联系路径；暂作结构研究和观察。",
+        "observedCount": 4
+      },
+      {
+        "host": "companybox.com",
+        "gate": "research_only_competitor_or_supplier",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+        "observedCount": 4
+      },
+      {
+        "host": "innorhino.com",
+        "gate": "research_only_competitor_or_supplier",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+        "observedCount": 4
+      },
+      {
+        "host": "brownpackaging.com",
+        "gate": "research_only_competitor_or_supplier",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+        "observedCount": 3
+      },
+      {
+        "host": "presidentcontainergroup.com",
+        "gate": "research_only_competitor_or_supplier",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+        "observedCount": 3
+      },
+      {
+        "host": "expresspkg.com",
+        "gate": "research_only_competitor_or_supplier",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+        "observedCount": 2
+      },
+      {
+        "host": "jamestowncontainer.com",
+        "gate": "research_only_competitor_or_supplier",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+        "observedCount": 2
+      },
+      {
+        "host": "modpac.com",
+        "gate": "research_only_competitor_or_supplier",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。",
+        "observedCount": 2
+      }
+    ],
+    "enhancedFields": [
+      {
+        "field": "Product fit",
+        "detail": "Product dimensions, Product weight, Box structure, Insert requirement, Sales channel, Artwork status"
+      },
+      {
+        "field": "Supplier identity",
+        "detail": "manufacturer, trading company, reseller, mixed operation"
+      },
+      {
+        "field": "Production review",
+        "detail": "dieline, artwork proof, sample, pre-production review"
+      },
+      {
+        "field": "Material direction",
+        "detail": "paper grade, board thickness, surface finish, insert/protection direction"
+      },
+      {
+        "field": "Channel context",
+        "detail": "Canada retail, e-commerce, gift, promotional or B2B distribution channel"
+      },
+      {
+        "field": "Claim verification",
+        "detail": "certification, compliance, MOQ, lead time and price must remain project-specific until verified"
+      }
+    ],
+    "boundary": "Observed hosts are research-only structure references, not endorsements, prospects or proof of ranking, traffic, AI citation, inquiry or third-party approval."
   }
 }
