@@ -966,3 +966,15 @@ Boundary: public discovery and citation-support assets only; not ranking proof, 
 - P0 editorial path: packaging-labelling.com/articles
 - Boundary: queue only; not submitted, accepted, paid placement, ranking proof, traffic proof or endorsement.
 <!-- MUGE_STAND_UP_POUCHES_THIRD_PARTY_SOURCE_GAP_QUEUE_2026_06_16:end -->
+
+<!-- MUGE_8_CLUSTER_PERPLEXITY_CITED_SOURCE_OPPORTUNITY_PACK_2026_06_17:start -->
+## MUGE 8-Cluster Perplexity Cited Source Opportunity Pack - 2026-06-17
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/muge-8-cluster-perplexity-cited-source-opportunity-pack-2026-06-17.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/muge-8-cluster-perplexity-cited-source-opportunity-pack-2026-06-17.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-8-cluster-perplexity-cited-source-opportunity-pack-2026-06-17.json
+- Unique cited hosts: 57
+- Cited URLs analyzed: 88
+- Natural buyer Perplexity positive rows before this action: 0/8
+- Boundary: public research and manual action queue only; not ranking, AI citation, traffic, inquiry or endorsement proof.
+<!-- MUGE_8_CLUSTER_PERPLEXITY_CITED_SOURCE_OPPORTUNITY_PACK_2026_06_17:end -->
