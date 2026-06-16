@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T19:54:19.140Z",
-  "createdAtCst": "2026-06-17 03:54:19",
+  "generatedAt": "2026-06-16T19:58:51.561Z",
+  "createdAtCst": "2026-06-17 03:58:51",
   "publishedDate": "2026-06-17",
   "sourceQueuePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/关键词策略/滚动执行总控队列/MUGE_SEO_GEO_当前800执行词_300AI问答滚动队列.json",
   "slug": "seo-geo-rolling-keyword-execution-source-map-2026-06-16",
@@ -3737,7 +3737,7 @@
       "region": "global",
       "intent": "comparison",
       "clusterKey": "packaging_inserts::global::comparison",
-      "targetUrl": "https://mugepackaging.com/contact",
+      "targetUrl": "https://mugepackaging.com/products",
       "owner": "Codex+n8n+Perplexity",
       "executionRoute": "AI问答复验 -> 缺口问题归类 -> 官网FAQ/外部SourcePack反哺 -> Perplexity再验收",
       "nextConcreteAction": "进入AI问答测试池，记录是否出现MUGE、官网URL、第三方资产引用。",
