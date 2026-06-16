@@ -1,3 +1,13 @@
+<!-- MUGE_ROLLING_CLUSTER_SOURCE_PACK_PAPER_TUBES_UK_SUPPLIER_VETTING_2026_06_16:start -->
+## Paper Tubes Uk Supplier Vetting Rolling Source Pack - 2026-06-16
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uk-supplier-vetting-rolling-source-pack-2026-06-16.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uk-supplier-vetting-rolling-source-pack-2026-06-16.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-uk-supplier-vetting-rolling-source-pack-2026-06-16.json
+- Official mapped page: https://mugepackaging.com/products/paper-tubes
+- Scope: claim-bounded source path for paper_tubes::uk::supplier_vetting buyer queries from the 800+300 rolling execution queue.
+- Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+<!-- MUGE_ROLLING_CLUSTER_SOURCE_PACK_PAPER_TUBES_UK_SUPPLIER_VETTING_2026_06_16:end -->
+
 <!-- MUGE_ROLLING_CLUSTER_SOURCE_PACK_PAPER_TUBES_MIDDLE_EAST_SUPPLIER_VETTING_2026_06_16:start -->
 ## Paper Tubes Middle East Supplier Vetting Rolling Source Pack - 2026-06-16
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-middle-east-supplier-vetting-rolling-source-pack-2026-06-16.html
