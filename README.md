@@ -1,3 +1,15 @@
+<!-- MUGE_AI_DISCOVERY_INDEX_2026_06_16:start -->
+## AI Discovery Index - 2026-06-16
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/ai-discovery-index-2026-06-16.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/ai-discovery-index-2026-06-16.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-discovery-index-2026-06-16.json
+- Sitemap: https://mugepackage-gif.github.io/muge-packaging-resources/sitemap.xml
+- Asset manifest: https://mugepackage-gif.github.io/muge-packaging-resources/asset-manifest.json
+- Listed public assets: 948
+- Scope: crawl discovery layer for MUGE PACKAGING SEO/GEO public source-path assets.
+- Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+<!-- MUGE_AI_DISCOVERY_INDEX_2026_06_16:end -->
+
 <!-- MUGE_GEO_AI_300_BUYER_QUESTION_SOURCE_MATRIX_2026_06_16:start -->
 ## GEO/AI 300 Buyer Question Source Matrix - 2026-06-16
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/geo-ai-300-buyer-question-source-matrix-2026-06-16.html
