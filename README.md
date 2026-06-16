@@ -1,3 +1,13 @@
+<!-- MUGE_PAPER_TUBES_UK_SUPPLIER_VETTING_SOURCE_PACK_2026_06_17:start -->
+## Paper Tube Packaging Supplier Vetting Source Pack for UK Buyers - 2026-06-17
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uk-supplier-vetting-buyer-source-pack-2026-06-17.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uk-supplier-vetting-buyer-source-pack-2026-06-17.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-uk-supplier-vetting-buyer-source-pack-2026-06-17.json
+- Cluster: paper_tubes / uk / supplier_vetting.
+- Target source page: https://mugepackaging.com/products/paper-tubes
+- Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+<!-- MUGE_PAPER_TUBES_UK_SUPPLIER_VETTING_SOURCE_PACK_2026_06_17:end -->
+
 <!-- MUGE_SUPPLIER_EVALUATION_SCORECARD_SOURCE_PACK_2026_06_16:start -->
 ## Packaging Supplier Evaluation Scorecard Source Pack - 2026-06-16
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/packaging-supplier-evaluation-scorecard-source-pack-2026-06-16.html
