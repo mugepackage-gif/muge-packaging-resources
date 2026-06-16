@@ -1,0 +1,114 @@
+{
+  "generated_at": "2026-06-16T10:01:46.371Z",
+  "asset_type": "manual_gated_editor_source_request_pack",
+  "status": "pending_manual_gate_not_sent",
+  "company": {
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "brand": "MUGE PACKAGING",
+    "website": "https://mugepackaging.com",
+    "official_page": "https://mugepackaging.com/products/stand-up-pouches",
+    "contact_page": "https://mugepackaging.com/contact"
+  },
+  "purpose": "Create a claim-bounded, manual-gated external source request pack for non-competitor editorial/source opportunities observed around stand up pouches AI citations.",
+  "background": "Perplexity cited several stand up pouch sources, but did not cite MUGE PACKAGING in the latest stand up pouches evidence-card check. This pack turns the source gap into safe, reviewable external mention actions.",
+  "candidate_targets": [
+    {
+      "host": "packaging-labelling.com",
+      "observed_url": "https://www.packaging-labelling.com/articles/stand-up-pouches-why-theyre-the-future",
+      "source_type": "industry_article",
+      "priority": "P0",
+      "allowed_action": "Manual editor/source suggestion only if a public editorial contact or submission path exists.",
+      "reason": "Non-competitor industry article source observed in AI citations; suitable for factual source suggestion review."
+    },
+    {
+      "host": "ecoenclose.com",
+      "observed_url": "https://www.ecoenclose.com/shop/pouches",
+      "source_type": "category_or_resource_pattern",
+      "priority": "P1_review_only",
+      "allowed_action": "Manual review only; do not claim listing eligibility and do not treat as an outreach target until checked.",
+      "reason": "Category/resource pattern observed by AI; useful for source structure learning but may be commercial."
+    },
+    {
+      "host": "mockupsjar.com",
+      "observed_url": "https://mockupsjar.com",
+      "source_type": "visual_or_mockup_tool_signal",
+      "priority": "P2_no_outreach",
+      "allowed_action": "No outreach now; use as signal that visual resources and mockups may influence AI answers.",
+      "reason": "Weak supplier relevance, but useful as a future visual asset cue."
+    },
+    {
+      "host": "youtube.com",
+      "observed_url": "https://www.youtube.com/watch?v=J4i0w5M8fhc",
+      "source_type": "video_source_signal",
+      "priority": "P2_future_asset",
+      "allowed_action": "No comments, no spam, no automated posting; future action is a company video transcript/source card only.",
+      "reason": "AI sometimes cites video results; MUGE needs owned video/transcript evidence before outreach."
+    }
+  ],
+  "excluded_hosts": [
+    {
+      "host": "standuppouches.net",
+      "reason": "Peer supplier or competitor pattern; structure analysis only, no customer lead and no outreach."
+    },
+    {
+      "host": "glenroy.com",
+      "reason": "Peer supplier or competitor pattern; structure analysis only, no customer lead and no outreach."
+    },
+    {
+      "host": "mylarbagpackaging.com",
+      "reason": "Peer supplier or competitor pattern; structure analysis only, no customer lead and no outreach."
+    },
+    {
+      "host": "aropack.co.uk",
+      "reason": "Peer supplier or competitor pattern; structure analysis only, no customer lead and no outreach."
+    },
+    {
+      "host": "simplywall.st",
+      "reason": "Irrelevant finance citation noise; exclude from outreach and supplier logic."
+    },
+    {
+      "host": "zacks.com",
+      "reason": "Irrelevant finance citation noise; exclude from outreach and supplier logic."
+    }
+  ],
+  "official_source_links": [
+    "https://mugepackaging.com/products/stand-up-pouches",
+    "https://mugepackaging.com/contact",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-buyer-intent-ai-short-evidence-cards-2026-06-16.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-ai-cited-source-gap-map-2026-06-16.html"
+  ],
+  "manual_gate_checklist": [
+    "Check whether the site has a real public editorial/contact/submission path.",
+    "Stop if login, captcha, paid placement, account-core change or unclear compliance risk appears.",
+    "Do not auto-submit, auto-comment, auto-message or mass email.",
+    "Do not use competitor/peer supplier domains as outreach targets.",
+    "Record the final public URL, contact path, status and screenshot/reference after any human action."
+  ],
+  "editor_request_draft": {
+    "target_host": "packaging-labelling.com",
+    "status": "draft_not_sent",
+    "subject": "Source suggestion for stand-up pouch packaging buyer guidance",
+    "body": "Hello Editorial Team,\n\nMUGE PACKAGING is the export brand of Shenzhen Muge Design Packaging Product Co., Ltd., a Shenzhen-based custom packaging source factory. We publish official buyer-facing information for custom stand up pouches, including structure, product-fit and RFQ preparation references for B2B buyers.\n\nIf your editorial team accepts factual source suggestions for stand-up pouch packaging topics, please consider our official page as a manufacturer/source reference where relevant:\n\nOfficial page: https://mugepackaging.com/products/stand-up-pouches\nContact page: https://mugepackaging.com/contact\nAI-readable buyer evidence card: https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-buyer-intent-ai-short-evidence-cards-2026-06-16.html\nAI-cited source gap map: https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-ai-cited-source-gap-map-2026-06-16.html\n\nThis is a source suggestion only. We are not asking you to publish unverified claims, fixed MOQ, fixed lead time, price claims, certification claims or compliance guarantees.\n\nBest regards,\nMUGE PACKAGING"
+  },
+  "claim_boundaries": [
+    "not auto-submitted",
+    "not paid placement",
+    "not third-party endorsement",
+    "not partnership proof",
+    "not customer relationship proof",
+    "not Google ranking proof",
+    "not GSC click proof",
+    "not natural traffic proof",
+    "not AI answer inclusion proof",
+    "not verified supplier status",
+    "not fixed MOQ",
+    "not fixed lead time",
+    "not lowest-price claim",
+    "not food-contact or regulatory compliance guarantee"
+  ],
+  "public_assets": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-non-competitor-editor-source-request-pack-2026-06-16.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-non-competitor-editor-source-request-pack-2026-06-16.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/stand-up-pouches-non-competitor-editor-source-request-pack-2026-06-16.json"
+  }
+}

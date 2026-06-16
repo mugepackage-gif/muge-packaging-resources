@@ -1,3 +1,13 @@
+<!-- MUGE_STAND_UP_POUCHES_NON_COMPETITOR_EDITOR_SOURCE_REQUEST_PACK_2026_06_16:start -->
+## Stand Up Pouches Non-Competitor Editor Source Request Pack - 2026-06-16
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-non-competitor-editor-source-request-pack-2026-06-16.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-non-competitor-editor-source-request-pack-2026-06-16.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/stand-up-pouches-non-competitor-editor-source-request-pack-2026-06-16.json
+- Official mapped page: https://mugepackaging.com/products/stand-up-pouches
+- Scope: manual-gated non-competitor editor/source request pack for stand up pouch external mention opportunities.
+- Status: pending_manual_gate_not_sent; no auto-submit, no paid placement, no endorsement claim.
+<!-- MUGE_STAND_UP_POUCHES_NON_COMPETITOR_EDITOR_SOURCE_REQUEST_PACK_2026_06_16:end -->
+
 <!-- MUGE_STAND_UP_POUCHES_AI_CITED_SOURCE_GAP_MAP_2026_06_16:start -->
 ## Stand Up Pouches AI-Cited Source Gap Map - 2026-06-16
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-ai-cited-source-gap-map-2026-06-16.html
