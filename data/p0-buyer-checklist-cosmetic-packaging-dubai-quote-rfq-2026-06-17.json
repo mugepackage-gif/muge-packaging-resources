@@ -1,0 +1,49 @@
+{
+  "product": "cosmetic_packaging",
+  "region": "dubai",
+  "intent": "quote_rfq",
+  "regionName": "Dubai / GCC",
+  "label": "Cosmetic packaging",
+  "productText": "custom cosmetic packaging",
+  "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+  "fitFields": [
+    "Jar or bottle dimensions",
+    "Set configuration",
+    "Insert requirement",
+    "Retail or e-commerce use",
+    "Finish direction",
+    "Artwork status"
+  ],
+  "pageTheme": "RFQ preparation for cosmetic packaging",
+  "id": "cluster_6",
+  "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+  "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+  "sourceUrls": [
+    "https://www.alibaba.com/price-comparison/custom-cosmetic-packaging-manufacturers",
+    "https://al-kamal.com",
+    "https://www.tradewheel.com/buyers/cosmetics-packaging/",
+    "https://sevich.com/2026-middle-east-cosmetic-registration-uae-ksa-for-b2b-buyers/",
+    "https://www.instagram.com/reel/Cv4iC7btMVs/",
+    "https://www.facebook.com/groups/480114936438748/posts/1626545201795710/",
+    "https://www.instagram.com/reel/DUA3-ILkmpb/",
+    "https://www.instagram.com/reel/DBGZNXzy20D/",
+    "https://onyxplastic.com/cosmetic-packaging-bottles-manufacturer-in-dubai/"
+  ],
+  "sourceHosts": [
+    "alibaba.com",
+    "al-kamal.com",
+    "tradewheel.com",
+    "sevich.com",
+    "instagram.com",
+    "facebook.com",
+    "onyxplastic.com"
+  ],
+  "slug": "p0-buyer-checklist-cosmetic-packaging-dubai-quote-rfq-2026-06-17",
+  "generatedAt": "2026-06-16T18:09:32.504Z",
+  "generatedAtCst": "2026-06-17 02:09:32",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-dubai-quote-rfq-2026-06-17.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-dubai-quote-rfq-2026-06-17.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-buyer-checklist-cosmetic-packaging-dubai-quote-rfq-2026-06-17.json"
+  }
+}

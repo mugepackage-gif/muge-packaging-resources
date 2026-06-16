@@ -1,0 +1,53 @@
+{
+  "product": "custom_packaging_general",
+  "region": "dubai",
+  "intent": "supplier_vetting",
+  "regionName": "Dubai / GCC",
+  "label": "Custom packaging boxes",
+  "productText": "custom packaging boxes",
+  "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+  "fitFields": [
+    "Product dimensions",
+    "Product weight",
+    "Box structure",
+    "Insert requirement",
+    "Sales channel",
+    "Artwork status"
+  ],
+  "pageTheme": "supplier vetting questions for custom packaging boxes",
+  "id": "cluster_4",
+  "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+  "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+  "sourceUrls": [
+    "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers",
+    "https://www.theboxery.com/blog/what-questions-should-you-ask-a-shipping-boxes-supplier/",
+    "https://presidentcontainergroup.com/6-questions-to-ask-before-choosing-a-packaging-supplier/",
+    "https://pakfactory.com/blog/learn/questions-to-ask-before-buying-packaging/",
+    "https://www.jamestowncontainer.com/packaging-resources/blog/4-things-to-look-for-in-corrugated-packaging-suppliers/",
+    "https://www.modpac.com/essential-questions-to-ask-your-packaging-supplier/",
+    "https://companybox.com/blog/5-questions-to-ask-your-packaging-supplier/",
+    "https://www.expresspkg.com/news/10-questions-to-ask-before-selecting-a-box-manufacturer/",
+    "https://brownpackaging.com/10-essential-questions-you-should-ask-your-packaging-supplier/",
+    "https://ufppackaging.com/insights/six-things-to-consider-when-choosing-your-packaging-supplier"
+  ],
+  "sourceHosts": [
+    "innorhino.com",
+    "theboxery.com",
+    "presidentcontainergroup.com",
+    "pakfactory.com",
+    "jamestowncontainer.com",
+    "modpac.com",
+    "companybox.com",
+    "expresspkg.com",
+    "brownpackaging.com",
+    "ufppackaging.com"
+  ],
+  "slug": "p0-buyer-checklist-custom-packaging-general-dubai-supplier-vetting-2026-06-17",
+  "generatedAt": "2026-06-16T18:09:32.504Z",
+  "generatedAtCst": "2026-06-17 02:09:32",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-dubai-supplier-vetting-2026-06-17.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-dubai-supplier-vetting-2026-06-17.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-buyer-checklist-custom-packaging-general-dubai-supplier-vetting-2026-06-17.json"
+  }
+}

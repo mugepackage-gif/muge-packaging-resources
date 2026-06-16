@@ -1,0 +1,53 @@
+{
+  "product": "paper_tubes",
+  "region": "united_states",
+  "intent": "supplier_vetting",
+  "regionName": "United States",
+  "label": "Paper tube packaging",
+  "productText": "custom paper tube packaging",
+  "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+  "fitFields": [
+    "Diameter",
+    "Height",
+    "Closure style",
+    "Cap structure",
+    "Product weight",
+    "Surface finish"
+  ],
+  "pageTheme": "supplier vetting questions for paper tube packaging",
+  "id": "cluster_2",
+  "clusterKey": "paper_tubes::united_states::supplier_vetting",
+  "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+  "sourceUrls": [
+    "https://cardboardtubemanufacturers.com",
+    "https://custompapertubeboxes.com",
+    "https://www.valkindustries.com/latest-news/how-to-choose-a-paper-tube-manufacturer.html",
+    "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers",
+    "https://brandtbox.com/blog/how-to-evaluate-custom-packaging-supplier/",
+    "https://www.nhpapertube.com/questions-to-ask-your-paper-tube-provider",
+    "https://brownpackaging.com/10-essential-questions-you-should-ask-your-packaging-supplier/",
+    "https://companybox.com/blog/5-questions-to-ask-your-packaging-supplier/",
+    "https://www.youtube.com/watch?v=ijglKdM_KgU",
+    "https://papertube.co/pages/faq"
+  ],
+  "sourceHosts": [
+    "cardboardtubemanufacturers.com",
+    "custompapertubeboxes.com",
+    "valkindustries.com",
+    "innorhino.com",
+    "brandtbox.com",
+    "nhpapertube.com",
+    "brownpackaging.com",
+    "companybox.com",
+    "youtube.com",
+    "papertube.co"
+  ],
+  "slug": "p0-buyer-checklist-paper-tubes-united-states-supplier-vetting-2026-06-17",
+  "generatedAt": "2026-06-16T18:09:32.504Z",
+  "generatedAtCst": "2026-06-17 02:09:32",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-united-states-supplier-vetting-2026-06-17.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-united-states-supplier-vetting-2026-06-17.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-buyer-checklist-paper-tubes-united-states-supplier-vetting-2026-06-17.json"
+  }
+}

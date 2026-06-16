@@ -1,3 +1,16 @@
+<!-- p0-buyer-checklist-counter-pages-2026-06-17:start -->
+## P0 Buyer Checklist Counter Pages - 2026-06-17
+
+- [UK Buyer Questions to Ask Before Shortlisting custom paper tube packaging suppliers](https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-uk-supplier-vetting-2026-06-17.html): paper_tubes::uk::supplier_vetting
+- [United States Buyer Questions to Ask Before Shortlisting custom paper tube packaging suppliers](https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-united-states-supplier-vetting-2026-06-17.html): paper_tubes::united_states::supplier_vetting
+- [Canada Buyer Questions to Ask Before Shortlisting custom packaging boxes suppliers](https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-canada-supplier-vetting-2026-06-17.html): custom_packaging_general::canada::supplier_vetting
+- [Dubai / GCC Buyer Questions to Ask Before Shortlisting custom packaging boxes suppliers](https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-dubai-supplier-vetting-2026-06-17.html): custom_packaging_general::dubai::supplier_vetting
+- [Canada custom cosmetic packaging RFQ Preparation Checklist for B2B Buyers](https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-canada-quote-rfq-2026-06-17.html): cosmetic_packaging::canada::quote_rfq
+- [Dubai / GCC custom cosmetic packaging RFQ Preparation Checklist for B2B Buyers](https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-dubai-quote-rfq-2026-06-17.html): cosmetic_packaging::dubai::quote_rfq
+- [Canada custom rigid gift boxes RFQ Preparation Checklist for B2B Buyers](https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-canada-quote-rfq-2026-06-17.html): rigid_gift_boxes::canada::quote_rfq
+- [Dubai / GCC custom rigid gift boxes RFQ Preparation Checklist for B2B Buyers](https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-dubai-quote-rfq-2026-06-17.html): rigid_gift_boxes::dubai::quote_rfq
+<!-- p0-buyer-checklist-counter-pages-2026-06-17:end -->
+
 <!-- ai-cited-source-pattern-counter-pack-2026-06-17:start -->
 ## AI Cited Source Pattern Counter-Pack - 2026-06-17
 

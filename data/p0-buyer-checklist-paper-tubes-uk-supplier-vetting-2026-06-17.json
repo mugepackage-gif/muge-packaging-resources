@@ -1,0 +1,53 @@
+{
+  "product": "paper_tubes",
+  "region": "uk",
+  "intent": "supplier_vetting",
+  "regionName": "UK",
+  "label": "Paper tube packaging",
+  "productText": "custom paper tube packaging",
+  "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+  "fitFields": [
+    "Diameter",
+    "Height",
+    "Closure style",
+    "Cap structure",
+    "Product weight",
+    "Surface finish"
+  ],
+  "pageTheme": "supplier vetting questions for paper tube packaging",
+  "id": "cluster_1",
+  "clusterKey": "paper_tubes::uk::supplier_vetting",
+  "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+  "sourceUrls": [
+    "https://custompapertubeboxes.com",
+    "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers",
+    "https://brandtbox.com/blog/how-to-evaluate-custom-packaging-supplier/",
+    "https://orangepkg.com/blog/questions-to-ask-packaging-manufacturers-during-the-evaluation-process/",
+    "https://presidentcontainergroup.com/6-questions-to-ask-before-choosing-a-packaging-supplier/",
+    "https://www.nhpapertube.com/questions-to-ask-your-paper-tube-provider",
+    "https://brownpackaging.com/10-essential-questions-you-should-ask-your-packaging-supplier/",
+    "https://companybox.com/blog/5-questions-to-ask-your-packaging-supplier/",
+    "https://papertube.co/pages/faq",
+    "https://tubepackagingpro.com/custom-paper-tube-packaging-guide/"
+  ],
+  "sourceHosts": [
+    "custompapertubeboxes.com",
+    "innorhino.com",
+    "brandtbox.com",
+    "orangepkg.com",
+    "presidentcontainergroup.com",
+    "nhpapertube.com",
+    "brownpackaging.com",
+    "companybox.com",
+    "papertube.co",
+    "tubepackagingpro.com"
+  ],
+  "slug": "p0-buyer-checklist-paper-tubes-uk-supplier-vetting-2026-06-17",
+  "generatedAt": "2026-06-16T18:09:32.504Z",
+  "generatedAtCst": "2026-06-17 02:09:32",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-uk-supplier-vetting-2026-06-17.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-uk-supplier-vetting-2026-06-17.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-buyer-checklist-paper-tubes-uk-supplier-vetting-2026-06-17.json"
+  }
+}

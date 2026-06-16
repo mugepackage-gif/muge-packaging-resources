@@ -1,0 +1,45 @@
+{
+  "product": "cosmetic_packaging",
+  "region": "canada",
+  "intent": "quote_rfq",
+  "regionName": "Canada",
+  "label": "Cosmetic packaging",
+  "productText": "custom cosmetic packaging",
+  "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+  "fitFields": [
+    "Jar or bottle dimensions",
+    "Set configuration",
+    "Insert requirement",
+    "Retail or e-commerce use",
+    "Finish direction",
+    "Artwork status"
+  ],
+  "pageTheme": "RFQ preparation for cosmetic packaging",
+  "id": "cluster_5",
+  "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+  "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+  "sourceUrls": [
+    "https://www.icustomboxes.ca/cosmetic-boxes/",
+    "https://packagingtoronto.ca/cosmetic-boxes/",
+    "https://custompackaginglane.ca/cosmetic-boxes/",
+    "https://www.stocksmetic.com/us/custom-cosmetic-packaging",
+    "https://www.instagram.com/reel/DZC3MyKzT2r/",
+    "https://thepackaging.ca/product/custom-luxury-cosmetic-packaging-boxes/"
+  ],
+  "sourceHosts": [
+    "icustomboxes.ca",
+    "packagingtoronto.ca",
+    "custompackaginglane.ca",
+    "stocksmetic.com",
+    "instagram.com",
+    "thepackaging.ca"
+  ],
+  "slug": "p0-buyer-checklist-cosmetic-packaging-canada-quote-rfq-2026-06-17",
+  "generatedAt": "2026-06-16T18:09:32.504Z",
+  "generatedAtCst": "2026-06-17 02:09:32",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-canada-quote-rfq-2026-06-17.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-canada-quote-rfq-2026-06-17.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-buyer-checklist-cosmetic-packaging-canada-quote-rfq-2026-06-17.json"
+  }
+}
