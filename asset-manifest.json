@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-16T02:16:00.024Z",
-  "generatedAtCst": "2026-06-16 10:16:00",
+  "generatedAt": "2026-06-16T02:40:16.316Z",
+  "generatedAtCst": "2026-06-16 10:40:16",
   "publicBase": "https://mugepackage-gif.github.io/muge-packaging-resources",
-  "assetCount": 948,
+  "assetCount": 955,
   "counts": {
-    "html": 412,
-    "md": 199,
-    "json": 332,
+    "html": 414,
+    "md": 201,
+    "json": 335,
     "other": 5
   },
   "assets": [
@@ -158,8 +158,8 @@
       "path": "llms.txt",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/llms.txt",
       "ext": ".txt",
-      "bytes": 202307,
-      "lastmod": "2026-06-16T02:09:15.474Z",
+      "bytes": 203981,
+      "lastmod": "2026-06-16T02:30:38.702Z",
       "title": "Llms",
       "priorityScore": 35
     },
@@ -167,8 +167,8 @@
       "path": "README.md",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/README.md",
       "ext": ".md",
-      "bytes": 71642,
-      "lastmod": "2026-06-16T02:09:15.473Z",
+      "bytes": 73324,
+      "lastmod": "2026-06-16T02:30:38.701Z",
       "title": "README",
       "priorityScore": 35
     },
@@ -176,8 +176,8 @@
       "path": "sitemap.xml",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/sitemap.xml",
       "ext": ".xml",
-      "bytes": 204233,
-      "lastmod": "2026-06-15T23:49:18.217Z",
+      "bytes": 248390,
+      "lastmod": "2026-06-16T02:16:00.054Z",
       "title": "Sitemap",
       "priorityScore": 35
     },
@@ -287,6 +287,15 @@
       "bytes": 6832,
       "lastmod": "2026-06-12T07:56:36.315Z",
       "title": "Ai Answer Short Evidence Batch 2026 06 12",
+      "priorityScore": 15
+    },
+    {
+      "path": "ai-citation-gap-external-opportunity-queue-2026-06-16.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-gap-external-opportunity-queue-2026-06-16.html",
+      "ext": ".html",
+      "bytes": 22355,
+      "lastmod": "2026-06-16T02:30:38.698Z",
+      "title": "Ai Citation Gap External Opportunity Queue 2026 06 16",
       "priorityScore": 15
     },
     {
@@ -1244,6 +1253,15 @@
       "priorityScore": 15
     },
     {
+      "path": "ai-citation-gap-external-opportunity-queue-2026-06-16.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-gap-external-opportunity-queue-2026-06-16.md",
+      "ext": ".md",
+      "bytes": 24599,
+      "lastmod": "2026-06-16T02:30:38.699Z",
+      "title": "Ai Citation Gap External Opportunity Queue 2026 06 16",
+      "priorityScore": 10
+    },
+    {
       "path": "ai-citation-gap-map-europe-middle-east-2026-06-13.md",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-gap-map-europe-middle-east-2026-06-13.md",
       "ext": ".md",
@@ -1556,6 +1574,15 @@
       "bytes": 4246,
       "lastmod": "2026-06-12T07:56:36.315Z",
       "title": "Ai Answer Short Evidence Batch 2026 06 12",
+      "priorityScore": 10
+    },
+    {
+      "path": "data/ai-citation-gap-external-opportunity-queue-2026-06-16.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-citation-gap-external-opportunity-queue-2026-06-16.json",
+      "ext": ".json",
+      "bytes": 44042,
+      "lastmod": "2026-06-16T02:30:38.700Z",
+      "title": "Ai Citation Gap External Opportunity Queue 2026 06 16",
       "priorityScore": 10
     },
     {
@@ -3122,6 +3149,15 @@
       "bytes": 7626,
       "lastmod": "2026-05-31T15:45:24.662Z",
       "title": "Ai Dataset Discovery Hub",
+      "priorityScore": 5
+    },
+    {
+      "path": "ai-discovery-index-2026-06-16.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-discovery-index-2026-06-16.html",
+      "ext": ".html",
+      "bytes": 44724,
+      "lastmod": "2026-06-16T02:16:00.055Z",
+      "title": "Ai Discovery Index 2026 06 16",
       "priorityScore": 5
     },
     {
@@ -5663,6 +5699,15 @@
       "priorityScore": 0
     },
     {
+      "path": "ai-discovery-index-2026-06-16.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-discovery-index-2026-06-16.md",
+      "ext": ".md",
+      "bytes": 15658,
+      "lastmod": "2026-06-16T02:16:00.055Z",
+      "title": "Ai Discovery Index 2026 06 16",
+      "priorityScore": 0
+    },
+    {
       "path": "ai-exact-target-01-europe-custom-packaging-supplier-verification-2026-06-01.md",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-exact-target-01-europe-custom-packaging-supplier-verification-2026-06-01.md",
       "ext": ".md",
@@ -5759,6 +5804,15 @@
       "bytes": 1318,
       "lastmod": "2026-06-02T01:37:17.693Z",
       "title": "Anoox Free Index Submit Attempt 2026 06 02",
+      "priorityScore": 0
+    },
+    {
+      "path": "asset-manifest.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/asset-manifest.json",
+      "ext": ".json",
+      "bytes": 387213,
+      "lastmod": "2026-06-16T02:16:00.055Z",
+      "title": "Asset Manifest",
       "priorityScore": 0
     },
     {
@@ -6038,6 +6092,15 @@
       "bytes": 22192,
       "lastmod": "2026-06-14T05:58:55.045Z",
       "title": "Ai Core Query Answer Bridge 2026 06 14",
+      "priorityScore": 0
+    },
+    {
+      "path": "data/ai-discovery-index-2026-06-16.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-discovery-index-2026-06-16.json",
+      "ext": ".json",
+      "bytes": 387213,
+      "lastmod": "2026-06-16T02:16:00.056Z",
+      "title": "Ai Discovery Index 2026 06 16",
       "priorityScore": 0
     },
     {
