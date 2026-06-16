@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-16T02:40:16.316Z",
-  "generatedAtCst": "2026-06-16 10:40:16",
+  "generatedAt": "2026-06-16T03:02:49.887Z",
+  "generatedAtCst": "2026-06-16 11:02:49",
   "publicBase": "https://mugepackage-gif.github.io/muge-packaging-resources",
-  "assetCount": 955,
+  "assetCount": 958,
   "counts": {
-    "html": 414,
-    "md": 201,
-    "json": 335,
+    "html": 415,
+    "md": 202,
+    "json": 336,
     "other": 5
   },
   "assets": [
@@ -158,8 +158,8 @@
       "path": "llms.txt",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/llms.txt",
       "ext": ".txt",
-      "bytes": 203981,
-      "lastmod": "2026-06-16T02:30:38.702Z",
+      "bytes": 204733,
+      "lastmod": "2026-06-16T03:00:46.921Z",
       "title": "Llms",
       "priorityScore": 35
     },
@@ -167,8 +167,8 @@
       "path": "README.md",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/README.md",
       "ext": ".md",
-      "bytes": 73324,
-      "lastmod": "2026-06-16T02:30:38.701Z",
+      "bytes": 74076,
+      "lastmod": "2026-06-16T03:00:46.919Z",
       "title": "README",
       "priorityScore": 35
     },
@@ -176,8 +176,8 @@
       "path": "sitemap.xml",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/sitemap.xml",
       "ext": ".xml",
-      "bytes": 248390,
-      "lastmod": "2026-06-16T02:16:00.054Z",
+      "bytes": 250119,
+      "lastmod": "2026-06-16T02:40:16.344Z",
       "title": "Sitemap",
       "priorityScore": 35
     },
@@ -3155,8 +3155,8 @@
       "path": "ai-discovery-index-2026-06-16.html",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-discovery-index-2026-06-16.html",
       "ext": ".html",
-      "bytes": 44724,
-      "lastmod": "2026-06-16T02:16:00.055Z",
+      "bytes": 44718,
+      "lastmod": "2026-06-16T02:40:16.345Z",
       "title": "Ai Discovery Index 2026 06 16",
       "priorityScore": 5
     },
@@ -4067,6 +4067,15 @@
       "bytes": 4939,
       "lastmod": "2026-05-31T10:14:23.983Z",
       "title": "Iso 9001 Packaging Manufacturer Buyer Questions",
+      "priorityScore": 5
+    },
+    {
+      "path": "jina-reader-third-party-ai-readable-mirror-index-2026-06-16.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/jina-reader-third-party-ai-readable-mirror-index-2026-06-16.html",
+      "ext": ".html",
+      "bytes": 5393,
+      "lastmod": "2026-06-16T03:00:46.917Z",
+      "title": "Jina Reader Third Party Ai Readable Mirror Index 2026 06 16",
       "priorityScore": 5
     },
     {
@@ -5702,8 +5711,8 @@
       "path": "ai-discovery-index-2026-06-16.md",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-discovery-index-2026-06-16.md",
       "ext": ".md",
-      "bytes": 15658,
-      "lastmod": "2026-06-16T02:16:00.055Z",
+      "bytes": 15684,
+      "lastmod": "2026-06-16T02:40:16.345Z",
       "title": "Ai Discovery Index 2026 06 16",
       "priorityScore": 0
     },
@@ -5810,8 +5819,8 @@
       "path": "asset-manifest.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/asset-manifest.json",
       "ext": ".json",
-      "bytes": 387213,
-      "lastmod": "2026-06-16T02:16:00.055Z",
+      "bytes": 389756,
+      "lastmod": "2026-06-16T02:40:16.344Z",
       "title": "Asset Manifest",
       "priorityScore": 0
     },
@@ -6098,8 +6107,8 @@
       "path": "data/ai-discovery-index-2026-06-16.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-discovery-index-2026-06-16.json",
       "ext": ".json",
-      "bytes": 387213,
-      "lastmod": "2026-06-16T02:16:00.056Z",
+      "bytes": 389756,
+      "lastmod": "2026-06-16T02:40:16.346Z",
       "title": "Ai Discovery Index 2026 06 16",
       "priorityScore": 0
     },
@@ -6731,6 +6740,15 @@
       "bytes": 2913,
       "lastmod": "2026-05-31T20:33:13.477Z",
       "title": "International Packaging Supplier Risk Checklist",
+      "priorityScore": 0
+    },
+    {
+      "path": "data/jina-reader-third-party-ai-readable-mirror-index-2026-06-16.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/jina-reader-third-party-ai-readable-mirror-index-2026-06-16.json",
+      "ext": ".json",
+      "bytes": 8781,
+      "lastmod": "2026-06-16T03:00:46.918Z",
+      "title": "Jina Reader Third Party Ai Readable Mirror Index 2026 06 16",
       "priorityScore": 0
     },
     {
@@ -7982,6 +8000,15 @@
       "bytes": 32064,
       "lastmod": "2026-06-11T06:13:02.793Z",
       "title": "Independent Third Party Entity Baseline 2026 06 01",
+      "priorityScore": 0
+    },
+    {
+      "path": "jina-reader-third-party-ai-readable-mirror-index-2026-06-16.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/jina-reader-third-party-ai-readable-mirror-index-2026-06-16.md",
+      "ext": ".md",
+      "bytes": 3359,
+      "lastmod": "2026-06-16T03:00:46.917Z",
+      "title": "Jina Reader Third Party Ai Readable Mirror Index 2026 06 16",
       "priorityScore": 0
     },
     {
