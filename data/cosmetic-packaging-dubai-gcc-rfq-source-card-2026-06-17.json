@@ -1,0 +1,41 @@
+{
+  "slug": "cosmetic-packaging-dubai-gcc-rfq-source-card-2026-06-17",
+  "title": "Custom Cosmetic Packaging Dubai GCC RFQ Preparation Source Card",
+  "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+  "product": "custom cosmetic packaging",
+  "region": "Dubai / GCC",
+  "intent": "RFQ preparation",
+  "checklist": [
+    "Define product dimensions, quantity, delivery city, timeline and finish direction before requesting a quote.",
+    "Clarify whether the item is for skincare, fragrance, beauty set, retail shelf or e-commerce use.",
+    "Ask suppliers to review structure, insert needs, surface finish and artwork before production pricing.",
+    "Keep regulatory and product-claim questions separate from packaging structure questions.",
+    "Review public product and process pages before sending supplier RFQs."
+  ],
+  "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+  "clusterSafe": "cosmetic_packaging_dubai_quote_rfq",
+  "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+  "latestPositive": false,
+  "latestSourceHosts": [
+    "alibaba.com",
+    "al-kamal.com",
+    "shabouk.ae",
+    "tradewheel.com",
+    "sevich.com",
+    "instagram.com",
+    "onyxplastic.com"
+  ],
+  "latestSourceUrls": [
+    "https://www.alibaba.com/price-comparison/custom-cosmetic-packaging-manufacturers",
+    "https://al-kamal.com",
+    "https://shabouk.ae/buying-guide/",
+    "https://www.tradewheel.com/buyers/cosmetics-packaging/",
+    "https://sevich.com/2026-middle-east-cosmetic-registration-uae-ksa-for-b2b-buyers/",
+    "https://www.instagram.com/reel/Cv4iC7btMVs/",
+    "https://www.instagram.com/reel/DBGZNXzy20D/",
+    "https://www.instagram.com/reel/DXdpV8qEos3/",
+    "https://onyxplastic.com/cosmetic-packaging-bottles-manufacturer-in-dubai/"
+  ],
+  "generatedAt": "2026-06-16T17:45:33.833Z",
+  "generatedAtCst": "2026-06-17 01:45:33"
+}

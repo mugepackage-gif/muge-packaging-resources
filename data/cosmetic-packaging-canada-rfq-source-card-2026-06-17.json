@@ -1,0 +1,39 @@
+{
+  "slug": "cosmetic-packaging-canada-rfq-source-card-2026-06-17",
+  "title": "Custom Cosmetic Packaging Canada RFQ Preparation Source Card",
+  "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+  "product": "custom cosmetic packaging",
+  "region": "Canada",
+  "intent": "RFQ preparation",
+  "checklist": [
+    "Prepare jar, bottle, tube or set dimensions before sending an RFQ.",
+    "Share packaging type, box style, insert needs, finish direction and target quantity.",
+    "Clarify whether the packaging is for retail shelf, e-commerce shipping, gift set or promotional use.",
+    "Attach artwork, brand direction or sample references where available.",
+    "Ask for sample review and production confirmation steps before approval."
+  ],
+  "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+  "clusterSafe": "cosmetic_packaging_canada_quote_rfq",
+  "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+  "latestPositive": false,
+  "latestSourceHosts": [
+    "icustomboxes.ca",
+    "packagingtoronto.ca",
+    "custompackaginglane.ca",
+    "instagram.com",
+    "tradewheel.com",
+    "stocksmetic.com",
+    "thepackaging.ca"
+  ],
+  "latestSourceUrls": [
+    "https://www.icustomboxes.ca/cosmetic-boxes/",
+    "https://packagingtoronto.ca/cosmetic-boxes/",
+    "https://custompackaginglane.ca/cosmetic-boxes/",
+    "https://www.instagram.com/reel/DZC3MyKzT2r/",
+    "https://www.tradewheel.com/buyers/cosmetics-packaging/",
+    "https://www.stocksmetic.com/us/custom-cosmetic-packaging",
+    "https://thepackaging.ca/product/custom-luxury-cosmetic-packaging-boxes/"
+  ],
+  "generatedAt": "2026-06-16T17:45:33.833Z",
+  "generatedAtCst": "2026-06-17 01:45:33"
+}

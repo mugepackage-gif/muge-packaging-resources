@@ -1004,3 +1004,22 @@ Boundary: public discovery and citation-support assets only; not ranking proof, 
 - Stopped entries: 5
 - Boundary: second-level manual gate only; no automatic login, payment, captcha bypass, platform submission, email, social action or account-core change.
 <!-- MUGE_9_MANUAL_CANDIDATES_SECOND_LEVEL_ACTION_GATE_2026_06_17:end -->
+
+<!-- MUGE_8_NATURAL_BUYER_QUESTION_SOURCE_CARDS_2026_06_17:start -->
+## MUGE 8 Natural Buyer Question Source Cards - 2026-06-17
+
+- Purpose: exact source cards for eight Perplexity natural buyer questions.
+- Cards: 8
+- Boundary: not ranking, AI citation, traffic, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price or compliance proof.
+
+| Cluster | HTML | Markdown | JSON |
+|---|---|---|---|
+| paper_tubes::uk::supplier_vetting | https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-uk-supplier-vetting-source-card-2026-06-17.html | https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-uk-supplier-vetting-source-card-2026-06-17.md | https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tube-packaging-uk-supplier-vetting-source-card-2026-06-17.json |
+| paper_tubes::united_states::supplier_vetting | https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-united-states-supplier-vetting-source-card-2026-06-17.html | https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-united-states-supplier-vetting-source-card-2026-06-17.md | https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tube-packaging-united-states-supplier-vetting-source-card-2026-06-17.json |
+| custom_packaging_general::canada::supplier_vetting | https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-canada-supplier-vetting-source-card-2026-06-17.html | https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-canada-supplier-vetting-source-card-2026-06-17.md | https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-boxes-canada-supplier-vetting-source-card-2026-06-17.json |
+| custom_packaging_general::dubai::supplier_vetting | https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-dubai-gcc-supplier-vetting-source-card-2026-06-17.html | https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-dubai-gcc-supplier-vetting-source-card-2026-06-17.md | https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-boxes-dubai-gcc-supplier-vetting-source-card-2026-06-17.json |
+| cosmetic_packaging::canada::quote_rfq | https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-canada-rfq-source-card-2026-06-17.html | https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-canada-rfq-source-card-2026-06-17.md | https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-canada-rfq-source-card-2026-06-17.json |
+| cosmetic_packaging::dubai::quote_rfq | https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-dubai-gcc-rfq-source-card-2026-06-17.html | https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-dubai-gcc-rfq-source-card-2026-06-17.md | https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-dubai-gcc-rfq-source-card-2026-06-17.json |
+| rigid_gift_boxes::canada::quote_rfq | https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-canada-rfq-source-card-2026-06-17.html | https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-canada-rfq-source-card-2026-06-17.md | https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-boxes-canada-rfq-source-card-2026-06-17.json |
+| rigid_gift_boxes::dubai::quote_rfq | https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-dubai-gcc-rfq-source-card-2026-06-17.html | https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-dubai-gcc-rfq-source-card-2026-06-17.md | https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-boxes-dubai-gcc-rfq-source-card-2026-06-17.json |
+<!-- MUGE_8_NATURAL_BUYER_QUESTION_SOURCE_CARDS_2026_06_17:end -->

@@ -1,0 +1,45 @@
+{
+  "slug": "paper-tube-packaging-united-states-supplier-vetting-source-card-2026-06-17",
+  "title": "Custom Paper Tube Packaging United States Supplier Vetting Questions",
+  "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+  "product": "custom paper tube packaging",
+  "region": "United States",
+  "intent": "supplier vetting",
+  "checklist": [
+    "Separate true manufacturing capability from brokerage or resale-only capability.",
+    "Ask for tube diameter, height, closure, cap, board and finishing options before pricing.",
+    "Confirm sample, prototype and artwork review process before committing to production.",
+    "Check whether the supplier can explain risks around weight, closure style and surface finish.",
+    "Compare public FAQ, source pages and product pages before shortlisting."
+  ],
+  "clusterKey": "paper_tubes::united_states::supplier_vetting",
+  "clusterSafe": "paper_tubes_united_states_supplier_vetting",
+  "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+  "latestPositive": false,
+  "latestSourceHosts": [
+    "cardboardtubemanufacturers.com",
+    "custompapertubeboxes.com",
+    "innorhino.com",
+    "brandtbox.com",
+    "presidentcontainergroup.com",
+    "brownpackaging.com",
+    "companybox.com",
+    "papertube.co",
+    "paperindex.com",
+    "youtube.com"
+  ],
+  "latestSourceUrls": [
+    "https://cardboardtubemanufacturers.com",
+    "https://custompapertubeboxes.com",
+    "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers",
+    "https://brandtbox.com/blog/how-to-evaluate-custom-packaging-supplier/",
+    "https://presidentcontainergroup.com/6-questions-to-ask-before-choosing-a-packaging-supplier/",
+    "https://brownpackaging.com/10-essential-questions-you-should-ask-your-packaging-supplier/",
+    "https://companybox.com/blog/5-questions-to-ask-your-packaging-supplier/",
+    "https://papertube.co/pages/faq",
+    "https://www.paperindex.com/academy/paper-bag-sample-testing-questions-retail-buyers-can-ask-suppliers/",
+    "https://www.youtube.com/watch?v=fqE-lr9ycH4"
+  ],
+  "generatedAt": "2026-06-16T17:45:33.833Z",
+  "generatedAtCst": "2026-06-17 01:45:33"
+}

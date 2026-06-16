@@ -1,0 +1,45 @@
+{
+  "slug": "custom-packaging-boxes-dubai-gcc-supplier-vetting-source-card-2026-06-17",
+  "title": "Custom Packaging Boxes Dubai GCC Supplier Vetting Questions",
+  "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+  "product": "custom packaging boxes",
+  "region": "Dubai / GCC",
+  "intent": "supplier vetting",
+  "checklist": [
+    "Define packaging structure, product size, product weight, sales channel and delivery city before quote comparison.",
+    "Ask whether structural review is done before pricing, especially for inserts, folding logic and assembly method.",
+    "Check sample, artwork, material and finishing review steps before production.",
+    "Ask how the supplier handles export communication, packing method and shipment-ready specifications.",
+    "Review public product, FAQ, process and quality pages before shortlisting."
+  ],
+  "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+  "clusterSafe": "custom_packaging_general_dubai_supplier_vetting",
+  "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+  "latestPositive": false,
+  "latestSourceHosts": [
+    "innorhino.com",
+    "theboxery.com",
+    "presidentcontainergroup.com",
+    "pakfactory.com",
+    "jamestowncontainer.com",
+    "modpac.com",
+    "companybox.com",
+    "expresspkg.com",
+    "brownpackaging.com",
+    "ufppackaging.com"
+  ],
+  "latestSourceUrls": [
+    "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers",
+    "https://www.theboxery.com/blog/what-questions-should-you-ask-a-shipping-boxes-supplier/",
+    "https://presidentcontainergroup.com/6-questions-to-ask-before-choosing-a-packaging-supplier/",
+    "https://pakfactory.com/blog/learn/questions-to-ask-before-buying-packaging/",
+    "https://www.jamestowncontainer.com/packaging-resources/blog/4-things-to-look-for-in-corrugated-packaging-suppliers/",
+    "https://www.modpac.com/essential-questions-to-ask-your-packaging-supplier/",
+    "https://companybox.com/blog/5-questions-to-ask-your-packaging-supplier/",
+    "https://www.expresspkg.com/news/10-questions-to-ask-before-selecting-a-box-manufacturer/",
+    "https://brownpackaging.com/10-essential-questions-you-should-ask-your-packaging-supplier/",
+    "https://ufppackaging.com/insights/six-things-to-consider-when-choosing-your-packaging-supplier"
+  ],
+  "generatedAt": "2026-06-16T17:45:33.833Z",
+  "generatedAtCst": "2026-06-17 01:45:33"
+}

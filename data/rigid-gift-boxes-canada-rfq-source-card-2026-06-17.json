@@ -1,0 +1,41 @@
+{
+  "slug": "rigid-gift-boxes-canada-rfq-source-card-2026-06-17",
+  "title": "Custom Rigid Gift Boxes Canada RFQ Preparation Source Card",
+  "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+  "product": "custom rigid gift boxes",
+  "region": "Canada",
+  "intent": "RFQ preparation",
+  "checklist": [
+    "Prepare exact box dimensions, product weight and product fit requirements.",
+    "Define the structure: lift-off lid, magnetic closure, drawer, folding rigid box or set packaging.",
+    "Clarify insert/tray requirements, print direction, finish, logo placement and unboxing style.",
+    "Ask for mockup, sample or pre-production confirmation before full production.",
+    "Review public product pages and buyer-source pages before requesting a quote."
+  ],
+  "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+  "clusterSafe": "rigid_gift_boxes_canada_quote_rfq",
+  "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+  "latestPositive": false,
+  "latestSourceHosts": [
+    "urgentboxes.ca",
+    "customboxesmarket.ca",
+    "madovar.com",
+    "icustomboxes.com",
+    "instagram.com",
+    "thepackaging.ca",
+    "theboxes.ca",
+    "dyprintingbox.com"
+  ],
+  "latestSourceUrls": [
+    "https://urgentboxes.ca/product/rigid-boxes/",
+    "https://customboxesmarket.ca",
+    "https://www.madovar.com",
+    "https://www.icustomboxes.com",
+    "https://www.instagram.com/reel/DY03CCjTYtj/",
+    "https://thepackaging.ca/product/custom-rigid-gift-boxes/",
+    "https://theboxes.ca/product/rigid-gift-boxes/",
+    "https://dyprintingbox.com/rigid-gift-boxes/"
+  ],
+  "generatedAt": "2026-06-16T17:45:33.833Z",
+  "generatedAtCst": "2026-06-17 01:45:33"
+}

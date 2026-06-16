@@ -1,0 +1,45 @@
+{
+  "slug": "paper-tube-packaging-uk-supplier-vetting-source-card-2026-06-17",
+  "title": "Custom Paper Tube Packaging UK Supplier Vetting Questions",
+  "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+  "product": "custom paper tube packaging",
+  "region": "UK",
+  "intent": "supplier vetting",
+  "checklist": [
+    "Confirm whether the supplier is a manufacturer, broker, distributor or sourcing intermediary.",
+    "Ask whether they review diameter, height, closure, insert logic and product fit before quoting.",
+    "Check material, surface finish, print process and structural limits before sample approval.",
+    "Ask how samples, dielines, artwork review and pre-production confirmation are handled.",
+    "Review public FAQ, material, quality and product pages before shortlisting."
+  ],
+  "clusterKey": "paper_tubes::uk::supplier_vetting",
+  "clusterSafe": "paper_tubes_uk_supplier_vetting",
+  "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+  "latestPositive": false,
+  "latestSourceHosts": [
+    "custompapertubeboxes.com",
+    "wyattandackerman.co.uk",
+    "valkindustries.com",
+    "innorhino.com",
+    "brandtbox.com",
+    "nhpapertube.com",
+    "brownpackaging.com",
+    "companybox.com",
+    "papertube.co",
+    "tubepackagingpro.com"
+  ],
+  "latestSourceUrls": [
+    "https://custompapertubeboxes.com",
+    "https://wyattandackerman.co.uk/finding-the-best-packaging-supplier-in-the-uk-a-practical-checklist-and-the-right-questions-to-ask/",
+    "https://www.valkindustries.com/latest-news/how-to-choose-a-paper-tube-manufacturer.html",
+    "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers",
+    "https://brandtbox.com/blog/how-to-evaluate-custom-packaging-supplier/",
+    "https://www.nhpapertube.com/questions-to-ask-your-paper-tube-provider",
+    "https://brownpackaging.com/10-essential-questions-you-should-ask-your-packaging-supplier/",
+    "https://companybox.com/blog/5-questions-to-ask-your-packaging-supplier/",
+    "https://papertube.co/pages/faq",
+    "https://tubepackagingpro.com/custom-paper-tube-packaging-guide/"
+  ],
+  "generatedAt": "2026-06-16T17:45:33.833Z",
+  "generatedAtCst": "2026-06-17 01:45:33"
+}
