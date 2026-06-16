@@ -3,6 +3,8 @@
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/seo-geo-7-day-keyword-cluster-source-index-2026-06-16.html
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/seo-geo-7-day-keyword-cluster-source-index-2026-06-16.md
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/seo-geo-7-day-keyword-cluster-source-index-2026-06-16.json
+- Public Gist mirror: https://gist.github.com/mugepackage-gif/ac67cb72f43488b1e1f3739f0ccf37f4
+- GitHub Release: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.16-seo-geo-7-day-cluster-source-index
 - Scope: public source-path index connecting eight 7-day keyword sprint clusters to official MUGE PACKAGING pages and Source Packs.
 - Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
 <!-- MUGE_SEO_GEO_7_DAY_KEYWORD_CLUSTER_SOURCE_INDEX_2026_06_16:end -->
