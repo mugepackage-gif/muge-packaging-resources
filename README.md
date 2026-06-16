@@ -978,3 +978,16 @@ Boundary: public discovery and citation-support assets only; not ranking proof, 
 - Natural buyer Perplexity positive rows before this action: 0/8
 - Boundary: public research and manual action queue only; not ranking, AI citation, traffic, inquiry or endorsement proof.
 <!-- MUGE_8_CLUSTER_PERPLEXITY_CITED_SOURCE_OPPORTUNITY_PACK_2026_06_17:end -->
+
+<!-- MUGE_DIRECTORY_PLATFORM_MANUAL_GATE_PACK_2026_06_17:start -->
+## MUGE Directory / Platform Manual Gate Pack - 2026-06-17
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/muge-directory-platform-manual-gate-pack-2026-06-17.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/muge-directory-platform-manual-gate-pack-2026-06-17.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-directory-platform-manual-gate-pack-2026-06-17.json
+- Hosts checked: 29
+- Reachable: 28
+- Manual candidates: 9
+- Research-only or stopped: 25
+- Boundary: manual gate only; no automatic login, payment, captcha bypass, form submission, email, social interaction or account-core changes.
+<!-- MUGE_DIRECTORY_PLATFORM_MANUAL_GATE_PACK_2026_06_17:end -->

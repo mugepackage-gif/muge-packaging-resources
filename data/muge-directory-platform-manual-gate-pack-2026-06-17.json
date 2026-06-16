@@ -1,0 +1,994 @@
+{
+  "generatedAt": "2026-06-16T17:29:52.094Z",
+  "generatedAtCst": "2026-06-17 01:29:52",
+  "input": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/AI引用源机会分发包/20260617_0119_8簇Perplexity引用源机会与分发包.json",
+  "slug": "muge-directory-platform-manual-gate-pack-2026-06-17",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-directory-platform-manual-gate-pack-2026-06-17.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-directory-platform-manual-gate-pack-2026-06-17.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-directory-platform-manual-gate-pack-2026-06-17.json"
+  },
+  "summary": {
+    "reachable": 28,
+    "manualCandidate": 9,
+    "researchOnly": 19,
+    "stopped": 6
+  },
+  "hosts": [
+    {
+      "host": "al-kamal.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        "Cosmetic packaging"
+      ],
+      "regions": [
+        "dubai"
+      ],
+      "urls": [
+        "https://al-kamal.com"
+      ],
+      "primaryUrl": "https://al-kamal.com",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://al-kamal.com/",
+        "error": "",
+        "titlePreview": "Cosmetics Manufacturer in Dubai, UAE | Al Kamal Skip to content +971 56 144 4457 info@al-kamal.com Icon-facebook Icon-instagram-1 Icon-linkedin Home Our Brands Services Private Label Solutions Hair Care Products Shampoo "
+      },
+      "decision": "competitor_or_supplier_research_only",
+      "nextAction": "只拆解其页面结构和 AI 引用原因，不外联，不作为客户。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": true,
+        "hasCaptcha": false,
+        "hasPaid": true,
+        "hasForm": true,
+        "hasSubmitWords": false,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "alibaba.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        ""
+      ],
+      "regions": [
+        ""
+      ],
+      "urls": [
+        "https://www.alibaba.com/product-detail/Minimalist-Cosmetics-Paper-Tube-Packaging-for_1601761828816.html"
+      ],
+      "primaryUrl": "https://www.alibaba.com/product-detail/Minimalist-Cosmetics-Paper-Tube-Packaging-for_1601761828816.html",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://www.alibaba.com/product-detail/Minimalist-Cosmetics-Paper-Tube-Packaging-for_1601761828816.html",
+        "error": "",
+        "titlePreview": ""
+      },
+      "decision": "marketplace_manual_gate",
+      "nextAction": "人工检查是否有免费公司资料/目录入口；需要登录、付费、验证码则停止。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": false,
+        "hasCaptcha": false,
+        "hasPaid": false,
+        "hasForm": false,
+        "hasSubmitWords": false,
+        "hasContact": false
+      }
+    },
+    {
+      "host": "blog.marketmuse.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        ""
+      ],
+      "regions": [
+        ""
+      ],
+      "urls": [
+        "https://blog.marketmuse.com/keyword-research-guide/"
+      ],
+      "primaryUrl": "https://blog.marketmuse.com/keyword-research-guide/",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://blog.marketmuse.com/keyword-research-guide/",
+        "error": "",
+        "titlePreview": "Keyword Research Guide Skip to Content Open Menu Close Menu Product Why MarketMuse? Competitive Content Analysis Content Clusters Content Planning Content Brief Generator Optimize About Pricing Learn Blog Content Strateg"
+      },
+      "decision": "research_source_no_submission",
+      "nextAction": "作为关键词宇宙/SEO 方法论研究来源，不做 MUGE 提交。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": true,
+        "hasCaptcha": false,
+        "hasPaid": true,
+        "hasForm": true,
+        "hasSubmitWords": false,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "business.google.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        ""
+      ],
+      "regions": [
+        ""
+      ],
+      "urls": [
+        "https://business.google.com/en-all/ad-tools/keyword-planner/"
+      ],
+      "primaryUrl": "https://business.google.com/en-all/ad-tools/keyword-planner/",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://business.google.com/en-all/ad-tools/keyword-planner/",
+        "error": "",
+        "titlePreview": "Research Keywords for Campaigns with Keyword Planner – Google Ads Skip to content person Hi, Manage your Google account Show more accounts Hide more accounts add Add another account logout Sign out of all accounts add Ad"
+      },
+      "decision": "research_source_no_submission",
+      "nextAction": "作为关键词宇宙/SEO 方法论研究来源，不做 MUGE 提交。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": true,
+        "hasCaptcha": false,
+        "hasPaid": true,
+        "hasForm": false,
+        "hasSubmitWords": true,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "expresspkg.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        "Custom packaging boxes"
+      ],
+      "regions": [
+        "canada",
+        "dubai"
+      ],
+      "urls": [
+        "https://www.expresspkg.com/news/10-questions-to-ask-before-selecting-a-box-manufacturer/"
+      ],
+      "primaryUrl": "https://www.expresspkg.com/news/10-questions-to-ask-before-selecting-a-box-manufacturer/",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://www.expresspkg.com/news/10-questions-to-ask-before-selecting-a-box-manufacturer/",
+        "error": "",
+        "titlePreview": "10 Questions to Ask Before Selecting a Box Manufacturer &#8211; Express Packaging Skip to content Menu Facebook LinkedIn About History Sustainability News Careers Contact 912.653.2800 Custom Boxes Stock Boxes Cardboard B"
+      },
+      "decision": "competitor_or_supplier_research_only",
+      "nextAction": "只拆解其页面结构和 AI 引用原因，不外联，不作为客户。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": false,
+        "hasCaptcha": false,
+        "hasPaid": true,
+        "hasForm": true,
+        "hasSubmitWords": true,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "facebook.com",
+      "sourceType": "social_or_video_entry",
+      "products": [
+        "Rigid gift boxes"
+      ],
+      "regions": [
+        "canada"
+      ],
+      "urls": [
+        "https://www.facebook.com/groups/NextUpAsia/posts/10158344484216657/"
+      ],
+      "primaryUrl": "https://www.facebook.com/groups/NextUpAsia/posts/10158344484216657/",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://www.facebook.com/groups/NextUpAsia/posts/10158344484216657/",
+        "error": "",
+        "titlePreview": "Entrepreneurs and Startups in Malaysia | Hi! Recently saw a custom box/packaging company recently"
+      },
+      "decision": "social_profile_manual_only",
+      "nextAction": "只允许人工检查公开资料字段或人工发布，不自动私信、评论、关注。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": false,
+        "hasCaptcha": false,
+        "hasPaid": false,
+        "hasForm": false,
+        "hasSubmitWords": false,
+        "hasContact": false
+      }
+    },
+    {
+      "host": "github.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        ""
+      ],
+      "regions": [
+        ""
+      ],
+      "urls": [
+        "https://github.com/mugepackage-gif/muge-packaging-resources/issues/64"
+      ],
+      "primaryUrl": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/64",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/64",
+        "error": "",
+        "titlePreview": "Paper tube AI-cited source entry pack for MUGE PACKAGING · Issue #64 · mugepackage-gif/muge-packaging-resources · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREA"
+      },
+      "decision": "owned_public_asset_entry",
+      "nextAction": "可作为自有公开二跳入口继续提交发现和复验。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": true,
+        "hasCaptcha": false,
+        "hasPaid": true,
+        "hasForm": true,
+        "hasSubmitWords": true,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "growth-memo.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        ""
+      ],
+      "regions": [
+        ""
+      ],
+      "urls": [
+        "https://www.growth-memo.com/p/universe"
+      ],
+      "primaryUrl": "https://www.growth-memo.com/p/universe",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://www.growth-memo.com/p/universe",
+        "error": "",
+        "titlePreview": "The Keyword Universe, a better keyword research alternative Subscribe Sign in Keywords are dead. But the Keyword Universe Isn’t. A better alternative to keyword research (including tool) Kevin Indig and Amanda Johnson Ju"
+      },
+      "decision": "research_source_no_submission",
+      "nextAction": "作为关键词宇宙/SEO 方法论研究来源，不做 MUGE 提交。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": true,
+        "hasCaptcha": false,
+        "hasPaid": true,
+        "hasForm": false,
+        "hasSubmitWords": true,
+        "hasContact": false
+      }
+    },
+    {
+      "host": "habllen.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        "Cosmetic packaging",
+        "Rigid gift boxes"
+      ],
+      "regions": [
+        "dubai"
+      ],
+      "urls": [
+        "https://habllen.com"
+      ],
+      "primaryUrl": "https://habllen.com",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://habllen.com/",
+        "error": "",
+        "titlePreview": "Custom Packaging Manufacturer UAE | Habllen Habllen Products Rigid Boxes Gift Boxes Mailer Boxes Display Boxes Paper Bags Cotton Bags Plastic Bags Food Packaging Cosmetic Packaging Jewelry Packaging Industries Solutions "
+      },
+      "decision": "competitor_or_supplier_research_only",
+      "nextAction": "只拆解其页面结构和 AI 引用原因，不外联，不作为客户。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": false,
+        "hasCaptcha": false,
+        "hasPaid": true,
+        "hasForm": true,
+        "hasSubmitWords": false,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "innorhino.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        "Custom packaging boxes",
+        "Paper tube packaging"
+      ],
+      "regions": [
+        "canada",
+        "dubai",
+        "uk",
+        "united_states"
+      ],
+      "urls": [
+        "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers"
+      ],
+      "primaryUrl": "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers",
+        "error": "",
+        "titlePreview": "How to Evaluate a Custom Packaging Supplier B2B Checklist | INNORHINO Skip to content Solutions By Industry Cannabis Supplement Confectionery Perfume &#038; Fragrance Luxury &#038; Jewelry More Industries By Feature Chil"
+      },
+      "decision": "competitor_or_supplier_research_only",
+      "nextAction": "只拆解其页面结构和 AI 引用原因，不外联，不作为客户。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": true,
+        "hasCaptcha": true,
+        "hasPaid": true,
+        "hasForm": true,
+        "hasSubmitWords": true,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "instagram.com",
+      "sourceType": "social_or_video_entry",
+      "products": [
+        "Cosmetic packaging",
+        "Rigid gift boxes"
+      ],
+      "regions": [
+        "canada",
+        "dubai"
+      ],
+      "urls": [
+        "https://www.instagram.com/p/DRh4R_MjRHb/",
+        "https://www.instagram.com/reel/Cv4iC7btMVs/",
+        "https://www.instagram.com/reel/DBGZNXzy20D/",
+        "https://www.instagram.com/reel/DSt9QbiiHpo/",
+        "https://www.instagram.com/reel/DXdpV8qEos3/",
+        "https://www.instagram.com/reel/DYkWHeAAJ1j/",
+        "https://www.instagram.com/reel/DZC3MyKzT2r/",
+        "https://www.instagram.com/reel/DZYAmGIgRNs/"
+      ],
+      "primaryUrl": "https://www.instagram.com/p/DRh4R_MjRHb/",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://www.instagram.com/p/DRh4R_MjRHb/",
+        "error": "",
+        "titlePreview": "Instagram Instagram Log In Sign Up Close Never miss a post from customboxmakers Sign up for Instagram to stay in the loop. By continuing, you agree to Instagram&#x27;s Terms of Use and Privacy Policy . Sign up Log in cus"
+      },
+      "decision": "social_profile_manual_only",
+      "nextAction": "只允许人工检查公开资料字段或人工发布，不自动私信、评论、关注。",
+      "stopReason": "社媒入口通常需要登录，自动动作停止。",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": true,
+        "hasCaptcha": false,
+        "hasPaid": true,
+        "hasForm": false,
+        "hasSubmitWords": false,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "modpac.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        "Custom packaging boxes"
+      ],
+      "regions": [
+        "canada"
+      ],
+      "urls": [
+        "https://www.modpac.com/essential-questions-to-ask-your-packaging-supplier/"
+      ],
+      "primaryUrl": "https://www.modpac.com/essential-questions-to-ask-your-packaging-supplier/",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://www.modpac.com/essential-questions-to-ask-your-packaging-supplier/",
+        "error": "",
+        "titlePreview": "Essential Questions to Ask Your Packaging Supplier - MOD-PAC --> Skip to main content Call Us Today: 716-873-0640 Packaging Insights Contact Us Menu Packaging Folding Cartons Stock Packaging Industries Automotive/Industr"
+      },
+      "decision": "competitor_or_supplier_research_only",
+      "nextAction": "只拆解其页面结构和 AI 引用原因，不外联，不作为客户。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": false,
+        "hasCaptcha": false,
+        "hasPaid": true,
+        "hasForm": true,
+        "hasSubmitWords": true,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "orangepkg.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        "Paper tube packaging"
+      ],
+      "regions": [
+        "uk"
+      ],
+      "urls": [
+        "https://orangepkg.com/blog/questions-to-ask-packaging-manufacturers-during-the-evaluation-process/"
+      ],
+      "primaryUrl": "https://orangepkg.com/blog/questions-to-ask-packaging-manufacturers-during-the-evaluation-process/",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://orangepkg.com/blog/questions-to-ask-packaging-manufacturers-during-the-evaluation-process/",
+        "error": "",
+        "titlePreview": "Questions to Ask Packaging Manufacturers During the Evaluation Process - Orange Packaging - Thermoformed Packaging &amp; POP Display Manufacturer Let's start a new project together. Call now! (845) 742-9766 Follow Along:"
+      },
+      "decision": "competitor_or_supplier_research_only",
+      "nextAction": "只拆解其页面结构和 AI 引用原因，不外联，不作为客户。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": false,
+        "hasCaptcha": false,
+        "hasPaid": false,
+        "hasForm": true,
+        "hasSubmitWords": false,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "ospheremedia.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        "Cosmetic packaging"
+      ],
+      "regions": [
+        "dubai"
+      ],
+      "urls": [
+        "https://www.ospheremedia.com/service/cosmetics-packaging-design-service-in-dubai/"
+      ],
+      "primaryUrl": "https://www.ospheremedia.com/service/cosmetics-packaging-design-service-in-dubai/",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://www.ospheremedia.com/service/cosmetics-packaging-design-service-in-dubai/",
+        "error": "",
+        "titlePreview": "Cosmetics Packaging Design Service in Dubai | Packaging Design hello@ospheremedia.com Mon- Fri: 9:00 am - 06.00pm Dubai, UAE Appointment Home About Us Media Design Print Media Flyer Poster Brochure Booklet Pamphlet Compa"
+      },
+      "decision": "manual_stop_paid_signal",
+      "nextAction": "停止自动动作。",
+      "stopReason": "检测到付费信号。",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": true,
+        "hasCaptcha": false,
+        "hasPaid": true,
+        "hasForm": true,
+        "hasSubmitWords": true,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "paperindex.com",
+      "sourceType": "directory_or_marketplace_entry",
+      "products": [
+        "Paper tube packaging"
+      ],
+      "regions": [
+        "united_states"
+      ],
+      "urls": [
+        "https://www.paperindex.com/academy/paper-bag-sample-testing-questions-retail-buyers-can-ask-suppliers/"
+      ],
+      "primaryUrl": "https://www.paperindex.com/academy/paper-bag-sample-testing-questions-retail-buyers-can-ask-suppliers/",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://www.paperindex.com/academy/paper-bag-sample-testing-questions-retail-buyers-can-ask-suppliers/",
+        "error": "",
+        "titlePreview": "Paper Bag Sample Testing Questions Retail Buyers Can Ask Suppliers Contact Buyers Find Suppliers Request A Quote --> Email Address: info@industx.com Call Us + (1800) 456 7890 Sourcing &amp; Procurement Sourcing Strategie"
+      },
+      "decision": "competitor_or_supplier_research_only",
+      "nextAction": "只拆解其页面结构和 AI 引用原因，不外联，不作为客户。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": true,
+        "hasCaptcha": false,
+        "hasPaid": true,
+        "hasForm": true,
+        "hasSubmitWords": true,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "risdall.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        ""
+      ],
+      "regions": [
+        ""
+      ],
+      "urls": [
+        "https://www.risdall.com/thoughts/intro-to-the-keyword-universe/"
+      ],
+      "primaryUrl": "https://www.risdall.com/thoughts/intro-to-the-keyword-universe/",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://www.risdall.com/thoughts/intro-to-the-keyword-universe/",
+        "error": "",
+        "titlePreview": "An Introduction to the Keyword Universe - Risdall Services Our Work Thoughts About Us Search for: An Introduction to the Keyword Universe SEO written by: Erik Hinds The universe in which we draw our target terms is refer"
+      },
+      "decision": "research_source_no_submission",
+      "nextAction": "作为关键词宇宙/SEO 方法论研究来源，不做 MUGE 提交。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": false,
+        "hasCaptcha": false,
+        "hasPaid": false,
+        "hasForm": true,
+        "hasSubmitWords": false,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "saxifrage.xyz",
+      "sourceType": "unclear_research_first",
+      "products": [
+        ""
+      ],
+      "regions": [
+        ""
+      ],
+      "urls": [
+        "https://www.saxifrage.xyz/post/keyword-universe"
+      ],
+      "primaryUrl": "https://www.saxifrage.xyz/post/keyword-universe",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://www.saxifrage.xyz/post/keyword-universe",
+        "error": "",
+        "titlePreview": "Building Your Keyword Universe - Saxifrage Blog Projects About Contact Blog POSTS ASK RALLY Projects About Contact Blog Posts Growth Engineers Marketing Memetics Link Menu Close Building Your Keyword Universe September 6"
+      },
+      "decision": "research_source_no_submission",
+      "nextAction": "作为关键词宇宙/SEO 方法论研究来源，不做 MUGE 提交。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": true,
+        "hasCaptcha": false,
+        "hasPaid": false,
+        "hasForm": false,
+        "hasSubmitWords": true,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "seller.alibaba.com",
+      "sourceType": "directory_or_marketplace_entry",
+      "products": [
+        "Rigid gift boxes"
+      ],
+      "regions": [
+        "dubai"
+      ],
+      "urls": [
+        "https://seller.alibaba.com/blogs/2026/southeast-asia/packaging-printing/custom-gift-packaging-boxes-guide-alibaba-b2b"
+      ],
+      "primaryUrl": "https://seller.alibaba.com/blogs/2026/southeast-asia/packaging-printing/custom-gift-packaging-boxes-guide-alibaba-b2b",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://seller.alibaba.com/blogs/2026/southeast-asia/packaging-printing/custom-gift-packaging-boxes-guide-alibaba-b2b",
+        "error": "",
+        "titlePreview": "Custom Gift Packaging Boxes: Complete Configuration Guide for B2B Exporters - Alibaba.com Seller Blog Solutions Resources Pricing Get report for your industry EN Sign up/Sign in Start selling now Custom Gift Packaging Bo"
+      },
+      "decision": "marketplace_manual_gate",
+      "nextAction": "人工检查是否有免费公司资料/目录入口；需要登录、付费、验证码则停止。",
+      "stopReason": "检测到付费/广告/高级服务信号。",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": true,
+        "hasCaptcha": false,
+        "hasPaid": true,
+        "hasForm": false,
+        "hasSubmitWords": true,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "sevich.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        "Cosmetic packaging"
+      ],
+      "regions": [
+        "dubai"
+      ],
+      "urls": [
+        "https://sevich.com/2026-middle-east-cosmetic-registration-uae-ksa-for-b2b-buyers/"
+      ],
+      "primaryUrl": "https://sevich.com/2026-middle-east-cosmetic-registration-uae-ksa-for-b2b-buyers/",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://sevich.com/2026-middle-east-cosmetic-registration-uae-ksa-for-b2b-buyers/",
+        "error": "",
+        "titlePreview": "Middle East Cosmetic Registration (UAE &amp; KSA) for B2B Buyers Skip to content HOME ABOUT Brand Story Quality Assurance Green Beauty FAQ Catalog&#038;Trends Reports Trade Shows Why Choose Us Quick Samples Low MOQ Servi"
+      },
+      "decision": "manual_stop_paid_signal",
+      "nextAction": "停止自动动作。",
+      "stopReason": "检测到付费信号。",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": true,
+        "hasCaptcha": false,
+        "hasPaid": true,
+        "hasForm": true,
+        "hasSubmitWords": true,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "shabouk.ae",
+      "sourceType": "unclear_research_first",
+      "products": [
+        "Cosmetic packaging"
+      ],
+      "regions": [
+        "dubai"
+      ],
+      "urls": [
+        "https://shabouk.ae/buying-guide/"
+      ],
+      "primaryUrl": "https://shabouk.ae/buying-guide/",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://shabouk.ae/buying-guide/",
+        "error": "",
+        "titlePreview": "Luxury Packaging Buying Guide in UAE &amp; GCC | Shabouk Skip to content Home About Packaging Solutions Luxury Rigid Boxes Luxury Paper Bags Inserts &amp; Accessories Materials &amp; Finishes Industries Portfolio Buying "
+      },
+      "decision": "competitor_or_supplier_research_only",
+      "nextAction": "只拆解其页面结构和 AI 引用原因，不外联，不作为客户。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": false,
+        "hasCaptcha": false,
+        "hasPaid": true,
+        "hasForm": false,
+        "hasSubmitWords": false,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "siteground.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        ""
+      ],
+      "regions": [
+        ""
+      ],
+      "urls": [
+        "https://www.siteground.com/academy/keyword-research-tips/"
+      ],
+      "primaryUrl": "https://www.siteground.com/academy/keyword-research-tips/",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://www.siteground.com/academy/keyword-research-tips/",
+        "error": "",
+        "titlePreview": "Keyword Research Tips - How to build a Keyword Universe through data, analytics and research Keyword Research Tips - How to build a Keyword Universe through data, analytics and research Mobile nav button Home Web Hosting"
+      },
+      "decision": "research_source_no_submission",
+      "nextAction": "作为关键词宇宙/SEO 方法论研究来源，不做 MUGE 提交。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": true,
+        "hasCaptcha": true,
+        "hasPaid": true,
+        "hasForm": true,
+        "hasSubmitWords": false,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "smartinsights.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        ""
+      ],
+      "regions": [
+        ""
+      ],
+      "urls": [
+        "https://www.smartinsights.com/search-engine-marketing/keyphrase-analysis/using-the-google-toolkit-to-identify-good-performing-keywords-and-execute-keyword-research/"
+      ],
+      "primaryUrl": "https://www.smartinsights.com/search-engine-marketing/keyphrase-analysis/using-the-google-toolkit-to-identify-good-performing-keywords-and-execute-keyword-research/",
+      "live": {
+        "status": 403,
+        "ok": false,
+        "finalUrl": "https://www.smartinsights.com/search-engine-marketing/keyphrase-analysis/using-the-google-toolkit-to-identify-good-performing-keywords-and-execute-keyword-research/",
+        "error": "",
+        "titlePreview": "Attention Required! | Cloudflare Please enable cookies. Sorry, you have been blocked You are unable to access smartinsights.com Why have I been blocked? This website is using a security service to protect itself from onl"
+      },
+      "decision": "unreachable_or_blocked",
+      "nextAction": "暂不提交，等待下一轮复查。",
+      "stopReason": "HTTP 403",
+      "signals": {
+        "httpOk": false,
+        "hasLogin": false,
+        "hasCaptcha": false,
+        "hasPaid": false,
+        "hasForm": false,
+        "hasSubmitWords": true,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "stocksmetic.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        "Cosmetic packaging"
+      ],
+      "regions": [
+        "canada"
+      ],
+      "urls": [
+        "https://www.stocksmetic.com/us/custom-cosmetic-packaging"
+      ],
+      "primaryUrl": "https://www.stocksmetic.com/us/custom-cosmetic-packaging",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://www.stocksmetic.com/us/custom-cosmetic-packaging",
+        "error": "",
+        "titlePreview": "Custom Cosmetic Packaging The store will not work correctly when cookies are disabled. JavaScript seems to be disabled in your browser. For the best experience on our site, be sure to turn on Javascript in your browser. "
+      },
+      "decision": "competitor_or_supplier_research_only",
+      "nextAction": "只拆解其页面结构和 AI 引用原因，不外联，不作为客户。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": true,
+        "hasCaptcha": false,
+        "hasPaid": true,
+        "hasForm": true,
+        "hasSubmitWords": false,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "therpsllc.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        "Rigid gift boxes"
+      ],
+      "regions": [
+        "dubai"
+      ],
+      "urls": [
+        "https://therpsllc.com/product/rigid-boxes-printing-supplier-dubai/"
+      ],
+      "primaryUrl": "https://therpsllc.com/product/rigid-boxes-printing-supplier-dubai/",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://therpsllc.com/product/rigid-boxes-printing-supplier-dubai/",
+        "error": "",
+        "titlePreview": "Custom Rigid Boxes Printing Dubai | Premium Gift Boxes Skip to content Products search Quote on WhatsApp Offset &amp; Digital Printing Stationary &amp; Corporate Identity Business Card Letter Head Envelopes Folders Certi"
+      },
+      "decision": "competitor_or_supplier_research_only",
+      "nextAction": "只拆解其页面结构和 AI 引用原因，不外联，不作为客户。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": false,
+        "hasCaptcha": false,
+        "hasPaid": true,
+        "hasForm": true,
+        "hasSubmitWords": false,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "tradewheel.com",
+      "sourceType": "directory_or_marketplace_entry",
+      "products": [
+        "Cosmetic packaging"
+      ],
+      "regions": [
+        "canada"
+      ],
+      "urls": [
+        "https://www.tradewheel.com/buyers/cosmetics-packaging/"
+      ],
+      "primaryUrl": "https://www.tradewheel.com/buyers/cosmetics-packaging/",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://www.tradewheel.com/buyers/cosmetics-packaging/",
+        "error": "",
+        "titlePreview": "Cosmetics Packaging Buyers | Buy Requests from Cosmetics Packaging Importers & Wholesalers | Tradewheel --> --> --> --> --> Please wait while your account is being registered at Tradewheel.com Join World's Fastest Growin"
+      },
+      "decision": "marketplace_manual_gate",
+      "nextAction": "人工检查是否有免费公司资料/目录入口；需要登录、付费、验证码则停止。",
+      "stopReason": "检测到付费/广告/高级服务信号。",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": true,
+        "hasCaptcha": false,
+        "hasPaid": true,
+        "hasForm": true,
+        "hasSubmitWords": true,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "veesham.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        "Rigid gift boxes"
+      ],
+      "regions": [
+        "dubai"
+      ],
+      "urls": [
+        "https://veesham.com/rigid-box-printing-in-dubai/"
+      ],
+      "primaryUrl": "https://veesham.com/rigid-box-printing-in-dubai/",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://veesham.com/rigid-box-printing-in-dubai/",
+        "error": "",
+        "titlePreview": "Rigid Box Printing in Dubai | Premium Custom Packaging Skip to content #1 Printing Press in Dubai &#8211; Veesham Printing Press Call Toll free 800 VEESHAM (833 7426) Get A free Quote Home About Us Our Profile What We Do"
+      },
+      "decision": "competitor_or_supplier_research_only",
+      "nextAction": "只拆解其页面结构和 AI 引用原因，不外联，不作为客户。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": false,
+        "hasCaptcha": false,
+        "hasPaid": true,
+        "hasForm": true,
+        "hasSubmitWords": true,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "xactz.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        "Custom packaging boxes"
+      ],
+      "regions": [
+        "dubai"
+      ],
+      "urls": [
+        "https://xactz.com/blogs/news/how-to-choose-a-packaging-supplier-10-questions-to-ask"
+      ],
+      "primaryUrl": "https://xactz.com/blogs/news/how-to-choose-a-packaging-supplier-10-questions-to-ask",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://xactz.com/blogs/news/how-to-choose-a-packaging-supplier-10-questions-to-ask",
+        "error": "",
+        "titlePreview": "How to Choose a Packaging Supplier, 10 Questions to Ask | 𝑿𝑨𝑪𝑻𝒁 Skip to Main Content Please enable JavaScript in your browser for better use of the website! Use less text on mobile! EXACTLY WHAT YOU NEED EVERYTHING "
+      },
+      "decision": "competitor_or_supplier_research_only",
+      "nextAction": "只拆解其页面结构和 AI 引用原因，不外联，不作为客户。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": true,
+        "hasCaptcha": false,
+        "hasPaid": true,
+        "hasForm": true,
+        "hasSubmitWords": true,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "yazoomills.com",
+      "sourceType": "unclear_research_first",
+      "products": [
+        ""
+      ],
+      "regions": [
+        ""
+      ],
+      "urls": [
+        "https://www.yazoomills.com/paper-tubes/"
+      ],
+      "primaryUrl": "https://www.yazoomills.com/paper-tubes/",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://www.yazoomills.com/paper-tubes/",
+        "error": "",
+        "titlePreview": "Paper Tubes - Yazoo Mills Inc. Skip to content Search... Account Career Opportunities Request a Quote Contact Us Paper Tubes Mega Ready to Ship Tubes Heavy-Duty Mailing Tubes Adjustable Shipping Tubes Multi-Pak Assorted "
+      },
+      "decision": "competitor_or_supplier_research_only",
+      "nextAction": "只拆解其页面结构和 AI 引用原因，不外联，不作为客户。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": true,
+        "hasCaptcha": false,
+        "hasPaid": true,
+        "hasForm": true,
+        "hasSubmitWords": false,
+        "hasContact": true
+      }
+    },
+    {
+      "host": "youtube.com",
+      "sourceType": "social_or_video_entry",
+      "products": [
+        "",
+        "Paper tube packaging"
+      ],
+      "regions": [
+        "",
+        "united_states"
+      ],
+      "urls": [
+        "https://www.youtube.com/watch?v=fqE-lr9ycH4",
+        "https://www.youtube.com/watch?v=umtYijjBj00"
+      ],
+      "primaryUrl": "https://www.youtube.com/watch?v=fqE-lr9ycH4",
+      "live": {
+        "status": 200,
+        "ok": true,
+        "finalUrl": "https://www.youtube.com/watch?v=fqE-lr9ycH4",
+        "error": "",
+        "titlePreview": "Streamline Your Packaging Procurement Process - YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy &amp; Safety How YouTube works Test new features &copy; 2026 Google LLC"
+      },
+      "decision": "social_profile_manual_only",
+      "nextAction": "只允许人工检查公开资料字段或人工发布，不自动私信、评论、关注。",
+      "stopReason": "",
+      "signals": {
+        "httpOk": true,
+        "hasLogin": false,
+        "hasCaptcha": false,
+        "hasPaid": false,
+        "hasForm": false,
+        "hasSubmitWords": false,
+        "hasContact": true
+      }
+    }
+  ]
+}
