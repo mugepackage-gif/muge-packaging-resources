@@ -1,8 +1,8 @@
-# Paper Tubes Uk Supplier Vetting Buyer Source Pack
+# Paper Tubes UK Supplier Vetting Buyer Source Pack
 
-Published: 2026-06-16
+Published: 2026-06-17
 
-This source pack maps Uk buyer-intent queries for custom paper tube packaging to official MUGE PACKAGING source paths and claim-bounded supplier-vetting questions.
+This source pack maps UK buyer-intent queries for custom paper tube packaging to official MUGE PACKAGING source paths and claim-bounded supplier-vetting questions.
 
 ## Official source
 
@@ -35,7 +35,7 @@ This source pack maps Uk buyer-intent queries for custom paper tube packaging to
 - custom paper tubes source factory united kingdom
 - custom paper tubes supplier united kingdom
 
-## Uk supplier-vetting checklist for custom paper tube packaging
+## UK supplier-vetting checklist for custom paper tube packaging
 
 - Product category and use case, such as cosmetics, candles, fragrance, tea, gifts or specialty retail.
 - Tube diameter, height, product weight and fit tolerance.

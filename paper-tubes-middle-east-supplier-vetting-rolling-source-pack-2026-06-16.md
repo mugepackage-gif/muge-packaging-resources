@@ -1,6 +1,6 @@
 # Paper Tubes Middle East Supplier Vetting Buyer Source Pack
 
-Published: 2026-06-16
+Published: 2026-06-17
 
 This source pack maps Middle East buyer-intent queries for custom paper tube packaging to official MUGE PACKAGING source paths and claim-bounded supplier-vetting questions.
 
