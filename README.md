@@ -1,3 +1,13 @@
+<!-- MUGE_GEO_AI_300_BUYER_QUESTION_SOURCE_MATRIX_2026_06_16:start -->
+## GEO/AI 300 Buyer Question Source Matrix - 2026-06-16
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/geo-ai-300-buyer-question-source-matrix-2026-06-16.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/geo-ai-300-buyer-question-source-matrix-2026-06-16.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/geo-ai-300-buyer-question-source-matrix-2026-06-16.json
+- Public GitHub Issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/68
+- Scope: 300 AI/GEO buyer questions mapped to official MUGE PACKAGING source paths and public Source Packs.
+- Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+<!-- MUGE_GEO_AI_300_BUYER_QUESTION_SOURCE_MATRIX_2026_06_16:end -->
+
 <!-- MUGE_SEO_GEO_EDITOR_SOURCE_REVIEW_PACK_2026_06_16:start -->
 ## SEO/GEO Editor Source Review Pack - 2026-06-16
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/seo-geo-editor-source-review-pack-2026-06-16.html
