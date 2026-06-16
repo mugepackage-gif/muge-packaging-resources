@@ -1,0 +1,857 @@
+{
+  "generatedAt": "2026-06-16T18:41:52.020Z",
+  "generatedAtCst": "2026-06-17 02:41:52",
+  "sourceFile": "/Users/molice/muge-packaging-resources/data/ai-cited-source-adjacency-response-pack-2026-06-17.json",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-editorial-source-opportunity-gate-pack-2026-06-17.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-editorial-source-opportunity-gate-pack-2026-06-17.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-editorial-source-opportunity-gate-pack-2026-06-17.json"
+  },
+  "hosts": [
+    {
+      "host": "brandtbox.com",
+      "observedCount": 4,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting",
+        "paper_tubes::uk::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "observedUrls": [
+        "https://brandtbox.com/blog/how-to-evaluate-custom-packaging-supplier/"
+      ],
+      "classification": {
+        "gate": "observe_only_no_safe_submission_path",
+        "priority": "P2-observe",
+        "reason": "未发现安全投稿/目录/联系路径；暂作结构研究和观察。"
+      },
+      "reachableCount": 0,
+      "reachableUrls": [],
+      "failedCount": 8,
+      "manualRequest": "Manual-gated request only: ask whether brandtbox.com accepts neutral source suggestions for packaging buyer checklist content related to custom_packaging_general::canada::supplier_vetting, custom_packaging_general::dubai::supplier_vetting, paper_tubes::uk::supplier_vetting, paper_tubes::united_states::supplier_vetting. Suggested source: MUGE PACKAGING official page and P0 buyer checklist. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or compliance guarantee. Stop if login, captcha, payment, sponsored placement or verified-supplier wording appears."
+    },
+    {
+      "host": "companybox.com",
+      "observedCount": 4,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting",
+        "paper_tubes::uk::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "observedUrls": [
+        "https://companybox.com/blog/5-questions-to-ask-your-packaging-supplier/"
+      ],
+      "classification": {
+        "gate": "research_only_competitor_or_supplier",
+        "priority": "P0-structure",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。"
+      },
+      "reachableCount": 5,
+      "reachableUrls": [
+        {
+          "url": "https://companybox.com/blog/5-questions-to-ask-your-packaging-supplier/",
+          "status": 200,
+          "finalUrl": "https://companybox.com/blog/5-questions-to-ask-your-packaging-supplier/"
+        },
+        {
+          "url": "https://companybox.com",
+          "status": 200,
+          "finalUrl": "https://companybox.com/"
+        },
+        {
+          "url": "https://companybox.com/contact",
+          "status": 200,
+          "finalUrl": "https://companybox.com/who-we-are/contact-companybox/"
+        },
+        {
+          "url": "https://companybox.com/about",
+          "status": 200,
+          "finalUrl": "https://companybox.com/who-we-are/"
+        },
+        {
+          "url": "https://companybox.com/blog",
+          "status": 200,
+          "finalUrl": "https://companybox.com/blog/"
+        }
+      ],
+      "failedCount": 3,
+      "manualRequest": "Manual-gated request only: ask whether companybox.com accepts neutral source suggestions for packaging buyer checklist content related to custom_packaging_general::canada::supplier_vetting, custom_packaging_general::dubai::supplier_vetting, paper_tubes::uk::supplier_vetting, paper_tubes::united_states::supplier_vetting. Suggested source: MUGE PACKAGING official page and P0 buyer checklist. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or compliance guarantee. Stop if login, captcha, payment, sponsored placement or verified-supplier wording appears."
+    },
+    {
+      "host": "innorhino.com",
+      "observedCount": 4,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting",
+        "paper_tubes::uk::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "observedUrls": [
+        "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers"
+      ],
+      "classification": {
+        "gate": "research_only_competitor_or_supplier",
+        "priority": "P0-structure",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。"
+      },
+      "reachableCount": 5,
+      "reachableUrls": [
+        {
+          "url": "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers",
+          "status": 200,
+          "finalUrl": "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers"
+        },
+        {
+          "url": "https://innorhino.com",
+          "status": 200,
+          "finalUrl": "https://innorhino.com/"
+        },
+        {
+          "url": "https://innorhino.com/contact",
+          "status": 200,
+          "finalUrl": "https://innorhino.com/contact"
+        },
+        {
+          "url": "https://innorhino.com/about",
+          "status": 200,
+          "finalUrl": "https://innorhino.com/about"
+        },
+        {
+          "url": "https://innorhino.com/blog",
+          "status": 200,
+          "finalUrl": "https://innorhino.com/blog"
+        }
+      ],
+      "failedCount": 3,
+      "manualRequest": "Manual-gated request only: ask whether innorhino.com accepts neutral source suggestions for packaging buyer checklist content related to custom_packaging_general::canada::supplier_vetting, custom_packaging_general::dubai::supplier_vetting, paper_tubes::uk::supplier_vetting, paper_tubes::united_states::supplier_vetting. Suggested source: MUGE PACKAGING official page and P0 buyer checklist. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or compliance guarantee. Stop if login, captcha, payment, sponsored placement or verified-supplier wording appears."
+    },
+    {
+      "host": "brownpackaging.com",
+      "observedCount": 3,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "paper_tubes::uk::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "observedUrls": [
+        "https://brownpackaging.com/10-essential-questions-you-should-ask-your-packaging-supplier/"
+      ],
+      "classification": {
+        "gate": "research_only_competitor_or_supplier",
+        "priority": "P0-structure",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。"
+      },
+      "reachableCount": 5,
+      "reachableUrls": [
+        {
+          "url": "https://brownpackaging.com/10-essential-questions-you-should-ask-your-packaging-supplier/",
+          "status": 200,
+          "finalUrl": "https://brownpackaging.com/10-essential-questions-you-should-ask-your-packaging-supplier/"
+        },
+        {
+          "url": "https://brownpackaging.com",
+          "status": 200,
+          "finalUrl": "https://brownpackaging.com/"
+        },
+        {
+          "url": "https://brownpackaging.com/contact",
+          "status": 200,
+          "finalUrl": "https://brownpackaging.com/contact-us-2/"
+        },
+        {
+          "url": "https://brownpackaging.com/contact-us",
+          "status": 200,
+          "finalUrl": "https://brownpackaging.com/contact-us-2/"
+        },
+        {
+          "url": "https://brownpackaging.com/blog",
+          "status": 200,
+          "finalUrl": "https://brownpackaging.com/blog/"
+        }
+      ],
+      "failedCount": 3,
+      "manualRequest": "Manual-gated request only: ask whether brownpackaging.com accepts neutral source suggestions for packaging buyer checklist content related to custom_packaging_general::canada::supplier_vetting, paper_tubes::uk::supplier_vetting, paper_tubes::united_states::supplier_vetting. Suggested source: MUGE PACKAGING official page and P0 buyer checklist. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or compliance guarantee. Stop if login, captcha, payment, sponsored placement or verified-supplier wording appears."
+    },
+    {
+      "host": "presidentcontainergroup.com",
+      "observedCount": 3,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "observedUrls": [
+        "https://presidentcontainergroup.com/6-questions-to-ask-before-choosing-a-packaging-supplier/"
+      ],
+      "classification": {
+        "gate": "research_only_competitor_or_supplier",
+        "priority": "P0-structure",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。"
+      },
+      "reachableCount": 6,
+      "reachableUrls": [
+        {
+          "url": "https://presidentcontainergroup.com/6-questions-to-ask-before-choosing-a-packaging-supplier/",
+          "status": 200,
+          "finalUrl": "https://presidentcontainergroup.com/6-questions-to-ask-before-choosing-a-packaging-supplier/"
+        },
+        {
+          "url": "https://presidentcontainergroup.com",
+          "status": 200,
+          "finalUrl": "https://presidentcontainergroup.com/"
+        },
+        {
+          "url": "https://presidentcontainergroup.com/contact",
+          "status": 200,
+          "finalUrl": "https://presidentcontainergroup.com/contact-form/"
+        },
+        {
+          "url": "https://presidentcontainergroup.com/contact-us",
+          "status": 200,
+          "finalUrl": "https://presidentcontainergroup.com/contact-us/"
+        },
+        {
+          "url": "https://presidentcontainergroup.com/about",
+          "status": 200,
+          "finalUrl": "https://presidentcontainergroup.com/about-us/"
+        },
+        {
+          "url": "https://presidentcontainergroup.com/blog",
+          "status": 200,
+          "finalUrl": "https://presidentcontainergroup.com/blog/"
+        }
+      ],
+      "failedCount": 2,
+      "manualRequest": "Manual-gated request only: ask whether presidentcontainergroup.com accepts neutral source suggestions for packaging buyer checklist content related to custom_packaging_general::canada::supplier_vetting, custom_packaging_general::dubai::supplier_vetting, paper_tubes::united_states::supplier_vetting. Suggested source: MUGE PACKAGING official page and P0 buyer checklist. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or compliance guarantee. Stop if login, captcha, payment, sponsored placement or verified-supplier wording appears."
+    },
+    {
+      "host": "expresspkg.com",
+      "observedCount": 2,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting"
+      ],
+      "observedUrls": [
+        "https://www.expresspkg.com/news/10-questions-to-ask-before-selecting-a-box-manufacturer/"
+      ],
+      "classification": {
+        "gate": "research_only_competitor_or_supplier",
+        "priority": "P0-structure",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。"
+      },
+      "reachableCount": 6,
+      "reachableUrls": [
+        {
+          "url": "https://www.expresspkg.com/news/10-questions-to-ask-before-selecting-a-box-manufacturer/",
+          "status": 200,
+          "finalUrl": "https://www.expresspkg.com/news/10-questions-to-ask-before-selecting-a-box-manufacturer/"
+        },
+        {
+          "url": "https://expresspkg.com",
+          "status": 200,
+          "finalUrl": "https://www.expresspkg.com/"
+        },
+        {
+          "url": "https://expresspkg.com/contact",
+          "status": 200,
+          "finalUrl": "https://www.expresspkg.com/contact-us/"
+        },
+        {
+          "url": "https://expresspkg.com/contact-us",
+          "status": 200,
+          "finalUrl": "https://www.expresspkg.com/contact-us/"
+        },
+        {
+          "url": "https://expresspkg.com/about",
+          "status": 200,
+          "finalUrl": "https://www.expresspkg.com/about/"
+        },
+        {
+          "url": "https://expresspkg.com/blog",
+          "status": 200,
+          "finalUrl": "https://www.expresspkg.com/news/"
+        }
+      ],
+      "failedCount": 2,
+      "manualRequest": "Manual-gated request only: ask whether expresspkg.com accepts neutral source suggestions for packaging buyer checklist content related to custom_packaging_general::canada::supplier_vetting, custom_packaging_general::dubai::supplier_vetting. Suggested source: MUGE PACKAGING official page and P0 buyer checklist. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or compliance guarantee. Stop if login, captcha, payment, sponsored placement or verified-supplier wording appears."
+    },
+    {
+      "host": "jamestowncontainer.com",
+      "observedCount": 2,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting"
+      ],
+      "observedUrls": [
+        "https://www.jamestowncontainer.com/packaging-resources/blog/4-things-to-look-for-in-corrugated-packaging-suppliers/"
+      ],
+      "classification": {
+        "gate": "research_only_competitor_or_supplier",
+        "priority": "P0-structure",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。"
+      },
+      "reachableCount": 8,
+      "reachableUrls": [
+        {
+          "url": "https://www.jamestowncontainer.com/packaging-resources/blog/4-things-to-look-for-in-corrugated-packaging-suppliers/",
+          "status": 200,
+          "finalUrl": "https://www.jamestowncontainer.com/packaging-resources/blog/4-things-to-look-for-in-corrugated-packaging-suppliers/"
+        },
+        {
+          "url": "https://jamestowncontainer.com",
+          "status": 200,
+          "finalUrl": "https://www.jamestowncontainer.com/"
+        },
+        {
+          "url": "https://jamestowncontainer.com/contact",
+          "status": 200,
+          "finalUrl": "https://www.jamestowncontainer.com/contact/"
+        },
+        {
+          "url": "https://jamestowncontainer.com/contact-us",
+          "status": 200,
+          "finalUrl": "https://www.jamestowncontainer.com/"
+        },
+        {
+          "url": "https://jamestowncontainer.com/about",
+          "status": 200,
+          "finalUrl": "https://www.jamestowncontainer.com/about/"
+        },
+        {
+          "url": "https://jamestowncontainer.com/write-for-us",
+          "status": 200,
+          "finalUrl": "https://www.jamestowncontainer.com/"
+        },
+        {
+          "url": "https://jamestowncontainer.com/submit",
+          "status": 200,
+          "finalUrl": "https://www.jamestowncontainer.com/"
+        },
+        {
+          "url": "https://jamestowncontainer.com/blog",
+          "status": 200,
+          "finalUrl": "https://www.jamestowncontainer.com/"
+        }
+      ],
+      "failedCount": 0,
+      "manualRequest": "Manual-gated request only: ask whether jamestowncontainer.com accepts neutral source suggestions for packaging buyer checklist content related to custom_packaging_general::canada::supplier_vetting, custom_packaging_general::dubai::supplier_vetting. Suggested source: MUGE PACKAGING official page and P0 buyer checklist. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or compliance guarantee. Stop if login, captcha, payment, sponsored placement or verified-supplier wording appears."
+    },
+    {
+      "host": "modpac.com",
+      "observedCount": 2,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting"
+      ],
+      "observedUrls": [
+        "https://www.modpac.com/essential-questions-to-ask-your-packaging-supplier/"
+      ],
+      "classification": {
+        "gate": "research_only_competitor_or_supplier",
+        "priority": "P0-structure",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。"
+      },
+      "reachableCount": 6,
+      "reachableUrls": [
+        {
+          "url": "https://www.modpac.com/essential-questions-to-ask-your-packaging-supplier/",
+          "status": 200,
+          "finalUrl": "https://www.modpac.com/essential-questions-to-ask-your-packaging-supplier/"
+        },
+        {
+          "url": "https://modpac.com",
+          "status": 200,
+          "finalUrl": "https://www.modpac.com/"
+        },
+        {
+          "url": "https://modpac.com/contact",
+          "status": 200,
+          "finalUrl": "https://www.modpac.com/contact-us/"
+        },
+        {
+          "url": "https://modpac.com/contact-us",
+          "status": 200,
+          "finalUrl": "https://www.modpac.com/contact-us/"
+        },
+        {
+          "url": "https://modpac.com/about",
+          "status": 200,
+          "finalUrl": "https://www.modpac.com/about/"
+        },
+        {
+          "url": "https://modpac.com/blog",
+          "status": 200,
+          "finalUrl": "https://www.modpac.com/blog/"
+        }
+      ],
+      "failedCount": 2,
+      "manualRequest": "Manual-gated request only: ask whether modpac.com accepts neutral source suggestions for packaging buyer checklist content related to custom_packaging_general::canada::supplier_vetting, custom_packaging_general::dubai::supplier_vetting. Suggested source: MUGE PACKAGING official page and P0 buyer checklist. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or compliance guarantee. Stop if login, captcha, payment, sponsored placement or verified-supplier wording appears."
+    },
+    {
+      "host": "papertube.co",
+      "observedCount": 2,
+      "clusters": [
+        "paper_tubes::uk::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "observedUrls": [
+        "https://papertube.co/pages/faq"
+      ],
+      "classification": {
+        "gate": "observe_only_no_safe_submission_path",
+        "priority": "P2-observe",
+        "reason": "未发现安全投稿/目录/联系路径；暂作结构研究和观察。"
+      },
+      "reachableCount": 0,
+      "reachableUrls": [],
+      "failedCount": 8,
+      "manualRequest": "Manual-gated request only: ask whether papertube.co accepts neutral source suggestions for packaging buyer checklist content related to paper_tubes::uk::supplier_vetting, paper_tubes::united_states::supplier_vetting. Suggested source: MUGE PACKAGING official page and P0 buyer checklist. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or compliance guarantee. Stop if login, captcha, payment, sponsored placement or verified-supplier wording appears."
+    },
+    {
+      "host": "theboxery.com",
+      "observedCount": 2,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting"
+      ],
+      "observedUrls": [
+        "https://www.theboxery.com/blog/what-questions-should-you-ask-a-shipping-boxes-supplier/"
+      ],
+      "classification": {
+        "gate": "research_only_competitor_or_supplier",
+        "priority": "P0-structure",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。"
+      },
+      "reachableCount": 3,
+      "reachableUrls": [
+        {
+          "url": "https://www.theboxery.com/blog/what-questions-should-you-ask-a-shipping-boxes-supplier/",
+          "status": 200,
+          "finalUrl": "https://www.theboxery.com/blog/what-questions-should-you-ask-a-shipping-boxes-supplier/"
+        },
+        {
+          "url": "https://theboxery.com",
+          "status": 200,
+          "finalUrl": "https://www.theboxery.com/"
+        },
+        {
+          "url": "https://theboxery.com/blog",
+          "status": 200,
+          "finalUrl": "https://www.theboxery.com/blog/"
+        }
+      ],
+      "failedCount": 5,
+      "manualRequest": "Manual-gated request only: ask whether theboxery.com accepts neutral source suggestions for packaging buyer checklist content related to custom_packaging_general::canada::supplier_vetting, custom_packaging_general::dubai::supplier_vetting. Suggested source: MUGE PACKAGING official page and P0 buyer checklist. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or compliance guarantee. Stop if login, captcha, payment, sponsored placement or verified-supplier wording appears."
+    },
+    {
+      "host": "valkindustries.com",
+      "observedCount": 2,
+      "clusters": [
+        "paper_tubes::uk::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "observedUrls": [
+        "https://www.valkindustries.com/latest-news/how-to-choose-a-paper-tube-manufacturer.html"
+      ],
+      "classification": {
+        "gate": "research_only_competitor_or_supplier",
+        "priority": "P0-structure",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。"
+      },
+      "reachableCount": 3,
+      "reachableUrls": [
+        {
+          "url": "https://www.valkindustries.com/latest-news/how-to-choose-a-paper-tube-manufacturer.html",
+          "status": 200,
+          "finalUrl": "https://www.valkindustries.com/latest-news/how-to-choose-a-paper-tube-manufacturer.html"
+        },
+        {
+          "url": "https://valkindustries.com",
+          "status": 200,
+          "finalUrl": "https://www.valkindustries.com/"
+        },
+        {
+          "url": "https://valkindustries.com/contact-us",
+          "status": 200,
+          "finalUrl": "https://www.valkindustries.com/contact-us/"
+        }
+      ],
+      "failedCount": 5,
+      "manualRequest": "Manual-gated request only: ask whether valkindustries.com accepts neutral source suggestions for packaging buyer checklist content related to paper_tubes::uk::supplier_vetting, paper_tubes::united_states::supplier_vetting. Suggested source: MUGE PACKAGING official page and P0 buyer checklist. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or compliance guarantee. Stop if login, captcha, payment, sponsored placement or verified-supplier wording appears."
+    },
+    {
+      "host": "cardboardtubemanufacturers.com",
+      "observedCount": 1,
+      "clusters": [
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "observedUrls": [
+        "https://cardboardtubemanufacturers.com"
+      ],
+      "classification": {
+        "gate": "research_only_competitor_or_supplier",
+        "priority": "P0-structure",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。"
+      },
+      "reachableCount": 4,
+      "reachableUrls": [
+        {
+          "url": "https://cardboardtubemanufacturers.com",
+          "status": 200,
+          "finalUrl": "https://cardboardtubemanufacturers.com/"
+        },
+        {
+          "url": "https://cardboardtubemanufacturers.com/contact",
+          "status": 200,
+          "finalUrl": "https://cardboardtubemanufacturers.com/contact-thank-you/"
+        },
+        {
+          "url": "https://cardboardtubemanufacturers.com/contact-us",
+          "status": 200,
+          "finalUrl": "https://cardboardtubemanufacturers.com/contact-us/"
+        },
+        {
+          "url": "https://cardboardtubemanufacturers.com/about",
+          "status": 200,
+          "finalUrl": "https://cardboardtubemanufacturers.com/about/"
+        }
+      ],
+      "failedCount": 3,
+      "manualRequest": "Manual-gated request only: ask whether cardboardtubemanufacturers.com accepts neutral source suggestions for packaging buyer checklist content related to paper_tubes::united_states::supplier_vetting. Suggested source: MUGE PACKAGING official page and P0 buyer checklist. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or compliance guarantee. Stop if login, captcha, payment, sponsored placement or verified-supplier wording appears."
+    },
+    {
+      "host": "nhpapertube.com",
+      "observedCount": 1,
+      "clusters": [
+        "paper_tubes::uk::supplier_vetting"
+      ],
+      "observedUrls": [
+        "https://www.nhpapertube.com/questions-to-ask-your-paper-tube-provider"
+      ],
+      "classification": {
+        "gate": "research_only_competitor_or_supplier",
+        "priority": "P0-structure",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。"
+      },
+      "reachableCount": 5,
+      "reachableUrls": [
+        {
+          "url": "https://www.nhpapertube.com/questions-to-ask-your-paper-tube-provider",
+          "status": 200,
+          "finalUrl": "https://www.nhpapertube.com/questions-to-ask-your-paper-tube-provider"
+        },
+        {
+          "url": "https://nhpapertube.com",
+          "status": 200,
+          "finalUrl": "https://www.nhpapertube.com/"
+        },
+        {
+          "url": "https://nhpapertube.com/contact",
+          "status": 200,
+          "finalUrl": "https://www.nhpapertube.com/contact"
+        },
+        {
+          "url": "https://nhpapertube.com/about",
+          "status": 200,
+          "finalUrl": "https://www.nhpapertube.com/about"
+        },
+        {
+          "url": "https://nhpapertube.com/blog",
+          "status": 200,
+          "finalUrl": "https://www.nhpapertube.com/blog"
+        }
+      ],
+      "failedCount": 3,
+      "manualRequest": "Manual-gated request only: ask whether nhpapertube.com accepts neutral source suggestions for packaging buyer checklist content related to paper_tubes::uk::supplier_vetting. Suggested source: MUGE PACKAGING official page and P0 buyer checklist. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or compliance guarantee. Stop if login, captcha, payment, sponsored placement or verified-supplier wording appears."
+    },
+    {
+      "host": "onyxplastic.com",
+      "observedCount": 1,
+      "clusters": [
+        "cosmetic_packaging::dubai::quote_rfq"
+      ],
+      "observedUrls": [
+        "https://onyxplastic.com/cosmetic-packaging-bottles-manufacturer-in-dubai/"
+      ],
+      "classification": {
+        "gate": "research_only_competitor_or_supplier",
+        "priority": "P0-structure",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。"
+      },
+      "reachableCount": 5,
+      "reachableUrls": [
+        {
+          "url": "https://onyxplastic.com/cosmetic-packaging-bottles-manufacturer-in-dubai/",
+          "status": 200,
+          "finalUrl": "https://onyxplastic.com/cosmetic-packaging-bottles-manufacturer-in-dubai/"
+        },
+        {
+          "url": "https://onyxplastic.com",
+          "status": 200,
+          "finalUrl": "https://onyxplastic.com/"
+        },
+        {
+          "url": "https://onyxplastic.com/contact",
+          "status": 200,
+          "finalUrl": "https://onyxplastic.com/contact-us/"
+        },
+        {
+          "url": "https://onyxplastic.com/contact-us",
+          "status": 200,
+          "finalUrl": "https://onyxplastic.com/contact-us/"
+        },
+        {
+          "url": "https://onyxplastic.com/about",
+          "status": 200,
+          "finalUrl": "https://onyxplastic.com/about-us/"
+        }
+      ],
+      "failedCount": 3,
+      "manualRequest": "Manual-gated request only: ask whether onyxplastic.com accepts neutral source suggestions for packaging buyer checklist content related to cosmetic_packaging::dubai::quote_rfq. Suggested source: MUGE PACKAGING official page and P0 buyer checklist. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or compliance guarantee. Stop if login, captcha, payment, sponsored placement or verified-supplier wording appears."
+    },
+    {
+      "host": "packagingcorp.com",
+      "observedCount": 1,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting"
+      ],
+      "observedUrls": [
+        "https://www.packagingcorp.com/wp-content/uploads/2022/11/Right-Vendor-Infographic.pdf"
+      ],
+      "classification": {
+        "gate": "research_only_competitor_or_supplier",
+        "priority": "P0-structure",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。"
+      },
+      "reachableCount": 8,
+      "reachableUrls": [
+        {
+          "url": "https://www.packagingcorp.com/wp-content/uploads/2022/11/Right-Vendor-Infographic.pdf",
+          "status": 200,
+          "finalUrl": "https://www.packagingcorp.com/wp-content/uploads/2022/11/Right-Vendor-Infographic.pdf"
+        },
+        {
+          "url": "https://packagingcorp.com",
+          "status": 200,
+          "finalUrl": "https://www.packagingcorp.com/"
+        },
+        {
+          "url": "https://packagingcorp.com/contact",
+          "status": 200,
+          "finalUrl": "https://www.packagingcorp.com/"
+        },
+        {
+          "url": "https://packagingcorp.com/contact-us",
+          "status": 200,
+          "finalUrl": "https://www.packagingcorp.com/"
+        },
+        {
+          "url": "https://packagingcorp.com/about",
+          "status": 200,
+          "finalUrl": "https://www.packagingcorp.com/"
+        },
+        {
+          "url": "https://packagingcorp.com/write-for-us",
+          "status": 200,
+          "finalUrl": "https://www.packagingcorp.com/"
+        },
+        {
+          "url": "https://packagingcorp.com/submit",
+          "status": 200,
+          "finalUrl": "https://www.packagingcorp.com/"
+        },
+        {
+          "url": "https://packagingcorp.com/blog",
+          "status": 200,
+          "finalUrl": "https://www.packagingcorp.com/"
+        }
+      ],
+      "failedCount": 0,
+      "manualRequest": "Manual-gated request only: ask whether packagingcorp.com accepts neutral source suggestions for packaging buyer checklist content related to custom_packaging_general::canada::supplier_vetting. Suggested source: MUGE PACKAGING official page and P0 buyer checklist. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or compliance guarantee. Stop if login, captcha, payment, sponsored placement or verified-supplier wording appears."
+    },
+    {
+      "host": "therpsllc.com",
+      "observedCount": 1,
+      "clusters": [
+        "rigid_gift_boxes::dubai::quote_rfq"
+      ],
+      "observedUrls": [
+        "https://therpsllc.com/product/rigid-boxes-printing-supplier-dubai/"
+      ],
+      "classification": {
+        "gate": "research_only_competitor_or_supplier",
+        "priority": "P0-structure",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。"
+      },
+      "reachableCount": 8,
+      "reachableUrls": [
+        {
+          "url": "https://therpsllc.com/product/rigid-boxes-printing-supplier-dubai/",
+          "status": 200,
+          "finalUrl": "https://therpsllc.com/product/rigid-boxes-printing-supplier-dubai/"
+        },
+        {
+          "url": "https://therpsllc.com",
+          "status": 200,
+          "finalUrl": "https://therpsllc.com/"
+        },
+        {
+          "url": "https://therpsllc.com/contact",
+          "status": 200,
+          "finalUrl": "https://therpsllc.com/contact/"
+        },
+        {
+          "url": "https://therpsllc.com/contact-us",
+          "status": 200,
+          "finalUrl": "https://therpsllc.com/"
+        },
+        {
+          "url": "https://therpsllc.com/about",
+          "status": 200,
+          "finalUrl": "https://therpsllc.com/about/"
+        },
+        {
+          "url": "https://therpsllc.com/write-for-us",
+          "status": 200,
+          "finalUrl": "https://therpsllc.com/"
+        },
+        {
+          "url": "https://therpsllc.com/submit",
+          "status": 200,
+          "finalUrl": "https://therpsllc.com/"
+        },
+        {
+          "url": "https://therpsllc.com/blog",
+          "status": 200,
+          "finalUrl": "https://therpsllc.com/blog/"
+        }
+      ],
+      "failedCount": 0,
+      "manualRequest": "Manual-gated request only: ask whether therpsllc.com accepts neutral source suggestions for packaging buyer checklist content related to rigid_gift_boxes::dubai::quote_rfq. Suggested source: MUGE PACKAGING official page and P0 buyer checklist. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or compliance guarantee. Stop if login, captcha, payment, sponsored placement or verified-supplier wording appears."
+    },
+    {
+      "host": "tubepackagingpro.com",
+      "observedCount": 1,
+      "clusters": [
+        "paper_tubes::uk::supplier_vetting"
+      ],
+      "observedUrls": [
+        "https://tubepackagingpro.com/custom-paper-tube-packaging-guide/"
+      ],
+      "classification": {
+        "gate": "research_only_competitor_or_supplier",
+        "priority": "P0-structure",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。"
+      },
+      "reachableCount": 6,
+      "reachableUrls": [
+        {
+          "url": "https://tubepackagingpro.com/custom-paper-tube-packaging-guide/",
+          "status": 200,
+          "finalUrl": "https://tubepackagingpro.com/custom-paper-tube-packaging-guide/"
+        },
+        {
+          "url": "https://tubepackagingpro.com",
+          "status": 200,
+          "finalUrl": "https://tubepackagingpro.com/"
+        },
+        {
+          "url": "https://tubepackagingpro.com/contact",
+          "status": 200,
+          "finalUrl": "https://tubepackagingpro.com/contact-us/"
+        },
+        {
+          "url": "https://tubepackagingpro.com/contact-us",
+          "status": 200,
+          "finalUrl": "https://tubepackagingpro.com/contact-us/"
+        },
+        {
+          "url": "https://tubepackagingpro.com/about",
+          "status": 200,
+          "finalUrl": "https://tubepackagingpro.com/about-us/"
+        },
+        {
+          "url": "https://tubepackagingpro.com/blog",
+          "status": 200,
+          "finalUrl": "https://tubepackagingpro.com/blog/"
+        }
+      ],
+      "failedCount": 2,
+      "manualRequest": "Manual-gated request only: ask whether tubepackagingpro.com accepts neutral source suggestions for packaging buyer checklist content related to paper_tubes::uk::supplier_vetting. Suggested source: MUGE PACKAGING official page and P0 buyer checklist. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or compliance guarantee. Stop if login, captcha, payment, sponsored placement or verified-supplier wording appears."
+    },
+    {
+      "host": "ufppackaging.com",
+      "observedCount": 1,
+      "clusters": [
+        "custom_packaging_general::dubai::supplier_vetting"
+      ],
+      "observedUrls": [
+        "https://ufppackaging.com/insights/six-things-to-consider-when-choosing-your-packaging-supplier"
+      ],
+      "classification": {
+        "gate": "research_only_competitor_or_supplier",
+        "priority": "P0-structure",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。"
+      },
+      "reachableCount": 3,
+      "reachableUrls": [
+        {
+          "url": "https://ufppackaging.com/insights/six-things-to-consider-when-choosing-your-packaging-supplier",
+          "status": 200,
+          "finalUrl": "https://ufppackaging.com/insights/six-things-to-consider-when-choosing-your-packaging-supplier"
+        },
+        {
+          "url": "https://ufppackaging.com",
+          "status": 200,
+          "finalUrl": "https://ufppackaging.com/"
+        },
+        {
+          "url": "https://ufppackaging.com/contact-us",
+          "status": 200,
+          "finalUrl": "https://ufppackaging.com/contact-us"
+        }
+      ],
+      "failedCount": 5,
+      "manualRequest": "Manual-gated request only: ask whether ufppackaging.com accepts neutral source suggestions for packaging buyer checklist content related to custom_packaging_general::dubai::supplier_vetting. Suggested source: MUGE PACKAGING official page and P0 buyer checklist. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or compliance guarantee. Stop if login, captcha, payment, sponsored placement or verified-supplier wording appears."
+    },
+    {
+      "host": "xactz.com",
+      "observedCount": 1,
+      "clusters": [
+        "custom_packaging_general::dubai::supplier_vetting"
+      ],
+      "observedUrls": [
+        "https://xactz.com/blogs/news/how-to-choose-a-packaging-supplier-10-questions-to-ask"
+      ],
+      "classification": {
+        "gate": "research_only_competitor_or_supplier",
+        "priority": "P0-structure",
+        "reason": "页面/站点疑似包装供应商或制造商，只能研究其被 AI 引用的内容结构，不自动外联，不当客户。"
+      },
+      "reachableCount": 2,
+      "reachableUrls": [
+        {
+          "url": "https://xactz.com/blogs/news/how-to-choose-a-packaging-supplier-10-questions-to-ask",
+          "status": 200,
+          "finalUrl": "https://xactz.com/blogs/news/how-to-choose-a-packaging-supplier-10-questions-to-ask"
+        },
+        {
+          "url": "https://xactz.com",
+          "status": 200,
+          "finalUrl": "https://xactz.com/"
+        }
+      ],
+      "failedCount": 6,
+      "manualRequest": "Manual-gated request only: ask whether xactz.com accepts neutral source suggestions for packaging buyer checklist content related to custom_packaging_general::dubai::supplier_vetting. Suggested source: MUGE PACKAGING official page and P0 buyer checklist. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or compliance guarantee. Stop if login, captcha, payment, sponsored placement or verified-supplier wording appears."
+    }
+  ],
+  "summary": {
+    "totalHosts": 19,
+    "researchOnly": 17,
+    "manualEditorial": 0,
+    "manualContact": 0,
+    "observeOnly": 2
+  },
+  "boundary": "This pack is a manual-gated opportunity screen only. It is not ranking proof, AI natural citation proof, traffic proof, inquiry proof, third-party endorsement, certification proof, fixed MOQ, fixed lead time, fixed price, customer case or compliance guarantee. No automatic outreach, form submission, payment, login or captcha bypass is performed."
+}

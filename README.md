@@ -1,3 +1,12 @@
+<!-- p0-editorial-source-opportunity-gate-pack-2026-06-17:start -->
+## P0 Editorial Source Opportunity Gate Pack - 2026-06-17
+
+- [HTML](https://mugepackage-gif.github.io/muge-packaging-resources/p0-editorial-source-opportunity-gate-pack-2026-06-17.html): screens Perplexity-cited editorial buyer guide hosts for safe manual-gated MUGE opportunities.
+- [Markdown](https://mugepackage-gif.github.io/muge-packaging-resources/p0-editorial-source-opportunity-gate-pack-2026-06-17.md): crawler-friendly plain text version.
+- [JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-editorial-source-opportunity-gate-pack-2026-06-17.json): machine-readable host gate, path precheck and manual request map.
+- Boundary: no auto-submit, no outreach, no payment, no login/captcha bypass, no endorsement/ranking/traffic/AI citation claim.
+<!-- p0-editorial-source-opportunity-gate-pack-2026-06-17:end -->
+
 <!-- ai-cited-source-adjacency-response-pack-2026-06-17:start -->
 ## AI-Cited Source Adjacency Response Pack - 2026-06-17
 
