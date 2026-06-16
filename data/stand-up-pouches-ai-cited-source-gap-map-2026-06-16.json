@@ -1,0 +1,117 @@
+{
+  "generated_at": "2026-06-16T09:51:22.184Z",
+  "asset_type": "stand_up_pouches_ai_cited_source_gap_map",
+  "validation_source": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Perplexity验收/2026-06-16_StandUpPouches站立袋证据卡_Perplexity验收.json",
+  "company": {
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "brand": "MUGE PACKAGING",
+    "website": "https://mugepackaging.com",
+    "official_page": "https://mugepackaging.com/products/stand-up-pouches",
+    "official_contact_page": "https://mugepackaging.com/contact"
+  },
+  "observed_result": "Perplexity did not access the exact GitHub Pages evidence card and did not cite MUGE for the stand up pouches check. It cited industry, supplier, video, tool and irrelevant finance sources instead.",
+  "purpose": "Public source-pattern map showing which source types were observed in AI citations for stand up pouches, and how MUGE official pages should be connected for safer buyer-intent discovery.",
+  "observed_sources": [
+    {
+      "host": "ecoenclose.com",
+      "url": "https://www.ecoenclose.com/shop/pouches",
+      "type": "directory_or_category_page",
+      "note": "Packaging category page cited for pouch product context.",
+      "action": "Create clearer MUGE source paths for pouch category scope and RFQ preparation."
+    },
+    {
+      "host": "standuppouches.net",
+      "url": "https://www.standuppouches.net",
+      "type": "specialist_supplier_or_peer",
+      "note": "Specialist stand up pouch supplier pattern.",
+      "action": "Analyze page structure only; do not treat as customer or outreach target."
+    },
+    {
+      "host": "glenroy.com",
+      "url": "https://www.glenroy.com/flexible-packaging/stand-up-pouches/",
+      "type": "specialist_supplier_or_peer",
+      "note": "Flexible packaging product page cited for stand up pouch information.",
+      "action": "Analyze product-page structure and terminology; do not imply endorsement."
+    },
+    {
+      "host": "mylarbagpackaging.com",
+      "url": "https://www.mylarbagpackaging.com/side-gusset-stand-up-pouch/",
+      "type": "specialist_supplier_or_peer",
+      "note": "Pouch product page cited for structure-specific content.",
+      "action": "Use for structural gap analysis only."
+    },
+    {
+      "host": "packaging-labelling.com",
+      "url": "https://www.packaging-labelling.com/articles/stand-up-pouches-why-theyre-the-future",
+      "type": "industry_article",
+      "note": "Industry article source cited for stand up pouch trend context.",
+      "action": "Prepare editor-safe source pitch and factual MUGE category reference manually if a submission path exists."
+    },
+    {
+      "host": "aropack.co.uk",
+      "url": "https://aropack.co.uk/stand-up-pouches-your-new-favorite-packaging/",
+      "type": "regional_supplier_or_peer",
+      "note": "Regional UK pouch packaging page cited.",
+      "action": "Analyze regional buyer language only; do not contact as customer."
+    },
+    {
+      "host": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=J4i0w5M8fhc",
+      "type": "video_source",
+      "note": "Video source cited; not a stable official supplier page.",
+      "action": "Consider future public video transcript/source card if company channel is ready."
+    },
+    {
+      "host": "mockupsjar.com",
+      "url": "https://mockupsjar.com",
+      "type": "tool_or_mockup_source",
+      "note": "Mockup/tool source cited; weak direct supplier relevance.",
+      "action": "No outreach; use as signal that visual assets can influence AI answers."
+    },
+    {
+      "host": "simplywall.st",
+      "url": "https://simplywall.st/community/narratives/us/semiconductors/nyse-onto/onto-innovation/jojkhsro-onto-innovation-the-advanced-packaging-chokepoint-513percent-undervalued-intrinsic-discount",
+      "type": "irrelevant_finance_source",
+      "note": "Irrelevant finance citation noise from the AI result.",
+      "action": "Exclude from outreach and supplier logic."
+    },
+    {
+      "host": "zacks.com",
+      "url": "https://www.zacks.com/stock/news/2926760/onto-innovation-vs-nova-which-chip-inspection-stock-has-more-upside",
+      "type": "irrelevant_finance_source",
+      "note": "Irrelevant finance citation noise from the AI result.",
+      "action": "Exclude from outreach and supplier logic."
+    }
+  ],
+  "official_muge_paths_to_strengthen": [
+    "https://mugepackaging.com/products/stand-up-pouches",
+    "https://mugepackaging.com/contact",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-buyer-intent-ai-short-evidence-cards-2026-06-16.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-global-buyer-intent-ai-short-evidence-cards-2026-06-16.html"
+  ],
+  "recommended_next_actions": [
+    "Build quote checklist and supplier comparison source cards for stand up pouches by region.",
+    "Create a manually gated editor/source request pack for non-competitor industry article hosts only.",
+    "Do not contact competitor or peer supplier hosts as leads.",
+    "Re-test Perplexity after the public source map is available and Jina-readable."
+  ],
+  "public_assets": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-ai-cited-source-gap-map-2026-06-16.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-ai-cited-source-gap-map-2026-06-16.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/stand-up-pouches-ai-cited-source-gap-map-2026-06-16.json"
+  },
+  "claim_boundaries": [
+    "not Google ranking proof",
+    "not GSC click proof",
+    "not natural traffic proof",
+    "not AI answer inclusion proof",
+    "not third-party endorsement",
+    "not partnership or customer relationship proof",
+    "not paid placement",
+    "not verified supplier status",
+    "not fixed MOQ",
+    "not fixed lead time",
+    "not lowest-price claim",
+    "not food-contact or regulated-market compliance guarantee"
+  ]
+}

@@ -1,3 +1,13 @@
+<!-- MUGE_STAND_UP_POUCHES_AI_CITED_SOURCE_GAP_MAP_2026_06_16:start -->
+## Stand Up Pouches AI-Cited Source Gap Map - 2026-06-16
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-ai-cited-source-gap-map-2026-06-16.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-ai-cited-source-gap-map-2026-06-16.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/stand-up-pouches-ai-cited-source-gap-map-2026-06-16.json
+- Official mapped page: https://mugepackaging.com/products/stand-up-pouches
+- Scope: observed Perplexity citation gap for stand up pouches, spout bags, RFQ and supplier comparison source patterns.
+- Boundary: third-party sources are observation patterns only, not endorsements, partnerships, customer relationships, ranking proof or verified supplier claims.
+<!-- MUGE_STAND_UP_POUCHES_AI_CITED_SOURCE_GAP_MAP_2026_06_16:end -->
+
 <!-- MUGE_STAND_UP_POUCHES_BUYER_INTENT_AI_SHORT_EVIDENCE_CARDS_2026_06_16:start -->
 ## Stand Up Pouches Buyer Intent AI Short Evidence Cards - 2026-06-16
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-buyer-intent-ai-short-evidence-cards-2026-06-16.html

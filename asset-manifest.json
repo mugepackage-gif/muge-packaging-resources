@@ -1,35 +1,53 @@
 {
-  "generated_at": "2026-06-16T09:40:17.823Z",
-  "total": 1003,
+  "generated_at": "2026-06-16T09:51:22.193Z",
+  "total": 1006,
   "files": [
     {
       "path": "asset-manifest.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/asset-manifest.json",
-      "bytes": 291908,
-      "updated_at": "2026-06-16T09:40:17.823Z"
+      "bytes": 292853,
+      "updated_at": "2026-06-16T09:51:22.193Z"
+    },
+    {
+      "path": "data/stand-up-pouches-ai-cited-source-gap-map-2026-06-16.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/stand-up-pouches-ai-cited-source-gap-map-2026-06-16.json",
+      "bytes": 6053,
+      "updated_at": "2026-06-16T09:51:22.193Z"
+    },
+    {
+      "path": "llms.txt",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/llms.txt",
+      "bytes": 220570,
+      "updated_at": "2026-06-16T09:51:22.193Z"
+    },
+    {
+      "path": "README.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/README.md",
+      "bytes": 88922,
+      "updated_at": "2026-06-16T09:51:22.193Z"
+    },
+    {
+      "path": "sitemap.xml",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/sitemap.xml",
+      "bytes": 263240,
+      "updated_at": "2026-06-16T09:51:22.193Z"
+    },
+    {
+      "path": "stand-up-pouches-ai-cited-source-gap-map-2026-06-16.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-ai-cited-source-gap-map-2026-06-16.html",
+      "bytes": 10367,
+      "updated_at": "2026-06-16T09:51:22.193Z"
+    },
+    {
+      "path": "stand-up-pouches-ai-cited-source-gap-map-2026-06-16.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-ai-cited-source-gap-map-2026-06-16.md",
+      "bytes": 4889,
+      "updated_at": "2026-06-16T09:51:22.193Z"
     },
     {
       "path": "data/stand-up-pouches-buyer-intent-ai-short-evidence-cards-2026-06-16.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/stand-up-pouches-buyer-intent-ai-short-evidence-cards-2026-06-16.json",
       "bytes": 6252,
-      "updated_at": "2026-06-16T09:40:17.823Z"
-    },
-    {
-      "path": "llms.txt",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/llms.txt",
-      "bytes": 219632,
-      "updated_at": "2026-06-16T09:40:17.823Z"
-    },
-    {
-      "path": "README.md",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/README.md",
-      "bytes": 87984,
-      "updated_at": "2026-06-16T09:40:17.823Z"
-    },
-    {
-      "path": "sitemap.xml",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/sitemap.xml",
-      "bytes": 262418,
       "updated_at": "2026-06-16T09:40:17.823Z"
     },
     {
