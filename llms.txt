@@ -1,3 +1,13 @@
+<!-- MUGE_CUSTOM_PACKAGING_DUBAI_SUPPLIER_VETTING_SOURCE_PACK_2026_06_17:start -->
+## Custom Packaging Supplier Vetting Source Pack for Dubai Buyers - 2026-06-17
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-general-dubai-supplier-vetting-buyer-source-pack-2026-06-17.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-general-dubai-supplier-vetting-buyer-source-pack-2026-06-17.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-general-dubai-supplier-vetting-buyer-source-pack-2026-06-17.json
+- Cluster: custom_packaging_general / dubai / supplier_vetting.
+- Target source page: https://mugepackaging.com/products
+- Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+<!-- MUGE_CUSTOM_PACKAGING_DUBAI_SUPPLIER_VETTING_SOURCE_PACK_2026_06_17:end -->
+
 <!-- MUGE_CUSTOM_PACKAGING_CANADA_SUPPLIER_VETTING_SOURCE_PACK_2026_06_17:start -->
 ## Custom Packaging Supplier Vetting Source Pack for Canada Buyers - 2026-06-17
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-general-canada-supplier-vetting-buyer-source-pack-2026-06-17.html
