@@ -606,3 +606,15 @@ Boundary: public discovery and citation-support assets only; not ranking proof, 
 - P0 opportunities: 4
 - Boundary: review queue only; no paid placement, no automatic email/form/social action, no unverified claims.
 <!-- MUGE_AI_CITATION_GAP_EXTERNAL_QUEUE_2026_06_16:END -->
+
+<!-- MUGE_JINA_READER_MIRROR_INDEX_2026_06_16:START -->
+## Jina Reader Third-Party AI-Readable Mirror Index - 2026-06-16
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/jina-reader-third-party-ai-readable-mirror-index-2026-06-16.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/jina-reader-third-party-ai-readable-mirror-index-2026-06-16.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/jina-reader-third-party-ai-readable-mirror-index-2026-06-16.json
+- HTTP 200: 10/10
+- URL Source retained: 10/10
+- Brand visible: 10/10
+- Boundary: third-party AI-readable mirror only; not ranking, endorsement, citation or inquiry proof.
+<!-- MUGE_JINA_READER_MIRROR_INDEX_2026_06_16:END -->
