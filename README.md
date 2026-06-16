@@ -279,7 +279,7 @@ Boundary: public discovery and crawl-routing asset only; not ranking, traffic, e
 <!-- MUGE_PAPER_TUBES_REGIONAL_AI_SHORT_EVIDENCE_CARDS_2026_06_16:end -->
 
 <!-- MUGE_ROLLING_CLUSTER_SOURCE_PACK_PAPER_TUBES_UK_SUPPLIER_VETTING_2026_06_16:start -->
-## Paper Tubes Uk Supplier Vetting Rolling Source Pack - 2026-06-16
+## Paper Tubes UK Supplier Vetting Rolling Source Pack - 2026-06-16
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uk-supplier-vetting-rolling-source-pack-2026-06-16.html
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uk-supplier-vetting-rolling-source-pack-2026-06-16.md
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-uk-supplier-vetting-rolling-source-pack-2026-06-16.json

@@ -25,7 +25,7 @@ This public source map explains the current MUGE PACKAGING SEO/GEO keyword execu
 
 | Cluster | Product | Region | Intent | Keywords | Official target URLs |
 |---|---|---|---|---:|---|
-| custom_packaging_general::global::comparison | custom packaging general | global | comparison | 10 | https://mugepackaging.com/contact |
+| custom_packaging_general::global::comparison | custom packaging general | global | comparison | 10 | https://mugepackaging.com/products |
 | paper_tubes::europe::supplier_vetting | paper tubes | europe | supplier vetting | 7 | https://mugepackaging.com/products/paper-tubes |
 | paper_tubes::middle_east::supplier_vetting | paper tubes | middle east | supplier vetting | 7 | https://mugepackaging.com/products/paper-tubes |
 | paper_tubes::uk::supplier_vetting | paper tubes | uk | supplier vetting | 7 | https://mugepackaging.com/products/paper-tubes |
