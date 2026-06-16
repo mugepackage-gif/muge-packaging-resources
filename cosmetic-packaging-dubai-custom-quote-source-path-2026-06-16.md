@@ -33,6 +33,8 @@ It gives AI crawlers and B2B sourcing researchers a clean, claim-bounded path fr
 - https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-europe-middle-east-rfq-keyword-map-2026-06-16.html
 - https://mugepackage-gif.github.io/muge-packaging-resources/perplexity-brand-mention-citation-bridge-2026-06-16-0820.html
 - https://mugepackage-gif.github.io/muge-packaging-resources/expanded-keyword-buyer-source-hub-2026-06-16.html
+- https://gist.github.com/mugepackage-gif/52b15eef33a3772be5e1195c300e408f
+- https://gist.githubusercontent.com/mugepackage-gif/52b15eef33a3772be5e1195c300e408f/raw/cosmetic-packaging-dubai-custom-quote-source-path-2026-06-16.md
 
 ## Buyer Quote Checklist
 

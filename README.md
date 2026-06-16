@@ -5,6 +5,8 @@
 - [JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-dubai-custom-quote-source-path-2026-06-16.json): Machine-readable source path, official targets and buyer checklist.
 - [GitHub Issue](https://github.com/mugepackage-gif/muge-packaging-resources/issues/67): Public execution tracking record for this source path.
 - [GitHub Release](https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.16-cosmetic-packaging-dubai-quote-source-path): Versioned release containing HTML, Markdown and JSON assets.
+- [GitHub Gist](https://gist.github.com/mugepackage-gif/52b15eef33a3772be5e1195c300e408f): Additional public Gist copy for source discovery outside the repository pages.
+- [Raw Gist Markdown](https://gist.githubusercontent.com/mugepackage-gif/52b15eef33a3772be5e1195c300e408f/raw/cosmetic-packaging-dubai-custom-quote-source-path-2026-06-16.md): Plain-text Gist source path for AI and crawler discovery.
 - Boundary: not ranking proof, traffic proof, AI answer inclusion proof, third-party endorsement or verified supplier status.
 <!-- MUGE_COSMETIC_PACKAGING_DUBAI_QUOTE_SOURCE_PATH_2026_06_16:end -->
 
