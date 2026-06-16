@@ -1,3 +1,16 @@
+<!-- MUGE_KEYWORD_UNIVERSE_NATURAL_BUYER_GAP_RESPONSE_PACK_2026_06_16:start -->
+## MUGE PACKAGING Natural Buyer Query Gap Response Pack - 2026-06-16
+
+- [Natural buyer query gap response pack HTML](https://mugepackage-gif.github.io/muge-packaging-resources/muge-keyword-universe-natural-buyer-gap-response-pack-2026-06-16.html)
+- [Natural buyer query gap response pack Markdown](https://mugepackage-gif.github.io/muge-packaging-resources/muge-keyword-universe-natural-buyer-gap-response-pack-2026-06-16.md)
+- [Machine-readable JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-keyword-universe-natural-buyer-gap-response-pack-2026-06-16.json)
+- Source Perplexity natural buyer positive: 0/8
+- Brand/resource positive: 2/2
+- Response paths: 8
+
+Boundary: public AI-readable response path only; not ranking, traffic, endorsement, inquiry, AI inclusion, fixed MOQ, fixed lead time, fixed price, customer case or compliance proof.
+<!-- MUGE_KEYWORD_UNIVERSE_NATURAL_BUYER_GAP_RESPONSE_PACK_2026_06_16:end -->
+
 <!-- MUGE_KEYWORD_UNIVERSE_EXECUTION_INDEX_2026_06_16:start -->
 ## MUGE PACKAGING Keyword Universe Execution Index - 2026-06-16
 
