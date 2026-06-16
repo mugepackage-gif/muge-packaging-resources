@@ -1,29 +1,53 @@
 {
-  "generated_at": "2026-06-16T09:23:46.521Z",
-  "total": 997,
+  "generated_at": "2026-06-16T09:30:16.835Z",
+  "total": 1000,
   "files": [
     {
       "path": "asset-manifest.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/asset-manifest.json",
-      "bytes": 289997,
-      "updated_at": "2026-06-16T09:23:46.521Z"
+      "bytes": 290943,
+      "updated_at": "2026-06-16T09:30:16.835Z"
+    },
+    {
+      "path": "clear-pet-pvc-boxes-buyer-intent-ai-short-evidence-cards-2026-06-16.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-buyer-intent-ai-short-evidence-cards-2026-06-16.html",
+      "bytes": 10156,
+      "updated_at": "2026-06-16T09:30:16.835Z"
+    },
+    {
+      "path": "clear-pet-pvc-boxes-buyer-intent-ai-short-evidence-cards-2026-06-16.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-buyer-intent-ai-short-evidence-cards-2026-06-16.md",
+      "bytes": 5660,
+      "updated_at": "2026-06-16T09:30:16.835Z"
+    },
+    {
+      "path": "data/clear-pet-pvc-boxes-buyer-intent-ai-short-evidence-cards-2026-06-16.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/clear-pet-pvc-boxes-buyer-intent-ai-short-evidence-cards-2026-06-16.json",
+      "bytes": 6971,
+      "updated_at": "2026-06-16T09:30:16.835Z"
+    },
+    {
+      "path": "llms.txt",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/llms.txt",
+      "bytes": 218550,
+      "updated_at": "2026-06-16T09:30:16.835Z"
+    },
+    {
+      "path": "README.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/README.md",
+      "bytes": 86902,
+      "updated_at": "2026-06-16T09:30:16.835Z"
+    },
+    {
+      "path": "sitemap.xml",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/sitemap.xml",
+      "bytes": 261587,
+      "updated_at": "2026-06-16T09:30:16.835Z"
     },
     {
       "path": "data/rigid-gift-boxes-buyer-intent-ai-short-evidence-cards-2026-06-16.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-boxes-buyer-intent-ai-short-evidence-cards-2026-06-16.json",
       "bytes": 7404,
-      "updated_at": "2026-06-16T09:23:46.521Z"
-    },
-    {
-      "path": "llms.txt",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/llms.txt",
-      "bytes": 217390,
-      "updated_at": "2026-06-16T09:23:46.521Z"
-    },
-    {
-      "path": "README.md",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/README.md",
-      "bytes": 85742,
       "updated_at": "2026-06-16T09:23:46.521Z"
     },
     {
@@ -36,12 +60,6 @@
       "path": "rigid-gift-boxes-buyer-intent-ai-short-evidence-cards-2026-06-16.md",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-buyer-intent-ai-short-evidence-cards-2026-06-16.md",
       "bytes": 5993,
-      "updated_at": "2026-06-16T09:23:46.521Z"
-    },
-    {
-      "path": "sitemap.xml",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/sitemap.xml",
-      "bytes": 260550,
       "updated_at": "2026-06-16T09:23:46.521Z"
     },
     {
