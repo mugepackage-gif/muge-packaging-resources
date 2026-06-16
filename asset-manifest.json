@@ -1,18 +1,48 @@
 {
-  "generated_at": "2026-06-16T09:02:14.326Z",
-  "total": 993,
+  "generated_at": "2026-06-16T09:13:03.014Z",
+  "total": 994,
   "files": [
+    {
+      "path": "asset-manifest.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/asset-manifest.json",
+      "bytes": 290893,
+      "updated_at": "2026-06-16T09:13:03.014Z"
+    },
+    {
+      "path": "cosmetic-packaging-comparison-ai-short-evidence-cards-2026-06-16.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-comparison-ai-short-evidence-cards-2026-06-16.html",
+      "bytes": 8970,
+      "updated_at": "2026-06-16T09:13:03.014Z"
+    },
+    {
+      "path": "cosmetic-packaging-comparison-ai-short-evidence-cards-2026-06-16.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-comparison-ai-short-evidence-cards-2026-06-16.md",
+      "bytes": 4971,
+      "updated_at": "2026-06-16T09:13:03.014Z"
+    },
+    {
+      "path": "data/cosmetic-packaging-comparison-ai-short-evidence-cards-2026-06-16.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-comparison-ai-short-evidence-cards-2026-06-16.json",
+      "bytes": 6142,
+      "updated_at": "2026-06-16T09:13:03.014Z"
+    },
     {
       "path": "llms.txt",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/llms.txt",
-      "bytes": 215176,
-      "updated_at": "2026-06-16T09:02:14.332Z"
+      "bytes": 216227,
+      "updated_at": "2026-06-16T09:13:03.014Z"
     },
     {
       "path": "README.md",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/README.md",
-      "bytes": 83528,
-      "updated_at": "2026-06-16T09:02:14.331Z"
+      "bytes": 84579,
+      "updated_at": "2026-06-16T09:13:03.014Z"
+    },
+    {
+      "path": "sitemap.xml",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/sitemap.xml",
+      "bytes": 261351,
+      "updated_at": "2026-06-16T09:13:03.014Z"
     },
     {
       "path": "custom-packaging-global-buyer-intent-ai-short-evidence-cards-2026-06-16.md",
@@ -31,12 +61,6 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-global-buyer-intent-ai-short-evidence-cards-2026-06-16.html",
       "bytes": 8710,
       "updated_at": "2026-06-16T09:02:14.328Z"
-    },
-    {
-      "path": "asset-manifest.json",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/asset-manifest.json",
-      "bytes": 288768,
-      "updated_at": "2026-06-16T08:52:42.456Z"
     },
     {
       "path": "data/paper-tubes-regional-ai-short-evidence-cards-2026-06-16.json",
@@ -127,24 +151,6 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/seo-geo-rolling-keyword-execution-source-map-2026-06-16.md",
       "bytes": 15897,
       "updated_at": "2026-06-16T08:13:24.672Z"
-    },
-    {
-      "path": "active-search-results-p0p1-refresh-submit-2026-06-16-0811.html",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/active-search-results-p0p1-refresh-submit-2026-06-16-0811.html",
-      "bytes": 1518,
-      "updated_at": "2026-06-16T08:11:11.786Z"
-    },
-    {
-      "path": "active-search-results-p0p1-refresh-submit-2026-06-16-0811.md",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/active-search-results-p0p1-refresh-submit-2026-06-16-0811.md",
-      "bytes": 950,
-      "updated_at": "2026-06-16T08:11:11.786Z"
-    },
-    {
-      "path": "data/active-search-results-p0p1-refresh-submit-2026-06-16-0811.json",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/active-search-results-p0p1-refresh-submit-2026-06-16-0811.json",
-      "bytes": 966,
-      "updated_at": "2026-06-16T08:11:11.786Z"
     },
     {
       "path": "data/seo-geo-7-day-keyword-cluster-source-index-2026-06-16.json",
