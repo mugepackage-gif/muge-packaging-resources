@@ -1,6 +1,6 @@
 # MUGE PACKAGING Short AI Source Index
 
-Generated: 2026-06-16 12:27:57
+Generated: 2026-06-16 12:33:31
 
 ## What this page is
 
@@ -56,6 +56,8 @@ A short AI-readable source index for MUGE PACKAGING. It gives AI crawlers and se
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/short-ai-source-index-2026-06-16.html
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/short-ai-source-index-2026-06-16.md
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/short-ai-source-index-2026-06-16.json
+- GitHub Release: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.16-short-ai-source-index
+- GitHub Gist mirror: https://gist.github.com/mugepackage-gif/a50235b1539c3a0d4d57489df17f8ea8
 
 ## Claim boundaries
 

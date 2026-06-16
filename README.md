@@ -3,6 +3,8 @@
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/short-ai-source-index-2026-06-16.html
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/short-ai-source-index-2026-06-16.md
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/short-ai-source-index-2026-06-16.json
+- GitHub Release: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.16-short-ai-source-index
+- GitHub Gist mirror: https://gist.github.com/mugepackage-gif/a50235b1539c3a0d4d57489df17f8ea8
 - Purpose: compact source path for the 24,201 keyword universe, 800 execution queue, 300 GEO/AI buyer questions, P0/P1 23-term validation set and official MUGE PACKAGING source pages.
 - Boundary: not ranking proof, traffic proof, AI answer inclusion proof, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
 <!-- MUGE_SHORT_AI_SOURCE_INDEX_2026_06_16:end -->

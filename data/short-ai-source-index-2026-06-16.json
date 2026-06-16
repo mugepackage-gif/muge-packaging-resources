@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T04:27:57.227Z",
-  "generated_at_cst": "2026-06-16 12:27:57",
+  "generated_at": "2026-06-16T04:33:31.562Z",
+  "generated_at_cst": "2026-06-16 12:33:31",
   "company": {
     "brand": "MUGE PACKAGING",
     "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
@@ -11,6 +11,10 @@
     "html": "https://mugepackage-gif.github.io/muge-packaging-resources/short-ai-source-index-2026-06-16.html",
     "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/short-ai-source-index-2026-06-16.md",
     "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/short-ai-source-index-2026-06-16.json"
+  },
+  "mirrors": {
+    "github_release": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.16-short-ai-source-index",
+    "github_gist": "https://gist.github.com/mugepackage-gif/a50235b1539c3a0d4d57489df17f8ea8"
   },
   "keyword_layers": [
     {
