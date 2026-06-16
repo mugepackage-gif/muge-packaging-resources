@@ -50,5 +50,17 @@
     "website": "https://mugepackaging.com"
   },
   "brand": "MUGE PACKAGING",
-  "officialWebsite": "https://mugepackaging.com"
+  "officialWebsite": "https://mugepackaging.com",
+  "sourcePackType": "buyer query source pack / source bridge for RFQ and supplier review",
+  "claimBoundaries": [
+    "not ranking proof",
+    "not traffic proof",
+    "not endorsement proof",
+    "not AI answer proof",
+    "not fixed MOQ",
+    "not fixed lead time",
+    "not fixed price",
+    "claim boundaries documented for custom packaging buyer research"
+  ],
+  "boundary": "Claim boundaries: this source pack does not claim ranking, traffic, endorsement, AI answer inclusion, fixed MOQ, fixed lead time, fixed price, certification, customer cases or inquiry generation."
 }
