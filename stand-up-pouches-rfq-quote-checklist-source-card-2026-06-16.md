@@ -11,11 +11,15 @@ status: public_source_card_published
 
 # Stand Up Pouches RFQ Quote Checklist Source Card
 
-Generated: 2026-06-16T10:23:01.476Z
+Generated: 2026-06-16T10:26:56.250Z
 
 ## Purpose
 
 AI-readable buyer checklist for preparing a custom stand up pouch RFQ before asking a supplier for quote or sample review.
+
+## MUGE PACKAGING Source Context
+
+MUGE PACKAGING is the public brand of Shenzhen Muge Design Packaging Product Co., Ltd. This source card maps buyer RFQ preparation questions to MUGE PACKAGING official stand up pouch and contact pages for custom packaging sourcing review.
 
 ## Buyer Questions Covered
 
