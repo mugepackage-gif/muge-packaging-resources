@@ -1,6 +1,6 @@
 {
-  "generatedAtIso": "2026-06-16T11:46:18.472Z",
-  "generatedAtCst": "2026-06-16 19:46:18",
+  "generatedAtIso": "2026-06-16T11:49:05.089Z",
+  "generatedAtCst": "2026-06-16 19:49:05",
   "sourcePerplexityReport": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/n8n执行数据/20260616_1936_MUGE关键词宇宙8簇_Perplexity可见度复验.json",
   "publicUrls": {
     "html": "https://mugepackage-gif.github.io/muge-packaging-resources/packagingindustry-natural-buyer-gap-third-party-evidence-pack-2026-06-16.html",
@@ -80,7 +80,7 @@
       "id": "cluster_1",
       "clusterKey": "paper_tubes::uk::supplier_vetting",
       "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
-      "officialPage": "https://mugepackaging.com/products",
+      "officialPage": "https://mugepackaging.com/products/paper-tubes",
       "thirdPartySupport": [
         "https://packaging-industry.info/market/packaging-industry/custom-packaging-supplier-review-notes-for-uk-cosmetic-paper-tube-and-gift-box-buyers-1496/",
         "https://packaging-industry.info/market/packaging-industry/custom-packaging-supplier-review-notes-for-uk-cosmetic-paper-tube-and-gift-box-buyers-2-1502/"
@@ -90,7 +90,7 @@
       "id": "cluster_2",
       "clusterKey": "paper_tubes::united_states::supplier_vetting",
       "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
-      "officialPage": "https://mugepackaging.com/products",
+      "officialPage": "https://mugepackaging.com/products/paper-tubes",
       "thirdPartySupport": [
         "https://packaging-industry.info/market/packaging-industry/custom-packaging-supplier-review-notes-for-uk-cosmetic-paper-tube-and-gift-box-buyers-1496/",
         "https://packaging-industry.info/market/packaging-industry/custom-packaging-supplier-review-notes-for-uk-cosmetic-paper-tube-and-gift-box-buyers-2-1502/"
@@ -120,7 +120,7 @@
       "id": "cluster_5",
       "clusterKey": "cosmetic_packaging::canada::quote_rfq",
       "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
-      "officialPage": "https://mugepackaging.com/products",
+      "officialPage": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
       "thirdPartySupport": [
         "https://packaging-industry.info/market/packaging-industry/custom-packaging-supplier-review-notes-for-uk-cosmetic-paper-tube-and-gift-box-buyers-1496/",
         "https://packaging-industry.info/market/packaging-industry/custom-packaging-supplier-review-notes-for-uk-cosmetic-paper-tube-and-gift-box-buyers-2-1502/"
@@ -130,7 +130,7 @@
       "id": "cluster_6",
       "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
       "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
-      "officialPage": "https://mugepackaging.com/products",
+      "officialPage": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
       "thirdPartySupport": [
         "https://packaging-industry.info/market/packaging-industry/custom-packaging-supplier-review-notes-for-uk-cosmetic-paper-tube-and-gift-box-buyers-1496/",
         "https://packaging-industry.info/market/packaging-industry/custom-packaging-supplier-review-notes-for-uk-cosmetic-paper-tube-and-gift-box-buyers-2-1502/"
@@ -140,7 +140,7 @@
       "id": "cluster_7",
       "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
       "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
-      "officialPage": "https://mugepackaging.com/products",
+      "officialPage": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
       "thirdPartySupport": [
         "https://packaging-industry.info/market/packaging-industry/custom-packaging-supplier-review-notes-for-uk-cosmetic-paper-tube-and-gift-box-buyers-1496/",
         "https://packaging-industry.info/market/packaging-industry/custom-packaging-supplier-review-notes-for-uk-cosmetic-paper-tube-and-gift-box-buyers-2-1502/"
@@ -150,7 +150,7 @@
       "id": "cluster_8",
       "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
       "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
-      "officialPage": "https://mugepackaging.com/products",
+      "officialPage": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
       "thirdPartySupport": [
         "https://packaging-industry.info/market/packaging-industry/custom-packaging-supplier-review-notes-for-uk-cosmetic-paper-tube-and-gift-box-buyers-1496/",
         "https://packaging-industry.info/market/packaging-industry/custom-packaging-supplier-review-notes-for-uk-cosmetic-paper-tube-and-gift-box-buyers-2-1502/"
