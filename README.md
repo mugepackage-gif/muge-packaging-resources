@@ -1,3 +1,12 @@
+<!-- ai-cited-source-adjacency-response-pack-2026-06-17:start -->
+## AI-Cited Source Adjacency Response Pack - 2026-06-17
+
+- [HTML](https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-adjacency-response-pack-2026-06-17.html): maps Perplexity-cited external sources to safe MUGE adjacent response assets.
+- [Markdown](https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-adjacency-response-pack-2026-06-17.md): crawler-friendly plain text version.
+- [JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-cited-source-adjacency-response-pack-2026-06-17.json): machine-readable source host, source-type, cluster and MUGE response map.
+- Boundary: not ranking proof, AI natural citation proof, traffic proof, inquiry proof, endorsement, certification proof, fixed MOQ, fixed lead time or price claim.
+<!-- ai-cited-source-adjacency-response-pack-2026-06-17:end -->
+
 <!-- p0-buyer-checklist-counter-pages-2026-06-17:start -->
 ## P0 Buyer Checklist Counter Pages - 2026-06-17
 

@@ -1,0 +1,2620 @@
+{
+  "generatedAt": "2026-06-16T18:30:40.990Z",
+  "sourceFile": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/n8n执行数据/20260617_0224_MUGE关键词宇宙8簇_Perplexity可见度复验.json",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-adjacency-response-pack-2026-06-17.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-adjacency-response-pack-2026-06-17.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-cited-source-adjacency-response-pack-2026-06-17.json"
+  },
+  "sourceSummary": {
+    "perplexityTotal": 10,
+    "perplexityPositive": 2,
+    "naturalTotal": 8,
+    "naturalPositive": 0,
+    "brandTotal": 2,
+    "brandPositive": 2,
+    "result": "8 个自然买家问题仍未命中 MUGE/MUGE Source Pack，需要发布缺口响应包并继续做第三方来源路径。"
+  },
+  "sourceRows": [
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://custompapertubeboxes.com",
+      "host": "custompapertubeboxes.com",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "response": {
+        "clusterKey": "paper_tubes::uk::supplier_vetting",
+        "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "UK",
+        "product": "custom paper tube packaging",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-uk-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "UK B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for UK buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.valkindustries.com/latest-news/how-to-choose-a-paper-tube-manufacturer.html",
+      "host": "valkindustries.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "paper_tubes::uk::supplier_vetting",
+        "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "UK",
+        "product": "custom paper tube packaging",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-uk-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "UK B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for UK buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers",
+      "host": "innorhino.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "paper_tubes::uk::supplier_vetting",
+        "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "UK",
+        "product": "custom paper tube packaging",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-uk-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "UK B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for UK buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://brandtbox.com/blog/how-to-evaluate-custom-packaging-supplier/",
+      "host": "brandtbox.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "paper_tubes::uk::supplier_vetting",
+        "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "UK",
+        "product": "custom paper tube packaging",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-uk-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "UK B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for UK buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.nhpapertube.com/questions-to-ask-your-paper-tube-provider",
+      "host": "nhpapertube.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "paper_tubes::uk::supplier_vetting",
+        "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "UK",
+        "product": "custom paper tube packaging",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-uk-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "UK B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for UK buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://brownpackaging.com/10-essential-questions-you-should-ask-your-packaging-supplier/",
+      "host": "brownpackaging.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "paper_tubes::uk::supplier_vetting",
+        "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "UK",
+        "product": "custom paper tube packaging",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-uk-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "UK B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for UK buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://companybox.com/blog/5-questions-to-ask-your-packaging-supplier/",
+      "host": "companybox.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "paper_tubes::uk::supplier_vetting",
+        "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "UK",
+        "product": "custom paper tube packaging",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-uk-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "UK B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for UK buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://papertube.co/pages/faq",
+      "host": "papertube.co",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "paper_tubes::uk::supplier_vetting",
+        "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "UK",
+        "product": "custom paper tube packaging",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-uk-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "UK B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for UK buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://tubepackagingpro.com/custom-paper-tube-packaging-guide/",
+      "host": "tubepackagingpro.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "paper_tubes::uk::supplier_vetting",
+        "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "UK",
+        "product": "custom paper tube packaging",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-uk-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "UK B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for UK buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_1",
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.bfbi.org.uk/bfbi-news/why-consumers-demand-luxury-the-premium-appeal-of-paper-tube-packaging/",
+      "host": "bfbi.org.uk",
+      "classification": {
+        "type": "directory_or_marketplace",
+        "label": "目录/市场/行业索引",
+        "priority": "P1",
+        "safeAction": "只检查免费公开资料页、官网链接和人工闸门；遇到登录、验证码、付费、Verified 声明立即停止。"
+      },
+      "response": {
+        "clusterKey": "paper_tubes::uk::supplier_vetting",
+        "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "UK",
+        "product": "custom paper tube packaging",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-uk-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "UK B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for UK buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://cardboardtubemanufacturers.com",
+      "host": "cardboardtubemanufacturers.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "paper_tubes::united_states::supplier_vetting",
+        "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "United States",
+        "product": "custom paper tube packaging",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-united-states-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "United States B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for United States buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.valkindustries.com/latest-news/how-to-choose-a-paper-tube-manufacturer.html",
+      "host": "valkindustries.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "paper_tubes::united_states::supplier_vetting",
+        "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "United States",
+        "product": "custom paper tube packaging",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-united-states-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "United States B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for United States buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://custompapertubeboxes.com",
+      "host": "custompapertubeboxes.com",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "response": {
+        "clusterKey": "paper_tubes::united_states::supplier_vetting",
+        "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "United States",
+        "product": "custom paper tube packaging",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-united-states-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "United States B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for United States buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers",
+      "host": "innorhino.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "paper_tubes::united_states::supplier_vetting",
+        "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "United States",
+        "product": "custom paper tube packaging",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-united-states-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "United States B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for United States buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://brandtbox.com/blog/how-to-evaluate-custom-packaging-supplier/",
+      "host": "brandtbox.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "paper_tubes::united_states::supplier_vetting",
+        "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "United States",
+        "product": "custom paper tube packaging",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-united-states-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "United States B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for United States buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://presidentcontainergroup.com/6-questions-to-ask-before-choosing-a-packaging-supplier/",
+      "host": "presidentcontainergroup.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "paper_tubes::united_states::supplier_vetting",
+        "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "United States",
+        "product": "custom paper tube packaging",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-united-states-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "United States B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for United States buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://brownpackaging.com/10-essential-questions-you-should-ask-your-packaging-supplier/",
+      "host": "brownpackaging.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "paper_tubes::united_states::supplier_vetting",
+        "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "United States",
+        "product": "custom paper tube packaging",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-united-states-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "United States B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for United States buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://companybox.com/blog/5-questions-to-ask-your-packaging-supplier/",
+      "host": "companybox.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "paper_tubes::united_states::supplier_vetting",
+        "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "United States",
+        "product": "custom paper tube packaging",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-united-states-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "United States B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for United States buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://papertube.co/pages/faq",
+      "host": "papertube.co",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "paper_tubes::united_states::supplier_vetting",
+        "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "United States",
+        "product": "custom paper tube packaging",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-united-states-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "United States B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for United States buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_2",
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.paperindex.com/academy/paper-bag-sample-testing-questions-retail-buyers-can-ask-suppliers/",
+      "host": "paperindex.com",
+      "classification": {
+        "type": "directory_or_marketplace",
+        "label": "目录/市场/行业索引",
+        "priority": "P1",
+        "safeAction": "只检查免费公开资料页、官网链接和人工闸门；遇到登录、验证码、付费、Verified 声明立即停止。"
+      },
+      "response": {
+        "clusterKey": "paper_tubes::united_states::supplier_vetting",
+        "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "United States",
+        "product": "custom paper tube packaging",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-united-states-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "United States B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for United States buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers",
+      "host": "innorhino.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+        "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "Canada",
+        "product": "custom packaging boxes",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-canada-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://brandtbox.com/blog/how-to-evaluate-custom-packaging-supplier/",
+      "host": "brandtbox.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+        "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "Canada",
+        "product": "custom packaging boxes",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-canada-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.theboxery.com/blog/what-questions-should-you-ask-a-shipping-boxes-supplier/",
+      "host": "theboxery.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+        "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "Canada",
+        "product": "custom packaging boxes",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-canada-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://presidentcontainergroup.com/6-questions-to-ask-before-choosing-a-packaging-supplier/",
+      "host": "presidentcontainergroup.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+        "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "Canada",
+        "product": "custom packaging boxes",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-canada-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.jamestowncontainer.com/packaging-resources/blog/4-things-to-look-for-in-corrugated-packaging-suppliers/",
+      "host": "jamestowncontainer.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+        "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "Canada",
+        "product": "custom packaging boxes",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-canada-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.packagingcorp.com/wp-content/uploads/2022/11/Right-Vendor-Infographic.pdf",
+      "host": "packagingcorp.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+        "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "Canada",
+        "product": "custom packaging boxes",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-canada-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://companybox.com/blog/5-questions-to-ask-your-packaging-supplier/",
+      "host": "companybox.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+        "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "Canada",
+        "product": "custom packaging boxes",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-canada-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.modpac.com/essential-questions-to-ask-your-packaging-supplier/",
+      "host": "modpac.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+        "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "Canada",
+        "product": "custom packaging boxes",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-canada-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.expresspkg.com/news/10-questions-to-ask-before-selecting-a-box-manufacturer/",
+      "host": "expresspkg.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+        "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "Canada",
+        "product": "custom packaging boxes",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-canada-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_3",
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://brownpackaging.com/10-essential-questions-you-should-ask-your-packaging-supplier/",
+      "host": "brownpackaging.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+        "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "Canada",
+        "product": "custom packaging boxes",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-canada-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://brandtbox.com/blog/how-to-evaluate-custom-packaging-supplier/",
+      "host": "brandtbox.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom packaging boxes",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-dubai-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers",
+      "host": "innorhino.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom packaging boxes",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-dubai-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.theboxery.com/blog/what-questions-should-you-ask-a-shipping-boxes-supplier/",
+      "host": "theboxery.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom packaging boxes",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-dubai-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://presidentcontainergroup.com/6-questions-to-ask-before-choosing-a-packaging-supplier/",
+      "host": "presidentcontainergroup.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom packaging boxes",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-dubai-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.jamestowncontainer.com/packaging-resources/blog/4-things-to-look-for-in-corrugated-packaging-suppliers/",
+      "host": "jamestowncontainer.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom packaging boxes",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-dubai-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.modpac.com/essential-questions-to-ask-your-packaging-supplier/",
+      "host": "modpac.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom packaging boxes",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-dubai-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://www.expresspkg.com/news/10-questions-to-ask-before-selecting-a-box-manufacturer/",
+      "host": "expresspkg.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom packaging boxes",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-dubai-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://companybox.com/blog/5-questions-to-ask-your-packaging-supplier/",
+      "host": "companybox.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom packaging boxes",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-dubai-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://xactz.com/blogs/news/how-to-choose-a-packaging-supplier-10-questions-to-ask",
+      "host": "xactz.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom packaging boxes",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-dubai-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_4",
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "url": "https://ufppackaging.com/insights/six-things-to-consider-when-choosing-your-packaging-supplier",
+      "host": "ufppackaging.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom packaging boxes",
+        "intent": "supplier_vetting",
+        "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-dubai-supplier-vetting-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_5",
+      "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.icustomboxes.ca/cosmetic-boxes/",
+      "host": "icustomboxes.ca",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "response": {
+        "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+        "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Canada",
+        "product": "custom cosmetic packaging",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-canada-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom cosmetic packaging need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom cosmetic packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_5",
+      "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://packagingtoronto.ca/cosmetic-boxes/",
+      "host": "packagingtoronto.ca",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "response": {
+        "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+        "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Canada",
+        "product": "custom cosmetic packaging",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-canada-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom cosmetic packaging need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom cosmetic packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_5",
+      "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://custompackaginglane.ca/cosmetic-boxes/",
+      "host": "custompackaginglane.ca",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "response": {
+        "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+        "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Canada",
+        "product": "custom cosmetic packaging",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-canada-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom cosmetic packaging need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom cosmetic packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_5",
+      "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.stocksmetic.com/us/custom-cosmetic-packaging",
+      "host": "stocksmetic.com",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "response": {
+        "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+        "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Canada",
+        "product": "custom cosmetic packaging",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-canada-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom cosmetic packaging need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom cosmetic packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_5",
+      "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.instagram.com/reel/DZC3MyKzT2r/",
+      "host": "instagram.com",
+      "classification": {
+        "type": "social_or_forum",
+        "label": "社媒/论坛前台入口",
+        "priority": "P2",
+        "safeAction": "只生成社媒补发包和简介/链接字段检查；不自动评论、私信、关注、点赞或群发。"
+      },
+      "response": {
+        "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+        "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Canada",
+        "product": "custom cosmetic packaging",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-canada-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom cosmetic packaging need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom cosmetic packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_5",
+      "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://thepackaging.ca/product/custom-luxury-cosmetic-packaging-boxes/",
+      "host": "thepackaging.ca",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "response": {
+        "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+        "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Canada",
+        "product": "custom cosmetic packaging",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-canada-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom cosmetic packaging need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom cosmetic packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_6",
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.alibaba.com/price-comparison/custom-cosmetic-packaging-manufacturers",
+      "host": "alibaba.com",
+      "classification": {
+        "type": "directory_or_marketplace",
+        "label": "目录/市场/行业索引",
+        "priority": "P1",
+        "safeAction": "只检查免费公开资料页、官网链接和人工闸门；遇到登录、验证码、付费、Verified 声明立即停止。"
+      },
+      "response": {
+        "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom cosmetic packaging",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-dubai-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom cosmetic packaging need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom cosmetic packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_6",
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://al-kamal.com",
+      "host": "al-kamal.com",
+      "classification": {
+        "type": "unknown_research_first",
+        "label": "待确认来源",
+        "priority": "P2",
+        "safeAction": "先做公开属性预检；确认非同行且有公开投稿/目录机制后再进入人工闸门。"
+      },
+      "response": {
+        "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom cosmetic packaging",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-dubai-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom cosmetic packaging need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom cosmetic packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_6",
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.facebook.com/groups/480114936438748/posts/1626545201795710/",
+      "host": "facebook.com",
+      "classification": {
+        "type": "social_or_forum",
+        "label": "社媒/论坛前台入口",
+        "priority": "P2",
+        "safeAction": "只生成社媒补发包和简介/链接字段检查；不自动评论、私信、关注、点赞或群发。"
+      },
+      "response": {
+        "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom cosmetic packaging",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-dubai-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom cosmetic packaging need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom cosmetic packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_6",
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.tradewheel.com/buyers/cosmetics-packaging/",
+      "host": "tradewheel.com",
+      "classification": {
+        "type": "directory_or_marketplace",
+        "label": "目录/市场/行业索引",
+        "priority": "P1",
+        "safeAction": "只检查免费公开资料页、官网链接和人工闸门；遇到登录、验证码、付费、Verified 声明立即停止。"
+      },
+      "response": {
+        "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom cosmetic packaging",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-dubai-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom cosmetic packaging need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom cosmetic packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_6",
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://sevich.com/2026-middle-east-cosmetic-registration-uae-ksa-for-b2b-buyers/",
+      "host": "sevich.com",
+      "classification": {
+        "type": "unknown_research_first",
+        "label": "待确认来源",
+        "priority": "P2",
+        "safeAction": "先做公开属性预检；确认非同行且有公开投稿/目录机制后再进入人工闸门。"
+      },
+      "response": {
+        "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom cosmetic packaging",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-dubai-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom cosmetic packaging need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom cosmetic packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_6",
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.instagram.com/reel/Cv4iC7btMVs/",
+      "host": "instagram.com",
+      "classification": {
+        "type": "social_or_forum",
+        "label": "社媒/论坛前台入口",
+        "priority": "P2",
+        "safeAction": "只生成社媒补发包和简介/链接字段检查；不自动评论、私信、关注、点赞或群发。"
+      },
+      "response": {
+        "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom cosmetic packaging",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-dubai-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom cosmetic packaging need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom cosmetic packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_6",
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.instagram.com/reel/DBGZNXzy20D/",
+      "host": "instagram.com",
+      "classification": {
+        "type": "social_or_forum",
+        "label": "社媒/论坛前台入口",
+        "priority": "P2",
+        "safeAction": "只生成社媒补发包和简介/链接字段检查；不自动评论、私信、关注、点赞或群发。"
+      },
+      "response": {
+        "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom cosmetic packaging",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-dubai-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom cosmetic packaging need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom cosmetic packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_6",
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.instagram.com/reel/DXdpV8qEos3/",
+      "host": "instagram.com",
+      "classification": {
+        "type": "social_or_forum",
+        "label": "社媒/论坛前台入口",
+        "priority": "P2",
+        "safeAction": "只生成社媒补发包和简介/链接字段检查；不自动评论、私信、关注、点赞或群发。"
+      },
+      "response": {
+        "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom cosmetic packaging",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-dubai-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom cosmetic packaging need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom cosmetic packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_6",
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://onyxplastic.com/cosmetic-packaging-bottles-manufacturer-in-dubai/",
+      "host": "onyxplastic.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom cosmetic packaging",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-dubai-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom cosmetic packaging need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom cosmetic packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_7",
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.wecustomboxes.com/rigid-boxes/",
+      "host": "wecustomboxes.com",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "response": {
+        "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+        "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Canada",
+        "product": "custom rigid gift boxes",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-canada-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom rigid gift boxes need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom rigid gift boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_7",
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.instagram.com/reel/DZYAmGIgRNs/",
+      "host": "instagram.com",
+      "classification": {
+        "type": "social_or_forum",
+        "label": "社媒/论坛前台入口",
+        "priority": "P2",
+        "safeAction": "只生成社媒补发包和简介/链接字段检查；不自动评论、私信、关注、点赞或群发。"
+      },
+      "response": {
+        "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+        "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Canada",
+        "product": "custom rigid gift boxes",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-canada-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom rigid gift boxes need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom rigid gift boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_7",
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.icustomboxes.com",
+      "host": "icustomboxes.com",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "response": {
+        "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+        "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Canada",
+        "product": "custom rigid gift boxes",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-canada-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom rigid gift boxes need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom rigid gift boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_7",
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://theboxes.ca/product/rigid-gift-boxes/",
+      "host": "theboxes.ca",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "response": {
+        "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+        "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Canada",
+        "product": "custom rigid gift boxes",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-canada-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom rigid gift boxes need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom rigid gift boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_7",
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.facebook.com/groups/NextUpAsia/posts/10158344484216657/",
+      "host": "facebook.com",
+      "classification": {
+        "type": "social_or_forum",
+        "label": "社媒/论坛前台入口",
+        "priority": "P2",
+        "safeAction": "只生成社媒补发包和简介/链接字段检查；不自动评论、私信、关注、点赞或群发。"
+      },
+      "response": {
+        "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+        "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Canada",
+        "product": "custom rigid gift boxes",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-canada-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom rigid gift boxes need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom rigid gift boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_7",
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://thepackaging.ca/product/custom-white-rigid-gift-boxes/",
+      "host": "thepackaging.ca",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "response": {
+        "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+        "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Canada",
+        "product": "custom rigid gift boxes",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-canada-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom rigid gift boxes need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom rigid gift boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_7",
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.instagram.com/p/DRh4R_MjRHb/",
+      "host": "instagram.com",
+      "classification": {
+        "type": "social_or_forum",
+        "label": "社媒/论坛前台入口",
+        "priority": "P2",
+        "safeAction": "只生成社媒补发包和简介/链接字段检查；不自动评论、私信、关注、点赞或群发。"
+      },
+      "response": {
+        "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+        "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Canada",
+        "product": "custom rigid gift boxes",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-canada-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom rigid gift boxes need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom rigid gift boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_7",
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.instagram.com/reel/DYkWHeAAJ1j/",
+      "host": "instagram.com",
+      "classification": {
+        "type": "social_or_forum",
+        "label": "社媒/论坛前台入口",
+        "priority": "P2",
+        "safeAction": "只生成社媒补发包和简介/链接字段检查；不自动评论、私信、关注、点赞或群发。"
+      },
+      "response": {
+        "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+        "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Canada",
+        "product": "custom rigid gift boxes",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-canada-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Canada B2B buyers comparing custom rigid gift boxes need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom rigid gift boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_8",
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/packaging-printing/custom-gift-packaging-boxes-guide-alibaba-b2b",
+      "host": "seller.alibaba.com",
+      "classification": {
+        "type": "directory_or_marketplace",
+        "label": "目录/市场/行业索引",
+        "priority": "P1",
+        "safeAction": "只检查免费公开资料页、官网链接和人工闸门；遇到登录、验证码、付费、Verified 声明立即停止。"
+      },
+      "response": {
+        "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom rigid gift boxes",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-dubai-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom rigid gift boxes need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom rigid gift boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_8",
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://therpsllc.com/product/rigid-boxes-printing-supplier-dubai/",
+      "host": "therpsllc.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "response": {
+        "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom rigid gift boxes",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-dubai-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom rigid gift boxes need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom rigid gift boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_8",
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://printerydubai.com/product/rigid-boxes/",
+      "host": "printerydubai.com",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "response": {
+        "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom rigid gift boxes",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-dubai-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom rigid gift boxes need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom rigid gift boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_8",
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.almiskboxes.com",
+      "host": "almiskboxes.com",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "response": {
+        "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom rigid gift boxes",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-dubai-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom rigid gift boxes need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom rigid gift boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_8",
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://veesham.com/rigid-box-printing-in-dubai/",
+      "host": "veesham.com",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "response": {
+        "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom rigid gift boxes",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-dubai-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom rigid gift boxes need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom rigid gift boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_8",
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.instagram.com/reel/Cv4iC7btMVs/",
+      "host": "instagram.com",
+      "classification": {
+        "type": "social_or_forum",
+        "label": "社媒/论坛前台入口",
+        "priority": "P2",
+        "safeAction": "只生成社媒补发包和简介/链接字段检查；不自动评论、私信、关注、点赞或群发。"
+      },
+      "response": {
+        "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom rigid gift boxes",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-dubai-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom rigid gift boxes need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom rigid gift boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_8",
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.instagram.com/reel/DTnSZekCFYs/",
+      "host": "instagram.com",
+      "classification": {
+        "type": "social_or_forum",
+        "label": "社媒/论坛前台入口",
+        "priority": "P2",
+        "safeAction": "只生成社媒补发包和简介/链接字段检查；不自动评论、私信、关注、点赞或群发。"
+      },
+      "response": {
+        "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom rigid gift boxes",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-dubai-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom rigid gift boxes need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom rigid gift boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_8",
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://www.instagram.com/reel/DBGZNXzy20D/",
+      "host": "instagram.com",
+      "classification": {
+        "type": "social_or_forum",
+        "label": "社媒/论坛前台入口",
+        "priority": "P2",
+        "safeAction": "只生成社媒补发包和简介/链接字段检查；不自动评论、私信、关注、点赞或群发。"
+      },
+      "response": {
+        "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom rigid gift boxes",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-dubai-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom rigid gift boxes need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom rigid gift boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    },
+    {
+      "clusterId": "cluster_8",
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "url": "https://habllen.com",
+      "host": "habllen.com",
+      "classification": {
+        "type": "unknown_research_first",
+        "label": "待确认来源",
+        "priority": "P2",
+        "safeAction": "先做公开属性预检；确认非同行且有公开投稿/目录机制后再进入人工闸门。"
+      },
+      "response": {
+        "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+        "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+        "region": "Dubai / GCC",
+        "product": "custom rigid gift boxes",
+        "intent": "quote_rfq",
+        "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-dubai-quote-rfq-2026-06-17.html",
+        "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom rigid gift boxes need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+        "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom rigid gift boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+      }
+    }
+  ],
+  "hostRows": [
+    {
+      "host": "instagram.com",
+      "classification": {
+        "type": "social_or_forum",
+        "label": "社媒/论坛前台入口",
+        "priority": "P2",
+        "safeAction": "只生成社媒补发包和简介/链接字段检查；不自动评论、私信、关注、点赞或群发。"
+      },
+      "count": 10,
+      "clusters": [
+        "cosmetic_packaging::canada::quote_rfq",
+        "cosmetic_packaging::dubai::quote_rfq",
+        "rigid_gift_boxes::canada::quote_rfq",
+        "rigid_gift_boxes::dubai::quote_rfq"
+      ],
+      "urls": [
+        "https://www.instagram.com/p/DRh4R_MjRHb/",
+        "https://www.instagram.com/reel/Cv4iC7btMVs/",
+        "https://www.instagram.com/reel/DBGZNXzy20D/",
+        "https://www.instagram.com/reel/DTnSZekCFYs/",
+        "https://www.instagram.com/reel/DXdpV8qEos3/",
+        "https://www.instagram.com/reel/DYkWHeAAJ1j/",
+        "https://www.instagram.com/reel/DZC3MyKzT2r/",
+        "https://www.instagram.com/reel/DZYAmGIgRNs/"
+      ]
+    },
+    {
+      "host": "brandtbox.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "count": 4,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting",
+        "paper_tubes::uk::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "urls": [
+        "https://brandtbox.com/blog/how-to-evaluate-custom-packaging-supplier/"
+      ]
+    },
+    {
+      "host": "companybox.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "count": 4,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting",
+        "paper_tubes::uk::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "urls": [
+        "https://companybox.com/blog/5-questions-to-ask-your-packaging-supplier/"
+      ]
+    },
+    {
+      "host": "innorhino.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "count": 4,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting",
+        "paper_tubes::uk::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "urls": [
+        "https://innorhino.com/blog/about-business/evaluate-custom-packaging-suppliers"
+      ]
+    },
+    {
+      "host": "brownpackaging.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "count": 3,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "paper_tubes::uk::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "urls": [
+        "https://brownpackaging.com/10-essential-questions-you-should-ask-your-packaging-supplier/"
+      ]
+    },
+    {
+      "host": "presidentcontainergroup.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "count": 3,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "urls": [
+        "https://presidentcontainergroup.com/6-questions-to-ask-before-choosing-a-packaging-supplier/"
+      ]
+    },
+    {
+      "host": "custompapertubeboxes.com",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "count": 2,
+      "clusters": [
+        "paper_tubes::uk::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "urls": [
+        "https://custompapertubeboxes.com"
+      ]
+    },
+    {
+      "host": "expresspkg.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "count": 2,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting"
+      ],
+      "urls": [
+        "https://www.expresspkg.com/news/10-questions-to-ask-before-selecting-a-box-manufacturer/"
+      ]
+    },
+    {
+      "host": "facebook.com",
+      "classification": {
+        "type": "social_or_forum",
+        "label": "社媒/论坛前台入口",
+        "priority": "P2",
+        "safeAction": "只生成社媒补发包和简介/链接字段检查；不自动评论、私信、关注、点赞或群发。"
+      },
+      "count": 2,
+      "clusters": [
+        "cosmetic_packaging::dubai::quote_rfq",
+        "rigid_gift_boxes::canada::quote_rfq"
+      ],
+      "urls": [
+        "https://www.facebook.com/groups/480114936438748/posts/1626545201795710/",
+        "https://www.facebook.com/groups/NextUpAsia/posts/10158344484216657/"
+      ]
+    },
+    {
+      "host": "jamestowncontainer.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "count": 2,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting"
+      ],
+      "urls": [
+        "https://www.jamestowncontainer.com/packaging-resources/blog/4-things-to-look-for-in-corrugated-packaging-suppliers/"
+      ]
+    },
+    {
+      "host": "modpac.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "count": 2,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting"
+      ],
+      "urls": [
+        "https://www.modpac.com/essential-questions-to-ask-your-packaging-supplier/"
+      ]
+    },
+    {
+      "host": "papertube.co",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "count": 2,
+      "clusters": [
+        "paper_tubes::uk::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "urls": [
+        "https://papertube.co/pages/faq"
+      ]
+    },
+    {
+      "host": "theboxery.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "count": 2,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting",
+        "custom_packaging_general::dubai::supplier_vetting"
+      ],
+      "urls": [
+        "https://www.theboxery.com/blog/what-questions-should-you-ask-a-shipping-boxes-supplier/"
+      ]
+    },
+    {
+      "host": "thepackaging.ca",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "count": 2,
+      "clusters": [
+        "cosmetic_packaging::canada::quote_rfq",
+        "rigid_gift_boxes::canada::quote_rfq"
+      ],
+      "urls": [
+        "https://thepackaging.ca/product/custom-luxury-cosmetic-packaging-boxes/",
+        "https://thepackaging.ca/product/custom-white-rigid-gift-boxes/"
+      ]
+    },
+    {
+      "host": "valkindustries.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "count": 2,
+      "clusters": [
+        "paper_tubes::uk::supplier_vetting",
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "urls": [
+        "https://www.valkindustries.com/latest-news/how-to-choose-a-paper-tube-manufacturer.html"
+      ]
+    },
+    {
+      "host": "al-kamal.com",
+      "classification": {
+        "type": "unknown_research_first",
+        "label": "待确认来源",
+        "priority": "P2",
+        "safeAction": "先做公开属性预检；确认非同行且有公开投稿/目录机制后再进入人工闸门。"
+      },
+      "count": 1,
+      "clusters": [
+        "cosmetic_packaging::dubai::quote_rfq"
+      ],
+      "urls": [
+        "https://al-kamal.com"
+      ]
+    },
+    {
+      "host": "alibaba.com",
+      "classification": {
+        "type": "directory_or_marketplace",
+        "label": "目录/市场/行业索引",
+        "priority": "P1",
+        "safeAction": "只检查免费公开资料页、官网链接和人工闸门；遇到登录、验证码、付费、Verified 声明立即停止。"
+      },
+      "count": 1,
+      "clusters": [
+        "cosmetic_packaging::dubai::quote_rfq"
+      ],
+      "urls": [
+        "https://www.alibaba.com/price-comparison/custom-cosmetic-packaging-manufacturers"
+      ]
+    },
+    {
+      "host": "almiskboxes.com",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "count": 1,
+      "clusters": [
+        "rigid_gift_boxes::dubai::quote_rfq"
+      ],
+      "urls": [
+        "https://www.almiskboxes.com"
+      ]
+    },
+    {
+      "host": "bfbi.org.uk",
+      "classification": {
+        "type": "directory_or_marketplace",
+        "label": "目录/市场/行业索引",
+        "priority": "P1",
+        "safeAction": "只检查免费公开资料页、官网链接和人工闸门；遇到登录、验证码、付费、Verified 声明立即停止。"
+      },
+      "count": 1,
+      "clusters": [
+        "paper_tubes::uk::supplier_vetting"
+      ],
+      "urls": [
+        "https://www.bfbi.org.uk/bfbi-news/why-consumers-demand-luxury-the-premium-appeal-of-paper-tube-packaging/"
+      ]
+    },
+    {
+      "host": "cardboardtubemanufacturers.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "count": 1,
+      "clusters": [
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "urls": [
+        "https://cardboardtubemanufacturers.com"
+      ]
+    },
+    {
+      "host": "custompackaginglane.ca",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "count": 1,
+      "clusters": [
+        "cosmetic_packaging::canada::quote_rfq"
+      ],
+      "urls": [
+        "https://custompackaginglane.ca/cosmetic-boxes/"
+      ]
+    },
+    {
+      "host": "habllen.com",
+      "classification": {
+        "type": "unknown_research_first",
+        "label": "待确认来源",
+        "priority": "P2",
+        "safeAction": "先做公开属性预检；确认非同行且有公开投稿/目录机制后再进入人工闸门。"
+      },
+      "count": 1,
+      "clusters": [
+        "rigid_gift_boxes::dubai::quote_rfq"
+      ],
+      "urls": [
+        "https://habllen.com"
+      ]
+    },
+    {
+      "host": "icustomboxes.ca",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "count": 1,
+      "clusters": [
+        "cosmetic_packaging::canada::quote_rfq"
+      ],
+      "urls": [
+        "https://www.icustomboxes.ca/cosmetic-boxes/"
+      ]
+    },
+    {
+      "host": "icustomboxes.com",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "count": 1,
+      "clusters": [
+        "rigid_gift_boxes::canada::quote_rfq"
+      ],
+      "urls": [
+        "https://www.icustomboxes.com"
+      ]
+    },
+    {
+      "host": "nhpapertube.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "count": 1,
+      "clusters": [
+        "paper_tubes::uk::supplier_vetting"
+      ],
+      "urls": [
+        "https://www.nhpapertube.com/questions-to-ask-your-paper-tube-provider"
+      ]
+    },
+    {
+      "host": "onyxplastic.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "count": 1,
+      "clusters": [
+        "cosmetic_packaging::dubai::quote_rfq"
+      ],
+      "urls": [
+        "https://onyxplastic.com/cosmetic-packaging-bottles-manufacturer-in-dubai/"
+      ]
+    },
+    {
+      "host": "packagingcorp.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "count": 1,
+      "clusters": [
+        "custom_packaging_general::canada::supplier_vetting"
+      ],
+      "urls": [
+        "https://www.packagingcorp.com/wp-content/uploads/2022/11/Right-Vendor-Infographic.pdf"
+      ]
+    },
+    {
+      "host": "packagingtoronto.ca",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "count": 1,
+      "clusters": [
+        "cosmetic_packaging::canada::quote_rfq"
+      ],
+      "urls": [
+        "https://packagingtoronto.ca/cosmetic-boxes/"
+      ]
+    },
+    {
+      "host": "paperindex.com",
+      "classification": {
+        "type": "directory_or_marketplace",
+        "label": "目录/市场/行业索引",
+        "priority": "P1",
+        "safeAction": "只检查免费公开资料页、官网链接和人工闸门；遇到登录、验证码、付费、Verified 声明立即停止。"
+      },
+      "count": 1,
+      "clusters": [
+        "paper_tubes::united_states::supplier_vetting"
+      ],
+      "urls": [
+        "https://www.paperindex.com/academy/paper-bag-sample-testing-questions-retail-buyers-can-ask-suppliers/"
+      ]
+    },
+    {
+      "host": "printerydubai.com",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "count": 1,
+      "clusters": [
+        "rigid_gift_boxes::dubai::quote_rfq"
+      ],
+      "urls": [
+        "https://printerydubai.com/product/rigid-boxes/"
+      ]
+    },
+    {
+      "host": "seller.alibaba.com",
+      "classification": {
+        "type": "directory_or_marketplace",
+        "label": "目录/市场/行业索引",
+        "priority": "P1",
+        "safeAction": "只检查免费公开资料页、官网链接和人工闸门；遇到登录、验证码、付费、Verified 声明立即停止。"
+      },
+      "count": 1,
+      "clusters": [
+        "rigid_gift_boxes::dubai::quote_rfq"
+      ],
+      "urls": [
+        "https://seller.alibaba.com/blogs/2026/southeast-asia/packaging-printing/custom-gift-packaging-boxes-guide-alibaba-b2b"
+      ]
+    },
+    {
+      "host": "sevich.com",
+      "classification": {
+        "type": "unknown_research_first",
+        "label": "待确认来源",
+        "priority": "P2",
+        "safeAction": "先做公开属性预检；确认非同行且有公开投稿/目录机制后再进入人工闸门。"
+      },
+      "count": 1,
+      "clusters": [
+        "cosmetic_packaging::dubai::quote_rfq"
+      ],
+      "urls": [
+        "https://sevich.com/2026-middle-east-cosmetic-registration-uae-ksa-for-b2b-buyers/"
+      ]
+    },
+    {
+      "host": "stocksmetic.com",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "count": 1,
+      "clusters": [
+        "cosmetic_packaging::canada::quote_rfq"
+      ],
+      "urls": [
+        "https://www.stocksmetic.com/us/custom-cosmetic-packaging"
+      ]
+    },
+    {
+      "host": "theboxes.ca",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "count": 1,
+      "clusters": [
+        "rigid_gift_boxes::canada::quote_rfq"
+      ],
+      "urls": [
+        "https://theboxes.ca/product/rigid-gift-boxes/"
+      ]
+    },
+    {
+      "host": "therpsllc.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "count": 1,
+      "clusters": [
+        "rigid_gift_boxes::dubai::quote_rfq"
+      ],
+      "urls": [
+        "https://therpsllc.com/product/rigid-boxes-printing-supplier-dubai/"
+      ]
+    },
+    {
+      "host": "tradewheel.com",
+      "classification": {
+        "type": "directory_or_marketplace",
+        "label": "目录/市场/行业索引",
+        "priority": "P1",
+        "safeAction": "只检查免费公开资料页、官网链接和人工闸门；遇到登录、验证码、付费、Verified 声明立即停止。"
+      },
+      "count": 1,
+      "clusters": [
+        "cosmetic_packaging::dubai::quote_rfq"
+      ],
+      "urls": [
+        "https://www.tradewheel.com/buyers/cosmetics-packaging/"
+      ]
+    },
+    {
+      "host": "tubepackagingpro.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "count": 1,
+      "clusters": [
+        "paper_tubes::uk::supplier_vetting"
+      ],
+      "urls": [
+        "https://tubepackagingpro.com/custom-paper-tube-packaging-guide/"
+      ]
+    },
+    {
+      "host": "ufppackaging.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "count": 1,
+      "clusters": [
+        "custom_packaging_general::dubai::supplier_vetting"
+      ],
+      "urls": [
+        "https://ufppackaging.com/insights/six-things-to-consider-when-choosing-your-packaging-supplier"
+      ]
+    },
+    {
+      "host": "veesham.com",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "count": 1,
+      "clusters": [
+        "rigid_gift_boxes::dubai::quote_rfq"
+      ],
+      "urls": [
+        "https://veesham.com/rigid-box-printing-in-dubai/"
+      ]
+    },
+    {
+      "host": "wecustomboxes.com",
+      "classification": {
+        "type": "competitor_research_only",
+        "label": "同行/供应商研究源",
+        "priority": "P0",
+        "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。"
+      },
+      "count": 1,
+      "clusters": [
+        "rigid_gift_boxes::canada::quote_rfq"
+      ],
+      "urls": [
+        "https://www.wecustomboxes.com/rigid-boxes/"
+      ]
+    },
+    {
+      "host": "xactz.com",
+      "classification": {
+        "type": "editorial_buyer_guide",
+        "label": "编辑型买家指南/检查清单",
+        "priority": "P0",
+        "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。"
+      },
+      "count": 1,
+      "clusters": [
+        "custom_packaging_general::dubai::supplier_vetting"
+      ],
+      "urls": [
+        "https://xactz.com/blogs/news/how-to-choose-a-packaging-supplier-10-questions-to-ask"
+      ]
+    }
+  ],
+  "typeRows": [
+    {
+      "type": "editorial_buyer_guide",
+      "label": "编辑型买家指南/检查清单",
+      "priority": "P0",
+      "safeAction": "以其结构反向补齐 MUGE 的买家检查清单、RFQ 字段表、源引用卡和人工编辑请求草稿。",
+      "hosts": [
+        "brandtbox.com",
+        "companybox.com",
+        "innorhino.com",
+        "brownpackaging.com",
+        "presidentcontainergroup.com",
+        "expresspkg.com",
+        "jamestowncontainer.com",
+        "modpac.com",
+        "papertube.co",
+        "theboxery.com",
+        "valkindustries.com",
+        "cardboardtubemanufacturers.com",
+        "nhpapertube.com",
+        "onyxplastic.com",
+        "packagingcorp.com",
+        "therpsllc.com",
+        "tubepackagingpro.com",
+        "ufppackaging.com",
+        "xactz.com"
+      ],
+      "totalMentions": 38
+    },
+    {
+      "type": "competitor_research_only",
+      "label": "同行/供应商研究源",
+      "priority": "P0",
+      "safeAction": "只研究其被 AI 引用的页面结构和信息密度，不外联、不当客户、不做背书暗示。",
+      "hosts": [
+        "custompapertubeboxes.com",
+        "thepackaging.ca",
+        "almiskboxes.com",
+        "custompackaginglane.ca",
+        "icustomboxes.ca",
+        "icustomboxes.com",
+        "packagingtoronto.ca",
+        "printerydubai.com",
+        "stocksmetic.com",
+        "theboxes.ca",
+        "veesham.com",
+        "wecustomboxes.com"
+      ],
+      "totalMentions": 14
+    },
+    {
+      "type": "social_or_forum",
+      "label": "社媒/论坛前台入口",
+      "priority": "P2",
+      "safeAction": "只生成社媒补发包和简介/链接字段检查；不自动评论、私信、关注、点赞或群发。",
+      "hosts": [
+        "instagram.com",
+        "facebook.com"
+      ],
+      "totalMentions": 12
+    },
+    {
+      "type": "directory_or_marketplace",
+      "label": "目录/市场/行业索引",
+      "priority": "P1",
+      "safeAction": "只检查免费公开资料页、官网链接和人工闸门；遇到登录、验证码、付费、Verified 声明立即停止。",
+      "hosts": [
+        "alibaba.com",
+        "bfbi.org.uk",
+        "paperindex.com",
+        "seller.alibaba.com",
+        "tradewheel.com"
+      ],
+      "totalMentions": 5
+    },
+    {
+      "type": "unknown_research_first",
+      "label": "待确认来源",
+      "priority": "P2",
+      "safeAction": "先做公开属性预检；确认非同行且有公开投稿/目录机制后再进入人工闸门。",
+      "hosts": [
+        "al-kamal.com",
+        "habllen.com",
+        "sevich.com"
+      ],
+      "totalMentions": 3
+    }
+  ],
+  "clusterResponses": [
+    {
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "prompt": "For a UK B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "region": "UK",
+      "product": "custom paper tube packaging",
+      "intent": "supplier_vetting",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-uk-supplier-vetting-2026-06-17.html",
+      "buyerAnswerAngle": "UK B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+      "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for UK buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+    },
+    {
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "prompt": "For a United States B2B buyer looking for custom paper tube packaging, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "region": "United States",
+      "product": "custom paper tube packaging",
+      "intent": "supplier_vetting",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-paper-tubes-united-states-supplier-vetting-2026-06-17.html",
+      "buyerAnswerAngle": "United States B2B buyers comparing custom paper tube packaging need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+      "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for United States buyers comparing custom paper tube packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+    },
+    {
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "prompt": "For a Canada B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "region": "Canada",
+      "product": "custom packaging boxes",
+      "intent": "supplier_vetting",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-canada-supplier-vetting-2026-06-17.html",
+      "buyerAnswerAngle": "Canada B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+      "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+    },
+    {
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom packaging boxes, which supplier-vetting questions and public source pages should a buyer review before shortlisting suppliers? Cite sources.",
+      "region": "Dubai / GCC",
+      "product": "custom packaging boxes",
+      "intent": "supplier_vetting",
+      "officialUrl": "https://mugepackaging.com/products/custom-packaging",
+      "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-custom-packaging-general-dubai-supplier-vetting-2026-06-17.html",
+      "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom packaging boxes need a claim-bounded supplier-vetting checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+      "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom packaging boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+    },
+    {
+      "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "region": "Canada",
+      "product": "custom cosmetic packaging",
+      "intent": "quote_rfq",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-canada-quote-rfq-2026-06-17.html",
+      "buyerAnswerAngle": "Canada B2B buyers comparing custom cosmetic packaging need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+      "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom cosmetic packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+    },
+    {
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom cosmetic packaging, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "region": "Dubai / GCC",
+      "product": "custom cosmetic packaging",
+      "intent": "quote_rfq",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-cosmetic-packaging-dubai-quote-rfq-2026-06-17.html",
+      "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom cosmetic packaging need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+      "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom cosmetic packaging. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+    },
+    {
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "prompt": "For a Canada B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "region": "Canada",
+      "product": "custom rigid gift boxes",
+      "intent": "quote_rfq",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-canada-quote-rfq-2026-06-17.html",
+      "buyerAnswerAngle": "Canada B2B buyers comparing custom rigid gift boxes need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+      "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Canada buyers comparing custom rigid gift boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+    },
+    {
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "prompt": "For a Dubai and GCC B2B buyer looking for custom rigid gift boxes, what should a buyer prepare before requesting a quote or RFQ, and which public source pages are useful? Cite sources.",
+      "region": "Dubai / GCC",
+      "product": "custom rigid gift boxes",
+      "intent": "quote_rfq",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "p0ChecklistUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-buyer-checklist-rigid-gift-boxes-dubai-quote-rfq-2026-06-17.html",
+      "buyerAnswerAngle": "Dubai / GCC B2B buyers comparing custom rigid gift boxes need a claim-bounded RFQ / quote preparation checklist: product dimensions, material direction, structure, insert/protection needs, finish direction, channel, review process, and supplier communication boundaries.",
+      "manualEditorRequest": "Suggested manual-gated request: ask an editor or directory owner whether they accept an additional neutral source for Dubai / GCC buyers comparing custom rigid gift boxes. Use MUGE PACKAGING only as an official source page and checklist reference. Do not claim endorsement, verified supplier status, fixed MOQ, fixed lead time, price, customer cases or regulatory guarantee."
+    }
+  ],
+  "boundary": "This pack maps AI-cited source adjacency opportunities. It is not ranking proof, AI natural citation proof, traffic proof, inquiry proof, third-party endorsement, certification proof, fixed MOQ, fixed lead time, fixed price, customer case or compliance guarantee.",
+  "generatedAtCst": "2026-06-17 02:30:40"
+}
