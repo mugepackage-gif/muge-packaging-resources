@@ -1,3 +1,12 @@
+<!-- MUGE_SEO_GEO_7_DAY_KEYWORD_CLUSTER_SOURCE_PACK_2026_06_16:start -->
+## SEO/GEO 7-Day Keyword Cluster Sprint Source Pack - 2026-06-16
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/seo-geo-7-day-keyword-cluster-sprint-source-pack-2026-06-16.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/seo-geo-7-day-keyword-cluster-sprint-source-pack-2026-06-16.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/seo-geo-7-day-keyword-cluster-sprint-source-pack-2026-06-16.json
+- Scope: public keyword-layer and 7-day execution-cluster source pack connecting 23 hard-validation terms, 300 AI questions, 800 execution terms and the 24,201 keyword universe.
+- Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+<!-- MUGE_SEO_GEO_7_DAY_KEYWORD_CLUSTER_SOURCE_PACK_2026_06_16:end -->
+
 <!-- MUGE_COSMETIC_PACKAGING_DUBAI_QUOTE_SOURCE_PATH_2026_06_16:start -->
 ## Cosmetic Packaging Dubai Custom Quote Source Path - 2026-06-16
 - [HTML](https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-dubai-custom-quote-source-path-2026-06-16.html): Public source path for Dubai / GCC cosmetic packaging quote questions.

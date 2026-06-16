@@ -1,0 +1,978 @@
+{
+  "generatedAt": "2026-06-16T01:05:34.171Z",
+  "createdAtCst": "2026-06-16 09:05:34",
+  "publishedDate": "2026-06-16",
+  "sourceSprintPath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/关键词策略/7天冲刺执行包/20260616_0903_MUGE_SEO_GEO_关键词宇宙7天冲刺执行包.json",
+  "sourceSprintInput": {
+    "totalKeywords": 24201,
+    "hardValidationKeywords": 23,
+    "executionRows": 800,
+    "aiRows": 300
+  },
+  "strategy": "23个词只做硬验收；7天冲刺按产品×地区×采购意图词簇推进，每簇必须绑定官网承接、公开资产、IndexNow、GEO/SEO复验。",
+  "clusters": [
+    {
+      "sprintOrder": 1,
+      "clusterKey": "paper_tubes::uk::supplier_vetting",
+      "product": "paper_tubes",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "suggestedPublicAssetSlug": "paper-tubes-uk-supplier-vetting-buyer-source-pack-2026-06-16",
+      "suggestedPublicAssetUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uk-supplier-vetting-buyer-source-pack-2026-06-16.html",
+      "keywordCountInCluster": 13,
+      "keywords": [
+        {
+          "keyword": "custom paper tubes china manufacturer uk",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 174,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "custom paper tubes china supplier uk",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 174,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "custom paper tubes factory uk",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 174,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "custom paper tubes manufacturer uk",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 174,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "custom paper tubes source factory uk",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 174,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "custom paper tubes supplier uk",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 174,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "uk brands custom paper tubes supplier",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 174,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "custom paper tubes china manufacturer united kingdom",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 168,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "custom paper tubes china supplier united kingdom",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 168,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "custom paper tubes factory united kingdom",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 168,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        }
+      ],
+      "aiQuestions": [
+        {
+          "keyword": "quote checklist custom paper tubes",
+          "bucket": "GEO_AI问答测试",
+          "class": "交易型",
+          "score": 168,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "best custom paper tubes",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 156,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "buying guide custom paper tubes",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 156,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "guide custom paper tubes",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 156,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "how to choose custom paper tubes",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 156,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "how to compare custom paper tubes",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 156,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        }
+      ],
+      "executionTasks": {
+        "website": "检查目标页是否已承接该词簇；补强一段可索引采购说明、3-5个FAQ、一个对比/报价要点表、2-3个内部链接锚文本；不改URL/canonical/title/H1/meta/sitemap/robots。",
+        "externalAsset": "创建或更新一个公开 source pack / buyer source map，链接官网目标页，覆盖关键词、买家问题、报价资料清单、供应商筛选问题；发布到 GitHub Pages 后提交 IndexNow。",
+        "validation": "用 GSC/SerpAPI/Perplexity 复验：Google精确可见、前20、GSC展示/点击、AI是否提到MUGE/官网/公开资产。",
+        "distribution": "生成LinkedIn/Pinterest/社媒自然分发草稿；不自动私信、不自动评论、不虚构认证或客户案例。"
+      }
+    },
+    {
+      "sprintOrder": 2,
+      "clusterKey": "paper_tubes::united_states::supplier_vetting",
+      "product": "paper_tubes",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "suggestedPublicAssetSlug": "paper-tubes-united-states-supplier-vetting-buyer-source-pack-2026-06-16",
+      "suggestedPublicAssetUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-united-states-supplier-vetting-buyer-source-pack-2026-06-16.html",
+      "keywordCountInCluster": 12,
+      "keywords": [
+        {
+          "keyword": "custom paper tubes china manufacturer united states",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 174,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "custom paper tubes china supplier united states",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 174,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "custom paper tubes factory united states",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 174,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "custom paper tubes manufacturer united states",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 174,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "custom paper tubes source factory united states",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 174,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "custom paper tubes supplier united states",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 174,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "custom paper tubes china manufacturer usa",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 168,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "custom paper tubes china supplier usa",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 168,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "custom paper tubes factory usa",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 168,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "custom paper tubes manufacturer usa",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 168,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        }
+      ],
+      "aiQuestions": [
+        {
+          "keyword": "quote checklist custom paper tubes",
+          "bucket": "GEO_AI问答测试",
+          "class": "交易型",
+          "score": 168,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "best custom paper tubes",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 156,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "buying guide custom paper tubes",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 156,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "guide custom paper tubes",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 156,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "how to choose custom paper tubes",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 156,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        },
+        {
+          "keyword": "how to compare custom paper tubes",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 156,
+          "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+          "evidence": "GSC相关触发：custom paper tubes | GA4目标页：sessions 76，organic 39，paid 0"
+        }
+      ],
+      "executionTasks": {
+        "website": "检查目标页是否已承接该词簇；补强一段可索引采购说明、3-5个FAQ、一个对比/报价要点表、2-3个内部链接锚文本；不改URL/canonical/title/H1/meta/sitemap/robots。",
+        "externalAsset": "创建或更新一个公开 source pack / buyer source map，链接官网目标页，覆盖关键词、买家问题、报价资料清单、供应商筛选问题；发布到 GitHub Pages 后提交 IndexNow。",
+        "validation": "用 GSC/SerpAPI/Perplexity 复验：Google精确可见、前20、GSC展示/点击、AI是否提到MUGE/官网/公开资产。",
+        "distribution": "生成LinkedIn/Pinterest/社媒自然分发草稿；不自动私信、不自动评论、不虚构认证或客户案例。"
+      }
+    },
+    {
+      "sprintOrder": 3,
+      "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+      "product": "custom_packaging_general",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products",
+      "suggestedPublicAssetSlug": "custom-packaging-general-canada-supplier-vetting-buyer-source-pack-2026-06-16",
+      "suggestedPublicAssetUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-general-canada-supplier-vetting-buyer-source-pack-2026-06-16.html",
+      "keywordCountInCluster": 12,
+      "keywords": [
+        {
+          "keyword": "custom packaging boxes china manufacturer canada",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 153,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        },
+        {
+          "keyword": "custom packaging boxes china supplier canada",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 153,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        },
+        {
+          "keyword": "custom packaging boxes factory canada",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 153,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        },
+        {
+          "keyword": "custom packaging boxes manufacturer canada",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 153,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        },
+        {
+          "keyword": "custom packaging boxes source factory canada",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 153,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        },
+        {
+          "keyword": "custom packaging boxes supplier canada",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 153,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        },
+        {
+          "keyword": "custom packaging china manufacturer canada",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 153,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        },
+        {
+          "keyword": "custom packaging china supplier canada",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 153,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        },
+        {
+          "keyword": "custom packaging factory canada",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 153,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        },
+        {
+          "keyword": "custom packaging manufacturer canada",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 153,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        }
+      ],
+      "aiQuestions": [
+        {
+          "keyword": "manufacturer or trading company for custom packaging",
+          "bucket": "GEO_AI问答测试",
+          "class": "交易型",
+          "score": 147,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        },
+        {
+          "keyword": "how to compare packaging for gift sets",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 143,
+          "targetUrl": "https://mugepackaging.com/contact",
+          "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 69，organic 0，paid 13"
+        },
+        {
+          "keyword": "how to compare packaging for european brands",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 141,
+          "targetUrl": "https://mugepackaging.com/contact",
+          "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 69，organic 0，paid 13"
+        },
+        {
+          "keyword": "how to compare packaging for middle east brands",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 141,
+          "targetUrl": "https://mugepackaging.com/contact",
+          "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 69，organic 0，paid 13"
+        },
+        {
+          "keyword": "how to compare packaging for uk brands",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 141,
+          "targetUrl": "https://mugepackaging.com/contact",
+          "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 69，organic 0，paid 13"
+        },
+        {
+          "keyword": "best custom packaging",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 135,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        }
+      ],
+      "executionTasks": {
+        "website": "检查目标页是否已承接该词簇；补强一段可索引采购说明、3-5个FAQ、一个对比/报价要点表、2-3个内部链接锚文本；不改URL/canonical/title/H1/meta/sitemap/robots。",
+        "externalAsset": "创建或更新一个公开 source pack / buyer source map，链接官网目标页，覆盖关键词、买家问题、报价资料清单、供应商筛选问题；发布到 GitHub Pages 后提交 IndexNow。",
+        "validation": "用 GSC/SerpAPI/Perplexity 复验：Google精确可见、前20、GSC展示/点击、AI是否提到MUGE/官网/公开资产。",
+        "distribution": "生成LinkedIn/Pinterest/社媒自然分发草稿；不自动私信、不自动评论、不虚构认证或客户案例。"
+      }
+    },
+    {
+      "sprintOrder": 4,
+      "clusterKey": "custom_packaging_general::dubai::supplier_vetting",
+      "product": "custom_packaging_general",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products",
+      "suggestedPublicAssetSlug": "custom-packaging-general-dubai-supplier-vetting-buyer-source-pack-2026-06-16",
+      "suggestedPublicAssetUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-general-dubai-supplier-vetting-buyer-source-pack-2026-06-16.html",
+      "keywordCountInCluster": 12,
+      "keywords": [
+        {
+          "keyword": "custom packaging boxes china manufacturer dubai",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 153,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        },
+        {
+          "keyword": "custom packaging boxes china supplier dubai",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 153,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        },
+        {
+          "keyword": "custom packaging boxes factory dubai",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 153,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        },
+        {
+          "keyword": "custom packaging boxes manufacturer dubai",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 153,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        },
+        {
+          "keyword": "custom packaging boxes source factory dubai",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 153,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        },
+        {
+          "keyword": "custom packaging boxes supplier dubai",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 153,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        },
+        {
+          "keyword": "custom packaging china manufacturer dubai",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 153,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        },
+        {
+          "keyword": "custom packaging china supplier dubai",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 153,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        },
+        {
+          "keyword": "custom packaging factory dubai",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 153,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        },
+        {
+          "keyword": "custom packaging manufacturer dubai",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 153,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        }
+      ],
+      "aiQuestions": [
+        {
+          "keyword": "manufacturer or trading company for custom packaging",
+          "bucket": "GEO_AI问答测试",
+          "class": "交易型",
+          "score": 147,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        },
+        {
+          "keyword": "how to compare packaging for gift sets",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 143,
+          "targetUrl": "https://mugepackaging.com/contact",
+          "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 69，organic 0，paid 13"
+        },
+        {
+          "keyword": "how to compare packaging for european brands",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 141,
+          "targetUrl": "https://mugepackaging.com/contact",
+          "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 69，organic 0，paid 13"
+        },
+        {
+          "keyword": "how to compare packaging for middle east brands",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 141,
+          "targetUrl": "https://mugepackaging.com/contact",
+          "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 69，organic 0，paid 13"
+        },
+        {
+          "keyword": "how to compare packaging for uk brands",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 141,
+          "targetUrl": "https://mugepackaging.com/contact",
+          "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 69，organic 0，paid 13"
+        },
+        {
+          "keyword": "best custom packaging",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 135,
+          "targetUrl": "https://mugepackaging.com/products",
+          "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+        }
+      ],
+      "executionTasks": {
+        "website": "检查目标页是否已承接该词簇；补强一段可索引采购说明、3-5个FAQ、一个对比/报价要点表、2-3个内部链接锚文本；不改URL/canonical/title/H1/meta/sitemap/robots。",
+        "externalAsset": "创建或更新一个公开 source pack / buyer source map，链接官网目标页，覆盖关键词、买家问题、报价资料清单、供应商筛选问题；发布到 GitHub Pages 后提交 IndexNow。",
+        "validation": "用 GSC/SerpAPI/Perplexity 复验：Google精确可见、前20、GSC展示/点击、AI是否提到MUGE/官网/公开资产。",
+        "distribution": "生成LinkedIn/Pinterest/社媒自然分发草稿；不自动私信、不自动评论、不虚构认证或客户案例。"
+      }
+    },
+    {
+      "sprintOrder": 5,
+      "clusterKey": "cosmetic_packaging::canada::quote_rfq",
+      "product": "cosmetic_packaging",
+      "region": "canada",
+      "intent": "quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "suggestedPublicAssetSlug": "cosmetic-packaging-canada-quote-rfq-buyer-source-pack-2026-06-16",
+      "suggestedPublicAssetUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-canada-quote-rfq-buyer-source-pack-2026-06-16.html",
+      "keywordCountInCluster": 4,
+      "keywords": [
+        {
+          "keyword": "cosmetic packaging custom quote canada",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 149,
+          "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+          "evidence": "GA4目标页：sessions 55，organic 36，paid 0"
+        },
+        {
+          "keyword": "custom cosmetic packaging custom quote canada",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 149,
+          "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+          "evidence": "GA4目标页：sessions 55，organic 36，paid 0"
+        },
+        {
+          "keyword": "custom cosmetic packaging quote canada",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 149,
+          "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+          "evidence": "GA4目标页：sessions 55，organic 36，paid 0"
+        },
+        {
+          "keyword": "skincare packaging boxes custom quote canada",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 149,
+          "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+          "evidence": "GA4目标页：sessions 55，organic 36，paid 0"
+        }
+      ],
+      "aiQuestions": [
+        {
+          "keyword": "how to compare packaging for cosmetics",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 156,
+          "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+          "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 55，organic 36，paid 0"
+        },
+        {
+          "keyword": "how to compare packaging for skincare",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 156,
+          "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+          "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 55，organic 36，paid 0"
+        },
+        {
+          "keyword": "how to compare packaging for beauty brands",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 148,
+          "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+          "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 55，organic 36，paid 0"
+        },
+        {
+          "keyword": "how to compare packaging for makeup",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 148,
+          "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+          "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 55，organic 36，paid 0"
+        },
+        {
+          "keyword": "how to compare packaging for perfume",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 148,
+          "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+          "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 55，organic 36，paid 0"
+        },
+        {
+          "keyword": "quote checklist custom cosmetic packaging",
+          "bucket": "GEO_AI问答测试",
+          "class": "交易型",
+          "score": 143,
+          "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+          "evidence": "GA4目标页：sessions 55，organic 36，paid 0"
+        }
+      ],
+      "executionTasks": {
+        "website": "检查目标页是否已承接该词簇；补强一段可索引采购说明、3-5个FAQ、一个对比/报价要点表、2-3个内部链接锚文本；不改URL/canonical/title/H1/meta/sitemap/robots。",
+        "externalAsset": "创建或更新一个公开 source pack / buyer source map，链接官网目标页，覆盖关键词、买家问题、报价资料清单、供应商筛选问题；发布到 GitHub Pages 后提交 IndexNow。",
+        "validation": "用 GSC/SerpAPI/Perplexity 复验：Google精确可见、前20、GSC展示/点击、AI是否提到MUGE/官网/公开资产。",
+        "distribution": "生成LinkedIn/Pinterest/社媒自然分发草稿；不自动私信、不自动评论、不虚构认证或客户案例。"
+      }
+    },
+    {
+      "sprintOrder": 6,
+      "clusterKey": "cosmetic_packaging::dubai::quote_rfq",
+      "product": "cosmetic_packaging",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "suggestedPublicAssetSlug": "cosmetic-packaging-dubai-quote-rfq-buyer-source-pack-2026-06-16",
+      "suggestedPublicAssetUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-dubai-quote-rfq-buyer-source-pack-2026-06-16.html",
+      "keywordCountInCluster": 4,
+      "keywords": [
+        {
+          "keyword": "cosmetic packaging custom quote dubai",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 149,
+          "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+          "evidence": "GA4目标页：sessions 55，organic 36，paid 0"
+        },
+        {
+          "keyword": "custom cosmetic packaging custom quote dubai",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 149,
+          "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+          "evidence": "GA4目标页：sessions 55，organic 36，paid 0"
+        },
+        {
+          "keyword": "custom cosmetic packaging quote dubai",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 149,
+          "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+          "evidence": "GA4目标页：sessions 55，organic 36，paid 0"
+        },
+        {
+          "keyword": "skincare packaging boxes custom quote dubai",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 149,
+          "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+          "evidence": "GA4目标页：sessions 55，organic 36，paid 0"
+        }
+      ],
+      "aiQuestions": [
+        {
+          "keyword": "how to compare packaging for cosmetics",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 156,
+          "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+          "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 55，organic 36，paid 0"
+        },
+        {
+          "keyword": "how to compare packaging for skincare",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 156,
+          "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+          "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 55，organic 36，paid 0"
+        },
+        {
+          "keyword": "how to compare packaging for beauty brands",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 148,
+          "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+          "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 55，organic 36，paid 0"
+        },
+        {
+          "keyword": "how to compare packaging for makeup",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 148,
+          "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+          "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 55，organic 36，paid 0"
+        },
+        {
+          "keyword": "how to compare packaging for perfume",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 148,
+          "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+          "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 55，organic 36，paid 0"
+        },
+        {
+          "keyword": "quote checklist custom cosmetic packaging",
+          "bucket": "GEO_AI问答测试",
+          "class": "交易型",
+          "score": 143,
+          "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+          "evidence": "GA4目标页：sessions 55，organic 36，paid 0"
+        }
+      ],
+      "executionTasks": {
+        "website": "检查目标页是否已承接该词簇；补强一段可索引采购说明、3-5个FAQ、一个对比/报价要点表、2-3个内部链接锚文本；不改URL/canonical/title/H1/meta/sitemap/robots。",
+        "externalAsset": "创建或更新一个公开 source pack / buyer source map，链接官网目标页，覆盖关键词、买家问题、报价资料清单、供应商筛选问题；发布到 GitHub Pages 后提交 IndexNow。",
+        "validation": "用 GSC/SerpAPI/Perplexity 复验：Google精确可见、前20、GSC展示/点击、AI是否提到MUGE/官网/公开资产。",
+        "distribution": "生成LinkedIn/Pinterest/社媒自然分发草稿；不自动私信、不自动评论、不虚构认证或客户案例。"
+      }
+    },
+    {
+      "sprintOrder": 7,
+      "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+      "product": "rigid_gift_boxes",
+      "region": "canada",
+      "intent": "quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "suggestedPublicAssetSlug": "rigid-gift-boxes-canada-quote-rfq-buyer-source-pack-2026-06-16",
+      "suggestedPublicAssetUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-canada-quote-rfq-buyer-source-pack-2026-06-16.html",
+      "keywordCountInCluster": 1,
+      "keywords": [
+        {
+          "keyword": "gift box packaging custom quote canada",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 149,
+          "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+          "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+        }
+      ],
+      "aiQuestions": [
+        {
+          "keyword": "quote checklist custom gift boxes",
+          "bucket": "GEO_AI问答测试",
+          "class": "交易型",
+          "score": 133,
+          "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+          "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+        },
+        {
+          "keyword": "quote checklist gift box packaging",
+          "bucket": "GEO_AI问答测试",
+          "class": "交易型",
+          "score": 133,
+          "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+          "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+        },
+        {
+          "keyword": "quote checklist folding carton packaging",
+          "bucket": "GEO_AI问答测试",
+          "class": "交易型",
+          "score": 125,
+          "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+          "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+        },
+        {
+          "keyword": "quote checklist folding gift boxes",
+          "bucket": "GEO_AI问答测试",
+          "class": "交易型",
+          "score": 123,
+          "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+          "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+        },
+        {
+          "keyword": "best custom gift boxes",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 121,
+          "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+          "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+        },
+        {
+          "keyword": "best gift box packaging",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 121,
+          "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+          "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+        }
+      ],
+      "executionTasks": {
+        "website": "检查目标页是否已承接该词簇；补强一段可索引采购说明、3-5个FAQ、一个对比/报价要点表、2-3个内部链接锚文本；不改URL/canonical/title/H1/meta/sitemap/robots。",
+        "externalAsset": "创建或更新一个公开 source pack / buyer source map，链接官网目标页，覆盖关键词、买家问题、报价资料清单、供应商筛选问题；发布到 GitHub Pages 后提交 IndexNow。",
+        "validation": "用 GSC/SerpAPI/Perplexity 复验：Google精确可见、前20、GSC展示/点击、AI是否提到MUGE/官网/公开资产。",
+        "distribution": "生成LinkedIn/Pinterest/社媒自然分发草稿；不自动私信、不自动评论、不虚构认证或客户案例。"
+      }
+    },
+    {
+      "sprintOrder": 8,
+      "clusterKey": "rigid_gift_boxes::dubai::quote_rfq",
+      "product": "rigid_gift_boxes",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "suggestedPublicAssetSlug": "rigid-gift-boxes-dubai-quote-rfq-buyer-source-pack-2026-06-16",
+      "suggestedPublicAssetUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-dubai-quote-rfq-buyer-source-pack-2026-06-16.html",
+      "keywordCountInCluster": 1,
+      "keywords": [
+        {
+          "keyword": "gift box packaging custom quote dubai",
+          "bucket": "P2交易执行",
+          "class": "交易型",
+          "score": 149,
+          "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+          "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+        }
+      ],
+      "aiQuestions": [
+        {
+          "keyword": "quote checklist custom gift boxes",
+          "bucket": "GEO_AI问答测试",
+          "class": "交易型",
+          "score": 133,
+          "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+          "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+        },
+        {
+          "keyword": "quote checklist gift box packaging",
+          "bucket": "GEO_AI问答测试",
+          "class": "交易型",
+          "score": 133,
+          "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+          "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+        },
+        {
+          "keyword": "quote checklist folding carton packaging",
+          "bucket": "GEO_AI问答测试",
+          "class": "交易型",
+          "score": 125,
+          "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+          "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+        },
+        {
+          "keyword": "quote checklist folding gift boxes",
+          "bucket": "GEO_AI问答测试",
+          "class": "交易型",
+          "score": 123,
+          "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+          "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+        },
+        {
+          "keyword": "best custom gift boxes",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 121,
+          "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+          "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+        },
+        {
+          "keyword": "best gift box packaging",
+          "bucket": "GEO_AI问答测试",
+          "class": "GEO问答",
+          "score": 121,
+          "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+          "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+        }
+      ],
+      "executionTasks": {
+        "website": "检查目标页是否已承接该词簇；补强一段可索引采购说明、3-5个FAQ、一个对比/报价要点表、2-3个内部链接锚文本；不改URL/canonical/title/H1/meta/sitemap/robots。",
+        "externalAsset": "创建或更新一个公开 source pack / buyer source map，链接官网目标页，覆盖关键词、买家问题、报价资料清单、供应商筛选问题；发布到 GitHub Pages 后提交 IndexNow。",
+        "validation": "用 GSC/SerpAPI/Perplexity 复验：Google精确可见、前20、GSC展示/点击、AI是否提到MUGE/官网/公开资产。",
+        "distribution": "生成LinkedIn/Pinterest/社媒自然分发草稿；不自动私信、不自动评论、不虚构认证或客户案例。"
+      }
+    }
+  ],
+  "claimBoundaries": [
+    "not ranking proof",
+    "not traffic proof",
+    "not AI answer inclusion proof",
+    "not third-party endorsement",
+    "not verified supplier status",
+    "not fixed MOQ",
+    "not fixed lead time",
+    "not lowest price",
+    "not compliance guarantee"
+  ]
+}
