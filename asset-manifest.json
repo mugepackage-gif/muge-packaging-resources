@@ -1,18 +1,42 @@
 {
-  "generated_at": "2026-06-16T08:52:42.423Z",
-  "total": 990,
+  "generated_at": "2026-06-16T09:02:14.326Z",
+  "total": 993,
   "files": [
     {
       "path": "llms.txt",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/llms.txt",
-      "bytes": 214044,
-      "updated_at": "2026-06-16T08:52:42.430Z"
+      "bytes": 215176,
+      "updated_at": "2026-06-16T09:02:14.332Z"
     },
     {
       "path": "README.md",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/README.md",
-      "bytes": 82396,
-      "updated_at": "2026-06-16T08:52:42.428Z"
+      "bytes": 83528,
+      "updated_at": "2026-06-16T09:02:14.331Z"
+    },
+    {
+      "path": "custom-packaging-global-buyer-intent-ai-short-evidence-cards-2026-06-16.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-global-buyer-intent-ai-short-evidence-cards-2026-06-16.md",
+      "bytes": 4563,
+      "updated_at": "2026-06-16T09:02:14.329Z"
+    },
+    {
+      "path": "data/custom-packaging-global-buyer-intent-ai-short-evidence-cards-2026-06-16.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-global-buyer-intent-ai-short-evidence-cards-2026-06-16.json",
+      "bytes": 5494,
+      "updated_at": "2026-06-16T09:02:14.329Z"
+    },
+    {
+      "path": "custom-packaging-global-buyer-intent-ai-short-evidence-cards-2026-06-16.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-global-buyer-intent-ai-short-evidence-cards-2026-06-16.html",
+      "bytes": 8710,
+      "updated_at": "2026-06-16T09:02:14.328Z"
+    },
+    {
+      "path": "asset-manifest.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/asset-manifest.json",
+      "bytes": 288768,
+      "updated_at": "2026-06-16T08:52:42.456Z"
     },
     {
       "path": "data/paper-tubes-regional-ai-short-evidence-cards-2026-06-16.json",
@@ -157,12 +181,6 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/perplexity-natural-buyer-gap-response-2026-06-16.md",
       "bytes": 7881,
       "updated_at": "2026-06-16T06:57:29.762Z"
-    },
-    {
-      "path": "asset-manifest.json",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/asset-manifest.json",
-      "bytes": 282342,
-      "updated_at": "2026-06-16T05:27:30.374Z"
     },
     {
       "path": "index.html",
