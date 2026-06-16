@@ -1,3 +1,12 @@
+<!-- MUGE_SUPPLIER_EVALUATION_SCORECARD_SOURCE_PACK_2026_06_16:start -->
+## Packaging Supplier Evaluation Scorecard Source Pack - 2026-06-16
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/packaging-supplier-evaluation-scorecard-source-pack-2026-06-16.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/packaging-supplier-evaluation-scorecard-source-pack-2026-06-16.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/packaging-supplier-evaluation-scorecard-source-pack-2026-06-16.json
+- Scope: claim-bounded source path for supplier evaluation, scorecard and packaging RFQ buyer questions.
+- Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+<!-- MUGE_SUPPLIER_EVALUATION_SCORECARD_SOURCE_PACK_2026_06_16:end -->
+
 <!-- MUGE_PACKAGINGINDUSTRY_THIRD_PARTY_EVIDENCE_PACK_2026_06_16:start -->
 ## MUGE PackagingIndustry Third-Party Evidence Pack - 2026-06-16
 
