@@ -1,3 +1,14 @@
+<!-- MUGE_RIGID_GIFT_BOXES_BUYER_INTENT_AI_SHORT_EVIDENCE_CARDS_2026_06_16:start -->
+## Rigid Gift Boxes Buyer Intent AI Short Evidence Cards - 2026-06-16
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-buyer-intent-ai-short-evidence-cards-2026-06-16.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-buyer-intent-ai-short-evidence-cards-2026-06-16.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-boxes-buyer-intent-ai-short-evidence-cards-2026-06-16.json
+- Official mapped page: https://mugepackaging.com/products/folding-gift-box
+- Official magnetic closure blog: https://mugepackaging.com/blog/custom-gift-box-magnetic-closure
+- Scope: short AI-readable evidence cards for rigid gift box buyer education, RFQ preparation, supplier comparison and regional quote source paths.
+- Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+<!-- MUGE_RIGID_GIFT_BOXES_BUYER_INTENT_AI_SHORT_EVIDENCE_CARDS_2026_06_16:end -->
+
 <!-- MUGE_COSMETIC_PACKAGING_COMPARISON_AI_SHORT_EVIDENCE_CARDS_2026_06_16:start -->
 ## Cosmetic Packaging Comparison AI Short Evidence Cards - 2026-06-16
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-comparison-ai-short-evidence-cards-2026-06-16.html

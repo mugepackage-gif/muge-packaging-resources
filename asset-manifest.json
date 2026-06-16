@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-06-16T09:13:03.014Z",
-  "total": 994,
+  "generated_at": "2026-06-16T09:23:46.521Z",
+  "total": 997,
   "files": [
     {
       "path": "asset-manifest.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/asset-manifest.json",
-      "bytes": 290893,
-      "updated_at": "2026-06-16T09:13:03.014Z"
+      "bytes": 289997,
+      "updated_at": "2026-06-16T09:23:46.521Z"
+    },
+    {
+      "path": "data/rigid-gift-boxes-buyer-intent-ai-short-evidence-cards-2026-06-16.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-boxes-buyer-intent-ai-short-evidence-cards-2026-06-16.json",
+      "bytes": 7404,
+      "updated_at": "2026-06-16T09:23:46.521Z"
+    },
+    {
+      "path": "llms.txt",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/llms.txt",
+      "bytes": 217390,
+      "updated_at": "2026-06-16T09:23:46.521Z"
+    },
+    {
+      "path": "README.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/README.md",
+      "bytes": 85742,
+      "updated_at": "2026-06-16T09:23:46.521Z"
+    },
+    {
+      "path": "rigid-gift-boxes-buyer-intent-ai-short-evidence-cards-2026-06-16.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-buyer-intent-ai-short-evidence-cards-2026-06-16.html",
+      "bytes": 10491,
+      "updated_at": "2026-06-16T09:23:46.521Z"
+    },
+    {
+      "path": "rigid-gift-boxes-buyer-intent-ai-short-evidence-cards-2026-06-16.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-buyer-intent-ai-short-evidence-cards-2026-06-16.md",
+      "bytes": 5993,
+      "updated_at": "2026-06-16T09:23:46.521Z"
+    },
+    {
+      "path": "sitemap.xml",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/sitemap.xml",
+      "bytes": 260550,
+      "updated_at": "2026-06-16T09:23:46.521Z"
     },
     {
       "path": "cosmetic-packaging-comparison-ai-short-evidence-cards-2026-06-16.html",
@@ -24,24 +60,6 @@
       "path": "data/cosmetic-packaging-comparison-ai-short-evidence-cards-2026-06-16.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-comparison-ai-short-evidence-cards-2026-06-16.json",
       "bytes": 6142,
-      "updated_at": "2026-06-16T09:13:03.014Z"
-    },
-    {
-      "path": "llms.txt",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/llms.txt",
-      "bytes": 216227,
-      "updated_at": "2026-06-16T09:13:03.014Z"
-    },
-    {
-      "path": "README.md",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/README.md",
-      "bytes": 84579,
-      "updated_at": "2026-06-16T09:13:03.014Z"
-    },
-    {
-      "path": "sitemap.xml",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/sitemap.xml",
-      "bytes": 261351,
       "updated_at": "2026-06-16T09:13:03.014Z"
     },
     {
