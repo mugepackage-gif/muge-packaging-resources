@@ -1,0 +1,127 @@
+{
+  "generatedAt": "2026-06-16T17:35:47.604Z",
+  "generatedAtCst": "2026-06-17 01:35:47",
+  "input": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/目录平台人工闸门包/20260617_0129_8簇引用源目录平台人工闸门包.json",
+  "slug": "muge-9-manual-candidates-second-level-action-gate-2026-06-17",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-9-manual-candidates-second-level-action-gate-2026-06-17.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-9-manual-candidates-second-level-action-gate-2026-06-17.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-9-manual-candidates-second-level-action-gate-2026-06-17.json"
+  },
+  "summary": {
+    "total": 9,
+    "autoExecutable": 1,
+    "manualOnly": 6,
+    "stopped": 5
+  },
+  "rows": [
+    {
+      "host": "alibaba.com",
+      "primaryUrl": "https://www.alibaba.com/product-detail/Minimalist-Cosmetics-Paper-Tube-Packaging-for_1601761828816.html",
+      "httpStatus": 200,
+      "previousDecision": "marketplace_manual_gate",
+      "stopReason": "",
+      "finalClass": "manual_platform_check_only",
+      "finalDecision": "市场平台只允许人工检查是否有免费公司资料页；需要登录/付费/验证码即停止。",
+      "proofNeeded": "人工截图或平台资料 URL；不写 Verified Supplier，不付费。",
+      "nextAction": "生成给用户/运营的人工检查指令，不自动操作。",
+      "titlePreview": ""
+    },
+    {
+      "host": "facebook.com",
+      "primaryUrl": "https://www.facebook.com/groups/NextUpAsia/posts/10158344484216657/",
+      "httpStatus": 200,
+      "previousDecision": "social_profile_manual_only",
+      "stopReason": "",
+      "finalClass": "manual_social_profile_or_post_only",
+      "finalDecision": "社媒只允许人工检查公开资料字段或人工发布；禁止自动互动。",
+      "proofNeeded": "人工发布链接或资料页截图；不得自动评论/私信/关注。",
+      "nextAction": "生成社媒人工发布/资料检查提醒，不自动操作。",
+      "titlePreview": "Entrepreneurs and Startups in Malaysia | Hi! Recently saw a custom box/packaging company recently"
+    },
+    {
+      "host": "github.com",
+      "primaryUrl": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/64",
+      "httpStatus": 200,
+      "previousDecision": "owned_public_asset_entry",
+      "stopReason": "",
+      "finalClass": "auto_executable_owned",
+      "finalDecision": "自有公开资产入口，可自动创建 Issue/Gist/Release 二跳并提交发现入口。",
+      "proofNeeded": "公开 URL HTTP 200、含 MUGE、含官网、ASR/IndexNow 记录。",
+      "nextAction": "继续用 GitHub Issue/Gist/Release 做二跳入口。",
+      "titlePreview": "Paper tube AI-cited source entry pack for MUGE PACKAGING · Issue #64 · mugepackage-gif/muge-packaging-resources · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREA"
+    },
+    {
+      "host": "instagram.com",
+      "primaryUrl": "https://www.instagram.com/p/DRh4R_MjRHb/",
+      "httpStatus": 200,
+      "previousDecision": "social_profile_manual_only",
+      "stopReason": "社媒入口通常需要登录，自动动作停止。",
+      "finalClass": "manual_stop_social_login",
+      "finalDecision": "社媒只允许人工检查公开资料字段或人工发布；禁止自动互动。",
+      "proofNeeded": "人工发布链接或资料页截图；不得自动评论/私信/关注。",
+      "nextAction": "生成社媒人工发布/资料检查提醒，不自动操作。",
+      "titlePreview": "Instagram Instagram Log In Sign Up Close Never miss a post from customboxmakers Sign up for Instagram to stay in the loop. By continuing, you agree to Instagram&#x27;s Terms of Use and Privacy Policy . Sign up Log in cus"
+    },
+    {
+      "host": "ospheremedia.com",
+      "primaryUrl": "https://www.ospheremedia.com/service/cosmetics-packaging-design-service-in-dubai/",
+      "httpStatus": 200,
+      "previousDecision": "manual_stop_paid_signal",
+      "stopReason": "检测到付费信号。",
+      "finalClass": "stop_now",
+      "finalDecision": "当前存在付费、登录、验证码或账号风险，停止自动动作。",
+      "proofNeeded": "下一轮只复查公开页面，不自动推进。",
+      "nextAction": "停止，避免违规。",
+      "titlePreview": "Cosmetics Packaging Design Service in Dubai | Packaging Design hello@ospheremedia.com Mon- Fri: 9:00 am - 06.00pm Dubai, UAE Appointment Home About Us Media Design Print Media Flyer Poster Brochure Booklet Pamphlet Compa"
+    },
+    {
+      "host": "seller.alibaba.com",
+      "primaryUrl": "https://seller.alibaba.com/blogs/2026/southeast-asia/packaging-printing/custom-gift-packaging-boxes-guide-alibaba-b2b",
+      "httpStatus": 200,
+      "previousDecision": "marketplace_manual_gate",
+      "stopReason": "检测到付费/广告/高级服务信号。",
+      "finalClass": "manual_stop_platform_paid_or_login",
+      "finalDecision": "市场平台只允许人工检查是否有免费公司资料页；需要登录/付费/验证码即停止。",
+      "proofNeeded": "人工截图或平台资料 URL；不写 Verified Supplier，不付费。",
+      "nextAction": "生成给用户/运营的人工检查指令，不自动操作。",
+      "titlePreview": "Custom Gift Packaging Boxes: Complete Configuration Guide for B2B Exporters - Alibaba.com Seller Blog Solutions Resources Pricing Get report for your industry EN Sign up/Sign in Start selling now Custom Gift Packaging Bo"
+    },
+    {
+      "host": "sevich.com",
+      "primaryUrl": "https://sevich.com/2026-middle-east-cosmetic-registration-uae-ksa-for-b2b-buyers/",
+      "httpStatus": 200,
+      "previousDecision": "manual_stop_paid_signal",
+      "stopReason": "检测到付费信号。",
+      "finalClass": "stop_now",
+      "finalDecision": "当前存在付费、登录、验证码或账号风险，停止自动动作。",
+      "proofNeeded": "下一轮只复查公开页面，不自动推进。",
+      "nextAction": "停止，避免违规。",
+      "titlePreview": "Middle East Cosmetic Registration (UAE &amp; KSA) for B2B Buyers Skip to content HOME ABOUT Brand Story Quality Assurance Green Beauty FAQ Catalog&#038;Trends Reports Trade Shows Why Choose Us Quick Samples Low MOQ Servi"
+    },
+    {
+      "host": "tradewheel.com",
+      "primaryUrl": "https://www.tradewheel.com/buyers/cosmetics-packaging/",
+      "httpStatus": 200,
+      "previousDecision": "marketplace_manual_gate",
+      "stopReason": "检测到付费/广告/高级服务信号。",
+      "finalClass": "manual_stop_platform_paid_or_login",
+      "finalDecision": "市场平台只允许人工检查是否有免费公司资料页；需要登录/付费/验证码即停止。",
+      "proofNeeded": "人工截图或平台资料 URL；不写 Verified Supplier，不付费。",
+      "nextAction": "生成给用户/运营的人工检查指令，不自动操作。",
+      "titlePreview": "Cosmetics Packaging Buyers | Buy Requests from Cosmetics Packaging Importers & Wholesalers | Tradewheel --> --> --> --> --> Please wait while your account is being registered at Tradewheel.com Join World's Fastest Growin"
+    },
+    {
+      "host": "youtube.com",
+      "primaryUrl": "https://www.youtube.com/watch?v=fqE-lr9ycH4",
+      "httpStatus": 200,
+      "previousDecision": "social_profile_manual_only",
+      "stopReason": "",
+      "finalClass": "manual_social_profile_or_post_only",
+      "finalDecision": "社媒只允许人工检查公开资料字段或人工发布；禁止自动互动。",
+      "proofNeeded": "人工发布链接或资料页截图；不得自动评论/私信/关注。",
+      "nextAction": "生成社媒人工发布/资料检查提醒，不自动操作。",
+      "titlePreview": "Streamline Your Packaging Procurement Process - YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy &amp; Safety How YouTube works Test new features &copy; 2026 Google LLC"
+    }
+  ]
+}

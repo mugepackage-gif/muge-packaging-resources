@@ -991,3 +991,16 @@ Boundary: public discovery and citation-support assets only; not ranking proof, 
 - Research-only or stopped: 25
 - Boundary: manual gate only; no automatic login, payment, captcha bypass, form submission, email, social interaction or account-core changes.
 <!-- MUGE_DIRECTORY_PLATFORM_MANUAL_GATE_PACK_2026_06_17:end -->
+
+<!-- MUGE_9_MANUAL_CANDIDATES_SECOND_LEVEL_ACTION_GATE_2026_06_17:start -->
+## MUGE 9 Manual Candidates Second-Level Action Gate - 2026-06-17
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/muge-9-manual-candidates-second-level-action-gate-2026-06-17.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/muge-9-manual-candidates-second-level-action-gate-2026-06-17.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-9-manual-candidates-second-level-action-gate-2026-06-17.json
+- Total candidates: 9
+- Auto-executable owned entries: 1
+- Manual-only entries: 6
+- Stopped entries: 5
+- Boundary: second-level manual gate only; no automatic login, payment, captcha bypass, platform submission, email, social action or account-core change.
+<!-- MUGE_9_MANUAL_CANDIDATES_SECOND_LEVEL_ACTION_GATE_2026_06_17:end -->
