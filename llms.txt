@@ -3,6 +3,7 @@
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/seo-geo-editor-source-review-pack-2026-06-16.html
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/seo-geo-editor-source-review-pack-2026-06-16.md
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/seo-geo-editor-source-review-pack-2026-06-16.json
+- Public GitHub Issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/68
 - Scope: claim-bounded public source review pack for editors, directory maintainers and resource-page owners.
 - Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
 <!-- MUGE_SEO_GEO_EDITOR_SOURCE_REVIEW_PACK_2026_06_16:end -->
