@@ -1,3 +1,13 @@
+<!-- MUGE_RIGID_GIFT_BOXES_DUBAI_QUOTE_RFQ_SOURCE_PACK_2026_06_17:start -->
+## Rigid Gift Box Quote RFQ Source Pack for Dubai Buyers - 2026-06-17
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-dubai-quote-rfq-buyer-source-pack-2026-06-17.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-dubai-quote-rfq-buyer-source-pack-2026-06-17.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-boxes-dubai-quote-rfq-buyer-source-pack-2026-06-17.json
+- Cluster: rigid_gift_boxes / dubai / quote_rfq.
+- Target source page: https://mugepackaging.com/products/folding-gift-box
+- Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+<!-- MUGE_RIGID_GIFT_BOXES_DUBAI_QUOTE_RFQ_SOURCE_PACK_2026_06_17:end -->
+
 <!-- MUGE_COSMETIC_PACKAGING_DUBAI_QUOTE_RFQ_SOURCE_PACK_2026_06_17:start -->
 ## Cosmetic Packaging Quote RFQ Source Pack for Dubai Buyers - 2026-06-17
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-dubai-quote-rfq-buyer-source-pack-2026-06-17.html
