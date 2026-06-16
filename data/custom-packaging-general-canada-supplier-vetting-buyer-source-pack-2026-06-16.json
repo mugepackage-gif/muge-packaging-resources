@@ -1,0 +1,167 @@
+{
+  "generatedAt": "2026-06-16T01:25:41.343Z",
+  "createdAtCst": "2026-06-16 09:25:41",
+  "publishedDate": "2026-06-16",
+  "sourceSprintPath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/关键词策略/7天冲刺执行包/20260616_0903_MUGE_SEO_GEO_关键词宇宙7天冲刺执行包.json",
+  "slug": "custom-packaging-general-canada-supplier-vetting-buyer-source-pack-2026-06-16",
+  "cluster": {
+    "sprintOrder": 3,
+    "clusterKey": "custom_packaging_general::canada::supplier_vetting",
+    "product": "custom_packaging_general",
+    "region": "canada",
+    "intent": "supplier_vetting",
+    "targetUrl": "https://mugepackaging.com/products",
+    "suggestedPublicAssetSlug": "custom-packaging-general-canada-supplier-vetting-buyer-source-pack-2026-06-16",
+    "suggestedPublicAssetUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-general-canada-supplier-vetting-buyer-source-pack-2026-06-16.html",
+    "keywordCountInCluster": 12,
+    "keywords": [
+      {
+        "keyword": "custom packaging boxes china manufacturer canada",
+        "bucket": "P2交易执行",
+        "class": "交易型",
+        "score": 153,
+        "targetUrl": "https://mugepackaging.com/products",
+        "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+      },
+      {
+        "keyword": "custom packaging boxes china supplier canada",
+        "bucket": "P2交易执行",
+        "class": "交易型",
+        "score": 153,
+        "targetUrl": "https://mugepackaging.com/products",
+        "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+      },
+      {
+        "keyword": "custom packaging boxes factory canada",
+        "bucket": "P2交易执行",
+        "class": "交易型",
+        "score": 153,
+        "targetUrl": "https://mugepackaging.com/products",
+        "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+      },
+      {
+        "keyword": "custom packaging boxes manufacturer canada",
+        "bucket": "P2交易执行",
+        "class": "交易型",
+        "score": 153,
+        "targetUrl": "https://mugepackaging.com/products",
+        "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+      },
+      {
+        "keyword": "custom packaging boxes source factory canada",
+        "bucket": "P2交易执行",
+        "class": "交易型",
+        "score": 153,
+        "targetUrl": "https://mugepackaging.com/products",
+        "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+      },
+      {
+        "keyword": "custom packaging boxes supplier canada",
+        "bucket": "P2交易执行",
+        "class": "交易型",
+        "score": 153,
+        "targetUrl": "https://mugepackaging.com/products",
+        "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+      },
+      {
+        "keyword": "custom packaging china manufacturer canada",
+        "bucket": "P2交易执行",
+        "class": "交易型",
+        "score": 153,
+        "targetUrl": "https://mugepackaging.com/products",
+        "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+      },
+      {
+        "keyword": "custom packaging china supplier canada",
+        "bucket": "P2交易执行",
+        "class": "交易型",
+        "score": 153,
+        "targetUrl": "https://mugepackaging.com/products",
+        "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+      },
+      {
+        "keyword": "custom packaging factory canada",
+        "bucket": "P2交易执行",
+        "class": "交易型",
+        "score": 153,
+        "targetUrl": "https://mugepackaging.com/products",
+        "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+      },
+      {
+        "keyword": "custom packaging manufacturer canada",
+        "bucket": "P2交易执行",
+        "class": "交易型",
+        "score": 153,
+        "targetUrl": "https://mugepackaging.com/products",
+        "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+      }
+    ],
+    "aiQuestions": [
+      {
+        "keyword": "manufacturer or trading company for custom packaging",
+        "bucket": "GEO_AI问答测试",
+        "class": "交易型",
+        "score": 147,
+        "targetUrl": "https://mugepackaging.com/products",
+        "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+      },
+      {
+        "keyword": "how to compare packaging for gift sets",
+        "bucket": "GEO_AI问答测试",
+        "class": "GEO问答",
+        "score": 143,
+        "targetUrl": "https://mugepackaging.com/contact",
+        "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 69，organic 0，paid 13"
+      },
+      {
+        "keyword": "how to compare packaging for european brands",
+        "bucket": "GEO_AI问答测试",
+        "class": "GEO问答",
+        "score": 141,
+        "targetUrl": "https://mugepackaging.com/contact",
+        "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 69，organic 0，paid 13"
+      },
+      {
+        "keyword": "how to compare packaging for middle east brands",
+        "bucket": "GEO_AI问答测试",
+        "class": "GEO问答",
+        "score": 141,
+        "targetUrl": "https://mugepackaging.com/contact",
+        "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 69，organic 0，paid 13"
+      },
+      {
+        "keyword": "how to compare packaging for uk brands",
+        "bucket": "GEO_AI问答测试",
+        "class": "GEO问答",
+        "score": 141,
+        "targetUrl": "https://mugepackaging.com/contact",
+        "evidence": "GSC相关触发：compare packaging | GA4目标页：sessions 69，organic 0，paid 13"
+      },
+      {
+        "keyword": "best custom packaging",
+        "bucket": "GEO_AI问答测试",
+        "class": "GEO问答",
+        "score": 135,
+        "targetUrl": "https://mugepackaging.com/products",
+        "evidence": "GA4目标页：sessions 91，organic 6，paid 2"
+      }
+    ],
+    "executionTasks": {
+      "website": "检查目标页是否已承接该词簇；补强一段可索引采购说明、3-5个FAQ、一个对比/报价要点表、2-3个内部链接锚文本；不改URL/canonical/title/H1/meta/sitemap/robots。",
+      "externalAsset": "创建或更新一个公开 source pack / buyer source map，链接官网目标页，覆盖关键词、买家问题、报价资料清单、供应商筛选问题；发布到 GitHub Pages 后提交 IndexNow。",
+      "validation": "用 GSC/SerpAPI/Perplexity 复验：Google精确可见、前20、GSC展示/点击、AI是否提到MUGE/官网/公开资产。",
+      "distribution": "生成LinkedIn/Pinterest/社媒自然分发草稿；不自动私信、不自动评论、不虚构认证或客户案例。"
+    }
+  },
+  "claimBoundaries": [
+    "not ranking proof",
+    "not traffic proof",
+    "not AI answer inclusion proof",
+    "not third-party endorsement",
+    "not verified supplier status",
+    "not fixed MOQ",
+    "not fixed lead time",
+    "not lowest price",
+    "not compliance guarantee"
+  ]
+}
