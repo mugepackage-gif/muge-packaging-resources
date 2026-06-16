@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2026-06-16T08:23:02.244Z",
+  "createdAtCst": "2026-06-16 16:23:02",
+  "publishedDate": "2026-06-16",
+  "sourceQueuePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/关键词策略/滚动执行总控队列/MUGE_SEO_GEO_当前800执行词_300AI问答滚动队列.json",
+  "slug": "paper-tubes-europe-supplier-vetting-rolling-source-pack-2026-06-16",
+  "cluster": {
+    "clusterKey": "paper_tubes::europe::supplier_vetting",
+    "product": "paper_tubes",
+    "region": "europe",
+    "intent": "supplier_vetting",
+    "targetUrls": [
+      "https://mugepackaging.com/products/paper-tubes"
+    ],
+    "keywords": [
+      "custom paper tubes china manufacturer europe",
+      "custom paper tubes china supplier europe",
+      "custom paper tubes factory europe",
+      "custom paper tubes manufacturer europe",
+      "custom paper tubes source factory europe",
+      "custom paper tubes supplier europe",
+      "european brands custom paper tubes supplier"
+    ],
+    "score": 1218,
+    "keywordCount": 7,
+    "topKeywords": [
+      "custom paper tubes china manufacturer europe",
+      "custom paper tubes china supplier europe",
+      "custom paper tubes factory europe",
+      "custom paper tubes manufacturer europe",
+      "custom paper tubes source factory europe",
+      "custom paper tubes supplier europe",
+      "european brands custom paper tubes supplier"
+    ]
+  },
+  "claimBoundaries": [
+    "not ranking proof",
+    "not traffic proof",
+    "not AI answer inclusion proof",
+    "not third-party endorsement",
+    "not verified supplier status",
+    "not fixed MOQ",
+    "not fixed lead time",
+    "not lowest price",
+    "not compliance guarantee"
+  ]
+}
