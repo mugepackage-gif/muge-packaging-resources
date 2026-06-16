@@ -1,0 +1,95 @@
+{
+  "generatedAt": "2026-06-16T01:33:15.352Z",
+  "createdAtCst": "2026-06-16 09:33:15",
+  "publishedDate": "2026-06-16",
+  "sourceSprintPath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/关键词策略/7天冲刺执行包/20260616_0903_MUGE_SEO_GEO_关键词宇宙7天冲刺执行包.json",
+  "slug": "rigid-gift-boxes-canada-quote-rfq-buyer-source-pack-2026-06-16",
+  "cluster": {
+    "sprintOrder": 7,
+    "clusterKey": "rigid_gift_boxes::canada::quote_rfq",
+    "product": "rigid_gift_boxes",
+    "region": "canada",
+    "intent": "quote_rfq",
+    "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+    "suggestedPublicAssetSlug": "rigid-gift-boxes-canada-quote-rfq-buyer-source-pack-2026-06-16",
+    "suggestedPublicAssetUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-canada-quote-rfq-buyer-source-pack-2026-06-16.html",
+    "keywordCountInCluster": 1,
+    "keywords": [
+      {
+        "keyword": "gift box packaging custom quote canada",
+        "bucket": "P2交易执行",
+        "class": "交易型",
+        "score": 149,
+        "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+      }
+    ],
+    "aiQuestions": [
+      {
+        "keyword": "quote checklist custom gift boxes",
+        "bucket": "GEO_AI问答测试",
+        "class": "交易型",
+        "score": 133,
+        "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+      },
+      {
+        "keyword": "quote checklist gift box packaging",
+        "bucket": "GEO_AI问答测试",
+        "class": "交易型",
+        "score": 133,
+        "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+      },
+      {
+        "keyword": "quote checklist folding carton packaging",
+        "bucket": "GEO_AI问答测试",
+        "class": "交易型",
+        "score": 125,
+        "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+      },
+      {
+        "keyword": "quote checklist folding gift boxes",
+        "bucket": "GEO_AI问答测试",
+        "class": "交易型",
+        "score": 123,
+        "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+      },
+      {
+        "keyword": "best custom gift boxes",
+        "bucket": "GEO_AI问答测试",
+        "class": "GEO问答",
+        "score": 121,
+        "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+      },
+      {
+        "keyword": "best gift box packaging",
+        "bucket": "GEO_AI问答测试",
+        "class": "GEO问答",
+        "score": 121,
+        "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+        "evidence": "GA4目标页：sessions 57，organic 33，paid 0"
+      }
+    ],
+    "executionTasks": {
+      "website": "检查目标页是否已承接该词簇；补强一段可索引采购说明、3-5个FAQ、一个对比/报价要点表、2-3个内部链接锚文本；不改URL/canonical/title/H1/meta/sitemap/robots。",
+      "externalAsset": "创建或更新一个公开 source pack / buyer source map，链接官网目标页，覆盖关键词、买家问题、报价资料清单、供应商筛选问题；发布到 GitHub Pages 后提交 IndexNow。",
+      "validation": "用 GSC/SerpAPI/Perplexity 复验：Google精确可见、前20、GSC展示/点击、AI是否提到MUGE/官网/公开资产。",
+      "distribution": "生成LinkedIn/Pinterest/社媒自然分发草稿；不自动私信、不自动评论、不虚构认证或客户案例。"
+    }
+  },
+  "claimBoundaries": [
+    "not ranking proof",
+    "not traffic proof",
+    "not AI answer inclusion proof",
+    "not third-party endorsement",
+    "not verified supplier status",
+    "not fixed MOQ",
+    "not fixed lead time",
+    "not lowest price",
+    "not compliance guarantee"
+  ]
+}

@@ -1,3 +1,43 @@
+<!-- MUGE_CLUSTER_SOURCE_PACK_RIGID_GIFT_BOXES_DUBAI_QUOTE_RFQ_2026_06_16:start -->
+## Rigid Gift Boxes Dubai Quote Rfq Source Pack - 2026-06-16
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-dubai-quote-rfq-buyer-source-pack-2026-06-16.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-dubai-quote-rfq-buyer-source-pack-2026-06-16.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-boxes-dubai-quote-rfq-buyer-source-pack-2026-06-16.json
+- Official mapped page: https://mugepackaging.com/products/folding-gift-box
+- Scope: claim-bounded source path for rigid_gift_boxes::dubai::quote_rfq buyer queries.
+- Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+<!-- MUGE_CLUSTER_SOURCE_PACK_RIGID_GIFT_BOXES_DUBAI_QUOTE_RFQ_2026_06_16:end -->
+
+<!-- MUGE_CLUSTER_SOURCE_PACK_RIGID_GIFT_BOXES_CANADA_QUOTE_RFQ_2026_06_16:start -->
+## Rigid Gift Boxes Canada Quote Rfq Source Pack - 2026-06-16
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-canada-quote-rfq-buyer-source-pack-2026-06-16.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-canada-quote-rfq-buyer-source-pack-2026-06-16.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-boxes-canada-quote-rfq-buyer-source-pack-2026-06-16.json
+- Official mapped page: https://mugepackaging.com/products/folding-gift-box
+- Scope: claim-bounded source path for rigid_gift_boxes::canada::quote_rfq buyer queries.
+- Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+<!-- MUGE_CLUSTER_SOURCE_PACK_RIGID_GIFT_BOXES_CANADA_QUOTE_RFQ_2026_06_16:end -->
+
+<!-- MUGE_CLUSTER_SOURCE_PACK_COSMETIC_PACKAGING_DUBAI_QUOTE_RFQ_2026_06_16:start -->
+## Cosmetic Packaging Dubai Quote Rfq Source Pack - 2026-06-16
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-dubai-quote-rfq-buyer-source-pack-2026-06-16.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-dubai-quote-rfq-buyer-source-pack-2026-06-16.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-dubai-quote-rfq-buyer-source-pack-2026-06-16.json
+- Official mapped page: https://mugepackaging.com/products/cosmetic-packaging
+- Scope: claim-bounded source path for cosmetic_packaging::dubai::quote_rfq buyer queries.
+- Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+<!-- MUGE_CLUSTER_SOURCE_PACK_COSMETIC_PACKAGING_DUBAI_QUOTE_RFQ_2026_06_16:end -->
+
+<!-- MUGE_CLUSTER_SOURCE_PACK_COSMETIC_PACKAGING_CANADA_QUOTE_RFQ_2026_06_16:start -->
+## Cosmetic Packaging Canada Quote Rfq Source Pack - 2026-06-16
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-canada-quote-rfq-buyer-source-pack-2026-06-16.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-canada-quote-rfq-buyer-source-pack-2026-06-16.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-canada-quote-rfq-buyer-source-pack-2026-06-16.json
+- Official mapped page: https://mugepackaging.com/products/cosmetic-packaging
+- Scope: claim-bounded source path for cosmetic_packaging::canada::quote_rfq buyer queries.
+- Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+<!-- MUGE_CLUSTER_SOURCE_PACK_COSMETIC_PACKAGING_CANADA_QUOTE_RFQ_2026_06_16:end -->
+
 <!-- MUGE_CLUSTER_SOURCE_PACK_CUSTOM_PACKAGING_GENERAL_DUBAI_SUPPLIER_VETTING_2026_06_16:start -->
 ## Custom Packaging General Dubai Supplier Vetting Source Pack - 2026-06-16
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-general-dubai-supplier-vetting-buyer-source-pack-2026-06-16.html
