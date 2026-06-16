@@ -3,6 +3,8 @@
 - [HTML](https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-dubai-custom-quote-source-path-2026-06-16.html): Public source path for Dubai / GCC cosmetic packaging quote questions.
 - [Markdown](https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-dubai-custom-quote-source-path-2026-06-16.md): Plain-text source path for crawler and AI-source discovery.
 - [JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-dubai-custom-quote-source-path-2026-06-16.json): Machine-readable source path, official targets and buyer checklist.
+- [GitHub Issue](https://github.com/mugepackage-gif/muge-packaging-resources/issues/67): Public execution tracking record for this source path.
+- [GitHub Release](https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.16-cosmetic-packaging-dubai-quote-source-path): Versioned release containing HTML, Markdown and JSON assets.
 - Boundary: not ranking proof, traffic proof, AI answer inclusion proof, third-party endorsement or verified supplier status.
 <!-- MUGE_COSMETIC_PACKAGING_DUBAI_QUOTE_SOURCE_PATH_2026_06_16:end -->
 
