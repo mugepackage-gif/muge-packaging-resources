@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T15:22:59.151Z",
-  "total": 1262,
+  "generated_at": "2026-06-17T15:34:15.577Z",
+  "total": 1265,
   "files": [
     {
       "path": ".gitignore",
@@ -1467,6 +1467,18 @@
       "updated_at": "2026-06-17T15:22:59.151Z"
     },
     {
+      "path": "custom-packaging-boxes-exporter-oem-buyer-brief-sourcepack-2026-06-17-2340.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-exporter-oem-buyer-brief-sourcepack-2026-06-17-2340.html",
+      "bytes": 6465,
+      "updated_at": "2026-06-17T15:34:15.577Z"
+    },
+    {
+      "path": "custom-packaging-boxes-exporter-oem-buyer-brief-sourcepack-2026-06-17-2340.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-exporter-oem-buyer-brief-sourcepack-2026-06-17-2340.md",
+      "bytes": 3765,
+      "updated_at": "2026-06-17T15:34:15.577Z"
+    },
+    {
       "path": "custom-packaging-boxes-reference-pack.html",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-reference-pack.html",
       "bytes": 4081,
@@ -2635,6 +2647,12 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-boxes-dubai-gcc-supplier-vetting-source-card-2026-06-17.json",
       "bytes": 2568,
       "updated_at": "2026-06-17T15:22:59.151Z"
+    },
+    {
+      "path": "data/custom-packaging-boxes-exporter-oem-buyer-brief-sourcepack-2026-06-17-2340.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-boxes-exporter-oem-buyer-brief-sourcepack-2026-06-17-2340.json",
+      "bytes": 2516,
+      "updated_at": "2026-06-17T15:34:15.577Z"
     },
     {
       "path": "data/custom-packaging-boxes-reference-pack.json",
