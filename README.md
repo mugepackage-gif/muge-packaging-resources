@@ -1162,3 +1162,12 @@ Boundary: public discovery and citation-support assets only; not ranking proof, 
 - Cluster: custom_packaging_general::global::buyer_intent
 - Boundary: This SourcePack is a buyer education and sourcing-preparation note. It does not claim fixed MOQ, fixed lead time, lowest price, certification coverage, food-contact suitability, regulatory compliance, customer cases, ranking, traffic, inquiry volume or third-party endorsement.
 <!-- MUGE_CUSTOM_PACKAGING_RFQ_CHECKLIST_B2B_BUYERS_SOURCEPACK_2026_06_17:end -->
+
+<!-- MUGE_PAPER_TUBES_BUYER_QUESTION_BRIDGE_20260617:start -->
+
+## Paper Tube Buyer Question Bridges - 2026-06-17
+
+- [UK Buyers: When to Compare Local Paper Tube Suppliers with a China Source Factory](https://mugepackage-gif.github.io/muge-packaging-resources/uk-buyers-local-vs-china-source-factory-paper-tube-packaging-bridge-2026-06-17.html) - paper_tubes::uk::buyer_question_bridge
+- [US Buyers: RFQ Checklist Before Sourcing Paper Tube Packaging from an Overseas Source Factory](https://mugepackage-gif.github.io/muge-packaging-resources/us-buyers-overseas-source-factory-paper-tube-packaging-rfq-bridge-2026-06-17.html) - paper_tubes::united_states::buyer_question_bridge
+
+<!-- MUGE_PAPER_TUBES_BUYER_QUESTION_BRIDGE_20260617:end -->

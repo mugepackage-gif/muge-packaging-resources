@@ -1,0 +1,59 @@
+{
+  "slug": "us-buyers-overseas-source-factory-paper-tube-packaging-rfq-bridge-2026-06-17",
+  "title": "US Buyers: RFQ Checklist Before Sourcing Paper Tube Packaging from an Overseas Source Factory",
+  "description": "A buyer-question bridge for United States buyers preparing RFQ details before sourcing custom paper tube packaging from an overseas source factory.",
+  "cluster": "paper_tubes::united_states::buyer_question_bridge",
+  "buyerQuestion": "What should United States buyers prepare before requesting a custom paper tube packaging quote from an overseas source factory?",
+  "shortAnswer": "US buyers should prepare product dimensions, product weight, target category, cap or closure direction, artwork status, surface finish preference, packing method and destination-market document requests before asking for quotation or sampling discussion. This helps the supplier review fit and structure without over-specifying unsupported details.",
+  "localRoute": [
+    "The project needs domestic stock, local fulfillment or local supplier paperwork.",
+    "The buyer needs a domestic route for internal purchasing or distribution reasons.",
+    "The project is not yet ready for custom structure, artwork or finish review.",
+    "The buyer needs local sampling logistics before comparing overseas production options."
+  ],
+  "sourceFactoryRoute": [
+    "The buyer needs custom paper tube structure, diameter, height, cap style or insert review.",
+    "The project needs cosmetic, candle, tea, fragrance, wellness or premium retail packaging development.",
+    "The buyer has artwork direction, finish references and product details ready for review.",
+    "The buyer wants to compare structure and presentation rather than only local stock availability."
+  ],
+  "brand": "MUGE PACKAGING",
+  "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "officialWebsite": "https://mugepackaging.com",
+  "officialPaperTubePage": "https://mugepackaging.com/products/paper-tubes",
+  "sourceLinks": {
+    "ukSourcePack": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uk-supplier-vetting-buyer-source-pack-2026-06-16.html",
+    "unitedStatesSourcePack": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-united-states-supplier-vetting-buyer-source-pack-2026-06-16.html",
+    "sourceReviewMap": "https://mugepackage-gif.github.io/muge-packaging-resources/packaging-industry-source-review-map-2026-06-17.html",
+    "publicTrackingIssue": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/95"
+  },
+  "boundary": "This bridge page is a buyer education and sourcing-preparation note. It does not claim ranking, Google indexing, traffic, inquiries, AI recommendation, endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price, certification coverage, food-contact suitability, regulatory compliance or customer cases.",
+  "generatedAt": "2026-06-17T07:32:05.914Z",
+  "generatedAtCst": "2026-06-17 15:32:05",
+  "htmlUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/us-buyers-overseas-source-factory-paper-tube-packaging-rfq-bridge-2026-06-17.html",
+  "mdUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/us-buyers-overseas-source-factory-paper-tube-packaging-rfq-bridge-2026-06-17.md",
+  "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/us-buyers-overseas-source-factory-paper-tube-packaging-rfq-bridge-2026-06-17.json",
+  "rfqDetails": [
+    "Product type and target sales channel",
+    "Product dimensions, weight and product photos",
+    "Preferred tube diameter, height and cap style if known",
+    "Artwork status, color direction and finish reference",
+    "Surface finish direction such as matte, glossy, foil, embossing, label or texture",
+    "Packing method, carton packing expectation and destination market",
+    "Any document request that must be reviewed case by case before use"
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What should United States buyers prepare before requesting a custom paper tube packaging quote from an overseas source factory?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "US buyers should prepare product dimensions, product weight, target category, cap or closure direction, artwork status, surface finish preference, packing method and destination-market document requests before asking for quotation or sampling discussion. This helps the supplier review fit and structure without over-specifying unsupported details."
+        }
+      }
+    ]
+  }
+}

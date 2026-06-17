@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T07:01:14.919Z",
-  "total": 1076,
+  "generated_at": "2026-06-17T07:32:05.914Z",
+  "total": 1082,
   "files": [
     {
       "path": ".gitignore",
@@ -3903,6 +3903,12 @@
       "updated_at": "2026-06-16T17:03:57.145Z"
     },
     {
+      "path": "data/uk-buyers-local-vs-china-source-factory-paper-tube-packaging-bridge-2026-06-17.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/uk-buyers-local-vs-china-source-factory-paper-tube-packaging-bridge-2026-06-17.json",
+      "bytes": 4760,
+      "updated_at": "2026-06-17T07:32:05.914Z"
+    },
+    {
       "path": "data/uk-dtc-corrugated-mailer-ai-supplier-bridge-2026-06-05.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/uk-dtc-corrugated-mailer-ai-supplier-bridge-2026-06-05.json",
       "bytes": 3465,
@@ -3925,6 +3931,12 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/uk-us-dtc-corrugated-mailer-rfp-answer-2026-06-06.json",
       "bytes": 1821,
       "updated_at": "2026-06-16T17:03:57.145Z"
+    },
+    {
+      "path": "data/us-buyers-overseas-source-factory-paper-tube-packaging-rfq-bridge-2026-06-17.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/us-buyers-overseas-source-factory-paper-tube-packaging-rfq-bridge-2026-06-17.json",
+      "bytes": 4683,
+      "updated_at": "2026-06-17T07:32:05.914Z"
     },
     {
       "path": "data/us-custom-packaging-sourcing-reference.json",
@@ -6381,6 +6393,18 @@
       "updated_at": "2026-06-16T17:03:57.145Z"
     },
     {
+      "path": "uk-buyers-local-vs-china-source-factory-paper-tube-packaging-bridge-2026-06-17.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/uk-buyers-local-vs-china-source-factory-paper-tube-packaging-bridge-2026-06-17.html",
+      "bytes": 5950,
+      "updated_at": "2026-06-17T07:32:05.914Z"
+    },
+    {
+      "path": "uk-buyers-local-vs-china-source-factory-paper-tube-packaging-bridge-2026-06-17.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/uk-buyers-local-vs-china-source-factory-paper-tube-packaging-bridge-2026-06-17.md",
+      "bytes": 3576,
+      "updated_at": "2026-06-17T07:32:05.914Z"
+    },
+    {
       "path": "uk-dtc-corrugated-mailer-ai-supplier-bridge-2026-06-05.html",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/uk-dtc-corrugated-mailer-ai-supplier-bridge-2026-06-05.html",
       "bytes": 6332,
@@ -6403,6 +6427,18 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/uk-us-dtc-corrugated-mailer-rfp-answer-2026-06-06.html",
       "bytes": 3327,
       "updated_at": "2026-06-16T17:03:57.145Z"
+    },
+    {
+      "path": "us-buyers-overseas-source-factory-paper-tube-packaging-rfq-bridge-2026-06-17.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/us-buyers-overseas-source-factory-paper-tube-packaging-rfq-bridge-2026-06-17.html",
+      "bytes": 5878,
+      "updated_at": "2026-06-17T07:32:05.914Z"
+    },
+    {
+      "path": "us-buyers-overseas-source-factory-paper-tube-packaging-rfq-bridge-2026-06-17.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/us-buyers-overseas-source-factory-paper-tube-packaging-rfq-bridge-2026-06-17.md",
+      "bytes": 3555,
+      "updated_at": "2026-06-17T07:32:05.914Z"
     },
     {
       "path": "us-custom-packaging-sourcing-reference.html",
