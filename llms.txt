@@ -1,3 +1,10 @@
+<!-- MUGE_RENTRY_MIRROR_MIDDLE_EAST_PAPER_TUBE_RFQ_COMPARISON_PACK_20260618:start -->
+## MiddleEastPaperTubeRFQPack Rentry Mirror - 2026-06-18 03:28:35
+- Rentry: https://rentry.co/muge-middle-east-paper-tube-rfq-comparison-pack-20260618-0328
+- Jina: https://r.jina.ai/http://rentry.co/muge-middle-east-paper-tube-rfq-comparison-pack-20260618-0328?v=20260618-0328
+- Boundary: third-party readable mirror only; not ranking, traffic, AI natural recommendation, inquiry or endorsement proof.
+<!-- MUGE_RENTRY_MIRROR_MIDDLE_EAST_PAPER_TUBE_RFQ_COMPARISON_PACK_20260618:end -->
+
 <!-- MUGE_MIDDLE_EAST_PAPER_TUBE_SUPPLIER_COMPARISON_RFQ_PACK_2026_06_18:start -->
 ## Middle East Paper Tube Packaging Supplier Comparison RFQ Pack
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/middle-east-paper-tube-packaging-supplier-comparison-rfq-pack-2026-06-18.html
