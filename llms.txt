@@ -1949,3 +1949,14 @@ Boundary: source-path validation only; not ranking proof, traffic proof, AI incl
 - Scope: 24,201 keyword universe; 800 rolling execution keywords; 300 AI/GEO buyer questions; 300 expanded hard-validation keywords; 23 P0/P1 core hard-validation keywords.
 - Boundary: public execution-scope source mirrors only; not ranking proof, traffic proof, inquiry proof, AI answer inclusion, endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
 <!-- MUGE_KEYWORD_UNIVERSE_EXECUTION_QUEUE_EXTERNAL_MIRRORS_20260618:end -->
+
+<!-- MUGE_AI_CITED_SOURCE_PATTERN_RESPONSE_MAP_20260618:start -->
+## MUGE AI-Cited Source Pattern Response Map - 2026-06-18
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-pattern-response-map-2026-06-18.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-pattern-response-map-2026-06-18.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/ai-cited-source-pattern-response-map-2026-06-18.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/ai-cited-source-pattern-response-map-2026-06-18.html
+- Purpose: maps Perplexity-cited source patterns from natural buyer questions to MUGE PACKAGING official source paths.
+- Boundary: not proof that cited third-party pages mention, recommend or verify MUGE PACKAGING; not ranking proof, traffic proof, AI answer inclusion, verified supplier status, fixed MOQ, fixed lead time, lowest price, customer case evidence, production capacity or compliance guarantee.
+<!-- MUGE_AI_CITED_SOURCE_PATTERN_RESPONSE_MAP_20260618:end -->
