@@ -25,8 +25,8 @@
     "Match the packaging structure to product size, weight and retail channel before requesting samples.",
     "Prepare jar, bottle, set or gift product dimensions, packed weight and insert requirements.",
     "Compare folding cartons, rigid gift boxes and cosmetic set boxes by protection, shelf display and unboxing needs.",
-    "Ask for artwork, material, finish and sampling review steps without assuming fixed lead time or fixed MOQ.",
-    "Check whether the supplier can discuss destination-market document review without making unsupported compliance guarantees."
+    "Ask for artwork, material, finish and sampling review steps without assuming commercial terms before project review.",
+    "Check whether the supplier can discuss destination-market document review without making unsupported regulated-market claims."
   ],
   "rfqInputs": [
     "product dimensions",
@@ -68,7 +68,7 @@
       "count": 2
     }
   ],
-  "boundary": "This page is a buyer checklist and public source map for MUGE PACKAGING. It is not proof of Google ranking, traffic, AI natural recommendation, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.",
+  "boundary": "This page is a buyer checklist and public source map for MUGE PACKAGING. It is not proof of Google ranking, traffic, AI natural recommendation, third-party endorsement, supplier status, commercial terms or regulated-market guarantees.",
   "generatedAt": "2026-06-17T17:31:19.394Z",
   "generatedAtCst": "2026-06-18 01:31:19 CST",
   "urls": {

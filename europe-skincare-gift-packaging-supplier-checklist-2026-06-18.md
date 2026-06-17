@@ -24,8 +24,8 @@ For Europe-based skincare, beauty gift and retail brands comparing custom packag
 - Match the packaging structure to product size, weight and retail channel before requesting samples.
 - Prepare jar, bottle, set or gift product dimensions, packed weight and insert requirements.
 - Compare folding cartons, rigid gift boxes and cosmetic set boxes by protection, shelf display and unboxing needs.
-- Ask for artwork, material, finish and sampling review steps without assuming fixed lead time or fixed MOQ.
-- Check whether the supplier can discuss destination-market document review without making unsupported compliance guarantees.
+- Ask for artwork, material, finish and sampling review steps without assuming commercial terms before project review.
+- Check whether the supplier can discuss destination-market document review without making unsupported regulated-market claims.
 
 ## RFQ inputs to prepare
 
@@ -69,4 +69,4 @@ These URLs were cited by Perplexity for the buyer question. They are listed only
 
 ## Boundary
 
-This page is a buyer checklist and public source map for MUGE PACKAGING. It is not proof of Google ranking, traffic, AI natural recommendation, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+This page is a buyer checklist and public source map for MUGE PACKAGING. It is not proof of Google ranking, traffic, AI natural recommendation, third-party endorsement, supplier status, commercial terms or regulated-market guarantees.

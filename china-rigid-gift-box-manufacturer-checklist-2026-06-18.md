@@ -70,4 +70,4 @@ These URLs were cited by Perplexity for the buyer question. They are listed only
 
 ## Boundary
 
-This page is a buyer checklist and public source map for MUGE PACKAGING. It is not proof of Google ranking, traffic, AI natural recommendation, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+This page is a buyer checklist and public source map for MUGE PACKAGING. It is not proof of Google ranking, traffic, AI natural recommendation, third-party endorsement, supplier status, commercial terms or regulated-market guarantees.
