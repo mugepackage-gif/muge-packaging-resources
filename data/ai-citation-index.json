@@ -381,6 +381,18 @@
       "name": "PackagingIndustry 1516 Jina Reader",
       "url": "https://r.jina.ai/http://packaging-industry.info/market/packaging-industry/manufacturer-or-trading-company-for-custom-packaging-what-buyers-should-ask-1516/",
       "useFor": "AI-readable mirror of the third-party manufacturer/trading-company custom packaging supplier question article."
+    },
+    {
+      "type": "third_party_buyer_education_article",
+      "name": "PackagingIndustry 1518 - How to Verify a Packaging Manufacturer Before Sending an RFQ",
+      "url": "https://packaging-industry.info/market/packaging-industry/how-to-verify-a-packaging-manufacturer-before-sending-an-rfq-1518/",
+      "useFor": "Third-party buyer education source for verifying a packaging manufacturer before RFQ; includes MUGE PACKAGING identity and official product-category URLs with claim boundaries."
+    },
+    {
+      "type": "ai_readable_third_party_mirror",
+      "name": "PackagingIndustry 1518 Jina Reader",
+      "url": "https://r.jina.ai/http://packaging-industry.info/market/packaging-industry/how-to-verify-a-packaging-manufacturer-before-sending-an-rfq-1518/",
+      "useFor": "AI-readable mirror of the third-party RFQ-stage packaging manufacturer verification article."
     }
   ]
 }
