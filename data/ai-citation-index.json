@@ -232,6 +232,13 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-global-quote-rfq-checklist-sourcepack-2026-06-18.html",
       "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-global-quote-rfq-checklist-sourcepack-2026-06-18.json",
       "useFor": "Claim-bounded SourcePack for beauty brands preparing custom cosmetic packaging quote or RFQ details before sampling."
+    },
+    {
+      "type": "third_party_markdown_mirror",
+      "name": "Cosmetic packaging global quote/RFQ Rentry mirror 2026-06-18",
+      "url": "https://rentry.co/muge-cosmetic-packaging-global-quote-rfq-20260618-0443",
+      "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-cosmetic-packaging-global-quote-rfq-20260618-0443",
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ]
 }
