@@ -1,0 +1,2550 @@
+{
+  "generatedAt": "2026-06-17T05:01:18.162Z",
+  "title": "Paper Tubes UAE / Saudi AI-Cited Source Response Pack",
+  "urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uae-saudi-ai-cited-source-response-pack-2026-06-17.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uae-saudi-ai-cited-source-response-pack-2026-06-17.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-uae-saudi-ai-cited-source-response-pack-2026-06-17.json"
+  },
+  "sourceFiles": {
+    "opportunityFile": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/Perplexity_UAE_Saudi_PaperTubes引用源机会拆解/20260617_1255_PaperTubes_UAE_Saudi_Perplexity引用源机会拆解.json",
+    "entryFile": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/Perplexity_UAE_Saudi_PaperTubes引用源入口复验/20260617_1256_PaperTubes_UAE_Saudi_引用源入口复验.json"
+  },
+  "sourceSummary": {
+    "total": 4,
+    "mentionsMuge": 0,
+    "mentionsOfficialSite": 0,
+    "mentionsExternalAsset": 0,
+    "validNaturalPositive": 0
+  },
+  "classificationSummary": {
+    "目录/平台资料机会": 3,
+    "内容/编辑入口待复验": 4,
+    "社媒/社区引用源": 2,
+    "同行/供应商引用模式": 19
+  },
+  "entrySummary": {
+    "totalHosts": 7,
+    "packReady": 0,
+    "userGateRequired": 6,
+    "fetchFailed": 1,
+    "mentionsMuge": 0
+  },
+  "hostRows": [
+    {
+      "host": "tradeindia.com",
+      "citationCount": 3,
+      "urlCount": 1,
+      "questionIds": [
+        "dubai_paper_tube_supplier",
+        "saudi_paper_tube_supplier",
+        "uae_paper_tube_supplier"
+      ],
+      "questions": [
+        "Which custom paper tube packaging suppliers should Dubai cosmetic, candle or gift brands compare before preparing an RFQ?",
+        "Which custom paper tube packaging suppliers should Saudi Arabia brands review for cosmetics, candles, tea or premium retail products?",
+        "Which custom paper tube packaging suppliers should a UAE brand review before requesting samples? Include useful public source links if available."
+      ],
+      "urls": [
+        "https://www.tradeindia.com/products/custom-paper-tubes-c3136720.html"
+      ],
+      "type": "marketplace_or_directory_profile_check",
+      "label": "目录/平台资料机会",
+      "priority": "P0",
+      "canAutoExecute": true,
+      "action": "检查是否有免费公司资料页、产品资料页或资料修正入口；遇到登录、验证码、付费、Verified Supplier 要求即停止并转人工闸门。"
+    },
+    {
+      "host": "b2bdata.baidu.com",
+      "citationCount": 1,
+      "urlCount": 1,
+      "questionIds": [
+        "middle_east_paper_tube_source"
+      ],
+      "questions": [
+        "For Middle East brands sourcing custom paper tube packaging from China, what public supplier sources or sourcing guides are useful to review?"
+      ],
+      "urls": [
+        "https://b2bdata.baidu.com/en/rank/k/all-area/paper-tube"
+      ],
+      "type": "marketplace_or_directory_profile_check",
+      "label": "目录/平台资料机会",
+      "priority": "P0",
+      "canAutoExecute": true,
+      "action": "检查是否有免费公司资料页、产品资料页或资料修正入口；遇到登录、验证码、付费、Verified Supplier 要求即停止并转人工闸门。"
+    },
+    {
+      "host": "nb-pack.en.made-in-china.com",
+      "citationCount": 1,
+      "urlCount": 1,
+      "questionIds": [
+        "middle_east_paper_tube_source"
+      ],
+      "questions": [
+        "For Middle East brands sourcing custom paper tube packaging from China, what public supplier sources or sourcing guides are useful to review?"
+      ],
+      "urls": [
+        "https://nb-pack.en.made-in-china.com/product/GAnUSpzYmMht/China-Sustainable-Paper-Tube-Packaging-Solutions-for-Green-Brands.html"
+      ],
+      "type": "marketplace_or_directory_profile_check",
+      "label": "目录/平台资料机会",
+      "priority": "P0",
+      "canAutoExecute": true,
+      "action": "检查是否有免费公司资料页、产品资料页或资料修正入口；遇到登录、验证码、付费、Verified Supplier 要求即停止并转人工闸门。"
+    },
+    {
+      "host": "themerchlist.com",
+      "citationCount": 2,
+      "urlCount": 1,
+      "questionIds": [
+        "dubai_paper_tube_supplier",
+        "uae_paper_tube_supplier"
+      ],
+      "questions": [
+        "Which custom paper tube packaging suppliers should Dubai cosmetic, candle or gift brands compare before preparing an RFQ?",
+        "Which custom paper tube packaging suppliers should a UAE brand review before requesting samples? Include useful public source links if available."
+      ],
+      "urls": [
+        "https://themerchlist.com/customize/cardboard-tube-box/"
+      ],
+      "type": "editorial_or_info_source_review",
+      "label": "内容/编辑入口待复验",
+      "priority": "P1",
+      "canAutoExecute": true,
+      "action": "复验是否有投稿、资料更正、作者联系或 source review 入口；只生成编辑请求草稿，不自动发送。"
+    },
+    {
+      "host": "coresmith.com",
+      "citationCount": 1,
+      "urlCount": 1,
+      "questionIds": [
+        "uae_paper_tube_supplier"
+      ],
+      "questions": [
+        "Which custom paper tube packaging suppliers should a UAE brand review before requesting samples? Include useful public source links if available."
+      ],
+      "urls": [
+        "https://www.coresmith.com/blognews/everything-you-need-to-know-about-paper-tubes-and-their-uses/"
+      ],
+      "type": "editorial_or_info_source_review",
+      "label": "内容/编辑入口待复验",
+      "priority": "P1",
+      "canAutoExecute": true,
+      "action": "复验是否有投稿、资料更正、作者联系或 source review 入口；只生成编辑请求草稿，不自动发送。"
+    },
+    {
+      "host": "hallpack.net",
+      "citationCount": 1,
+      "urlCount": 1,
+      "questionIds": [
+        "middle_east_paper_tube_source"
+      ],
+      "questions": [
+        "For Middle East brands sourcing custom paper tube packaging from China, what public supplier sources or sourcing guides are useful to review?"
+      ],
+      "urls": [
+        "https://www.hallpack.net/how-to-source-the-best-round-food-grade-cardboard-tube-suppliers.html"
+      ],
+      "type": "editorial_or_info_source_review",
+      "label": "内容/编辑入口待复验",
+      "priority": "P1",
+      "canAutoExecute": true,
+      "action": "复验是否有投稿、资料更正、作者联系或 source review 入口；只生成编辑请求草稿，不自动发送。"
+    },
+    {
+      "host": "pakoro.com",
+      "citationCount": 1,
+      "urlCount": 1,
+      "questionIds": [
+        "middle_east_paper_tube_source"
+      ],
+      "questions": [
+        "For Middle East brands sourcing custom paper tube packaging from China, what public supplier sources or sourcing guides are useful to review?"
+      ],
+      "urls": [
+        "https://pakoro.com/blog/paper-tube-manufacturer/"
+      ],
+      "type": "editorial_or_info_source_review",
+      "label": "内容/编辑入口待复验",
+      "priority": "P1",
+      "canAutoExecute": true,
+      "action": "复验是否有投稿、资料更正、作者联系或 source review 入口；只生成编辑请求草稿，不自动发送。"
+    },
+    {
+      "host": "facebook.com",
+      "citationCount": 2,
+      "urlCount": 2,
+      "questionIds": [
+        "middle_east_paper_tube_source",
+        "saudi_paper_tube_supplier"
+      ],
+      "questions": [
+        "For Middle East brands sourcing custom paper tube packaging from China, what public supplier sources or sourcing guides are useful to review?",
+        "Which custom paper tube packaging suppliers should Saudi Arabia brands review for cosmetics, candles, tea or premium retail products?"
+      ],
+      "urls": [
+        "https://www.facebook.com/groups/439192915054176/posts/649922260647906/",
+        "https://www.facebook.com/groups/680338833046230/posts/1583304646082973/"
+      ],
+      "type": "social_manual_gate",
+      "label": "社媒/社区引用源",
+      "priority": "P2",
+      "canAutoExecute": false,
+      "action": "只允许提取内容角度与公开资料字段；不得自动评论、点赞、关注、私信或加群。"
+    },
+    {
+      "host": "instagram.com",
+      "citationCount": 1,
+      "urlCount": 1,
+      "questionIds": [
+        "middle_east_paper_tube_source"
+      ],
+      "questions": [
+        "For Middle East brands sourcing custom paper tube packaging from China, what public supplier sources or sourcing guides are useful to review?"
+      ],
+      "urls": [
+        "https://www.instagram.com/reel/DVfDZZZFqKa/"
+      ],
+      "type": "social_manual_gate",
+      "label": "社媒/社区引用源",
+      "priority": "P2",
+      "canAutoExecute": false,
+      "action": "只允许提取内容角度与公开资料字段；不得自动评论、点赞、关注、私信或加群。"
+    },
+    {
+      "host": "papertube.co",
+      "citationCount": 4,
+      "urlCount": 1,
+      "questionIds": [
+        "dubai_paper_tube_supplier",
+        "middle_east_paper_tube_source",
+        "saudi_paper_tube_supplier",
+        "uae_paper_tube_supplier"
+      ],
+      "questions": [
+        "For Middle East brands sourcing custom paper tube packaging from China, what public supplier sources or sourcing guides are useful to review?",
+        "Which custom paper tube packaging suppliers should Dubai cosmetic, candle or gift brands compare before preparing an RFQ?",
+        "Which custom paper tube packaging suppliers should Saudi Arabia brands review for cosmetics, candles, tea or premium retail products?",
+        "Which custom paper tube packaging suppliers should a UAE brand review before requesting samples? Include useful public source links if available."
+      ],
+      "urls": [
+        "https://papertube.co"
+      ],
+      "type": "competitor_or_supplier_pattern_only",
+      "label": "同行/供应商引用模式",
+      "priority": "P3",
+      "canAutoExecute": true,
+      "action": "不外联、不当客户；只抽取 AI 为什么信它的页面结构、问题写法、区域词、FAQ 和来源格式，反向补到 MUGE 官网/外部资产。"
+    },
+    {
+      "host": "allpapertube.com",
+      "citationCount": 3,
+      "urlCount": 1,
+      "questionIds": [
+        "dubai_paper_tube_supplier",
+        "saudi_paper_tube_supplier",
+        "uae_paper_tube_supplier"
+      ],
+      "questions": [
+        "Which custom paper tube packaging suppliers should Dubai cosmetic, candle or gift brands compare before preparing an RFQ?",
+        "Which custom paper tube packaging suppliers should Saudi Arabia brands review for cosmetics, candles, tea or premium retail products?",
+        "Which custom paper tube packaging suppliers should a UAE brand review before requesting samples? Include useful public source links if available."
+      ],
+      "urls": [
+        "https://www.allpapertube.com"
+      ],
+      "type": "competitor_or_supplier_pattern_only",
+      "label": "同行/供应商引用模式",
+      "priority": "P3",
+      "canAutoExecute": true,
+      "action": "不外联、不当客户；只抽取 AI 为什么信它的页面结构、问题写法、区域词、FAQ 和来源格式，反向补到 MUGE 官网/外部资产。"
+    },
+    {
+      "host": "custompapertubes.com",
+      "citationCount": 3,
+      "urlCount": 1,
+      "questionIds": [
+        "dubai_paper_tube_supplier",
+        "saudi_paper_tube_supplier",
+        "uae_paper_tube_supplier"
+      ],
+      "questions": [
+        "Which custom paper tube packaging suppliers should Dubai cosmetic, candle or gift brands compare before preparing an RFQ?",
+        "Which custom paper tube packaging suppliers should Saudi Arabia brands review for cosmetics, candles, tea or premium retail products?",
+        "Which custom paper tube packaging suppliers should a UAE brand review before requesting samples? Include useful public source links if available."
+      ],
+      "urls": [
+        "https://www.custompapertubes.com"
+      ],
+      "type": "competitor_or_supplier_pattern_only",
+      "label": "同行/供应商引用模式",
+      "priority": "P3",
+      "canAutoExecute": true,
+      "action": "不外联、不当客户；只抽取 AI 为什么信它的页面结构、问题写法、区域词、FAQ 和来源格式，反向补到 MUGE 官网/外部资产。"
+    },
+    {
+      "host": "szfortress.com",
+      "citationCount": 3,
+      "urlCount": 1,
+      "questionIds": [
+        "dubai_paper_tube_supplier",
+        "middle_east_paper_tube_source",
+        "uae_paper_tube_supplier"
+      ],
+      "questions": [
+        "For Middle East brands sourcing custom paper tube packaging from China, what public supplier sources or sourcing guides are useful to review?",
+        "Which custom paper tube packaging suppliers should Dubai cosmetic, candle or gift brands compare before preparing an RFQ?",
+        "Which custom paper tube packaging suppliers should a UAE brand review before requesting samples? Include useful public source links if available."
+      ],
+      "urls": [
+        "https://www.szfortress.com/fortress-packaging-supply-makeup-and-cosmetics-products-paper-tube-packaging-in-beauty-world-middle-east-exhibition-trade-show-dubai-uae/"
+      ],
+      "type": "competitor_or_supplier_pattern_only",
+      "label": "同行/供应商引用模式",
+      "priority": "P3",
+      "canAutoExecute": true,
+      "action": "不外联、不当客户；只抽取 AI 为什么信它的页面结构、问题写法、区域词、FAQ 和来源格式，反向补到 MUGE 官网/外部资产。"
+    },
+    {
+      "host": "canpackuae.com",
+      "citationCount": 2,
+      "urlCount": 1,
+      "questionIds": [
+        "dubai_paper_tube_supplier",
+        "uae_paper_tube_supplier"
+      ],
+      "questions": [
+        "Which custom paper tube packaging suppliers should Dubai cosmetic, candle or gift brands compare before preparing an RFQ?",
+        "Which custom paper tube packaging suppliers should a UAE brand review before requesting samples? Include useful public source links if available."
+      ],
+      "urls": [
+        "https://canpackuae.com/paper-cores-paper-tubes-manufacturers-in-dubai/"
+      ],
+      "type": "competitor_or_supplier_pattern_only",
+      "label": "同行/供应商引用模式",
+      "priority": "P3",
+      "canAutoExecute": true,
+      "action": "不外联、不当客户；只抽取 AI 为什么信它的页面结构、问题写法、区域词、FAQ 和来源格式，反向补到 MUGE 官网/外部资产。"
+    },
+    {
+      "host": "clawscustomboxes.ae",
+      "citationCount": 2,
+      "urlCount": 1,
+      "questionIds": [
+        "dubai_paper_tube_supplier",
+        "uae_paper_tube_supplier"
+      ],
+      "questions": [
+        "Which custom paper tube packaging suppliers should Dubai cosmetic, candle or gift brands compare before preparing an RFQ?",
+        "Which custom paper tube packaging suppliers should a UAE brand review before requesting samples? Include useful public source links if available."
+      ],
+      "urls": [
+        "https://www.clawscustomboxes.ae/product/tube-packaging/"
+      ],
+      "type": "competitor_or_supplier_pattern_only",
+      "label": "同行/供应商引用模式",
+      "priority": "P3",
+      "canAutoExecute": true,
+      "action": "不外联、不当客户；只抽取 AI 为什么信它的页面结构、问题写法、区域词、FAQ 和来源格式，反向补到 MUGE 官网/外部资产。"
+    },
+    {
+      "host": "papertubeuae.com",
+      "citationCount": 2,
+      "urlCount": 1,
+      "questionIds": [
+        "dubai_paper_tube_supplier",
+        "uae_paper_tube_supplier"
+      ],
+      "questions": [
+        "Which custom paper tube packaging suppliers should Dubai cosmetic, candle or gift brands compare before preparing an RFQ?",
+        "Which custom paper tube packaging suppliers should a UAE brand review before requesting samples? Include useful public source links if available."
+      ],
+      "urls": [
+        "https://papertubeuae.com"
+      ],
+      "type": "competitor_or_supplier_pattern_only",
+      "label": "同行/供应商引用模式",
+      "priority": "P3",
+      "canAutoExecute": true,
+      "action": "不外联、不当客户；只抽取 AI 为什么信它的页面结构、问题写法、区域词、FAQ 和来源格式，反向补到 MUGE 官网/外部资产。"
+    },
+    {
+      "host": "thetubepackaging.com",
+      "citationCount": 2,
+      "urlCount": 1,
+      "questionIds": [
+        "saudi_paper_tube_supplier",
+        "uae_paper_tube_supplier"
+      ],
+      "questions": [
+        "Which custom paper tube packaging suppliers should Saudi Arabia brands review for cosmetics, candles, tea or premium retail products?",
+        "Which custom paper tube packaging suppliers should a UAE brand review before requesting samples? Include useful public source links if available."
+      ],
+      "urls": [
+        "https://thetubepackaging.com"
+      ],
+      "type": "competitor_or_supplier_pattern_only",
+      "label": "同行/供应商引用模式",
+      "priority": "P3",
+      "canAutoExecute": true,
+      "action": "不外联、不当客户；只抽取 AI 为什么信它的页面结构、问题写法、区域词、FAQ 和来源格式，反向补到 MUGE 官网/外部资产。"
+    },
+    {
+      "host": "better-package.com",
+      "citationCount": 1,
+      "urlCount": 1,
+      "questionIds": [
+        "saudi_paper_tube_supplier"
+      ],
+      "questions": [
+        "Which custom paper tube packaging suppliers should Saudi Arabia brands review for cosmetics, candles, tea or premium retail products?"
+      ],
+      "urls": [
+        "https://better-package.com/paper-tube/"
+      ],
+      "type": "competitor_or_supplier_pattern_only",
+      "label": "同行/供应商引用模式",
+      "priority": "P3",
+      "canAutoExecute": true,
+      "action": "不外联、不当客户；只抽取 AI 为什么信它的页面结构、问题写法、区域词、FAQ 和来源格式，反向补到 MUGE 官网/外部资产。"
+    },
+    {
+      "host": "cnecopapercans.com",
+      "citationCount": 1,
+      "urlCount": 1,
+      "questionIds": [
+        "middle_east_paper_tube_source"
+      ],
+      "questions": [
+        "For Middle East brands sourcing custom paper tube packaging from China, what public supplier sources or sourcing guides are useful to review?"
+      ],
+      "urls": [
+        "https://www.cnecopapercans.com/how-to-choose-a-reliable-paper-tube-packaging-manufacturer-in-china/"
+      ],
+      "type": "competitor_or_supplier_pattern_only",
+      "label": "同行/供应商引用模式",
+      "priority": "P3",
+      "canAutoExecute": true,
+      "action": "不外联、不当客户；只抽取 AI 为什么信它的页面结构、问题写法、区域词、FAQ 和来源格式，反向补到 MUGE 官网/外部资产。"
+    },
+    {
+      "host": "customboxesmarket.com",
+      "citationCount": 1,
+      "urlCount": 1,
+      "questionIds": [
+        "saudi_paper_tube_supplier"
+      ],
+      "questions": [
+        "Which custom paper tube packaging suppliers should Saudi Arabia brands review for cosmetics, candles, tea or premium retail products?"
+      ],
+      "urls": [
+        "https://customboxesmarket.com/paper-tube-packaging/"
+      ],
+      "type": "competitor_or_supplier_pattern_only",
+      "label": "同行/供应商引用模式",
+      "priority": "P3",
+      "canAutoExecute": true,
+      "action": "不外联、不当客户；只抽取 AI 为什么信它的页面结构、问题写法、区域词、FAQ 和来源格式，反向补到 MUGE 官网/外部资产。"
+    },
+    {
+      "host": "customcardboardtube.com",
+      "citationCount": 1,
+      "urlCount": 1,
+      "questionIds": [
+        "uae_paper_tube_supplier"
+      ],
+      "questions": [
+        "Which custom paper tube packaging suppliers should a UAE brand review before requesting samples? Include useful public source links if available."
+      ],
+      "urls": [
+        "https://customcardboardtube.com/the-journey-of-paper-tube-packaging-from-manufacturing-to-market/"
+      ],
+      "type": "competitor_or_supplier_pattern_only",
+      "label": "同行/供应商引用模式",
+      "priority": "P3",
+      "canAutoExecute": true,
+      "action": "不外联、不当客户；只抽取 AI 为什么信它的页面结构、问题写法、区域词、FAQ 和来源格式，反向补到 MUGE 官网/外部资产。"
+    },
+    {
+      "host": "custompapertubeboxes.com",
+      "citationCount": 1,
+      "urlCount": 1,
+      "questionIds": [
+        "uae_paper_tube_supplier"
+      ],
+      "questions": [
+        "Which custom paper tube packaging suppliers should a UAE brand review before requesting samples? Include useful public source links if available."
+      ],
+      "urls": [
+        "https://custompapertubeboxes.com"
+      ],
+      "type": "competitor_or_supplier_pattern_only",
+      "label": "同行/供应商引用模式",
+      "priority": "P3",
+      "canAutoExecute": true,
+      "action": "不外联、不当客户；只抽取 AI 为什么信它的页面结构、问题写法、区域词、FAQ 和来源格式，反向补到 MUGE 官网/外部资产。"
+    },
+    {
+      "host": "czypackaging.com",
+      "citationCount": 1,
+      "urlCount": 1,
+      "questionIds": [
+        "middle_east_paper_tube_source"
+      ],
+      "questions": [
+        "For Middle East brands sourcing custom paper tube packaging from China, what public supplier sources or sourcing guides are useful to review?"
+      ],
+      "urls": [
+        "https://www.czypackaging.com/blog/top-paper-tube-manufacturers-in-china/"
+      ],
+      "type": "competitor_or_supplier_pattern_only",
+      "label": "同行/供应商引用模式",
+      "priority": "P3",
+      "canAutoExecute": true,
+      "action": "不外联、不当客户；只抽取 AI 为什么信它的页面结构、问题写法、区域词、FAQ 和来源格式，反向补到 MUGE 官网/外部资产。"
+    },
+    {
+      "host": "direct.packfancy.com",
+      "citationCount": 1,
+      "urlCount": 1,
+      "questionIds": [
+        "saudi_paper_tube_supplier"
+      ],
+      "questions": [
+        "Which custom paper tube packaging suppliers should Saudi Arabia brands review for cosmetics, candles, tea or premium retail products?"
+      ],
+      "urls": [
+        "https://direct.packfancy.com"
+      ],
+      "type": "competitor_or_supplier_pattern_only",
+      "label": "同行/供应商引用模式",
+      "priority": "P3",
+      "canAutoExecute": true,
+      "action": "不外联、不当客户；只抽取 AI 为什么信它的页面结构、问题写法、区域词、FAQ 和来源格式，反向补到 MUGE 官网/外部资产。"
+    },
+    {
+      "host": "hopakpackaging.com",
+      "citationCount": 1,
+      "urlCount": 1,
+      "questionIds": [
+        "middle_east_paper_tube_source"
+      ],
+      "questions": [
+        "For Middle East brands sourcing custom paper tube packaging from China, what public supplier sources or sourcing guides are useful to review?"
+      ],
+      "urls": [
+        "https://www.hopakpackaging.com/paper-tube-manufacturers-in-china/"
+      ],
+      "type": "competitor_or_supplier_pattern_only",
+      "label": "同行/供应商引用模式",
+      "priority": "P3",
+      "canAutoExecute": true,
+      "action": "不外联、不当客户；只抽取 AI 为什么信它的页面结构、问题写法、区域词、FAQ 和来源格式，反向补到 MUGE 官网/外部资产。"
+    },
+    {
+      "host": "igreenpackings.com",
+      "citationCount": 1,
+      "urlCount": 1,
+      "questionIds": [
+        "middle_east_paper_tube_source"
+      ],
+      "questions": [
+        "For Middle East brands sourcing custom paper tube packaging from China, what public supplier sources or sourcing guides are useful to review?"
+      ],
+      "urls": [
+        "https://www.igreenpackings.com/square-paper-tube-supplier/"
+      ],
+      "type": "competitor_or_supplier_pattern_only",
+      "label": "同行/供应商引用模式",
+      "priority": "P3",
+      "canAutoExecute": true,
+      "action": "不外联、不当客户；只抽取 AI 为什么信它的页面结构、问题写法、区域词、FAQ 和来源格式，反向补到 MUGE 官网/外部资产。"
+    },
+    {
+      "host": "opack.com",
+      "citationCount": 1,
+      "urlCount": 1,
+      "questionIds": [
+        "middle_east_paper_tube_source"
+      ],
+      "questions": [
+        "For Middle East brands sourcing custom paper tube packaging from China, what public supplier sources or sourcing guides are useful to review?"
+      ],
+      "urls": [
+        "https://www.opack.com/top10-custom-paper-tube-box-manufacturers/"
+      ],
+      "type": "competitor_or_supplier_pattern_only",
+      "label": "同行/供应商引用模式",
+      "priority": "P3",
+      "canAutoExecute": true,
+      "action": "不外联、不当客户；只抽取 AI 为什么信它的页面结构、问题写法、区域词、FAQ 和来源格式，反向补到 MUGE 官网/外部资产。"
+    },
+    {
+      "host": "xjy-packaging.com",
+      "citationCount": 1,
+      "urlCount": 1,
+      "questionIds": [
+        "middle_east_paper_tube_source"
+      ],
+      "questions": [
+        "For Middle East brands sourcing custom paper tube packaging from China, what public supplier sources or sourcing guides are useful to review?"
+      ],
+      "urls": [
+        "https://www.xjy-packaging.com/news/Discover-Eco-Friendly-Paper-Options-from-shan-dong-xin-jiayi.html"
+      ],
+      "type": "competitor_or_supplier_pattern_only",
+      "label": "同行/供应商引用模式",
+      "priority": "P3",
+      "canAutoExecute": true,
+      "action": "不外联、不当客户；只抽取 AI 为什么信它的页面结构、问题写法、区域词、FAQ 和来源格式，反向补到 MUGE 官网/外部资产。"
+    }
+  ],
+  "queues": {
+    "autoChecks": [
+      {
+        "host": "tradeindia.com",
+        "priority": "P0",
+        "type": "目录/平台资料机会",
+        "action": "检查是否有免费公司资料页、产品资料页或资料修正入口；遇到登录、验证码、付费、Verified Supplier 要求即停止并转人工闸门。",
+        "urls": [
+          "https://www.tradeindia.com/products/custom-paper-tubes-c3136720.html"
+        ]
+      },
+      {
+        "host": "b2bdata.baidu.com",
+        "priority": "P0",
+        "type": "目录/平台资料机会",
+        "action": "检查是否有免费公司资料页、产品资料页或资料修正入口；遇到登录、验证码、付费、Verified Supplier 要求即停止并转人工闸门。",
+        "urls": [
+          "https://b2bdata.baidu.com/en/rank/k/all-area/paper-tube"
+        ]
+      },
+      {
+        "host": "nb-pack.en.made-in-china.com",
+        "priority": "P0",
+        "type": "目录/平台资料机会",
+        "action": "检查是否有免费公司资料页、产品资料页或资料修正入口；遇到登录、验证码、付费、Verified Supplier 要求即停止并转人工闸门。",
+        "urls": [
+          "https://nb-pack.en.made-in-china.com/product/GAnUSpzYmMht/China-Sustainable-Paper-Tube-Packaging-Solutions-for-Green-Brands.html"
+        ]
+      },
+      {
+        "host": "themerchlist.com",
+        "priority": "P1",
+        "type": "内容/编辑入口待复验",
+        "action": "复验是否有投稿、资料更正、作者联系或 source review 入口；只生成编辑请求草稿，不自动发送。",
+        "urls": [
+          "https://themerchlist.com/customize/cardboard-tube-box/"
+        ]
+      },
+      {
+        "host": "coresmith.com",
+        "priority": "P1",
+        "type": "内容/编辑入口待复验",
+        "action": "复验是否有投稿、资料更正、作者联系或 source review 入口；只生成编辑请求草稿，不自动发送。",
+        "urls": [
+          "https://www.coresmith.com/blognews/everything-you-need-to-know-about-paper-tubes-and-their-uses/"
+        ]
+      },
+      {
+        "host": "hallpack.net",
+        "priority": "P1",
+        "type": "内容/编辑入口待复验",
+        "action": "复验是否有投稿、资料更正、作者联系或 source review 入口；只生成编辑请求草稿，不自动发送。",
+        "urls": [
+          "https://www.hallpack.net/how-to-source-the-best-round-food-grade-cardboard-tube-suppliers.html"
+        ]
+      },
+      {
+        "host": "pakoro.com",
+        "priority": "P1",
+        "type": "内容/编辑入口待复验",
+        "action": "复验是否有投稿、资料更正、作者联系或 source review 入口；只生成编辑请求草稿，不自动发送。",
+        "urls": [
+          "https://pakoro.com/blog/paper-tube-manufacturer/"
+        ]
+      }
+    ],
+    "manualGates": [
+      {
+        "host": "facebook.com",
+        "priority": "P2",
+        "type": "社媒/社区引用源",
+        "reason": "涉及社媒/社区/登录/互动风险，只能人工确认入口，不自动互动。",
+        "urls": [
+          "https://www.facebook.com/groups/439192915054176/posts/649922260647906/",
+          "https://www.facebook.com/groups/680338833046230/posts/1583304646082973/"
+        ]
+      },
+      {
+        "host": "instagram.com",
+        "priority": "P2",
+        "type": "社媒/社区引用源",
+        "reason": "涉及社媒/社区/登录/互动风险，只能人工确认入口，不自动互动。",
+        "urls": [
+          "https://www.instagram.com/reel/DVfDZZZFqKa/"
+        ]
+      }
+    ],
+    "competitorPatterns": [
+      {
+        "host": "papertube.co",
+        "citationCount": 4,
+        "learn": [
+          "页面是否直接回答 supplier / compare / RFQ / samples 类问题",
+          "是否有区域词 UAE / Dubai / Saudi / Middle East",
+          "是否有产品适用场景 cosmetics / candles / tea / premium retail",
+          "是否有清晰采购前检查点、材料、结构、表面工艺、样品准备信息"
+        ],
+        "nextMugeAction": "把可公开、可核实、非夸大的采购检查信息补到 MUGE paper tubes 页面、外部 Source Pack、目录资料页和社媒摘要。",
+        "urls": [
+          "https://papertube.co"
+        ]
+      },
+      {
+        "host": "allpapertube.com",
+        "citationCount": 3,
+        "learn": [
+          "页面是否直接回答 supplier / compare / RFQ / samples 类问题",
+          "是否有区域词 UAE / Dubai / Saudi / Middle East",
+          "是否有产品适用场景 cosmetics / candles / tea / premium retail",
+          "是否有清晰采购前检查点、材料、结构、表面工艺、样品准备信息"
+        ],
+        "nextMugeAction": "把可公开、可核实、非夸大的采购检查信息补到 MUGE paper tubes 页面、外部 Source Pack、目录资料页和社媒摘要。",
+        "urls": [
+          "https://www.allpapertube.com"
+        ]
+      },
+      {
+        "host": "custompapertubes.com",
+        "citationCount": 3,
+        "learn": [
+          "页面是否直接回答 supplier / compare / RFQ / samples 类问题",
+          "是否有区域词 UAE / Dubai / Saudi / Middle East",
+          "是否有产品适用场景 cosmetics / candles / tea / premium retail",
+          "是否有清晰采购前检查点、材料、结构、表面工艺、样品准备信息"
+        ],
+        "nextMugeAction": "把可公开、可核实、非夸大的采购检查信息补到 MUGE paper tubes 页面、外部 Source Pack、目录资料页和社媒摘要。",
+        "urls": [
+          "https://www.custompapertubes.com"
+        ]
+      },
+      {
+        "host": "szfortress.com",
+        "citationCount": 3,
+        "learn": [
+          "页面是否直接回答 supplier / compare / RFQ / samples 类问题",
+          "是否有区域词 UAE / Dubai / Saudi / Middle East",
+          "是否有产品适用场景 cosmetics / candles / tea / premium retail",
+          "是否有清晰采购前检查点、材料、结构、表面工艺、样品准备信息"
+        ],
+        "nextMugeAction": "把可公开、可核实、非夸大的采购检查信息补到 MUGE paper tubes 页面、外部 Source Pack、目录资料页和社媒摘要。",
+        "urls": [
+          "https://www.szfortress.com/fortress-packaging-supply-makeup-and-cosmetics-products-paper-tube-packaging-in-beauty-world-middle-east-exhibition-trade-show-dubai-uae/"
+        ]
+      },
+      {
+        "host": "canpackuae.com",
+        "citationCount": 2,
+        "learn": [
+          "页面是否直接回答 supplier / compare / RFQ / samples 类问题",
+          "是否有区域词 UAE / Dubai / Saudi / Middle East",
+          "是否有产品适用场景 cosmetics / candles / tea / premium retail",
+          "是否有清晰采购前检查点、材料、结构、表面工艺、样品准备信息"
+        ],
+        "nextMugeAction": "把可公开、可核实、非夸大的采购检查信息补到 MUGE paper tubes 页面、外部 Source Pack、目录资料页和社媒摘要。",
+        "urls": [
+          "https://canpackuae.com/paper-cores-paper-tubes-manufacturers-in-dubai/"
+        ]
+      },
+      {
+        "host": "clawscustomboxes.ae",
+        "citationCount": 2,
+        "learn": [
+          "页面是否直接回答 supplier / compare / RFQ / samples 类问题",
+          "是否有区域词 UAE / Dubai / Saudi / Middle East",
+          "是否有产品适用场景 cosmetics / candles / tea / premium retail",
+          "是否有清晰采购前检查点、材料、结构、表面工艺、样品准备信息"
+        ],
+        "nextMugeAction": "把可公开、可核实、非夸大的采购检查信息补到 MUGE paper tubes 页面、外部 Source Pack、目录资料页和社媒摘要。",
+        "urls": [
+          "https://www.clawscustomboxes.ae/product/tube-packaging/"
+        ]
+      },
+      {
+        "host": "papertubeuae.com",
+        "citationCount": 2,
+        "learn": [
+          "页面是否直接回答 supplier / compare / RFQ / samples 类问题",
+          "是否有区域词 UAE / Dubai / Saudi / Middle East",
+          "是否有产品适用场景 cosmetics / candles / tea / premium retail",
+          "是否有清晰采购前检查点、材料、结构、表面工艺、样品准备信息"
+        ],
+        "nextMugeAction": "把可公开、可核实、非夸大的采购检查信息补到 MUGE paper tubes 页面、外部 Source Pack、目录资料页和社媒摘要。",
+        "urls": [
+          "https://papertubeuae.com"
+        ]
+      },
+      {
+        "host": "thetubepackaging.com",
+        "citationCount": 2,
+        "learn": [
+          "页面是否直接回答 supplier / compare / RFQ / samples 类问题",
+          "是否有区域词 UAE / Dubai / Saudi / Middle East",
+          "是否有产品适用场景 cosmetics / candles / tea / premium retail",
+          "是否有清晰采购前检查点、材料、结构、表面工艺、样品准备信息"
+        ],
+        "nextMugeAction": "把可公开、可核实、非夸大的采购检查信息补到 MUGE paper tubes 页面、外部 Source Pack、目录资料页和社媒摘要。",
+        "urls": [
+          "https://thetubepackaging.com"
+        ]
+      },
+      {
+        "host": "better-package.com",
+        "citationCount": 1,
+        "learn": [
+          "页面是否直接回答 supplier / compare / RFQ / samples 类问题",
+          "是否有区域词 UAE / Dubai / Saudi / Middle East",
+          "是否有产品适用场景 cosmetics / candles / tea / premium retail",
+          "是否有清晰采购前检查点、材料、结构、表面工艺、样品准备信息"
+        ],
+        "nextMugeAction": "把可公开、可核实、非夸大的采购检查信息补到 MUGE paper tubes 页面、外部 Source Pack、目录资料页和社媒摘要。",
+        "urls": [
+          "https://better-package.com/paper-tube/"
+        ]
+      },
+      {
+        "host": "cnecopapercans.com",
+        "citationCount": 1,
+        "learn": [
+          "页面是否直接回答 supplier / compare / RFQ / samples 类问题",
+          "是否有区域词 UAE / Dubai / Saudi / Middle East",
+          "是否有产品适用场景 cosmetics / candles / tea / premium retail",
+          "是否有清晰采购前检查点、材料、结构、表面工艺、样品准备信息"
+        ],
+        "nextMugeAction": "把可公开、可核实、非夸大的采购检查信息补到 MUGE paper tubes 页面、外部 Source Pack、目录资料页和社媒摘要。",
+        "urls": [
+          "https://www.cnecopapercans.com/how-to-choose-a-reliable-paper-tube-packaging-manufacturer-in-china/"
+        ]
+      },
+      {
+        "host": "customboxesmarket.com",
+        "citationCount": 1,
+        "learn": [
+          "页面是否直接回答 supplier / compare / RFQ / samples 类问题",
+          "是否有区域词 UAE / Dubai / Saudi / Middle East",
+          "是否有产品适用场景 cosmetics / candles / tea / premium retail",
+          "是否有清晰采购前检查点、材料、结构、表面工艺、样品准备信息"
+        ],
+        "nextMugeAction": "把可公开、可核实、非夸大的采购检查信息补到 MUGE paper tubes 页面、外部 Source Pack、目录资料页和社媒摘要。",
+        "urls": [
+          "https://customboxesmarket.com/paper-tube-packaging/"
+        ]
+      },
+      {
+        "host": "customcardboardtube.com",
+        "citationCount": 1,
+        "learn": [
+          "页面是否直接回答 supplier / compare / RFQ / samples 类问题",
+          "是否有区域词 UAE / Dubai / Saudi / Middle East",
+          "是否有产品适用场景 cosmetics / candles / tea / premium retail",
+          "是否有清晰采购前检查点、材料、结构、表面工艺、样品准备信息"
+        ],
+        "nextMugeAction": "把可公开、可核实、非夸大的采购检查信息补到 MUGE paper tubes 页面、外部 Source Pack、目录资料页和社媒摘要。",
+        "urls": [
+          "https://customcardboardtube.com/the-journey-of-paper-tube-packaging-from-manufacturing-to-market/"
+        ]
+      },
+      {
+        "host": "custompapertubeboxes.com",
+        "citationCount": 1,
+        "learn": [
+          "页面是否直接回答 supplier / compare / RFQ / samples 类问题",
+          "是否有区域词 UAE / Dubai / Saudi / Middle East",
+          "是否有产品适用场景 cosmetics / candles / tea / premium retail",
+          "是否有清晰采购前检查点、材料、结构、表面工艺、样品准备信息"
+        ],
+        "nextMugeAction": "把可公开、可核实、非夸大的采购检查信息补到 MUGE paper tubes 页面、外部 Source Pack、目录资料页和社媒摘要。",
+        "urls": [
+          "https://custompapertubeboxes.com"
+        ]
+      },
+      {
+        "host": "czypackaging.com",
+        "citationCount": 1,
+        "learn": [
+          "页面是否直接回答 supplier / compare / RFQ / samples 类问题",
+          "是否有区域词 UAE / Dubai / Saudi / Middle East",
+          "是否有产品适用场景 cosmetics / candles / tea / premium retail",
+          "是否有清晰采购前检查点、材料、结构、表面工艺、样品准备信息"
+        ],
+        "nextMugeAction": "把可公开、可核实、非夸大的采购检查信息补到 MUGE paper tubes 页面、外部 Source Pack、目录资料页和社媒摘要。",
+        "urls": [
+          "https://www.czypackaging.com/blog/top-paper-tube-manufacturers-in-china/"
+        ]
+      },
+      {
+        "host": "direct.packfancy.com",
+        "citationCount": 1,
+        "learn": [
+          "页面是否直接回答 supplier / compare / RFQ / samples 类问题",
+          "是否有区域词 UAE / Dubai / Saudi / Middle East",
+          "是否有产品适用场景 cosmetics / candles / tea / premium retail",
+          "是否有清晰采购前检查点、材料、结构、表面工艺、样品准备信息"
+        ],
+        "nextMugeAction": "把可公开、可核实、非夸大的采购检查信息补到 MUGE paper tubes 页面、外部 Source Pack、目录资料页和社媒摘要。",
+        "urls": [
+          "https://direct.packfancy.com"
+        ]
+      }
+    ]
+  },
+  "entryResults": [
+    {
+      "host": "tradeindia.com",
+      "priority": "P0",
+      "type": "目录/平台资料机会",
+      "action": "检查是否有免费公司资料页、产品资料页或资料修正入口；遇到登录、验证码、付费、Verified Supplier 要求即停止并转人工闸门。",
+      "urls": [
+        "https://www.tradeindia.com/products/custom-paper-tubes-c3136720.html"
+      ],
+      "checks": [
+        {
+          "inputUrl": "https://www.tradeindia.com/products/custom-paper-tubes-c3136720.html",
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://www.tradeindia.com/products/custom-paper-tubes-c3136720.html",
+          "contentType": "text/html; charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": true,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://www.tradeindia.com/products/custom-paper-tubes-c3136720.html",
+            "title": "Custom Paper Tubes at Best Price in Dubai, Dubai | Vuega Packaging Industries Llc",
+            "textSample": "custom paper tubes at best price in dubai, dubai | vuega packaging industries llc search login sign up tradeindia packaging tubes paper tubes custom paper tubes price: get latest price brand name : vuega packaging industries llc in stock send inquiry product s"
+          }
+        },
+        {
+          "inputUrl": "https://www.tradeindia.com/contact",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://www.tradeindia.com/contact/",
+          "contentType": "text/html; charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://www.tradeindia.com/contact/",
+            "title": "404 - Page Not Found",
+            "textSample": "--> --> 404 - page not found --> --> 120){ $('#search-val-error').html('keyword must be less than 120 characters.'); $('#search-val-error').show(); $('#global_search').select(); return false}\" > 120){ $('#search-val-error').html('keyword must be less than 120 "
+          }
+        },
+        {
+          "inputUrl": "https://www.tradeindia.com/contact-us",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://www.tradeindia.com/contact-us/",
+          "contentType": "text/html; charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://www.tradeindia.com/contact-us/",
+            "title": "404 - Page Not Found",
+            "textSample": "--> --> 404 - page not found --> --> 120){ $('#search-val-error').html('keyword must be less than 120 characters.'); $('#search-val-error').show(); $('#global_search').select(); return false}\" > 120){ $('#search-val-error').html('keyword must be less than 120 "
+          }
+        },
+        {
+          "inputUrl": "https://www.tradeindia.com/about",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://www.tradeindia.com/about/",
+          "contentType": "text/html; charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://www.tradeindia.com/about/",
+            "title": "404 - Page Not Found",
+            "textSample": "--> --> 404 - page not found --> --> 120){ $('#search-val-error').html('keyword must be less than 120 characters.'); $('#search-val-error').show(); $('#global_search').select(); return false}\" > 120){ $('#search-val-error').html('keyword must be less than 120 "
+          }
+        },
+        {
+          "inputUrl": "https://www.tradeindia.com/about-us",
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://www.tradeindia.com/about-us/",
+          "contentType": "text/html; charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://www.tradeindia.com/about-us/",
+            "title": "About TradeIndia.com - India's Largest Online B2B Marketplace",
+            "textSample": "about tradeindia.com - india's largest online b2b marketplace about success story careers help contact us sign in &nbsp;&nbsp;|&nbsp;&nbsp; join free #sabmilegayahinmilega making indian msmes digitally saksham we are one of india’s largest and oldest b2b marke"
+          }
+        },
+        {
+          "inputUrl": "https://www.tradeindia.com/submit",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://www.tradeindia.com/submit/",
+          "contentType": "text/html; charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://www.tradeindia.com/submit/",
+            "title": "404 - Page Not Found",
+            "textSample": "--> --> 404 - page not found --> --> 120){ $('#search-val-error').html('keyword must be less than 120 characters.'); $('#search-val-error').show(); $('#global_search').select(); return false}\" > 120){ $('#search-val-error').html('keyword must be less than 120 "
+          }
+        },
+        {
+          "inputUrl": "https://www.tradeindia.com/write-for-us",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://www.tradeindia.com/write-for-us/",
+          "contentType": "text/html; charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://www.tradeindia.com/write-for-us/",
+            "title": "404 - Page Not Found",
+            "textSample": "--> --> 404 - page not found --> --> 120){ $('#search-val-error').html('keyword must be less than 120 characters.'); $('#search-val-error').show(); $('#global_search').select(); return false}\" > 120){ $('#search-val-error').html('keyword must be less than 120 "
+          }
+        },
+        {
+          "inputUrl": "https://www.tradeindia.com/advertise",
+          "ok": true,
+          "status": 202,
+          "finalUrl": "https://www.tradeindia.com/advertise",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": false,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://www.tradeindia.com/advertise",
+            "title": "",
+            "textSample": "javascript is disabled in order to continue, we need to verify that you're not a robot. this requires javascript. enable javascript and then reload the page."
+          }
+        },
+        {
+          "inputUrl": "https://www.tradeindia.com/support",
+          "ok": true,
+          "status": 202,
+          "finalUrl": "https://www.tradeindia.com/support/",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": false,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://www.tradeindia.com/support/",
+            "title": "",
+            "textSample": "javascript is disabled in order to continue, we need to verify that you're not a robot. this requires javascript. enable javascript and then reload the page."
+          }
+        },
+        {
+          "inputUrl": "https://www.tradeindia.com/help",
+          "ok": true,
+          "status": 202,
+          "finalUrl": "https://www.tradeindia.com/help/",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": false,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://www.tradeindia.com/help/",
+            "title": "",
+            "textSample": "javascript is disabled in order to continue, we need to verify that you're not a robot. this requires javascript. enable javascript and then reload the page."
+          }
+        }
+      ],
+      "decision": {
+        "status": "manual_gate_required",
+        "userGate": true,
+        "nextAction": "存在付费/验证码/高级会员/认证供应商风险，停止自动推进，进入人工闸门。",
+        "liveCount": 5,
+        "signalSummary": {
+          "anySubmit": true,
+          "anyContact": true,
+          "anyForm": true,
+          "anyLogin": true,
+          "anyPayment": true,
+          "anyCaptcha": false,
+          "mentionsMuge": false
+        }
+      },
+      "bestLiveUrls": [
+        "https://www.tradeindia.com/products/custom-paper-tubes-c3136720.html",
+        "https://www.tradeindia.com/about-us/",
+        "https://www.tradeindia.com/advertise",
+        "https://www.tradeindia.com/support/",
+        "https://www.tradeindia.com/help/"
+      ],
+      "safeDraft": ""
+    },
+    {
+      "host": "b2bdata.baidu.com",
+      "priority": "P0",
+      "type": "目录/平台资料机会",
+      "action": "检查是否有免费公司资料页、产品资料页或资料修正入口；遇到登录、验证码、付费、Verified Supplier 要求即停止并转人工闸门。",
+      "urls": [
+        "https://b2bdata.baidu.com/en/rank/k/all-area/paper-tube"
+      ],
+      "checks": [
+        {
+          "inputUrl": "https://b2bdata.baidu.com/en/rank/k/all-area/paper-tube",
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://b2bdata.baidu.com/en/rank/k/all-area/paper-tube",
+          "contentType": "text/html;charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": true,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://b2bdata.baidu.com/en/rank/k/all-area/paper-tube",
+            "title": "2026 Top 10 Paper Tube Manufacturers in China",
+            "textSample": "2026 top 10 paper tube manufacturers in china trusted mfrs · verified rankings ranked by real data updated jun 16, 2026 · public platform &amp; industry data jun 16, 2026 updated english 中文 2026 top 10 paper tube manufacturers in china top-rated paper tube sup"
+          }
+        },
+        {
+          "inputUrl": "https://b2bdata.baidu.com/contact",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://b2bdata.baidu.com/contact",
+          "contentType": "text/html;charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://b2bdata.baidu.com/contact",
+            "title": "b2b行业洞察",
+            "textSample": "b2b行业洞察 404 - page not found: /contact"
+          }
+        },
+        {
+          "inputUrl": "https://b2bdata.baidu.com/contact-us",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://b2bdata.baidu.com/contact-us",
+          "contentType": "text/html;charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://b2bdata.baidu.com/contact-us",
+            "title": "b2b行业洞察",
+            "textSample": "b2b行业洞察 404 - page not found: /contact-us"
+          }
+        },
+        {
+          "inputUrl": "https://b2bdata.baidu.com/about",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://b2bdata.baidu.com/about",
+          "contentType": "text/html;charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": false,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://b2bdata.baidu.com/about",
+            "title": "b2b行业洞察",
+            "textSample": "b2b行业洞察 404 - page not found: /about"
+          }
+        },
+        {
+          "inputUrl": "https://b2bdata.baidu.com/about-us",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://b2bdata.baidu.com/about-us",
+          "contentType": "text/html;charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": false,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://b2bdata.baidu.com/about-us",
+            "title": "b2b行业洞察",
+            "textSample": "b2b行业洞察 404 - page not found: /about-us"
+          }
+        },
+        {
+          "inputUrl": "https://b2bdata.baidu.com/submit",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://b2bdata.baidu.com/submit",
+          "contentType": "text/html;charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": false,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://b2bdata.baidu.com/submit",
+            "title": "b2b行业洞察",
+            "textSample": "b2b行业洞察 404 - page not found: /submit"
+          }
+        },
+        {
+          "inputUrl": "https://b2bdata.baidu.com/write-for-us",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://b2bdata.baidu.com/write-for-us",
+          "contentType": "text/html;charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": false,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://b2bdata.baidu.com/write-for-us",
+            "title": "b2b行业洞察",
+            "textSample": "b2b行业洞察 404 - page not found: /write-for-us"
+          }
+        },
+        {
+          "inputUrl": "https://b2bdata.baidu.com/advertise",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://b2bdata.baidu.com/advertise",
+          "contentType": "text/html;charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": false,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://b2bdata.baidu.com/advertise",
+            "title": "b2b行业洞察",
+            "textSample": "b2b行业洞察 404 - page not found: /advertise"
+          }
+        },
+        {
+          "inputUrl": "https://b2bdata.baidu.com/support",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://b2bdata.baidu.com/support",
+          "contentType": "text/html;charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://b2bdata.baidu.com/support",
+            "title": "b2b行业洞察",
+            "textSample": "b2b行业洞察 404 - page not found: /support"
+          }
+        },
+        {
+          "inputUrl": "https://b2bdata.baidu.com/help",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://b2bdata.baidu.com/help",
+          "contentType": "text/html;charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": false,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://b2bdata.baidu.com/help",
+            "title": "b2b行业洞察",
+            "textSample": "b2b行业洞察 404 - page not found: /help"
+          }
+        }
+      ],
+      "decision": {
+        "status": "manual_gate_required",
+        "userGate": true,
+        "nextAction": "存在付费/验证码/高级会员/认证供应商风险，停止自动推进，进入人工闸门。",
+        "liveCount": 1,
+        "signalSummary": {
+          "anySubmit": false,
+          "anyContact": true,
+          "anyForm": false,
+          "anyLogin": true,
+          "anyPayment": true,
+          "anyCaptcha": false,
+          "mentionsMuge": false
+        }
+      },
+      "bestLiveUrls": [
+        "https://b2bdata.baidu.com/en/rank/k/all-area/paper-tube"
+      ],
+      "safeDraft": ""
+    },
+    {
+      "host": "nb-pack.en.made-in-china.com",
+      "priority": "P0",
+      "type": "目录/平台资料机会",
+      "action": "检查是否有免费公司资料页、产品资料页或资料修正入口；遇到登录、验证码、付费、Verified Supplier 要求即停止并转人工闸门。",
+      "urls": [
+        "https://nb-pack.en.made-in-china.com/product/GAnUSpzYmMht/China-Sustainable-Paper-Tube-Packaging-Solutions-for-Green-Brands.html"
+      ],
+      "checks": [
+        {
+          "inputUrl": "https://nb-pack.en.made-in-china.com/product/GAnUSpzYmMht/China-Sustainable-Paper-Tube-Packaging-Solutions-for-Green-Brands.html",
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://nb-pack.en.made-in-china.com/product/GAnUSpzYmMht/China-Sustainable-Paper-Tube-Packaging-Solutions-for-Green-Brands.html",
+          "contentType": "text/html;charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": true,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://nb-pack.en.made-in-china.com/product/GAnUSpzYmMht/China-Sustainable-Paper-Tube-Packaging-Solutions-for-Green-Brands.html",
+            "title": "Sustainable Paper Tube Packaging Solutions for Green Brands - Eco-Friendly Paper Tube Packaging and Kraft Paper Tube Packaging",
+            "textSample": "sustainable paper tube packaging solutions for green brands - eco-friendly paper tube packaging and kraft paper tube packaging skip to main content home packaging & printing package & conveyance packaging tubes &#xe0a2; secured trading service what is sts? sts"
+          }
+        },
+        {
+          "inputUrl": "https://nb-pack.en.made-in-china.com/contact",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://nb-pack.en.made-in-china.com/contact",
+          "contentType": "text/html;charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://nb-pack.en.made-in-china.com/contact",
+            "title": "The information is not available right now",
+            "textSample": "the information is not available right now sign in join free new message(s) 0 unquoted sourcing request(s) 0 new quote(s) of sourcing request 0 manage products edit my showroom sign out for buyer new user guide search products &amp; suppliers browse product ca"
+          }
+        },
+        {
+          "inputUrl": "https://nb-pack.en.made-in-china.com/contact-us",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://nb-pack.en.made-in-china.com/contact-us",
+          "contentType": "text/html;charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://nb-pack.en.made-in-china.com/contact-us",
+            "title": "The information is not available right now",
+            "textSample": "the information is not available right now sign in join free new message(s) 0 unquoted sourcing request(s) 0 new quote(s) of sourcing request 0 manage products edit my showroom sign out for buyer new user guide search products &amp; suppliers browse product ca"
+          }
+        },
+        {
+          "inputUrl": "https://nb-pack.en.made-in-china.com/about",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://nb-pack.en.made-in-china.com/about",
+          "contentType": "text/html;charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://nb-pack.en.made-in-china.com/about",
+            "title": "The information is not available right now",
+            "textSample": "the information is not available right now sign in join free new message(s) 0 unquoted sourcing request(s) 0 new quote(s) of sourcing request 0 manage products edit my showroom sign out for buyer new user guide search products &amp; suppliers browse product ca"
+          }
+        },
+        {
+          "inputUrl": "https://nb-pack.en.made-in-china.com/about-us",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://nb-pack.en.made-in-china.com/about-us",
+          "contentType": "text/html;charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://nb-pack.en.made-in-china.com/about-us",
+            "title": "The information is not available right now",
+            "textSample": "the information is not available right now sign in join free new message(s) 0 unquoted sourcing request(s) 0 new quote(s) of sourcing request 0 manage products edit my showroom sign out for buyer new user guide search products &amp; suppliers browse product ca"
+          }
+        },
+        {
+          "inputUrl": "https://nb-pack.en.made-in-china.com/submit",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://nb-pack.en.made-in-china.com/submit",
+          "contentType": "text/html;charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://nb-pack.en.made-in-china.com/submit",
+            "title": "The information is not available right now",
+            "textSample": "the information is not available right now sign in join free new message(s) 0 unquoted sourcing request(s) 0 new quote(s) of sourcing request 0 manage products edit my showroom sign out for buyer new user guide search products &amp; suppliers browse product ca"
+          }
+        },
+        {
+          "inputUrl": "https://nb-pack.en.made-in-china.com/write-for-us",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://nb-pack.en.made-in-china.com/write-for-us",
+          "contentType": "text/html;charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://nb-pack.en.made-in-china.com/write-for-us",
+            "title": "The information is not available right now",
+            "textSample": "the information is not available right now sign in join free new message(s) 0 unquoted sourcing request(s) 0 new quote(s) of sourcing request 0 manage products edit my showroom sign out for buyer new user guide search products &amp; suppliers browse product ca"
+          }
+        },
+        {
+          "inputUrl": "https://nb-pack.en.made-in-china.com/advertise",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://nb-pack.en.made-in-china.com/advertise",
+          "contentType": "text/html;charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://nb-pack.en.made-in-china.com/advertise",
+            "title": "The information is not available right now",
+            "textSample": "the information is not available right now sign in join free new message(s) 0 unquoted sourcing request(s) 0 new quote(s) of sourcing request 0 manage products edit my showroom sign out for buyer new user guide search products &amp; suppliers browse product ca"
+          }
+        },
+        {
+          "inputUrl": "https://nb-pack.en.made-in-china.com/support",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://nb-pack.en.made-in-china.com/support",
+          "contentType": "text/html;charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://nb-pack.en.made-in-china.com/support",
+            "title": "The information is not available right now",
+            "textSample": "the information is not available right now sign in join free new message(s) 0 unquoted sourcing request(s) 0 new quote(s) of sourcing request 0 manage products edit my showroom sign out for buyer new user guide search products &amp; suppliers browse product ca"
+          }
+        },
+        {
+          "inputUrl": "https://nb-pack.en.made-in-china.com/help",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://nb-pack.en.made-in-china.com/help",
+          "contentType": "text/html;charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://nb-pack.en.made-in-china.com/help",
+            "title": "The information is not available right now",
+            "textSample": "the information is not available right now sign in join free new message(s) 0 unquoted sourcing request(s) 0 new quote(s) of sourcing request 0 manage products edit my showroom sign out for buyer new user guide search products &amp; suppliers browse product ca"
+          }
+        }
+      ],
+      "decision": {
+        "status": "manual_gate_required",
+        "userGate": true,
+        "nextAction": "存在付费/验证码/高级会员/认证供应商风险，停止自动推进，进入人工闸门。",
+        "liveCount": 1,
+        "signalSummary": {
+          "anySubmit": true,
+          "anyContact": true,
+          "anyForm": true,
+          "anyLogin": true,
+          "anyPayment": true,
+          "anyCaptcha": false,
+          "mentionsMuge": false
+        }
+      },
+      "bestLiveUrls": [
+        "https://nb-pack.en.made-in-china.com/product/GAnUSpzYmMht/China-Sustainable-Paper-Tube-Packaging-Solutions-for-Green-Brands.html"
+      ],
+      "safeDraft": ""
+    },
+    {
+      "host": "themerchlist.com",
+      "priority": "P1",
+      "type": "内容/编辑入口待复验",
+      "action": "复验是否有投稿、资料更正、作者联系或 source review 入口；只生成编辑请求草稿，不自动发送。",
+      "urls": [
+        "https://themerchlist.com/customize/cardboard-tube-box/"
+      ],
+      "checks": [
+        {
+          "inputUrl": "https://themerchlist.com/customize/cardboard-tube-box/",
+          "ok": false,
+          "status": 403,
+          "finalUrl": "https://themerchlist.com/customize/cardboard-tube-box/",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": false,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://themerchlist.com/customize/cardboard-tube-box/",
+            "title": "Just a moment...",
+            "textSample": "just a moment... enable javascript and cookies to continue"
+          }
+        },
+        {
+          "inputUrl": "https://themerchlist.com/contact",
+          "ok": false,
+          "status": 403,
+          "finalUrl": "https://themerchlist.com/contact",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://themerchlist.com/contact",
+            "title": "Just a moment...",
+            "textSample": "just a moment... enable javascript and cookies to continue"
+          }
+        },
+        {
+          "inputUrl": "https://themerchlist.com/contact-us",
+          "ok": false,
+          "status": 403,
+          "finalUrl": "https://themerchlist.com/contact-us",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://themerchlist.com/contact-us",
+            "title": "Just a moment...",
+            "textSample": "just a moment... enable javascript and cookies to continue"
+          }
+        },
+        {
+          "inputUrl": "https://themerchlist.com/about",
+          "ok": false,
+          "status": 403,
+          "finalUrl": "https://themerchlist.com/about",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": false,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://themerchlist.com/about",
+            "title": "Just a moment...",
+            "textSample": "just a moment... enable javascript and cookies to continue"
+          }
+        },
+        {
+          "inputUrl": "https://themerchlist.com/about-us",
+          "ok": false,
+          "status": 403,
+          "finalUrl": "https://themerchlist.com/about-us",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": false,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://themerchlist.com/about-us",
+            "title": "Just a moment...",
+            "textSample": "just a moment... enable javascript and cookies to continue"
+          }
+        },
+        {
+          "inputUrl": "https://themerchlist.com/submit",
+          "ok": false,
+          "status": 403,
+          "finalUrl": "https://themerchlist.com/submit",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": false,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://themerchlist.com/submit",
+            "title": "Just a moment...",
+            "textSample": "just a moment... enable javascript and cookies to continue"
+          }
+        },
+        {
+          "inputUrl": "https://themerchlist.com/write-for-us",
+          "ok": false,
+          "status": 403,
+          "finalUrl": "https://themerchlist.com/write-for-us",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": false,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://themerchlist.com/write-for-us",
+            "title": "Just a moment...",
+            "textSample": "just a moment... enable javascript and cookies to continue"
+          }
+        },
+        {
+          "inputUrl": "https://themerchlist.com/advertise",
+          "ok": false,
+          "status": 403,
+          "finalUrl": "https://themerchlist.com/advertise",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": false,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://themerchlist.com/advertise",
+            "title": "Just a moment...",
+            "textSample": "just a moment... enable javascript and cookies to continue"
+          }
+        },
+        {
+          "inputUrl": "https://themerchlist.com/support",
+          "ok": false,
+          "status": 403,
+          "finalUrl": "https://themerchlist.com/support",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://themerchlist.com/support",
+            "title": "Just a moment...",
+            "textSample": "just a moment... enable javascript and cookies to continue"
+          }
+        },
+        {
+          "inputUrl": "https://themerchlist.com/help",
+          "ok": false,
+          "status": 403,
+          "finalUrl": "https://themerchlist.com/help",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": false,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": false,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://themerchlist.com/help",
+            "title": "Just a moment...",
+            "textSample": "just a moment... enable javascript and cookies to continue"
+          }
+        }
+      ],
+      "decision": {
+        "status": "fetch_failed",
+        "userGate": false,
+        "nextAction": "当前公开访问失败，后续换网络或浏览器人工复验。",
+        "liveCount": 0,
+        "signalSummary": {
+          "anySubmit": false,
+          "anyContact": false,
+          "anyForm": false,
+          "anyLogin": false,
+          "anyPayment": false,
+          "anyCaptcha": false,
+          "mentionsMuge": false
+        }
+      },
+      "bestLiveUrls": [],
+      "safeDraft": ""
+    },
+    {
+      "host": "coresmith.com",
+      "priority": "P1",
+      "type": "内容/编辑入口待复验",
+      "action": "复验是否有投稿、资料更正、作者联系或 source review 入口；只生成编辑请求草稿，不自动发送。",
+      "urls": [
+        "https://www.coresmith.com/blognews/everything-you-need-to-know-about-paper-tubes-and-their-uses/"
+      ],
+      "checks": [
+        {
+          "inputUrl": "https://www.coresmith.com/blognews/everything-you-need-to-know-about-paper-tubes-and-their-uses/",
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://www.coresmith.com/blognews/everything-you-need-to-know-about-paper-tubes-and-their-uses/",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://www.coresmith.com/blognews/everything-you-need-to-know-about-paper-tubes-and-their-uses/",
+            "title": "Paper Tubes for Every Industry | Build Better, Brand Smarter",
+            "textSample": "paper tubes for every industry | build better, brand smarter &#8212;please choose an option&#8212; paper cones paper tubes paper cores paper edge protectors conical bolt boxes composite cans sales@coresmith.net --> 91-422-4242100 / 2441223 --> / 2441805 --> +9"
+          }
+        },
+        {
+          "inputUrl": "https://www.coresmith.com/contact",
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://www.coresmith.com/contact-us/",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": true,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://www.coresmith.com/contact-us/",
+            "title": "Paper Tubes For Packaging And Storing Beverages, FDY, POY Paper Tubes",
+            "textSample": "paper tubes for packaging and storing beverages, fdy, poy paper tubes &#8212;please choose an option&#8212; paper cones paper tubes paper cores paper edge protectors conical bolt boxes composite cans sales@coresmith.net --> 91-422-4242100 / 2441223 --> / 24418"
+          }
+        },
+        {
+          "inputUrl": "https://www.coresmith.com/contact-us",
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://www.coresmith.com/contact-us/",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": true,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://www.coresmith.com/contact-us/",
+            "title": "Paper Tubes For Packaging And Storing Beverages, FDY, POY Paper Tubes",
+            "textSample": "paper tubes for packaging and storing beverages, fdy, poy paper tubes &#8212;please choose an option&#8212; paper cones paper tubes paper cores paper edge protectors conical bolt boxes composite cans sales@coresmith.net --> 91-422-4242100 / 2441223 --> / 24418"
+          }
+        },
+        {
+          "inputUrl": "https://www.coresmith.com/about",
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://www.coresmith.com/about-us/",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://www.coresmith.com/about-us/",
+            "title": "Custom and Industrial Packaging Solutions, Paper Packaging Manufacturers",
+            "textSample": "custom and industrial packaging solutions, paper packaging manufacturers &#8212;please choose an option&#8212; paper cones paper tubes paper cores paper edge protectors conical bolt boxes composite cans sales@coresmith.net --> 91-422-4242100 / 2441223 --> / 24"
+          }
+        },
+        {
+          "inputUrl": "https://www.coresmith.com/about-us",
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://www.coresmith.com/about-us/",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://www.coresmith.com/about-us/",
+            "title": "Custom and Industrial Packaging Solutions, Paper Packaging Manufacturers",
+            "textSample": "custom and industrial packaging solutions, paper packaging manufacturers &#8212;please choose an option&#8212; paper cones paper tubes paper cores paper edge protectors conical bolt boxes composite cans sales@coresmith.net --> 91-422-4242100 / 2441223 --> / 24"
+          }
+        },
+        {
+          "inputUrl": "https://www.coresmith.com/submit",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://www.coresmith.com/submit",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://www.coresmith.com/submit",
+            "title": "Page not found |",
+            "textSample": "page not found | &#8212;please choose an option&#8212; paper cones paper tubes paper cores paper edge protectors conical bolt boxes composite cans sales@coresmith.net --> 91-422-4242100 / 2441223 --> / 2441805 --> +91-8754987519 --> enquiry --> --> --> --> hom"
+          }
+        },
+        {
+          "inputUrl": "https://www.coresmith.com/write-for-us",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://www.coresmith.com/write-for-us",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://www.coresmith.com/write-for-us",
+            "title": "Page not found |",
+            "textSample": "page not found | &#8212;please choose an option&#8212; paper cones paper tubes paper cores paper edge protectors conical bolt boxes composite cans sales@coresmith.net --> 91-422-4242100 / 2441223 --> / 2441805 --> +91-8754987519 --> enquiry --> --> --> --> hom"
+          }
+        },
+        {
+          "inputUrl": "https://www.coresmith.com/advertise",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://www.coresmith.com/advertise",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://www.coresmith.com/advertise",
+            "title": "Page not found |",
+            "textSample": "page not found | &#8212;please choose an option&#8212; paper cones paper tubes paper cores paper edge protectors conical bolt boxes composite cans sales@coresmith.net --> 91-422-4242100 / 2441223 --> / 2441805 --> +91-8754987519 --> enquiry --> --> --> --> hom"
+          }
+        },
+        {
+          "inputUrl": "https://www.coresmith.com/support",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://www.coresmith.com/support",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://www.coresmith.com/support",
+            "title": "Page not found |",
+            "textSample": "page not found | &#8212;please choose an option&#8212; paper cones paper tubes paper cores paper edge protectors conical bolt boxes composite cans sales@coresmith.net --> 91-422-4242100 / 2441223 --> / 2441805 --> +91-8754987519 --> enquiry --> --> --> --> hom"
+          }
+        },
+        {
+          "inputUrl": "https://www.coresmith.com/help",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://www.coresmith.com/help",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://www.coresmith.com/help",
+            "title": "Page not found |",
+            "textSample": "page not found | &#8212;please choose an option&#8212; paper cones paper tubes paper cores paper edge protectors conical bolt boxes composite cans sales@coresmith.net --> 91-422-4242100 / 2441223 --> / 2441805 --> +91-8754987519 --> enquiry --> --> --> --> hom"
+          }
+        }
+      ],
+      "decision": {
+        "status": "manual_gate_required",
+        "userGate": true,
+        "nextAction": "存在付费/验证码/高级会员/认证供应商风险，停止自动推进，进入人工闸门。",
+        "liveCount": 5,
+        "signalSummary": {
+          "anySubmit": true,
+          "anyContact": true,
+          "anyForm": true,
+          "anyLogin": false,
+          "anyPayment": true,
+          "anyCaptcha": true,
+          "mentionsMuge": false
+        }
+      },
+      "bestLiveUrls": [
+        "https://www.coresmith.com/blognews/everything-you-need-to-know-about-paper-tubes-and-their-uses/",
+        "https://www.coresmith.com/contact-us/",
+        "https://www.coresmith.com/contact-us/",
+        "https://www.coresmith.com/about-us/",
+        "https://www.coresmith.com/about-us/"
+      ],
+      "safeDraft": ""
+    },
+    {
+      "host": "hallpack.net",
+      "priority": "P1",
+      "type": "内容/编辑入口待复验",
+      "action": "复验是否有投稿、资料更正、作者联系或 source review 入口；只生成编辑请求草稿，不自动发送。",
+      "urls": [
+        "https://www.hallpack.net/how-to-source-the-best-round-food-grade-cardboard-tube-suppliers.html"
+      ],
+      "checks": [
+        {
+          "inputUrl": "https://www.hallpack.net/how-to-source-the-best-round-food-grade-cardboard-tube-suppliers.html",
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://www.hallpack.net/how-to-source-the-best-round-food-grade-cardboard-tube-suppliers.html",
+          "contentType": "text/html;charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": true,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://www.hallpack.net/how-to-source-the-best-round-food-grade-cardboard-tube-suppliers.html",
+            "title": "Guide to sourcing a round food grade cardboard tube in China",
+            "textSample": "guide to sourcing a round food grade cardboard tube in china home about us faq products hot sale sushi push-pop container ready to ship food paper tube cosmetic paper tube paper box lipbalm tube packaging paper tube mailing tube special paper tube gift tube pa"
+          }
+        },
+        {
+          "inputUrl": "https://www.hallpack.net/contact",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://www.hallpack.net/contact",
+          "contentType": "text/html;charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://www.hallpack.net/contact",
+            "title": "404 - Hallpack(Heshan) Packaging Products Co., Ltd.",
+            "textSample": "404 - hallpack(heshan) packaging products co., ltd. the page you visited does not exist or the link is broken.&nbsp;please try the following: &gt; check that the web address is correct &gt; try to access the page directly from the homepage we use cookies to en"
+          }
+        },
+        {
+          "inputUrl": "https://www.hallpack.net/contact-us",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://www.hallpack.net/contact-us",
+          "contentType": "text/html;charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://www.hallpack.net/contact-us",
+            "title": "404 - Hallpack(Heshan) Packaging Products Co., Ltd.",
+            "textSample": "404 - hallpack(heshan) packaging products co., ltd. the page you visited does not exist or the link is broken.&nbsp;please try the following: &gt; check that the web address is correct &gt; try to access the page directly from the homepage we use cookies to en"
+          }
+        },
+        {
+          "inputUrl": "https://www.hallpack.net/about",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://www.hallpack.net/about",
+          "contentType": "text/html;charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://www.hallpack.net/about",
+            "title": "404 - Hallpack(Heshan) Packaging Products Co., Ltd.",
+            "textSample": "404 - hallpack(heshan) packaging products co., ltd. the page you visited does not exist or the link is broken.&nbsp;please try the following: &gt; check that the web address is correct &gt; try to access the page directly from the homepage we use cookies to en"
+          }
+        },
+        {
+          "inputUrl": "https://www.hallpack.net/about-us",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://www.hallpack.net/about-us",
+          "contentType": "text/html;charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://www.hallpack.net/about-us",
+            "title": "404 - Hallpack(Heshan) Packaging Products Co., Ltd.",
+            "textSample": "404 - hallpack(heshan) packaging products co., ltd. the page you visited does not exist or the link is broken.&nbsp;please try the following: &gt; check that the web address is correct &gt; try to access the page directly from the homepage we use cookies to en"
+          }
+        },
+        {
+          "inputUrl": "https://www.hallpack.net/submit",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://www.hallpack.net/submit",
+          "contentType": "text/html;charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://www.hallpack.net/submit",
+            "title": "404 - Hallpack(Heshan) Packaging Products Co., Ltd.",
+            "textSample": "404 - hallpack(heshan) packaging products co., ltd. the page you visited does not exist or the link is broken.&nbsp;please try the following: &gt; check that the web address is correct &gt; try to access the page directly from the homepage we use cookies to en"
+          }
+        },
+        {
+          "inputUrl": "https://www.hallpack.net/write-for-us",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://www.hallpack.net/write-for-us",
+          "contentType": "text/html;charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://www.hallpack.net/write-for-us",
+            "title": "404 - Hallpack(Heshan) Packaging Products Co., Ltd.",
+            "textSample": "404 - hallpack(heshan) packaging products co., ltd. the page you visited does not exist or the link is broken.&nbsp;please try the following: &gt; check that the web address is correct &gt; try to access the page directly from the homepage we use cookies to en"
+          }
+        },
+        {
+          "inputUrl": "https://www.hallpack.net/advertise",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://www.hallpack.net/advertise",
+          "contentType": "text/html;charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://www.hallpack.net/advertise",
+            "title": "404 - Hallpack(Heshan) Packaging Products Co., Ltd.",
+            "textSample": "404 - hallpack(heshan) packaging products co., ltd. the page you visited does not exist or the link is broken.&nbsp;please try the following: &gt; check that the web address is correct &gt; try to access the page directly from the homepage we use cookies to en"
+          }
+        },
+        {
+          "inputUrl": "https://www.hallpack.net/support",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://www.hallpack.net/support",
+          "contentType": "text/html;charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://www.hallpack.net/support",
+            "title": "404 - Hallpack(Heshan) Packaging Products Co., Ltd.",
+            "textSample": "404 - hallpack(heshan) packaging products co., ltd. the page you visited does not exist or the link is broken.&nbsp;please try the following: &gt; check that the web address is correct &gt; try to access the page directly from the homepage we use cookies to en"
+          }
+        },
+        {
+          "inputUrl": "https://www.hallpack.net/help",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://www.hallpack.net/help",
+          "contentType": "text/html;charset=utf-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": false,
+            "hasLoginSignal": true,
+            "hasPaymentSignal": false,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://www.hallpack.net/help",
+            "title": "404 - Hallpack(Heshan) Packaging Products Co., Ltd.",
+            "textSample": "404 - hallpack(heshan) packaging products co., ltd. the page you visited does not exist or the link is broken.&nbsp;please try the following: &gt; check that the web address is correct &gt; try to access the page directly from the homepage we use cookies to en"
+          }
+        }
+      ],
+      "decision": {
+        "status": "manual_gate_required",
+        "userGate": true,
+        "nextAction": "存在付费/验证码/高级会员/认证供应商风险，停止自动推进，进入人工闸门。",
+        "liveCount": 1,
+        "signalSummary": {
+          "anySubmit": true,
+          "anyContact": true,
+          "anyForm": false,
+          "anyLogin": true,
+          "anyPayment": true,
+          "anyCaptcha": true,
+          "mentionsMuge": false
+        }
+      },
+      "bestLiveUrls": [
+        "https://www.hallpack.net/how-to-source-the-best-round-food-grade-cardboard-tube-suppliers.html"
+      ],
+      "safeDraft": ""
+    },
+    {
+      "host": "pakoro.com",
+      "priority": "P1",
+      "type": "内容/编辑入口待复验",
+      "action": "复验是否有投稿、资料更正、作者联系或 source review 入口；只生成编辑请求草稿，不自动发送。",
+      "urls": [
+        "https://pakoro.com/blog/paper-tube-manufacturer/"
+      ],
+      "checks": [
+        {
+          "inputUrl": "https://pakoro.com/blog/paper-tube-manufacturer/",
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://pakoro.com/blog/paper-tube-manufacturer/",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": true,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://pakoro.com/blog/paper-tube-manufacturer/",
+            "title": "Top 10 Paper Tube Manufacturer in China: Eco-Friendly Tube",
+            "textSample": "top 10 paper tube manufacturer in china: eco-friendly tube skip to main content skip to footer home packaging corrugated box shipping box paper carton box food packaging cake box pizza box tea box sweet box bakery box fruit box cookie box take out box chocolat"
+          }
+        },
+        {
+          "inputUrl": "https://pakoro.com/contact",
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://pakoro.com/contact/",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": true,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": true,
+            "hasMugeMention": false,
+            "url": "https://pakoro.com/contact/",
+            "title": "Contact - pakoro.com",
+            "textSample": "contact - pakoro.com skip to main content skip to footer home packaging corrugated box shipping box paper carton box food packaging cake box pizza box tea box sweet box bakery box fruit box cookie box take out box chocolate box gift box packaging pillow box ca"
+          }
+        },
+        {
+          "inputUrl": "https://pakoro.com/contact-us",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://pakoro.com/contact-us",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": true,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://pakoro.com/contact-us",
+            "title": "404 - 页面未找到 - pakoro.com",
+            "textSample": "404 - 页面未找到 - pakoro.com skip to main content skip to footer home packaging corrugated box shipping box paper carton box food packaging cake box pizza box tea box sweet box bakery box fruit box cookie box take out box chocolate box gift box packaging pillow bo"
+          }
+        },
+        {
+          "inputUrl": "https://pakoro.com/about",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://pakoro.com/about",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": true,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://pakoro.com/about",
+            "title": "404 - 页面未找到 - pakoro.com",
+            "textSample": "404 - 页面未找到 - pakoro.com skip to main content skip to footer home packaging corrugated box shipping box paper carton box food packaging cake box pizza box tea box sweet box bakery box fruit box cookie box take out box chocolate box gift box packaging pillow bo"
+          }
+        },
+        {
+          "inputUrl": "https://pakoro.com/about-us",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://pakoro.com/about-us",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": true,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://pakoro.com/about-us",
+            "title": "404 - 页面未找到 - pakoro.com",
+            "textSample": "404 - 页面未找到 - pakoro.com skip to main content skip to footer home packaging corrugated box shipping box paper carton box food packaging cake box pizza box tea box sweet box bakery box fruit box cookie box take out box chocolate box gift box packaging pillow bo"
+          }
+        },
+        {
+          "inputUrl": "https://pakoro.com/submit",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://pakoro.com/submit",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": true,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://pakoro.com/submit",
+            "title": "404 - 页面未找到 - pakoro.com",
+            "textSample": "404 - 页面未找到 - pakoro.com skip to main content skip to footer home packaging corrugated box shipping box paper carton box food packaging cake box pizza box tea box sweet box bakery box fruit box cookie box take out box chocolate box gift box packaging pillow bo"
+          }
+        },
+        {
+          "inputUrl": "https://pakoro.com/write-for-us",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://pakoro.com/write-for-us",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": true,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://pakoro.com/write-for-us",
+            "title": "404 - 页面未找到 - pakoro.com",
+            "textSample": "404 - 页面未找到 - pakoro.com skip to main content skip to footer home packaging corrugated box shipping box paper carton box food packaging cake box pizza box tea box sweet box bakery box fruit box cookie box take out box chocolate box gift box packaging pillow bo"
+          }
+        },
+        {
+          "inputUrl": "https://pakoro.com/advertise",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://pakoro.com/advertise",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": true,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://pakoro.com/advertise",
+            "title": "404 - 页面未找到 - pakoro.com",
+            "textSample": "404 - 页面未找到 - pakoro.com skip to main content skip to footer home packaging corrugated box shipping box paper carton box food packaging cake box pizza box tea box sweet box bakery box fruit box cookie box take out box chocolate box gift box packaging pillow bo"
+          }
+        },
+        {
+          "inputUrl": "https://pakoro.com/support",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://pakoro.com/support",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": true,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://pakoro.com/support",
+            "title": "404 - 页面未找到 - pakoro.com",
+            "textSample": "404 - 页面未找到 - pakoro.com skip to main content skip to footer home packaging corrugated box shipping box paper carton box food packaging cake box pizza box tea box sweet box bakery box fruit box cookie box take out box chocolate box gift box packaging pillow bo"
+          }
+        },
+        {
+          "inputUrl": "https://pakoro.com/help",
+          "ok": false,
+          "status": 404,
+          "finalUrl": "https://pakoro.com/help",
+          "contentType": "text/html; charset=UTF-8",
+          "error": "",
+          "signals": {
+            "hasContactSignal": true,
+            "hasSubmitSignal": true,
+            "hasLoginSignal": false,
+            "hasPaymentSignal": true,
+            "hasCaptchaSignal": true,
+            "hasFormSignal": false,
+            "hasMugeMention": false,
+            "url": "https://pakoro.com/help",
+            "title": "404 - 页面未找到 - pakoro.com",
+            "textSample": "404 - 页面未找到 - pakoro.com skip to main content skip to footer home packaging corrugated box shipping box paper carton box food packaging cake box pizza box tea box sweet box bakery box fruit box cookie box take out box chocolate box gift box packaging pillow bo"
+          }
+        }
+      ],
+      "decision": {
+        "status": "manual_gate_required",
+        "userGate": true,
+        "nextAction": "存在付费/验证码/高级会员/认证供应商风险，停止自动推进，进入人工闸门。",
+        "liveCount": 2,
+        "signalSummary": {
+          "anySubmit": true,
+          "anyContact": true,
+          "anyForm": true,
+          "anyLogin": false,
+          "anyPayment": true,
+          "anyCaptcha": true,
+          "mentionsMuge": false
+        }
+      },
+      "bestLiveUrls": [
+        "https://pakoro.com/blog/paper-tube-manufacturer/",
+        "https://pakoro.com/contact/"
+      ],
+      "safeDraft": ""
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "Paper Tubes UAE / Saudi AI-Cited Source Response Pack",
+    "description": "Claim-bounded public response pack mapping AI-cited paper tube packaging supplier sources to safe MUGE PACKAGING response actions.",
+    "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uae-saudi-ai-cited-source-response-pack-2026-06-17.html",
+    "creator": {
+      "@type": "Organization",
+      "name": "MUGE PACKAGING",
+      "url": "https://mugepackaging.com"
+    },
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "text/html",
+        "contentUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uae-saudi-ai-cited-source-response-pack-2026-06-17.html"
+      },
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "text/markdown",
+        "contentUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uae-saudi-ai-cited-source-response-pack-2026-06-17.md"
+      },
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-uae-saudi-ai-cited-source-response-pack-2026-06-17.json"
+      }
+    ]
+  }
+}
