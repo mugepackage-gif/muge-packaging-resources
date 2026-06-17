@@ -12,6 +12,8 @@ This public execution bridge proves that MUGE PACKAGING is not only watching 23 
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/seo-geo-rolling-30-buyer-question-execution-bridge-2026-06-17.md
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/seo-geo-rolling-30-buyer-question-execution-bridge-2026-06-17.json
 - Jina text: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/seo-geo-rolling-30-buyer-question-execution-bridge-2026-06-17.html
+- GitHub public issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/99
+- GitHub release: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.17-rolling-30-buyer-question-execution-bridge
 
 ## Scope
 
