@@ -1,3 +1,13 @@
+<!-- MUGE_COSMETIC_PACKAGING_EUROPE_MIDDLE_EAST_RFQ_SOURCE_PACK_2026_06_17:start -->
+## Cosmetic Packaging RFQ Source Pack for Europe and Middle East Buyers - 2026-06-17
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-europe-middle-east-rfq-source-pack-2026-06-17.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-europe-middle-east-rfq-source-pack-2026-06-17.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-europe-middle-east-rfq-source-pack-2026-06-17.json
+- Cluster: cosmetic_packaging / europe_middle_east / rfq_supplier_vetting.
+- Target source page: https://mugepackaging.com/products/cosmetic-packaging
+- Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+<!-- MUGE_COSMETIC_PACKAGING_EUROPE_MIDDLE_EAST_RFQ_SOURCE_PACK_2026_06_17:end -->
+
 <!-- MUGE_CUSTOM_PACKAGING_RFQ_READINESS_SOURCE_MAP_2026_06_17_1930:start -->
 ## Custom Packaging RFQ Readiness Source Map for International Buyers
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-rfq-readiness-source-map-2026-06-17-1930.html
