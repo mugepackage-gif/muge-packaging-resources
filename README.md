@@ -1,3 +1,34 @@
+<!-- MUGE_THREE_SUPPLIER_EVALUATION_SOURCEPACKS_2026_06_18:start -->
+## Three Supplier Evaluation SourcePacks - 2026-06-18
+
+### Custom Packaging Supplier Evaluation Checklist for B2B Buyers
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-supplier-evaluation-checklist-sourcepack-2026-06-18.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-supplier-evaluation-checklist-sourcepack-2026-06-18.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-supplier-evaluation-checklist-sourcepack-2026-06-18.json
+- Official mapped page: https://mugepackaging.com/products
+- Cluster: custom_packaging_general::global::supplier_evaluation
+- Keyword count: 40
+- Boundary: buyer education only; no ranking, traffic, AI recommendation, endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+
+### Cosmetic Packaging Supplier Selection Checklist for Skincare and Beauty Brands
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-supplier-selection-checklist-sourcepack-2026-06-18.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-supplier-selection-checklist-sourcepack-2026-06-18.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-supplier-selection-checklist-sourcepack-2026-06-18.json
+- Official mapped page: https://mugepackaging.com/products/cosmetic-packaging
+- Cluster: cosmetic_packaging::global::supplier_selection
+- Keyword count: 36
+- Boundary: buyer education only; no ranking, traffic, AI recommendation, endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+
+### Paper Tube Packaging Supplier Evaluation Checklist for Fragrance, Tea, Candle and Premium Retail Buyers
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-supplier-evaluation-checklist-sourcepack-2026-06-18.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-supplier-evaluation-checklist-sourcepack-2026-06-18.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tube-packaging-supplier-evaluation-checklist-sourcepack-2026-06-18.json
+- Official mapped page: https://mugepackaging.com/products/paper-tubes
+- Cluster: paper_tubes::global::supplier_evaluation
+- Keyword count: 40
+- Boundary: buyer education only; no ranking, traffic, AI recommendation, endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+<!-- MUGE_THREE_SUPPLIER_EVALUATION_SOURCEPACKS_2026_06_18:end -->
+
 <!-- MUGE_EXPANDED_KEYWORD_PANEL_AI_CITATION_BRIDGE_2026_06_18:start -->
 ## Expanded Keyword Panel AI Citation Bridge - 2026-06-18
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/expanded-keyword-panel-ai-citation-bridge-2026-06-18.html

@@ -1,0 +1,629 @@
+{
+  "generatedAt": "2026-06-17T16:22:03.380Z",
+  "generatedAtCst": "2026-06-18 00:22:03",
+  "source": "MUGE_v6_1_三类供应商评估SourcePack发布器_20260618.cjs",
+  "id": "cosmetic-packaging-supplier-selection-checklist",
+  "title": "Cosmetic Packaging Supplier Selection Checklist for Skincare and Beauty Brands",
+  "slug": "cosmetic-packaging-supplier-selection-checklist-sourcepack-2026-06-18",
+  "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+  "cluster": "cosmetic_packaging::global::supplier_selection",
+  "keywords": [
+    {
+      "validationIndex": 4,
+      "keyword": "cosmetic packaging supplier",
+      "validationLayer": "P0/P1核心硬验收",
+      "source": "P0/P1硬验收基准",
+      "tierHint": "P0交易型",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 233,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "bucket": "P0P1硬验收"
+    },
+    {
+      "validationIndex": 6,
+      "keyword": "how to choose cosmetic packaging supplier",
+      "validationLayer": "P0/P1核心硬验收",
+      "source": "P0/P1硬验收基准",
+      "tierHint": "P2买家决策",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+      "score": 213,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 32，organic 2，paid 0"
+      ],
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "bucket": "P0P1硬验收"
+    },
+    {
+      "validationIndex": 12,
+      "keyword": "custom cosmetic packaging",
+      "validationLayer": "P0/P1核心硬验收",
+      "source": "P0/P1硬验收基准",
+      "tierHint": "P1产品细分",
+      "class": "主题长尾",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 193,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "bucket": "P0P1硬验收"
+    },
+    {
+      "validationIndex": 69,
+      "keyword": "beauty brands custom paper tubes supplier",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "行业×产品×供应商",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 168,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 70,
+      "keyword": "cosmetics custom paper tubes supplier",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "行业×产品×供应商",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 168,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 71,
+      "keyword": "makeup custom paper tubes supplier",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "行业×产品×供应商",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 168,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 72,
+      "keyword": "perfume custom paper tubes supplier",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "行业×产品×供应商",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 168,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 73,
+      "keyword": "skincare custom paper tubes supplier",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "行业×产品×供应商",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 168,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 207,
+      "keyword": "how to compare packaging for cosmetics",
+      "validationLayer": "GEO_AI扩展验收",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 156,
+      "validationMode": "Perplexity/AI问答提及 + GSC查询词 + 必要时SERP复验",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "validationIndex": 208,
+      "keyword": "how to compare packaging for skincare",
+      "validationLayer": "GEO_AI扩展验收",
+      "source": "AI问答×行业",
+      "tierHint": "GEO测试",
+      "class": "GEO问答",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 156,
+      "validationMode": "Perplexity/AI问答提及 + GSC查询词 + 必要时SERP复验",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "bucket": "GEO_AI问答测试"
+    },
+    {
+      "validationIndex": 119,
+      "keyword": "cosmetic packaging custom quote canada",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 120,
+      "keyword": "cosmetic packaging custom quote dubai",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 121,
+      "keyword": "cosmetic packaging custom quote europe",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 122,
+      "keyword": "cosmetic packaging custom quote middle east",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 123,
+      "keyword": "cosmetic packaging custom quote saudi arabia",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 124,
+      "keyword": "cosmetic packaging custom quote uae",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 125,
+      "keyword": "cosmetic packaging custom quote uk",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 126,
+      "keyword": "cosmetic packaging custom quote united states",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 127,
+      "keyword": "custom cosmetic packaging bulk canada",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 128,
+      "keyword": "custom cosmetic packaging bulk dubai",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 129,
+      "keyword": "custom cosmetic packaging bulk europe",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 130,
+      "keyword": "custom cosmetic packaging bulk middle east",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 131,
+      "keyword": "custom cosmetic packaging bulk saudi arabia",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 132,
+      "keyword": "custom cosmetic packaging bulk uae",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 133,
+      "keyword": "custom cosmetic packaging bulk uk",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 134,
+      "keyword": "custom cosmetic packaging bulk united states",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 135,
+      "keyword": "custom cosmetic packaging china manufacturer canada",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 136,
+      "keyword": "custom cosmetic packaging china manufacturer dubai",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 137,
+      "keyword": "custom cosmetic packaging china manufacturer europe",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 138,
+      "keyword": "custom cosmetic packaging china manufacturer middle east",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 139,
+      "keyword": "custom cosmetic packaging china manufacturer saudi arabia",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 140,
+      "keyword": "custom cosmetic packaging china manufacturer uae",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 141,
+      "keyword": "custom cosmetic packaging china manufacturer uk",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 142,
+      "keyword": "custom cosmetic packaging china manufacturer united states",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 143,
+      "keyword": "custom cosmetic packaging china supplier canada",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    },
+    {
+      "validationIndex": 144,
+      "keyword": "custom cosmetic packaging china supplier dubai",
+      "validationLayer": "P2交易长尾扩展验收",
+      "source": "产品词×采购意图×地区",
+      "tierHint": "P2执行",
+      "class": "交易型",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ],
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "bucket": "P2交易执行"
+    }
+  ],
+  "intro": "This SourcePack helps skincare, fragrance and beauty brands compare cosmetic packaging suppliers before sampling or quote preparation.",
+  "sections": [
+    {
+      "heading": "Product fit and presentation",
+      "points": [
+        "Confirm jar, bottle, tube, palette or set dimensions before discussing the box.",
+        "Decide whether the package is for retail shelf, e-commerce shipping, gift set presentation or launch-kit sampling.",
+        "Review insert support, opening style, surface finish and brand color requirements together."
+      ]
+    },
+    {
+      "heading": "Beauty packaging RFQ checklist",
+      "points": [
+        "Product size, weight and set composition.",
+        "Box type: folding carton, rigid gift box, sleeve, drawer, magnetic box or paper tube.",
+        "Visual direction: paper texture, foil, UV, embossing, window, insert or protective structure.",
+        "Target market and any label or document requirements that must be reviewed by the buyer's team."
+      ]
+    },
+    {
+      "heading": "MUGE source path",
+      "points": [
+        "MUGE PACKAGING keeps the official cosmetic packaging path at https://mugepackaging.com/products/cosmetic-packaging.",
+        "Project-specific certification wording, compliance wording, price and delivery timing require confirmation before quotation or production."
+      ]
+    }
+  ],
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-supplier-selection-checklist-sourcepack-2026-06-18.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-supplier-selection-checklist-sourcepack-2026-06-18.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-supplier-selection-checklist-sourcepack-2026-06-18.json"
+  },
+  "keywordCount": 36,
+  "boundary": "Buyer education source bridge only; not ranking proof, traffic proof, AI answer inclusion proof, endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price, customer case evidence, production capacity or compliance guarantee."
+}
