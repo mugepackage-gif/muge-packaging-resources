@@ -1,3 +1,14 @@
+<!-- MUGE_COMPARISON_SUPPLIER_VETTING_THIRD_PARTY_MIRRORS_2026_06_18:start -->
+## Comparison / Supplier Vetting Third-Party Mirrors - 2026-06-18
+- Telegraph: https://telegra.ph/Custom-Packaging-Comparison-and-Paper-Tube-Supplier-Vetting---MUGE-Source-Mirror-06-17
+- Telegraph Jina Reader: https://r.jina.ai/http://telegra.ph/Custom-Packaging-Comparison-and-Paper-Tube-Supplier-Vetting---MUGE-Source-Mirror-06-17
+- Rentry: https://rentry.co/muge-comparison-supplier-vetting-sourcepack-202606180734
+- Rentry Jina Reader: https://r.jina.ai/http://rentry.co/muge-comparison-supplier-vetting-sourcepack-202606180734
+- SourcePack: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-comparison-paper-tube-supplier-vetting-sourcepack-2026-06-18.html
+- Official pages: https://mugepackaging.com/products; https://mugepackaging.com/products/paper-tubes; https://mugepackaging.com/contact
+- Boundary: third-party readable mirror only; not ranking, traffic, GSC impression, inquiry, endorsement, AI natural recommendation, fixed MOQ, fixed lead time, fixed price, customer case, production capacity or compliance proof.
+<!-- MUGE_COMPARISON_SUPPLIER_VETTING_THIRD_PARTY_MIRRORS_2026_06_18:end -->
+
 <!-- MUGE_COMPARISON_SUPPLIER_VETTING_SOURCEPACK_2026_06_18:start -->
 ## Custom Packaging Comparison and Paper Tube Supplier Vetting SourcePack
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-comparison-paper-tube-supplier-vetting-sourcepack-2026-06-18.html
