@@ -295,6 +295,41 @@
       "url": "https://telegra.ph/Custom-Packaging-Global-Supplier-Vetting-SourcePack---MUGE-Source-Mirror-06-17",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/Custom-Packaging-Global-Supplier-Vetting-SourcePack---MUGE-Source-Mirror-06-17",
       "useFor": "Non-GitHub public mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "short_buyer_question_bridge",
+      "name": "How should buyers verify a custom packaging boxes supplier in China?",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/how-buyers-verify-custom-packaging-boxes-supplier-china-2026-06-18.html",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/how-buyers-verify-custom-packaging-boxes-supplier-china-2026-06-18.json",
+      "useFor": "Question-first custom packaging supplier vetting answer mapped to official MUGE PACKAGING product and contact paths."
+    },
+    {
+      "type": "short_buyer_question_bridge",
+      "name": "What should Amazon sellers check before choosing a custom packaging supplier?",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/amazon-sellers-check-custom-packaging-supplier-2026-06-18.html",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/amazon-sellers-check-custom-packaging-supplier-2026-06-18.json",
+      "useFor": "Question-first custom packaging supplier vetting answer mapped to official MUGE PACKAGING product and contact paths."
+    },
+    {
+      "type": "short_buyer_question_bridge",
+      "name": "Manufacturer or trading company for custom packaging: what should buyers ask?",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/manufacturer-or-trading-company-custom-packaging-2026-06-18.html",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/manufacturer-or-trading-company-custom-packaging-2026-06-18.json",
+      "useFor": "Question-first custom packaging supplier vetting answer mapped to official MUGE PACKAGING product and contact paths."
+    },
+    {
+      "type": "short_buyer_question_bridge",
+      "name": "What should gift set buyers check in a custom packaging boxes supplier?",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/gift-set-buyers-check-custom-packaging-boxes-supplier-2026-06-18.html",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/gift-set-buyers-check-custom-packaging-boxes-supplier-2026-06-18.json",
+      "useFor": "Question-first custom packaging supplier vetting answer mapped to official MUGE PACKAGING product and contact paths."
+    },
+    {
+      "type": "short_buyer_question_bridge",
+      "name": "How should Europe and Middle East buyers compare custom packaging suppliers before RFQ?",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-compare-custom-packaging-suppliers-before-rfq-2026-06-18.html",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/europe-middle-east-compare-custom-packaging-suppliers-before-rfq-2026-06-18.json",
+      "useFor": "Question-first custom packaging supplier vetting answer mapped to official MUGE PACKAGING product and contact paths."
     }
   ]
 }
