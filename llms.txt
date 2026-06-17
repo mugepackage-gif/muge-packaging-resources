@@ -1,3 +1,13 @@
+<!-- MUGE_CUSTOM_PACKAGING_RFQ_READINESS_SOURCE_MAP_2026_06_17_1930:start -->
+## Custom Packaging RFQ Readiness Source Map for International Buyers
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-rfq-readiness-source-map-2026-06-17-1930.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-rfq-readiness-source-map-2026-06-17-1930.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-rfq-readiness-source-map-2026-06-17-1930.json
+- Source blind test: /Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GEO验收/20260617_1929_自然买家问题_Perplexity盲测.json
+- Citation-pattern references: 7
+- Boundary: no auto-submit, no login/captcha/payment bypass, no outreach, no ranking/traffic/AI natural citation claim.
+<!-- MUGE_CUSTOM_PACKAGING_RFQ_READINESS_SOURCE_MAP_2026_06_17_1930:end -->
+
 <!-- MUGE_LISTICLE_PROCUREMENT_CITATION_OPPORTUNITY_RESPONSE_PACK_2026_06_17:start -->
 ## MUGE Listicle and Procurement Citation Opportunity Response Pack
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/listicle-procurement-citation-opportunity-response-pack-2026-06-17.html
