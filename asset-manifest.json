@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-06-17T23:36:48.958Z",
-  "total": 1302,
+  "generated_at": "2026-06-17T23:45:42.153Z",
+  "total": 1305,
   "files": [
+    {
+      "path": "data/custom-packaging-europe-middle-east-uk-supplier-vetting-sourcepack-2026-06-18.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-europe-middle-east-uk-supplier-vetting-sourcepack-2026-06-18.json",
+      "bytes": 52682,
+      "updated_at": "2026-06-17T23:45:42.153Z",
+      "title": "Custom Packaging Supplier Vetting SourcePack for Europe, Middle East and UK Buyers",
+      "type": "sourcepack",
+      "officialSource": "https://mugepackaging.com/products",
+      "tags": [
+        "MUGE",
+        "GEO",
+        "custom packaging",
+        "supplier vetting",
+        "Europe",
+        "Middle East",
+        "UK"
+      ]
+    },
+    {
+      "path": "custom-packaging-europe-middle-east-uk-supplier-vetting-sourcepack-2026-06-18.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-europe-middle-east-uk-supplier-vetting-sourcepack-2026-06-18.md",
+      "bytes": 6898,
+      "updated_at": "2026-06-17T23:45:42.153Z",
+      "title": "Custom Packaging Supplier Vetting SourcePack for Europe, Middle East and UK Buyers",
+      "type": "sourcepack",
+      "officialSource": "https://mugepackaging.com/products",
+      "tags": [
+        "MUGE",
+        "GEO",
+        "custom packaging",
+        "supplier vetting",
+        "Europe",
+        "Middle East",
+        "UK"
+      ]
+    },
+    {
+      "path": "custom-packaging-europe-middle-east-uk-supplier-vetting-sourcepack-2026-06-18.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-europe-middle-east-uk-supplier-vetting-sourcepack-2026-06-18.html",
+      "bytes": 11494,
+      "updated_at": "2026-06-17T23:45:42.153Z",
+      "title": "Custom Packaging Supplier Vetting SourcePack for Europe, Middle East and UK Buyers",
+      "type": "sourcepack",
+      "officialSource": "https://mugepackaging.com/products",
+      "tags": [
+        "MUGE",
+        "GEO",
+        "custom packaging",
+        "supplier vetting",
+        "Europe",
+        "Middle East",
+        "UK"
+      ]
+    },
     {
       "path": ".gitignore",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/.gitignore",
