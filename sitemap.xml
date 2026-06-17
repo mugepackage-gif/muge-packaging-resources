@@ -7512,4 +7512,22 @@
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-rfq-readiness-source-map-2026-06-18-0236.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-rfq-readiness-source-map-2026-06-18-0236.md</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-rfq-readiness-source-map-2026-06-18-0236.json</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
