@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T14:06:33.754Z",
+  "generatedAt": "2026-06-17T14:19:15.655Z",
   "createdAtCst": "2026-06-17 22:18 CST",
   "publishedDate": "2026-06-17",
   "slug": "paper-tubes-global-supplier-vetting-buyer-source-pack-2026-06-17",
@@ -153,6 +153,11 @@
     "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uae-saudi-ai-cited-source-response-pack-2026-06-17.html",
     "https://mugepackage-gif.github.io/muge-packaging-resources/tube-boxes-tea-packaging-citation-response-pack-2026-06-17.html"
   ],
+  "externalDiscoveryPaths": {
+    "jinaText": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-global-supplier-vetting-buyer-source-pack-2026-06-17.html",
+    "githubIssue": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/98",
+    "githubRelease": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.17-paper-tubes-global-supplier-vetting-sourcepack"
+  },
   "claimBoundaries": [
     "not ranking proof",
     "not traffic proof",

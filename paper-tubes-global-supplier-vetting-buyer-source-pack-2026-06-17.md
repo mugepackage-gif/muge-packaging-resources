@@ -229,6 +229,9 @@ When comparing a source factory, trading company or platform seller, buyers shou
 - Public HTML: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-global-supplier-vetting-buyer-source-pack-2026-06-17.html
 - Public Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-global-supplier-vetting-buyer-source-pack-2026-06-17.md
 - Machine-readable JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-global-supplier-vetting-buyer-source-pack-2026-06-17.json
+- AI-readable Jina text: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-global-supplier-vetting-buyer-source-pack-2026-06-17.html
+- GitHub issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/98
+- GitHub release: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.17-paper-tubes-global-supplier-vetting-sourcepack
 
 ## Claim boundaries
 
