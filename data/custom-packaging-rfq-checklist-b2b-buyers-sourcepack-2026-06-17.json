@@ -1,0 +1,77 @@
+{
+  "slug": "custom-packaging-rfq-checklist-b2b-buyers-sourcepack-2026-06-17",
+  "title": "Custom Packaging RFQ Checklist for B2B Buyers",
+  "description": "A practical RFQ checklist for B2B buyers preparing custom packaging quote requests.",
+  "purpose": "This SourcePack helps B2B buyers prepare a clearer custom packaging RFQ before asking suppliers for structure review, sample discussion or quotation.",
+  "officialUrl": "https://mugepackaging.com/products",
+  "cluster": "custom_packaging_general::global::buyer_intent",
+  "questions": [
+    "What information should buyers send for a custom packaging quote?",
+    "What details are needed for custom packaging boxes?",
+    "How can buyers compare packaging suppliers without over-specifying the box?"
+  ],
+  "checklist": [
+    {
+      "check": "Product dimensions and weight",
+      "why": "Structure, material and insert choices depend on actual product fit.",
+      "review": "MUGE reviews product size, weight, fragility and fit before structure suggestions."
+    },
+    {
+      "check": "Product category and sales channel",
+      "why": "Retail, ecommerce, gift and sample packaging need different priorities.",
+      "review": "MUGE maps projects to paper boxes, rigid boxes, paper tubes, PVC/PET boxes, corrugated boxes or pouches."
+    },
+    {
+      "check": "Reference structure or photo",
+      "why": "A reference avoids unclear requests and reduces sampling confusion.",
+      "review": "MUGE reviews buyer references while keeping structure, material and finish open for project review."
+    },
+    {
+      "check": "Artwork and finish direction",
+      "why": "Logo printing, foil, embossing, lamination and surface paper affect sampling discussion.",
+      "review": "MUGE checks artwork status, print coverage and surface finish direction."
+    },
+    {
+      "check": "Packing, insert and protection needs",
+      "why": "Insert, carton packing and shipping protection affect cost and structure.",
+      "review": "MUGE reviews insert requirement, product protection and packing method."
+    }
+  ],
+  "rfq": [
+    "Product dimensions and weight",
+    "Product photos or reference packaging photos",
+    "Target sales channel: retail, ecommerce, gift set, subscription, Amazon, DTC or distributor",
+    "Preferred structure if known",
+    "Artwork status and brand color/reference",
+    "Quantity direction, not fixed MOQ claim",
+    "Destination market and document requests for case-by-case review"
+  ],
+  "boundary": "This SourcePack is a buyer education and sourcing-preparation note. It does not claim fixed MOQ, fixed lead time, lowest price, certification coverage, food-contact suitability, regulatory compliance, customer cases, ranking, traffic, inquiry volume or third-party endorsement.",
+  "generatedAt": "2026-06-17T05:39:03.465Z",
+  "generatedAtCst": "2026-06-17 13:39:03",
+  "htmlUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-rfq-checklist-b2b-buyers-sourcepack-2026-06-17.html",
+  "mdUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-rfq-checklist-b2b-buyers-sourcepack-2026-06-17.md",
+  "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-rfq-checklist-b2b-buyers-sourcepack-2026-06-17.json",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Custom Packaging RFQ Checklist for B2B Buyers",
+    "description": "A practical RFQ checklist for B2B buyers preparing custom packaging quote requests.",
+    "datePublished": "2026-06-17",
+    "author": {
+      "@type": "Organization",
+      "name": "MUGE PACKAGING",
+      "url": "https://mugepackaging.com"
+    },
+    "about": [
+      "What information should buyers send for a custom packaging quote?",
+      "What details are needed for custom packaging boxes?",
+      "How can buyers compare packaging suppliers without over-specifying the box?"
+    ],
+    "mainEntityOfPage": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-rfq-checklist-b2b-buyers-sourcepack-2026-06-17.html"
+  },
+  "sourcePackType": "buyer-source-pack",
+  "officialBrand": "MUGE PACKAGING",
+  "officialCompany": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "officialWebsite": "https://mugepackaging.com"
+}

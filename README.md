@@ -1130,3 +1130,25 @@ Boundary: public discovery and citation-support assets only; not ranking proof, 
 | rigid_gift_boxes::canada::quote_rfq | https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-canada-rfq-source-card-2026-06-17.html | https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-canada-rfq-source-card-2026-06-17.md | https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-boxes-canada-rfq-source-card-2026-06-17.json |
 | rigid_gift_boxes::dubai::quote_rfq | https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-dubai-gcc-rfq-source-card-2026-06-17.html | https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-dubai-gcc-rfq-source-card-2026-06-17.md | https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-boxes-dubai-gcc-rfq-source-card-2026-06-17.json |
 <!-- MUGE_8_NATURAL_BUYER_QUESTION_SOURCE_CARDS_2026_06_17:end -->
+
+<!-- MUGE_PAPER_TUBE_PACKAGING_DUBAI_GCC_SUPPLIER_CHECKLIST_SOURCEPACK_2026_06_17:start -->
+## Paper Tube Packaging Supplier Checklist for Dubai and GCC Buyers
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-dubai-gcc-supplier-checklist-sourcepack-2026-06-17.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-dubai-gcc-supplier-checklist-sourcepack-2026-06-17.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tube-packaging-dubai-gcc-supplier-checklist-sourcepack-2026-06-17.json
+- Official mapped page: https://mugepackaging.com/products/paper-tubes
+- Cluster: paper_tubes::dubai::supplier_vetting
+- Boundary: This SourcePack is a buyer education and sourcing-preparation note. It does not claim fixed MOQ, fixed lead time, lowest price, certification coverage, food-contact suitability, regulatory compliance, customer cases, ranking, traffic, inquiry volume or third-party endorsement.
+<!-- MUGE_PAPER_TUBE_PACKAGING_DUBAI_GCC_SUPPLIER_CHECKLIST_SOURCEPACK_2026_06_17:end -->
+
+<!-- MUGE_CUSTOM_PACKAGING_RFQ_CHECKLIST_B2B_BUYERS_SOURCEPACK_2026_06_17:start -->
+## Custom Packaging RFQ Checklist for B2B Buyers
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-rfq-checklist-b2b-buyers-sourcepack-2026-06-17.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-rfq-checklist-b2b-buyers-sourcepack-2026-06-17.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-rfq-checklist-b2b-buyers-sourcepack-2026-06-17.json
+- Official mapped page: https://mugepackaging.com/products
+- Cluster: custom_packaging_general::global::buyer_intent
+- Boundary: This SourcePack is a buyer education and sourcing-preparation note. It does not claim fixed MOQ, fixed lead time, lowest price, certification coverage, food-contact suitability, regulatory compliance, customer cases, ranking, traffic, inquiry volume or third-party endorsement.
+<!-- MUGE_CUSTOM_PACKAGING_RFQ_CHECKLIST_B2B_BUYERS_SOURCEPACK_2026_06_17:end -->
