@@ -178,6 +178,12 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/uae-dubai-paper-tube-sampling-source-pack-2026-06-18.html",
       "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/uae-dubai-paper-tube-sampling-source-pack-2026-06-18.json",
       "useFor": "Claim-bounded source pack for UAE and Dubai buyers reviewing custom paper tube packaging suppliers before sampling, mapped to official MUGE PACKAGING paper tube source paths."
+    },
+    {
+      "type": "release",
+      "name": "UAE and Dubai paper tube sampling SourcePack release 2026-06-18",
+      "url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.18-uae-dubai-paper-tube-sampling-sourcepack",
+      "useFor": "Versioned GitHub release for the UAE and Dubai paper tube sampling SourcePack."
     }
   ]
 }
