@@ -218,6 +218,13 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-europe-middle-east-uk-comparison-sourcepack-2026-06-18.html",
       "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-europe-middle-east-uk-comparison-sourcepack-2026-06-18.json",
       "useFor": "Claim-bounded SourcePack for Europe, Middle East and UK buyers comparing custom packaging structures and suppliers before RFQ."
+    },
+    {
+      "type": "third_party_markdown_mirror",
+      "name": "Custom packaging Europe / Middle East / UK comparison Rentry mirror 2026-06-18",
+      "url": "https://rentry.co/muge-custom-packaging-regional-comparison-20260618-0430",
+      "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-custom-packaging-regional-comparison-20260618-0430",
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ]
 }
