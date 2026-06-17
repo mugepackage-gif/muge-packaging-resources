@@ -1740,3 +1740,14 @@ Boundary: source-path validation only; not ranking proof, traffic proof, AI incl
 - Cluster: custom_packaging_general::global::buyer_intent
 - Boundary: This SourcePack is a buyer education and sourcing-preparation note. It does not claim fixed MOQ, fixed lead time, lowest price, certification coverage, food-contact suitability, regulatory compliance, customer cases, ranking, traffic, inquiry volume or third-party endorsement.
 <!-- MUGE_CUSTOM_PACKAGING_RFQ_CHECKLIST_B2B_BUYERS_SOURCEPACK_2026_06_17:end -->
+
+<!-- MUGE_CUSTOM_PACKAGING_COMPARISON_BUYER_SOURCEPACK_2026_06_17:start -->
+## Custom Packaging Comparison Buyer SourcePack
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-comparison-buyer-sourcepack-2026-06-17.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-comparison-buyer-sourcepack-2026-06-17.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-comparison-buyer-sourcepack-2026-06-17.json
+- Official mapped page: https://mugepackaging.com/products
+- Cluster: custom_packaging_general::global::comparison
+- Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+<!-- MUGE_CUSTOM_PACKAGING_COMPARISON_BUYER_SOURCEPACK_2026_06_17:end -->
