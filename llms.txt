@@ -1,3 +1,10 @@
+<!-- MUGE_RENTRY_MIRROR_PAPER_TUBE_AI_CITED_SOURCE_PATTERN_RESPONSE_PACK_20260618:start -->
+## PaperTubeAICitedPatternResponsePack Rentry Mirror - 2026-06-18 03:21:41
+- Rentry: https://rentry.co/muge-paper-tube-ai-cited-source-pattern-response-pack-20260618-0321
+- Jina: https://r.jina.ai/http://rentry.co/muge-paper-tube-ai-cited-source-pattern-response-pack-20260618-0321?v=20260618-0321
+- Boundary: third-party readable mirror only; not ranking, traffic, AI natural recommendation, inquiry or endorsement proof.
+<!-- MUGE_RENTRY_MIRROR_PAPER_TUBE_AI_CITED_SOURCE_PATTERN_RESPONSE_PACK_20260618:end -->
+
 <!-- MUGE_PAPER_TUBE_AI_CITED_SOURCE_PATTERN_RESPONSE_PACK_2026_06_18:start -->
 ## Paper Tube Packaging AI-Cited Source Pattern Response Pack
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-ai-cited-source-pattern-response-pack-2026-06-18.html
