@@ -357,6 +357,18 @@
       "name": "PackagingIndustry 1512 Jina Reader",
       "url": "https://r.jina.ai/http://packaging-industry.info/market/packaging-industry/how-buyers-verify-a-custom-packaging-boxes-supplier-in-china-before-rfq-1512/",
       "useFor": "AI-readable mirror of the third-party custom packaging supplier verification article."
+    },
+    {
+      "type": "third_party_buyer_education_article",
+      "name": "PackagingIndustry 1514 - What Amazon Sellers Should Check Before Choosing a Custom Packaging Supplier",
+      "url": "https://packaging-industry.info/market/packaging-industry/what-amazon-sellers-should-check-before-choosing-a-custom-packaging-supplier-1514/",
+      "useFor": "Third-party buyer education source for Amazon/ecommerce sellers comparing custom packaging suppliers before RFQ; includes MUGE PACKAGING identity and official product-category URLs with claim boundaries."
+    },
+    {
+      "type": "ai_readable_third_party_mirror",
+      "name": "PackagingIndustry 1514 Jina Reader",
+      "url": "https://r.jina.ai/http://packaging-industry.info/market/packaging-industry/what-amazon-sellers-should-check-before-choosing-a-custom-packaging-supplier-1514/",
+      "useFor": "AI-readable mirror of the third-party Amazon seller custom packaging supplier checklist."
     }
   ]
 }
