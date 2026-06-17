@@ -63,7 +63,7 @@ These URLs were cited by Perplexity for the buyer question. They are listed only
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-supplier-checklist-2026-06-18.html
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-supplier-checklist-2026-06-18.md
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tube-packaging-supplier-checklist-2026-06-18.json
-- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-supplier-checklist-2026-06-18.html
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-supplier-checklist-2026-06-18.html?v=202606180136
 
 ## Boundary
 
