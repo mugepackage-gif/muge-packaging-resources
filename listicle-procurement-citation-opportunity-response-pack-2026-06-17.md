@@ -1,12 +1,12 @@
 # MUGE Listicle and Procurement Citation Opportunity Response Pack
 
-Generated: 2026-06-17 19:19:47 CST
+Generated: 2026-06-18 02:52:58 CST
 
 ## Why This Exists
 
 The latest Perplexity natural buyer test still did not mention MUGE PACKAGING naturally. This pack extracts the actionable non-competitor-adjacent opportunity patterns: listicle pages and procurement/RFQ/directory references.
 
-Source file: /Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/AI引用域名机会拆解/20260617_1910_Perplexity自然买家盲测Citation机会拆解.json
+Source file: Latest internal Perplexity natural buyer citation opportunity decomposition.
 
 ## Summary
 
