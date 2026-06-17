@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T07:32:05.914Z",
-  "total": 1082,
+  "generated_at": "2026-06-17T07:52:50.344Z",
+  "total": 1085,
   "files": [
     {
       "path": ".gitignore",
@@ -6493,6 +6493,24 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/who-is-muge-packaging.html",
       "bytes": 5691,
       "updated_at": "2026-06-16T17:03:57.145Z"
+    },
+    {
+      "path": "natural-buyer-question-source-bridge-index-2026-06-17.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-index-2026-06-17.md",
+      "bytes": 8390,
+      "updated_at": "2026-06-17T07:52:50.344Z"
+    },
+    {
+      "path": "natural-buyer-question-source-bridge-index-2026-06-17.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-index-2026-06-17.html",
+      "bytes": 5440,
+      "updated_at": "2026-06-17T07:52:50.344Z"
+    },
+    {
+      "path": "data/natural-buyer-question-source-bridge-index-2026-06-17.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/natural-buyer-question-source-bridge-index-2026-06-17.json",
+      "bytes": 14316,
+      "updated_at": "2026-06-17T07:52:50.344Z"
     }
   ]
 }

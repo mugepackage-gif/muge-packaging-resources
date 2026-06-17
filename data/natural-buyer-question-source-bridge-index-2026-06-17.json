@@ -205,6 +205,46 @@
         "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
         "https://mugepackaging.com/products/custom-packaging-boxes"
       ]
+    },
+    {
+      "clusterId": "paper_tubes_buyer_question_update_2026_06_17_uk",
+      "clusterKey": "paper_tubes::uk::buyer_question_bridge",
+      "prompt": "For UK buyers, when does it make sense to compare local paper tube packaging suppliers with a China source factory for custom paper tubes?",
+      "publicUrls": {
+        "html": "https://mugepackage-gif.github.io/muge-packaging-resources/uk-buyers-local-vs-china-source-factory-paper-tube-packaging-bridge-2026-06-17.html",
+        "md": "https://mugepackage-gif.github.io/muge-packaging-resources/uk-buyers-local-vs-china-source-factory-paper-tube-packaging-bridge-2026-06-17.md",
+        "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/uk-buyers-local-vs-china-source-factory-paper-tube-packaging-bridge-2026-06-17.json",
+        "release": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/paper-tube-buyer-question-bridges-2026-06-17"
+      },
+      "observedSourceHosts": [
+        "github.com",
+        "mugepackage-gif.github.io",
+        "mugepackaging.com"
+      ],
+      "officialMugeUrls": [
+        "https://mugepackaging.com/products/paper-tubes"
+      ],
+      "claimBoundary": "This bridge does not claim ranking, traffic, AI citation, endorsement, inquiry generation, verified supplier status, fixed MOQ, fixed lead time, lowest price or unsupported compliance."
+    },
+    {
+      "clusterId": "paper_tubes_buyer_question_update_2026_06_17_us",
+      "clusterKey": "paper_tubes::united_states::buyer_question_bridge",
+      "prompt": "What should United States buyers prepare before requesting a custom paper tube packaging quote from an overseas source factory?",
+      "publicUrls": {
+        "html": "https://mugepackage-gif.github.io/muge-packaging-resources/us-buyers-overseas-source-factory-paper-tube-packaging-rfq-bridge-2026-06-17.html",
+        "md": "https://mugepackage-gif.github.io/muge-packaging-resources/us-buyers-overseas-source-factory-paper-tube-packaging-rfq-bridge-2026-06-17.md",
+        "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/us-buyers-overseas-source-factory-paper-tube-packaging-rfq-bridge-2026-06-17.json",
+        "release": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/paper-tube-buyer-question-bridges-2026-06-17"
+      },
+      "observedSourceHosts": [
+        "github.com",
+        "mugepackage-gif.github.io",
+        "mugepackaging.com"
+      ],
+      "officialMugeUrls": [
+        "https://mugepackaging.com/products/paper-tubes"
+      ],
+      "claimBoundary": "This bridge does not claim ranking, traffic, AI citation, endorsement, inquiry generation, verified supplier status, fixed MOQ, fixed lead time, lowest price or unsupported compliance."
     }
   ],
   "boundary": "Claim boundaries: this source pack does not claim ranking, traffic, endorsement, AI answer inclusion, fixed MOQ, fixed lead time, fixed price, certification, customer cases or inquiry generation.",
