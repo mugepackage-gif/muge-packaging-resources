@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-17T10:54:24.441Z",
-  "generatedAtCst": "2026-06-17 18:54:24",
-  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/AI引用域名机会拆解/20260617_1852_Perplexity自然买家盲测Citation机会拆解.json",
+  "generatedAt": "2026-06-17T11:10:25.703Z",
+  "generatedAtCst": "2026-06-17 19:10:25",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/AI引用域名机会拆解/20260617_1910_Perplexity自然买家盲测Citation机会拆解.json",
   "publicUrls": {
     "html": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-citation-gap-response-pack-2026-06-17.html",
     "md": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-citation-gap-response-pack-2026-06-17.md",
@@ -15,7 +15,7 @@
   "groups": [
     {
       "type": "competitor_or_supplier_pattern",
-      "count": 23,
+      "count": 21,
       "nextAction": "Use as source-pattern research only: strengthen MUGE buyer checklists, supplier-comparison pages and public SourcePacks; do not contact packaging competitors."
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "type": "procurement_or_directory_reference",
-      "count": 5,
+      "count": 6,
       "nextAction": "Create RFQ/procurement checklist assets and manually review directory/template submission paths; stop at login, captcha, payment or unclear ownership."
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "type": "other_reference",
-      "count": 6,
+      "count": 7,
       "nextAction": "Manually classify before action; only proceed when the source is non-competitor, non-paid and has a public editorial or directory path."
     }
   ],
@@ -111,8 +111,8 @@
     },
     {
       "questionId": "europe_custom_packaging_supplier",
-      "url": "https://www.instagram.com/p/DYfXj2jmo3c/",
-      "host": "instagram.com",
+      "url": "https://www.youtube.com/watch?v=LbpVaK8hK9E",
+      "host": "youtube.com",
       "type": "social_signal",
       "recommendation": "适合低风险社媒分发与视频/图文摘要，但不自动评论/私信。",
       "officialPath": "https://mugepackaging.com/products"
@@ -199,6 +199,14 @@
     },
     {
       "questionId": "paper_tube_packaging_supplier",
+      "url": "https://tycoonpackaging.com/product/paper-tube-candle-packaging/",
+      "host": "tycoonpackaging.com",
+      "type": "other_reference",
+      "recommendation": "人工复核后决定是否做外部提交、内容模仿或放弃。",
+      "officialPath": "https://mugepackaging.com/products/paper-tubes"
+    },
+    {
+      "questionId": "paper_tube_packaging_supplier",
       "url": "https://ipacku.com/product/paper-tube-packaging/",
       "host": "ipacku.com",
       "type": "other_reference",
@@ -238,25 +246,9 @@
       "officialPath": "https://mugepackaging.com/products/paper-tubes"
     },
     {
-      "questionId": "paper_tube_packaging_supplier",
-      "url": "https://www.tube-boxes.com/packaging-category/food-tube-packaging-boxes-wholesale/tea-packaging",
-      "host": "tube-boxes.com",
-      "type": "other_reference",
-      "recommendation": "人工复核后决定是否做外部提交、内容模仿或放弃。",
-      "officialPath": "https://mugepackaging.com/products/paper-tubes"
-    },
-    {
-      "questionId": "paper_tube_packaging_supplier",
-      "url": "https://tycoonpackaging.com/product/tea-tube-packaging/",
-      "host": "tycoonpackaging.com",
-      "type": "other_reference",
-      "recommendation": "人工复核后决定是否做外部提交、内容模仿或放弃。",
-      "officialPath": "https://mugepackaging.com/products/paper-tubes"
-    },
-    {
       "questionId": "rigid_gift_box_china_manufacturer",
-      "url": "https://www.htnxt.com/supplier/Topsion-Packaging/page/Chinese-vs.-International-Premium-Rigid-Box-Manufacturers:-A-2026-Comparison-Guide-for-Industrial-Buyers.html",
-      "host": "htnxt.com",
+      "url": "https://www.jinguanprinting.com/article/top-10-custom-gift-box-manufacturers-in-china-2026.html",
+      "host": "jinguanprinting.com",
       "type": "competitor_or_supplier_pattern",
       "recommendation": "不作为客户开发对象；只分析标题结构、清单结构、地区词和买家问题承接方式。",
       "officialPath": "https://mugepackaging.com/products/folding-gift-box"
@@ -295,14 +287,6 @@
     },
     {
       "questionId": "rigid_gift_box_china_manufacturer",
-      "url": "https://zhenhua-hk.com/rigid-box-manufacturers-usa/",
-      "host": "zhenhua-hk.com",
-      "type": "competitor_or_supplier_pattern",
-      "recommendation": "不作为客户开发对象；只分析标题结构、清单结构、地区词和买家问题承接方式。",
-      "officialPath": "https://mugepackaging.com/products/folding-gift-box"
-    },
-    {
-      "questionId": "rigid_gift_box_china_manufacturer",
       "url": "https://epackfactory.com/top-10-rigid-gift-boxes-manufacturers-in-china/",
       "host": "epackfactory.com",
       "type": "competitor_or_supplier_pattern",
@@ -311,11 +295,35 @@
     },
     {
       "questionId": "rigid_gift_box_china_manufacturer",
-      "url": "https://www.made-in-china.com/products-search/hot-china-products/Packaging_Rigid_Box.html",
-      "host": "made-in-china.com",
+      "url": "https://xmfczp.en.made-in-china.com/product/CpvRZjJowehs/China-Paperboard-Rigid-Two-Piece-Packaging-Boxes-Developed-for-Corporate-Gifts-and-Promotional-Sets.html",
+      "host": "xmfczp.en.made-in-china.com",
       "type": "other_reference",
       "recommendation": "人工复核后决定是否做外部提交、内容模仿或放弃。",
       "officialPath": "https://mugepackaging.com/products/folding-gift-box"
+    },
+    {
+      "questionId": "rigid_gift_box_china_manufacturer",
+      "url": "https://www.alibaba.com/countrysearch/CN/rigid-boxes.html",
+      "host": "alibaba.com",
+      "type": "other_reference",
+      "recommendation": "人工复核后决定是否做外部提交、内容模仿或放弃。",
+      "officialPath": "https://mugepackaging.com/products/folding-gift-box"
+    },
+    {
+      "questionId": "custom_packaging_rfq_checklist",
+      "url": "https://creativeretailpackaging.com/packaging-insights/how-to-write-an-effective-packaging-rfq/",
+      "host": "creativeretailpackaging.com",
+      "type": "other_reference",
+      "recommendation": "人工复核后决定是否做外部提交、内容模仿或放弃。",
+      "officialPath": "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+    },
+    {
+      "questionId": "custom_packaging_rfq_checklist",
+      "url": "https://incodocs.com/blog/rfq-import-export/",
+      "host": "incodocs.com",
+      "type": "procurement_or_directory_reference",
+      "recommendation": "适合制作 RFQ/采购流程类工具页，并寻找可提交目录/工具集合/模板站机会。",
+      "officialPath": "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
     },
     {
       "questionId": "custom_packaging_rfq_checklist",
@@ -351,6 +359,14 @@
     },
     {
       "questionId": "custom_packaging_rfq_checklist",
+      "url": "https://www.uneedpm.com/cnc-machining-rfq-template-guide/",
+      "host": "uneedpm.com",
+      "type": "other_reference",
+      "recommendation": "人工复核后决定是否做外部提交、内容模仿或放弃。",
+      "officialPath": "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+    },
+    {
+      "questionId": "custom_packaging_rfq_checklist",
       "url": "https://www.rfqpro.com",
       "host": "rfqpro.com",
       "type": "procurement_or_directory_reference",
@@ -359,26 +375,10 @@
     },
     {
       "questionId": "custom_packaging_rfq_checklist",
-      "url": "https://acolorfox.com/how-to-prepare-packaging-rfq-accurate-pricing/",
-      "host": "acolorfox.com",
-      "type": "competitor_or_supplier_pattern",
-      "recommendation": "不作为客户开发对象；只分析标题结构、清单结构、地区词和买家问题承接方式。",
-      "officialPath": "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
-    },
-    {
-      "questionId": "custom_packaging_rfq_checklist",
       "url": "https://www.facebook.com/groups/ppr.ppa/posts/3738266902900763/",
       "host": "facebook.com",
       "type": "social_signal",
       "recommendation": "适合低风险社媒分发与视频/图文摘要，但不自动评论/私信。",
-      "officialPath": "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
-    },
-    {
-      "questionId": "custom_packaging_rfq_checklist",
-      "url": "https://www.uneedpm.com/cnc-machining-rfq-template-guide/",
-      "host": "uneedpm.com",
-      "type": "other_reference",
-      "recommendation": "人工复核后决定是否做外部提交、内容模仿或放弃。",
       "officialPath": "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-06-17",
-  "total": 1232,
+  "total": 1235,
   "files": [
     {
       "path": ".gitignore",
@@ -977,7 +977,7 @@
     {
       "path": "asset-manifest.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/asset-manifest.json",
-      "bytes": 321644,
+      "bytes": 347959,
       "updated_at": "2026-06-17"
     },
     {
@@ -2793,6 +2793,12 @@
       "updated_at": "2026-06-17"
     },
     {
+      "path": "data/dtc-ecommerce-mailer-boxes-europe-middle-east-rfq-source-pack-2026-06-17.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/dtc-ecommerce-mailer-boxes-europe-middle-east-rfq-source-pack-2026-06-17.json",
+      "bytes": 3437,
+      "updated_at": "2026-06-17"
+    },
+    {
       "path": "data/ecommerce-packaging-supplier-comparison-dtc-brands.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ecommerce-packaging-supplier-comparison-dtc-brands.json",
       "bytes": 2910,
@@ -3287,7 +3293,7 @@
     {
       "path": "data/natural-buyer-citation-gap-response-pack-2026-06-17.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/natural-buyer-citation-gap-response-pack-2026-06-17.json",
-      "bytes": 20388,
+      "bytes": 20373,
       "updated_at": "2026-06-17"
     },
     {
@@ -4407,6 +4413,18 @@
       "updated_at": "2026-06-17"
     },
     {
+      "path": "dtc-ecommerce-mailer-boxes-europe-middle-east-rfq-source-pack-2026-06-17.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/dtc-ecommerce-mailer-boxes-europe-middle-east-rfq-source-pack-2026-06-17.html",
+      "bytes": 8811,
+      "updated_at": "2026-06-17"
+    },
+    {
+      "path": "dtc-ecommerce-mailer-boxes-europe-middle-east-rfq-source-pack-2026-06-17.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/dtc-ecommerce-mailer-boxes-europe-middle-east-rfq-source-pack-2026-06-17.md",
+      "bytes": 3073,
+      "updated_at": "2026-06-17"
+    },
+    {
       "path": "dtc-ecommerce-packaging-supplier-questions.html",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/dtc-ecommerce-packaging-supplier-questions.html",
       "bytes": 5045,
@@ -4883,7 +4901,7 @@
     {
       "path": "llms.txt",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/llms.txt",
-      "bytes": 248436,
+      "bytes": 249470,
       "updated_at": "2026-06-17"
     },
     {
@@ -5213,13 +5231,13 @@
     {
       "path": "natural-buyer-citation-gap-response-pack-2026-06-17.html",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-citation-gap-response-pack-2026-06-17.html",
-      "bytes": 20760,
+      "bytes": 20807,
       "updated_at": "2026-06-17"
     },
     {
       "path": "natural-buyer-citation-gap-response-pack-2026-06-17.md",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-citation-gap-response-pack-2026-06-17.md",
-      "bytes": 11085,
+      "bytes": 11117,
       "updated_at": "2026-06-17"
     },
     {
@@ -6647,7 +6665,7 @@
     {
       "path": "README.md",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/README.md",
-      "bytes": 135629,
+      "bytes": 136663,
       "updated_at": "2026-06-17"
     },
     {
@@ -6965,7 +6983,7 @@
     {
       "path": "sitemap.xml",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/sitemap.xml",
-      "bytes": 287220,
+      "bytes": 306781,
       "updated_at": "2026-06-17"
     },
     {
