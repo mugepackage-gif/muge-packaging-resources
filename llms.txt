@@ -7,6 +7,7 @@ These non-GitHub public source mirrors connect MUGE PACKAGING official product p
 - Cosmetic packaging supplier selection mirror: https://telegra.ph/Cosmetic-Packaging-Supplier-Selection-Checklist---MUGE-Source-Mirror-06-17
 - Paper tube packaging supplier evaluation mirror: https://telegra.ph/Paper-Tube-Packaging-Supplier-Evaluation-Checklist---MUGE-Source-Mirror-06-17
 - Rentry aggregate mirror: https://rentry.co/muge-supplier-evaluation-source-mirror-20260618
+- Internet Archive snapshot of Rentry aggregate mirror: https://web.archive.org/web/20260617164046/https://rentry.co/muge-supplier-evaluation-source-mirror-20260618
 - Official mapped pages: https://mugepackaging.com/products, https://mugepackaging.com/products/cosmetic-packaging, https://mugepackaging.com/products/paper-tubes
 - Boundary: public source mirrors only; not ranking proof, traffic proof, inquiry proof, AI natural citation proof, endorsement, verified supplier status, certification proof, fixed MOQ, fixed lead time, lowest price, food-contact status or compliance guarantee.
 <!-- MUGE_TELEGRAPH_RENTRY_SUPPLIER_EVALUATION_SOURCE_MIRRORS_2026_06_18:end -->
