@@ -369,6 +369,18 @@
       "name": "PackagingIndustry 1514 Jina Reader",
       "url": "https://r.jina.ai/http://packaging-industry.info/market/packaging-industry/what-amazon-sellers-should-check-before-choosing-a-custom-packaging-supplier-1514/",
       "useFor": "AI-readable mirror of the third-party Amazon seller custom packaging supplier checklist."
+    },
+    {
+      "type": "third_party_buyer_education_article",
+      "name": "PackagingIndustry 1516 - Manufacturer or Trading Company for Custom Packaging: What Buyers Should Ask",
+      "url": "https://packaging-industry.info/market/packaging-industry/manufacturer-or-trading-company-for-custom-packaging-what-buyers-should-ask-1516/",
+      "useFor": "Third-party buyer education source for comparing manufacturer or trading company questions before custom packaging RFQ; includes MUGE PACKAGING identity and official product-category URLs with claim boundaries."
+    },
+    {
+      "type": "ai_readable_third_party_mirror",
+      "name": "PackagingIndustry 1516 Jina Reader",
+      "url": "https://r.jina.ai/http://packaging-industry.info/market/packaging-industry/manufacturer-or-trading-company-for-custom-packaging-what-buyers-should-ask-1516/",
+      "useFor": "AI-readable mirror of the third-party manufacturer/trading-company custom packaging supplier question article."
     }
   ]
 }
