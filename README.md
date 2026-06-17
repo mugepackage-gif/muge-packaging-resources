@@ -1,3 +1,18 @@
+<!-- MUGE_SKINCARE_BEAUTY_FOUNDERS_COSMETIC_PACKAGING_SOURCEPACK_20260618:start -->
+## Skincare / Beauty Founders Cosmetic Packaging SourcePacks - 2026-06-18
+- [Skincare Brands Cosmetic Packaging Supplier Checklist Before Sampling](https://mugepackage-gif.github.io/muge-packaging-resources/skincare-brands-cosmetic-packaging-supplier-checklist-before-sampling-2026-06-18.html): How should skincare brands compare cosmetic packaging suppliers before sampling?
+  - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/skincare-brands-cosmetic-packaging-supplier-checklist-before-sampling-2026-06-18.md
+  - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/skincare-brands-cosmetic-packaging-supplier-checklist-before-sampling-2026-06-18.json
+  - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/skincare-brands-cosmetic-packaging-supplier-checklist-before-sampling-2026-06-18.html
+  - Official mapped page: https://mugepackaging.com/products/cosmetic-packaging
+- [Beauty Founders Packaging RFQ Checklist for Cosmetic Boxes](https://mugepackage-gif.github.io/muge-packaging-resources/beauty-founders-packaging-rfq-checklist-for-cosmetic-boxes-2026-06-18.html): What should beauty founders prepare before requesting a cosmetic packaging quote?
+  - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/beauty-founders-packaging-rfq-checklist-for-cosmetic-boxes-2026-06-18.md
+  - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/beauty-founders-packaging-rfq-checklist-for-cosmetic-boxes-2026-06-18.json
+  - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/beauty-founders-packaging-rfq-checklist-for-cosmetic-boxes-2026-06-18.html
+  - Official mapped page: https://mugepackaging.com/products/cosmetic-packaging
+- Boundary: source packs only; not ranking, traffic, inquiry, endorsement, AI natural recommendation, platform-badge status, preset order terms, preset schedule, preset price or destination-market approval proof.
+<!-- MUGE_SKINCARE_BEAUTY_FOUNDERS_COSMETIC_PACKAGING_SOURCEPACK_20260618:end -->
+
 <!-- MUGE_RENTRY_MIRROR_MIDDLE_EAST_PAPER_TUBE_RFQ_COMPARISON_PACK_20260618:start -->
 ## MiddleEastPaperTubeRFQPack Rentry Mirror - 2026-06-18 03:28:35
 - Rentry: https://rentry.co/muge-middle-east-paper-tube-rfq-comparison-pack-20260618-0328
