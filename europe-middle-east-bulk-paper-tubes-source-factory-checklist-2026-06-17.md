@@ -57,4 +57,4 @@ This page is a buyer education and sourcing-preparation source bridge. It does n
 - Official website: https://mugepackaging.com
 - Primary mapped URL: https://mugepackaging.com/products/paper-tubes
 - Cluster: paper_tubes::europe_middle_east::bulk_wholesale
-- Generated: 2026-06-17 16:11:17
+- Generated: 2026-06-17 23:21:06

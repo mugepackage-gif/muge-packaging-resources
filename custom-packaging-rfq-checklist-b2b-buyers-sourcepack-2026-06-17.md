@@ -48,4 +48,4 @@ This SourcePack is a buyer education and sourcing-preparation note. It does not 
 - Official website: https://mugepackaging.com
 - Primary mapped URL: https://mugepackaging.com/products
 - Cluster: custom_packaging_general::global::buyer_intent
-- Generated: 2026-06-17 13:39:03
+- Generated: 2026-06-17 23:20:27
