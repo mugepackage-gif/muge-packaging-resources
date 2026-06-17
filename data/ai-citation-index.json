@@ -400,6 +400,27 @@
       "url": "https://telegra.ph/Cosmetic-Packaging-Global-Quote-RFQ-SourcePack---MUGE-Source-Mirror-06-17",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/Cosmetic-Packaging-Global-Quote-RFQ-SourcePack---MUGE-Source-Mirror-06-17",
       "useFor": "Non-GitHub public mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "beauty_brand_cosmetic_packaging_manufacturer_verification_sourcepack",
+      "name": "Beauty brands verify cosmetic packaging manufacturer SourcePack 2026-06-18",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/beauty-brands-verify-cosmetic-packaging-manufacturer-before-rfq-2026-06-18.html",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/beauty-brands-verify-cosmetic-packaging-manufacturer-before-rfq-2026-06-18.json",
+      "useFor": "Claim-bounded SourcePack for beauty and skincare brands verifying a custom cosmetic packaging manufacturer before RFQ."
+    },
+    {
+      "type": "third_party_telegraph_mirror",
+      "name": "Beauty Brands Verify Cosmetic Packaging Manufacturer SourcePack Telegraph mirror 2026-06-18",
+      "url": "https://telegra.ph/Beauty-Brands-Verify-Cosmetic-Packaging-Manufacturer-SourcePack---MUGE-Source-Mirror-06-17",
+      "jinaUrl": "https://r.jina.ai/http://telegra.ph/Beauty-Brands-Verify-Cosmetic-Packaging-Manufacturer-SourcePack---MUGE-Source-Mirror-06-17",
+      "useFor": "Non-GitHub public mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_markdown_mirror",
+      "name": "Beauty Brands Verify Cosmetic Packaging Manufacturer SourcePack Rentry mirror 2026-06-18",
+      "url": "https://rentry.co/muge-beauty-brands-cosmetic-packaging-manufacturer-rfq-20260618-0614",
+      "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-beauty-brands-cosmetic-packaging-manufacturer-rfq-20260618-0614",
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ]
 }
