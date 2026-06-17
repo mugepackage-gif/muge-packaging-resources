@@ -8,7 +8,7 @@
 - Excerpt: An 800-1200 word practical guide for brands comparing overseas custom packaging suppliers before requesting samples or production quotes.
 - Word count: 563
 
-Boundary: Claim boundary: this package does not claim verified supplier status, fixed MOQ, fixed lead time, lowest price, customer cases, food-contact suitability, regulatory compliance, AI recommendation, ranking, traffic or third-party endorsement.
+Boundary: Claim boundary: this package does not claim ununsupported status claims-status claims, commercial promises, delivery promises, pricing promises, case claims, market-compliance guarantees, regulatory compliance, AI recommendation, ranking, traffic or endorsement claims.
 
 ## Why overseas packaging sourcing needs a clearer first brief
 

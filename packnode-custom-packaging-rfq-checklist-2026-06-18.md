@@ -8,7 +8,7 @@
 - Excerpt: A practical checklist for brand owners and sourcing teams preparing a custom packaging RFQ before sampling, covering product fit, structure, artwork, inserts and document review.
 - Word count: 568
 
-Boundary: Claim boundary: this package does not claim verified supplier status, fixed MOQ, fixed lead time, lowest price, customer cases, food-contact suitability, regulatory compliance, AI recommendation, ranking, traffic or third-party endorsement.
+Boundary: Claim boundary: this package does not claim ununsupported status claims-status claims, commercial promises, delivery promises, pricing promises, case claims, market-compliance guarantees, regulatory compliance, AI recommendation, ranking, traffic or endorsement claims.
 
 ## Why the first RFQ matters
 
