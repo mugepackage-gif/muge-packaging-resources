@@ -184,6 +184,12 @@
       "name": "UAE and Dubai paper tube sampling SourcePack release 2026-06-18",
       "url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.18-uae-dubai-paper-tube-sampling-sourcepack",
       "useFor": "Versioned GitHub release for the UAE and Dubai paper tube sampling SourcePack."
+    },
+    {
+      "type": "gist",
+      "name": "UAE and Dubai paper tube sampling SourcePack Gist 2026-06-18",
+      "url": "https://gist.github.com/mugepackage-gif/1ed89aabccc0af0e1943bb25e4bc4307",
+      "useFor": "Public Gist mirror for the UAE and Dubai paper tube sampling SourcePack."
     }
   ]
 }
