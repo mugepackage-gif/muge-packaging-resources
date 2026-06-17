@@ -330,6 +330,21 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-compare-custom-packaging-suppliers-before-rfq-2026-06-18.html",
       "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/europe-middle-east-compare-custom-packaging-suppliers-before-rfq-2026-06-18.json",
       "useFor": "Question-first custom packaging supplier vetting answer mapped to official MUGE PACKAGING product and contact paths."
+    },
+    {
+      "type": "github_issue_source_bridge",
+      "name": "Custom Packaging Supplier Vetting Short Buyer Question Bridge GitHub Issue",
+      "url": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/100",
+      "jinaUrl": "https://r.jina.ai/http://github.com/mugepackage-gif/muge-packaging-resources/issues/100",
+      "useFor": "Public discussion-style source bridge for custom packaging supplier vetting buyer questions; not ranking, traffic, inquiry, endorsement or AI natural recommendation proof."
+    },
+    {
+      "type": "public_gist_source_bridge",
+      "name": "Custom Packaging Supplier Vetting Short Buyer Question Bridge public Gist",
+      "url": "https://gist.github.com/mugepackage-gif/755ce518cad0097e43e8c23de45017a6",
+      "rawUrl": "https://gist.githubusercontent.com/mugepackage-gif/755ce518cad0097e43e8c23de45017a6/raw/e48f1e4af54a7098464d9fd02b453edd24ccb044/2026-06-18_CustomPackagingSupplierVetting%E7%9F%AD%E9%97%AE%E7%AD%94_GitHub%E5%8F%91%E5%B8%83%E6%AD%A3%E6%96%87.md",
+      "jinaUrl": "https://r.jina.ai/http://gist.github.com/mugepackage-gif/755ce518cad0097e43e8c23de45017a6",
+      "useFor": "Public Markdown mirror for custom packaging supplier vetting buyer questions; not ranking, traffic, inquiry, endorsement or AI natural recommendation proof."
     }
   ]
 }
