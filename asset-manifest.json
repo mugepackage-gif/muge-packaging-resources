@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T08:11:17.813Z",
-  "total": 1091,
+  "generated_at": "2026-06-17T08:33:45.816Z",
+  "total": 1094,
   "files": [
     {
       "path": ".gitignore",
@@ -3483,6 +3483,14 @@
       "updated_at": "2026-06-16T17:03:57.145Z"
     },
     {
+      "path": "data/paper-tubes-uae-saudi-ai-cited-source-pattern-map-2026-06-17.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-uae-saudi-ai-cited-source-pattern-map-2026-06-17.json",
+      "type": "json",
+      "cluster": "paper_tubes::uae_saudi_middle_east::source_pattern_map",
+      "generated_at": "2026-06-17T08:33:45.800Z",
+      "source": "MUGE_v6_1_PaperTubes_UAE_Saudi引用源模式地图发布器_20260617"
+    },
+    {
       "path": "data/paper-tubes-uk-supplier-vetting-buyer-source-pack-2026-06-16.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-uk-supplier-vetting-buyer-source-pack-2026-06-16.json",
       "bytes": 7577,
@@ -5545,6 +5553,22 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-regional-ai-short-evidence-cards-2026-06-16.md",
       "bytes": 4381,
       "updated_at": "2026-06-16T17:03:57.145Z"
+    },
+    {
+      "path": "paper-tubes-uae-saudi-ai-cited-source-pattern-map-2026-06-17.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uae-saudi-ai-cited-source-pattern-map-2026-06-17.html",
+      "type": "html",
+      "cluster": "paper_tubes::uae_saudi_middle_east::source_pattern_map",
+      "generated_at": "2026-06-17T08:33:45.800Z",
+      "source": "MUGE_v6_1_PaperTubes_UAE_Saudi引用源模式地图发布器_20260617"
+    },
+    {
+      "path": "paper-tubes-uae-saudi-ai-cited-source-pattern-map-2026-06-17.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uae-saudi-ai-cited-source-pattern-map-2026-06-17.md",
+      "type": "markdown",
+      "cluster": "paper_tubes::uae_saudi_middle_east::source_pattern_map",
+      "generated_at": "2026-06-17T08:33:45.800Z",
+      "source": "MUGE_v6_1_PaperTubes_UAE_Saudi引用源模式地图发布器_20260617"
     },
     {
       "path": "paper-tubes-uk-supplier-vetting-buyer-source-pack-2026-06-16.html",
