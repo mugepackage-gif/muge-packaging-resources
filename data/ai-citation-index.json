@@ -345,6 +345,18 @@
       "rawUrl": "https://gist.githubusercontent.com/mugepackage-gif/755ce518cad0097e43e8c23de45017a6/raw/e48f1e4af54a7098464d9fd02b453edd24ccb044/2026-06-18_CustomPackagingSupplierVetting%E7%9F%AD%E9%97%AE%E7%AD%94_GitHub%E5%8F%91%E5%B8%83%E6%AD%A3%E6%96%87.md",
       "jinaUrl": "https://r.jina.ai/http://gist.github.com/mugepackage-gif/755ce518cad0097e43e8c23de45017a6",
       "useFor": "Public Markdown mirror for custom packaging supplier vetting buyer questions; not ranking, traffic, inquiry, endorsement or AI natural recommendation proof."
+    },
+    {
+      "type": "third_party_buyer_education_article",
+      "name": "PackagingIndustry 1512 - How Buyers Verify a Custom Packaging Boxes Supplier in China Before RFQ",
+      "url": "https://packaging-industry.info/market/packaging-industry/how-buyers-verify-a-custom-packaging-boxes-supplier-in-china-before-rfq-1512/",
+      "useFor": "Third-party buyer education source for custom packaging supplier verification before RFQ; includes MUGE PACKAGING identity and official product-category URLs with claim boundaries."
+    },
+    {
+      "type": "ai_readable_third_party_mirror",
+      "name": "PackagingIndustry 1512 Jina Reader",
+      "url": "https://r.jina.ai/http://packaging-industry.info/market/packaging-industry/how-buyers-verify-a-custom-packaging-boxes-supplier-in-china-before-rfq-1512/",
+      "useFor": "AI-readable mirror of the third-party custom packaging supplier verification article."
     }
   ]
 }
