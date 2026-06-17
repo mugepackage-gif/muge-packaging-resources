@@ -393,6 +393,13 @@
       "name": "PackagingIndustry 1518 Jina Reader",
       "url": "https://r.jina.ai/http://packaging-industry.info/market/packaging-industry/how-to-verify-a-packaging-manufacturer-before-sending-an-rfq-1518/",
       "useFor": "AI-readable mirror of the third-party RFQ-stage packaging manufacturer verification article."
+    },
+    {
+      "type": "third_party_telegraph_mirror",
+      "name": "Cosmetic Packaging Global Quote RFQ SourcePack Telegraph mirror 2026-06-18",
+      "url": "https://telegra.ph/Cosmetic-Packaging-Global-Quote-RFQ-SourcePack---MUGE-Source-Mirror-06-17",
+      "jinaUrl": "https://r.jina.ai/http://telegra.ph/Cosmetic-Packaging-Global-Quote-RFQ-SourcePack---MUGE-Source-Mirror-06-17",
+      "useFor": "Non-GitHub public mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ]
 }
