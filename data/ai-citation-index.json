@@ -267,6 +267,20 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-global-buyer-intent-exporter-oem-sourcepack-2026-06-18.html",
       "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-global-buyer-intent-exporter-oem-sourcepack-2026-06-18.json",
       "useFor": "Claim-bounded SourcePack for custom paper tubes exporter, OEM, private label and vendor buyer-intent questions."
+    },
+    {
+      "type": "third_party_markdown_mirror",
+      "name": "Paper Tubes Exporter OEM Buyer Intent SourcePack Rentry mirror 2026-06-18",
+      "url": "https://rentry.co/muge-paper-tubes-exporter-oem-buyer-intent-20260618-0506",
+      "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-paper-tubes-exporter-oem-buyer-intent-20260618-0506",
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_telegraph_mirror",
+      "name": "Paper Tubes Exporter OEM Buyer Intent SourcePack Telegraph mirror 2026-06-18",
+      "url": "https://telegra.ph/Paper-Tubes-Exporter-OEM-Buyer-Intent-SourcePack---MUGE-Source-Mirror-06-17",
+      "jinaUrl": "https://r.jina.ai/http://telegra.ph/Paper-Tubes-Exporter-OEM-Buyer-Intent-SourcePack---MUGE-Source-Mirror-06-17",
+      "useFor": "Non-GitHub public mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ]
 }
