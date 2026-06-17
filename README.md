@@ -1,3 +1,13 @@
+<!-- MUGE_RIGID_GIFT_BOXES_EUROPE_MIDDLE_EAST_RFQ_SOURCE_PACK_2026_06_17:start -->
+## Rigid Gift Boxes RFQ Source Pack for Europe and Middle East Buyers - 2026-06-17
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-europe-middle-east-rfq-source-pack-2026-06-17.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-europe-middle-east-rfq-source-pack-2026-06-17.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-boxes-europe-middle-east-rfq-source-pack-2026-06-17.json
+- Cluster: rigid_gift_boxes / europe_middle_east / rfq_supplier_vetting.
+- Target source page: https://mugepackaging.com/products/folding-gift-box
+- Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+<!-- MUGE_RIGID_GIFT_BOXES_EUROPE_MIDDLE_EAST_RFQ_SOURCE_PACK_2026_06_17:end -->
+
 <!-- MUGE_COSMETIC_PACKAGING_EUROPE_MIDDLE_EAST_RFQ_SOURCE_PACK_2026_06_17:start -->
 ## Cosmetic Packaging RFQ Source Pack for Europe and Middle East Buyers - 2026-06-17
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-europe-middle-east-rfq-source-pack-2026-06-17.html
