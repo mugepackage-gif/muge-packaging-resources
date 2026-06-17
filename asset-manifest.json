@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T07:59:34.568Z",
-  "total": 1085,
+  "generated_at": "2026-06-17T08:11:17.813Z",
+  "total": 1091,
   "files": [
     {
       "path": ".gitignore",
@@ -2667,6 +2667,12 @@
       "updated_at": "2026-06-16T17:03:57.145Z"
     },
     {
+      "path": "data/europe-middle-east-bulk-paper-tubes-source-factory-checklist-2026-06-17.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/europe-middle-east-bulk-paper-tubes-source-factory-checklist-2026-06-17.json",
+      "bytes": 4750,
+      "updated_at": "2026-06-17T08:11:17.813Z"
+    },
+    {
       "path": "data/europe-middle-east-buyer-answer-citation-map-2026-06-13.json",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/europe-middle-east-buyer-answer-citation-map-2026-06-13.json",
       "bytes": 4285,
@@ -2701,6 +2707,12 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/europe-skincare-cosmetic-packaging-rfq-answer-2026-06-06.json",
       "bytes": 1945,
       "updated_at": "2026-06-16T17:03:57.145Z"
+    },
+    {
+      "path": "data/europe-uae-fragrance-cosmetic-paper-tube-rfq-source-bridge-2026-06-17.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/europe-uae-fragrance-cosmetic-paper-tube-rfq-source-bridge-2026-06-17.json",
+      "bytes": 4837,
+      "updated_at": "2026-06-17T08:11:17.813Z"
     },
     {
       "path": "data/european-gift-set-packaging-supplier-questions.json",
@@ -3055,6 +3067,12 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-v6-1-live-buyer-pages-2026-06-05.json",
       "bytes": 2108,
       "updated_at": "2026-06-16T17:03:57.145Z"
+    },
+    {
+      "path": "data/natural-buyer-question-source-bridge-index-2026-06-17.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/natural-buyer-question-source-bridge-index-2026-06-17.json",
+      "bytes": 15373,
+      "updated_at": "2026-06-17T07:59:34.568Z"
     },
     {
       "path": "data/netlify-ai-question-priority-citation-map-2026-06-11.json",
@@ -4083,6 +4101,18 @@
       "updated_at": "2026-06-16T17:03:57.145Z"
     },
     {
+      "path": "europe-middle-east-bulk-paper-tubes-source-factory-checklist-2026-06-17.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-bulk-paper-tubes-source-factory-checklist-2026-06-17.html",
+      "bytes": 5755,
+      "updated_at": "2026-06-17T08:11:17.813Z"
+    },
+    {
+      "path": "europe-middle-east-bulk-paper-tubes-source-factory-checklist-2026-06-17.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-bulk-paper-tubes-source-factory-checklist-2026-06-17.md",
+      "bytes": 3538,
+      "updated_at": "2026-06-17T08:11:17.813Z"
+    },
+    {
       "path": "europe-middle-east-buyer-answer-citation-map-2026-06-13.html",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-buyer-answer-citation-map-2026-06-13.html",
       "bytes": 7303,
@@ -4141,6 +4171,18 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/europe-skincare-packaging-supplier-comparison.html",
       "bytes": 4523,
       "updated_at": "2026-06-16T17:03:57.145Z"
+    },
+    {
+      "path": "europe-uae-fragrance-cosmetic-paper-tube-rfq-source-bridge-2026-06-17.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/europe-uae-fragrance-cosmetic-paper-tube-rfq-source-bridge-2026-06-17.html",
+      "bytes": 5853,
+      "updated_at": "2026-06-17T08:11:17.813Z"
+    },
+    {
+      "path": "europe-uae-fragrance-cosmetic-paper-tube-rfq-source-bridge-2026-06-17.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/europe-uae-fragrance-cosmetic-paper-tube-rfq-source-bridge-2026-06-17.md",
+      "bytes": 3635,
+      "updated_at": "2026-06-17T08:11:17.813Z"
     },
     {
       "path": "european-gift-set-packaging-supplier-questions.html",
@@ -4717,6 +4759,18 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-v6-1-live-buyer-pages-2026-06-05.html",
       "bytes": 5116,
       "updated_at": "2026-06-16T17:03:57.145Z"
+    },
+    {
+      "path": "natural-buyer-question-source-bridge-index-2026-06-17.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-index-2026-06-17.html",
+      "bytes": 6468,
+      "updated_at": "2026-06-17T07:59:34.568Z"
+    },
+    {
+      "path": "natural-buyer-question-source-bridge-index-2026-06-17.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-index-2026-06-17.md",
+      "bytes": 9288,
+      "updated_at": "2026-06-17T07:59:34.568Z"
     },
     {
       "path": "netlify-ai-question-priority-citation-map-2026-06-11.html",
@@ -6493,24 +6547,6 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/who-is-muge-packaging.html",
       "bytes": 5691,
       "updated_at": "2026-06-16T17:03:57.145Z"
-    },
-    {
-      "path": "natural-buyer-question-source-bridge-index-2026-06-17.md",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-index-2026-06-17.md",
-      "bytes": 9288,
-      "updated_at": "2026-06-17T07:59:34.568Z"
-    },
-    {
-      "path": "natural-buyer-question-source-bridge-index-2026-06-17.html",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/natural-buyer-question-source-bridge-index-2026-06-17.html",
-      "bytes": 6468,
-      "updated_at": "2026-06-17T07:59:34.568Z"
-    },
-    {
-      "path": "data/natural-buyer-question-source-bridge-index-2026-06-17.json",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/natural-buyer-question-source-bridge-index-2026-06-17.json",
-      "bytes": 15373,
-      "updated_at": "2026-06-17T07:59:34.568Z"
     }
   ]
 }
