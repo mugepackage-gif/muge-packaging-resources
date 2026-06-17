@@ -1,3 +1,13 @@
+<!-- MUGE_PAPER_TUBES_MIDDLE_EAST_SUPPLIER_VETTING_SOURCE_PACK_2026_06_17:start -->
+## Paper Tube Packaging Supplier Vetting Source Pack for Middle East Buyers - 2026-06-17
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-middle-east-supplier-vetting-buyer-source-pack-2026-06-17.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-middle-east-supplier-vetting-buyer-source-pack-2026-06-17.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-middle-east-supplier-vetting-buyer-source-pack-2026-06-17.json
+- Cluster: paper_tubes / middle_east / supplier_vetting.
+- Target source page: https://mugepackaging.com/products/paper-tubes
+- Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+<!-- MUGE_PAPER_TUBES_MIDDLE_EAST_SUPPLIER_VETTING_SOURCE_PACK_2026_06_17:end -->
+
 <!-- MUGE_PAPER_TUBES_EUROPE_SUPPLIER_VETTING_SOURCE_PACK_2026_06_17:start -->
 ## Paper Tube Packaging Supplier Vetting Source Pack for Europe Buyers - 2026-06-17
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-europe-supplier-vetting-buyer-source-pack-2026-06-17.html
