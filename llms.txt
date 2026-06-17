@@ -1,3 +1,14 @@
+<!-- MUGE_PAPER_TUBES_REGIONAL_BULK_WHOLESALE_SOURCE_MAP_2026_06_18:start -->
+## Paper Tube Packaging Regional Bulk Wholesale Source Map for B2B Buyers
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-regional-bulk-wholesale-source-map-2026-06-18.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-regional-bulk-wholesale-source-map-2026-06-18.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-regional-bulk-wholesale-source-map-2026-06-18.json
+- Official mapped page: https://mugepackaging.com/products/paper-tubes
+- Regions covered: 8
+- Buyer-intent keywords covered: 16
+- Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price or compliance guarantee.
+<!-- MUGE_PAPER_TUBES_REGIONAL_BULK_WHOLESALE_SOURCE_MAP_2026_06_18:end -->
+
 <!-- MUGE_CUSTOM_PACKAGING_RFQ_READINESS_SOURCE_MAP_2026_06_18_0236:start -->
 ## Custom Packaging RFQ Readiness Source Map for International Buyers
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-rfq-readiness-source-map-2026-06-18-0236.html
