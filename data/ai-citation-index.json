@@ -171,6 +171,13 @@
       "name": "AI answer short evidence batch release 2026-06-12",
       "url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.12-ai-answer-short-evidence-batch",
       "useFor": "Versioned GitHub release for the six-page short answer evidence batch."
+    },
+    {
+      "type": "uae_dubai_paper_tube_sampling_sourcepack",
+      "name": "UAE and Dubai paper tube packaging sampling SourcePack 2026-06-18",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/uae-dubai-paper-tube-sampling-source-pack-2026-06-18.html",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/uae-dubai-paper-tube-sampling-source-pack-2026-06-18.json",
+      "useFor": "Claim-bounded source pack for UAE and Dubai buyers reviewing custom paper tube packaging suppliers before sampling, mapped to official MUGE PACKAGING paper tube source paths."
     }
   ]
 }
