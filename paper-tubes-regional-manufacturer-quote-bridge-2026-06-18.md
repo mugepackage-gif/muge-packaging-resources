@@ -38,6 +38,7 @@ This SourceCard connects GSC weak-signal regional buyer queries for custom paper
 - Custom paper tubes buyer paths SourceCard: https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-tubes-buyer-paths-source-card-2026-06-18.html
 - GitHub issue source trail: https://github.com/mugepackage-gif/muge-packaging-resources/issues/114
 - GitHub release source trail: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.19-paper-tubes-regional-manufacturer-quote-bridge
+- GitHub Gist text mirror: https://gist.github.com/mugepackage-gif/9c0e54d960087c95fe7875e4ad8cf91c
 - Existing AI-cited issue bridge comment: https://github.com/mugepackage-gif/muge-packaging-resources/issues/64#issuecomment-4743832033
 
 ## GSC weak-signal source

@@ -12,6 +12,7 @@
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-regional-manufacturer-quote-bridge-2026-06-18.json
 - GitHub issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/114
 - GitHub release: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.19-paper-tubes-regional-manufacturer-quote-bridge
+- GitHub Gist: https://gist.github.com/mugepackage-gif/9c0e54d960087c95fe7875e4ad8cf91c
 - Official mapped page: https://mugepackaging.com/products/paper-tubes
 - Mapped regions: Europe; Middle East; UAE; Dubai; Saudi Arabia; UK; Canada; United States.
 - Mapped intents: custom paper tubes manufacturer; custom paper tubes china manufacturer; custom paper tubes custom quote.
