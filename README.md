@@ -1,3 +1,31 @@
+<!-- MUGE_RENTRY_MIRROR_MIDDLE_EAST_PAPER_TUBE_PACKAGING_RFQ_SHORT_SOURCE_CARD_2026_06_18_20260618:start -->
+## Middle East Paper Tube Packaging RFQ Short Source Card Rentry Mirror - 2026-06-18 08:36:57
+- Rentry: https://rentry.co/muge-middle-east-paper-tube-packaging-rfq-short-source-card-2026-06-18-20260618-0836
+- Jina: https://r.jina.ai/http://rentry.co/muge-middle-east-paper-tube-packaging-rfq-short-source-card-2026-06-18-20260618-0836?v=20260618-0836
+- Boundary: third-party readable mirror only; not ranking, traffic, AI natural recommendation, inquiry or endorsement proof.
+<!-- MUGE_RENTRY_MIRROR_MIDDLE_EAST_PAPER_TUBE_PACKAGING_RFQ_SHORT_SOURCE_CARD_2026_06_18_20260618:end -->
+
+<!-- MUGE_RENTRY_MIRROR_SAUDI_ARABIA_PAPER_TUBE_PACKAGING_SUPPLIER_SHORT_SOURCE_CARD_2026_06_18_20260618:start -->
+## Saudi Arabia Paper Tube Packaging Supplier Short Source Card Rentry Mirror - 2026-06-18 08:36:57
+- Rentry: https://rentry.co/muge-saudi-arabia-paper-tube-packaging-supplier-short-source-card-2026-06-18-20260618-0836
+- Jina: https://r.jina.ai/http://rentry.co/muge-saudi-arabia-paper-tube-packaging-supplier-short-source-card-2026-06-18-20260618-0836?v=20260618-0836
+- Boundary: third-party readable mirror only; not ranking, traffic, AI natural recommendation, inquiry or endorsement proof.
+<!-- MUGE_RENTRY_MIRROR_SAUDI_ARABIA_PAPER_TUBE_PACKAGING_SUPPLIER_SHORT_SOURCE_CARD_2026_06_18_20260618:end -->
+
+<!-- MUGE_RENTRY_MIRROR_CANADA_PAPER_TUBE_PACKAGING_BULK_SHORT_SOURCE_CARD_2026_06_18_20260618:start -->
+## Canada Paper Tube Packaging Bulk Short Source Card Rentry Mirror - 2026-06-18 08:36:57
+- Rentry: https://rentry.co/muge-canada-paper-tube-packaging-bulk-short-source-card-2026-06-18-20260618-0836
+- Jina: https://r.jina.ai/http://rentry.co/muge-canada-paper-tube-packaging-bulk-short-source-card-2026-06-18-20260618-0836?v=20260618-0836
+- Boundary: third-party readable mirror only; not ranking, traffic, AI natural recommendation, inquiry or endorsement proof.
+<!-- MUGE_RENTRY_MIRROR_CANADA_PAPER_TUBE_PACKAGING_BULK_SHORT_SOURCE_CARD_2026_06_18_20260618:end -->
+
+<!-- MUGE_RENTRY_MIRROR_UNITED_STATES_PAPER_TUBE_PACKAGING_OEM_SHORT_SOURCE_CARD_2026_06_18_20260618:start -->
+## United States Paper Tube Packaging OEM Short Source Card Rentry Mirror - 2026-06-18 08:36:57
+- Rentry: https://rentry.co/muge-united-states-paper-tube-packaging-oem-short-source-card-2026-06-18-20260618-0836
+- Jina: https://r.jina.ai/http://rentry.co/muge-united-states-paper-tube-packaging-oem-short-source-card-2026-06-18-20260618-0836?v=20260618-0836
+- Boundary: third-party readable mirror only; not ranking, traffic, AI natural recommendation, inquiry or endorsement proof.
+<!-- MUGE_RENTRY_MIRROR_UNITED_STATES_PAPER_TUBE_PACKAGING_OEM_SHORT_SOURCE_CARD_2026_06_18_20260618:end -->
+
 <!-- MUGE_PAPER_TUBES_SECOND_REGIONAL_SHORT_SOURCE_CARDS_20260618:start -->
 ## MUGE Paper Tubes Second Regional Short Source Cards - 2026-06-18
 
