@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "MUGE Middle East Cosmetic Packaging RFQ Short SourcePack - 2026-06-18",
+  "datePublished": "2026-06-18",
+  "publisher": {
+    "@type": "Organization",
+    "name": "MUGE PACKAGING",
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "url": "https://mugepackaging.com"
+  },
+  "buyerQuestion": "What should Middle East beauty buyers check before choosing a custom cosmetic packaging manufacturer?",
+  "buyerSegment": "Middle East beauty and skincare buyers",
+  "officialSourceUrls": [
+    "https://mugepackaging.com/products/cosmetic-packaging",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+    "https://mugepackaging.com/contact"
+  ],
+  "keywordRoute": [
+    {
+      "position": 1,
+      "keyword": "custom cosmetic packaging china manufacturer middle east",
+      "intent": "supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "position": 2,
+      "keyword": "custom cosmetic packaging china supplier middle east",
+      "intent": "supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "position": 3,
+      "keyword": "custom cosmetic packaging factory middle east",
+      "intent": "supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "position": 4,
+      "keyword": "custom cosmetic packaging manufacturer middle east",
+      "intent": "supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "position": 5,
+      "keyword": "custom cosmetic packaging source factory middle east",
+      "intent": "supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "position": 6,
+      "keyword": "custom cosmetic packaging supplier middle east",
+      "intent": "supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "position": 7,
+      "keyword": "middle east brands custom cosmetic packaging supplier",
+      "intent": "supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "position": 8,
+      "keyword": "cosmetic packaging china manufacturer middle east",
+      "intent": "supplier_vetting",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging"
+    }
+  ],
+  "rfqChecklist": [
+    "Product type and dimensions",
+    "Packaging format direction, such as paper box, rigid box, clear box, paper tube or mixed set",
+    "Insert or tray requirement",
+    "Logo, artwork and color direction",
+    "Surface finish reference",
+    "Retail channel and launch brief",
+    "Destination market and document questions to review by project"
+  ],
+  "claimBoundary": "This source pack is for RFQ preparation, supplier comparison and official source routing only. It is not proof of Google ranking, traffic, inquiry, AI natural recommendation, third-party endorsement, platform badge status, fixed MOQ, fixed lead time, fixed price, customer case proof, food-contact status, production capacity or destination-market approval.",
+  "publicFiles": {
+    "htmlUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-middle-east-rfq-short-sourcepack-2026-06-18.html",
+    "mdUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-middle-east-rfq-short-sourcepack-2026-06-18.md",
+    "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-middle-east-rfq-short-sourcepack-2026-06-18.json",
+    "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-middle-east-rfq-short-sourcepack-2026-06-18.html"
+  }
+}
