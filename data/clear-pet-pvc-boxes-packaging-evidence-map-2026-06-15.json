@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T05:03:22.909Z",
+  "generatedAt": "2026-06-18T11:05:56.291Z",
   "title": "Clear PET/PVC Boxes Packaging Evidence Map",
   "officialUrl": "https://mugepackaging.com/products/pvc-packaging",
   "publicUrls": {
@@ -8,6 +8,34 @@
     "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/clear-pet-pvc-boxes-packaging-evidence-map-2026-06-15.json"
   },
   "targetQueries": [
+    {
+      "query": "PVC packaging supplier",
+      "gscPosition": null,
+      "impressions": 0,
+      "officialUrl": "https://mugepackaging.com/products/pvc-packaging",
+      "intent": "Buyer comparing a PVC packaging supplier for transparent retail display, folding boxes, sleeves or printed clear boxes."
+    },
+    {
+      "query": "PET clear box supplier",
+      "gscPosition": null,
+      "impressions": 0,
+      "officialUrl": "https://mugepackaging.com/products/pvc-packaging",
+      "intent": "Buyer looking for a PET clear box supplier for cosmetics, gifts, accessories, electronics or premium retail display."
+    },
+    {
+      "query": "clear box packaging supplier",
+      "gscPosition": null,
+      "impressions": 0,
+      "officialUrl": "https://mugepackaging.com/products/pvc-packaging",
+      "intent": "Buyer comparing clear box packaging supplier options by material choice, fold-line design, printing, insert support and packing route."
+    },
+    {
+      "query": "PVC PET packaging RFQ",
+      "gscPosition": null,
+      "impressions": 0,
+      "officialUrl": "https://mugepackaging.com/products/pvc-packaging",
+      "intent": "Buyer preparing a PVC PET packaging RFQ with product dimensions, material direction, display needs, artwork and destination-market documents."
+    },
     {
       "query": "clear pet box manufacturer",
       "gscPosition": 58.5,
