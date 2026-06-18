@@ -1015,6 +1015,20 @@
       "url": "https://telegra.ph/Current-Perplexity-Citation-Gap-Response-Map---MUGE-Source-Mirror-06-18",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/Current-Perplexity-Citation-Gap-Response-Map---MUGE-Source-Mirror-06-18",
       "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_markdown_mirror",
+      "name": "Sample Pack RFQ SourceCard Rentry mirror 2026-06-18",
+      "url": "https://rentry.co/sample-pack-rfq-source-bridge-20260618-2103",
+      "jinaUrl": "https://r.jina.ai/http://rentry.co/sample-pack-rfq-source-bridge-20260618-2103",
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_text_mirror",
+      "name": "Sample Pack RFQ SourceCard Telegraph mirror 2026-06-18",
+      "url": "https://telegra.ph/Sample-Pack-RFQ-SourceCard-for-Packaging-Buyers---MUGE-Source-Mirror-06-18",
+      "jinaUrl": "https://r.jina.ai/http://telegra.ph/Sample-Pack-RFQ-SourceCard-for-Packaging-Buyers---MUGE-Source-Mirror-06-18",
+      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ],
   "items": [
