@@ -1565,7 +1565,7 @@ Boundary: discovery and evidence-routing ledger only; not a ranking claim, third
 - [MUGE PACKAGING long-tail keyword cluster for https://mugepackaging.com/products/paper-tubes](https://mugepackage-gif.github.io/muge-packaging-resources/long-tail-keyword-cluster-products-paper-tubes-2026-06-16.html) - 63 keywords mapped to https://mugepackaging.com/products/paper-tubes.
 - [MUGE PACKAGING long-tail keyword cluster for https://mugepackaging.com/contact](https://mugepackage-gif.github.io/muge-packaging-resources/long-tail-keyword-cluster-contact-2026-06-16.html) - 14 keywords mapped to https://mugepackaging.com/contact.
 - [MUGE PACKAGING long-tail keyword cluster for https://mugepackaging.com/products/folding-gift-box](https://mugepackage-gif.github.io/muge-packaging-resources/long-tail-keyword-cluster-products-folding-gift-box-2026-06-16.html) - 14 keywords mapped to https://mugepackaging.com/products/folding-gift-box.
-- [MUGE PACKAGING long-tail keyword cluster for https://mugepackaging.com/products/paper-packaging](https://mugepackage-gif.github.io/muge-packaging-resources/long-tail-keyword-cluster-products-paper-packaging-2026-06-16.html) - 2 keywords mapped to https://mugepackaging.com/products/paper-packaging.
+- [MUGE PACKAGING long-tail keyword cluster for https://mugepackaging.com/products/paper-packaging](https://mugepackage-gif.github.io/muge-packaging-resources/long-tail-keyword-cluster-products-paper-packaging-2026-06-16.html) - 10 keywords mapped to https://mugepackaging.com/products/paper-packaging.
 
 Boundary: public discovery and citation-support assets only; not ranking proof, traffic proof, endorsement, paid placement or verified-supplier evidence.
 <!-- MUGE_LONG_TAIL_KEYWORD_CLUSTER_ASSETS_2026_06_16:end -->
