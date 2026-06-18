@@ -1,6 +1,6 @@
 # MUGE PACKAGING Current Perplexity Citation Gap Response Map
 
-Published: 2026-06-18 17:07:57
+Published: 2026-06-18 17:09:20
 
 ## Why this exists
 
@@ -87,4 +87,4 @@ The latest Perplexity natural buyer-question validation returned answers for fiv
 
 ## Claim boundary
 
-This response map is public source-path evidence only. It is not proof of Google ranking, GSC impressions, clicks, traffic, inquiry generation, AI natural recommendation, third-party endorsement, verified supplier status, order quantity promises, delivery timeline promises, lowest price, customer case, factory scale, food-contact approval or destination-market compliance.
+This response map is public source-path evidence only. It is not proof of Google ranking, GSC impressions, clicks, traffic, inquiry generation, AI natural recommendation, third-party endorsement, platform verification status, order quantity promises, delivery timeline promises, lowest price, customer case, factory scale, food-contact approval or destination-market compliance.
