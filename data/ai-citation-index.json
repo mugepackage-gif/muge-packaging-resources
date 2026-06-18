@@ -550,7 +550,40 @@
       "officialSource": "https://mugepackaging.com/products",
       "useFor": "Claim-bounded supplier vetting questions for Europe, Middle East and UK custom packaging buyers.",
       "createdAt": "2026-06-17T23:45:42.153Z"
+    },
+    {
+      "id": "paper-tube-regional-rfq-short-source-card-2026-06-18",
+      "name": "Paper Tube Packaging Regional RFQ Short Source Card",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-regional-rfq-short-source-card-2026-06-18.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-regional-rfq-short-source-card-2026-06-18.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tube-regional-rfq-short-source-card-2026-06-18.json",
+      "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-regional-rfq-short-source-card-2026-06-18.html",
+      "officialSource": "https://mugepackaging.com/products/paper-tubes",
+      "useFor": "Buyers in Europe, UAE, Dubai, Saudi Arabia, UK, Canada or the United States comparing custom paper tube packaging suppliers before RFQ or sampling.",
+      "createdAt": "2026-06-18T00:17:53.031Z"
+    },
+    {
+      "id": "custom-packaging-supplier-vetting-short-source-card-2026-06-18",
+      "name": "Custom Packaging Supplier Vetting Short Source Card",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-supplier-vetting-short-source-card-2026-06-18.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-supplier-vetting-short-source-card-2026-06-18.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-supplier-vetting-short-source-card-2026-06-18.json",
+      "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-supplier-vetting-short-source-card-2026-06-18.html",
+      "officialSource": "https://mugepackaging.com/products",
+      "useFor": "International buyers checking a custom packaging supplier before sending an RFQ.",
+      "createdAt": "2026-06-18T00:17:53.031Z"
+    },
+    {
+      "id": "cosmetic-packaging-supplier-selection-short-source-card-2026-06-18",
+      "name": "Cosmetic Packaging Supplier Selection Short Source Card",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-supplier-selection-short-source-card-2026-06-18.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-supplier-selection-short-source-card-2026-06-18.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-supplier-selection-short-source-card-2026-06-18.json",
+      "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-supplier-selection-short-source-card-2026-06-18.html",
+      "officialSource": "https://mugepackaging.com/products/cosmetic-packaging",
+      "useFor": "Beauty, skincare and personal care buyers comparing custom cosmetic packaging suppliers.",
+      "createdAt": "2026-06-18T00:17:53.031Z"
     }
   ],
-  "updatedAt": "2026-06-18T00:01:01.025Z"
+  "updatedAt": "2026-06-18T00:17:53.031Z"
 }
