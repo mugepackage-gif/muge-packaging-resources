@@ -904,6 +904,16 @@
       "rawUrl": "https://gist.githubusercontent.com/mugepackage-gif/82c90a0150c1bbe0afc45289117b775a/raw/MUGE_PACKAGING_cosmetic_packaging_official_source_note_2026_06_18.md",
       "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
       "useFor": "Public source note for custom cosmetic packaging boxes, skincare packaging RFQ preparation, inserts, surface finish and artwork review; not ranking, traffic, inquiry, endorsement, badge, MOQ, lead time, price or compliance proof."
+    },
+    {
+      "type": "keyword_execution_source_map",
+      "name": "MUGE Cosmetic Packaging Priority 100 Execution Source Map - 2026-06-18",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-priority-100-execution-source-map-2026-06-18.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-priority-100-execution-source-map-2026-06-18.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-priority-100-execution-source-map-2026-06-18.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-priority-100-execution-source-map-2026-06-18.html",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "useFor": "Public keyword-to-page execution routing for cosmetic packaging SEO/GEO validation; not ranking, traffic, inquiry, endorsement, badge, MOQ, lead time, price or compliance proof."
     }
   ],
   "items": [
@@ -1049,7 +1059,13 @@
       "officialSource": "https://mugepackaging.com/products/paper-tubes",
       "useFor": "What should United States buyers prepare for custom paper tube packaging OEM RFQs?",
       "createdAt": "2026-06-18T00:35:30.173Z"
+    },
+    {
+      "name": "MUGE Cosmetic Packaging Priority 100 Execution Source Map - 2026-06-18",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-priority-100-execution-source-map-2026-06-18.html",
+      "description": "Cosmetic packaging priority 100 keyword execution source map.",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging"
     }
   ],
-  "updatedAt": "2026-06-18T01:06:49.141Z"
+  "updatedAt": "2026-06-18T05:44:22.049Z"
 }

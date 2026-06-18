@@ -1,0 +1,923 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "MUGE Cosmetic Packaging Priority 100 Execution Source Map - 2026-06-18",
+  "datePublished": "2026-06-18",
+  "publisher": {
+    "@type": "Organization",
+    "name": "MUGE PACKAGING",
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "url": "https://mugepackaging.com"
+  },
+  "officialTargetPage": "https://mugepackaging.com/products/cosmetic-packaging",
+  "sourceCounts": {
+    "cosmeticUniverseCandidates": 3451,
+    "cosmeticRollingCandidates": 228,
+    "cosmeticCurrent100Candidates": 15,
+    "uniqueCosmeticCandidates": 3236,
+    "selectedKeywords": 100
+  },
+  "claimBoundary": "This source map documents keyword-to-page execution routing only. It is not proof of Google ranking, traffic, inquiry, AI natural recommendation, third-party endorsement, platform badge status, fixed MOQ, fixed lead time, fixed price, customer case proof, food-contact status, production capacity or destination-market approval.",
+  "items": [
+    {
+      "position": 1,
+      "keyword": "cosmetic packaging supplier",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "global",
+      "intent": "supplier_vetting",
+      "validationLayer": "P0P1硬验收",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 2,
+      "keyword": "how to choose cosmetic packaging supplier",
+      "targetUrl": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+      "region": "global",
+      "intent": "ai_buyer_question",
+      "validationLayer": "P0/P1核心硬验收",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。"
+    },
+    {
+      "position": 3,
+      "keyword": "custom cosmetic packaging",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "global",
+      "intent": "buyer_intent",
+      "validationLayer": "P0P1硬验收",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 4,
+      "keyword": "skincare custom cosmetic packaging supplier",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "global",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 5,
+      "keyword": "skincare cosmetic packaging supplier",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "global",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 6,
+      "keyword": "custom cosmetic packaging china manufacturer dubai",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 7,
+      "keyword": "custom cosmetic packaging china manufacturer europe",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 8,
+      "keyword": "custom cosmetic packaging china manufacturer middle east",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 9,
+      "keyword": "custom cosmetic packaging china manufacturer saudi arabia",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "saudi_arabia",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 10,
+      "keyword": "custom cosmetic packaging china manufacturer uae",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uae",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 11,
+      "keyword": "custom cosmetic packaging china supplier dubai",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 12,
+      "keyword": "custom cosmetic packaging china supplier europe",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 13,
+      "keyword": "custom cosmetic packaging china supplier middle east",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 14,
+      "keyword": "custom cosmetic packaging china supplier saudi arabia",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "saudi_arabia",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 15,
+      "keyword": "custom cosmetic packaging china supplier uae",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uae",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 16,
+      "keyword": "custom cosmetic packaging factory dubai",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 17,
+      "keyword": "custom cosmetic packaging factory europe",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 18,
+      "keyword": "custom cosmetic packaging factory middle east",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 19,
+      "keyword": "custom cosmetic packaging factory saudi arabia",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "saudi_arabia",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 20,
+      "keyword": "custom cosmetic packaging factory uae",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uae",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 21,
+      "keyword": "custom cosmetic packaging manufacturer dubai",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 22,
+      "keyword": "custom cosmetic packaging manufacturer europe",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 23,
+      "keyword": "custom cosmetic packaging manufacturer middle east",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 24,
+      "keyword": "custom cosmetic packaging manufacturer saudi arabia",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "saudi_arabia",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 25,
+      "keyword": "custom cosmetic packaging manufacturer uae",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uae",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 26,
+      "keyword": "custom cosmetic packaging source factory dubai",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 27,
+      "keyword": "custom cosmetic packaging source factory europe",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 28,
+      "keyword": "custom cosmetic packaging source factory middle east",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 29,
+      "keyword": "custom cosmetic packaging source factory saudi arabia",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "saudi_arabia",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 30,
+      "keyword": "custom cosmetic packaging source factory uae",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uae",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 31,
+      "keyword": "custom cosmetic packaging supplier dubai",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 32,
+      "keyword": "custom cosmetic packaging supplier europe",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 33,
+      "keyword": "custom cosmetic packaging supplier middle east",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 34,
+      "keyword": "custom cosmetic packaging supplier saudi arabia",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "saudi_arabia",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 35,
+      "keyword": "custom cosmetic packaging supplier uae",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uae",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 36,
+      "keyword": "european brands custom cosmetic packaging supplier",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 37,
+      "keyword": "middle east brands custom cosmetic packaging supplier",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 38,
+      "keyword": "cosmetic packaging china manufacturer dubai",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 39,
+      "keyword": "cosmetic packaging china manufacturer europe",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 40,
+      "keyword": "cosmetic packaging china manufacturer middle east",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 41,
+      "keyword": "cosmetic packaging china manufacturer uae",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uae",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 42,
+      "keyword": "cosmetic packaging china supplier dubai",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 43,
+      "keyword": "cosmetic packaging china supplier europe",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 44,
+      "keyword": "cosmetic packaging china supplier middle east",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 45,
+      "keyword": "cosmetic packaging china supplier uae",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uae",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 46,
+      "keyword": "cosmetic packaging factory dubai",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 47,
+      "keyword": "cosmetic packaging factory europe",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 48,
+      "keyword": "cosmetic packaging factory middle east",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 49,
+      "keyword": "cosmetic packaging factory uae",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uae",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 50,
+      "keyword": "cosmetic packaging manufacturer dubai",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 51,
+      "keyword": "cosmetic packaging manufacturer europe",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 52,
+      "keyword": "cosmetic packaging manufacturer middle east",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 53,
+      "keyword": "cosmetic packaging manufacturer uae",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uae",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 54,
+      "keyword": "cosmetic packaging source factory dubai",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 55,
+      "keyword": "cosmetic packaging source factory europe",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 56,
+      "keyword": "cosmetic packaging source factory middle east",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 57,
+      "keyword": "cosmetic packaging source factory uae",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uae",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 58,
+      "keyword": "cosmetic packaging supplier dubai",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "dubai",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 59,
+      "keyword": "cosmetic packaging supplier europe",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 60,
+      "keyword": "cosmetic packaging supplier middle east",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 61,
+      "keyword": "cosmetic packaging supplier uae",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uae",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 62,
+      "keyword": "european brands cosmetic packaging supplier",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "europe",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 63,
+      "keyword": "middle east brands cosmetic packaging supplier",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "middle_east",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 64,
+      "keyword": "cosmetic packaging custom quote dubai",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 65,
+      "keyword": "cosmetic packaging custom quote europe",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "europe",
+      "intent": "quote_rfq",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 66,
+      "keyword": "cosmetic packaging custom quote middle east",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "middle_east",
+      "intent": "quote_rfq",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 67,
+      "keyword": "cosmetic packaging custom quote saudi arabia",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "saudi_arabia",
+      "intent": "quote_rfq",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 68,
+      "keyword": "cosmetic packaging custom quote uae",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uae",
+      "intent": "quote_rfq",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 69,
+      "keyword": "custom cosmetic packaging custom quote dubai",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 70,
+      "keyword": "custom cosmetic packaging custom quote europe",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "europe",
+      "intent": "quote_rfq",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 71,
+      "keyword": "custom cosmetic packaging custom quote middle east",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "middle_east",
+      "intent": "quote_rfq",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 72,
+      "keyword": "custom cosmetic packaging custom quote saudi arabia",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "saudi_arabia",
+      "intent": "quote_rfq",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 73,
+      "keyword": "custom cosmetic packaging custom quote uae",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uae",
+      "intent": "quote_rfq",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 74,
+      "keyword": "custom cosmetic packaging quote dubai",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 75,
+      "keyword": "custom cosmetic packaging quote europe",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "europe",
+      "intent": "quote_rfq",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 76,
+      "keyword": "custom cosmetic packaging quote middle east",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "middle_east",
+      "intent": "quote_rfq",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 77,
+      "keyword": "custom cosmetic packaging quote saudi arabia",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "saudi_arabia",
+      "intent": "quote_rfq",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 78,
+      "keyword": "custom cosmetic packaging quote uae",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uae",
+      "intent": "quote_rfq",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 79,
+      "keyword": "cosmetic packaging quote dubai",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "dubai",
+      "intent": "quote_rfq",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 80,
+      "keyword": "cosmetic packaging quote europe",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "europe",
+      "intent": "quote_rfq",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 81,
+      "keyword": "cosmetic packaging quote middle east",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "middle_east",
+      "intent": "quote_rfq",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 82,
+      "keyword": "cosmetic packaging quote uae",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uae",
+      "intent": "quote_rfq",
+      "validationLayer": "P2执行",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。"
+    },
+    {
+      "position": 83,
+      "keyword": "quote checklist custom cosmetic packaging",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "global",
+      "intent": "ai_buyer_question",
+      "validationLayer": "GEO测试",
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。"
+    },
+    {
+      "position": 84,
+      "keyword": "quote checklist cosmetic packaging",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "global",
+      "intent": "ai_buyer_question",
+      "validationLayer": "GEO测试",
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。"
+    },
+    {
+      "position": 85,
+      "keyword": "custom cosmetic packaging for skincare",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "global",
+      "intent": "buyer_intent",
+      "validationLayer": "P2/P3执行",
+      "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。"
+    },
+    {
+      "position": 86,
+      "keyword": "cosmetic packaging for skincare",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "global",
+      "intent": "buyer_intent",
+      "validationLayer": "P2/P3执行",
+      "nextAction": "作为页面FAQ、对比表、博客段落、社媒分发和GitHub公开资产主题。"
+    },
+    {
+      "position": 87,
+      "keyword": "custom cosmetic packaging china manufacturer canada",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 88,
+      "keyword": "custom cosmetic packaging china manufacturer uk",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 89,
+      "keyword": "custom cosmetic packaging china manufacturer united states",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 90,
+      "keyword": "custom cosmetic packaging china supplier canada",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 91,
+      "keyword": "custom cosmetic packaging china supplier uk",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 92,
+      "keyword": "custom cosmetic packaging china supplier united states",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 93,
+      "keyword": "custom cosmetic packaging factory canada",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 94,
+      "keyword": "custom cosmetic packaging factory uk",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 95,
+      "keyword": "custom cosmetic packaging factory united states",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 96,
+      "keyword": "custom cosmetic packaging manufacturer canada",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 97,
+      "keyword": "custom cosmetic packaging manufacturer uk",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 98,
+      "keyword": "custom cosmetic packaging manufacturer united states",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "united_states",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 99,
+      "keyword": "custom cosmetic packaging source factory canada",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "canada",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    },
+    {
+      "position": 100,
+      "keyword": "custom cosmetic packaging source factory uk",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "region": "uk",
+      "intent": "supplier_vetting",
+      "validationLayer": "P2交易执行",
+      "nextAction": "绑定目标页，生成或更新公开外部引用资产，并提交IndexNow。"
+    }
+  ]
+}
