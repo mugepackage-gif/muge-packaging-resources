@@ -1,3 +1,12 @@
+<!-- MUGE_CURRENT_100_HARD_VALIDATION_KEYWORDS_20260618:start -->
+## Current 100 hard-validation keywords - 2026-06-18
+- [HTML](https://mugepackage-gif.github.io/muge-packaging-resources/current-100-hard-validation-keywords-2026-06-18.html): Public 100-keyword hard-validation subset for MUGE PACKAGING SEO/GEO monitoring.
+- [Markdown](https://mugepackage-gif.github.io/muge-packaging-resources/current-100-hard-validation-keywords-2026-06-18.md): Plain-text version for AI reader discovery.
+- [JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/current-100-hard-validation-keywords-2026-06-18.json): Machine-readable keyword, target URL and validation-layer data.
+- [Jina Reader](https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/current-100-hard-validation-keywords-2026-06-18.html): AI-readable reader mirror.
+- Boundary: validation scope only; not ranking, traffic, inquiry, endorsement or natural AI recommendation proof.
+<!-- MUGE_CURRENT_100_HARD_VALIDATION_KEYWORDS_20260618:end -->
+
 <!-- MUGE_CUSTOM_PACKAGING_REGIONAL_NATURAL_QUESTION_GAP_RESPONSE_20260618:start -->
 ## Custom Packaging Regional Natural Question Gap Response - 2026-06-18
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-regional-natural-question-gap-response-2026-06-18.html

@@ -1,0 +1,1477 @@
+{
+  "generatedAt": "2026-06-18T02:13:44.462Z",
+  "generatedAtCST": "2026-06-18 10:13:44 CST",
+  "description": "Public SEO/GEO validation-scope asset mapping MUGE PACKAGING's current 100 high-frequency hard-validation keywords to official target pages, while clarifying the relationship between the 24,201-keyword universe, 300 expanded validation panel and original 23 P0/P1 hard-validation sample.",
+  "urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/current-100-hard-validation-keywords-2026-06-18.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/current-100-hard-validation-keywords-2026-06-18.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/current-100-hard-validation-keywords-2026-06-18.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/current-100-hard-validation-keywords-2026-06-18.html"
+  },
+  "byBucket": {
+    "products_overview": 20,
+    "about_supplier_identity": 1,
+    "cosmetic_packaging": 15,
+    "paper_tubes": 41,
+    "rigid_gift_boxes": 10,
+    "other": 7,
+    "pvc_pet_clear_boxes": 1,
+    "contact_buyer_questions": 5
+  },
+  "items": [
+    {
+      "current100Index": 1,
+      "keyword": "custom packaging supplier",
+      "targetUrl": "https://mugepackaging.com/products",
+      "targetBucket": "products_overview",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "交易型",
+      "score": 292,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 145，organic 6，paid 2",
+        "Perplexity引用源机会中出现同类关键词"
+      ]
+    },
+    {
+      "current100Index": 2,
+      "keyword": "custom packaging manufacturer",
+      "targetUrl": "https://mugepackaging.com/about",
+      "targetBucket": "about_supplier_identity",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "交易型",
+      "score": 280,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 75，organic 5，paid 0",
+        "Perplexity引用源机会中出现同类关键词"
+      ]
+    },
+    {
+      "current100Index": 3,
+      "keyword": "custom packaging boxes",
+      "targetUrl": "https://mugepackaging.com/products",
+      "targetBucket": "products_overview",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "主题长尾",
+      "score": 242,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 145，organic 6，paid 2",
+        "Perplexity引用源机会中出现同类关键词"
+      ]
+    },
+    {
+      "current100Index": 4,
+      "keyword": "cosmetic packaging supplier",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "targetBucket": "cosmetic_packaging",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "交易型",
+      "score": 233,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 5,
+      "keyword": "paper tube packaging supplier",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "交易型",
+      "score": 233,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 6,
+      "keyword": "how to choose cosmetic packaging supplier",
+      "targetUrl": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+      "targetBucket": "cosmetic_packaging",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "GEO问答",
+      "score": 213,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 32，organic 2，paid 0"
+      ]
+    },
+    {
+      "current100Index": 7,
+      "keyword": "paper tube vs plastic tube packaging",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "比较教育",
+      "score": 207,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 8,
+      "keyword": "luxury gift box supplier",
+      "targetUrl": "https://mugepackaging.com/products/rigid-gift-boxes",
+      "targetBucket": "rigid_gift_boxes",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "交易型",
+      "score": 203,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "Perplexity引用源机会中出现同类关键词"
+      ]
+    },
+    {
+      "current100Index": 9,
+      "keyword": "rigid box manufacturer",
+      "targetUrl": "https://mugepackaging.com/products/rigid-gift-boxes",
+      "targetBucket": "rigid_gift_boxes",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "交易型",
+      "score": 203,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "Perplexity引用源机会中出现同类关键词"
+      ]
+    },
+    {
+      "current100Index": 10,
+      "keyword": "custom packaging boxes with logo",
+      "targetUrl": "https://mugepackaging.com/products",
+      "targetBucket": "products_overview",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "主题长尾",
+      "score": 197,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 145，organic 6，paid 2"
+      ]
+    },
+    {
+      "current100Index": 11,
+      "keyword": "folding carton vs rigid box",
+      "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "targetBucket": "rigid_gift_boxes",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "比较教育",
+      "score": 197,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 89，organic 34，paid 0"
+      ]
+    },
+    {
+      "current100Index": 12,
+      "keyword": "custom cosmetic packaging",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "targetBucket": "cosmetic_packaging",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "主题长尾",
+      "score": 193,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 13,
+      "keyword": "custom gift box packaging",
+      "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "targetBucket": "rigid_gift_boxes",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "主题长尾",
+      "score": 193,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 89，organic 34，paid 0"
+      ]
+    },
+    {
+      "current100Index": 14,
+      "keyword": "custom paper tube packaging",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "主题长尾",
+      "score": 193,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 15,
+      "keyword": "custom packaging quote checklist",
+      "targetUrl": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "targetBucket": "other",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "交易型",
+      "score": 190,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 20，organic 0，paid 0"
+      ]
+    },
+    {
+      "current100Index": 16,
+      "keyword": "custom printed packaging boxes",
+      "targetUrl": "https://mugepackaging.com/products/paper-packaging",
+      "targetBucket": "other",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "主题长尾",
+      "score": 185,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 64，organic 3，paid 0"
+      ]
+    },
+    {
+      "current100Index": 17,
+      "keyword": "custom packaging quote brief template",
+      "targetUrl": "https://mugepackaging.com/blog/custom-packaging-quote-brief-template",
+      "targetBucket": "other",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "交易型",
+      "score": 170,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": []
+    },
+    {
+      "current100Index": 18,
+      "keyword": "pvc pet clear box packaging",
+      "targetUrl": "https://mugepackaging.com/products/pvc-packaging",
+      "targetBucket": "pvc_pet_clear_boxes",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "主题长尾",
+      "score": 167,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 24，organic 6，paid 0"
+      ]
+    },
+    {
+      "current100Index": 19,
+      "keyword": "eco friendly custom packaging",
+      "targetUrl": "https://mugepackaging.com/materials",
+      "targetBucket": "other",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "主题长尾",
+      "score": 152,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 32，organic 0，paid 0"
+      ]
+    },
+    {
+      "current100Index": 20,
+      "keyword": "packaging manufacturer vs trading company",
+      "targetUrl": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "targetBucket": "other",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "比较教育",
+      "score": 152,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 18，organic 0，paid 0"
+      ]
+    },
+    {
+      "current100Index": 21,
+      "keyword": "sustainable packaging",
+      "targetUrl": "https://mugepackaging.com/materials",
+      "targetBucket": "other",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "主题长尾",
+      "score": 142,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 32，organic 0，paid 0"
+      ]
+    },
+    {
+      "current100Index": 22,
+      "keyword": "custom rigid box packaging",
+      "targetUrl": "https://mugepackaging.com/products/rigid-gift-boxes",
+      "targetBucket": "rigid_gift_boxes",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "主题长尾",
+      "score": 128,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": []
+    },
+    {
+      "current100Index": 23,
+      "keyword": "custom packaging samples guide",
+      "targetUrl": "https://mugepackaging.com/sample-pack",
+      "targetBucket": "other",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "主题长尾",
+      "score": 122,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 2，organic 0，paid 0"
+      ]
+    },
+    {
+      "current100Index": 24,
+      "keyword": "custom paper tubes bulk canada",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 25,
+      "keyword": "custom paper tubes bulk dubai",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 26,
+      "keyword": "custom paper tubes bulk europe",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 27,
+      "keyword": "custom paper tubes bulk middle east",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 28,
+      "keyword": "custom paper tubes bulk saudi arabia",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 29,
+      "keyword": "custom paper tubes bulk uae",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 30,
+      "keyword": "custom paper tubes bulk uk",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 31,
+      "keyword": "custom paper tubes bulk united states",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 32,
+      "keyword": "custom paper tubes china manufacturer canada",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 33,
+      "keyword": "custom paper tubes china manufacturer dubai",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 34,
+      "keyword": "custom paper tubes china manufacturer europe",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 35,
+      "keyword": "custom paper tubes china manufacturer middle east",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 36,
+      "keyword": "custom paper tubes china manufacturer saudi arabia",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 37,
+      "keyword": "custom paper tubes china manufacturer uae",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 38,
+      "keyword": "custom paper tubes china manufacturer uk",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 39,
+      "keyword": "custom paper tubes china manufacturer united states",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 40,
+      "keyword": "custom paper tubes china supplier canada",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 41,
+      "keyword": "custom paper tubes china supplier dubai",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 42,
+      "keyword": "custom paper tubes china supplier europe",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 43,
+      "keyword": "custom paper tubes china supplier middle east",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 44,
+      "keyword": "custom paper tubes china supplier saudi arabia",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 45,
+      "keyword": "custom paper tubes china supplier uae",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 46,
+      "keyword": "custom paper tubes china supplier uk",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 47,
+      "keyword": "custom paper tubes china supplier united states",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 48,
+      "keyword": "custom paper tubes custom quote canada",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 49,
+      "keyword": "custom paper tubes custom quote dubai",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 50,
+      "keyword": "custom paper tubes custom quote europe",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 51,
+      "keyword": "custom paper tubes custom quote middle east",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 52,
+      "keyword": "custom paper tubes custom quote saudi arabia",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 53,
+      "keyword": "custom paper tubes custom quote uae",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 54,
+      "keyword": "custom paper tubes custom quote uk",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 55,
+      "keyword": "custom paper tubes custom quote united states",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 56,
+      "keyword": "gift sets custom packaging boxes supplier",
+      "targetUrl": "https://mugepackaging.com/products",
+      "targetBucket": "products_overview",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 155,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 145，organic 6，paid 2"
+      ]
+    },
+    {
+      "current100Index": 57,
+      "keyword": "gift sets custom packaging supplier",
+      "targetUrl": "https://mugepackaging.com/products",
+      "targetBucket": "products_overview",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 155,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 145，organic 6，paid 2"
+      ]
+    },
+    {
+      "current100Index": 58,
+      "keyword": "custom packaging boxes bulk canada",
+      "targetUrl": "https://mugepackaging.com/products",
+      "targetBucket": "products_overview",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 153,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 145，organic 6，paid 2"
+      ]
+    },
+    {
+      "current100Index": 59,
+      "keyword": "custom packaging boxes bulk dubai",
+      "targetUrl": "https://mugepackaging.com/products",
+      "targetBucket": "products_overview",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 153,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 145，organic 6，paid 2"
+      ]
+    },
+    {
+      "current100Index": 60,
+      "keyword": "custom packaging boxes bulk europe",
+      "targetUrl": "https://mugepackaging.com/products",
+      "targetBucket": "products_overview",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 153,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 145，organic 6，paid 2"
+      ]
+    },
+    {
+      "current100Index": 61,
+      "keyword": "custom packaging boxes bulk middle east",
+      "targetUrl": "https://mugepackaging.com/products",
+      "targetBucket": "products_overview",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 153,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 145，organic 6，paid 2"
+      ]
+    },
+    {
+      "current100Index": 62,
+      "keyword": "custom packaging boxes bulk saudi arabia",
+      "targetUrl": "https://mugepackaging.com/products",
+      "targetBucket": "products_overview",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 153,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 145，organic 6，paid 2"
+      ]
+    },
+    {
+      "current100Index": 63,
+      "keyword": "custom packaging boxes bulk uae",
+      "targetUrl": "https://mugepackaging.com/products",
+      "targetBucket": "products_overview",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 153,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 145，organic 6，paid 2"
+      ]
+    },
+    {
+      "current100Index": 64,
+      "keyword": "custom packaging boxes bulk uk",
+      "targetUrl": "https://mugepackaging.com/products",
+      "targetBucket": "products_overview",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 153,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 145，organic 6，paid 2"
+      ]
+    },
+    {
+      "current100Index": 65,
+      "keyword": "custom packaging boxes bulk united states",
+      "targetUrl": "https://mugepackaging.com/products",
+      "targetBucket": "products_overview",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 153,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 145，organic 6，paid 2"
+      ]
+    },
+    {
+      "current100Index": 66,
+      "keyword": "custom packaging boxes china manufacturer canada",
+      "targetUrl": "https://mugepackaging.com/products",
+      "targetBucket": "products_overview",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 153,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 145，organic 6，paid 2"
+      ]
+    },
+    {
+      "current100Index": 67,
+      "keyword": "custom packaging boxes china manufacturer dubai",
+      "targetUrl": "https://mugepackaging.com/products",
+      "targetBucket": "products_overview",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 153,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 145，organic 6，paid 2"
+      ]
+    },
+    {
+      "current100Index": 68,
+      "keyword": "custom packaging boxes china manufacturer europe",
+      "targetUrl": "https://mugepackaging.com/products",
+      "targetBucket": "products_overview",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 153,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 145，organic 6，paid 2"
+      ]
+    },
+    {
+      "current100Index": 69,
+      "keyword": "custom packaging boxes china manufacturer middle east",
+      "targetUrl": "https://mugepackaging.com/products",
+      "targetBucket": "products_overview",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 153,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 145，organic 6，paid 2"
+      ]
+    },
+    {
+      "current100Index": 70,
+      "keyword": "custom packaging boxes china manufacturer saudi arabia",
+      "targetUrl": "https://mugepackaging.com/products",
+      "targetBucket": "products_overview",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 153,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 145，organic 6，paid 2"
+      ]
+    },
+    {
+      "current100Index": 71,
+      "keyword": "custom packaging boxes china manufacturer uae",
+      "targetUrl": "https://mugepackaging.com/products",
+      "targetBucket": "products_overview",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 153,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 145，organic 6，paid 2"
+      ]
+    },
+    {
+      "current100Index": 72,
+      "keyword": "custom packaging boxes china manufacturer uk",
+      "targetUrl": "https://mugepackaging.com/products",
+      "targetBucket": "products_overview",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 153,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 145，organic 6，paid 2"
+      ]
+    },
+    {
+      "current100Index": 73,
+      "keyword": "beauty brands custom paper tubes supplier",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "targetBucket": "cosmetic_packaging",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 168,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 74,
+      "keyword": "cosmetics custom paper tubes supplier",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "targetBucket": "cosmetic_packaging",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 168,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 75,
+      "keyword": "makeup custom paper tubes supplier",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "targetBucket": "cosmetic_packaging",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 168,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 76,
+      "keyword": "perfume custom paper tubes supplier",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "targetBucket": "cosmetic_packaging",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 168,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 77,
+      "keyword": "skincare custom paper tubes supplier",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "targetBucket": "cosmetic_packaging",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 168,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 78,
+      "keyword": "how to compare packaging for cosmetics",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "targetBucket": "cosmetic_packaging",
+      "validationLayer": "GEO_AI扩展验收",
+      "class": "GEO问答",
+      "score": 156,
+      "validationMode": "Perplexity/AI问答提及 + GSC查询词 + 必要时SERP复验",
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 79,
+      "keyword": "how to compare packaging for skincare",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "targetBucket": "cosmetic_packaging",
+      "validationLayer": "GEO_AI扩展验收",
+      "class": "GEO问答",
+      "score": 156,
+      "validationMode": "Perplexity/AI问答提及 + GSC查询词 + 必要时SERP复验",
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 80,
+      "keyword": "cosmetic packaging custom quote canada",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "targetBucket": "cosmetic_packaging",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 81,
+      "keyword": "cosmetic packaging custom quote dubai",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "targetBucket": "cosmetic_packaging",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 82,
+      "keyword": "cosmetic packaging custom quote europe",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "targetBucket": "cosmetic_packaging",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 83,
+      "keyword": "cosmetic packaging custom quote middle east",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "targetBucket": "cosmetic_packaging",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 84,
+      "keyword": "cosmetic packaging custom quote saudi arabia",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "targetBucket": "cosmetic_packaging",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 85,
+      "keyword": "gift box packaging custom quote canada",
+      "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "targetBucket": "rigid_gift_boxes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 89，organic 34，paid 0"
+      ]
+    },
+    {
+      "current100Index": 86,
+      "keyword": "gift box packaging custom quote dubai",
+      "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "targetBucket": "rigid_gift_boxes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 89，organic 34，paid 0"
+      ]
+    },
+    {
+      "current100Index": 87,
+      "keyword": "gift box packaging custom quote europe",
+      "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "targetBucket": "rigid_gift_boxes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 89，organic 34，paid 0"
+      ]
+    },
+    {
+      "current100Index": 88,
+      "keyword": "gift box packaging custom quote middle east",
+      "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "targetBucket": "rigid_gift_boxes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 89，organic 34，paid 0"
+      ]
+    },
+    {
+      "current100Index": 89,
+      "keyword": "gift box packaging custom quote saudi arabia",
+      "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "targetBucket": "rigid_gift_boxes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 149,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 89，organic 34，paid 0"
+      ]
+    },
+    {
+      "current100Index": 90,
+      "keyword": "how to compare packaging for gift sets",
+      "targetUrl": "https://mugepackaging.com/contact",
+      "targetBucket": "contact_buyer_questions",
+      "validationLayer": "GEO_AI扩展验收",
+      "class": "GEO问答",
+      "score": 143,
+      "validationMode": "Perplexity/AI问答提及 + GSC查询词 + 必要时SERP复验",
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 95，organic 0，paid 13"
+      ]
+    },
+    {
+      "current100Index": 91,
+      "keyword": "how to compare packaging for european brands",
+      "targetUrl": "https://mugepackaging.com/contact",
+      "targetBucket": "contact_buyer_questions",
+      "validationLayer": "GEO_AI扩展验收",
+      "class": "GEO问答",
+      "score": 141,
+      "validationMode": "Perplexity/AI问答提及 + GSC查询词 + 必要时SERP复验",
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 95，organic 0，paid 13"
+      ]
+    },
+    {
+      "current100Index": 92,
+      "keyword": "how to compare packaging for middle east brands",
+      "targetUrl": "https://mugepackaging.com/contact",
+      "targetBucket": "contact_buyer_questions",
+      "validationLayer": "GEO_AI扩展验收",
+      "class": "GEO问答",
+      "score": 141,
+      "validationMode": "Perplexity/AI问答提及 + GSC查询词 + 必要时SERP复验",
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 95，organic 0，paid 13"
+      ]
+    },
+    {
+      "current100Index": 93,
+      "keyword": "how to compare packaging for uk brands",
+      "targetUrl": "https://mugepackaging.com/contact",
+      "targetBucket": "contact_buyer_questions",
+      "validationLayer": "GEO_AI扩展验收",
+      "class": "GEO问答",
+      "score": 141,
+      "validationMode": "Perplexity/AI问答提及 + GSC查询词 + 必要时SERP复验",
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 95，organic 0，paid 13"
+      ]
+    },
+    {
+      "current100Index": 94,
+      "keyword": "how to compare packaging design service",
+      "targetUrl": "https://mugepackaging.com/contact",
+      "targetBucket": "contact_buyer_questions",
+      "validationLayer": "GEO_AI扩展验收",
+      "class": "GEO问答",
+      "score": 135,
+      "validationMode": "Perplexity/AI问答提及 + GSC查询词 + 必要时SERP复验",
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 95，organic 0，paid 13"
+      ]
+    },
+    {
+      "current100Index": 95,
+      "keyword": "custom paper tubes exporter canada",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 96,
+      "keyword": "custom paper tubes exporter dubai",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 97,
+      "keyword": "custom paper tubes exporter europe",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 98,
+      "keyword": "custom paper tubes exporter middle east",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 99,
+      "keyword": "custom paper tubes exporter saudi arabia",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 100,
+      "keyword": "custom paper tubes exporter uae",
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "targetBucket": "paper_tubes",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "validationMode": "GSC查询词 + Google SERP前20 + Perplexity/AI提及",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    }
+  ],
+  "claimBoundaries": [
+    "This page is a validation-scope and source-discovery asset only.",
+    "It is not ranking proof, traffic proof, inquiry proof, AI answer inclusion proof, endorsement or verified-supplier proof.",
+    "It does not state fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, food-contact status or regulatory compliance guarantee."
+  ]
+}
