@@ -67,7 +67,7 @@ Before requesting a quote, buyers should prepare:
 - Sales channel and destination market.
 - Artwork status and surface finish direction.
 - Closure style, insert requirement and packing method.
-- Target quantity range for review, without assuming fixed MOQ.
+- Target quantity range for review, without assuming preset order minimum.
 
 ### 4. Comparing supplier types
 
@@ -86,6 +86,6 @@ When comparing a source factory, trading company or platform seller, buyers shou
 
 This page is a public source path and buyer education asset.
 
-It is not proof of Google ranking, organic traffic, AI answer inclusion, third-party endorsement, verified supplier status, certification, fixed MOQ, fixed lead time, lowest price, customer cases, food-contact approval or regulated-market compliance.
+It is not proof of Google ranking, organic traffic, AI answer inclusion, third-party endorsement, platform-badge status, certification, preset order minimum, preset delivery schedule, cheapest-offer claim, named buyer examples, product-contact approval or regulated-market approval.
 
 Project details must be reviewed before quotation, sampling or production planning.
