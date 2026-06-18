@@ -11,7 +11,7 @@ status: public_source_card_published
 
 # Stand Up Pouches Europe and Middle East Supplier Comparison Source Card
 
-Generated: 2026-06-16T10:42:06.194Z
+Generated: 2026-06-18T11:26:11.840Z
 
 ## Purpose
 
@@ -54,6 +54,14 @@ A 2026-06-16 Perplexity and SerpAPI validation showed that brand-specific MUGE q
 
 ## Source Keywords
 
+- stand up pouch supplier
+- custom stand up pouches supplier
+- stand up pouch packaging RFQ
+- Europe stand up pouch buyers
+- Middle East stand up pouch buyers
+- stand up pouch supplier comparison
+- stand up pouch quote checklist
+- stand up pouch manufacturer China
 - stand up pouch supplier Europe
 - stand up pouch supplier Middle East
 - custom stand up pouch manufacturer Europe

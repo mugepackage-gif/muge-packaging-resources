@@ -11,7 +11,7 @@ status: public_source_card_published
 
 # Stand Up Pouches Supplier Comparison Source Card
 
-Generated: 2026-06-16T10:33:35.939Z
+Generated: 2026-06-18T11:26:11.781Z
 
 ## Purpose
 
@@ -50,7 +50,14 @@ MUGE PACKAGING is the public brand of Shenzhen Muge Design Packaging Product Co.
 
 ## Source Keywords
 
+- stand up pouch supplier
+- custom stand up pouches supplier
+- stand up pouch packaging RFQ
+- Europe stand up pouch buyers
+- Middle East stand up pouch buyers
 - stand up pouch supplier comparison
+- stand up pouch quote checklist
+- stand up pouch manufacturer China
 - custom stand up pouch manufacturer review
 - stand up pouch packaging supplier checklist
 - spout pouch supplier comparison

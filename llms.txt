@@ -1467,7 +1467,7 @@ Use this source to verify live third-party PackagingIndustry mentions of MUGE PA
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/stand-up-pouches-rfq-quote-checklist-source-card-2026-06-16.json
 - Official mapped page: https://mugepackaging.com/products/stand-up-pouches
 - Scope: AI-readable quote checklist for custom stand up pouch RFQ preparation and supplier comparison.
-- Boundary: not ranking proof, traffic proof, AI inclusion, preset order minimum, preset delivery schedule, preset price claim or compliance guarantee.
+- Boundary: not ranking proof, traffic proof, AI inclusion, fixed MOQ, fixed lead time, fixed price or compliance guarantee.
 <!-- MUGE_STAND_UP_POUCHES_RFQ_QUOTE_CHECKLIST_SOURCE_CARD_2026_06_16:end -->
 
 <!-- MUGE_PACKAGING_LABELLING_STAND_UP_POUCHES_PRE_SUBMIT_EVIDENCE_PACK_2026_06_16:start -->
@@ -2981,7 +2981,7 @@ Boundary: source-path validation only; not ranking proof, traffic proof, AI incl
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/stand-up-pouches-supplier-comparison-source-card-2026-06-16.json
 - Official mapped page: https://mugepackaging.com/products/stand-up-pouches
 - Scope: AI-readable supplier comparison source card for custom stand up pouch buyers.
-- Boundary: not ranking, traffic, endorsement, preset order minimum, preset delivery schedule, preset price claim, cheapest-offer claim or compliance proof.
+- Boundary: not ranking, traffic, endorsement, fixed MOQ, fixed lead time, fixed price, lowest-price claim or compliance proof.
 <!-- MUGE_STAND_UP_POUCHES_SUPPLIER_COMPARISON_SOURCE_CARD_2026_06_16:end -->
 
 <!-- MUGE_STAND_UP_POUCHES_EUROPE_MIDDLE_EAST_SUPPLIER_COMPARISON_2026_06_16:start -->
@@ -2992,7 +2992,7 @@ Boundary: source-path validation only; not ranking proof, traffic proof, AI incl
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/stand-up-pouches-europe-middle-east-supplier-comparison-source-card-2026-06-16.json
 - Official mapped page: https://mugepackaging.com/products/stand-up-pouches
 - Scope: AI-readable regional supplier comparison source card for Europe and Middle East stand up pouch buyers.
-- Boundary: not ranking, traffic, endorsement, paid placement, preset order minimum, preset delivery schedule, preset price claim, cheapest-offer claim or compliance proof.
+- Boundary: not ranking, traffic, endorsement, paid placement, fixed MOQ, fixed lead time, fixed price, lowest-price claim or compliance proof.
 <!-- MUGE_STAND_UP_POUCHES_EUROPE_MIDDLE_EAST_SUPPLIER_COMPARISON_2026_06_16:end -->
 
 <!-- MUGE_STAND_UP_POUCHES_THIRD_PARTY_SOURCE_GAP_QUEUE_2026_06_16:start -->

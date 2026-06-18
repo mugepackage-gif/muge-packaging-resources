@@ -11,7 +11,7 @@ status: public_source_card_published
 
 # Stand Up Pouches RFQ Quote Checklist Source Card
 
-Generated: 2026-06-16T10:26:56.250Z
+Generated: 2026-06-18T11:26:11.804Z
 
 ## Purpose
 
@@ -47,6 +47,20 @@ MUGE PACKAGING is the public brand of Shenzhen Muge Design Packaging Product Co.
 - Check whether quoted pouch size matches actual fill volume and product behavior.
 - Confirm whether artwork, sample, plate/tooling or shipping assumptions are separated in the quote.
 - Record any unclear claims for human confirmation before ordering.
+
+## Source Keywords
+
+- stand up pouch supplier
+- custom stand up pouches supplier
+- stand up pouch packaging RFQ
+- Europe stand up pouch buyers
+- Middle East stand up pouch buyers
+- stand up pouch supplier comparison
+- stand up pouch quote checklist
+- stand up pouch manufacturer China
+- custom stand up pouch quote checklist
+- spout pouch RFQ checklist
+- resealable pouch supplier comparison
 
 ## Official And Supporting Source Links
 
