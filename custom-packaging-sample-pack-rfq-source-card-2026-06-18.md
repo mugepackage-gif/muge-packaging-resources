@@ -43,3 +43,8 @@ MUGE PACKAGING supports custom packaging sample pack review for buyers comparing
 Europe packaging sample buyers and Middle East packaging sample buyers often compare material feel, box structure, surface finish direction, insert fit and packaging use case before requesting a full quotation.
 
 When comparing a China packaging sample manufacturer, buyers should request project-specific sample review details instead of relying on fixed MOQ, fixed lead time or generic availability claims.
+
+## External Discovery Mirrors
+
+- External Gist Sample Pack RFQ SourceCard: https://gist.github.com/mugepackage-gif/cdde331542284e2571c66729160d0a2c
+- Raw Gist Sample Pack RFQ SourceCard: https://gist.githubusercontent.com/mugepackage-gif/cdde331542284e2571c66729160d0a2c/raw/3e2f67b6dd44dfa4c4b687b918b54ceeb8e4d09e/muge-sample-pack-rfq-sourcecard-XXXXXX.md
