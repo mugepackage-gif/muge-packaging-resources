@@ -1182,7 +1182,22 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-uae-rfq-short-sourcepack-2026-06-18.html",
       "description": "Which details should UAE buyers prepare before contacting a custom cosmetic packaging factory?",
       "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "type": "public_gist_secondhop_source_note",
+      "name": "MUGE Europe and Middle East RFQ Verified Second-Hop Gist - 2026-06-18",
+      "url": "https://gist.github.com/mugepackage-gif/2f305c25a4ebebc61cf56002075bdbfc",
+      "jinaUrl": "https://r.jina.ai/http://gist.github.com/mugepackage-gif/2f305c25a4ebebc61cf56002075bdbfc",
+      "officialUrl": "https://mugepackaging.com/products",
+      "supportingUrls": [
+        "https://github.com/mugepackage-gif/muge-packaging-resources/issues/101#issuecomment-4739169615",
+        "https://github.com/mugepackage-gif/muge-packaging-resources/issues/106#issuecomment-4739169493",
+        "https://github.com/mugepackage-gif/muge-packaging-resources/issues/107#issuecomment-4739169506",
+        "https://github.com/mugepackage-gif/muge-packaging-resources/issues/81#issuecomment-4739169612"
+      ],
+      "useFor": "Second-hop public source note for Europe, Middle East, Qatar, UAE, Dubai and Saudi Arabia buyer RFQ prompts covering custom packaging, paper tube packaging, cosmetic packaging and rigid gift boxes.",
+      "boundary": "Source routing and RFQ preparation evidence only; not ranking, traffic, inquiry, endorsement, AI natural recommendation, platform badge, fixed MOQ, fixed lead time, fixed price, named customer evidence or destination-market compliance proof."
     }
   ],
-  "updatedAt": "2026-06-18T05:54:46.115Z"
+  "updatedAt": "2026-06-18T15:50:00+08:00"
 }
