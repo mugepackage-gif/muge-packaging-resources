@@ -1,0 +1,796 @@
+{
+  "asset": "paper-tubes-current-41-hard-validation-rfq-source-map-2026-06-18",
+  "marker": "MUGE_PAPER_TUBES_CURRENT_41_HARD_VALIDATION_RFQ_SOURCE_MAP_20260618",
+  "generatedAt": "2026-06-18T02:27:05.618Z",
+  "sourceKeywordSubset": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/关键词策略/当前100硬验收关键词/MUGE_SEO_GEO_当前100硬验收关键词子集.json",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "brand": "MUGE PACKAGING",
+  "officialTargetUrl": "https://mugepackaging.com/products/paper-tubes",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-current-41-hard-validation-rfq-source-map-2026-06-18.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-current-41-hard-validation-rfq-source-map-2026-06-18.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-current-41-hard-validation-rfq-source-map-2026-06-18.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-current-41-hard-validation-rfq-source-map-2026-06-18.html"
+  },
+  "count": 41,
+  "boundary": "Source-discovery and RFQ-preparation asset only; not proof of Google ranking, traffic, inquiry, endorsement, platform certification, or natural AI recommendation. Commercial terms require manual confirmation.",
+  "targetRegions": [
+    "Global",
+    "Canada",
+    "Dubai",
+    "Europe",
+    "Middle East",
+    "Saudi Arabia",
+    "UAE",
+    "UK",
+    "United States"
+  ],
+  "buyerChecklist": [
+    "Product diameter and height",
+    "Product weight and protection needs",
+    "Cap / closure style",
+    "Artwork readiness and brand color references",
+    "Surface finish reference",
+    "Insert, liner or inner support request",
+    "Quantity direction for sampling and bulk review",
+    "Destination market",
+    "Packing, channel and document request"
+  ],
+  "keywords": [
+    {
+      "current100Index": 5,
+      "keyword": "paper tube packaging supplier",
+      "region": "Global",
+      "intent": "supplier vetting",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "交易型",
+      "score": 233,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 7,
+      "keyword": "paper tube vs plastic tube packaging",
+      "region": "Global",
+      "intent": "comparison education",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "比较教育",
+      "score": 207,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 14,
+      "keyword": "custom paper tube packaging",
+      "region": "Global",
+      "intent": "custom packaging sourcing",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "主题长尾",
+      "score": 193,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 24,
+      "keyword": "custom paper tubes bulk canada",
+      "region": "Canada",
+      "intent": "bulk sourcing",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 25,
+      "keyword": "custom paper tubes bulk dubai",
+      "region": "Dubai",
+      "intent": "bulk sourcing",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 26,
+      "keyword": "custom paper tubes bulk europe",
+      "region": "Europe",
+      "intent": "bulk sourcing",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 27,
+      "keyword": "custom paper tubes bulk middle east",
+      "region": "Middle East",
+      "intent": "bulk sourcing",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 28,
+      "keyword": "custom paper tubes bulk saudi arabia",
+      "region": "Saudi Arabia",
+      "intent": "bulk sourcing",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 29,
+      "keyword": "custom paper tubes bulk uae",
+      "region": "UAE",
+      "intent": "bulk sourcing",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 30,
+      "keyword": "custom paper tubes bulk uk",
+      "region": "UK",
+      "intent": "bulk sourcing",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 31,
+      "keyword": "custom paper tubes bulk united states",
+      "region": "United States",
+      "intent": "bulk sourcing",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 32,
+      "keyword": "custom paper tubes china manufacturer canada",
+      "region": "Canada",
+      "intent": "China manufacturer comparison",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 33,
+      "keyword": "custom paper tubes china manufacturer dubai",
+      "region": "Dubai",
+      "intent": "China manufacturer comparison",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 34,
+      "keyword": "custom paper tubes china manufacturer europe",
+      "region": "Europe",
+      "intent": "China manufacturer comparison",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 35,
+      "keyword": "custom paper tubes china manufacturer middle east",
+      "region": "Middle East",
+      "intent": "China manufacturer comparison",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 36,
+      "keyword": "custom paper tubes china manufacturer saudi arabia",
+      "region": "Saudi Arabia",
+      "intent": "China manufacturer comparison",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 37,
+      "keyword": "custom paper tubes china manufacturer uae",
+      "region": "UAE",
+      "intent": "China manufacturer comparison",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 38,
+      "keyword": "custom paper tubes china manufacturer uk",
+      "region": "UK",
+      "intent": "China manufacturer comparison",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 39,
+      "keyword": "custom paper tubes china manufacturer united states",
+      "region": "United States",
+      "intent": "China manufacturer comparison",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 40,
+      "keyword": "custom paper tubes china supplier canada",
+      "region": "Canada",
+      "intent": "China supplier comparison",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 41,
+      "keyword": "custom paper tubes china supplier dubai",
+      "region": "Dubai",
+      "intent": "China supplier comparison",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 42,
+      "keyword": "custom paper tubes china supplier europe",
+      "region": "Europe",
+      "intent": "China supplier comparison",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 43,
+      "keyword": "custom paper tubes china supplier middle east",
+      "region": "Middle East",
+      "intent": "China supplier comparison",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 44,
+      "keyword": "custom paper tubes china supplier saudi arabia",
+      "region": "Saudi Arabia",
+      "intent": "China supplier comparison",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 45,
+      "keyword": "custom paper tubes china supplier uae",
+      "region": "UAE",
+      "intent": "China supplier comparison",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 46,
+      "keyword": "custom paper tubes china supplier uk",
+      "region": "UK",
+      "intent": "China supplier comparison",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 47,
+      "keyword": "custom paper tubes china supplier united states",
+      "region": "United States",
+      "intent": "China supplier comparison",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 48,
+      "keyword": "custom paper tubes custom quote canada",
+      "region": "Canada",
+      "intent": "custom quote / RFQ",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 49,
+      "keyword": "custom paper tubes custom quote dubai",
+      "region": "Dubai",
+      "intent": "custom quote / RFQ",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 50,
+      "keyword": "custom paper tubes custom quote europe",
+      "region": "Europe",
+      "intent": "custom quote / RFQ",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 51,
+      "keyword": "custom paper tubes custom quote middle east",
+      "region": "Middle East",
+      "intent": "custom quote / RFQ",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 52,
+      "keyword": "custom paper tubes custom quote saudi arabia",
+      "region": "Saudi Arabia",
+      "intent": "custom quote / RFQ",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 53,
+      "keyword": "custom paper tubes custom quote uae",
+      "region": "UAE",
+      "intent": "custom quote / RFQ",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 54,
+      "keyword": "custom paper tubes custom quote uk",
+      "region": "UK",
+      "intent": "custom quote / RFQ",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 55,
+      "keyword": "custom paper tubes custom quote united states",
+      "region": "United States",
+      "intent": "custom quote / RFQ",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 95,
+      "keyword": "custom paper tubes exporter canada",
+      "region": "Canada",
+      "intent": "exporter / cross-border sourcing",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 96,
+      "keyword": "custom paper tubes exporter dubai",
+      "region": "Dubai",
+      "intent": "exporter / cross-border sourcing",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 97,
+      "keyword": "custom paper tubes exporter europe",
+      "region": "Europe",
+      "intent": "exporter / cross-border sourcing",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 98,
+      "keyword": "custom paper tubes exporter middle east",
+      "region": "Middle East",
+      "intent": "exporter / cross-border sourcing",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 99,
+      "keyword": "custom paper tubes exporter saudi arabia",
+      "region": "Saudi Arabia",
+      "intent": "exporter / cross-border sourcing",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    },
+    {
+      "current100Index": 100,
+      "keyword": "custom paper tubes exporter uae",
+      "region": "UAE",
+      "intent": "exporter / cross-border sourcing",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 174,
+      "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 110，organic 39，paid 0"
+      ]
+    }
+  ],
+  "grouped": {
+    "Global": {
+      "supplier vetting": [
+        "paper tube packaging supplier"
+      ],
+      "comparison education": [
+        "paper tube vs plastic tube packaging"
+      ],
+      "custom packaging sourcing": [
+        "custom paper tube packaging"
+      ]
+    },
+    "Canada": {
+      "bulk sourcing": [
+        "custom paper tubes bulk canada"
+      ],
+      "China manufacturer comparison": [
+        "custom paper tubes china manufacturer canada"
+      ],
+      "China supplier comparison": [
+        "custom paper tubes china supplier canada"
+      ],
+      "custom quote / RFQ": [
+        "custom paper tubes custom quote canada"
+      ],
+      "exporter / cross-border sourcing": [
+        "custom paper tubes exporter canada"
+      ]
+    },
+    "Dubai": {
+      "bulk sourcing": [
+        "custom paper tubes bulk dubai"
+      ],
+      "China manufacturer comparison": [
+        "custom paper tubes china manufacturer dubai"
+      ],
+      "China supplier comparison": [
+        "custom paper tubes china supplier dubai"
+      ],
+      "custom quote / RFQ": [
+        "custom paper tubes custom quote dubai"
+      ],
+      "exporter / cross-border sourcing": [
+        "custom paper tubes exporter dubai"
+      ]
+    },
+    "Europe": {
+      "bulk sourcing": [
+        "custom paper tubes bulk europe"
+      ],
+      "China manufacturer comparison": [
+        "custom paper tubes china manufacturer europe"
+      ],
+      "China supplier comparison": [
+        "custom paper tubes china supplier europe"
+      ],
+      "custom quote / RFQ": [
+        "custom paper tubes custom quote europe"
+      ],
+      "exporter / cross-border sourcing": [
+        "custom paper tubes exporter europe"
+      ]
+    },
+    "Middle East": {
+      "bulk sourcing": [
+        "custom paper tubes bulk middle east"
+      ],
+      "China manufacturer comparison": [
+        "custom paper tubes china manufacturer middle east"
+      ],
+      "China supplier comparison": [
+        "custom paper tubes china supplier middle east"
+      ],
+      "custom quote / RFQ": [
+        "custom paper tubes custom quote middle east"
+      ],
+      "exporter / cross-border sourcing": [
+        "custom paper tubes exporter middle east"
+      ]
+    },
+    "Saudi Arabia": {
+      "bulk sourcing": [
+        "custom paper tubes bulk saudi arabia"
+      ],
+      "China manufacturer comparison": [
+        "custom paper tubes china manufacturer saudi arabia"
+      ],
+      "China supplier comparison": [
+        "custom paper tubes china supplier saudi arabia"
+      ],
+      "custom quote / RFQ": [
+        "custom paper tubes custom quote saudi arabia"
+      ],
+      "exporter / cross-border sourcing": [
+        "custom paper tubes exporter saudi arabia"
+      ]
+    },
+    "UAE": {
+      "bulk sourcing": [
+        "custom paper tubes bulk uae"
+      ],
+      "China manufacturer comparison": [
+        "custom paper tubes china manufacturer uae"
+      ],
+      "China supplier comparison": [
+        "custom paper tubes china supplier uae"
+      ],
+      "custom quote / RFQ": [
+        "custom paper tubes custom quote uae"
+      ],
+      "exporter / cross-border sourcing": [
+        "custom paper tubes exporter uae"
+      ]
+    },
+    "UK": {
+      "bulk sourcing": [
+        "custom paper tubes bulk uk"
+      ],
+      "China manufacturer comparison": [
+        "custom paper tubes china manufacturer uk"
+      ],
+      "China supplier comparison": [
+        "custom paper tubes china supplier uk"
+      ],
+      "custom quote / RFQ": [
+        "custom paper tubes custom quote uk"
+      ]
+    },
+    "United States": {
+      "bulk sourcing": [
+        "custom paper tubes bulk united states"
+      ],
+      "China manufacturer comparison": [
+        "custom paper tubes china manufacturer united states"
+      ],
+      "China supplier comparison": [
+        "custom paper tubes china supplier united states"
+      ],
+      "custom quote / RFQ": [
+        "custom paper tubes custom quote united states"
+      ]
+    }
+  }
+}

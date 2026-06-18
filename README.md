@@ -1,3 +1,13 @@
+<!-- MUGE_PAPER_TUBES_CURRENT_41_HARD_VALIDATION_RFQ_SOURCE_MAP_20260618:start -->
+## Paper Tubes Current 41 Hard-Validation RFQ Source Map - 2026-06-18
+- [HTML](https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-current-41-hard-validation-rfq-source-map-2026-06-18.html): Current 41 paper tube packaging validation and RFQ source map.
+- [Markdown](https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-current-41-hard-validation-rfq-source-map-2026-06-18.md): Plain-text version for AI reader discovery.
+- [JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-current-41-hard-validation-rfq-source-map-2026-06-18.json): Machine-readable keyword, region, intent and target URL data.
+- [Jina Reader](https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-current-41-hard-validation-rfq-source-map-2026-06-18.html): AI-readable reader mirror.
+- Official target page: https://mugepackaging.com/products/paper-tubes
+- Boundary: Source-discovery and RFQ-preparation asset only; not proof of Google ranking, traffic, inquiry, endorsement, platform certification, or natural AI recommendation. Commercial terms require manual confirmation.
+<!-- MUGE_PAPER_TUBES_CURRENT_41_HARD_VALIDATION_RFQ_SOURCE_MAP_20260618:end -->
+
 <!-- MUGE_CURRENT_100_HARD_VALIDATION_KEYWORDS_20260618:start -->
 ## Current 100 hard-validation keywords - 2026-06-18
 - [HTML](https://mugepackage-gif.github.io/muge-packaging-resources/current-100-hard-validation-keywords-2026-06-18.html): Public 100-keyword hard-validation subset for MUGE PACKAGING SEO/GEO monitoring.
