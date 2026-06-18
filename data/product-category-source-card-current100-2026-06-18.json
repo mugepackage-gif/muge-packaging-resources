@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2026-06-18T05:27:00.000Z",
+  "publishedDate": "2026-06-18",
+  "title": "MUGE PACKAGING Product Category Source Card",
+  "description": "Short official source map for MUGE PACKAGING product-category pages and the current SEO/GEO validation scope.",
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "officialWebsite": "https://mugepackaging.com",
+    "productHub": "https://mugepackaging.com/products"
+  },
+  "keywordScope": {
+    "fullKeywordUniverse": 24201,
+    "rollingExecutionQueue": 800,
+    "aiBuyerQuestionValidationSet": 300,
+    "currentHardValidationSubset": 100,
+    "originalP0P1CoreSample": 23
+  },
+  "officialPages": [
+    {
+      "buyerNeed": "Custom packaging boxes and product categories",
+      "url": "https://mugepackaging.com/products"
+    },
+    {
+      "buyerNeed": "Custom paper tube packaging",
+      "url": "https://mugepackaging.com/products/paper-tubes"
+    },
+    {
+      "buyerNeed": "Custom cosmetic packaging",
+      "url": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "buyerNeed": "Rigid gift boxes and gift packaging",
+      "url": "https://mugepackaging.com/products/rigid-gift-boxes"
+    },
+    {
+      "buyerNeed": "PVC/PET clear boxes",
+      "url": "https://mugepackaging.com/products/pvc-packaging"
+    },
+    {
+      "buyerNeed": "Paper packaging and printed boxes",
+      "url": "https://mugepackaging.com/products/paper-packaging"
+    }
+  ],
+  "buyerIntentClusters": [
+    "custom packaging supplier",
+    "custom packaging manufacturer",
+    "custom packaging boxes",
+    "cosmetic packaging supplier",
+    "custom cosmetic packaging",
+    "paper tube packaging supplier",
+    "custom paper tube packaging",
+    "rigid box manufacturer",
+    "luxury gift box supplier",
+    "custom gift box packaging",
+    "PVC/PET clear box packaging",
+    "custom packaging quote checklist",
+    "packaging manufacturer vs trading company",
+    "regional buyer searches for the United States, United Kingdom, Europe, Canada, Dubai, UAE, Saudi Arabia and the Middle East"
+  ],
+  "claimBoundaries": [
+    "Public source-discovery and validation-scope card only.",
+    "Not proof of Google ranking, traffic, inquiry volume, third-party endorsement, platform badge status or AI natural recommendation.",
+    "Does not state fixed MOQ, fixed lead time, fixed price, customer cases, food-contact status or regulated-market approval."
+  ]
+}
+
