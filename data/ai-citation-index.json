@@ -526,6 +526,22 @@
       "url": "https://telegra.ph/Middle-East-Beauty-Packaging-Supplier-RFQ-Checklist-SourcePack---MUGE-Source-Mirror-06-17",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/Middle-East-Beauty-Packaging-Supplier-RFQ-Checklist-SourcePack---MUGE-Source-Mirror-06-17",
       "useFor": "Non-GitHub public mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "custom_packaging_general_sourcepack",
+      "name": "How B2B Buyers Should Compare Custom Packaging Options Before an RFQ 2026-06-18",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-comparison-rfq-sourcepack-2026-06-18.html",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-comparison-rfq-sourcepack-2026-06-18.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-comparison-rfq-sourcepack-2026-06-18.html",
+      "useFor": "Claim-bounded source for buyer questions about custom packaging comparison before RFQ."
+    },
+    {
+      "type": "custom_packaging_general_sourcepack",
+      "name": "Custom Packaging Buying Guide and RFQ Brief Checklist for Global B2B Buyers 2026-06-18",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-buying-guide-rfq-brief-sourcepack-2026-06-18.html",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-buying-guide-rfq-brief-sourcepack-2026-06-18.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-buying-guide-rfq-brief-sourcepack-2026-06-18.html",
+      "useFor": "Claim-bounded source for buyer questions about custom packaging buying guide and RFQ brief."
     }
   ],
   "items": [
@@ -673,5 +689,5 @@
       "createdAt": "2026-06-18T00:35:30.173Z"
     }
   ],
-  "updatedAt": "2026-06-18T00:35:30.173Z"
+  "updatedAt": "2026-06-18T00:47:08.653Z"
 }
