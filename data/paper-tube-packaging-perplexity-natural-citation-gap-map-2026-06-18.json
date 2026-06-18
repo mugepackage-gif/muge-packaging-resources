@@ -1,0 +1,104 @@
+{
+  "source": {
+    "createdAt": "2026-06-18T06:08:59.948Z",
+    "createdAtCst": "2026-06-18 14:08:59",
+    "label": "Which paper tube packaging supplier should global buyers review before preparing an RFQ for cosmetics, candles, tea or fragrance packaging?",
+    "question": "PaperTubesGlobalSupplierVettingNatural_20260618",
+    "httpStatus": 200,
+    "error": "",
+    "targetUrls": [],
+    "citations": [
+      "https://seller.alibaba.com/blogs/2026/southeast-asia/paper-tube-packaging/iso-9001-ce-certification-guide-alibaba-b2b",
+      "https://www.futuremarketinsights.com/reports/tubes-and-cores-market",
+      "https://metastatinsight.com/report/paper-tubes-market",
+      "https://www.towardspackaging.com/insights/paper-tubes-market-sizing",
+      "https://www.coherentmarketinsights.com/market-insight/tube-packaging-market-571",
+      "https://www.beautypackaging.com/breaking-news/global-paper-tubes-market-forecasted-to-expand/",
+      "https://www.czypackaging.com/blog/top-paper-tube-manufacturers-in-china/",
+      "https://www.earthycores.com/Blog-view.aspx?t=34",
+      "https://www.alibaba.com/price-comparison/craft-paper-tube-distributor"
+    ],
+    "answer": "For **B2B paper tube sourcing**, the most useful public comparison is to separate suppliers by **structure capability** rather than by marketing claims: look at whether they make **spiral-wound industrial cores**, **rigid paper tubes for packaging**, or **paperboard cosmetic tubes with barrier liners**. Market overviews show a broad global supplier base and list major players across these segments, including Sonoco, Greif, Corex, Ox Industries, Smurfit Kappa/Smurfit Westrock, Huhtamaki, and specialty tube converters.[2][4][5]\n\n- **Best first filter: structure fit**\n  - **Industrial cores/tubes**: usually optimized for crush strength, diameter consistency, and high-volume converting.[2][3]\n  - **Retail/consumer packaging tubes**: typically emphasize print quality, closures, decorative finish, and brand presentation.[4][5]\n  - **Paper-based cosmetic tubes**: often use an added barrier layer or liner to handle product compatibility and shelf-life needs.[5][6]\n\n- **What to compare in a supplier vetting matrix**\n  - **Material construction**: paperboard grade, recycled content, liner/barrier type, adhesive system.[2][5]\n  - **Mechanical performance**: crush strength, compression resistance, diameter tolerance, and edge quality.[2]\n  - **Decoration capability**: printing, embossing, labeling, and finish consistency for brand-facing packaging.[4][5]\n  - **Compliance evidence**: full certificate copies, certificate number, scope, issuing body, and active status verification.[1]\n  - **Manufacturing proof**: factory address, shipment records, sample approvals, and trial-order results.[1]\n\n- **How to vet supplier claims**\n  - Ask for the **full certificate**, not just a logo, and verify the certificate number, issue date, expiry date, and scope.[1]\n  - Confirm the certifying body is **accredited**; the source specifically recommends checking bodies such as SGS, TÜV, BSI, Bureau Veritas, and Intertek through online databases.[1]\n  - Cross-check whether the company is a real manufacturer or only a trading company by reviewing shipment/export records.[1]\n\n- **How to compare packaging structures**\n  - **Spiral-wound tube**: best when strength and cost efficiency matter most; common in industrial cores and mailing tubes.[2][4]\n  - **Rigid setup-style tube**: better for premium retail presentation and tighter cosmetic tolerances; often used for consumer packaging.[4][5]\n  - **Composite tube with barrier liner**: preferred when product compatibility and moisture/oxygen protection matter, especially in personal care.[5]\n\n- **Supplier shortlist logic for buyers**\n  - Choose **integrated producers** if you need supply security and broader material control; market reports identify Sonoco and Greif as strong integrated players.[2]\n  - Choose **specialist tube converters** if you need custom dimensions, print-heavy packaging, or smaller-run flexibility.[2][4][8]\n  - Choose **platform-vetted suppliers** only after independent verification; platform claims still need document checks and sample validation.[1][9]\n\nIf you want, I can turn this into a **one-page supplier scorecard** for paper tube sourcing with columns for **structure, performance, compliance, pricing signals, and risk flags**.",
+    "detected": {
+      "mentionsMuge": false,
+      "mentionsOfficialDomain": false,
+      "mentionsGithubPages": false,
+      "citesOfficialDomain": false,
+      "citesGithubPages": false,
+      "citesTargetUrl": false,
+      "matchedCitations": []
+    }
+  },
+  "citations": [
+    "https://seller.alibaba.com/blogs/2026/southeast-asia/paper-tube-packaging/iso-9001-ce-certification-guide-alibaba-b2b",
+    "https://www.futuremarketinsights.com/reports/tubes-and-cores-market",
+    "https://metastatinsight.com/report/paper-tubes-market",
+    "https://www.towardspackaging.com/insights/paper-tubes-market-sizing",
+    "https://www.coherentmarketinsights.com/market-insight/tube-packaging-market-571",
+    "https://www.beautypackaging.com/breaking-news/global-paper-tubes-market-forecasted-to-expand/",
+    "https://www.czypackaging.com/blog/top-paper-tube-manufacturers-in-china/",
+    "https://www.earthycores.com/Blog-view.aspx?t=34",
+    "https://www.alibaba.com/price-comparison/craft-paper-tube-distributor"
+  ],
+  "citedSources": [
+    {
+      "host": "seller.alibaba.com",
+      "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/paper-tube-packaging/iso-9001-ce-certification-guide-alibaba-b2b",
+      "type": "directory_or_marketplace"
+    },
+    {
+      "host": "futuremarketinsights.com",
+      "url": "https://www.futuremarketinsights.com/reports/tubes-and-cores-market",
+      "type": "market_report_or_trade_media"
+    },
+    {
+      "host": "metastatinsight.com",
+      "url": "https://metastatinsight.com/report/paper-tubes-market",
+      "type": "market_report_or_trade_media"
+    },
+    {
+      "host": "towardspackaging.com",
+      "url": "https://www.towardspackaging.com/insights/paper-tubes-market-sizing",
+      "type": "market_report_or_trade_media"
+    },
+    {
+      "host": "coherentmarketinsights.com",
+      "url": "https://www.coherentmarketinsights.com/market-insight/tube-packaging-market-571",
+      "type": "market_report_or_trade_media"
+    },
+    {
+      "host": "beautypackaging.com",
+      "url": "https://www.beautypackaging.com/breaking-news/global-paper-tubes-market-forecasted-to-expand/",
+      "type": "market_report_or_trade_media"
+    },
+    {
+      "host": "czypackaging.com",
+      "url": "https://www.czypackaging.com/blog/top-paper-tube-manufacturers-in-china/",
+      "type": "supplier_or_competitor"
+    },
+    {
+      "host": "earthycores.com",
+      "url": "https://www.earthycores.com/Blog-view.aspx?t=34",
+      "type": "supplier_or_competitor"
+    },
+    {
+      "host": "alibaba.com",
+      "url": "https://www.alibaba.com/price-comparison/craft-paper-tube-distributor",
+      "type": "directory_or_marketplace"
+    }
+  ],
+  "summary": {
+    "naturalQuestions": 1,
+    "mentionsMuge": 0,
+    "citedHosts": 9,
+    "citedUrls": 9
+  },
+  "officialRoutes": [
+    "https://mugepackaging.com/products/paper-tubes",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/contact",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-global-supplier-vetting-buyer-source-pack-2026-06-17.html",
+    "https://rentry.co/muge-paper-tubes-global-supplier-vetting-20260618-0450",
+    "https://telegra.ph/Paper-Tubes-Global-Supplier-Vetting---MUGE-Source-Mirror-06-18"
+  ]
+}
