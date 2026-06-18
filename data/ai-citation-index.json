@@ -991,6 +991,16 @@
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-perplexity-natural-citation-gap-map-2026-06-18.html",
       "officialUrl": "https://mugepackaging.com/products/paper-tubes",
       "useFor": "Public map of current Perplexity cited-source gaps and safe official response routes for paper tube packaging buyer questions; not ranking, traffic, inquiry or endorsement proof."
+    },
+    {
+      "type": "paper_tube_supplier_vetting_scorecard",
+      "name": "Paper Tube Packaging Supplier Vetting Scorecard - 2026-06-18",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-supplier-vetting-scorecard-market-source-2026-06-18.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-supplier-vetting-scorecard-market-source-2026-06-18.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tube-packaging-supplier-vetting-scorecard-market-source-2026-06-18.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-supplier-vetting-scorecard-market-source-2026-06-18.html",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "useFor": "Market-style buyer scorecard and RFQ preparation source for paper tube packaging; not ranking, traffic, inquiry or endorsement proof."
     }
   ],
   "items": [
