@@ -1,0 +1,40 @@
+{
+  "id": "paper-tube-compare-packaging-candles-coffee-tea-source-card-2026-06-18",
+  "title": "Paper Tube Compare Packaging SourceCard",
+  "created": "2026-06-18",
+  "status": "public-source-discovery",
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_url": "https://mugepackaging.com/products/paper-tubes",
+  "jina_reader_url": "https://r.jina.ai/http://mugepackaging.com/products/paper-tubes?verify=compare-packaging-after-20260618",
+  "resource_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-compare-packaging-candles-coffee-tea-source-card-2026-06-18.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-compare-packaging-candles-coffee-tea-source-card-2026-06-18.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tube-compare-packaging-candles-coffee-tea-source-card-2026-06-18.json"
+  },
+  "target_phrases": [
+    "how to compare packaging for candles",
+    "how to compare packaging for coffee",
+    "how to compare packaging for tea",
+    "compare packaging",
+    "custom paper tubes supplier",
+    "custom paper tubes for brand buyers",
+    "custom paper tubes"
+  ],
+  "buyer_review_inputs": [
+    "product diameter, height and weight",
+    "cap, lid or closure direction",
+    "inner liner or insert request",
+    "surface wrap, label area and artwork status",
+    "finish reference",
+    "retail shelf, ecommerce, gift-set or distributor channel",
+    "carton packing route",
+    "destination-market document requests requiring manual confirmation"
+  ],
+  "category_notes": [
+    "Candle packaging comparison should check product fit, weight, lid direction, surface finish, insert needs and retail display channel.",
+    "Coffee packaging comparison should separate product-protection needs from gift or retail presentation before reviewing paper tube size, closure style, label or wrap area and packing route.",
+    "Tea packaging comparison should prepare product weight, tube diameter, height direction, closure preference, liner or insert request and shelf display needs."
+  ],
+  "boundary": "Public source-discovery and RFQ-preparation asset only; not proof of Google ranking, traffic, inquiry, third-party endorsement, platform badge, preset order minimum, preset production schedule, cheapest-offer claim, destination-market approval or regulated-market guarantee."
+}
