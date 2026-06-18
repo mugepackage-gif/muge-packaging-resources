@@ -1,0 +1,317 @@
+{
+  "asset": "cosmetic-packaging-current-15-hard-validation-rfq-source-map-2026-06-18",
+  "marker": "MUGE_COSMETIC_PACKAGING_CURRENT_15_HARD_VALIDATION_RFQ_SOURCE_MAP_20260618",
+  "generatedAt": "2026-06-18T02:45:43.953Z",
+  "sourceKeywordSubset": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/关键词策略/当前100硬验收关键词/MUGE_SEO_GEO_当前100硬验收关键词子集.json",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "brand": "MUGE PACKAGING",
+  "officialTargetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+  "supplierGuideUrl": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-current-15-hard-validation-rfq-source-map-2026-06-18.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-current-15-hard-validation-rfq-source-map-2026-06-18.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-current-15-hard-validation-rfq-source-map-2026-06-18.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-current-15-hard-validation-rfq-source-map-2026-06-18.html"
+  },
+  "count": 15,
+  "boundary": "Source-discovery and RFQ-preparation asset only; not proof of Google ranking, traffic, inquiry, endorsement, platform certification, or natural AI recommendation. Commercial terms require manual confirmation.",
+  "targetRegions": [
+    "Global",
+    "Canada",
+    "Dubai",
+    "Europe",
+    "Middle East",
+    "Saudi Arabia"
+  ],
+  "buyerChecklist": [
+    "Product category and package format",
+    "Primary container size and weight",
+    "Retail or e-commerce sales channel",
+    "Insert, tray or protection request",
+    "Artwork status and finish reference",
+    "Quantity direction for quote review",
+    "Destination market",
+    "Any document request that needs project confirmation"
+  ],
+  "keywords": [
+    {
+      "current100Index": 4,
+      "keyword": "cosmetic packaging supplier",
+      "region": "Global",
+      "buyerSegment": "cosmetic packaging",
+      "intent": "supplier vetting",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "交易型",
+      "score": 233,
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 6,
+      "keyword": "how to choose cosmetic packaging supplier",
+      "region": "Global",
+      "buyerSegment": "cosmetic packaging",
+      "intent": "supplier selection education",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "GEO问答",
+      "score": 213,
+      "targetUrl": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 32，organic 2，paid 0"
+      ]
+    },
+    {
+      "current100Index": 12,
+      "keyword": "custom cosmetic packaging",
+      "region": "Global",
+      "buyerSegment": "cosmetic packaging",
+      "intent": "custom packaging sourcing",
+      "validationLayer": "P0/P1核心硬验收",
+      "class": "主题长尾",
+      "score": 193,
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "nextAction": "继续进入GSC/SerpAPI/Perplexity硬验收；目标是精确可见、前20、点击或AI引用。",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 73,
+      "keyword": "beauty brands custom paper tubes supplier",
+      "region": "Global",
+      "buyerSegment": "beauty brands",
+      "intent": "supplier vetting",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 168,
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 74,
+      "keyword": "cosmetics custom paper tubes supplier",
+      "region": "Global",
+      "buyerSegment": "cosmetics",
+      "intent": "supplier vetting",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 168,
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 75,
+      "keyword": "makeup custom paper tubes supplier",
+      "region": "Global",
+      "buyerSegment": "makeup",
+      "intent": "supplier vetting",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 168,
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 76,
+      "keyword": "perfume custom paper tubes supplier",
+      "region": "Global",
+      "buyerSegment": "perfume",
+      "intent": "supplier vetting",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 168,
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 77,
+      "keyword": "skincare custom paper tubes supplier",
+      "region": "Global",
+      "buyerSegment": "skincare",
+      "intent": "supplier vetting",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 168,
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GSC相关触发：custom paper tubes",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 78,
+      "keyword": "how to compare packaging for cosmetics",
+      "region": "Global",
+      "buyerSegment": "cosmetics",
+      "intent": "comparison education",
+      "validationLayer": "GEO_AI扩展验收",
+      "class": "GEO问答",
+      "score": 156,
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 79,
+      "keyword": "how to compare packaging for skincare",
+      "region": "Global",
+      "buyerSegment": "skincare",
+      "intent": "comparison education",
+      "validationLayer": "GEO_AI扩展验收",
+      "class": "GEO问答",
+      "score": 156,
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "nextAction": "进入Perplexity/ChatGPT/Google AI问答测试集，并把答案缺口反哺官网FAQ和外部引用资产。",
+      "evidence": [
+        "GSC相关触发：compare packaging",
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 80,
+      "keyword": "cosmetic packaging custom quote canada",
+      "region": "Canada",
+      "buyerSegment": "cosmetic packaging",
+      "intent": "custom quote / RFQ",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 149,
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 81,
+      "keyword": "cosmetic packaging custom quote dubai",
+      "region": "Dubai",
+      "buyerSegment": "cosmetic packaging",
+      "intent": "custom quote / RFQ",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 149,
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 82,
+      "keyword": "cosmetic packaging custom quote europe",
+      "region": "Europe",
+      "buyerSegment": "cosmetic packaging",
+      "intent": "custom quote / RFQ",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 149,
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 83,
+      "keyword": "cosmetic packaging custom quote middle east",
+      "region": "Middle East",
+      "buyerSegment": "cosmetic packaging",
+      "intent": "custom quote / RFQ",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 149,
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    },
+    {
+      "current100Index": 84,
+      "keyword": "cosmetic packaging custom quote saudi arabia",
+      "region": "Saudi Arabia",
+      "buyerSegment": "cosmetic packaging",
+      "intent": "custom quote / RFQ",
+      "validationLayer": "P2交易长尾扩展验收",
+      "class": "交易型",
+      "score": 149,
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "nextAction": "分配到目标URL做可索引承接、内链锚文本、外部引用锚文本和IndexNow。",
+      "evidence": [
+        "GA4目标页：sessions 72，organic 36，paid 0"
+      ]
+    }
+  ],
+  "grouped": {
+    "Global": {
+      "supplier vetting": [
+        "cosmetic packaging supplier",
+        "beauty brands custom paper tubes supplier",
+        "cosmetics custom paper tubes supplier",
+        "makeup custom paper tubes supplier",
+        "perfume custom paper tubes supplier",
+        "skincare custom paper tubes supplier"
+      ],
+      "supplier selection education": [
+        "how to choose cosmetic packaging supplier"
+      ],
+      "custom packaging sourcing": [
+        "custom cosmetic packaging"
+      ],
+      "comparison education": [
+        "how to compare packaging for cosmetics",
+        "how to compare packaging for skincare"
+      ]
+    },
+    "Canada": {
+      "custom quote / RFQ": [
+        "cosmetic packaging custom quote canada"
+      ]
+    },
+    "Dubai": {
+      "custom quote / RFQ": [
+        "cosmetic packaging custom quote dubai"
+      ]
+    },
+    "Europe": {
+      "custom quote / RFQ": [
+        "cosmetic packaging custom quote europe"
+      ]
+    },
+    "Middle East": {
+      "custom quote / RFQ": [
+        "cosmetic packaging custom quote middle east"
+      ]
+    },
+    "Saudi Arabia": {
+      "custom quote / RFQ": [
+        "cosmetic packaging custom quote saudi arabia"
+      ]
+    }
+  }
+}
