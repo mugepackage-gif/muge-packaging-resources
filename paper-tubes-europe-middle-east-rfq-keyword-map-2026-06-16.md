@@ -2,7 +2,7 @@
 
 Published: 2026-06-16
 
-Generated: 2026-06-15T21:52:19.803Z
+Generated: 2026-06-18T10:18:14.179Z
 
 This public keyword map converts a part of the MUGE PACKAGING 24,201-keyword universe into an external, claim-bounded execution asset for paper tube packaging sourcing queries in Europe, the Middle East and other international RFQ markets.
 
@@ -15,7 +15,7 @@ This public keyword map converts a part of the MUGE PACKAGING 24,201-keyword uni
 
 ## Why this map exists
 
-The P0/P1 hard validation panel contains 23 terms because it is used for strict ranking, GSC and AI-answer acceptance checks. This page belongs to the broader execution layer: it expands one target page into 409 paper tube execution terms that can be used for external references, internal anchors, social distribution, RFQ brief support and post-indexing validation.
+The P0/P1 hard validation panel contains 23 terms because it is used for strict ranking, GSC and AI-answer acceptance checks. This page belongs to the broader execution layer: it expands one target page into 407 paper tube execution terms that can be used for external references, internal anchors, social distribution, RFQ brief support and post-indexing validation.
 
 ## Regional coverage
 
@@ -24,7 +24,7 @@ The P0/P1 hard validation panel contains 23 terms because it is used for strict 
 | Middle East | 98 | custom paper tubes bulk dubai; custom paper tubes bulk middle east; custom paper tubes bulk saudi arabia; custom paper tubes bulk uae; custom paper tubes china manufacturer dubai; custom paper tubes china manufacturer middle east; custom paper tubes china manufacturer saudi arabia; custom paper tubes china manufacturer uae |
 | Europe | 108 | custom paper tubes bulk europe; custom paper tubes bulk uk; custom paper tubes china manufacturer europe; custom paper tubes china manufacturer uk; custom paper tubes china supplier europe; custom paper tubes china supplier uk; custom paper tubes custom quote europe; custom paper tubes custom quote uk |
 | North America | 48 | custom paper tubes bulk canada; custom paper tubes bulk united states; custom paper tubes china manufacturer canada; custom paper tubes china manufacturer united states; custom paper tubes china supplier canada; custom paper tubes china supplier united states; custom paper tubes custom quote canada; custom paper tubes custom quote united states |
-| Global | 155 | amazon sellers custom paper tubes supplier; apparel custom paper tubes supplier; candles custom paper tubes supplier; candy custom paper tubes supplier; chocolate custom paper tubes supplier; clothing custom paper tubes supplier; coffee custom paper tubes supplier; confectionery custom paper tubes supplier |
+| Global | 153 | amazon sellers custom paper tubes supplier; apparel custom paper tubes supplier; candles custom paper tubes supplier; candy custom paper tubes supplier; chocolate custom paper tubes supplier; clothing custom paper tubes supplier; coffee custom paper tubes supplier; confectionery custom paper tubes supplier |
 
 ## Buyer-intent coverage
 
@@ -35,7 +35,7 @@ The P0/P1 hard validation panel contains 23 terms because it is used for strict 
 | Bulk and wholesale | 44 | custom paper tubes bulk canada; custom paper tubes bulk dubai; custom paper tubes bulk europe; custom paper tubes bulk middle east; custom paper tubes bulk saudi arabia; custom paper tubes bulk uae; custom paper tubes bulk uk; custom paper tubes bulk united states |
 | Exporter and international sourcing | 66 | custom paper tubes china manufacturer canada; custom paper tubes china manufacturer dubai; custom paper tubes china manufacturer europe; custom paper tubes china manufacturer middle east; custom paper tubes china manufacturer saudi arabia; custom paper tubes china manufacturer uae; custom paper tubes china manufacturer uk; custom paper tubes china manufacturer united states |
 | Buyer checklist and comparison | 12 | quote checklist custom paper tubes; how to compare custom paper tubes; how to compare packaging for candles; how to compare packaging for coffee; how to compare packaging for tea; quote checklist paper tube packaging; quote checklist cardboard tube packaging; quote checklist packaging for candles |
-| Product-fit sourcing | 406 | custom paper tubes bulk canada; custom paper tubes bulk dubai; custom paper tubes bulk europe; custom paper tubes bulk middle east; custom paper tubes bulk saudi arabia; custom paper tubes bulk uae; custom paper tubes bulk uk; custom paper tubes bulk united states |
+| Product-fit sourcing | 404 | custom paper tubes bulk canada; custom paper tubes bulk dubai; custom paper tubes bulk europe; custom paper tubes bulk middle east; custom paper tubes bulk saudi arabia; custom paper tubes bulk uae; custom paper tubes bulk uk; custom paper tubes bulk united states |
 
 ## Top execution keywords
 
