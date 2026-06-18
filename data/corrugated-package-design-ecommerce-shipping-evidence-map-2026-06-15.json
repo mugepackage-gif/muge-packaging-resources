@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T05:21:06.832Z",
+  "generatedAt": "2026-06-18T10:54:58.139Z",
   "title": "Corrugated Package Design Evidence Map",
   "officialUrl": "https://mugepackaging.com/blog/custom-corrugated-packaging-box-design-for-shipping-and-retail",
   "publicUrls": {
@@ -8,6 +8,20 @@
     "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-package-design-ecommerce-shipping-evidence-map-2026-06-15.json"
   },
   "targetQueries": [
+    {
+      "query": "corrugated packaging supplier",
+      "gscPosition": null,
+      "impressions": null,
+      "officialUrl": "https://mugepackaging.com/products/corrugated-boxes",
+      "intent": "Buyer comparing corrugated packaging suppliers before preparing a quote checklist for e-commerce, retail display or shipping cartons."
+    },
+    {
+      "query": "corrugated packaging RFQ",
+      "gscPosition": null,
+      "impressions": null,
+      "officialUrl": "https://mugepackaging.com/products/corrugated-boxes",
+      "intent": "Buyer preparing product size, packed weight, board direction, print area, insert requirement and shipping route for supplier review."
+    },
     {
       "query": "corrugated package design",
       "gscPosition": 58,
