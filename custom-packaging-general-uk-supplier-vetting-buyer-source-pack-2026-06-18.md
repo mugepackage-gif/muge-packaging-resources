@@ -1,6 +1,6 @@
 # Custom Packaging Supplier Vetting Source Pack for UK Buyers
 
-Published: 2026-06-18
+Published: 2026-06-19
 
 This source pack is for UK brand owners, e-commerce sellers, retail buyers and sourcing teams comparing custom packaging suppliers. It maps buyer questions, RFQ preparation, supplier vetting checks and official MUGE PACKAGING source pages into one claim-bounded reference page.
 
@@ -74,7 +74,7 @@ Before requesting a quote, buyers should prepare:
 - Sales channel and destination market.
 - Artwork status and surface finish direction.
 - Closure style, insert requirement and packing method.
-- Target quantity range for review, without assuming a preset order minimum.
+- Target quantity range for review, without assuming fixed MOQ.
 
 ### 4. Comparing supplier types
 
@@ -92,6 +92,6 @@ When comparing a source factory, trading company or platform seller, buyers shou
 
 This page is a public source path and buyer education asset.
 
-It is not proof of Google ranking, organic traffic, AI answer inclusion, third-party endorsement, platform-badge status, certification, preset order minimum, preset delivery schedule, cheapest-offer claim, named buyer examples, product-contact approval or regulated-market approval.
+It is not proof of Google ranking, organic traffic, AI answer inclusion, third-party endorsement, verified supplier status, certification, fixed MOQ, fixed lead time, lowest price, customer cases, food-contact approval or regulated-market compliance.
 
 Project details must be reviewed before quotation, sampling or production planning.
