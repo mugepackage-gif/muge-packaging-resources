@@ -1,0 +1,434 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "MUGE Cosmetic Packaging Perplexity Natural Citation Gap Map - 2026-06-18",
+  "datePublished": "2026-06-18",
+  "publisher": {
+    "@type": "Organization",
+    "name": "MUGE PACKAGING",
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "url": "https://mugepackaging.com"
+  },
+  "summary": {
+    "naturalQuestions": 5,
+    "mentionsMuge": 0,
+    "citedHosts": 30,
+    "citedUrls": 39
+  },
+  "officialResponseRoutes": [
+    "https://mugepackaging.com/products/cosmetic-packaging",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+    "https://mugepackaging.com/contact",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-priority-100-execution-source-map-2026-06-18.html"
+  ],
+  "records": [
+    {
+      "label": "DubaiCosmeticPackagingNatural_20260618",
+      "question": "Which custom cosmetic packaging China supplier should Dubai skincare buyers review before RFQ?",
+      "mentionsMuge": false,
+      "citations": [
+        "https://www.sepshion.com/china-cosmetic-packaging-manufacturers/",
+        "https://m.jjcospack.com",
+        "https://www.hcpackaging.com",
+        "https://othilapak.com",
+        "https://www.uapkg.com",
+        "https://www.youtube.com/watch?v=wZIr78JJ5eU",
+        "https://www.tradewheel.com/cosmetics-packaging/china/",
+        "https://www.instagram.com/reel/DTFb_vODqDw/?hl=en"
+      ]
+    },
+    {
+      "label": "EuropeCosmeticPackagingNatural_20260618",
+      "question": "How should European skincare brands compare a custom cosmetic packaging supplier before sampling?",
+      "mentionsMuge": false,
+      "citations": [
+        "https://www.lissonpackaging.com/top-10-private-label-cosmetics-manufacturers-in-europe.html",
+        "https://xiranskincare.com/top-15-private-label-cosmetic-manufacturers-in-europe/",
+        "https://dlabcosmetics.com/pages/skincare-manufacturer",
+        "https://auroracos.com/10-top-private-label-skincare-manufacturers-in-the-us-europe-2026-version/",
+        "https://metaltinpack.com/top-cosmetic-packaging-companies/",
+        "https://toyolybeauty.com/cosmetic-packaging-suppliers/",
+        "https://www.youtube.com/watch?v=wZIr78JJ5eU",
+        "https://cosmeticsbusiness.com/directory/packaging"
+      ]
+    },
+    {
+      "label": "MiddleEastCosmeticPackagingNatural_20260618",
+      "question": "What should Middle East beauty buyers check before choosing a custom cosmetic packaging manufacturer?",
+      "mentionsMuge": false,
+      "citations": [
+        "https://www.cospaks.com/how-to-source-china-custom-sample-glass-lotion-bottle-jar/",
+        "https://othilapak.com/blogs/manufacturing-cost/how-to-choose-a-cosmetic-jar-supplier-a-buyers-checklist/",
+        "https://www.mordorintelligence.com/industry-reports/middle-east-and-africa-cosmetic-packaging-market",
+        "https://www.globalsources.com/china-suppliers/skincare-packaging.htm",
+        "https://www.lissonpackaging.com/best-20-cosmetic-packaging-manufacturers-2024.html",
+        "https://www.youtube.com/watch?v=wZIr78JJ5eU",
+        "https://www.facebook.com/ThePkgCo/posts/the-best-time-to-find-a-packaging-issue-is-before-your-product-launchesa-cosmeti/1029191892789826/",
+        "https://vocal.media/journal/how-to-choose-the-most-effective-custom-cosmetic-packaging",
+        "https://www.instagram.com/reel/DOAp5TLjHbZ/"
+      ]
+    },
+    {
+      "label": "SaudiCosmeticPackagingNatural_20260618",
+      "question": "What should Saudi Arabia private-label skincare teams prepare before asking for cosmetic packaging quotes?",
+      "mentionsMuge": false,
+      "citations": [
+        "https://nextbeautylabs.com/pages/private-label-skin-care",
+        "https://metacnbeauty.com",
+        "https://dlabcosmetics.com/pages/faq-private-label-questions",
+        "https://naturalskincare.com/branding-private-label-program/",
+        "https://sar-labs.com/private-label-skincare-manufacturing/",
+        "https://xiranskincare.com/top-5-cosmetics-manufacturers-in-saudi-arabia/",
+        "https://www.instagram.com/p/DS5ZnXVjaPt/",
+        "https://cosmewax.com/home/private-label-cosmetics/"
+      ]
+    },
+    {
+      "label": "UAECosmeticPackagingNatural_20260618",
+      "question": "Which details should UAE buyers prepare before contacting a custom cosmetic packaging factory?",
+      "mentionsMuge": false,
+      "citations": [
+        "https://www.youtube.com/watch?v=LbpVaK8hK9E",
+        "https://www.credenceresearch.com/report/uae-cosmetics-packaging-market",
+        "https://sindebella.com/pages/top-10-private-label-cosmetics-manufacturers-in-the-uae",
+        "https://othilapak.com",
+        "https://www.instagram.com/reel/DRyo4csEudG/",
+        "https://www.stocksmetic.com/us/custom-cosmetic-packaging",
+        "https://tasmeempackaging.com",
+        "https://www.facebook.com/groups/1014870894045961/posts/1160069916192724/",
+        "https://www.silvercornerpackaging.com/cosmetics-box-printing/"
+      ]
+    }
+  ],
+  "citedSources": [
+    {
+      "host": "cosmeticsbusiness.com",
+      "urls": [
+        "https://cosmeticsbusiness.com/directory/packaging"
+      ],
+      "type": "directory_or_marketplace",
+      "questionLabels": [
+        "EuropeCosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "globalsources.com",
+      "urls": [
+        "https://www.globalsources.com/china-suppliers/skincare-packaging.htm"
+      ],
+      "type": "directory_or_marketplace",
+      "questionLabels": [
+        "MiddleEastCosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "tradewheel.com",
+      "urls": [
+        "https://www.tradewheel.com/cosmetics-packaging/china/"
+      ],
+      "type": "directory_or_marketplace",
+      "questionLabels": [
+        "DubaiCosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "auroracos.com",
+      "urls": [
+        "https://auroracos.com/10-top-private-label-skincare-manufacturers-in-the-us-europe-2026-version/"
+      ],
+      "type": "manufacturer_or_private_label",
+      "questionLabels": [
+        "EuropeCosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "cosmewax.com",
+      "urls": [
+        "https://cosmewax.com/home/private-label-cosmetics/"
+      ],
+      "type": "manufacturer_or_private_label",
+      "questionLabels": [
+        "SaudiCosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "dlabcosmetics.com",
+      "urls": [
+        "https://dlabcosmetics.com/pages/skincare-manufacturer",
+        "https://dlabcosmetics.com/pages/faq-private-label-questions"
+      ],
+      "type": "manufacturer_or_private_label",
+      "questionLabels": [
+        "EuropeCosmeticPackagingNatural_20260618",
+        "SaudiCosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "naturalskincare.com",
+      "urls": [
+        "https://naturalskincare.com/branding-private-label-program/"
+      ],
+      "type": "manufacturer_or_private_label",
+      "questionLabels": [
+        "SaudiCosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "nextbeautylabs.com",
+      "urls": [
+        "https://nextbeautylabs.com/pages/private-label-skin-care"
+      ],
+      "type": "manufacturer_or_private_label",
+      "questionLabels": [
+        "SaudiCosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "sar-labs.com",
+      "urls": [
+        "https://sar-labs.com/private-label-skincare-manufacturing/"
+      ],
+      "type": "manufacturer_or_private_label",
+      "questionLabels": [
+        "SaudiCosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "sindebella.com",
+      "urls": [
+        "https://sindebella.com/pages/top-10-private-label-cosmetics-manufacturers-in-the-uae"
+      ],
+      "type": "manufacturer_or_private_label",
+      "questionLabels": [
+        "UAECosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "vocal.media",
+      "urls": [
+        "https://vocal.media/journal/how-to-choose-the-most-effective-custom-cosmetic-packaging"
+      ],
+      "type": "manufacturer_or_private_label",
+      "questionLabels": [
+        "MiddleEastCosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "xiranskincare.com",
+      "urls": [
+        "https://xiranskincare.com/top-15-private-label-cosmetic-manufacturers-in-europe/",
+        "https://xiranskincare.com/top-5-cosmetics-manufacturers-in-saudi-arabia/"
+      ],
+      "type": "manufacturer_or_private_label",
+      "questionLabels": [
+        "EuropeCosmeticPackagingNatural_20260618",
+        "SaudiCosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "credenceresearch.com",
+      "urls": [
+        "https://www.credenceresearch.com/report/uae-cosmetics-packaging-market"
+      ],
+      "type": "market_report",
+      "questionLabels": [
+        "UAECosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "mordorintelligence.com",
+      "urls": [
+        "https://www.mordorintelligence.com/industry-reports/middle-east-and-africa-cosmetic-packaging-market"
+      ],
+      "type": "market_report",
+      "questionLabels": [
+        "MiddleEastCosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "metacnbeauty.com",
+      "urls": [
+        "https://metacnbeauty.com"
+      ],
+      "type": "other",
+      "questionLabels": [
+        "SaudiCosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "facebook.com",
+      "urls": [
+        "https://www.facebook.com/ThePkgCo/posts/the-best-time-to-find-a-packaging-issue-is-before-your-product-launchesa-cosmeti/1029191892789826/",
+        "https://www.facebook.com/groups/1014870894045961/posts/1160069916192724/"
+      ],
+      "type": "social_or_video",
+      "questionLabels": [
+        "MiddleEastCosmeticPackagingNatural_20260618",
+        "UAECosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "instagram.com",
+      "urls": [
+        "https://www.instagram.com/reel/DTFb_vODqDw/?hl=en",
+        "https://www.instagram.com/reel/DOAp5TLjHbZ/",
+        "https://www.instagram.com/p/DS5ZnXVjaPt/",
+        "https://www.instagram.com/reel/DRyo4csEudG/"
+      ],
+      "type": "social_or_video",
+      "questionLabels": [
+        "DubaiCosmeticPackagingNatural_20260618",
+        "MiddleEastCosmeticPackagingNatural_20260618",
+        "SaudiCosmeticPackagingNatural_20260618",
+        "UAECosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "youtube.com",
+      "urls": [
+        "https://www.youtube.com/watch?v=wZIr78JJ5eU",
+        "https://www.youtube.com/watch?v=LbpVaK8hK9E"
+      ],
+      "type": "social_or_video",
+      "questionLabels": [
+        "DubaiCosmeticPackagingNatural_20260618",
+        "EuropeCosmeticPackagingNatural_20260618",
+        "MiddleEastCosmeticPackagingNatural_20260618",
+        "UAECosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "cospaks.com",
+      "urls": [
+        "https://www.cospaks.com/how-to-source-china-custom-sample-glass-lotion-bottle-jar/"
+      ],
+      "type": "supplier_or_competitor",
+      "questionLabels": [
+        "MiddleEastCosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "hcpackaging.com",
+      "urls": [
+        "https://www.hcpackaging.com"
+      ],
+      "type": "supplier_or_competitor",
+      "questionLabels": [
+        "DubaiCosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "lissonpackaging.com",
+      "urls": [
+        "https://www.lissonpackaging.com/top-10-private-label-cosmetics-manufacturers-in-europe.html",
+        "https://www.lissonpackaging.com/best-20-cosmetic-packaging-manufacturers-2024.html"
+      ],
+      "type": "supplier_or_competitor",
+      "questionLabels": [
+        "EuropeCosmeticPackagingNatural_20260618",
+        "MiddleEastCosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "m.jjcospack.com",
+      "urls": [
+        "https://m.jjcospack.com"
+      ],
+      "type": "supplier_or_competitor",
+      "questionLabels": [
+        "DubaiCosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "metaltinpack.com",
+      "urls": [
+        "https://metaltinpack.com/top-cosmetic-packaging-companies/"
+      ],
+      "type": "supplier_or_competitor",
+      "questionLabels": [
+        "EuropeCosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "othilapak.com",
+      "urls": [
+        "https://othilapak.com",
+        "https://othilapak.com/blogs/manufacturing-cost/how-to-choose-a-cosmetic-jar-supplier-a-buyers-checklist/"
+      ],
+      "type": "supplier_or_competitor",
+      "questionLabels": [
+        "DubaiCosmeticPackagingNatural_20260618",
+        "MiddleEastCosmeticPackagingNatural_20260618",
+        "UAECosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "sepshion.com",
+      "urls": [
+        "https://www.sepshion.com/china-cosmetic-packaging-manufacturers/"
+      ],
+      "type": "supplier_or_competitor",
+      "questionLabels": [
+        "DubaiCosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "silvercornerpackaging.com",
+      "urls": [
+        "https://www.silvercornerpackaging.com/cosmetics-box-printing/"
+      ],
+      "type": "supplier_or_competitor",
+      "questionLabels": [
+        "UAECosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "stocksmetic.com",
+      "urls": [
+        "https://www.stocksmetic.com/us/custom-cosmetic-packaging"
+      ],
+      "type": "supplier_or_competitor",
+      "questionLabels": [
+        "UAECosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "tasmeempackaging.com",
+      "urls": [
+        "https://tasmeempackaging.com"
+      ],
+      "type": "supplier_or_competitor",
+      "questionLabels": [
+        "UAECosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "toyolybeauty.com",
+      "urls": [
+        "https://toyolybeauty.com/cosmetic-packaging-suppliers/"
+      ],
+      "type": "supplier_or_competitor",
+      "questionLabels": [
+        "EuropeCosmeticPackagingNatural_20260618"
+      ]
+    },
+    {
+      "host": "uapkg.com",
+      "urls": [
+        "https://www.uapkg.com"
+      ],
+      "type": "supplier_or_competitor",
+      "questionLabels": [
+        "DubaiCosmeticPackagingNatural_20260618"
+      ]
+    }
+  ],
+  "safeNextActions": [
+    "Build short buyer-source pages that answer the same RFQ-stage questions using official MUGE PACKAGING pages.",
+    "Prioritize directory and market-report style source formats because Perplexity currently cites directories, market reports, supplier lists and social/video pages.",
+    "Use official cosmetic packaging page, product hub, supplier-selection guide and contact page as the only commercial source route.",
+    "Do not claim endorsement, ranking, traffic, customer cases, fixed MOQ, fixed lead time, fixed price or regulated-market approval."
+  ],
+  "claimBoundary": "This gap map records current Perplexity natural-answer citation patterns and MUGE PACKAGING response routes only. It is not proof of Google ranking, traffic, inquiry, AI natural recommendation, endorsement, platform badge status, fixed MOQ, fixed lead time, fixed price, customer case proof, food-contact status, production capacity or destination-market approval."
+}

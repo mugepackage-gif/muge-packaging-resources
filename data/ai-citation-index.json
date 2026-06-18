@@ -964,6 +964,16 @@
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-uae-rfq-short-sourcepack-2026-06-18.html",
       "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
       "useFor": "Short regional RFQ source pack for cosmetic packaging supplier/manufacturer/factory buyer questions; not ranking, traffic, inquiry, endorsement, badge, MOQ, lead time, price or compliance proof."
+    },
+    {
+      "type": "perplexity_natural_citation_gap_map",
+      "name": "MUGE Cosmetic Packaging Perplexity Natural Citation Gap Map - 2026-06-18",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-perplexity-natural-citation-gap-map-2026-06-18.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-perplexity-natural-citation-gap-map-2026-06-18.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-perplexity-natural-citation-gap-map-2026-06-18.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-perplexity-natural-citation-gap-map-2026-06-18.html",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "useFor": "Public map of current Perplexity cited-source gaps and safe official response routes for cosmetic packaging buyer questions; not ranking, traffic, inquiry, endorsement, badge, MOQ, lead time, price or compliance proof."
     }
   ],
   "items": [
@@ -1147,5 +1157,5 @@
       "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging"
     }
   ],
-  "updatedAt": "2026-06-18T05:49:39.683Z"
+  "updatedAt": "2026-06-18T05:54:46.115Z"
 }
