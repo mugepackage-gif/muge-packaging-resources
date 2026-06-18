@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T04:52:19.584Z",
+  "generatedAt": "2026-06-18T10:41:08.796Z",
   "title": "Custom Apparel Boxes Evidence Map",
   "officialUrl": "https://mugepackaging.com/blog/custom-apparel-boxes-wholesale-for-clothing-and-fashion-brands",
   "publicUrls": {
@@ -8,6 +8,20 @@
     "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-apparel-boxes-garment-packaging-evidence-map-2026-06-15.json"
   },
   "targetQueries": [
+    {
+      "query": "apparel packaging supplier",
+      "gscPosition": null,
+      "impressions": null,
+      "officialUrl": "https://mugepackaging.com/blog/apparel-packaging-inquiry-checklist-clothing-brands",
+      "intent": "Clothing brand, DTC apparel seller or e-commerce operator comparing apparel packaging suppliers before preparing an RFQ."
+    },
+    {
+      "query": "apparel packaging RFQ",
+      "gscPosition": null,
+      "impressions": null,
+      "officialUrl": "https://mugepackaging.com/blog/apparel-packaging-inquiry-checklist-clothing-brands",
+      "intent": "Buyer preparing garment dimensions, packaging set details, artwork status and destination-market questions before supplier review."
+    },
     {
       "query": "custom apparel boxes",
       "gscPosition": 55,
@@ -73,6 +87,11 @@
     }
   ],
   "officialMugePages": [
+    {
+      "label": "Apparel packaging inquiry checklist",
+      "url": "https://mugepackaging.com/blog/apparel-packaging-inquiry-checklist-clothing-brands",
+      "role": "RFQ-ready checklist for clothing brands comparing apparel packaging suppliers, garment packaging sets and sample review details."
+    },
     {
       "label": "Custom apparel boxes guide",
       "url": "https://mugepackaging.com/blog/custom-apparel-boxes-wholesale-for-clothing-and-fashion-brands",
