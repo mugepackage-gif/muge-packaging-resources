@@ -1,3 +1,15 @@
+<!-- RIGID_GIFT_BOXES_EUROPE_MIDDLE_EAST_GITHUB_TRAIL_20260619:start -->
+## Rigid Gift Boxes Europe Middle East GitHub Source Trail - 2026-06-19
+- GitHub issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/116
+- GitHub release: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.19-rigid-gift-boxes-europe-middle-east-rfq-source-trail
+- GitHub Gist: https://gist.github.com/mugepackage-gif/1f95dafb91e7deed0c942617a90430ed
+- SourcePack HTML: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-europe-middle-east-rfq-source-pack-2026-06-17.html
+- SourcePack Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-europe-middle-east-rfq-source-pack-2026-06-17.md
+- SourcePack JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-boxes-europe-middle-east-rfq-source-pack-2026-06-17.json
+- Official mapped page: https://mugepackaging.com/products/folding-gift-box
+- Boundary: source-discovery and RFQ-preparation only; not ranking, traffic, inquiry, endorsement, AI natural recommendation, fixed commercial term or compliance proof.
+<!-- RIGID_GIFT_BOXES_EUROPE_MIDDLE_EAST_GITHUB_TRAIL_20260619:end -->
+
 <!-- CUSTOM_PACKAGING_BOXES_COMPARE_PACKAGING_GITHUB_TRAIL_20260619:start -->
 ## Custom Packaging Boxes Compare Packaging GitHub Source Trail - 2026-06-19
 - GitHub issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/115
