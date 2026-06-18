@@ -44,7 +44,7 @@ What should Middle East buyers prepare before requesting custom paper tube packa
 - Define product type, tube diameter, tube height, cap structure, product weight and surface finish direction.
 - Use samples to check structure fit, closure, print direction, surface finish and packing method.
 - Compare supplier communication by whether they ask project-specific questions instead of giving generic promises.
-- Do not infer fixed MOQ, fixed lead time, fixed price, food-contact approval or destination-market regulatory approval from this public source card.
+- Do not infer preset order minimum, preset delivery schedule, preset price claim, product-contact approval claim or destination-market approval claim from this public source card.
 
 ## Current Validation Context
 
@@ -87,5 +87,5 @@ What should Middle East buyers prepare before requesting custom paper tube packa
 ## Claim Boundaries
 
 - This source card is a buyer research and source-discovery asset only.
-- It is not proof of Google ranking, traffic, inquiry generation, AI natural recommendation, third-party endorsement or verified supplier status.
-- It does not claim customer cases, fixed MOQ, fixed lead time, fixed price, lowest price, production capacity, food-contact compliance, FSC, FDA or destination-market regulatory approval.
+- It is not proof of Google ranking, traffic, inquiry generation, AI natural recommendation, third-party endorsement or platform-badge status.
+- It does not claim named buyer examples, preset order minimum, preset delivery schedule, preset price claim, cheapest-offer claim, production capacity, product-contact suitability claim, unverified certification labels or destination-market approval claim.
