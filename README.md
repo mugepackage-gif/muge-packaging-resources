@@ -1,3 +1,10 @@
+<!-- MUGE_RENTRY_MIRROR_PAPER_TUBE_COMPARE_PACKAGING_CANDLES_COFFEE_TEA_SOURCE_CARD_20260618:start -->
+## PaperTubeComparePackagingCandlesCoffeeTea Rentry Mirror - 2026-06-18 23:07:42
+- Rentry: https://rentry.co/muge-paper-tube-compare-packaging-candles-coffee-tea-source-card-20260618-2307
+- Jina: https://r.jina.ai/http://rentry.co/muge-paper-tube-compare-packaging-candles-coffee-tea-source-card-20260618-2307?v=20260618-2307
+- Boundary: third-party readable mirror only; not ranking, traffic, AI natural recommendation, inquiry or endorsement proof.
+<!-- MUGE_RENTRY_MIRROR_PAPER_TUBE_COMPARE_PACKAGING_CANDLES_COFFEE_TEA_SOURCE_CARD_20260618:end -->
+
 <!-- BEAUTY_PAPER_TUBE_SUPPLIER_PATHS_SOURCECARD_20260618:start -->
 ## Beauty Paper Tube Supplier Paths SourceCard - 2026-06-18
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/beauty-paper-tube-supplier-paths-source-card-2026-06-18.html
