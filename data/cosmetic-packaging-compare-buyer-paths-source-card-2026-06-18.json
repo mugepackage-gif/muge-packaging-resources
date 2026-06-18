@@ -1,0 +1,36 @@
+{
+  "id": "cosmetic-packaging-compare-buyer-paths-source-card-2026-06-18",
+  "title": "Cosmetic Packaging Compare Buyer Paths SourceCard",
+  "created": "2026-06-18",
+  "status": "public-source-discovery",
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_url": "https://mugepackaging.com/products/cosmetic-packaging",
+  "jina_reader_url": "https://r.jina.ai/http://mugepackaging.com/products/cosmetic-packaging",
+  "resource_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-compare-buyer-paths-source-card-2026-06-18.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-compare-buyer-paths-source-card-2026-06-18.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-compare-buyer-paths-source-card-2026-06-18.json"
+  },
+  "target_phrases": [
+    "cosmetic packaging supplier",
+    "cosmetic packaging for brand buyers",
+    "how to compare packaging for cosmetics",
+    "how to compare packaging for skincare",
+    "how to compare packaging for beauty brands",
+    "how to compare packaging for makeup",
+    "how to compare packaging for perfume"
+  ],
+  "comparison_inputs": [
+    "product container size and weight",
+    "sales channel",
+    "structure direction",
+    "insert or holder requirement",
+    "surface finish and print direction",
+    "artwork status",
+    "sample review goal",
+    "destination-market document requests requiring manual confirmation"
+  ],
+  "boundary": "Public source-discovery and RFQ-preparation asset only; not proof of Google ranking, traffic, inquiry, third-party endorsement, platform badge, fixed MOQ, fixed production lead time, lowest-price claim, destination-market approval or regulatory compliance guarantee."
+}
+
