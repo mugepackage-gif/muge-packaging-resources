@@ -1,0 +1,464 @@
+{
+  "generatedAt": "2026-06-18T01:59:04.012Z",
+  "generatedAtCst": "2026-06-18 09:59:04",
+  "sourceFile": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/n8n执行数据/2026-06-18_0955_MUGE_v6_1_SerpAPI_Perplexity真实可见度验收.json",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/current-perplexity-citation-gap-response-map-2026-06-18.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/current-perplexity-citation-gap-response-map-2026-06-18.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/current-perplexity-citation-gap-response-map-2026-06-18.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/current-perplexity-citation-gap-response-map-2026-06-18.html"
+  },
+  "validationSummary": {
+    "serpApiErrors": 5,
+    "googleTop20Visible": 0,
+    "perplexityQuestions": 5,
+    "aiBrandMentioned": 0,
+    "aiSiteMentioned": 0,
+    "aiCitationMatched": 0
+  },
+  "groups": [
+    {
+      "type": "other_public_reference",
+      "count": 24,
+      "hosts": [
+        "avient.com",
+        "berlinpackaging.com",
+        "berlinpackaging.eu",
+        "betubed.de",
+        "capsandjars.com",
+        "centuryprint.eu",
+        "faca.eco",
+        "fortunebusinessinsights.com",
+        "futuremarketinsights.com",
+        "instagram.com",
+        "internationalpaper.com",
+        "isempackaginggroup.com",
+        "jimeipack.com",
+        "othilapak.com",
+        "packaging-industry.info",
+        "packagingmarketinsights.com",
+        "packhelp.com",
+        "papertube.co",
+        "quadpack.com",
+        "tobepacking.com",
+        "towardspackaging.com"
+      ],
+      "action": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。"
+    },
+    {
+      "type": "competitor_or_supplier_pattern",
+      "count": 12,
+      "hosts": [
+        "balkanpaper.com",
+        "cypackaging.net",
+        "hlunpack.com",
+        "kbcpackaging.com",
+        "mepackages.com",
+        "packtechmaterials.com",
+        "sgcolmar.com",
+        "sonoco.com",
+        "tubitex.com"
+      ],
+      "action": "只做引用模式研究，补强 MUGE 对应产品页和 SourcePack；不联系包装同行，不写对方认可 MUGE。"
+    },
+    {
+      "type": "directory_or_buyer_reference",
+      "count": 6,
+      "hosts": [
+        "cosmeticsbusiness.com",
+        "ensun.io",
+        "europages.co.uk",
+        "meidupacking.en.made-in-china.com"
+      ],
+      "action": "准备可复制的公司公开资料和人工资料补全路径；遇到登录、验证码、付费、账号核心权限即停止。"
+    },
+    {
+      "type": "market_research_reference",
+      "count": 5,
+      "hosts": [
+        "dataintelo.com",
+        "imarcgroup.com",
+        "mordorintelligence.com"
+      ],
+      "action": "生成市场/买家问题解释型 SourcePack，并只使用公开、可核实的品牌和产品路径，不声明市场份额。"
+    }
+  ],
+  "citationRows": [
+    {
+      "keyword": "custom packaging supplier",
+      "url": "https://ensun.io/search/custom-packaging/saudi-arabia",
+      "host": "ensun.io",
+      "sourceType": "directory_or_buyer_reference",
+      "safeAction": "准备可复制的公司公开资料和人工资料补全路径；遇到登录、验证码、付费、账号核心权限即停止。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging supplier",
+      "url": "https://mepackages.com",
+      "host": "mepackages.com",
+      "sourceType": "competitor_or_supplier_pattern",
+      "safeAction": "只做引用模式研究，补强 MUGE 对应产品页和 SourcePack；不联系包装同行，不写对方认可 MUGE。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging supplier",
+      "url": "https://www.sonoco.com/emea",
+      "host": "sonoco.com",
+      "sourceType": "competitor_or_supplier_pattern",
+      "safeAction": "只做引用模式研究，补强 MUGE 对应产品页和 SourcePack；不联系包装同行，不写对方认可 MUGE。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging supplier",
+      "url": "https://cypackaging.net/blog-packaging-distributor-partner-middle-east.html",
+      "host": "cypackaging.net",
+      "sourceType": "competitor_or_supplier_pattern",
+      "safeAction": "只做引用模式研究，补强 MUGE 对应产品页和 SourcePack；不联系包装同行，不写对方认可 MUGE。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging supplier",
+      "url": "https://www.berlinpackaging.com/insights/news/berlin-packaging-expands-in-eastern-europe-with-the-acquisition-of-eps",
+      "host": "berlinpackaging.com",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging supplier",
+      "url": "https://meidupacking.en.made-in-china.com/product/MmFpnLVGaqhi/China-Customized-Middle-East-High-Quality-Gift-Box-Packaging-Set-Makaron-Food-Packaging-Box.html",
+      "host": "meidupacking.en.made-in-china.com",
+      "sourceType": "directory_or_buyer_reference",
+      "safeAction": "准备可复制的公司公开资料和人工资料补全路径；遇到登录、验证码、付费、账号核心权限即停止。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging supplier",
+      "url": "https://packaging-industry.info/market/packaging-industry/custom-packaging-supplier-shortlist-questions-for-europe-and-middle-east-buyers-1510/",
+      "host": "packaging-industry.info",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging supplier",
+      "url": "https://www.mordorintelligence.com/industry-reports/middle-east-and-africa-paper-packaging-market/companies",
+      "host": "mordorintelligence.com",
+      "sourceType": "market_research_reference",
+      "safeAction": "生成市场/买家问题解释型 SourcePack，并只使用公开、可核实的品牌和产品路径，不声明市场份额。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging supplier",
+      "url": "https://www.tobepacking.com/en/",
+      "host": "tobepacking.com",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging supplier",
+      "url": "https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html",
+      "host": "jimeipack.com",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging manufacturer",
+      "url": "https://kbcpackaging.com/custom-packaging-turkey/",
+      "host": "kbcpackaging.com",
+      "sourceType": "competitor_or_supplier_pattern",
+      "safeAction": "只做引用模式研究，补强 MUGE 对应产品页和 SourcePack；不联系包装同行，不写对方认可 MUGE。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging manufacturer",
+      "url": "https://ensun.io/search/custom-packaging/saudi-arabia",
+      "host": "ensun.io",
+      "sourceType": "directory_or_buyer_reference",
+      "safeAction": "准备可复制的公司公开资料和人工资料补全路径；遇到登录、验证码、付费、账号核心权限即停止。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging manufacturer",
+      "url": "https://sgcolmar.com/en/custom-packaging-by-industry/",
+      "host": "sgcolmar.com",
+      "sourceType": "competitor_or_supplier_pattern",
+      "safeAction": "只做引用模式研究，补强 MUGE 对应产品页和 SourcePack；不联系包装同行，不写对方认可 MUGE。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging manufacturer",
+      "url": "https://www.sonoco.com/emea",
+      "host": "sonoco.com",
+      "sourceType": "competitor_or_supplier_pattern",
+      "safeAction": "只做引用模式研究，补强 MUGE 对应产品页和 SourcePack；不联系包装同行，不写对方认可 MUGE。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging manufacturer",
+      "url": "https://www.avient.com/center-of-excellence/avient-europe-middle-east-and-africa",
+      "host": "avient.com",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging manufacturer",
+      "url": "https://www.mordorintelligence.com/industry-reports/mea-single-use-plastic-packaging-market/companies",
+      "host": "mordorintelligence.com",
+      "sourceType": "market_research_reference",
+      "safeAction": "生成市场/买家问题解释型 SourcePack，并只使用公开、可核实的品牌和产品路径，不声明市场份额。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging manufacturer",
+      "url": "https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html",
+      "host": "jimeipack.com",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging manufacturer",
+      "url": "https://www.internationalpaper.com/en-gb/packaging",
+      "host": "internationalpaper.com",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging manufacturer",
+      "url": "https://packagingmarketinsights.com/vision/insights/customized-packaging-market/middle-east-and-africa",
+      "host": "packagingmarketinsights.com",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging boxes",
+      "url": "https://www.europages.co.uk/companies/turkey/custom%20boxes.html",
+      "host": "europages.co.uk",
+      "sourceType": "directory_or_buyer_reference",
+      "safeAction": "准备可复制的公司公开资料和人工资料补全路径；遇到登录、验证码、付费、账号核心权限即停止。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging boxes",
+      "url": "https://www.hlunpack.com/top-corrugated-cardboard-boxes-suppliers-and-manufacturers-in-europe.html",
+      "host": "hlunpack.com",
+      "sourceType": "competitor_or_supplier_pattern",
+      "safeAction": "只做引用模式研究，补强 MUGE 对应产品页和 SourcePack；不联系包装同行，不写对方认可 MUGE。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging boxes",
+      "url": "https://kbcpackaging.com/custom-packaging-turkey/",
+      "host": "kbcpackaging.com",
+      "sourceType": "competitor_or_supplier_pattern",
+      "safeAction": "只做引用模式研究，补强 MUGE 对应产品页和 SourcePack；不联系包装同行，不写对方认可 MUGE。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging boxes",
+      "url": "https://meidupacking.en.made-in-china.com/product/MmFpnLVGaqhi/China-Customized-Middle-East-High-Quality-Gift-Box-Packaging-Set-Makaron-Food-Packaging-Box.html",
+      "host": "meidupacking.en.made-in-china.com",
+      "sourceType": "directory_or_buyer_reference",
+      "safeAction": "准备可复制的公司公开资料和人工资料补全路径；遇到登录、验证码、付费、账号核心权限即停止。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging boxes",
+      "url": "https://centuryprint.eu/en/",
+      "host": "centuryprint.eu",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging boxes",
+      "url": "https://packaging-industry.info/market/packaging-industry/custom-packaging-supplier-shortlist-questions-for-europe-and-middle-east-buyers-1510/",
+      "host": "packaging-industry.info",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging boxes",
+      "url": "https://packhelp.com",
+      "host": "packhelp.com",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging boxes",
+      "url": "https://www.instagram.com/convertecpackaging/",
+      "host": "instagram.com",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging boxes",
+      "url": "https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html",
+      "host": "jimeipack.com",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "cosmetic packaging supplier",
+      "url": "https://www.mordorintelligence.com/industry-reports/middle-east-and-africa-cosmetic-packaging-market",
+      "host": "mordorintelligence.com",
+      "sourceType": "market_research_reference",
+      "safeAction": "生成市场/买家问题解释型 SourcePack，并只使用公开、可核实的品牌和产品路径，不声明市场份额。",
+      "officialRoute": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "keyword": "cosmetic packaging supplier",
+      "url": "https://isempackaginggroup.com/en/isem-egisa-middle-east-a-new-chapter-in-luxury-packaging/",
+      "host": "isempackaginggroup.com",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "keyword": "cosmetic packaging supplier",
+      "url": "https://www.imarcgroup.com/blog/top-cosmetic-packaging-companies",
+      "host": "imarcgroup.com",
+      "sourceType": "market_research_reference",
+      "safeAction": "生成市场/买家问题解释型 SourcePack，并只使用公开、可核实的品牌和产品路径，不声明市场份额。",
+      "officialRoute": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "keyword": "cosmetic packaging supplier",
+      "url": "https://cosmeticsbusiness.com/directory/packaging",
+      "host": "cosmeticsbusiness.com",
+      "sourceType": "directory_or_buyer_reference",
+      "safeAction": "准备可复制的公司公开资料和人工资料补全路径；遇到登录、验证码、付费、账号核心权限即停止。",
+      "officialRoute": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "keyword": "cosmetic packaging supplier",
+      "url": "https://www.quadpack.com/skin-care/",
+      "host": "quadpack.com",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "keyword": "cosmetic packaging supplier",
+      "url": "https://www.fortunebusinessinsights.com/cosmetic-packaging-market-102130",
+      "host": "fortunebusinessinsights.com",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "keyword": "cosmetic packaging supplier",
+      "url": "https://www.capsandjars.com",
+      "host": "capsandjars.com",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "keyword": "cosmetic packaging supplier",
+      "url": "https://berlinpackaging.eu/en-international/markets/beauty",
+      "host": "berlinpackaging.eu",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "keyword": "cosmetic packaging supplier",
+      "url": "https://othilapak.com",
+      "host": "othilapak.com",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "keyword": "cosmetic packaging supplier",
+      "url": "https://faca.eco/products/cosmetic-packaging-15ml-t53/",
+      "host": "faca.eco",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "keyword": "paper tube packaging supplier",
+      "url": "https://balkanpaper.com/paper-tube/",
+      "host": "balkanpaper.com",
+      "sourceType": "competitor_or_supplier_pattern",
+      "safeAction": "只做引用模式研究，补强 MUGE 对应产品页和 SourcePack；不联系包装同行，不写对方认可 MUGE。",
+      "officialRoute": "https://mugepackaging.com/products/paper-tubes"
+    },
+    {
+      "keyword": "paper tube packaging supplier",
+      "url": "https://www.packtechmaterials.com/packaging-paper-tube-9004305.html",
+      "host": "packtechmaterials.com",
+      "sourceType": "competitor_or_supplier_pattern",
+      "safeAction": "只做引用模式研究，补强 MUGE 对应产品页和 SourcePack；不联系包装同行，不写对方认可 MUGE。",
+      "officialRoute": "https://mugepackaging.com/products/paper-tubes"
+    },
+    {
+      "keyword": "paper tube packaging supplier",
+      "url": "https://dataintelo.com/report/paper-tube-packaging-market",
+      "host": "dataintelo.com",
+      "sourceType": "market_research_reference",
+      "safeAction": "生成市场/买家问题解释型 SourcePack，并只使用公开、可核实的品牌和产品路径，不声明市场份额。",
+      "officialRoute": "https://mugepackaging.com/products/paper-tubes"
+    },
+    {
+      "keyword": "paper tube packaging supplier",
+      "url": "https://www.tubitex.com/en/",
+      "host": "tubitex.com",
+      "sourceType": "competitor_or_supplier_pattern",
+      "safeAction": "只做引用模式研究，补强 MUGE 对应产品页和 SourcePack；不联系包装同行，不写对方认可 MUGE。",
+      "officialRoute": "https://mugepackaging.com/products/paper-tubes"
+    },
+    {
+      "keyword": "paper tube packaging supplier",
+      "url": "https://www.betubed.de/en/",
+      "host": "betubed.de",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products/paper-tubes"
+    },
+    {
+      "keyword": "paper tube packaging supplier",
+      "url": "https://www.sonoco.com/emea",
+      "host": "sonoco.com",
+      "sourceType": "competitor_or_supplier_pattern",
+      "safeAction": "只做引用模式研究，补强 MUGE 对应产品页和 SourcePack；不联系包装同行，不写对方认可 MUGE。",
+      "officialRoute": "https://mugepackaging.com/products/paper-tubes"
+    },
+    {
+      "keyword": "paper tube packaging supplier",
+      "url": "https://www.futuremarketinsights.com/reports/paper-tubes-market",
+      "host": "futuremarketinsights.com",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products/paper-tubes"
+    },
+    {
+      "keyword": "paper tube packaging supplier",
+      "url": "https://www.towardspackaging.com/insights/paper-tubes-market-sizing",
+      "host": "towardspackaging.com",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products/paper-tubes"
+    },
+    {
+      "keyword": "paper tube packaging supplier",
+      "url": "https://papertube.co",
+      "host": "papertube.co",
+      "sourceType": "other_public_reference",
+      "safeAction": "先人工分类，再决定是否做编辑请求、目录资料补全或官方承接页增强。",
+      "officialRoute": "https://mugepackaging.com/products/paper-tubes"
+    }
+  ]
+}
