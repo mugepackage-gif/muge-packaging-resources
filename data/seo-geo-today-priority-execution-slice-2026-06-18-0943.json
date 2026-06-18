@@ -1,0 +1,64 @@
+{
+  "title": "MUGE SEO/GEO Today Priority Execution Slice",
+  "generatedAt": "2026-06-18T01:43:07Z",
+  "generatedAtCST": "2026-06-18 09:43:07 CST",
+  "publisher": {
+    "brand": "MUGE PACKAGING",
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "officialWebsite": "https://mugepackaging.com"
+  },
+  "scope": {
+    "keywordUniverse": 24201,
+    "rollingExecutionQueue": 800,
+    "aiBuyerQuestionTests": 300,
+    "dailyCombinedQueue": 180,
+    "p0p1HardValidationKeywords": 23,
+    "rule": "23 is a hard-validation sample, not the total SEO/GEO promotion scope."
+  },
+  "todayPriorityClusters": [
+    {"priority": 1, "cluster": "custom_packaging_general::global::comparison", "targetUrl": "https://mugepackaging.com/products", "intent": "Compare packaging for gift sets, DTC brands, Amazon sellers, soap, subscription boxes and product launches."},
+    {"priority": 2, "cluster": "paper_tubes::europe::supplier_vetting", "targetUrl": "https://mugepackaging.com/products/paper-tubes", "intent": "Review custom paper tube suppliers, China manufacturers, factories and source factories for Europe."},
+    {"priority": 3, "cluster": "paper_tubes::middle_east::supplier_vetting", "targetUrl": "https://mugepackaging.com/products/paper-tubes", "intent": "Review custom paper tube suppliers and manufacturers for Middle East buyers."},
+    {"priority": 4, "cluster": "paper_tubes::uk::supplier_vetting", "targetUrl": "https://mugepackaging.com/products/paper-tubes", "intent": "Review custom paper tube suppliers and China source factories for UK brands."},
+    {"priority": 5, "cluster": "custom_packaging_general::global::buyer_education", "targetUrl": "https://mugepackaging.com/products", "intent": "Buying guide for custom packaging and custom packaging boxes."},
+    {"priority": 6, "cluster": "custom_packaging_general::global::buyer_intent", "targetUrl": "https://mugepackaging.com/products", "intent": "What to send before requesting custom packaging or packaging for gift sets."},
+    {"priority": 7, "cluster": "paper_tubes::canada::supplier_vetting", "targetUrl": "https://mugepackaging.com/products/paper-tubes", "intent": "Review custom paper tube supplier, manufacturer and factory options for Canada."},
+    {"priority": 8, "cluster": "paper_tubes::dubai::supplier_vetting", "targetUrl": "https://mugepackaging.com/products/paper-tubes", "intent": "Review custom paper tube supplier and source factory options for Dubai."},
+    {"priority": 9, "cluster": "paper_tubes::saudi_arabia::supplier_vetting", "targetUrl": "https://mugepackaging.com/products/paper-tubes", "intent": "Review custom paper tube supplier and China manufacturer options for Saudi Arabia."},
+    {"priority": 10, "cluster": "paper_tubes::uae::supplier_vetting", "targetUrl": "https://mugepackaging.com/products/paper-tubes", "intent": "Review custom paper tube supplier and China source factory options for UAE."},
+    {"priority": 11, "cluster": "paper_tubes::united_states::supplier_vetting", "targetUrl": "https://mugepackaging.com/products/paper-tubes", "intent": "Review custom paper tube supplier, manufacturer and source factory options for US buyers."},
+    {"priority": 12, "cluster": "paper_tubes::global::supplier_vetting", "targetUrl": "https://mugepackaging.com/products/paper-tubes", "intent": "Supplier review for beauty brands, candles, candy, apparel and Amazon sellers."},
+    {"priority": 13, "cluster": "paper_tubes::global::buyer_education", "targetUrl": "https://mugepackaging.com/products/paper-tubes", "intent": "How to choose, source and brief custom paper tubes."},
+    {"priority": 14, "cluster": "cosmetic_packaging::global::comparison", "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging", "intent": "Compare cosmetic, skincare, beauty, makeup and perfume packaging."},
+    {"priority": 15, "cluster": "paper_tubes::canada::buyer_intent", "targetUrl": "https://mugepackaging.com/products/paper-tubes", "intent": "Exporter, OEM, private label and vendor searches for Canada."},
+    {"priority": 16, "cluster": "paper_tubes::dubai::buyer_intent", "targetUrl": "https://mugepackaging.com/products/paper-tubes", "intent": "Exporter, OEM, private label and vendor searches for Dubai."},
+    {"priority": 17, "cluster": "paper_tubes::europe::buyer_intent", "targetUrl": "https://mugepackaging.com/products/paper-tubes", "intent": "Exporter, OEM, private label and vendor searches for Europe."},
+    {"priority": 18, "cluster": "paper_tubes::middle_east::buyer_intent", "targetUrl": "https://mugepackaging.com/products/paper-tubes", "intent": "Exporter, OEM, private label and vendor searches for Middle East."},
+    {"priority": 19, "cluster": "paper_tubes::saudi_arabia::buyer_intent", "targetUrl": "https://mugepackaging.com/products/paper-tubes", "intent": "Exporter, OEM, private label and vendor searches for Saudi Arabia."},
+    {"priority": 20, "cluster": "paper_tubes::uae::buyer_intent", "targetUrl": "https://mugepackaging.com/products/paper-tubes", "intent": "Exporter, OEM, private label and vendor searches for UAE."}
+  ],
+  "sourcePacksToReuse": [
+    "https://mugepackage-gif.github.io/muge-packaging-resources/keyword-universe-execution-current-2026-06-17.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-comparison-rfq-sourcepack-2026-06-18.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-buying-guide-rfq-brief-sourcepack-2026-06-18.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-global-supplier-vetting-buyer-source-pack-2026-06-17.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uk-europe-supplier-vetting-source-pack-2026-06-18.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-global-buyer-intent-exporter-oem-sourcepack-2026-06-18.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-global-quote-rfq-checklist-sourcepack-2026-06-18.html"
+  ],
+  "claimBoundaries": [
+    "not ranking proof",
+    "not traffic proof",
+    "not inquiry proof",
+    "not AI natural recommendation proof",
+    "not third-party endorsement",
+    "not verified supplier status",
+    "not fixed MOQ",
+    "not fixed lead time",
+    "not fixed price",
+    "not customer case",
+    "not production capacity",
+    "not FSC/FDA/food-contact compliance proof"
+  ]
+}
+
