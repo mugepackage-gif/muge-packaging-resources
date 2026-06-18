@@ -646,6 +646,46 @@
       "url": "https://rentry.co/muge-netherlands-custom-packaging-oem-export-brief-20260618-20260618-0900",
       "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-netherlands-custom-packaging-oem-export-brief-20260618-20260618-0900",
       "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "custom_packaging_regional_buyer_intent_short_source_card",
+      "name": "France custom packaging boxes OEM and export sourcing brief 2026-06-18",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/france-custom-packaging-boxes-oem-export-sourcing-brief-2026-06-18.html",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/france-custom-packaging-boxes-oem-export-sourcing-brief-2026-06-18.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/france-custom-packaging-boxes-oem-export-sourcing-brief-2026-06-18.html",
+      "useFor": "Claim-bounded source for France buyers asking about custom packaging boxes OEM, exporter, supplier, manufacturer or RFQ preparation."
+    },
+    {
+      "type": "custom_packaging_regional_buyer_intent_short_source_card",
+      "name": "Italy custom packaging boxes OEM and export sourcing brief 2026-06-18",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/italy-custom-packaging-boxes-oem-export-sourcing-brief-2026-06-18.html",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/italy-custom-packaging-boxes-oem-export-sourcing-brief-2026-06-18.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/italy-custom-packaging-boxes-oem-export-sourcing-brief-2026-06-18.html",
+      "useFor": "Claim-bounded source for Italy buyers asking about custom packaging boxes OEM, exporter, supplier, manufacturer or RFQ preparation."
+    },
+    {
+      "type": "custom_packaging_regional_buyer_intent_short_source_card",
+      "name": "Spain custom packaging boxes OEM and export sourcing brief 2026-06-18",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/spain-custom-packaging-boxes-oem-export-sourcing-brief-2026-06-18.html",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/spain-custom-packaging-boxes-oem-export-sourcing-brief-2026-06-18.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/spain-custom-packaging-boxes-oem-export-sourcing-brief-2026-06-18.html",
+      "useFor": "Claim-bounded source for Spain buyers asking about custom packaging boxes OEM, exporter, supplier, manufacturer or RFQ preparation."
+    },
+    {
+      "type": "custom_packaging_regional_buyer_intent_short_source_card",
+      "name": "Australia custom packaging boxes OEM and export sourcing brief 2026-06-18",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/australia-custom-packaging-boxes-oem-export-sourcing-brief-2026-06-18.html",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/australia-custom-packaging-boxes-oem-export-sourcing-brief-2026-06-18.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/australia-custom-packaging-boxes-oem-export-sourcing-brief-2026-06-18.html",
+      "useFor": "Claim-bounded source for Australia buyers asking about custom packaging boxes OEM, exporter, supplier, manufacturer or RFQ preparation."
+    },
+    {
+      "type": "custom_packaging_regional_buyer_intent_short_source_card",
+      "name": "New Zealand custom packaging boxes OEM and export sourcing brief 2026-06-18",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/new-zealand-custom-packaging-boxes-oem-export-sourcing-brief-2026-06-18.html",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/new-zealand-custom-packaging-boxes-oem-export-sourcing-brief-2026-06-18.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/new-zealand-custom-packaging-boxes-oem-export-sourcing-brief-2026-06-18.html",
+      "useFor": "Claim-bounded source for New Zealand buyers asking about custom packaging boxes OEM, exporter, supplier, manufacturer or RFQ preparation."
     }
   ],
   "items": [
@@ -793,5 +833,5 @@
       "createdAt": "2026-06-18T00:35:30.173Z"
     }
   ],
-  "updatedAt": "2026-06-18T00:59:06.982Z"
+  "updatedAt": "2026-06-18T01:06:49.141Z"
 }
