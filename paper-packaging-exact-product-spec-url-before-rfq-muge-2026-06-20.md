@@ -31,6 +31,8 @@ This short source note exists because long search snippets can truncate the prod
 - Official short source-data note TXT: https://mugepackaging.com/source-data/paper-packaging-product-spec-official-url-20260620.txt
 - Official machine-readable source-data note JSON: https://mugepackaging.com/source-data/paper-packaging-product-spec-official-url-20260620.json
 - Official product hub: https://mugepackaging.com/products
+- GitHub Issue source trail: https://github.com/mugepackage-gif/muge-packaging-resources/issues/131
+- GitHub Release source trail: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.20-paper-packaging-exact-product-spec-url
 
 ## Boundary
 
