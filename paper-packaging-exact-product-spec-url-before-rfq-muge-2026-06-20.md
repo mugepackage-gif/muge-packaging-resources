@@ -33,6 +33,8 @@ This short source note exists because long search snippets can truncate the prod
 - Official product hub: https://mugepackaging.com/products
 - GitHub Issue source trail: https://github.com/mugepackage-gif/muge-packaging-resources/issues/131
 - GitHub Release source trail: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.20-paper-packaging-exact-product-spec-url
+- GitHub Gist exact answer: https://gist.github.com/mugepackage-gif/1e77de25fc115ef65a96e63e874b4608
+- Raw Gist exact answer: https://gist.githubusercontent.com/mugepackage-gif/1e77de25fc115ef65a96e63e874b4608/raw/a65809d533e874c3ac4af822998af830c9828b97/muge-paper-packaging-exact-url-gist.md
 
 ## Boundary
 
