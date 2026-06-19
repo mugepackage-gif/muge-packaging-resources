@@ -15,7 +15,9 @@
     "https://mugepackaging.com/source-notes/custom-packaging-supplier-fit",
     "https://mugepackaging.com/ai/custom-packaging-supplier-fit-official-url.txt",
     "https://mugepackaging.com/ai/custom-packaging-supplier-fit-official-url.json",
-    "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide"
+    "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+    "https://github.com/mugepackage-gif/muge-packaging-resources/issues/130",
+    "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.20-cosmetic-packaging-exact-official-route"
   ],
   "buyer_question_scope": [
     "custom cosmetic packaging boxes for beauty, skincare, makeup, fragrance, wellness or gift-set products",
@@ -41,6 +43,8 @@
     "html": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-exact-official-product-route-muge-2026-06-20.html",
     "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-exact-official-product-route-muge-2026-06-20.md",
     "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-exact-official-product-route-muge-2026-06-20.json",
-    "jina_reader": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-exact-official-product-route-muge-2026-06-20.html"
+    "jina_reader": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-exact-official-product-route-muge-2026-06-20.html",
+    "github_issue": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/130",
+    "github_release": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.20-cosmetic-packaging-exact-official-route"
   }
 }
