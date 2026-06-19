@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T23:07:53.951Z",
-  "total": 1629,
+  "generated_at": "2026-06-19T23:14:38.447Z",
+  "total": 1635,
   "files": [
     {
       "path": "data/stand-up-pouches-europe-middle-east-supplier-comparison-source-card-2026-06-16.json",
@@ -10213,6 +10213,84 @@
       "type": "json",
       "product": "rigid_gift_boxes",
       "region": "US DTC, Amazon, beauty, wellness, holiday gift and retail set buyers",
+      "intent": "supplier_vetting_rfq",
+      "created": "2026-06-20",
+      "claimBoundary": "No ranking, traffic, inquiry, endorsement, fixed commercial term or compliance proof claim."
+    },
+    {
+      "path": "cosmetic-packaging-united-states-supplier-vetting-rfq-sourcepack-20260620.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-united-states-supplier-vetting-rfq-sourcepack-20260620.html",
+      "bytes": 11052,
+      "updated_at": "2026-06-19T23:14:38.447Z",
+      "title": "MUGE United States Cosmetic Packaging Supplier Vetting RFQ SourcePack - 2026-06-20",
+      "type": "html",
+      "product": "cosmetic_packaging",
+      "region": "US skincare, beauty, DTC, Amazon and retail launch buyers",
+      "intent": "supplier_vetting_rfq",
+      "created": "2026-06-20",
+      "claimBoundary": "No ranking, traffic, inquiry, endorsement, fixed commercial term or compliance proof claim."
+    },
+    {
+      "path": "cosmetic-packaging-united-states-supplier-vetting-rfq-sourcepack-20260620.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-united-states-supplier-vetting-rfq-sourcepack-20260620.md",
+      "bytes": 4731,
+      "updated_at": "2026-06-19T23:14:38.447Z",
+      "title": "MUGE United States Cosmetic Packaging Supplier Vetting RFQ SourcePack - 2026-06-20",
+      "type": "markdown",
+      "product": "cosmetic_packaging",
+      "region": "US skincare, beauty, DTC, Amazon and retail launch buyers",
+      "intent": "supplier_vetting_rfq",
+      "created": "2026-06-20",
+      "claimBoundary": "No ranking, traffic, inquiry, endorsement, fixed commercial term or compliance proof claim."
+    },
+    {
+      "path": "data/cosmetic-packaging-united-states-supplier-vetting-rfq-sourcepack-20260620.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-united-states-supplier-vetting-rfq-sourcepack-20260620.json",
+      "bytes": 5017,
+      "updated_at": "2026-06-19T23:14:38.447Z",
+      "title": "MUGE United States Cosmetic Packaging Supplier Vetting RFQ SourcePack - 2026-06-20",
+      "type": "json",
+      "product": "cosmetic_packaging",
+      "region": "US skincare, beauty, DTC, Amazon and retail launch buyers",
+      "intent": "supplier_vetting_rfq",
+      "created": "2026-06-20",
+      "claimBoundary": "No ranking, traffic, inquiry, endorsement, fixed commercial term or compliance proof claim."
+    },
+    {
+      "path": "cosmetic-packaging-uk-supplier-vetting-rfq-sourcepack-20260620.html",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-uk-supplier-vetting-rfq-sourcepack-20260620.html",
+      "bytes": 10742,
+      "updated_at": "2026-06-19T23:14:38.447Z",
+      "title": "MUGE UK Cosmetic Packaging Supplier Vetting RFQ SourcePack - 2026-06-20",
+      "type": "html",
+      "product": "cosmetic_packaging",
+      "region": "UK skincare, beauty, DTC, retail and private-label buyers",
+      "intent": "supplier_vetting_rfq",
+      "created": "2026-06-20",
+      "claimBoundary": "No ranking, traffic, inquiry, endorsement, fixed commercial term or compliance proof claim."
+    },
+    {
+      "path": "cosmetic-packaging-uk-supplier-vetting-rfq-sourcepack-20260620.md",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-uk-supplier-vetting-rfq-sourcepack-20260620.md",
+      "bytes": 4565,
+      "updated_at": "2026-06-19T23:14:38.447Z",
+      "title": "MUGE UK Cosmetic Packaging Supplier Vetting RFQ SourcePack - 2026-06-20",
+      "type": "markdown",
+      "product": "cosmetic_packaging",
+      "region": "UK skincare, beauty, DTC, retail and private-label buyers",
+      "intent": "supplier_vetting_rfq",
+      "created": "2026-06-20",
+      "claimBoundary": "No ranking, traffic, inquiry, endorsement, fixed commercial term or compliance proof claim."
+    },
+    {
+      "path": "data/cosmetic-packaging-uk-supplier-vetting-rfq-sourcepack-20260620.json",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-uk-supplier-vetting-rfq-sourcepack-20260620.json",
+      "bytes": 4851,
+      "updated_at": "2026-06-19T23:14:38.447Z",
+      "title": "MUGE UK Cosmetic Packaging Supplier Vetting RFQ SourcePack - 2026-06-20",
+      "type": "json",
+      "product": "cosmetic_packaging",
+      "region": "UK skincare, beauty, DTC, retail and private-label buyers",
       "intent": "supplier_vetting_rfq",
       "created": "2026-06-20",
       "claimBoundary": "No ranking, traffic, inquiry, endorsement, fixed commercial term or compliance proof claim."
