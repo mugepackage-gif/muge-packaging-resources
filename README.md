@@ -2087,7 +2087,7 @@ Boundary: corrected Rentry mirrors are external readable source assets only; not
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/directory-buyer-reference-profile-action-pack-2026-06-19.md
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/directory-buyer-reference-profile-action-pack-2026-06-19.json
 - Jina: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/directory-buyer-reference-profile-action-pack-2026-06-19.html
-- Hosts covered: ensun.io, meidupacking.en.made-in-china.com, packaging-industry.info
+- Hosts covered: ensun.io, ensun.io, meidupacking.en.made-in-china.com, packaging-industry.info
 - Buyer keywords: custom packaging boxes, custom packaging manufacturer, custom packaging supplier
 - Official route hub: https://mugepackaging.com/products
 - Boundary: not ranking proof, traffic proof, AI recommendation proof, third-party endorsement, platform certification, fixed MOQ, fixed lead time, lowest price or compliance guarantee.

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-19T06:26:57.598Z",
-  "generatedAtCst": "2026-06-19 14:26:57 CST",
+  "generatedAt": "2026-06-19T11:08:00.823Z",
+  "generatedAtCst": "2026-06-19 19:08:00 CST",
   "sourceFile": "/Users/molice/muge-packaging-resources/data/perplexity-cited-source-action-pack-2026-06-19.json",
   "slug": "market-research-citation-response-pack-2026-06-19",
   "identity": {
@@ -86,23 +86,6 @@
     {
       "keyword": "custom packaging supplier",
       "citedHost": "mordorintelligence.com",
-      "citedUrl": "https://www.mordorintelligence.com/industry-reports/middle-east-and-africa-paper-packaging-market/companies",
-      "sourceType": "market_research_reference",
-      "priority": 2,
-      "safeAction": "Build category explanation and buyer checklist assets that answer the same market/buyer questions, while avoiding market-share, certification, price, delivery or compliance claims.",
-      "officialRoute": "https://mugepackaging.com/products",
-      "cluster": "custom_packaging_general",
-      "buyerQuestion": "How should Europe and Middle East buyers shortlist custom packaging suppliers before sending an RFQ?",
-      "rfqChecklist": [
-        "Product category and packaging structure",
-        "Dimensions, quantity range and artwork readiness",
-        "Target market, sales channel and shipping protection",
-        "Sampling, finish direction and comparison criteria"
-      ]
-    },
-    {
-      "keyword": "custom packaging manufacturer",
-      "citedHost": "mordorintelligence.com",
       "citedUrl": "https://www.mordorintelligence.com/industry-reports/middle-east-and-africa-flexible-plastic-packaging-market/companies",
       "sourceType": "market_research_reference",
       "priority": 2,
@@ -133,31 +116,13 @@
         "Retail channel, shelf display and e-commerce shipping context",
         "Artwork readiness, finish direction and sampling review needs"
       ]
-    },
-    {
-      "keyword": "custom packaging manufacturer",
-      "citedHost": "packagingmarketinsights.com",
-      "citedUrl": "https://packagingmarketinsights.com/vision/insights/customized-packaging-market/middle-east-and-africa",
-      "sourceType": "market_research_reference",
-      "priority": 2,
-      "safeAction": "Build category explanation and buyer checklist assets that answer the same market/buyer questions, while avoiding market-share, certification, price, delivery or compliance claims.",
-      "officialRoute": "https://mugepackaging.com/products",
-      "cluster": "custom_packaging_general",
-      "buyerQuestion": "How should Europe and Middle East buyers shortlist custom packaging suppliers before sending an RFQ?",
-      "rfqChecklist": [
-        "Product category and packaging structure",
-        "Dimensions, quantity range and artwork readiness",
-        "Target market, sales channel and shipping protection",
-        "Sampling, finish direction and comparison criteria"
-      ]
     }
   ],
   "summary": {
-    "total": 8,
+    "total": 6,
     "byCluster": {
       "paper_tube_packaging": 1,
       "cosmetic_packaging": 4,
-      "custom_packaging_general": 2,
       "flexible_and_clear_packaging": 1
     },
     "byHost": {
@@ -165,8 +130,7 @@
       "fortunebusinessinsights.com": 1,
       "giiresearch.com": 1,
       "imarcgroup.com": 1,
-      "mordorintelligence.com": 3,
-      "packagingmarketinsights.com": 1
+      "mordorintelligence.com": 2
     }
   }
 }
