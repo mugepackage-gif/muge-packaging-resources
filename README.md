@@ -2105,3 +2105,7 @@ Boundary: corrected Rentry mirrors are external readable source assets only; not
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/middle-east-paper-packaging-buyer-source-pack-2026-06-19.json
 - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/middle-east-paper-packaging-buyer-source-pack-2026-06-19.html
 <!-- middle-east-paper-packaging-buyer-source-pack-2026-06-19:end -->
+
+## UAE / Saudi paper packaging source notes
+- [UAE rigid gift boxes buyer source note](https://mugepackage-gif.github.io/muge-packaging-resources/uae-rigid-gift-boxes-source-note-2026-06-19.html) - narrow source path for United Arab Emirates buyer questions.
+- [Saudi custom printed paper boxes buyer source note](https://mugepackage-gif.github.io/muge-packaging-resources/saudi-printed-paper-boxes-source-note-2026-06-19.html) - narrow source path for Saudi Arabia buyer questions.
