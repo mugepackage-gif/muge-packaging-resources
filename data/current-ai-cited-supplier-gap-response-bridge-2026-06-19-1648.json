@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-06-19T16:48:00+08:00",
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "purpose": "map current AI-cited packaging supplier sources to MUGE PACKAGING official RFQ routes",
+  "official_routes": [
+    "https://mugepackaging.com",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/products/cosmetic-packaging",
+    "https://mugepackaging.com/products/paper-tubes",
+    "https://mugepackaging.com/products/folding-gift-box",
+    "https://mugepackaging.com/contact"
+  ],
+  "source_patterns": [
+    {
+      "buyer_query": "custom packaging supplier",
+      "ai_cited_pattern": ["Middle East Packages", "SG Colmar", "Sonoco EMEA", "Packhelp", "International Paper", "Packsize"],
+      "muge_route": "https://mugepackaging.com/products"
+    },
+    {
+      "buyer_query": "custom packaging manufacturer",
+      "ai_cited_pattern": ["KBC Packaging", "SG Colmar", "Europages", "Ensun", "Packhelp"],
+      "muge_route": "https://mugepackaging.com/products"
+    },
+    {
+      "buyer_query": "custom packaging boxes",
+      "ai_cited_pattern": ["Packly", "PakFactory", "Century Print", "Packlane", "Custompack.eu", "China supplier result patterns"],
+      "muge_route": "https://mugepackaging.com/products"
+    },
+    {
+      "buyer_query": "cosmetic packaging supplier",
+      "ai_cited_pattern": ["Quadpack", "Berlin Packaging Beauty", "Albea", "Amcor", "Caps and Jars", "OthilaPak"],
+      "muge_route": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "buyer_query": "paper tube packaging supplier",
+      "ai_cited_pattern": ["Balkan Paper", "Tubitex", "BETUBED", "Sonoco EMEA", "PaperTube.co", "market reports"],
+      "muge_route": "https://mugepackaging.com/products/paper-tubes"
+    }
+  ],
+  "boundary": "source discovery, buyer comparison and RFQ preparation only; not proof of ranking, traffic, inquiry, endorsement, certification, platform verification, preset commercial terms or destination-market compliance"
+}
