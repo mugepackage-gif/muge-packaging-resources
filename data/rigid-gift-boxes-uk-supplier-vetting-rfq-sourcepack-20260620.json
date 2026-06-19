@@ -1,0 +1,99 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "MUGE UK Rigid Gift Boxes Supplier Vetting RFQ SourcePack - 2026-06-20",
+  "datePublished": "2026-06-20",
+  "publisher": {
+    "@type": "Organization",
+    "name": "MUGE PACKAGING",
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "url": "https://mugepackaging.com"
+  },
+  "buyerQuestion": "How should UK buyers vet a rigid gift boxes supplier before sampling or RFQ?",
+  "buyerSegment": "UK DTC, retail, beauty, wellness and gift box buyers",
+  "officialSourceUrls": [
+    "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/contact",
+    "https://mugepackaging.com"
+  ],
+  "keywordRoute": [
+    {
+      "position": 1,
+      "keyword": "rigid gift boxes supplier uk",
+      "targetUrl": "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+      "intent": "supplier_vetting"
+    },
+    {
+      "position": 2,
+      "keyword": "rigid gift box manufacturer uk",
+      "targetUrl": "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+      "intent": "supplier_vetting"
+    },
+    {
+      "position": 3,
+      "keyword": "custom rigid gift boxes supplier uk",
+      "targetUrl": "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+      "intent": "supplier_vetting"
+    },
+    {
+      "position": 4,
+      "keyword": "luxury gift box supplier uk",
+      "targetUrl": "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+      "intent": "supplier_vetting"
+    },
+    {
+      "position": 5,
+      "keyword": "magnetic closure gift box supplier uk",
+      "targetUrl": "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+      "intent": "supplier_vetting"
+    },
+    {
+      "position": 6,
+      "keyword": "premium rigid box packaging supplier uk",
+      "targetUrl": "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+      "intent": "supplier_vetting"
+    },
+    {
+      "position": 7,
+      "keyword": "rigid gift boxes custom quote uk",
+      "targetUrl": "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+      "intent": "quote_rfq"
+    },
+    {
+      "position": 8,
+      "keyword": "rigid gift boxes china manufacturer uk",
+      "targetUrl": "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+      "intent": "supplier_vetting"
+    },
+    {
+      "position": 9,
+      "keyword": "rigid gift boxes factory uk",
+      "targetUrl": "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+      "intent": "supplier_vetting"
+    },
+    {
+      "position": 10,
+      "keyword": "retail gift box packaging supplier uk",
+      "targetUrl": "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+      "intent": "supplier_vetting"
+    }
+  ],
+  "rfqChecklist": [
+    "Product dimensions, packed weight and retail channel",
+    "Box structure direction, such as magnetic closure, drawer, shoulder-neck, book-style or lid-and-base",
+    "Insert requirement, such as paper card, EVA, foam, molded pulp or tray direction",
+    "Artwork status, logo files, color reference, copy area and barcode or label space",
+    "Surface finish reference, such as matte, gloss, foil, embossing, debossing, spot UV or texture",
+    "Quantity direction for review, without treating this as a fixed MOQ claim",
+    "Sampling purpose: structure fit, material feel, insert, finish, artwork or packing review",
+    "Destination market and document questions that need project-specific review"
+  ],
+  "publicFiles": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-uk-supplier-vetting-rfq-sourcepack-20260620.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-uk-supplier-vetting-rfq-sourcepack-20260620.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-boxes-uk-supplier-vetting-rfq-sourcepack-20260620.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-uk-supplier-vetting-rfq-sourcepack-20260620.html"
+  },
+  "claimBoundary": "This SourcePack is for buyer education, RFQ preparation and official source routing only. It is not proof of Google ranking, GSC clicks, traffic, inquiry generation, AI natural recommendation, third-party endorsement or platform verification. It does not state fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact status or regulatory approval. Rigid gift box structure, inserts, documents and destination-market questions should be reviewed case by case."
+}
