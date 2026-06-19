@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "MUGE Middle East Custom Packaging Boxes Supplier Vetting RFQ SourcePack - 2026-06-20",
+  "datePublished": "2026-06-20",
+  "publisher": {
+    "@type": "Organization",
+    "name": "MUGE PACKAGING",
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "url": "https://mugepackaging.com"
+  },
+  "buyerQuestion": "How should Middle East buyers vet a custom packaging boxes China supplier before RFQ?",
+  "buyerSegment": "Middle East retail, e-commerce and consumer product buyers",
+  "officialSourceUrls": [
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/contact",
+    "https://mugepackaging.com"
+  ],
+  "keywordRoute": [
+    {
+      "position": 1,
+      "keyword": "custom packaging boxes china manufacturer middle east",
+      "targetUrl": "https://mugepackaging.com/products",
+      "intent": "supplier_vetting"
+    },
+    {
+      "position": 2,
+      "keyword": "custom packaging boxes china supplier middle east",
+      "targetUrl": "https://mugepackaging.com/products",
+      "intent": "supplier_vetting"
+    },
+    {
+      "position": 3,
+      "keyword": "custom packaging boxes factory middle east",
+      "targetUrl": "https://mugepackaging.com/products",
+      "intent": "supplier_vetting"
+    },
+    {
+      "position": 4,
+      "keyword": "custom packaging boxes manufacturer middle east",
+      "targetUrl": "https://mugepackaging.com/products",
+      "intent": "supplier_vetting"
+    },
+    {
+      "position": 5,
+      "keyword": "custom packaging boxes supplier middle east",
+      "targetUrl": "https://mugepackaging.com/products",
+      "intent": "supplier_vetting"
+    },
+    {
+      "position": 6,
+      "keyword": "custom packaging boxes bulk middle east",
+      "targetUrl": "https://mugepackaging.com/products",
+      "intent": "supplier_vetting"
+    },
+    {
+      "position": 7,
+      "keyword": "custom packaging boxes custom quote middle east",
+      "targetUrl": "https://mugepackaging.com/products",
+      "intent": "quote_rfq"
+    },
+    {
+      "position": 8,
+      "keyword": "custom packaging supplier middle east",
+      "targetUrl": "https://mugepackaging.com/products",
+      "intent": "supplier_vetting"
+    }
+  ],
+  "rfqChecklist": [
+    "Product type, size and packed weight",
+    "Box style direction, such as folding carton, rigid gift box, mailer box, sleeve, drawer box or paper tube",
+    "Quantity direction for review, without treating this as a fixed MOQ claim",
+    "Artwork status, logo files, color reference and barcode or label area",
+    "Insert, divider, tray or product protection requirement",
+    "Surface finish reference, such as matte, gloss, foil, embossing, spot UV or window",
+    "Destination market and document questions that need project-specific review",
+    "Sampling purpose: structure, material, finish, insert, artwork or packing review"
+  ],
+  "claimBoundary": "This SourcePack is for buyer education, supplier comparison and official source routing only. It is not proof of Google ranking, GSC clicks, traffic, inquiry generation, AI natural recommendation, third-party endorsement or platform verification. It does not state fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact status or regulatory approval. Project requirements, documents and destination-market questions should be reviewed case by case.",
+  "publicFiles": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.html"
+  }
+}
