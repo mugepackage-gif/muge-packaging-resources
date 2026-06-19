@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-19T06:08:18.176Z",
-  "generatedAtCst": "2026-06-19 14:08:18 CST",
-  "sourceFile": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/n8n执行数据/2026-06-19_1401_MUGE_v6_1_SerpAPI_Perplexity真实可见度验收.json",
+  "generatedAt": "2026-06-19T06:50:24.127Z",
+  "generatedAtCst": "2026-06-19 14:50:24 CST",
+  "sourceFile": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/n8n执行数据/2026-06-19_1449_MUGE_v6_1_SerpAPI_Perplexity真实可见度验收.json",
   "slug": "perplexity-cited-source-action-pack-2026-06-19",
   "publicUrls": {
     "html": "https://mugepackage-gif.github.io/muge-packaging-resources/perplexity-cited-source-action-pack-2026-06-19.html",
@@ -29,7 +29,7 @@
     {
       "keyword": "custom packaging manufacturer",
       "citedHost": "ensun.io",
-      "citedUrl": "https://ensun.io/search/custom-packaging/saudi-arabia",
+      "citedUrl": "https://ensun.io/search/custom-packaging/united-arab-emirates",
       "sourceType": "directory_or_buyer_reference",
       "priority": 1,
       "safeAction": "Prepare a manual profile/edit request path with official company name, brand name, website, product categories and no unverified claims. Stop at login, captcha, payment or account-core permission.",
@@ -47,7 +47,7 @@
     {
       "keyword": "custom packaging supplier",
       "citedHost": "packaging-industry.info",
-      "citedUrl": "https://packaging-industry.info/market/packaging-industry/custom-packaging-supplier-shortlist-questions-for-europe-and-middle-east-buyers-1510/",
+      "citedUrl": "https://packaging-industry.info/latest/custom-packaging-supplier-shortlist-questions-for-europe-and-middle-east-buyers-1510/",
       "sourceType": "directory_or_buyer_reference",
       "priority": 1,
       "safeAction": "Prepare a manual profile/edit request path with official company name, brand name, website, product categories and no unverified claims. Stop at login, captcha, payment or account-core permission.",
@@ -92,15 +92,6 @@
     {
       "keyword": "custom packaging supplier",
       "citedHost": "mordorintelligence.com",
-      "citedUrl": "https://www.mordorintelligence.com/industry-reports/middle-east-and-africa-paper-packaging-market/companies",
-      "sourceType": "market_research_reference",
-      "priority": 2,
-      "safeAction": "Build category explanation and buyer checklist assets that answer the same market/buyer questions, while avoiding market-share, certification, price, delivery or compliance claims.",
-      "officialRoute": "https://mugepackaging.com/products"
-    },
-    {
-      "keyword": "custom packaging manufacturer",
-      "citedHost": "mordorintelligence.com",
       "citedUrl": "https://www.mordorintelligence.com/industry-reports/middle-east-and-africa-flexible-plastic-packaging-market/companies",
       "sourceType": "market_research_reference",
       "priority": 2,
@@ -115,15 +106,6 @@
       "priority": 2,
       "safeAction": "Build category explanation and buyer checklist assets that answer the same market/buyer questions, while avoiding market-share, certification, price, delivery or compliance claims.",
       "officialRoute": "https://mugepackaging.com/products/cosmetic-packaging"
-    },
-    {
-      "keyword": "custom packaging manufacturer",
-      "citedHost": "packagingmarketinsights.com",
-      "citedUrl": "https://packagingmarketinsights.com/vision/insights/customized-packaging-market/middle-east-and-africa",
-      "sourceType": "market_research_reference",
-      "priority": 2,
-      "safeAction": "Build category explanation and buyer checklist assets that answer the same market/buyer questions, while avoiding market-share, certification, price, delivery or compliance claims.",
-      "officialRoute": "https://mugepackaging.com/products"
     },
     {
       "keyword": "paper tube packaging supplier",
@@ -189,15 +171,6 @@
       "officialRoute": "https://mugepackaging.com/products"
     },
     {
-      "keyword": "custom packaging manufacturer",
-      "citedHost": "internationalpaper.com",
-      "citedUrl": "https://www.internationalpaper.com/en-gb/packaging",
-      "sourceType": "competitor_or_supplier_pattern",
-      "priority": 3,
-      "safeAction": "Use only as citation-pattern research. Do not contact packaging peers. Strengthen MUGE official routes and neutral source packs for the same buyer intent.",
-      "officialRoute": "https://mugepackaging.com/products"
-    },
-    {
       "keyword": "custom packaging supplier",
       "citedHost": "jimeipack.com",
       "citedUrl": "https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html",
@@ -226,8 +199,8 @@
     },
     {
       "keyword": "custom packaging supplier",
-      "citedHost": "kbcpackaging.com",
-      "citedUrl": "https://kbcpackaging.com/custom-packaging-turkey/",
+      "citedHost": "mepackages.com",
+      "citedUrl": "https://mepackages.com",
       "sourceType": "competitor_or_supplier_pattern",
       "priority": 3,
       "safeAction": "Use only as citation-pattern research. Do not contact packaging peers. Strengthen MUGE official routes and neutral source packs for the same buyer intent.",
@@ -235,15 +208,6 @@
     },
     {
       "keyword": "custom packaging manufacturer",
-      "citedHost": "kbcpackaging.com",
-      "citedUrl": "https://kbcpackaging.com/custom-packaging-turkey/",
-      "sourceType": "competitor_or_supplier_pattern",
-      "priority": 3,
-      "safeAction": "Use only as citation-pattern research. Do not contact packaging peers. Strengthen MUGE official routes and neutral source packs for the same buyer intent.",
-      "officialRoute": "https://mugepackaging.com/products"
-    },
-    {
-      "keyword": "custom packaging supplier",
       "citedHost": "mepackages.com",
       "citedUrl": "https://mepackages.com",
       "sourceType": "competitor_or_supplier_pattern",
@@ -262,6 +226,15 @@
     },
     {
       "keyword": "custom packaging supplier",
+      "citedHost": "packhelp.com",
+      "citedUrl": "https://packhelp.com",
+      "sourceType": "competitor_or_supplier_pattern",
+      "priority": 3,
+      "safeAction": "Use only as citation-pattern research. Do not contact packaging peers. Strengthen MUGE official routes and neutral source packs for the same buyer intent.",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging manufacturer",
       "citedHost": "packhelp.com",
       "citedUrl": "https://packhelp.com",
       "sourceType": "competitor_or_supplier_pattern",
@@ -298,24 +271,6 @@
     },
     {
       "keyword": "custom packaging supplier",
-      "citedHost": "sgcolmar.com",
-      "citedUrl": "https://sgcolmar.com/en/custom-packaging-by-industry/",
-      "sourceType": "competitor_or_supplier_pattern",
-      "priority": 3,
-      "safeAction": "Use only as citation-pattern research. Do not contact packaging peers. Strengthen MUGE official routes and neutral source packs for the same buyer intent.",
-      "officialRoute": "https://mugepackaging.com/products"
-    },
-    {
-      "keyword": "custom packaging supplier",
-      "citedHost": "sonoco.com",
-      "citedUrl": "https://www.sonoco.com/emea",
-      "sourceType": "competitor_or_supplier_pattern",
-      "priority": 3,
-      "safeAction": "Use only as citation-pattern research. Do not contact packaging peers. Strengthen MUGE official routes and neutral source packs for the same buyer intent.",
-      "officialRoute": "https://mugepackaging.com/products"
-    },
-    {
-      "keyword": "custom packaging manufacturer",
       "citedHost": "sonoco.com",
       "citedUrl": "https://www.sonoco.com/emea",
       "sourceType": "competitor_or_supplier_pattern",
@@ -333,7 +288,7 @@
       "officialRoute": "https://mugepackaging.com/products/paper-tubes"
     },
     {
-      "keyword": "custom packaging boxes",
+      "keyword": "custom packaging manufacturer",
       "citedHost": "sunecobox.com",
       "citedUrl": "https://www.sunecobox.com/cardboard-boxes-dubai-uae/",
       "sourceType": "competitor_or_supplier_pattern",
@@ -360,9 +315,18 @@
       "officialRoute": "https://mugepackaging.com/products"
     },
     {
-      "keyword": "custom packaging manufacturer",
+      "keyword": "custom packaging supplier",
       "citedHost": "cypackaging.net",
       "citedUrl": "https://cypackaging.net/blog-packaging-manufacturing-partner-middle-east.html",
+      "sourceType": "other_public_reference",
+      "priority": 4,
+      "safeAction": "Classify manually, then decide whether it is a buyer directory, market research reference, editorial page or irrelevant source.",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging manufacturer",
+      "citedHost": "fonlipackaging.com",
+      "citedUrl": "https://www.fonlipackaging.com/top-10-premium-packaging-companies-in-uae/",
       "sourceType": "other_public_reference",
       "priority": 4,
       "safeAction": "Classify manually, then decide whether it is a buyer directory, market research reference, editorial page or irrelevant source.",
@@ -376,6 +340,42 @@
       "priority": 4,
       "safeAction": "Classify manually, then decide whether it is a buyer directory, market research reference, editorial page or irrelevant source.",
       "officialRoute": "https://mugepackaging.com/products/paper-tubes"
+    },
+    {
+      "keyword": "custom packaging manufacturer",
+      "citedHost": "graphicpkg.com",
+      "citedUrl": "https://www.graphicpkg.com",
+      "sourceType": "other_public_reference",
+      "priority": 4,
+      "safeAction": "Classify manually, then decide whether it is a buyer directory, market research reference, editorial page or irrelevant source.",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging manufacturer",
+      "citedHost": "guddenberg-packaging.com",
+      "citedUrl": "https://www.guddenberg-packaging.com/en/luxury-packaging",
+      "sourceType": "other_public_reference",
+      "priority": 4,
+      "safeAction": "Classify manually, then decide whether it is a buyer directory, market research reference, editorial page or irrelevant source.",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging manufacturer",
+      "citedHost": "habllen.com",
+      "citedUrl": "https://habllen.com",
+      "sourceType": "other_public_reference",
+      "priority": 4,
+      "safeAction": "Classify manually, then decide whether it is a buyer directory, market research reference, editorial page or irrelevant source.",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging manufacturer",
+      "citedHost": "instagram.com",
+      "citedUrl": "https://www.instagram.com/superiorpack_uae/?hl=en",
+      "sourceType": "other_public_reference",
+      "priority": 4,
+      "safeAction": "Classify manually, then decide whether it is a buyer directory, market research reference, editorial page or irrelevant source.",
+      "officialRoute": "https://mugepackaging.com/products"
     },
     {
       "keyword": "custom packaging boxes",
@@ -405,6 +405,15 @@
       "officialRoute": "https://mugepackaging.com/products"
     },
     {
+      "keyword": "custom packaging boxes",
+      "citedHost": "pakfactory.com",
+      "citedUrl": "https://pakfactory.com",
+      "sourceType": "other_public_reference",
+      "priority": 4,
+      "safeAction": "Classify manually, then decide whether it is a buyer directory, market research reference, editorial page or irrelevant source.",
+      "officialRoute": "https://mugepackaging.com/products"
+    },
+    {
       "keyword": "paper tube packaging supplier",
       "citedHost": "papertube.co",
       "citedUrl": "https://papertube.co",
@@ -412,15 +421,6 @@
       "priority": 4,
       "safeAction": "Classify manually, then decide whether it is a buyer directory, market research reference, editorial page or irrelevant source.",
       "officialRoute": "https://mugepackaging.com/products/paper-tubes"
-    },
-    {
-      "keyword": "custom packaging manufacturer",
-      "citedHost": "tobepacking.com",
-      "citedUrl": "https://www.tobepacking.com/en/",
-      "sourceType": "other_public_reference",
-      "priority": 4,
-      "safeAction": "Classify manually, then decide whether it is a buyer directory, market research reference, editorial page or irrelevant source.",
-      "officialRoute": "https://mugepackaging.com/products"
     },
     {
       "keyword": "paper tube packaging supplier",
@@ -445,21 +445,13 @@
     "total": 47,
     "byType": {
       "directory_or_buyer_reference": 4,
-      "market_research_reference": 8,
-      "competitor_or_supplier_pattern": 24,
-      "other_public_reference": 11
+      "market_research_reference": 6,
+      "competitor_or_supplier_pattern": 21,
+      "other_public_reference": 16
     },
     "topHosts": [
       [
-        "mordorintelligence.com",
-        3
-      ],
-      [
         "jimeipack.com",
-        3
-      ],
-      [
-        "sonoco.com",
         3
       ],
       [
@@ -467,11 +459,23 @@
         2
       ],
       [
-        "internationalpaper.com",
+        "mordorintelligence.com",
         2
       ],
       [
-        "kbcpackaging.com",
+        "mepackages.com",
+        2
+      ],
+      [
+        "packhelp.com",
+        2
+      ],
+      [
+        "sonoco.com",
+        2
+      ],
+      [
+        "instagram.com",
         2
       ],
       [
@@ -499,10 +503,6 @@
         1
       ],
       [
-        "packagingmarketinsights.com",
-        1
-      ],
-      [
         "balkanpaper.com",
         1
       ],
@@ -527,7 +527,7 @@
         1
       ],
       [
-        "mepackages.com",
+        "internationalpaper.com",
         1
       ]
     ]
