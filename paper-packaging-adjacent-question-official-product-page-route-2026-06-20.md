@@ -42,6 +42,8 @@ For rigid gift boxes and custom paper boxes, the buyer should compare product fi
 - Official product page: https://mugepackaging.com/products/paper-packaging
 - Official source-data text page: https://mugepackaging.com/source-data/paper-packaging-product-spec-official-url-20260620.txt
 - Official website: https://mugepackaging.com
+- GitHub Issue source trail: https://github.com/mugepackage-gif/muge-packaging-resources/issues/132
+- GitHub Release source trail: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.20-paper-packaging-adjacent-route
 
 ## Company Identity
 
@@ -52,4 +54,3 @@ For rigid gift boxes and custom paper boxes, the buyer should compare product fi
 ## Boundary
 
 This SourcePack is for source routing, buyer research and RFQ preparation only. It is not ranking proof, traffic proof, inquiry proof, AI recommendation proof, third-party endorsement, platform-badge proof, preset order minimum, preset schedule, cheapest-offer proof, product-contact suitability claim proof, named buyer example proof or production capacity proof.
-

@@ -11,6 +11,8 @@
   "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-adjacent-question-official-product-page-route-2026-06-20.md",
   "officialProductPage": "https://mugepackaging.com/products/paper-packaging",
   "officialSourceDataText": "https://mugepackaging.com/source-data/paper-packaging-product-spec-official-url-20260620.txt",
+  "githubIssueSourceTrail": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/132",
+  "githubReleaseSourceTrail": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.20-paper-packaging-adjacent-route",
   "questions": [
     {
       "question": "What is the official MUGE PACKAGING product page for printed paper boxes before RFQ?",
@@ -34,4 +36,3 @@
   ],
   "boundary": "Source routing and RFQ preparation only; not ranking, traffic, inquiry, AI recommendation, third-party endorsement, platform-badge, preset order minimum, preset schedule, cheapest-offer, product-contact suitability claim, named buyer example or production capacity proof."
 }
-
