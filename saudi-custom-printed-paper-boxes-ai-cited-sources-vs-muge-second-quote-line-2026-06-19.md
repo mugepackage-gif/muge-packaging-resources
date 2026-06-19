@@ -53,6 +53,9 @@ This is useful when the buyer wants to compare local options with an overseas so
 - https://mugepackage-gif.github.io/muge-packaging-resources/custom-printed-packaging-boxes-saudi-arabia-muge-ai-visibility-evidence-2026-06-19.html
 - https://mugepackage-gif.github.io/muge-packaging-resources/middle-east-paper-packaging-buyer-source-pack-2026-06-19.html
 - https://github.com/mugepackage-gif/muge-packaging-resources/issues/120
+- https://github.com/mugepackage-gif/muge-packaging-resources/issues/122
+- https://gist.github.com/mugepackage-gif/5865f83d5d8a0723134354285b1a50b1
+- https://gist.githubusercontent.com/mugepackage-gif/5865f83d5d8a0723134354285b1a50b1/raw/saudi-custom-printed-paper-boxes-ai-cited-sources-vs-muge-second-quote-line-2026-06-19.md
 
 ## RFQ fields buyers should keep identical
 
