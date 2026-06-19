@@ -4,6 +4,9 @@
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-supplier-fit-exact-official-url-answer-2026-06-19.md
 - Raw Markdown: https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/custom-packaging-supplier-fit-exact-official-url-answer-2026-06-19.md
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-supplier-fit-exact-official-url-answer-2026-06-19.json
+- GitHub issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/125
+- GitHub release: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.19-custom-packaging-supplier-fit-exact-official-url
+- GitHub gist: https://gist.github.com/mugepackage-gif/5ac74f41c3bd2dbd9ced2cb8c95dda4d
 - Official mapped pages: https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company ; https://mugepackaging.com/blog/custom-packaging-quote-checklist ; https://mugepackaging.com/products ; https://mugepackaging.com/about
 - Boundary: source-routing and RFQ preparation only; not ranking, traffic, inquiry, AI recommendation, endorsement, verified supplier, fixed MOQ, fixed lead time, lowest price, food-contact compliance, customer-case or production-capacity proof.
 <!-- MUGE_CUSTOM_PACKAGING_SUPPLIER_FIT_EXACT_OFFICIAL_URL_ANSWER_20260619:end -->
