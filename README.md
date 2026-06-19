@@ -1,3 +1,14 @@
+<!-- MUGE_PAPER_TUBE_COSMETIC_TEA_CANDLE_FRAGRANCE_RFQ_SOURCE_PACK_20260619:start -->
+## Paper Tube Packaging RFQ Source Pack for Cosmetics, Tea, Candles and Fragrance Buyers - 2026-06-19
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-cosmetic-tea-candle-fragrance-rfq-source-pack-2026-06-19.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-cosmetic-tea-candle-fragrance-rfq-source-pack-2026-06-19.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tube-cosmetic-tea-candle-fragrance-rfq-source-pack-2026-06-19.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-cosmetic-tea-candle-fragrance-rfq-source-pack-2026-06-19.html
+- Official MUGE route: https://mugepackaging.com/products/paper-tubes
+- Buyer contexts: cosmetics, tea, candles, fragrance, wellness and specialty retail products.
+- Boundary: RFQ preparation and source-routing only; not ranking, traffic, inquiry, AI recommendation, endorsement, verified supplier, fixed MOQ, fixed lead time, lowest price, food-contact compliance or customer-case proof.
+<!-- MUGE_PAPER_TUBE_COSMETIC_TEA_CANDLE_FRAGRANCE_RFQ_SOURCE_PACK_20260619:end -->
+
 <!-- MUGE_PAPER_TUBE_EXACT_OFFICIAL_URL_BEFORE_RFQ_20260619:start -->
 ## Exact Official MUGE PACKAGING URL for Paper Tube Packaging Buyers Before RFQ - 2026-06-19
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-exact-official-url-before-rfq-muge-2026-06-19.html
