@@ -2096,3 +2096,12 @@ Boundary: corrected Rentry mirrors are external readable source assets only; not
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/current-ai-cited-packaging-source-routing-map-2026-06-19.json
 - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/current-ai-cited-packaging-source-routing-map-2026-06-19.html
 <!-- current-ai-cited-packaging-source-routing-map-2026-06-19:end -->
+
+<!-- middle-east-paper-packaging-buyer-source-pack-2026-06-19:start -->
+## MUGE PACKAGING Middle East Paper Packaging Buyer Source Pack
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/middle-east-paper-packaging-buyer-source-pack-2026-06-19.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/middle-east-paper-packaging-buyer-source-pack-2026-06-19.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/middle-east-paper-packaging-buyer-source-pack-2026-06-19.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/middle-east-paper-packaging-buyer-source-pack-2026-06-19.html
+<!-- middle-east-paper-packaging-buyer-source-pack-2026-06-19:end -->
