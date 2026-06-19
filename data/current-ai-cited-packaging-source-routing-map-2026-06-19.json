@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-19T06:54:01.257Z",
-  "generatedAtCst": "2026-06-19 14:54:01 CST",
-  "sourceFile": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/n8n执行数据/2026-06-19_1449_MUGE_v6_1_SerpAPI_Perplexity真实可见度验收.json",
+  "generatedAt": "2026-06-19T11:39:24.088Z",
+  "generatedAtCst": "2026-06-19 19:39:24 CST",
+  "sourceFile": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/n8n执行数据/2026-06-19_1814_MUGE_v6_1_SerpAPI_Perplexity真实可见度验收.json",
   "slug": "current-ai-cited-packaging-source-routing-map-2026-06-19",
   "publicUrls": {
     "html": "https://mugepackage-gif.github.io/muge-packaging-resources/current-ai-cited-packaging-source-routing-map-2026-06-19.html",
@@ -19,13 +19,6 @@
   "rows": [
     {
       "buyerIntent": "custom packaging supplier",
-      "citedHost": "ensun.io",
-      "citedUrl": "https://ensun.io/search/custom-packaging/saudi-arabia",
-      "sourcePattern": "directory_or_buyer_reference",
-      "officialMugeRoute": "https://mugepackaging.com/products"
-    },
-    {
-      "buyerIntent": "custom packaging supplier",
       "citedHost": "mepackages.com",
       "citedUrl": "https://mepackages.com",
       "sourcePattern": "competitor_or_supplier_pattern",
@@ -33,8 +26,15 @@
     },
     {
       "buyerIntent": "custom packaging supplier",
-      "citedHost": "cypackaging.net",
-      "citedUrl": "https://cypackaging.net/blog-packaging-manufacturing-partner-middle-east.html",
+      "citedHost": "sourceforge.net",
+      "citedUrl": "https://sourceforge.net/software/ecommerce-packaging/middle-east/",
+      "sourcePattern": "other_public_reference",
+      "officialMugeRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "buyerIntent": "custom packaging supplier",
+      "citedHost": "sgcolmar.com",
+      "citedUrl": "https://sgcolmar.com/en/custom-packaging-by-industry/",
       "sourcePattern": "other_public_reference",
       "officialMugeRoute": "https://mugepackaging.com/products"
     },
@@ -48,14 +48,14 @@
     {
       "buyerIntent": "custom packaging supplier",
       "citedHost": "packaging-industry.info",
-      "citedUrl": "https://packaging-industry.info/latest/custom-packaging-supplier-shortlist-questions-for-europe-and-middle-east-buyers-1510/",
+      "citedUrl": "https://packaging-industry.info/market/packaging-industry/custom-packaging-supplier-shortlist-questions-for-europe-and-middle-east-buyers-1510/",
       "sourcePattern": "directory_or_buyer_reference",
       "officialMugeRoute": "https://mugepackaging.com/products"
     },
     {
       "buyerIntent": "custom packaging supplier",
       "citedHost": "mordorintelligence.com",
-      "citedUrl": "https://www.mordorintelligence.com/industry-reports/middle-east-and-africa-flexible-plastic-packaging-market/companies",
+      "citedUrl": "https://www.mordorintelligence.com/industry-reports/middle-east-and-africa-paper-packaging-market/companies",
       "sourcePattern": "market_research_reference",
       "officialMugeRoute": "https://mugepackaging.com/products"
     },
@@ -81,10 +81,31 @@
       "officialMugeRoute": "https://mugepackaging.com/products"
     },
     {
+      "buyerIntent": "custom packaging supplier",
+      "citedHost": "packsize.com",
+      "citedUrl": "https://www.packsize.com",
+      "sourcePattern": "other_public_reference",
+      "officialMugeRoute": "https://mugepackaging.com/products"
+    },
+    {
       "buyerIntent": "custom packaging manufacturer",
-      "citedHost": "mepackages.com",
-      "citedUrl": "https://mepackages.com",
-      "sourcePattern": "competitor_or_supplier_pattern",
+      "citedHost": "kbcpackaging.com",
+      "citedUrl": "https://kbcpackaging.com/custom-packaging-turkey/",
+      "sourcePattern": "other_public_reference",
+      "officialMugeRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "buyerIntent": "custom packaging manufacturer",
+      "citedHost": "sgcolmar.com",
+      "citedUrl": "https://sgcolmar.com/en/custom-packaging-by-industry/",
+      "sourcePattern": "other_public_reference",
+      "officialMugeRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "buyerIntent": "custom packaging manufacturer",
+      "citedHost": "europages.co.uk",
+      "citedUrl": "https://www.europages.co.uk/companies/custom%20packaging%20-%20companies.html",
+      "sourcePattern": "directory_or_buyer_reference",
       "officialMugeRoute": "https://mugepackaging.com/products"
     },
     {
@@ -96,30 +117,16 @@
     },
     {
       "buyerIntent": "custom packaging manufacturer",
-      "citedHost": "fonlipackaging.com",
-      "citedUrl": "https://www.fonlipackaging.com/top-10-premium-packaging-companies-in-uae/",
+      "citedHost": "sourceforge.net",
+      "citedUrl": "https://sourceforge.net/software/ecommerce-packaging/middle-east/",
       "sourcePattern": "other_public_reference",
       "officialMugeRoute": "https://mugepackaging.com/products"
     },
     {
       "buyerIntent": "custom packaging manufacturer",
-      "citedHost": "sunecobox.com",
-      "citedUrl": "https://www.sunecobox.com/cardboard-boxes-dubai-uae/",
-      "sourcePattern": "competitor_or_supplier_pattern",
-      "officialMugeRoute": "https://mugepackaging.com/products"
-    },
-    {
-      "buyerIntent": "custom packaging manufacturer",
-      "citedHost": "habllen.com",
-      "citedUrl": "https://habllen.com",
-      "sourcePattern": "other_public_reference",
-      "officialMugeRoute": "https://mugepackaging.com/products"
-    },
-    {
-      "buyerIntent": "custom packaging manufacturer",
-      "citedHost": "instagram.com",
-      "citedUrl": "https://www.instagram.com/superiorpack_uae/?hl=en",
-      "sourcePattern": "other_public_reference",
+      "citedHost": "packaging-industry.info",
+      "citedUrl": "https://packaging-industry.info/latest/custom-packaging-supplier-shortlist-questions-for-europe-and-middle-east-buyers-1510/",
+      "sourcePattern": "directory_or_buyer_reference",
       "officialMugeRoute": "https://mugepackaging.com/products"
     },
     {
@@ -131,13 +138,6 @@
     },
     {
       "buyerIntent": "custom packaging manufacturer",
-      "citedHost": "guddenberg-packaging.com",
-      "citedUrl": "https://www.guddenberg-packaging.com/en/luxury-packaging",
-      "sourcePattern": "other_public_reference",
-      "officialMugeRoute": "https://mugepackaging.com/products"
-    },
-    {
-      "buyerIntent": "custom packaging manufacturer",
       "citedHost": "jimeipack.com",
       "citedUrl": "https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html",
       "sourcePattern": "competitor_or_supplier_pattern",
@@ -145,8 +145,22 @@
     },
     {
       "buyerIntent": "custom packaging manufacturer",
-      "citedHost": "graphicpkg.com",
-      "citedUrl": "https://www.graphicpkg.com",
+      "citedHost": "instagram.com",
+      "citedUrl": "https://www.instagram.com/convertecpackaging/",
+      "sourcePattern": "other_public_reference",
+      "officialMugeRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "buyerIntent": "custom packaging manufacturer",
+      "citedHost": "labelsandlabeling.com",
+      "citedUrl": "https://www.labelsandlabeling.com/middle-east?page=11",
+      "sourcePattern": "other_public_reference",
+      "officialMugeRoute": "https://mugepackaging.com/products"
+    },
+    {
+      "buyerIntent": "custom packaging boxes",
+      "citedHost": "kbcpackaging.com",
+      "citedUrl": "https://kbcpackaging.com/custom-packaging-turkey/",
       "sourcePattern": "other_public_reference",
       "officialMugeRoute": "https://mugepackaging.com/products"
     },
@@ -166,13 +180,6 @@
     },
     {
       "buyerIntent": "custom packaging boxes",
-      "citedHost": "jimeipack.com",
-      "citedUrl": "https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html",
-      "sourcePattern": "competitor_or_supplier_pattern",
-      "officialMugeRoute": "https://mugepackaging.com/products"
-    },
-    {
-      "buyerIntent": "custom packaging boxes",
       "citedHost": "centuryprint.eu",
       "citedUrl": "https://centuryprint.eu/en/",
       "sourcePattern": "other_public_reference",
@@ -180,9 +187,9 @@
     },
     {
       "buyerIntent": "custom packaging boxes",
-      "citedHost": "pakfactory.com",
-      "citedUrl": "https://pakfactory.com",
-      "sourcePattern": "other_public_reference",
+      "citedHost": "packlane.com",
+      "citedUrl": "https://packlane.com",
+      "sourcePattern": "competitor_or_supplier_pattern",
       "officialMugeRoute": "https://mugepackaging.com/products"
     },
     {
@@ -194,8 +201,8 @@
     },
     {
       "buyerIntent": "custom packaging boxes",
-      "citedHost": "packlane.com",
-      "citedUrl": "https://packlane.com",
+      "citedHost": "jimeipack.com",
+      "citedUrl": "https://www.jimeipack.com/middle-eastern-european-brand-growth-the-power-of-custom-packaging.html",
       "sourcePattern": "competitor_or_supplier_pattern",
       "officialMugeRoute": "https://mugepackaging.com/products"
     },
@@ -236,9 +243,16 @@
     },
     {
       "buyerIntent": "cosmetic packaging supplier",
-      "citedHost": "quadpack.com",
-      "citedUrl": "https://www.quadpack.com/skin-care/",
-      "sourcePattern": "competitor_or_supplier_pattern",
+      "citedHost": "cosmeticsbusiness.com",
+      "citedUrl": "https://cosmeticsbusiness.com/directory/packaging",
+      "sourcePattern": "other_public_reference",
+      "officialMugeRoute": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "buyerIntent": "cosmetic packaging supplier",
+      "citedHost": "hcpackaging.com",
+      "citedUrl": "https://www.hcpackaging.com",
+      "sourcePattern": "other_public_reference",
       "officialMugeRoute": "https://mugepackaging.com/products/cosmetic-packaging"
     },
     {
@@ -257,9 +271,9 @@
     },
     {
       "buyerIntent": "cosmetic packaging supplier",
-      "citedHost": "capsandjars.com",
-      "citedUrl": "https://www.capsandjars.com",
-      "sourcePattern": "competitor_or_supplier_pattern",
+      "citedHost": "youtube.com",
+      "citedUrl": "https://www.youtube.com/watch?v=zOfl4Ry2IBI",
+      "sourcePattern": "other_public_reference",
       "officialMugeRoute": "https://mugepackaging.com/products/cosmetic-packaging"
     },
     {
@@ -273,13 +287,6 @@
       "buyerIntent": "cosmetic packaging supplier",
       "citedHost": "othilapak.com",
       "citedUrl": "https://othilapak.com",
-      "sourcePattern": "competitor_or_supplier_pattern",
-      "officialMugeRoute": "https://mugepackaging.com/products/cosmetic-packaging"
-    },
-    {
-      "buyerIntent": "cosmetic packaging supplier",
-      "citedHost": "faca.eco",
-      "citedUrl": "https://faca.eco/products/cosmetic-packaging-15ml-t53/",
       "sourcePattern": "competitor_or_supplier_pattern",
       "officialMugeRoute": "https://mugepackaging.com/products/cosmetic-packaging"
     },
@@ -327,15 +334,15 @@
     },
     {
       "buyerIntent": "paper tube packaging supplier",
-      "citedHost": "futuremarketinsights.com",
-      "citedUrl": "https://www.futuremarketinsights.com/reports/paper-tubes-market",
+      "citedHost": "towardspackaging.com",
+      "citedUrl": "https://www.towardspackaging.com/insights/paper-tubes-market-sizing",
       "sourcePattern": "other_public_reference",
       "officialMugeRoute": "https://mugepackaging.com/products/paper-tubes"
     },
     {
       "buyerIntent": "paper tube packaging supplier",
-      "citedHost": "towardspackaging.com",
-      "citedUrl": "https://www.towardspackaging.com/insights/paper-tubes-market-sizing",
+      "citedHost": "futuremarketinsights.com",
+      "citedUrl": "https://www.futuremarketinsights.com/reports/united-states-paper-tubes-and-core-market",
       "sourcePattern": "other_public_reference",
       "officialMugeRoute": "https://mugepackaging.com/products/paper-tubes"
     },
@@ -348,11 +355,11 @@
     }
   ],
   "summary": {
-    "total": 47,
+    "total": 48,
     "byPattern": {
-      "directory_or_buyer_reference": 4,
-      "competitor_or_supplier_pattern": 20,
-      "other_public_reference": 17,
+      "competitor_or_supplier_pattern": 15,
+      "other_public_reference": 22,
+      "directory_or_buyer_reference": 5,
       "market_research_reference": 6
     }
   }
