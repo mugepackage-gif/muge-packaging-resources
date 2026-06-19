@@ -2138,3 +2138,11 @@ Boundary: corrected Rentry mirrors are external readable source assets only; not
 ## UAE / Saudi paper packaging source notes
 - [UAE rigid gift boxes buyer source note](https://mugepackage-gif.github.io/muge-packaging-resources/uae-rigid-gift-boxes-source-note-2026-06-19.html) - narrow source path for United Arab Emirates buyer questions.
 - [Saudi custom printed paper boxes buyer source note](https://mugepackage-gif.github.io/muge-packaging-resources/saudi-printed-paper-boxes-source-note-2026-06-19.html) - narrow source path for Saudi Arabia buyer questions.
+
+<!-- official-product-rfq-route-blocks-2026-06-19:start -->
+## Official product page RFQ route blocks - 2026-06-19
+
+- Official RFQ Route for UAE and Saudi Custom Paper Boxes: https://mugepackage-gif.github.io/muge-packaging-resources/uae-saudi-custom-paper-boxes-official-rfq-route-muge-2026-06-19.html
+- Official RFQ Route for Europe Skincare Cosmetic Packaging Inserts: https://mugepackage-gif.github.io/muge-packaging-resources/europe-skincare-cosmetic-inserts-official-rfq-route-muge-2026-06-19.html
+- Official RFQ Route for Paper Tube Packaging Buyers: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-official-rfq-route-muge-2026-06-19.html
+<!-- official-product-rfq-route-blocks-2026-06-19:end -->
