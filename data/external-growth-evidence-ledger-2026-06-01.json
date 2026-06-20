@@ -2768,7 +2768,28 @@
           ]
         }
       }
+    },
+    {
+      "id": "apparel_packaging_rfq_sourcenote_20260621_generated",
+      "date": "2026-06-21",
+      "type": "gsc_apparel_packaging_sourcenote",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/apparel-packaging-rfq-source-note-2026-06-21.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/apparel-packaging-rfq-source-note-2026-06-21.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/apparel-packaging-rfq-source-note-2026-06-21.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/apparel-packaging-rfq-source-note-2026-06-21.html",
+      "official_page": "https://mugepackaging.com/blog/apparel-packaging-inquiry-checklist-clothing-brands",
+      "gsc_visible_urls": [
+        "https://mugepackaging.com/blog/apparel-packaging-inquiry-checklist-clothing-brands",
+        "https://mugepackaging.com/blog/custom-apparel-boxes-wholesale-for-clothing-and-fashion-brands",
+        "https://mugepackaging.com/industries/apparel"
+      ],
+      "gsc_signal": "apparel inquiry checklist 0 clicks / 1 impression / 1.00 average position; custom apparel boxes 0 clicks / 5 impressions / 77.60 average position; black apparel boxes query 0 clicks / 1 impression / 69.00 average position",
+      "verification_status": "generated_pending_live_indexnow_jina_asr",
+      "counting_rule": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for apparel packaging, clothing brand packaging briefs and official MUGE route handoff. It is not a quotation, price promise, fixed MOQ claim, fixed lead time claim, free service promise, certification proof, FSC claim, food-contact suitability proof, destination-market compliance proof, sustainability guarantee, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof or named buyer proof. Garment size, packaging set, artwork, material direction, finish, shipping method, quantity range and destination-market requirements must be reviewed case by case before confirming a solution.",
+      "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for apparel packaging, clothing brand packaging briefs and official MUGE route handoff. It is not a quotation, price promise, fixed MOQ claim, fixed lead time claim, free service promise, certification proof, FSC claim, food-contact suitability proof, destination-market compliance proof, sustainability guarantee, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof or named buyer proof. Garment size, packaging set, artwork, material direction, finish, shipping method, quantity range and destination-market requirements must be reviewed case by case before confirming a solution.",
+      "generated_at": "2026-06-20T22:25:26.574Z"
     }
   ],
-  "updated_at": "2026-06-20T22:20:29.453Z"
+  "updated_at": "2026-06-20T22:25:26.574Z"
 }
