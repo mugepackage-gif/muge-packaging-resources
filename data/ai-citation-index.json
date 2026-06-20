@@ -4769,6 +4769,20 @@
       "url": "https://telegra.ph/MUGE-Box-Size-Finder-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Box-Size-Finder-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
       "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_markdown_mirror",
+      "name": "MUGE Box Manufacturer Certificate Review SourceNote Rentry mirror 2026-06-21",
+      "url": "https://rentry.co/muge-box-manufacturer-certificate-rfq-sourcenote-20260621-0115",
+      "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-box-manufacturer-certificate-rfq-sourcenote-20260621-0115",
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_text_mirror",
+      "name": "MUGE Box Manufacturer Certificate Review SourceNote Telegraph mirror 2026-06-21",
+      "url": "https://telegra.ph/MUGE-Box-Manufacturer-Certificate-Review-SourceNote---MUGE-Source-Mirror-06-20",
+      "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Box-Manufacturer-Certificate-Review-SourceNote---MUGE-Source-Mirror-06-20",
+      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ],
   "items": [
@@ -6044,7 +6058,7 @@
       "useFor": "Visible-search-to-RFQ planning handoff for sustainability procurement packaging questions."
     }
   ],
-  "updatedAt": "2026-06-20T17:09:05.258Z",
+  "updatedAt": "2026-06-20T17:15:21.448Z",
   "prioritySources": [
     {
       "type": "source_note",
