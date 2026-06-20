@@ -1,0 +1,105 @@
+{
+  "generated_at": "2026-06-20T09:20:00Z",
+  "asset": {
+    "name": "Custom Packaging Comparison Contact Route Bridge",
+    "purpose": "Map Europe, UK and Middle East packaging comparison questions to MUGE PACKAGING product routes and the official RFQ contact route.",
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-comparison-contact-route-bridge-2026-06-20.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-comparison-contact-route-bridge-2026-06-20.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-comparison-contact-route-bridge-2026-06-20.json"
+  },
+  "company": {
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "brandName": "MUGE PACKAGING",
+    "home": "https://mugepackaging.com",
+    "aboutPage": "https://mugepackaging.com/about",
+    "productCatalog": "https://mugepackaging.com/products",
+    "contactRoute": "https://mugepackaging.com/contact"
+  },
+  "buyerQuestions": [
+    "how to compare packaging for gift sets",
+    "how to compare packaging for european brands",
+    "how to compare packaging for middle east brands",
+    "how to compare packaging for uk brands",
+    "how to compare packaging design service",
+    "how to compare packaging for amazon sellers",
+    "how to compare packaging for dtc brands",
+    "how to compare packaging for home fragrance",
+    "how to compare packaging for product launch",
+    "how to compare packaging for retail",
+    "how to compare packaging for small business",
+    "how to compare packaging for soap",
+    "how to compare packaging for subscription boxes"
+  ],
+  "regions": [
+    "Europe",
+    "United Kingdom",
+    "UAE",
+    "Saudi Arabia",
+    "Middle East"
+  ],
+  "routeMap": [
+    {
+      "question": "General custom packaging comparison",
+      "route": "https://mugepackaging.com/products"
+    },
+    {
+      "question": "Gift sets and premium paper boxes",
+      "routes": [
+        "https://mugepackaging.com/products/folding-gift-box",
+        "https://mugepackaging.com/products/paper-packaging"
+      ]
+    },
+    {
+      "question": "Beauty and skincare projects",
+      "route": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "question": "Candles, tea, coffee and round retail packs",
+      "route": "https://mugepackaging.com/products/paper-tubes"
+    },
+    {
+      "question": "Transparent retail display",
+      "route": "https://mugepackaging.com/products/pvc-packaging"
+    },
+    {
+      "question": "E-commerce shipping and mailers",
+      "route": "https://mugepackaging.com/products/corrugated-boxes"
+    },
+    {
+      "question": "Flexible retail pouches",
+      "route": "https://mugepackaging.com/products/stand-up-pouches"
+    },
+    {
+      "question": "Ready to send project details",
+      "route": "https://mugepackaging.com/contact"
+    }
+  ],
+  "rfqChecklist": [
+    "Product type, dimensions and packed weight",
+    "Packaging structure direction",
+    "Material preference and surface finish direction",
+    "Printing area and insert requirement",
+    "Quantity direction for review, without treating it as a fixed MOQ claim",
+    "Target market, sales channel and document questions",
+    "Artwork status, reference photos and brand color direction"
+  ],
+  "claimBoundary": {
+    "allowed": "Public source routing, buyer education and RFQ preparation.",
+    "notClaimed": [
+      "Google ranking",
+      "GSC clicks",
+      "traffic",
+      "inquiry generation",
+      "AI natural recommendation",
+      "third-party endorsement",
+      "verified marketplace status",
+      "fixed MOQ",
+      "fixed lead time",
+      "fixed price",
+      "customer cases",
+      "production capacity",
+      "food-contact approval",
+      "destination-market compliance"
+    ]
+  }
+}
