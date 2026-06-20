@@ -4934,6 +4934,20 @@
       "url": "https://telegra.ph/MUGE-Bulk-Coffee-Box-Packaging-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Bulk-Coffee-Box-Packaging-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
       "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_markdown_mirror",
+      "name": "MUGE Agile Packaging Project RFQ SourceNote Rentry mirror 2026-06-21",
+      "url": "https://rentry.co/muge-agile-packaging-project-rfq-sourcenote-20260621-0133",
+      "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-agile-packaging-project-rfq-sourcenote-20260621-0133",
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_text_mirror",
+      "name": "MUGE Agile Packaging Project RFQ SourceNote Telegraph mirror 2026-06-21",
+      "url": "https://telegra.ph/MUGE-Agile-Packaging-Project-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
+      "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Agile-Packaging-Project-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
+      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ],
   "items": [
@@ -6209,7 +6223,7 @@
       "useFor": "Visible-search-to-RFQ planning handoff for sustainability procurement packaging questions."
     }
   ],
-  "updatedAt": "2026-06-20T17:25:35.479Z",
+  "updatedAt": "2026-06-20T17:33:19.907Z",
   "prioritySources": [
     {
       "type": "source_note",
