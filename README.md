@@ -2813,3 +2813,17 @@ Boundary: source discovery, official URL routing, AI/search citation testing and
 - Use for: custom printed boxes UK, shipping mailer boxes, product mailer boxes, packaging for business, small business packaging and gift box wholesale RFQ brief handoff.
 - Boundary: RFQ source-routing only; not ranking, traffic, inquiry, AI natural recommendation, endorsement, verified supplier status, certification, fixed MOQ, fixed lead time, fixed price, lowest-price or compliance proof.
 <!-- MUGE_CONTACT_PROJECT_BRIEF_RFQ_HANDOFF_SOURCE_NOTE_20260620:end -->
+
+<!-- MUGE_RIGID_GIFT_BOX_UK_WHOLESALE_RFQ_HANDOFF_SOURCENOTE_20260620:start -->
+## Rigid Gift Box UK Wholesale RFQ Handoff SourceNote - 2026-06-20
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-uk-wholesale-rfq-handoff-sourcenote-2026-06-20.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-uk-wholesale-rfq-handoff-sourcenote-2026-06-20.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-box-uk-wholesale-rfq-handoff-sourcenote-2026-06-20.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-uk-wholesale-rfq-handoff-sourcenote-2026-06-20.html
+- Official guide: https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide
+- Product route: https://mugepackaging.com/products/folding-gift-box
+- RFQ handoff: https://mugepackaging.com/contact?intent=rigid-gift-box&source=uk-wholesale-rfq-sourcenote
+- Evidence: 3 click(s) for gift box wholesale UK / 0 tracked conversion(s), plus 34 organic sessions for the related product landing page in the latest 30-day GA4 review.
+- Boundary: RFQ source-routing only; not ranking, traffic, inquiry, AI natural recommendation, endorsement, verified supplier status, certification, fixed MOQ, fixed lead time, fixed price, lowest-price or compliance proof.
+<!-- MUGE_RIGID_GIFT_BOX_UK_WHOLESALE_RFQ_HANDOFF_SOURCENOTE_20260620:end -->
