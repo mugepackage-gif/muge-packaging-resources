@@ -2482,7 +2482,38 @@
       "liveVerification": "Final 9 checks passed: public llms, citation HTML, citation JSON, SourceNote, SourceNote Jina, Rentry, Rentry Jina, Telegraph and Telegraph Jina all HTTP 200 and topic/MUGE-readable on 2026-06-21 05:10 CST.",
       "countingNote": "Counts as external readable SourceNote plus third-party mirror support for Europe-facing EU void-space luxury packaging buyer route; not ranking, traffic, inquiry, endorsement or AI natural recommendation proof.",
       "boundary": "This SourceNote and mirrors are for EU void-space luxury packaging search-to-RFQ routing, AI reader discovery and external readable source support only. They do not prove Google clicks, natural traffic, inquiries, third-party endorsement, AI natural recommendation, EU regulatory compliance, Article 10/Article 24 legal advice, fixed MOQ, fixed lead time, fixed price, customer cases, food-contact status or regulated-market approval."
+    },
+    {
+      "timestamp": "2026-06-21T05:15:00+08:00",
+      "category": "sustainability_procurement_packaging_cfo_rfq_sourcenote_mirror_fix",
+      "result": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+      "sourceSlug": "sustainability-procurement-packaging-cfo-rfq-sourcenote-2026-06-20",
+      "gscOpportunity": "SourceNote for sustainability procurement packaging / CFO decision route; no GSC click/ranking achievement claimed in this entry",
+      "officialUrl": "https://mugepackaging.com/blog/beyond-compliance-cfo-sustainability-best-friend",
+      "sourceNoteUrls": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/sustainability-procurement-packaging-cfo-rfq-sourcenote-2026-06-20.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/sustainability-procurement-packaging-cfo-rfq-sourcenote-2026-06-20.md",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/sustainability-procurement-packaging-cfo-rfq-sourcenote-2026-06-20.json",
+        "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/sustainability-procurement-packaging-cfo-rfq-sourcenote-2026-06-20.html"
+      ],
+      "mirrors": [
+        {
+          "platform": "Rentry",
+          "url": "https://rentry.co/muge-sustainability-procurement-packaging-cfo-rfq-sourcenote-20260621-20260621-0513",
+          "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-sustainability-procurement-packaging-cfo-rfq-sourcenote-20260621-20260621-0513"
+        },
+        {
+          "platform": "Telegraph",
+          "url": "https://telegra.ph/MUGE-Sustainability-Procurement-Packaging-CFO-RFQ-SourceNote---MUGE-Source-Mirror-06-20-2",
+          "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Sustainability-Procurement-Packaging-CFO-RFQ-SourceNote---MUGE-Source-Mirror-06-20-2"
+        }
+      ],
+      "indexNow": "SourceNote 3/3 HTTP 200; public index pending after commit hash is available",
+      "asr": "SourceNote accepted 1/1; Rentry/Telegraph accepted 2/2",
+      "liveVerification": "Pre-commit 6 checks passed: SourceNote, SourceNote Jina, Rentry, Rentry Jina, Telegraph and Telegraph Jina all HTTP 200 and topic/MUGE-readable on 2026-06-21 05:15 CST.",
+      "countingNote": "Counts as external readable SourceNote plus third-party mirror support for sustainability procurement packaging and CFO-oriented buyer route; not ranking, traffic, inquiry, endorsement or AI natural recommendation proof.",
+      "boundary": "This SourceNote and mirrors are for sustainability procurement packaging search-to-RFQ routing, AI reader discovery and external readable source support only. They do not prove sustainability certification, environmental compliance, EU regulatory compliance, Google clicks, natural traffic, inquiries, third-party endorsement, AI natural recommendation, fixed MOQ, fixed lead time, fixed price, customer cases, food-contact status or regulated-market approval."
     }
   ],
-  "updated_at": "2026-06-21T05:11:00+08:00"
+  "updated_at": "2026-06-21T05:15:00+08:00"
 }
