@@ -2588,6 +2588,34 @@
       "url": "https://telegra.ph/Paper-Tubes-United-States-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/Paper-Tubes-United-States-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
       "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_markdown_mirror",
+      "name": "Cosmetic Packaging Middle East Supplier Vetting Rolling SourcePack Rentry mirror 2026-06-20",
+      "url": "https://rentry.co/muge-cosmetic-packaging-middle-east-supplier-vetting-rolling-source-pack-20260620-20260620",
+      "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-cosmetic-packaging-middle-east-supplier-vetting-rolling-source-pack-20260620-20260620",
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_markdown_mirror",
+      "name": "Cosmetic Packaging Europe Supplier Vetting Rolling SourcePack Rentry mirror 2026-06-20",
+      "url": "https://rentry.co/muge-cosmetic-packaging-europe-supplier-vetting-rolling-source-pack-20260620-20260620-1840",
+      "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-cosmetic-packaging-europe-supplier-vetting-rolling-source-pack-20260620-20260620-1840",
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_text_mirror",
+      "name": "Cosmetic Packaging Europe Supplier Vetting Rolling SourcePack Telegraph mirror 2026-06-20",
+      "url": "https://telegra.ph/Cosmetic-Packaging-Europe-Supplier-Vetting-Rolling-SourcePack---MUGE-Source-Mirror-06-20",
+      "jinaUrl": "https://r.jina.ai/http://telegra.ph/Cosmetic-Packaging-Europe-Supplier-Vetting-Rolling-SourcePack---MUGE-Source-Mirror-06-20",
+      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_text_mirror",
+      "name": "Cosmetic Packaging Middle East Supplier Vetting Rolling SourcePack Telegraph mirror 2026-06-20",
+      "url": "https://telegra.ph/Cosmetic-Packaging-Middle-East-Supplier-Vetting-Rolling-SourcePack---MUGE-Source-Mirror-06-20",
+      "jinaUrl": "https://r.jina.ai/http://telegra.ph/Cosmetic-Packaging-Middle-East-Supplier-Vetting-Rolling-SourcePack---MUGE-Source-Mirror-06-20",
+      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ],
   "items": [
@@ -3287,5 +3315,5 @@
       "boundary": "This SourceNote is for public source routing, buyer question answering and RFQ preparation only. It is not proof of Google ranking, Google click growth, AI natural recommendation, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact approval or destination-market compliance."
     }
   ],
-  "updatedAt": "2026-06-20T10:32:15.848Z"
+  "updatedAt": "2026-06-20T10:40:46.447Z"
 }
