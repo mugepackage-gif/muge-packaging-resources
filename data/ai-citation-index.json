@@ -2842,6 +2842,20 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/gsc-visible-legacy-url-route-map-sourcenote-2026-06-20.html",
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/gsc-visible-legacy-url-route-map-sourcenote-2026-06-20.html",
       "useFor": "GSC-visible legacy URL route mapping; not ranking, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_markdown_mirror",
+      "name": "MUGE GSC Visible Legacy URL Route Map SourceNote Rentry mirror 2026-06-20",
+      "url": "https://rentry.co/gsc-visible-legacy-url-route-map-sourcenote-20260620-20260620-2018",
+      "jinaUrl": "https://r.jina.ai/http://rentry.co/gsc-visible-legacy-url-route-map-sourcenote-20260620-20260620-2018",
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_text_mirror",
+      "name": "MUGE GSC Visible Legacy URL Route Map SourceNote Telegraph mirror 2026-06-20",
+      "url": "https://telegra.ph/MUGE-GSC-Visible-Legacy-URL-Route-Map-SourceNote---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
+      "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-GSC-Visible-Legacy-URL-Route-Map-SourceNote---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
+      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ],
   "items": [
@@ -3910,5 +3924,5 @@
       "useFor": "MUGE GSC legacy URL route interpretation and current official buyer-route mapping."
     }
   ],
-  "updatedAt": "2026-06-20T12:16:58.029Z"
+  "updatedAt": "2026-06-20T12:18:31.337Z"
 }
