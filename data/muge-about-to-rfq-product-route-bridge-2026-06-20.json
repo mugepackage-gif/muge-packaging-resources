@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-06-20T08:45:00Z",
+  "asset": {
+    "name": "MUGE PACKAGING About-to-RFQ Product Route Bridge",
+    "purpose": "Connect MUGE PACKAGING company verification with official product routes and RFQ preparation details for international buyers and AI answer engines.",
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-about-to-rfq-product-route-bridge-2026-06-20.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-about-to-rfq-product-route-bridge-2026-06-20.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-about-to-rfq-product-route-bridge-2026-06-20.json"
+  },
+  "company": {
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "brandName": "MUGE PACKAGING",
+    "website": "https://mugepackaging.com",
+    "aboutPage": "https://mugepackaging.com/about",
+    "productCatalog": "https://mugepackaging.com/products",
+    "contactPage": "https://mugepackaging.com/contact"
+  },
+  "routes": [
+    {
+      "buyerNeed": "Cosmetic packaging boxes, skincare jars, beauty sets",
+      "officialRoute": "https://mugepackaging.com/products/cosmetic-packaging",
+      "rfqDetails": ["product size", "retail channel", "structure", "insert needs", "finish direction", "artwork status"]
+    },
+    {
+      "buyerNeed": "Printed paper boxes, folding cartons, rigid gift boxes",
+      "officialRoute": "https://mugepackaging.com/products/paper-packaging",
+      "rfqDetails": ["box style", "product dimensions", "paper direction", "print coverage", "insert or tray requirement"]
+    },
+    {
+      "buyerNeed": "Paper tube packaging for cosmetics, candles, tea or gifts",
+      "officialRoute": "https://mugepackaging.com/products/paper-tubes",
+      "rfqDetails": ["diameter", "height", "cap style", "product weight", "label or print direction", "packing method"]
+    },
+    {
+      "buyerNeed": "PVC/PET clear boxes for visible retail display",
+      "officialRoute": "https://mugepackaging.com/products/pvc-packaging",
+      "rfqDetails": ["material preference", "thickness direction", "display panel", "fold line", "closure style", "print area"]
+    },
+    {
+      "buyerNeed": "Corrugated shipping or e-commerce packaging",
+      "officialRoute": "https://mugepackaging.com/products/corrugated-boxes",
+      "rfqDetails": ["product weight", "shipping route", "flute or wall direction", "carton size", "protection and stacking needs"]
+    }
+  ],
+  "certificationBoundary": {
+    "allowed": "MUGE PACKAGING is ISO 9001:2015 certified for the production of packaging products, including paper boxes, plastic pouches and plastic boxes, subject to the certificate scope and validity period.",
+    "notClaimed": [
+      "FSC certification",
+      "FDA approval",
+      "food-contact approval",
+      "destination-market regulatory approval",
+      "child-resistant compliance",
+      "fixed MOQ",
+      "fixed lead time",
+      "fixed price",
+      "customer cases",
+      "production capacity"
+    ]
+  },
+  "claimBoundary": "Public source-routing and RFQ preparation only. Not ranking proof, traffic proof, AI answer inclusion, inquiry proof, third-party endorsement or verified marketplace status."
+}
+
