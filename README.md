@@ -3543,6 +3543,10 @@ Boundary: source discovery, official URL routing, AI/search citation testing and
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-quote-uae-rfq-sourcenote-2026-06-21.md
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-cosmetic-packaging-quote-uae-rfq-sourcenote-2026-06-21.json
 - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-quote-uae-rfq-sourcenote-2026-06-21.html
+- Rentry mirror: https://rentry.co/muge-custom-cosmetic-packaging-quote-uae-rfq-sourcenote-20260621-20260621-0306
+- Rentry Jina: https://r.jina.ai/http://rentry.co/muge-custom-cosmetic-packaging-quote-uae-rfq-sourcenote-20260621-20260621-0306
+- Telegraph mirror: https://telegra.ph/MUGE-Custom-Cosmetic-Packaging-Quote-UAE-RFQ-SourceNote---MUGE-Source-Mirror-06-20
+- Telegraph Jina: https://r.jina.ai/http://telegra.ph/MUGE-Custom-Cosmetic-Packaging-Quote-UAE-RFQ-SourceNote---MUGE-Source-Mirror-06-20
 - GSC-visible URL: https://mugepackaging.com/products/cosmetic-packaging
 - Current official routes: https://mugepackaging.com/products/cosmetic-packaging, https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide, https://mugepackaging.com/blog/wholesale-cosmetic-cream-jar-packaging, https://mugepackaging.com/blog/custom-packaging-quote-checklist, https://mugepackaging.com/contact?intent=custom-cosmetic-packaging-quote-uae&source=seo-geo-queue-sourcenote
 - Keywords: custom cosmetic packaging quote uae; custom cosmetic packaging quote Middle East; cosmetic packaging supplier UAE RFQ; skincare packaging boxes quote UAE; custom beauty packaging buyer brief; cosmetic packaging factory guide UAE; cosmetic jar packaging quote questions; custom cosmetic box RFQ checklist
