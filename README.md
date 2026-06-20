@@ -2882,3 +2882,15 @@ Boundary: source discovery, official URL routing, AI/search citation testing and
 - Evidence: 6/6 target URLs reached Active Search Results accepted confirmation in the two successful 2026-06-19 runs.
 - Boundary: search-engine discovery submission evidence only; not Google ranking, traffic, inquiry, AI natural recommendation, endorsement or paid placement proof.
 <!-- MUGE_ASR_ACCEPTED_EVIDENCE_20260619:end -->
+
+<!-- MUGE_GSC_VISIBLE_LEGACY_URL_ROUTE_MAP_SOURCENOTE_20260620:start -->
+## MUGE GSC Visible Legacy URL Route Map SourceNote - 2026-06-20
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-visible-legacy-url-route-map-sourcenote-2026-06-20.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-visible-legacy-url-route-map-sourcenote-2026-06-20.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/gsc-visible-legacy-url-route-map-sourcenote-2026-06-20.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/gsc-visible-legacy-url-route-map-sourcenote-2026-06-20.html
+- Use for: mapping GSC-visible legacy, HTTP/www or historical URLs to current official MUGE PACKAGING buyer routes.
+- Current official route examples: https://mugepackaging.com/about, https://mugepackaging.com/products/paper-packaging, https://mugepackaging.com/products/folding-gift-box, https://mugepackaging.com/blog, https://mugepackaging.com/quote-calculator
+- Boundary: route interpretation only; not Google ranking, click, inquiry, AI natural citation, third-party endorsement, verified supplier, fixed MOQ, fixed lead time, fixed price, lowest-price, production-capacity or compliance proof.
+<!-- MUGE_GSC_VISIBLE_LEGACY_URL_ROUTE_MAP_SOURCENOTE_20260620:end -->
