@@ -1,3 +1,15 @@
+<!-- MUGE_ROLLING_CLUSTER_SOURCE_PACK_COSMETIC_PACKAGING_EUROPE_SUPPLIER_VETTING_2026_06_20:start -->
+## Cosmetic Packaging Europe Supplier Vetting Rolling Source Pack - 2026-06-20
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-europe-supplier-vetting-rolling-source-pack-2026-06-20.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-europe-supplier-vetting-rolling-source-pack-2026-06-20.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-europe-supplier-vetting-rolling-source-pack-2026-06-20.json
+- Official mapped page: https://mugepackaging.com/products/cosmetic-packaging
+- Related GSC buyer guide: https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide
+- GSC basis: 105 impressions, 0 clicks, average position 4.62 for the related buyer guide in the 2026-05-20 to 2026-06-17 window.
+- Scope: claim-bounded source path for cosmetic_packaging::europe::supplier_vetting buyer queries.
+- Boundary: not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price, food-contact approval, customer-case proof or compliance guarantee.
+<!-- MUGE_ROLLING_CLUSTER_SOURCE_PACK_COSMETIC_PACKAGING_EUROPE_SUPPLIER_VETTING_2026_06_20:end -->
+
 <!-- MUGE_ROLLING_CLUSTER_SOURCE_PACK_COSMETIC_PACKAGING_GLOBAL_BUYER_EDUCATION_2026_06_16:start -->
 ## Cosmetic Packaging Global Buyer Education Rolling Source Pack - 2026-06-16
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-global-buyer-education-rolling-source-pack-2026-06-16.html
