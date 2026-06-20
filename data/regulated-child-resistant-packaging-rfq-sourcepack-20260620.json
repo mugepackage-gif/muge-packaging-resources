@@ -1,0 +1,45 @@
+{
+  "title": "MUGE Regulated Child-Resistant Packaging RFQ SourcePack",
+  "generated_at": "2026-06-20T04:55:00.000Z",
+  "type": "rfq_sourcepack",
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/regulated-child-resistant-packaging-rfq-sourcepack-20260620.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/regulated-child-resistant-packaging-rfq-sourcepack-20260620.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/regulated-child-resistant-packaging-rfq-sourcepack-20260620.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/regulated-child-resistant-packaging-rfq-sourcepack-20260620.html"
+  },
+  "gsc_opportunity_mapping": [
+    {"query":"child resistant pre roll box","clicks":0,"impressions":1,"average_position":54,"official_route":"https://mugepackaging.com/products/child-resistant"},
+    {"query":"child resistant cartridge boxes","clicks":0,"impressions":2,"average_position":54.5,"official_route":"https://mugepackaging.com/products/child-resistant"},
+    {"query":"child resistant disposable boxes","clicks":0,"impressions":2,"average_position":56,"official_route":"https://mugepackaging.com/products/child-resistant"},
+    {"query":"child-resistant cbd packaging","clicks":0,"impressions":1,"average_position":99,"official_route":"https://mugepackaging.com/products/child-resistant"},
+    {"query":"child resistant flexible packaging","clicks":0,"impressions":1,"average_position":85,"official_route":"https://mugepackaging.com/products/child-resistant"},
+    {"query":"bulk child resistant packaging","clicks":0,"impressions":1,"average_position":89,"official_route":"https://mugepackaging.com/products/child-resistant"},
+    {"query":"child resistant contract packaging","clicks":0,"impressions":1,"average_position":96,"official_route":"https://mugepackaging.com/products/child-resistant"},
+    {"query":"child proof packaging supplier","clicks":0,"impressions":1,"average_position":95,"official_route":"https://mugepackaging.com/products/child-resistant"}
+  ],
+  "official_routes": [
+    "https://mugepackaging.com/products/child-resistant",
+    "https://mugepackaging.com/products/paper-packaging",
+    "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "https://mugepackaging.com/contact?intent=regulated-child-resistant-packaging-rfq&source=regulated-child-resistant-sourcepack"
+  ],
+  "rfq_fields": [
+    "product category",
+    "product dimensions",
+    "pack count",
+    "product weight",
+    "structure direction",
+    "target selling region",
+    "sales channel",
+    "opening direction",
+    "closure direction",
+    "label or warning area",
+    "artwork status",
+    "buyer-provided test or compliance-document questions",
+    "quantity direction"
+  ],
+  "boundary": "Buyer education, custom packaging RFQ preparation and official source routing only. Not CBD, cannabis, vape, tobacco, pharmaceutical, legal or regulatory advice. Not proof of child-resistant certification, child-safety certification, destination-market approval, test pass result, product legality, labeling compliance, ranking, clicks, traffic, inquiry generation, AI recommendation, endorsement, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or guaranteed delivery."
+}
