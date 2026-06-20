@@ -3,7 +3,7 @@
   "@type": "Dataset",
   "name": "MUGE PACKAGING AI Citation Index",
   "datePublished": "2026-06-01",
-  "dateModified": "2026-06-20T21:59:20.127Z",
+  "dateModified": "2026-06-20T22:03:01.576Z",
   "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-index.html",
   "description": "Stable preferred citation index for AI search systems, sourcing researchers and external fact checks about MUGE PACKAGING.",
   "publisher": {
@@ -5136,7 +5136,111 @@
       "name": "MUGE Blog Hub Buyer Route / RFQ SourceNote - 2026-06-20",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.html",
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.html",
-      "useFor": "Blog-hub buyer routing from packaging questions to official MUGE product, guide and RFQ routes; not ranking, inquiry, endorsement or AI natural citation proof."
+      "useFor": "Blog-hub buyer routing from packaging questions to official MUGE product, guide and RFQ routes; not ranking, inquiry, endorsement or AI natural citation proof.",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.json",
+      "verificationStatus": "verified_live_jina_indexnow_asr_partial_blog_precheck_blocked",
+      "latestVerification": {
+        "checkedAt": "2026-06-20T22:03:01.576Z",
+        "checkedAtCst": "2026-06-21 06:03:01",
+        "commit": "7ff72e2",
+        "live": {
+          "html": {
+            "url": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.html?v=7ff72e2",
+            "httpStatus": 200,
+            "containsLatestGscSignal": true
+          },
+          "markdown": {
+            "url": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.md?v=7ff72e2",
+            "httpStatus": 200,
+            "containsLatestGscSignal": true
+          },
+          "json": {
+            "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.json?v=7ff72e2",
+            "httpStatus": 200,
+            "containsLatestGscSignal": true
+          },
+          "jina": {
+            "url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.html?v=7ff72e2",
+            "httpStatus": 200,
+            "containsLatestGscSignal": true
+          }
+        },
+        "indexNow": {
+          "sourceNote": {
+            "status": "submitted",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0600_BlogHubBuyerRoute_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "status": "submitted",
+            "urlCount": 9,
+            "httpStatus": 200,
+            "routes": [
+              "https://mugepackaging.com/blog",
+              "https://mugepackaging.com/blog/",
+              "https://mugepackaging.com/products",
+              "https://mugepackaging.com/products/cosmetic-packaging",
+              "https://mugepackaging.com/products/paper-packaging",
+              "https://mugepackaging.com/products/paper-tubes",
+              "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+              "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+              "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide"
+            ]
+          }
+        },
+        "asr": {
+          "status": "partial_accepted",
+          "total": 10,
+          "attempted": 8,
+          "accepted": 8,
+          "acceptedUrls": [
+            "https://mugepackaging.com/products",
+            "https://mugepackaging.com/products/cosmetic-packaging",
+            "https://mugepackaging.com/products/paper-packaging",
+            "https://mugepackaging.com/products/paper-tubes",
+            "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+            "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+            "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.html?v=7ff72e2"
+          ],
+          "skippedUrls": [
+            {
+              "url": "https://mugepackaging.com/blog",
+              "result": "target_not_verified",
+              "reason": "ASR safety precheck detected an unsupported certification-style phrase on the live blog hub."
+            },
+            {
+              "url": "https://mugepackaging.com/blog/",
+              "result": "target_not_verified",
+              "reason": "ASR safety precheck detected an unsupported certification-style phrase on the live blog hub."
+            }
+          ],
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0600_BlogHubBuyerRoute_OfficialRoutes_20260621_ASR发现提交.md"
+        },
+        "gscOpportunity": {
+          "url": "https://mugepackaging.com/blog",
+          "clicks28d": 0,
+          "impressions28d": 59,
+          "ctr28d": "0.00%",
+          "averagePosition28d": 5.54,
+          "source": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-21_0530_GSC查询词排名基线.md"
+        },
+        "boundary": "Counts as external source-routing, Jina-readable SourceNote, IndexNow refresh and ASR accepted discovery for product/guide/SourceNote routes. It does not prove Google clicks, ranking improvement, traffic, inquiries, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, fixed price, certification status or AI natural recommendation."
+      },
+      "gscOpportunity": [
+        {
+          "url": "https://mugepackaging.com/blog",
+          "clicks28d": 0,
+          "impressions28d": 59,
+          "ctr28d": "0.00%",
+          "averagePosition28d": 5.54,
+          "source": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-21_0530_GSC查询词排名基线.md"
+        }
+      ],
+      "boundary": "Counts as external source-routing, Jina-readable SourceNote, IndexNow refresh and ASR accepted discovery for product/guide/SourceNote routes. It does not prove Google clicks, ranking improvement, traffic, inquiries, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, fixed price, certification status or AI natural recommendation."
     },
     {
       "type": "third_party_markdown_mirror",
@@ -7170,7 +7274,113 @@
       },
       "generated_at": "2026-06-20T21:59:20.127Z",
       "boundary": "This SourceNote is for blog-hub buyer routing, official source mapping and AI reader discovery. It is based on GSC page-level evidence, but it is not live SERP proof, Google click proof, inquiry proof, paid-ad performance proof, third-party endorsement or AI natural recommendation proof. It does not state fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, platform verification, food-contact status or regulated-market approval. Buyers should send dimensions, quantity range, material, packaging type, artwork status and target market for case-by-case review.",
-      "useFor": "MUGE blog hub buyer route and RFQ handoff source."
+      "useFor": "MUGE blog hub buyer route and RFQ handoff source.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_partial_blog_precheck_blocked",
+      "latestVerification": {
+        "checkedAt": "2026-06-20T22:03:01.576Z",
+        "checkedAtCst": "2026-06-21 06:03:01",
+        "commit": "7ff72e2",
+        "live": {
+          "html": {
+            "url": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.html?v=7ff72e2",
+            "httpStatus": 200,
+            "containsLatestGscSignal": true
+          },
+          "markdown": {
+            "url": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.md?v=7ff72e2",
+            "httpStatus": 200,
+            "containsLatestGscSignal": true
+          },
+          "json": {
+            "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.json?v=7ff72e2",
+            "httpStatus": 200,
+            "containsLatestGscSignal": true
+          },
+          "jina": {
+            "url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.html?v=7ff72e2",
+            "httpStatus": 200,
+            "containsLatestGscSignal": true
+          }
+        },
+        "indexNow": {
+          "sourceNote": {
+            "status": "submitted",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0600_BlogHubBuyerRoute_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "status": "submitted",
+            "urlCount": 9,
+            "httpStatus": 200,
+            "routes": [
+              "https://mugepackaging.com/blog",
+              "https://mugepackaging.com/blog/",
+              "https://mugepackaging.com/products",
+              "https://mugepackaging.com/products/cosmetic-packaging",
+              "https://mugepackaging.com/products/paper-packaging",
+              "https://mugepackaging.com/products/paper-tubes",
+              "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+              "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+              "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide"
+            ]
+          }
+        },
+        "asr": {
+          "status": "partial_accepted",
+          "total": 10,
+          "attempted": 8,
+          "accepted": 8,
+          "acceptedUrls": [
+            "https://mugepackaging.com/products",
+            "https://mugepackaging.com/products/cosmetic-packaging",
+            "https://mugepackaging.com/products/paper-packaging",
+            "https://mugepackaging.com/products/paper-tubes",
+            "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+            "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+            "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.html?v=7ff72e2"
+          ],
+          "skippedUrls": [
+            {
+              "url": "https://mugepackaging.com/blog",
+              "result": "target_not_verified",
+              "reason": "ASR safety precheck detected an unsupported certification-style phrase on the live blog hub."
+            },
+            {
+              "url": "https://mugepackaging.com/blog/",
+              "result": "target_not_verified",
+              "reason": "ASR safety precheck detected an unsupported certification-style phrase on the live blog hub."
+            }
+          ],
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0600_BlogHubBuyerRoute_OfficialRoutes_20260621_ASR发现提交.md"
+        },
+        "gscOpportunity": {
+          "url": "https://mugepackaging.com/blog",
+          "clicks28d": 0,
+          "impressions28d": 59,
+          "ctr28d": "0.00%",
+          "averagePosition28d": 5.54,
+          "source": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-21_0530_GSC查询词排名基线.md"
+        },
+        "boundary": "Counts as external source-routing, Jina-readable SourceNote, IndexNow refresh and ASR accepted discovery for product/guide/SourceNote routes. It does not prove Google clicks, ranking improvement, traffic, inquiries, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, fixed price, certification status or AI natural recommendation."
+      },
+      "gscOpportunity": [
+        {
+          "url": "https://mugepackaging.com/blog",
+          "clicks28d": 0,
+          "impressions28d": 59,
+          "ctr28d": "0.00%",
+          "averagePosition28d": 5.54,
+          "source": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-21_0530_GSC查询词排名基线.md"
+        }
+      ],
+      "indexNow": "SourceNote HTML/Markdown/JSON submitted 3/3 HTTP 200; official blog/product/guide routes submitted 9 URLs HTTP 200.",
+      "asr": "Product, guide and SourceNote routes accepted 8/8 by Active Search Results; official /blog and /blog/ skipped by safety precheck due unsupported certification-style phrase.",
+      "liveVerification": "SourceNote HTML/Markdown/JSON and Jina Reader HTTP 200; latest GSC signal 0 clicks / 59 impressions / 5.54 average position visible in public files.",
+      "countingNote": "Counts as external source-routing, Jina-readable SourceNote, IndexNow refresh and ASR accepted discovery for product/guide/SourceNote routes. It does not prove Google clicks, ranking improvement, traffic, inquiries, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, fixed price, certification status or AI natural recommendation.",
+      "verified_at": "2026-06-20T22:03:01.576Z"
     },
     {
       "slug": "gsc-visible-legacy-url-route-map-sourcenote-2026-06-20",
@@ -7598,7 +7808,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-20T21:59:20.127Z",
+  "updatedAt": "2026-06-20T22:03:01.576Z",
   "prioritySources": [
     {
       "type": "source_note",

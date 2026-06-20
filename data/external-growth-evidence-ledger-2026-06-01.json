@@ -2555,7 +2555,103 @@
       "liveVerification": "Bridge HTML HTTP 200; bridge Jina Reader HTTP 200; official About page Jina Reader HTTP 200 and buyer-route readable on 2026-06-21 05:52 CST.",
       "countingNote": "Counts as an About-page source-routing and RFQ handoff bridge for the GSC 0-click / 339-impression About page opportunity; not ranking, click, traffic, inquiry, endorsement or AI natural recommendation proof.",
       "verified_at": "2026-06-20T21:53:22.562Z"
+    },
+    {
+      "id": "blog_hub_buyer_route_rfq_sourcenote_20260621_verification",
+      "date": "2026-06-21",
+      "type": "gsc_blog_hub_buyer_route_sourcenote",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.html",
+      "official_page": "https://mugepackaging.com/blog",
+      "gsc_visible_url": "https://mugepackaging.com/blog",
+      "gsc_signal": "0 clicks / 59 impressions / 5.54 average position",
+      "verification_status": "verified_live_jina_indexnow_asr_partial_blog_precheck_blocked",
+      "generated_at": "2026-06-20T21:59:20.127Z",
+      "verified_at": "2026-06-20T22:03:01.576Z",
+      "indexNow": {
+        "sourceNote": {
+          "status": "submitted",
+          "precheckOk": 3,
+          "urlCount": 3,
+          "httpStatus": 200,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0600_BlogHubBuyerRoute_20260621_自定义URL_IndexNow提交.md"
+        },
+        "officialRoutes": {
+          "status": "submitted",
+          "urlCount": 9,
+          "httpStatus": 200,
+          "routes": [
+            "https://mugepackaging.com/blog",
+            "https://mugepackaging.com/blog/",
+            "https://mugepackaging.com/products",
+            "https://mugepackaging.com/products/cosmetic-packaging",
+            "https://mugepackaging.com/products/paper-packaging",
+            "https://mugepackaging.com/products/paper-tubes",
+            "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+            "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+            "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide"
+          ]
+        }
+      },
+      "asr": {
+        "status": "partial_accepted",
+        "total": 10,
+        "attempted": 8,
+        "accepted": 8,
+        "acceptedUrls": [
+          "https://mugepackaging.com/products",
+          "https://mugepackaging.com/products/cosmetic-packaging",
+          "https://mugepackaging.com/products/paper-packaging",
+          "https://mugepackaging.com/products/paper-tubes",
+          "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+          "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+          "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+          "https://mugepackage-gif.github.io/muge-packaging-resources/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.html?v=7ff72e2"
+        ],
+        "skippedUrls": [
+          {
+            "url": "https://mugepackaging.com/blog",
+            "result": "target_not_verified",
+            "reason": "ASR safety precheck detected an unsupported certification-style phrase on the live blog hub."
+          },
+          {
+            "url": "https://mugepackaging.com/blog/",
+            "result": "target_not_verified",
+            "reason": "ASR safety precheck detected an unsupported certification-style phrase on the live blog hub."
+          }
+        ],
+        "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0600_BlogHubBuyerRoute_OfficialRoutes_20260621_ASR发现提交.md"
+      },
+      "liveVerification": {
+        "html": {
+          "url": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.html?v=7ff72e2",
+          "httpStatus": 200,
+          "containsLatestGscSignal": true
+        },
+        "markdown": {
+          "url": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.md?v=7ff72e2",
+          "httpStatus": 200,
+          "containsLatestGscSignal": true
+        },
+        "json": {
+          "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.json?v=7ff72e2",
+          "httpStatus": 200,
+          "containsLatestGscSignal": true
+        },
+        "jina": {
+          "url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/muge-blog-hub-buyer-route-rfq-sourcenote-2026-06-20.html?v=7ff72e2",
+          "httpStatus": 200,
+          "containsLatestGscSignal": true
+        }
+      },
+      "blocked_item": "Official /blog and /blog/ ASR submission skipped because live page contains unsupported certification-style phrase: Recycled materials, biodegradable options, and FSC certified packaging.",
+      "remediation": "Fix live blog hub wording to avoid unverified certification implication, then rerun ASR for /blog and /blog/.",
+      "counting_rule": "Counts as external source-routing, Jina-readable SourceNote, IndexNow refresh and ASR accepted discovery for product/guide/SourceNote routes. It does not prove Google clicks, ranking improvement, traffic, inquiries, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, fixed price, certification status or AI natural recommendation.",
+      "boundary": "Counts as external source-routing, Jina-readable SourceNote, IndexNow refresh and ASR accepted discovery for product/guide/SourceNote routes. It does not prove Google clicks, ranking improvement, traffic, inquiries, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, fixed price, certification status or AI natural recommendation."
     }
   ],
-  "updated_at": "2026-06-20T21:53:22.562Z"
+  "updated_at": "2026-06-20T22:03:01.576Z"
 }
