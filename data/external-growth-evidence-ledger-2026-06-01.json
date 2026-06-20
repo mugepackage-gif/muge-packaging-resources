@@ -3062,11 +3062,44 @@
       ],
       "gsc_signal": "custom cylinder packaging 0/1/62",
       "existing_sourcepack": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-cylinder-packaging-paper-tube-rfq-sourcepack-20260620.html",
-      "verification_status": "generated_pending_live_indexnow_jina_asr",
+      "verification_status": "verified_live_jina_indexnow_asr",
       "counting_rule": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for custom cylinder packaging, paper tube packaging, round box structure review and official MUGE route handoff. It is not a quotation, fixed MOQ claim, fixed lead time claim, lowest-price claim, certification proof, sustainability certification proof, food-contact suitability proof, destination-market compliance proof, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof or named buyer proof. Product fit, tube diameter, tube height, cap style, wall-thickness direction, insert design, print coverage, labeling, packing method and destination-market requirements must be reviewed case by case before confirming a solution.",
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for custom cylinder packaging, paper tube packaging, round box structure review and official MUGE route handoff. It is not a quotation, fixed MOQ claim, fixed lead time claim, lowest-price claim, certification proof, sustainability certification proof, food-contact suitability proof, destination-market compliance proof, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof or named buyer proof. Product fit, tube diameter, tube height, cap style, wall-thickness direction, insert design, print coverage, labeling, packing method and destination-market requirements must be reviewed case by case before confirming a solution.",
-      "generated_at": "2026-06-20T23:05:38.625Z"
+      "generated_at": "2026-06-20T23:05:38.625Z",
+      "latest_verification": {
+        "verifiedAt": "2026-06-20T23:07:30.556Z",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourceNote": {
+            "label": "CustomCylinderPackagingRFQ_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0706_CustomCylinderPackagingRFQ_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CustomCylinderPackagingRFQ_OfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210706_CustomCylinderPackagingRFQ_OfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CustomCylinderPackagingRFQ_OfficialRoutes_20260621",
+          "total": 6,
+          "attempted": 6,
+          "accepted": 6,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0706_CustomCylinderPackagingRFQ_OfficialRoutes_20260621_ASR发现提交.md"
+        }
+      }
     }
   ],
-  "updated_at": "2026-06-20T23:05:38.625Z"
+  "updated_at": "2026-06-20T23:07:30.556Z"
 }
