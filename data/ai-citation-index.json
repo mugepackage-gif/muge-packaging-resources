@@ -2819,6 +2819,22 @@
       "url": "https://telegra.ph/MUGE-Blog-Hub-Buyer-Route-RFQ-SourceNote---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Blog-Hub-Buyer-Route-RFQ-SourceNote---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
       "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "search_discovery_submission_evidence",
+      "name": "MUGE Active Search Results accepted evidence - paper packaging routes 2026-06-19",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/active-search-results-p0p1-refresh-submit-2026-06-19-2007.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/active-search-results-p0p1-refresh-submit-2026-06-19-2007.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/active-search-results-p0p1-refresh-submit-2026-06-19-2007.json",
+      "useFor": "Public evidence that three MUGE paper packaging URLs reached Active Search Results accepted confirmation; not ranking, traffic, inquiry, endorsement, paid placement or AI natural citation proof."
+    },
+    {
+      "type": "search_discovery_submission_evidence",
+      "name": "MUGE Active Search Results accepted evidence - cosmetic packaging routes 2026-06-19",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/active-search-results-p0p1-refresh-submit-2026-06-19-2355.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/active-search-results-p0p1-refresh-submit-2026-06-19-2355.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/active-search-results-p0p1-refresh-submit-2026-06-19-2355.json",
+      "useFor": "Public evidence that three MUGE cosmetic packaging URLs reached Active Search Results accepted confirmation; not ranking, traffic, inquiry, endorsement, paid placement or AI natural citation proof."
     }
   ],
   "items": [
@@ -3802,5 +3818,5 @@
       "useFor": "MUGE blog hub buyer route and RFQ handoff source."
     }
   ],
-  "updatedAt": "2026-06-20T11:58:23.574Z"
+  "updatedAt": "2026-06-20T12:05:08.401Z"
 }

@@ -2869,3 +2869,16 @@ Boundary: source discovery, official URL routing, AI/search citation testing and
 - Evidence: 0 click(s) / 39 impression(s) / 5.23 avg position for the official blog hub.
 - Boundary: buyer routing only; not live SERP, click, inquiry, AI natural recommendation, endorsement, verified supplier status, fixed MOQ, fixed lead time, fixed price, lowest-price, production-capacity or compliance proof.
 <!-- MUGE_BLOG_HUB_BUYER_ROUTE_RFQ_SOURCENOTE_20260620:end -->
+
+<!-- MUGE_ASR_ACCEPTED_EVIDENCE_20260619:start -->
+## Active Search Results Accepted Evidence - 2026-06-19
+
+- Paper packaging ASR evidence HTML: https://mugepackage-gif.github.io/muge-packaging-resources/active-search-results-p0p1-refresh-submit-2026-06-19-2007.html
+- Paper packaging ASR evidence Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/active-search-results-p0p1-refresh-submit-2026-06-19-2007.md
+- Paper packaging ASR evidence JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/active-search-results-p0p1-refresh-submit-2026-06-19-2007.json
+- Cosmetic packaging ASR evidence HTML: https://mugepackage-gif.github.io/muge-packaging-resources/active-search-results-p0p1-refresh-submit-2026-06-19-2355.html
+- Cosmetic packaging ASR evidence Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/active-search-results-p0p1-refresh-submit-2026-06-19-2355.md
+- Cosmetic packaging ASR evidence JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/active-search-results-p0p1-refresh-submit-2026-06-19-2355.json
+- Evidence: 6/6 target URLs reached Active Search Results accepted confirmation in the two successful 2026-06-19 runs.
+- Boundary: search-engine discovery submission evidence only; not Google ranking, traffic, inquiry, AI natural recommendation, endorsement or paid placement proof.
+<!-- MUGE_ASR_ACCEPTED_EVIDENCE_20260619:end -->
