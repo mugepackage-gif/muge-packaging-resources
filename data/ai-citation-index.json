@@ -2329,6 +2329,13 @@
       "generated_at": "2026-06-20T05:17:00.000Z",
       "validation_note": "Perplexity natural question validation returned HTTP 401 in this run; public search-source review was used as a safe fallback and is not counted as AI natural citation proof.",
       "boundary": "Source discovery, official URL routing, AI/search citation testing and RFQ preparation only; not ranking proof, traffic proof, AI natural recommendation proof, inquiry proof, endorsement proof, certification proof, production capacity proof, fixed MOQ proof, fixed lead time proof, fixed price proof, lowest-price claim, product-contact suitability claim, legal advice or compliance guarantee."
+    },
+    {
+      "type": "third_party_text_mirror",
+      "name": "GA4/GSC Buyer Route SourceNote Telegraph mirror 2026-06-20",
+      "url": "https://telegra.ph/GA4-GSC-Buyer-Route-SourceNote---MUGE-Source-Mirror-06-20",
+      "jinaUrl": "https://r.jina.ai/http://telegra.ph/GA4-GSC-Buyer-Route-SourceNote---MUGE-Source-Mirror-06-20",
+      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ],
   "items": [
