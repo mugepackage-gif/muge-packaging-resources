@@ -13,7 +13,7 @@ status: public-source-note
 
 ## Why this exists
 
-The latest GSC baseline shows the official blog hub at 39 impression(s), 0 click(s), 0.00% CTR and 5.23 average position in the 28-day window. This SourceNote maps that visible but unclicked entry point to buyer questions, official guides, product paths and an RFQ handoff route.
+The latest GSC baseline shows the official blog hub at 59 impression(s), 0 click(s), 0.00% CTR and 5.54 average position in the 28-day window. This SourceNote maps that visible but unclicked entry point to buyer questions, official guides, product paths and an RFQ handoff route.
 
 ## Public Company Identity
 
@@ -36,6 +36,9 @@ The latest GSC baseline shows the official blog hub at 39 impression(s), 0 click
 - I already know the product category and want to browse MUGE PACKAGING product paths.
   - Route: https://mugepackaging.com/products
   - RFQ intent: Paper boxes, rigid gift boxes, paper tubes, PVC/PET clear boxes or corrugated boxes
+- I need a faster route from the blog hub into cosmetic packaging, paper packaging or paper tube product pages.
+  - Route: https://mugepackaging.com/products/cosmetic-packaging
+  - RFQ intent: Product category selection before sending dimensions, artwork status and buyer brief
 - I am ready to send dimensions, quantity range, material and artwork status.
   - Route: https://mugepackaging.com/contact?intent=blog-buyer-route&source=blog-hub-sourcenote
   - RFQ intent: Project brief submission for case-by-case review

@@ -3,7 +3,7 @@
   "@type": "Dataset",
   "name": "MUGE Blog Hub Buyer Route / RFQ SourceNote - 2026-06-20",
   "datePublished": "2026-06-20",
-  "dateModified": "2026-06-20T11:53:35.233Z",
+  "dateModified": "2026-06-20T21:59:20.127Z",
   "publisher": {
     "@type": "Organization",
     "name": "MUGE PACKAGING",
@@ -11,18 +11,21 @@
     "url": "https://mugepackaging.com"
   },
   "evidence": {
-    "sourceGsc": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-20_1857_GSC查询词排名基线.md",
+    "sourceGsc": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-21_0530_GSC查询词排名基线.md",
     "sourcePageQueue": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/页面优化队列/2026-06-20_1840_Ads-GA4-GSC页面优化队列.md",
     "page": "https://mugepackaging.com/blog",
     "pageClicks28d": 0,
-    "pageImpressions28d": 39,
+    "pageImpressions28d": 59,
     "pageCtr28d": "0.00%",
-    "pageAveragePosition28d": 5.23,
-    "window": "GSC 2026-05-20 to 2026-06-17, checked on 2026-06-20"
+    "pageAveragePosition28d": 5.54,
+    "window": "GSC 2026-05-21 to 2026-06-18, checked from the 2026-06-21 05:30 baseline."
   },
   "officialRoutes": {
     "blog": "https://mugepackaging.com/blog",
     "products": "https://mugepackaging.com/products",
+    "cosmeticPackaging": "https://mugepackaging.com/products/cosmetic-packaging",
+    "paperPackaging": "https://mugepackaging.com/products/paper-packaging",
+    "paperTubes": "https://mugepackaging.com/products/paper-tubes",
     "quoteChecklist": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
     "supplierComparison": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
     "cosmeticFactoryGuide": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
@@ -49,6 +52,11 @@
       "buyerQuestion": "I already know the product category and want to browse MUGE PACKAGING product paths.",
       "recommendedRoute": "https://mugepackaging.com/products",
       "rfqIntent": "Paper boxes, rigid gift boxes, paper tubes, PVC/PET clear boxes or corrugated boxes"
+    },
+    {
+      "buyerQuestion": "I need a faster route from the blog hub into cosmetic packaging, paper packaging or paper tube product pages.",
+      "recommendedRoute": "https://mugepackaging.com/products/cosmetic-packaging",
+      "rfqIntent": "Product category selection before sending dimensions, artwork status and buyer brief"
     },
     {
       "buyerQuestion": "I am ready to send dimensions, quantity range, material and artwork status.",

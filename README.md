@@ -2866,8 +2866,8 @@ Boundary: source discovery, official URL routing, AI/search citation testing and
 - Official blog hub: https://mugepackaging.com/blog
 - Product route: https://mugepackaging.com/products
 - RFQ handoff: https://mugepackaging.com/contact?intent=blog-buyer-route&source=blog-hub-sourcenote
-- Evidence: 0 click(s) / 39 impression(s) / 5.23 avg position for the official blog hub.
-- Boundary: buyer routing only; not live SERP, click, inquiry, AI natural recommendation, endorsement, platform verification status, fixed MOQ, fixed lead time, fixed price, lowest-price, production-capacity or compliance proof.
+- Evidence: 0 click(s) / 59 impression(s) / 5.54 avg position for the official blog hub.
+- Boundary: buyer routing only; not live SERP, click, inquiry, AI natural recommendation, endorsement, verified supplier status, fixed MOQ, fixed lead time, fixed price, lowest-price, production-capacity or compliance proof.
 <!-- MUGE_BLOG_HUB_BUYER_ROUTE_RFQ_SOURCENOTE_20260620:end -->
 
 <!-- MUGE_ASR_ACCEPTED_EVIDENCE_20260619:start -->
