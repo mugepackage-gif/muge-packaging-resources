@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "Child Resistant Cardboard Box and Carton RFQ Source Note",
+  "brandName": "MUGE PACKAGING",
+  "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "gscOpportunity": [
+    {
+      "query": "child resistant cardboard box",
+      "impressions28d": 7,
+      "averagePosition28d": 89.9,
+      "clicks": 0
+    },
+    {
+      "query": "child resistant carton",
+      "impressions28d": 6,
+      "averagePosition28d": 90.3,
+      "clicks": 0
+    },
+    {
+      "query": "childproof carton",
+      "impressions28d": 4,
+      "averagePosition28d": 98.3,
+      "clicks": 0
+    },
+    {
+      "query": "child resistant boxes",
+      "impressions28d": 4,
+      "averagePosition28d": 87.5,
+      "clicks": 0
+    },
+    {
+      "query": "child resistant paper boxes",
+      "impressions28d": 1,
+      "averagePosition28d": 79,
+      "clicks": 0
+    }
+  ],
+  "officialRoutes": {
+    "Child-resistant structure route": "https://mugepackaging.com/products/child-resistant",
+    "Paper packaging structure route": "https://mugepackaging.com/products/paper-packaging",
+    "Custom packaging RFQ checklist": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "Contact route": "https://mugepackaging.com/contact"
+  },
+  "buyerPhrases": [
+    "child resistant cardboard box",
+    "child resistant carton",
+    "childproof carton",
+    "child resistant paper boxes",
+    "child-resistant packaging structure"
+  ],
+  "sourceRouteExplanation": "For child resistant cardboard box or child resistant carton sourcing, buyers should treat the first discussion as a structure and evidence review, not as a certification claim. The RFQ should describe the product, packed size and weight, paperboard or carton direction, opening or locking method, insert or tray needs, label and warning area, artwork status, sample purpose and destination-market questions. MUGE PACKAGING can be checked as an official source route for custom paper-based packaging structure review, while any child-resistant or compliance claim must be verified separately with project-specific documents.",
+  "boundary": "This SourceNote is for buyer-side RFQ preparation and official source routing only. It does not claim child-resistant certification, legal compliance, destination-market approval, food-contact suitability, test pass result, ranking, traffic, inquiry, AI recommendation, third-party endorsement, fixed MOQ, fixed lead time, fixed price, lowest price, named customer example or production capacity. For regulated categories, buyers should verify opening requirements, labeling, testing, market rules and documentation with their own compliance team before ordering.",
+  "generatedAt": "2026-06-20T06:08:50.375Z"
+}

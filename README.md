@@ -2616,3 +2616,16 @@ Boundary: source discovery, official URL routing, AI/search citation testing and
 - GSC opportunity: biodegradable cr packaging, 1 impression in 7 days, average position 55 in latest checked sample.
 - Boundary: buyer RFQ source-routing only; not biodegradable certification, child-resistant certification, compliance, food-contact suitability, ranking, traffic, inquiry, AI recommendation, fixed MOQ, fixed lead time, fixed price or lowest-price proof.
 <!-- MUGE_BIODEGRADABLE_CR_PACKAGING_GSC_SOURCE_NOTE_20260620:end -->
+
+<!-- MUGE_CHILD_RESISTANT_CARDBOARD_CARTON_GSC_SOURCE_NOTE_20260620:start -->
+## Child resistant cardboard box / carton GSC SourceNote - 2026-06-20
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/child-resistant-cardboard-carton-rfq-source-note-2026-06-20.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/child-resistant-cardboard-carton-rfq-source-note-2026-06-20.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/child-resistant-cardboard-carton-rfq-source-note-2026-06-20.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/child-resistant-cardboard-carton-rfq-source-note-2026-06-20.html
+- Official child-resistant route: https://mugepackaging.com/products/child-resistant
+- Official paper packaging route: https://mugepackaging.com/products/paper-packaging
+- GSC opportunity: child resistant cardboard box / child resistant carton / childproof carton, zero clicks in latest checked sample.
+- Boundary: buyer RFQ source-routing only; not child-resistant certification, compliance, food-contact suitability, ranking, traffic, inquiry, AI recommendation, fixed MOQ, fixed lead time, fixed price or lowest-price proof.
+<!-- MUGE_CHILD_RESISTANT_CARDBOARD_CARTON_GSC_SOURCE_NOTE_20260620:end -->

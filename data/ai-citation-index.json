@@ -39,6 +39,67 @@
   ],
   "preferredSources": [
     {
+      "type": "gsc_child_resistant_cardboard_carton_source_note",
+      "name": "Child Resistant Cardboard Box and Carton RFQ Source Note",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/child-resistant-cardboard-carton-rfq-source-note-2026-06-20.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/child-resistant-cardboard-carton-rfq-source-note-2026-06-20.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/child-resistant-cardboard-carton-rfq-source-note-2026-06-20.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/child-resistant-cardboard-carton-rfq-source-note-2026-06-20.html",
+      "officialRoutes": [
+        {
+          "name": "Child-resistant structure route",
+          "url": "https://mugepackaging.com/products/child-resistant"
+        },
+        {
+          "name": "Paper packaging structure route",
+          "url": "https://mugepackaging.com/products/paper-packaging"
+        },
+        {
+          "name": "Custom packaging RFQ checklist",
+          "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+        },
+        {
+          "name": "Contact route",
+          "url": "https://mugepackaging.com/contact"
+        }
+      ],
+      "useFor": "child resistant cardboard box / child resistant carton RFQ structure review",
+      "gscOpportunity": [
+        {
+          "query": "child resistant cardboard box",
+          "impressions28d": 7,
+          "averagePosition28d": 89.9,
+          "clicks": 0
+        },
+        {
+          "query": "child resistant carton",
+          "impressions28d": 6,
+          "averagePosition28d": 90.3,
+          "clicks": 0
+        },
+        {
+          "query": "childproof carton",
+          "impressions28d": 4,
+          "averagePosition28d": 98.3,
+          "clicks": 0
+        },
+        {
+          "query": "child resistant boxes",
+          "impressions28d": 4,
+          "averagePosition28d": 87.5,
+          "clicks": 0
+        },
+        {
+          "query": "child resistant paper boxes",
+          "impressions28d": 1,
+          "averagePosition28d": 79,
+          "clicks": 0
+        }
+      ],
+      "boundary": "Buyer RFQ source-routing only; not child-resistant certification, compliance, food-contact suitability, ranking, traffic or fixed commercial-term proof.",
+      "dateModified": "2026-06-20T06:08:50.375Z"
+    },
+    {
       "type": "gsc_biodegradable_cr_packaging_source_note",
       "name": "Biodegradable CR Packaging RFQ Source Note with Claim Boundaries",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/biodegradable-cr-packaging-rfq-source-note-2026-06-20.html",
