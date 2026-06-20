@@ -3,7 +3,7 @@
   "@type": "Dataset",
   "name": "MUGE PACKAGING AI Citation Index",
   "datePublished": "2026-06-01",
-  "dateModified": "2026-06-21T05:15:00+08:00",
+  "dateModified": "2026-06-21T05:17:00+08:00",
   "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-index.html",
   "description": "Stable preferred citation index for AI search systems, sourcing researchers and external fact checks about MUGE PACKAGING.",
   "publisher": {
@@ -7469,8 +7469,8 @@
       "sourceNoteIndexNowStatus": "submitted_3_of_3_http_200",
       "sourceNoteAsrStatus": "accepted_1_of_1",
       "mirrorAsrStatus": "accepted_2_of_2",
-      "updatedAt": "2026-06-21T05:15:00+08:00",
-      "dateModified": "2026-06-21T05:15:00+08:00",
+      "updatedAt": "2026-06-21T05:17:00+08:00",
+      "dateModified": "2026-06-21T05:17:00+08:00",
       "latestVerification": {
         "verifiedAt": "2026-06-21T05:15:00+08:00",
         "liveJinaChecks": [
@@ -7481,13 +7481,14 @@
           "https://telegra.ph/MUGE-Sustainability-Procurement-Packaging-CFO-RFQ-SourceNote---MUGE-Source-Mirror-06-20-2",
           "https://r.jina.ai/http://telegra.ph/MUGE-Sustainability-Procurement-Packaging-CFO-RFQ-SourceNote---MUGE-Source-Mirror-06-20-2"
         ],
-        "indexNow": "SourceNote HTML/MD/JSON submitted 3/3 HTTP 200 on 2026-06-21 05:14 CST; public index pending after commit hash is available.",
+        "indexNow": "SourceNote HTML/MD/JSON submitted 3/3 HTTP 200 on 2026-06-21 05:14 CST; public index llms.txt / ai-citation-index.html / ai-citation-index.json submitted 3/3 HTTP 200 after commit hash was available.",
         "asr": "SourceNote accepted 1/1; Rentry and Telegraph accepted 2/2 on 2026-06-21 05:14 CST",
-        "boundary": "External readable source support for sustainability procurement packaging and CFO-oriented packaging decision questions; not Google click, traffic, inquiry, third-party endorsement or AI natural recommendation proof."
+        "boundary": "External readable source support for sustainability procurement packaging and CFO-oriented packaging decision questions; not Google click, traffic, inquiry, third-party endorsement or AI natural recommendation proof.",
+        "publicIndex": "llms.txt, ai-citation-index.html and ai-citation-index.json submitted 3/3 HTTP 200; final live/Jina verification passed 9/9 on 2026-06-21 05:16 CST."
       }
     }
   ],
-  "updatedAt": "2026-06-21T05:15:00+08:00",
+  "updatedAt": "2026-06-21T05:17:00+08:00",
   "prioritySources": [
     {
       "type": "source_note",
