@@ -1611,10 +1611,16 @@
       "official_page": "https://mugepackaging.com/products/cosmetic-packaging",
       "gsc_visible_url": "https://mugepackaging.com/blog/custom-cosmetic-packaging-solutions-for-beauty-and-skincare-brands",
       "gsc_signal": "0 clicks / 2 impressions / 81.5 average position",
-      "verification_status": "generated_pending_live_indexnow_jina_asr",
-      "counting_rule": "Counts as a public source-routing asset after live/Jina/IndexNow/ASR verification; not ranking, click, inquiry, endorsement or AI natural recommendation proof.",
-      "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for custom cosmetic packaging solutions, beauty brand packaging structures and buyer brief preparation. It is not product or market approval, formula-related claim, document proof, destination-market approval, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof, named buyer proof, preset order minimum, preset schedule or preset price. Packaging material, artwork, labeling and destination-market requirements must be reviewed case by case.",
-      "generated_at": "2026-06-20T15:03:34.860Z"
+      "verification_status": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+      "counting_rule": "Counts as a verified public source-routing asset after live/Jina/IndexNow/ASR verification and Rentry/Telegraph mirror verification; not ranking, click, traffic, inquiry, endorsement or AI natural recommendation proof.",
+      "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset with third-party readable Rentry and Telegraph mirrors for custom cosmetic packaging solutions, beauty brand packaging structures and buyer brief preparation. It is not product or market approval, formula-related claim, document proof, destination-market approval, Google ranking proof, click proof, traffic proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof, named buyer proof, preset order minimum, preset schedule or preset price. Packaging material, artwork, labeling and destination-market requirements must be reviewed case by case.",
+      "generated_at": "2026-06-20T15:03:34.860Z",
+      "rentry_url": "https://rentry.co/muge-cosmetic-packaging-solutions-rfq-sourcenote-20260620-2304",
+      "rentry_jina_url": "https://r.jina.ai/http://rentry.co/muge-cosmetic-packaging-solutions-rfq-sourcenote-20260620-2304",
+      "telegraph_url": "https://telegra.ph/MUGE-Custom-Cosmetic-Packaging-Solutions-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
+      "telegraph_jina_url": "https://r.jina.ai/http://telegra.ph/MUGE-Custom-Cosmetic-Packaging-Solutions-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
+      "mirror_asr_status": "accepted_2_of_2",
+      "updated_at": "2026-06-21T04:22:16+08:00"
     },
     {
       "date": "2026-06-20",
@@ -2320,5 +2326,5 @@
       "updated_at": "2026-06-21T04:01:49+08:00"
     }
   ],
-  "updated_at": "2026-06-21T04:16:05+08:00"
+  "updated_at": "2026-06-21T04:22:16+08:00"
 }
