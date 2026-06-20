@@ -1,0 +1,58 @@
+{
+  "asset": "MUGE Beauty Packaging Solutions RFQ SourcePack",
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "generated_at": "2026-06-20T04:24:00.000Z",
+  "trigger_gsc_query": "beauty packaging solutions",
+  "gsc_signal": {
+    "clicks": 0,
+    "impressions": 1,
+    "average_position": 87,
+    "source": "GSC baseline 2026-06-20 11:19 CST"
+  },
+  "primary_url": "https://mugepackage-gif.github.io/muge-packaging-resources/beauty-packaging-solutions-rfq-sourcepack-20260620.html",
+  "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/beauty-packaging-solutions-rfq-sourcepack-20260620.md",
+  "official_routes": [
+    "https://mugepackaging.com/products/cosmetic-packaging",
+    "https://mugepackaging.com/products/paper-packaging",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+    "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "https://mugepackaging.com/contact?intent=beauty-packaging-solutions-rfq&source=beauty-packaging-sourcepack"
+  ],
+  "queries": [
+    "beauty packaging solutions",
+    "cosmetic packaging solutions",
+    "skincare packaging boxes",
+    "makeup packaging boxes",
+    "beauty gift set packaging"
+  ],
+  "rfq_inputs": [
+    "product category",
+    "product dimensions and weight",
+    "pack count",
+    "tray or insert requirement",
+    "sales channel",
+    "box structure direction",
+    "artwork status",
+    "finish direction",
+    "shipping protection expectation",
+    "destination market",
+    "quantity direction"
+  ],
+  "claim_boundary": [
+    "not price proof",
+    "not fixed MOQ",
+    "not fixed lead time",
+    "not lowest-price claim",
+    "not cosmetic regulatory compliance proof",
+    "not product-contact suitability proof",
+    "not ranking proof",
+    "not traffic proof",
+    "not inquiry proof",
+    "not AI recommendation proof",
+    "not endorsement",
+    "not customer case",
+    "not production capacity proof"
+  ]
+}
