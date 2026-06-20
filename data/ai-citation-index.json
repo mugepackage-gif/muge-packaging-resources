@@ -4050,6 +4050,20 @@
       "url": "https://telegra.ph/MUGE-Corrugated-Ecommerce-Retail-Packaging-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Corrugated-Ecommerce-Retail-Packaging-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
       "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_markdown_mirror",
+      "name": "MUGE_Corrugated_Shipping_Retail_Solutions_SourceNote Rentry mirror 2026-06-20",
+      "url": "https://rentry.co/muge-corrugated-shipping-retail-solutions-rfq-sourcenote-20260620-2346",
+      "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-corrugated-shipping-retail-solutions-rfq-sourcenote-20260620-2346",
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_text_mirror",
+      "name": "MUGE_Corrugated_Shipping_Retail_Solutions_SourceNote Telegraph mirror 2026-06-20",
+      "url": "https://telegra.ph/MUGE-Corrugated-Shipping-Retail-Solutions-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
+      "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Corrugated-Shipping-Retail-Solutions-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
+      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ],
   "items": [
@@ -5325,7 +5339,7 @@
       "useFor": "Visible-search-to-RFQ planning handoff for sustainability procurement packaging questions."
     }
   ],
-  "updatedAt": "2026-06-20T15:40:07.816Z",
+  "updatedAt": "2026-06-20T15:46:31.353Z",
   "prioritySources": [
     {
       "type": "source_note",
