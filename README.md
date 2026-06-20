@@ -3116,3 +3116,15 @@ Boundary: source discovery, official URL routing, AI/search citation testing and
 - Keywords: printed rigid boxes; custom printed rigid boxes; rigid gift box packaging; printed gift boxes with logo; premium retail packaging boxes; rigid paper box RFQ; luxury rigid box structure; printed rigid box supplier questions
 - Boundary: source routing and RFQ planning only; not ranking, click, inquiry, endorsement, certification, capacity or destination-market approval proof.
 <!-- MUGE_PRINTED_RIGID_BOXES_RFQ_SOURCENOTE_20260620:end -->
+
+<!-- MUGE_COSMETIC_PACKAGING_SOLUTIONS_RFQ_SOURCENOTE_20260620:start -->
+## MUGE Custom Cosmetic Packaging Solutions RFQ SourceNote - 2026-06-20
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-solutions-rfq-sourcenote-2026-06-20.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-solutions-rfq-sourcenote-2026-06-20.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-cosmetic-packaging-solutions-rfq-sourcenote-2026-06-20.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-solutions-rfq-sourcenote-2026-06-20.html
+- GSC-visible URL: https://mugepackaging.com/blog/custom-cosmetic-packaging-solutions-for-beauty-and-skincare-brands
+- Current official routes: https://mugepackaging.com/products/cosmetic-packaging, https://mugepackaging.com/products/folding-gift-box, https://mugepackaging.com/products/paper-packaging, https://mugepackaging.com/contact?intent=custom-cosmetic-packaging-solutions&source=gsc-sourcenote
+- Keywords: custom cosmetic packaging solutions; cosmetic packaging boxes for beauty brands; skincare packaging box RFQ; beauty product packaging supplier questions; cosmetic gift box structure; printed paper packaging for cosmetics; cosmetic set packaging brief; beauty brand packaging sourcing checklist
+- Boundary: source routing and RFQ planning only; not cosmetic product approval, certification, ranking, click, inquiry, endorsement or AI natural recommendation proof.
+<!-- MUGE_COSMETIC_PACKAGING_SOLUTIONS_RFQ_SOURCENOTE_20260620:end -->
