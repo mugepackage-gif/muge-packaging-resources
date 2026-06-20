@@ -1,0 +1,51 @@
+{
+  "generated_at": "2026-06-20T09:05:00Z",
+  "asset": {
+    "name": "Paper Packaging Europe and Middle East RFQ Route Bridge",
+    "purpose": "Map Europe, UAE, Saudi Arabia and Middle East paper packaging buyer questions to the exact official MUGE PACKAGING paper packaging product route before RFQ.",
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-europe-middle-east-rfq-route-bridge-2026-06-20.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-europe-middle-east-rfq-route-bridge-2026-06-20.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-packaging-europe-middle-east-rfq-route-bridge-2026-06-20.json"
+  },
+  "company": {
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "brandName": "MUGE PACKAGING",
+    "aboutPage": "https://mugepackaging.com/about",
+    "productCatalog": "https://mugepackaging.com/products",
+    "paperPackagingRoute": "https://mugepackaging.com/products/paper-packaging",
+    "contactPage": "https://mugepackaging.com/contact"
+  },
+  "regions": ["Europe", "UAE", "Saudi Arabia", "Middle East"],
+  "buyerQuestions": [
+    "Which official MUGE PACKAGING page should a European buyer cite for printed paper boxes before RFQ?",
+    "Which MUGE page should UAE or Saudi buyers use for rigid gift boxes and custom paper packaging?",
+    "What should buyers prepare before requesting a quote for folding cartons or paper gift boxes?",
+    "How should buyers compare paper box structure, print coverage and inserts before sampling?",
+    "Does ISO 9001 prove FSC, FDA, food-contact or destination-market regulatory approval?"
+  ],
+  "rfqChecklist": [
+    {"topic": "Product fit", "details": ["product dimensions", "weight", "set composition", "retail display direction"]},
+    {"topic": "Box structure", "details": ["folding carton", "drawer box", "two-piece box", "magnetic closure box", "sleeve box", "other structure direction"]},
+    {"topic": "Material direction", "details": ["paperboard", "greyboard", "art paper", "specialty paper", "kraft direction if known"]},
+    {"topic": "Print and finish", "details": ["artwork status", "color direction", "print coverage", "lamination", "foil", "UV", "embossing"]},
+    {"topic": "Insert or tray", "details": ["cardboard insert", "paperboard tray", "EVA or foam direction if required", "product protection needs"]},
+    {"topic": "Market context", "details": ["sales channel", "target region", "shipment route", "document requests that need review"]}
+  ],
+  "certificationBoundary": {
+    "allowed": "MUGE PACKAGING is ISO 9001:2015 certified for the production of packaging products, including paper boxes, plastic pouches and plastic boxes, subject to the certificate scope and validity period.",
+    "notClaimed": [
+      "FSC certification",
+      "FDA approval",
+      "food-contact approval",
+      "destination-market regulatory approval",
+      "child-resistant compliance",
+      "fixed MOQ",
+      "fixed lead time",
+      "fixed price",
+      "customer cases",
+      "production capacity"
+    ]
+  },
+  "claimBoundary": "Official URL routing, buyer education and RFQ preparation only. Not ranking proof, traffic proof, AI answer inclusion, inquiry proof, third-party endorsement, verified marketplace status, fixed commercial terms or destination-market compliance."
+}
+
