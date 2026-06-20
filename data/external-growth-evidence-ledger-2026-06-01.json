@@ -1754,20 +1754,60 @@
       "updated_at": "2026-06-21T04:22:16+08:00"
     },
     {
-      "date": "2026-06-20",
-      "type": "gsc_visible_zero_click_commercial_sourcenote",
+      "date": "2026-06-21",
+      "type": "gsc_visible_zero_click_sourcenote",
       "platform": "GitHub Pages",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-packaging-box-design-rfq-sourcenote-2026-06-20.html",
       "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-packaging-box-design-rfq-sourcenote-2026-06-20.md",
       "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-packaging-box-design-rfq-sourcenote-2026-06-20.json",
       "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/corrugated-packaging-box-design-rfq-sourcenote-2026-06-20.html",
-      "official_page": "https://mugepackaging.com/products/corrugated-boxes",
+      "official_page": "https://mugepackaging.com/blog/custom-corrugated-packaging-box-design-for-shipping-and-retail",
       "gsc_visible_url": "https://mugepackaging.com/blog/custom-corrugated-packaging-box-design-for-shipping-and-retail",
-      "gsc_signal": "0 clicks / 2 impressions / 58 average position",
-      "verification_status": "generated_pending_live_indexnow_jina_asr",
-      "counting_rule": "Counts as a public source-routing asset after live/Jina/IndexNow/ASR verification; not ranking, click, inquiry, endorsement or AI natural recommendation proof.",
+      "gsc_signal": "corrugated packaging box design article 0 clicks / 2 impressions / 58 average position",
+      "verification_status": "verified_live_jina_indexnow_asr",
+      "counting_rule": "Counts as a public source-routing asset with live/Jina/IndexNow/ASR verification; not ranking, click, inquiry, endorsement, shipping approval or AI natural recommendation proof.",
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for custom corrugated packaging box design, ecommerce shipping boxes and retail-ready paper packaging planning. It is not shipping service approval, regulated-use proof, destination-market compliance proof, sustainability certification proof, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof, named buyer proof, preset order minimum, preset schedule or preset price. Box structure, paper grade, print method, protection needs, artwork and destination requirements must be reviewed case by case.",
-      "generated_at": "2026-06-20T15:12:37.073Z"
+      "generated_at": "2026-06-20T23:41:46.934Z",
+      "official_routes": [
+        "https://mugepackaging.com/blog/custom-corrugated-packaging-box-design-for-shipping-and-retail",
+        "https://mugepackaging.com/products/corrugated-boxes",
+        "https://mugepackaging.com/products/paper-packaging",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact?intent=custom-corrugated-packaging-box-design&source=gsc-sourcenote"
+      ],
+      "latest_verification": {
+        "verifiedAt": "2026-06-20T23:41:46.934Z",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourceNote": {
+            "label": "CorrugatedPackagingBoxDesignRFQ_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0740_CorrugatedPackagingBoxDesignRFQ_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CorrugatedPackagingBoxDesignRFQ_OfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210740_CorrugatedPackagingBoxDesignRFQ_OfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CorrugatedPackagingBoxDesignRFQ_OfficialRoutes_20260621",
+          "total": 6,
+          "attempted": 6,
+          "accepted": 6,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0740_CorrugatedPackagingBoxDesignRFQ_OfficialRoutes_20260621_ASR发现提交.md"
+        }
+      }
     },
     {
       "date": "2026-06-20",
@@ -3272,5 +3312,5 @@
       }
     }
   ],
-  "updated_at": "2026-06-20T23:36:23.193Z"
+  "updated_at": "2026-06-20T23:41:46.934Z"
 }
