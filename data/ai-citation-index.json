@@ -3,7 +3,7 @@
   "@type": "Dataset",
   "name": "MUGE PACKAGING AI Citation Index",
   "datePublished": "2026-06-01",
-  "dateModified": "2026-06-20T22:18:11.230Z",
+  "dateModified": "2026-06-20T22:20:29.453Z",
   "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-index.html",
   "description": "Stable preferred citation index for AI search systems, sourcing researchers and external fact checks about MUGE PACKAGING.",
   "publisher": {
@@ -88,8 +88,82 @@
           "clicks": 0
         }
       ],
-      "verificationStatus": "generated_pending_live_indexnow_jina_asr",
-      "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for unboxing structure review, buyer brief preparation and official MUGE route handoff. It does not repeat or validate fixed lead time, free design, certification, FSC, food-contact suitability, destination-market compliance, sustainability guarantee, lowest-price, fixed MOQ, production capacity, named buyer, Google ranking, click, inquiry, third-party endorsement or AI natural recommendation claims. Packaging structure, insert support, artwork area, material direction, shipping protection, budget and destination-market requirements must be reviewed case by case before confirming a solution."
+      "verificationStatus": "verified_live_jina_indexnow_asr_safe_routes_article_risk_pending",
+      "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for unboxing structure review, buyer brief preparation and official MUGE route handoff. It does not repeat or validate fixed lead time, free design, certification, FSC, food-contact suitability, destination-market compliance, sustainability guarantee, lowest-price, fixed MOQ, production capacity, named buyer, Google ranking, click, inquiry, third-party endorsement or AI natural recommendation claims. Packaging structure, insert support, artwork area, material direction, shipping protection, budget and destination-market requirements must be reviewed case by case before confirming a solution.",
+      "latestVerification": {
+        "verifiedAt": "2026-06-20T22:20:29.453Z",
+        "verificationStatus": "verified_live_jina_indexnow_asr_safe_routes_article_risk_pending",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourceNote": {
+            "label": "UnboxingTrendsStructuralHonesty_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0619_UnboxingTrendsStructuralHonesty_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "UnboxingTrendsStructuralHonesty_OfficialRoutes_20260621",
+            "precheckOk": 6,
+            "urlCount": 6,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210619_UnboxingTrendsStructuralHonesty_OfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "UnboxingTrendsStructuralHonesty_SafeRoutes_20260621",
+          "total": 6,
+          "attempted": 6,
+          "accepted": 6,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0619_UnboxingTrendsStructuralHonesty_SafeRoutes_20260621_ASR发现提交.md",
+          "skipped": [
+            {
+              "url": "https://mugepackaging.com/blog/2026-unboxing-trends-structural-honesty",
+              "reason": "官网原文含 fixed lead time / free design 方向强承诺 FAQ。已保留 IndexNow 通知，但暂不提交 ASR，待 Claude 修正文案后再复验。"
+            }
+          ]
+        }
+      },
+      "indexNow": {
+        "sourceNote": {
+          "label": "UnboxingTrendsStructuralHonesty_20260621",
+          "precheckOk": 3,
+          "urlCount": 3,
+          "httpStatus": 200,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0619_UnboxingTrendsStructuralHonesty_20260621_自定义URL_IndexNow提交.md"
+        },
+        "officialRoutes": {
+          "label": "UnboxingTrendsStructuralHonesty_OfficialRoutes_20260621",
+          "precheckOk": 6,
+          "urlCount": 6,
+          "httpStatus": 200,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210619_UnboxingTrendsStructuralHonesty_OfficialRoutes_20260621_IndexNow提交记录.md"
+        }
+      },
+      "asr": {
+        "label": "UnboxingTrendsStructuralHonesty_SafeRoutes_20260621",
+        "total": 6,
+        "attempted": 6,
+        "accepted": 6,
+        "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0619_UnboxingTrendsStructuralHonesty_SafeRoutes_20260621_ASR发现提交.md",
+        "skipped": [
+          {
+            "url": "https://mugepackaging.com/blog/2026-unboxing-trends-structural-honesty",
+            "reason": "官网原文含 fixed lead time / free design 方向强承诺 FAQ。已保留 IndexNow 通知，但暂不提交 ASR，待 Claude 修正文案后再复验。"
+          }
+        ]
+      },
+      "live": {
+        "html": 200,
+        "markdown": 200,
+        "json": 200,
+        "jina": 200
+      }
     },
     {
       "type": "source_note",
@@ -6491,9 +6565,83 @@
         "window": "GSC 28-day baseline checked from the 2026-06-21 05:30 baseline. The 2026 unboxing trends article had 4 impressions, 0 clicks and 9.25 average position."
       },
       "generated_at": "2026-06-20T22:18:11.230Z",
-      "verificationStatus": "generated_pending_live_indexnow_jina_asr",
+      "verificationStatus": "verified_live_jina_indexnow_asr_safe_routes_article_risk_pending",
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for unboxing structure review, buyer brief preparation and official MUGE route handoff. It does not repeat or validate fixed lead time, free design, certification, FSC, food-contact suitability, destination-market compliance, sustainability guarantee, lowest-price, fixed MOQ, production capacity, named buyer, Google ranking, click, inquiry, third-party endorsement or AI natural recommendation claims. Packaging structure, insert support, artwork area, material direction, shipping protection, budget and destination-market requirements must be reviewed case by case before confirming a solution.",
-      "useFor": "MUGE unboxing structure review and RFQ preparation source."
+      "useFor": "MUGE unboxing structure review and RFQ preparation source.",
+      "latestVerification": {
+        "verifiedAt": "2026-06-20T22:20:29.453Z",
+        "verificationStatus": "verified_live_jina_indexnow_asr_safe_routes_article_risk_pending",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourceNote": {
+            "label": "UnboxingTrendsStructuralHonesty_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0619_UnboxingTrendsStructuralHonesty_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "UnboxingTrendsStructuralHonesty_OfficialRoutes_20260621",
+            "precheckOk": 6,
+            "urlCount": 6,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210619_UnboxingTrendsStructuralHonesty_OfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "UnboxingTrendsStructuralHonesty_SafeRoutes_20260621",
+          "total": 6,
+          "attempted": 6,
+          "accepted": 6,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0619_UnboxingTrendsStructuralHonesty_SafeRoutes_20260621_ASR发现提交.md",
+          "skipped": [
+            {
+              "url": "https://mugepackaging.com/blog/2026-unboxing-trends-structural-honesty",
+              "reason": "官网原文含 fixed lead time / free design 方向强承诺 FAQ。已保留 IndexNow 通知，但暂不提交 ASR，待 Claude 修正文案后再复验。"
+            }
+          ]
+        }
+      },
+      "indexNow": {
+        "sourceNote": {
+          "label": "UnboxingTrendsStructuralHonesty_20260621",
+          "precheckOk": 3,
+          "urlCount": 3,
+          "httpStatus": 200,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0619_UnboxingTrendsStructuralHonesty_20260621_自定义URL_IndexNow提交.md"
+        },
+        "officialRoutes": {
+          "label": "UnboxingTrendsStructuralHonesty_OfficialRoutes_20260621",
+          "precheckOk": 6,
+          "urlCount": 6,
+          "httpStatus": 200,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210619_UnboxingTrendsStructuralHonesty_OfficialRoutes_20260621_IndexNow提交记录.md"
+        }
+      },
+      "asr": {
+        "label": "UnboxingTrendsStructuralHonesty_SafeRoutes_20260621",
+        "total": 6,
+        "attempted": 6,
+        "accepted": 6,
+        "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0619_UnboxingTrendsStructuralHonesty_SafeRoutes_20260621_ASR发现提交.md",
+        "skipped": [
+          {
+            "url": "https://mugepackaging.com/blog/2026-unboxing-trends-structural-honesty",
+            "reason": "官网原文含 fixed lead time / free design 方向强承诺 FAQ。已保留 IndexNow 通知，但暂不提交 ASR，待 Claude 修正文案后再复验。"
+          }
+        ]
+      },
+      "live": {
+        "html": 200,
+        "markdown": 200,
+        "json": 200,
+        "jina": 200
+      }
     },
     {
       "slug": "branded-paper-bags-logo-rfq-sourcenote-2026-06-21",
@@ -8125,7 +8273,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-20T22:18:11.230Z",
+  "updatedAt": "2026-06-20T22:20:29.453Z",
   "prioritySources": [
     {
       "type": "source_note",
