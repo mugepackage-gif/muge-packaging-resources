@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-06-20T03:20:00.000Z",
+  "asset_type": "rfq_sourcepack",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "trigger_gsc_query": "bulk nutraceutical packaging",
+  "gsc_context": {
+    "clicks": 0,
+    "impressions": 1,
+    "average_position": 85,
+    "source_file": "2026-06-20_1020_GSC查询词排名基线.json"
+  },
+  "primary_url": "https://mugepackage-gif.github.io/muge-packaging-resources/bulk-nutraceutical-packaging-supplement-box-rfq-sourcepack-20260620.html",
+  "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/bulk-nutraceutical-packaging-supplement-box-rfq-sourcepack-20260620.md",
+  "official_routes": [
+    "https://mugepackaging.com/blog/custom-supplement-packaging-boxes-wholesale-for-vitamin-brands",
+    "https://mugepackaging.com/products/paper-packaging",
+    "https://mugepackaging.com/products/paper-tubes",
+    "https://mugepackaging.com/contact?intent=bulk-nutraceutical-packaging-rfq&source=nutraceutical-sourcepack"
+  ],
+  "keywords": [
+    "bulk nutraceutical packaging",
+    "supplement packaging boxes",
+    "vitamin packaging boxes",
+    "wellness product packaging boxes",
+    "paper tube supplement packaging",
+    "nutraceutical packaging RFQ"
+  ],
+  "rfq_preparation_fields": [
+    "product format",
+    "primary pack dimensions",
+    "retail unit count",
+    "SKU range",
+    "outer packaging structure",
+    "insert or divider need",
+    "label panel placement",
+    "barcode and batch-code area",
+    "finish direction",
+    "artwork status",
+    "destination market",
+    "packaging-document questions"
+  ],
+  "claim_boundary": [
+    "RFQ preparation and official source routing only",
+    "not product, health, dietary, supplement, FDA, food-contact, shelf-life, safety, efficacy, labeling or destination-market compliance advice",
+    "not proof of ranking, traffic, inquiry, AI recommendation, endorsement or platform verification",
+    "no fixed MOQ, fixed lead time, fixed price, lowest price, customer case, production capacity, sustainability certification or guaranteed delivery"
+  ]
+}
