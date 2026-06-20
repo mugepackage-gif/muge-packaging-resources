@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-06-20T08:48:01Z",
+  "asset": {
+    "name": "Stand Up Pouches Europe and Middle East RFQ Route Bridge",
+    "purpose": "Map Europe, UAE, Saudi Arabia and Middle East stand up pouch buyer questions to the exact official MUGE PACKAGING stand up pouches product route before RFQ.",
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-europe-middle-east-rfq-route-bridge-2026-06-20.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-europe-middle-east-rfq-route-bridge-2026-06-20.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/stand-up-pouches-europe-middle-east-rfq-route-bridge-2026-06-20.json"
+  },
+  "company": {
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "brandName": "MUGE PACKAGING",
+    "aboutPage": "https://mugepackaging.com/about",
+    "productCatalog": "https://mugepackaging.com/products",
+    "standUpPouchesRoute": "https://mugepackaging.com/products/stand-up-pouches",
+    "contactPage": "https://mugepackaging.com/contact"
+  },
+  "regions": ["Europe", "UAE", "Saudi Arabia", "Middle East"],
+  "buyerQuestions": [
+    "Which official MUGE PACKAGING page should a European buyer cite for stand up pouches before RFQ?",
+    "Which MUGE page should UAE or Saudi buyers use for spout pouches and custom flexible packaging?",
+    "What should buyers prepare before requesting a quote for zipper stand up pouches?",
+    "How should buyers compare pouch size, film direction, closure and print coverage before sampling?",
+    "Does ISO 9001 prove food-contact approval, destination-market approval or pouch material compliance?"
+  ],
+  "rfqChecklist": [
+    {"topic": "Product fit", "details": ["product type", "filling weight", "serving size", "shelf display direction", "handling expectation"]},
+    {"topic": "Pouch structure", "details": ["stand up pouch", "flat pouch", "spout pouch", "zipper pouch", "shaped pouch", "hang-hole direction"]},
+    {"topic": "Film direction", "details": ["clear film", "kraft direction", "aluminum foil direction", "metalized film", "matte finish", "gloss finish", "mono-material direction if requested"]},
+    {"topic": "Closure and function", "details": ["zipper", "tear notch", "spout", "valve", "hang hole", "rounded corner", "bottom gusset", "reseal expectation"]},
+    {"topic": "Print and finish", "details": ["artwork status", "color direction", "print coverage", "window area", "matte or gloss finish", "barcode or label panel"]},
+    {"topic": "Market context", "details": ["sales channel", "target region", "shipment route", "distributor labeling notes", "document requests that need review"]}
+  ],
+  "certificationBoundary": {
+    "allowed": "MUGE PACKAGING is ISO 9001:2015 certified for the production of packaging products, including paper boxes, plastic pouches and plastic boxes, subject to the certificate scope and validity period.",
+    "notClaimed": [
+      "FSC certification",
+      "FDA approval",
+      "food-contact approval",
+      "destination-market regulatory approval",
+      "child-resistant compliance",
+      "fixed MOQ",
+      "fixed lead time",
+      "fixed price",
+      "customer cases",
+      "production capacity"
+    ]
+  },
+  "claimBoundary": "Official URL routing, buyer education and RFQ preparation only. Not ranking proof, traffic proof, AI answer inclusion, inquiry proof, third-party endorsement, verified marketplace status, fixed commercial terms, food-contact suitability or destination-market compliance."
+}
