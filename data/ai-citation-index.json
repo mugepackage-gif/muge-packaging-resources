@@ -2721,6 +2721,20 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/contact-project-brief-rfq-handoff-sourcenote-2026-06-20.html",
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/contact-project-brief-rfq-handoff-sourcenote-2026-06-20.html",
       "useFor": "RFQ brief handoff and contact-page source routing; not ranking, traffic, inquiry or endorsement proof."
+    },
+    {
+      "type": "third_party_markdown_mirror",
+      "name": "Contact Brief RFQ Handoff SourceNote Rentry mirror 2026-06-20",
+      "url": "https://rentry.co/muge-contact-brief-rfq-handoff-sourcenote-20260620-20260620-1925",
+      "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-contact-brief-rfq-handoff-sourcenote-20260620-20260620-1925",
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_text_mirror",
+      "name": "Contact Brief RFQ Handoff SourceNote Telegraph mirror 2026-06-20",
+      "url": "https://telegra.ph/Contact-Brief-RFQ-Handoff-SourceNote---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
+      "jinaUrl": "https://r.jina.ai/http://telegra.ph/Contact-Brief-RFQ-Handoff-SourceNote---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
+      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ],
   "items": [
@@ -3491,5 +3505,5 @@
       "useFor": "Contact page click-to-RFQ brief handoff for broad commercial packaging searches."
     }
   ],
-  "updatedAt": "2026-06-20T11:20:50.748Z"
+  "updatedAt": "2026-06-20T11:25:57.269Z"
 }
