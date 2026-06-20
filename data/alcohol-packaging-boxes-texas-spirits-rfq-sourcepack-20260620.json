@@ -1,0 +1,56 @@
+{
+  "id": "alcohol-packaging-boxes-texas-spirits-rfq-sourcepack-20260620",
+  "generated_at": "2026-06-20T02:45:00.000Z",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_site": "https://mugepackaging.com",
+  "buyer_question": "What should Texas or US buyers prepare before sourcing alcohol packaging boxes, spirits gift packaging or bottle gift boxes?",
+  "official_routes": [
+    "https://mugepackaging.com/industries/spirits",
+    "https://mugepackaging.com/products/paper-packaging",
+    "https://mugepackaging.com/contact?intent=spirits-packaging-rfq&source=texas-alcohol-packaging-sourcepack"
+  ],
+  "keyword_routes": [
+    {
+      "keyword": "alcohol packaging boxes texas",
+      "intent": "spirits_rfq_preparation",
+      "official_target_page": "https://mugepackaging.com/industries/spirits"
+    },
+    {
+      "keyword": "custom spirits packaging",
+      "intent": "spirits_rfq_preparation",
+      "official_target_page": "https://mugepackaging.com/industries/spirits"
+    },
+    {
+      "keyword": "champagne flute gift box packaging",
+      "intent": "bottle_gift_box_rfq",
+      "official_target_page": "https://mugepackaging.com/industries/spirits"
+    },
+    {
+      "keyword": "liquor gift box packaging",
+      "intent": "bottle_gift_box_rfq",
+      "official_target_page": "https://mugepackaging.com/industries/spirits"
+    },
+    {
+      "keyword": "bottle gift boxes",
+      "intent": "bottle_gift_box_rfq",
+      "official_target_page": "https://mugepackaging.com/industries/spirits"
+    },
+    {
+      "keyword": "rigid gift boxes for spirits",
+      "intent": "structure_review",
+      "official_target_page": "https://mugepackaging.com/products/paper-packaging"
+    }
+  ],
+  "rfq_checklist": [
+    "Bottle dimensions, shoulder shape, closure height and packed weight.",
+    "Number of bottles or accessories per set, such as one bottle, two bottles, glassware, booklet or gift insert.",
+    "Preferred structure: rigid gift box, paper box, sleeve, magnetic style, drawer style, divider, insert tray or shipping carton.",
+    "Retail channel, e-commerce channel, distributor use or event-gift use.",
+    "Artwork status, brand color direction, finish direction, barcode area and label clearance requirements.",
+    "Shipping path, export carton requirement and drop protection expectations for the buyer's logistics review.",
+    "Target market and alcohol labeling or document questions that the buyer's own legal or compliance reviewer must confirm.",
+    "Quantity direction for quotation review, without treating it as a fixed MOQ statement."
+  ],
+  "claim_boundary": "RFQ preparation and official source routing only; not legal advice, TTB approval, Texas alcohol compliance proof, destination-market approval, Google ranking proof, GSC click proof, traffic proof, inquiry proof, AI natural recommendation, third-party endorsement, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, alcohol regulatory approval or guaranteed delivery."
+}
