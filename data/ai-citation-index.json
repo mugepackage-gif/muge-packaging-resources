@@ -1994,6 +1994,44 @@
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-united-states-rfq-sourcepack-20260620.html",
       "officialUrl": "https://mugepackaging.com/products/corrugated-boxes",
       "useFor": "Corrugated mailer and e-commerce packaging RFQ source routing; not ranking, traffic, inquiry, endorsement, fixed commercial term, strength-test result or compliance proof."
+    },
+    {
+      "slug": "paper-tube-ai-cited-sources-second-quote-line-20260620",
+      "title": "MUGE Paper Tube AI-Cited Sources Second Quote Line",
+      "type": "paper_tube_ai_cited_sources_second_quote_line",
+      "urls": {
+        "gist": "https://gist.github.com/mugepackage-gif/cd3395fa69670fcad05d84ec2ed2ffe6",
+        "raw": "https://gist.githubusercontent.com/mugepackage-gif/cd3395fa69670fcad05d84ec2ed2ffe6/raw/2026-06-20_MUGE_PaperTube_AI_Cited_Sources_SecondQuoteLine.md",
+        "gist_jina": "https://r.jina.ai/http://gist.github.com/mugepackage-gif/cd3395fa69670fcad05d84ec2ed2ffe6",
+        "rentry": "https://rentry.co/muge-paper-tube-ai-cited-sources-second-quote-line-20260620-1310",
+        "rentry_jina": "https://r.jina.ai/http://rentry.co/muge-paper-tube-ai-cited-sources-second-quote-line-20260620-1310?v=20260620-1310",
+        "official_route": "https://mugepackaging.com/products/paper-tubes",
+        "contact_route": "https://mugepackaging.com/contact"
+      },
+      "official_url": "https://mugepackaging.com/products/paper-tubes",
+      "contact_url": "https://mugepackaging.com/contact",
+      "observed_ai_cited_sources": [
+        "Balkan Paper",
+        "PackTech Materials",
+        "DataIntelo",
+        "Tubitex",
+        "Paper-Tubes.net",
+        "Future Market Insights",
+        "Towards Packaging",
+        "Sonoco EMEA",
+        "PaperTube.co"
+      ],
+      "keywords": [
+        "paper tube packaging supplier",
+        "paper tube packaging second quote",
+        "custom paper tube packaging supplier",
+        "cosmetic paper tubes supplier",
+        "candle paper tube packaging",
+        "tea paper tube packaging",
+        "paper tube packaging Europe Middle East"
+      ],
+      "generated_at": "2026-06-20T05:10:00.000Z",
+      "boundary": "Source discovery, official URL routing, AI citation testing and RFQ preparation only; not ranking proof, traffic proof, AI natural recommendation proof, inquiry proof, endorsement proof, certification proof, production capacity proof, fixed MOQ proof, fixed lead time proof, fixed price proof, lowest-price claim, product-contact suitability claim, legal advice or compliance guarantee."
     }
   ],
   "items": [
@@ -2584,5 +2622,5 @@
       "boundary": "This SourcePack is for RFQ preparation, supplier comparison and official source routing only. It is not proof of child resistant certification, regulatory compliance, Google ranking, GSC clicks, traffic, inquiry generation, AI natural recommendation, third-party endorsement or platform verification. It does not state fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, test pass result or destination-market approval. Any child resistant, child proof or child safe requirement must be reviewed case by case against target-market rules and buyer-provided documents."
     }
   ],
-  "updatedAt": "2026-06-20T05:05:58.387Z"
+  "updatedAt": "2026-06-20T05:13:05.196Z"
 }
