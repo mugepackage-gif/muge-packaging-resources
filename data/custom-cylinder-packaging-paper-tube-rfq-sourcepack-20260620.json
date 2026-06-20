@@ -1,0 +1,58 @@
+{
+  "asset": "MUGE Custom Cylinder Packaging Paper Tube RFQ SourcePack",
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "generated_at": "2026-06-20T04:18:00.000Z",
+  "trigger_gsc_query": "custom cylinder packaging",
+  "gsc_signal": {
+    "clicks": 0,
+    "impressions": 1,
+    "average_position": 62,
+    "source": "GSC baseline 2026-06-20 11:19 CST"
+  },
+  "primary_url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-cylinder-packaging-paper-tube-rfq-sourcepack-20260620.html",
+  "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-cylinder-packaging-paper-tube-rfq-sourcepack-20260620.md",
+  "official_routes": [
+    "https://mugepackaging.com/products/paper-tubes",
+    "https://mugepackaging.com/products/paper-packaging",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "https://mugepackaging.com/contact?intent=custom-cylinder-packaging-rfq&source=custom-cylinder-sourcepack"
+  ],
+  "queries": [
+    "custom cylinder packaging",
+    "paper tube packaging",
+    "round box packaging",
+    "cylindrical retail packaging",
+    "custom paper tube packaging"
+  ],
+  "rfq_inputs": [
+    "product dimensions and weight",
+    "tube diameter and height",
+    "cap or closure style",
+    "material direction",
+    "print coverage",
+    "finish direction",
+    "insert or inner wrap requirement",
+    "sales channel",
+    "artwork status",
+    "quantity direction",
+    "packing method",
+    "destination market"
+  ],
+  "claim_boundary": [
+    "not price proof",
+    "not fixed MOQ",
+    "not fixed lead time",
+    "not lowest-price claim",
+    "not sustainability guarantee",
+    "not food-contact compliance proof",
+    "not ranking proof",
+    "not traffic proof",
+    "not inquiry proof",
+    "not AI recommendation proof",
+    "not endorsement",
+    "not customer case",
+    "not production capacity proof"
+  ]
+}
