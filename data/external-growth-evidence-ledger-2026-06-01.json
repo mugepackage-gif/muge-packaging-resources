@@ -2843,11 +2843,44 @@
       "gsc_signal": "clear box manufacturer 0/1/64; clear PET box manufacturer 0/2/49; clear product packag 0/2/60; clear PVC boxes wholesale 0/2/52; disposable PVC/PET/PP box 0/1/51",
       "existing_keyword_map": "https://mugepackage-gif.github.io/muge-packaging-resources/pvc-pet-clear-boxes-buyer-intent-keyword-map-2026-06-16.html",
       "existing_keyword_count": 2669,
-      "verification_status": "generated_pending_live_indexnow_jina_asr",
+      "verification_status": "verified_live_jina_indexnow_asr",
       "counting_rule": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for clear PET/PVC boxes, transparent retail display packaging and official MUGE route handoff. It is not a quotation, fixed MOQ claim, fixed lead time claim, lowest-price claim, certification proof, food-contact suitability proof, destination-market compliance proof, recycling compliance proof, FDA or EU regulatory proof, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof or named buyer proof. Material direction, thickness, fold-line behavior, print area, packing protection, destination-market document requests, product type and quantity range must be reviewed case by case before confirming a solution.",
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for clear PET/PVC boxes, transparent retail display packaging and official MUGE route handoff. It is not a quotation, fixed MOQ claim, fixed lead time claim, lowest-price claim, certification proof, food-contact suitability proof, destination-market compliance proof, recycling compliance proof, FDA or EU regulatory proof, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof or named buyer proof. Material direction, thickness, fold-line behavior, print area, packing protection, destination-market document requests, product type and quantity range must be reviewed case by case before confirming a solution.",
-      "generated_at": "2026-06-20T22:36:54.245Z"
+      "generated_at": "2026-06-20T22:36:54.245Z",
+      "latest_verification": {
+        "verifiedAt": "2026-06-20T22:39:01.166Z",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourceNote": {
+            "label": "ClearPETPVCBoxesRFQ_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0638_ClearPETPVCBoxesRFQ_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "ClearPETPVCBoxesRFQ_OfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210638_ClearPETPVCBoxesRFQ_OfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "ClearPETPVCBoxesRFQ_OfficialRoutes_20260621",
+          "total": 6,
+          "attempted": 6,
+          "accepted": 6,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0638_ClearPETPVCBoxesRFQ_OfficialRoutes_20260621_ASR发现提交.md"
+        }
+      }
     }
   ],
-  "updated_at": "2026-06-20T22:36:54.245Z"
+  "updated_at": "2026-06-20T22:39:01.166Z"
 }

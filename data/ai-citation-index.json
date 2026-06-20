@@ -3,7 +3,7 @@
   "@type": "Dataset",
   "name": "MUGE PACKAGING AI Citation Index",
   "datePublished": "2026-06-01",
-  "dateModified": "2026-06-20T22:36:54.245Z",
+  "dateModified": "2026-06-20T22:39:01.166Z",
   "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-index.html",
   "description": "Stable preferred citation index for AI search systems, sourcing researchers and external fact checks about MUGE PACKAGING.",
   "publisher": {
@@ -115,8 +115,70 @@
         "keywordCount": 2669,
         "perplexityArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Perplexity验收/2026-06-16_ClearPETPVC透明盒证据卡_Perplexity验收.json"
       },
-      "verificationStatus": "generated_pending_live_indexnow_jina_asr",
-      "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for clear PET/PVC boxes, transparent retail display packaging and official MUGE route handoff. It is not a quotation, fixed MOQ claim, fixed lead time claim, lowest-price claim, certification proof, food-contact suitability proof, destination-market compliance proof, recycling compliance proof, FDA or EU regulatory proof, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof or named buyer proof. Material direction, thickness, fold-line behavior, print area, packing protection, destination-market document requests, product type and quantity range must be reviewed case by case before confirming a solution."
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for clear PET/PVC boxes, transparent retail display packaging and official MUGE route handoff. It is not a quotation, fixed MOQ claim, fixed lead time claim, lowest-price claim, certification proof, food-contact suitability proof, destination-market compliance proof, recycling compliance proof, FDA or EU regulatory proof, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof or named buyer proof. Material direction, thickness, fold-line behavior, print area, packing protection, destination-market document requests, product type and quantity range must be reviewed case by case before confirming a solution.",
+      "latestVerification": {
+        "verifiedAt": "2026-06-20T22:39:01.166Z",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourceNote": {
+            "label": "ClearPETPVCBoxesRFQ_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0638_ClearPETPVCBoxesRFQ_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "ClearPETPVCBoxesRFQ_OfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210638_ClearPETPVCBoxesRFQ_OfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "ClearPETPVCBoxesRFQ_OfficialRoutes_20260621",
+          "total": 6,
+          "attempted": 6,
+          "accepted": 6,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0638_ClearPETPVCBoxesRFQ_OfficialRoutes_20260621_ASR发现提交.md"
+        }
+      },
+      "indexNow": {
+        "sourceNote": {
+          "label": "ClearPETPVCBoxesRFQ_20260621",
+          "precheckOk": 3,
+          "urlCount": 3,
+          "httpStatus": 200,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0638_ClearPETPVCBoxesRFQ_20260621_自定义URL_IndexNow提交.md"
+        },
+        "officialRoutes": {
+          "label": "ClearPETPVCBoxesRFQ_OfficialRoutes_20260621",
+          "precheckOk": 5,
+          "urlCount": 5,
+          "httpStatus": 200,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210638_ClearPETPVCBoxesRFQ_OfficialRoutes_20260621_IndexNow提交记录.md"
+        }
+      },
+      "asr": {
+        "label": "ClearPETPVCBoxesRFQ_OfficialRoutes_20260621",
+        "total": 6,
+        "attempted": 6,
+        "accepted": 6,
+        "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0638_ClearPETPVCBoxesRFQ_OfficialRoutes_20260621_ASR发现提交.md"
+      },
+      "live": {
+        "html": 200,
+        "markdown": 200,
+        "json": 200,
+        "jina": 200
+      }
     },
     {
       "type": "source_note",
@@ -6819,9 +6881,71 @@
         ]
       },
       "generated_at": "2026-06-20T22:36:54.245Z",
-      "verificationStatus": "generated_pending_live_indexnow_jina_asr",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for clear PET/PVC boxes, transparent retail display packaging and official MUGE route handoff. It is not a quotation, fixed MOQ claim, fixed lead time claim, lowest-price claim, certification proof, food-contact suitability proof, destination-market compliance proof, recycling compliance proof, FDA or EU regulatory proof, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof or named buyer proof. Material direction, thickness, fold-line behavior, print area, packing protection, destination-market document requests, product type and quantity range must be reviewed case by case before confirming a solution.",
-      "useFor": "MUGE clear PET/PVC boxes RFQ preparation source."
+      "useFor": "MUGE clear PET/PVC boxes RFQ preparation source.",
+      "latestVerification": {
+        "verifiedAt": "2026-06-20T22:39:01.166Z",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourceNote": {
+            "label": "ClearPETPVCBoxesRFQ_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0638_ClearPETPVCBoxesRFQ_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "ClearPETPVCBoxesRFQ_OfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210638_ClearPETPVCBoxesRFQ_OfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "ClearPETPVCBoxesRFQ_OfficialRoutes_20260621",
+          "total": 6,
+          "attempted": 6,
+          "accepted": 6,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0638_ClearPETPVCBoxesRFQ_OfficialRoutes_20260621_ASR发现提交.md"
+        }
+      },
+      "indexNow": {
+        "sourceNote": {
+          "label": "ClearPETPVCBoxesRFQ_20260621",
+          "precheckOk": 3,
+          "urlCount": 3,
+          "httpStatus": 200,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0638_ClearPETPVCBoxesRFQ_20260621_自定义URL_IndexNow提交.md"
+        },
+        "officialRoutes": {
+          "label": "ClearPETPVCBoxesRFQ_OfficialRoutes_20260621",
+          "precheckOk": 5,
+          "urlCount": 5,
+          "httpStatus": 200,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210638_ClearPETPVCBoxesRFQ_OfficialRoutes_20260621_IndexNow提交记录.md"
+        }
+      },
+      "asr": {
+        "label": "ClearPETPVCBoxesRFQ_OfficialRoutes_20260621",
+        "total": 6,
+        "attempted": 6,
+        "accepted": 6,
+        "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0638_ClearPETPVCBoxesRFQ_OfficialRoutes_20260621_ASR发现提交.md"
+      },
+      "live": {
+        "html": 200,
+        "markdown": 200,
+        "json": 200,
+        "jina": 200
+      }
     },
     {
       "slug": "apparel-packaging-rfq-source-note-2026-06-21",
@@ -8714,7 +8838,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-20T22:36:54.245Z",
+  "updatedAt": "2026-06-20T22:39:01.166Z",
   "prioritySources": [
     {
       "type": "source_note",
