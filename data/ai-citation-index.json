@@ -4315,9 +4315,19 @@
       "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/eu-void-space-luxury-packaging-rfq-sourcenote-2026-06-20.html",
       "official_url": "https://mugepackaging.com/blog/article-10-vs-article-24-minimization-void-space-luxury",
       "useFor": "Visible-search-to-RFQ planning handoff for Europe-facing luxury packaging questions."
+    },
+    {
+      "slug": "sustainability-procurement-packaging-cfo-rfq-sourcenote-2026-06-20",
+      "title": "MUGE Sustainability Procurement Packaging CFO RFQ SourceNote - 2026-06-20",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/sustainability-procurement-packaging-cfo-rfq-sourcenote-2026-06-20.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/sustainability-procurement-packaging-cfo-rfq-sourcenote-2026-06-20.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/sustainability-procurement-packaging-cfo-rfq-sourcenote-2026-06-20.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/sustainability-procurement-packaging-cfo-rfq-sourcenote-2026-06-20.html",
+      "official_url": "https://mugepackaging.com/blog/beyond-compliance-cfo-sustainability-best-friend",
+      "useFor": "Visible-search-to-RFQ planning handoff for sustainability procurement packaging questions."
     }
   ],
-  "updatedAt": "2026-06-20T13:19:54.153Z",
+  "updatedAt": "2026-06-20T13:25:24.476Z",
   "prioritySources": [
     {
       "type": "source_note",
@@ -4325,6 +4335,13 @@
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/eu-void-space-luxury-packaging-rfq-sourcenote-2026-06-20.html",
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/eu-void-space-luxury-packaging-rfq-sourcenote-2026-06-20.html",
       "useFor": "EU void-space luxury packaging RFQ planning route; not compliance proof, legal advice, ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "source_note",
+      "name": "MUGE Sustainability Procurement Packaging CFO RFQ SourceNote - 2026-06-20",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/sustainability-procurement-packaging-cfo-rfq-sourcenote-2026-06-20.html",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/sustainability-procurement-packaging-cfo-rfq-sourcenote-2026-06-20.html",
+      "useFor": "Sustainability procurement packaging RFQ planning route; not ESG proof, savings proof, compliance proof, ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ]
 }
