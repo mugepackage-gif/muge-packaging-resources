@@ -1,0 +1,42 @@
+{
+  "title": "MUGE Childproof Carton and Child Safe Packaging RFQ SourcePack",
+  "generated_at": "2026-06-20T04:32:00.000Z",
+  "type": "rfq_sourcepack",
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/childproof-carton-child-safe-packaging-rfq-sourcepack-20260620.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/childproof-carton-child-safe-packaging-rfq-sourcepack-20260620.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/childproof-carton-child-safe-packaging-rfq-sourcepack-20260620.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/childproof-carton-child-safe-packaging-rfq-sourcepack-20260620.html"
+  },
+  "gsc_opportunity_mapping": [
+    {"query":"child proof packaging","clicks":0,"impressions":22,"average_position":84.45454545454545,"official_route":"https://mugepackaging.com/products/child-resistant"},
+    {"query":"childproof carton","clicks":0,"impressions":4,"average_position":98.25,"official_route":"https://mugepackaging.com/products/child-resistant"},
+    {"query":"child safe packaging","clicks":0,"impressions":3,"average_position":83,"official_route":"https://mugepackaging.com/products/child-resistant"},
+    {"query":"child proof containers","clicks":0,"impressions":2,"average_position":67,"official_route":"https://mugepackaging.com/products/child-resistant"},
+    {"query":"child-proof packaging","clicks":0,"impressions":2,"average_position":80,"official_route":"https://mugepackaging.com/products/child-resistant"},
+    {"query":"childproof packaging","clicks":0,"impressions":2,"average_position":92.5,"official_route":"https://mugepackaging.com/products/child-resistant"}
+  ],
+  "official_routes": [
+    "https://mugepackaging.com/products/child-resistant",
+    "https://mugepackaging.com/products/paper-packaging",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "https://mugepackaging.com/contact?intent=childproof-carton-rfq&source=childproof-carton-sourcepack"
+  ],
+  "rfq_fields": [
+    "target country or selling region",
+    "product category",
+    "product dimensions and weight",
+    "structure direction",
+    "material direction",
+    "label or warning area",
+    "artwork status",
+    "sample purpose",
+    "separate test or compliance document questions",
+    "sales channel",
+    "quantity direction"
+  ],
+  "boundary": "Buyer education, custom packaging RFQ preparation and official source routing only. Not proof of child-resistant certification, child-safety certification, regulatory compliance, destination-market approval, test pass result, ranking, clicks, traffic, inquiry generation, AI recommendation, endorsement, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or guaranteed delivery."
+}
