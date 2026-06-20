@@ -3025,11 +3025,15 @@ Boundary: source discovery, official URL routing, AI/search citation testing and
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/packaging-paper-guide-rfq-sourcenote-2026-06-20.md
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/packaging-paper-guide-rfq-sourcenote-2026-06-20.json
 - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/packaging-paper-guide-rfq-sourcenote-2026-06-20.html
+- Rentry: https://rentry.co/muge-packaging-paper-guide-rfq-sourcenote-20260620-20260620-2200
+- Rentry Jina: https://r.jina.ai/http://rentry.co/muge-packaging-paper-guide-rfq-sourcenote-20260620-20260620-2200
+- Telegraph: https://telegra.ph/MUGE-Packaging-Paper-Guide-RFQ-SourceNote---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20
+- Telegraph Jina: https://r.jina.ai/http://telegra.ph/MUGE-Packaging-Paper-Guide-RFQ-SourceNote---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20
 - GSC-visible URL: https://mugepackaging.com/blog/an-essential-guide-to-packaging-paper/
 - Current official route: https://mugepackaging.com/products/paper-packaging
 - RFQ routes: https://mugepackaging.com/products/paper-packaging, https://mugepackaging.com/products/folding-gift-box, https://mugepackaging.com/contact?intent=packaging-paper-guide&source=gsc-sourcenote
 - Keywords: packaging paper RFQ guide; paper packaging material selection questions; custom paper packaging supplier checklist; paperboard packaging buyer brief; folding paper box structure review; retail paper packaging sourcing questions; paper packaging product route MUGE; custom paper box material and finish planning
-- Boundary: RFQ planning and AI-readable source route only; not certification, food-contact, compliance, ranking, click, inquiry, endorsement or AI natural recommendation proof.
+- Boundary: RFQ planning, AI-readable source routing and third-party readable mirrors only; not certification, food-contact, compliance, ranking, click, traffic, inquiry, endorsement or AI natural recommendation proof.
 <!-- MUGE_PACKAGING_PAPER_GUIDE_RFQ_SOURCENOTE_20260620:end -->
 
 <!-- MUGE_UNBOXING_TRENDS_STRUCTURAL_HONESTY_RFQ_SOURCENOTE_20260620:start -->
