@@ -6038,6 +6038,20 @@
       "url": "https://telegra.ph/MUGE-Custom-Paper-Tubes-Bulk-UAE-RFQ-SourceNote---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Custom-Paper-Tubes-Bulk-UAE-RFQ-SourceNote---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
       "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_markdown_mirror",
+      "name": "Cosmetic Packaging Supplier Checklist CTR RFQ SourceNote Rentry mirror 2026-06-21",
+      "url": "https://rentry.co/muge-cosmetic-packaging-supplier-checklist-ctr-rfq-sourcenote-20260621-0435",
+      "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-cosmetic-packaging-supplier-checklist-ctr-rfq-sourcenote-20260621-0435",
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_text_mirror",
+      "name": "Cosmetic Packaging Supplier Checklist CTR RFQ SourceNote Telegraph mirror 2026-06-21",
+      "url": "https://telegra.ph/MUGE-Cosmetic-Packaging-Supplier-Checklist-CTR-RFQ-SourceNote---MUGE-Source-Mirror-06-20-2",
+      "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Cosmetic-Packaging-Supplier-Checklist-CTR-RFQ-SourceNote---MUGE-Source-Mirror-06-20-2",
+      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ],
   "items": [
@@ -7145,8 +7159,18 @@
         "window": "GSC 2026-05-20 to 2026-06-17 and latest GA4 30-day review checked on 2026-06-20"
       },
       "generated_at": "2026-06-20T12:43:04.045Z",
-      "boundary": "This SourceNote is for search-to-RFQ routing, official source mapping and AI reader discovery. It is based on GSC and GA4 evidence, but it is not live SERP proof, Google click proof, inquiry proof, paid-ad performance proof, third-party endorsement or AI natural recommendation proof. It does not state fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, platform verification, food-contact status or regulated-market approval. Cosmetic packaging material, structure, documents and destination-market questions should be reviewed case by case.",
-      "useFor": "Cosmetic packaging supplier checklist visible-search-to-RFQ brief handoff."
+      "boundary": "This SourceNote and mirrors are for cosmetic packaging supplier checklist search-to-RFQ routing, AI reader discovery and external readable source support only. They do not prove Google clicks, natural traffic, inquiries, third-party endorsement, AI natural recommendation, fixed MOQ, fixed lead time, fixed price, customer cases, food-contact status or regulated-market approval.",
+      "useFor": "Cosmetic packaging supplier checklist visible-search-to-RFQ brief handoff.",
+      "rentryUrl": "https://rentry.co/muge-cosmetic-packaging-supplier-checklist-ctr-rfq-sourcenote-20260621-0435",
+      "rentryJinaUrl": "https://r.jina.ai/http://rentry.co/muge-cosmetic-packaging-supplier-checklist-ctr-rfq-sourcenote-20260621-0435",
+      "telegraphUrl": "https://telegra.ph/MUGE-Cosmetic-Packaging-Supplier-Checklist-CTR-RFQ-SourceNote---MUGE-Source-Mirror-06-20-2",
+      "telegraphJinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Cosmetic-Packaging-Supplier-Checklist-CTR-RFQ-SourceNote---MUGE-Source-Mirror-06-20-2",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+      "sourceNoteIndexNowStatus": "submitted_3_of_3_http_200",
+      "sourceNoteAsrStatus": "accepted_1_of_1",
+      "mirrorAsrStatus": "accepted_2_of_2",
+      "updatedAt": "2026-06-21T04:36:29+08:00",
+      "dateModified": "2026-06-21T04:36:29+08:00"
     },
     {
       "slug": "luxury-packaging-market-forecast-rfq-planning-sourcenote-2026-06-20",
@@ -7313,7 +7337,7 @@
       "useFor": "Visible-search-to-RFQ planning handoff for sustainability procurement packaging questions."
     }
   ],
-  "updatedAt": "2026-06-21T04:09:14+08:00",
+  "updatedAt": "2026-06-21T04:36:29+08:00",
   "prioritySources": [
     {
       "type": "source_note",
