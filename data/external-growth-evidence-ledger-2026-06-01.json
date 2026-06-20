@@ -1831,10 +1831,70 @@
       "official_page": "https://mugepackaging.com/blog/custom-confectionery-packaging-boxes-for-candy-and-sweet-brands",
       "gsc_visible_url": "https://mugepackaging.com/blog/custom-confectionery-packaging-boxes-for-candy-and-sweet-brands",
       "gsc_signal": "0 clicks / 20 impressions / 70.4 average position",
-      "verification_status": "generated_pending_live_indexnow_jina_asr",
+      "verification_status": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors_safe_routes",
       "counting_rule": "Counts as a public source-routing asset after live/Jina/IndexNow/ASR verification; not ranking, click, inquiry, endorsement or AI natural recommendation proof.",
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for confectionery packaging boxes, sweet gift box structure and buyer brief preparation. It is not a quotation, price promise, production schedule promise, certification proof, destination-market compliance proof, food-contact suitability proof, Google ranking proof, conversion proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof, named buyer proof, preset order minimum, preset schedule or preset price. Packaging material, artwork, labeling, target market, direct-contact requirements and destination-market requirements must be reviewed case by case before confirming a solution.",
-      "generated_at": "2026-06-20T16:35:29.034Z"
+      "generated_at": "2026-06-20T16:35:29.034Z",
+      "id": "confectionery_packaging_rfq_sourcenote_20260621_generated",
+      "latest_verification": {
+        "verifiedAt": "2026-06-20T22:45:38.824Z",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors_safe_routes",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "rentryJina": 200,
+          "telegraph": 200,
+          "telegraphJina": 200
+        },
+        "indexNow": {
+          "sourceNote": {
+            "label": "ConfectioneryPackaging_SourceNote_retry",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0036_ConfectioneryPackaging_SourceNote_retry_IndexNow提交.md"
+          },
+          "safeOfficialRoutes": {
+            "label": "ConfectioneryPackaging_SafeOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210644_ConfectioneryPackaging_SafeOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourceNoteRetry": {
+            "label": "ConfectioneryPackaging_SourceNote_retry",
+            "total": 1,
+            "attempted": 1,
+            "accepted": 1,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0036_ConfectioneryPackaging_SourceNote_retry_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "ConfectioneryPackaging_Mirrors",
+            "total": 2,
+            "attempted": 2,
+            "accepted": 2,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0037_ConfectioneryPackaging_Mirrors_ASR发现提交.md"
+          },
+          "safeOfficialRoutesAndMirrors": {
+            "label": "ConfectioneryPackaging_SafeOfficialRoutes_SourceMirrors_20260621",
+            "total": 8,
+            "attempted": 8,
+            "accepted": 8,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0644_ConfectioneryPackaging_SafeOfficialRoutes_SourceMirrors_20260621_ASR发现提交.md"
+          }
+        },
+        "skippedRiskRoute": {
+          "url": "https://mugepackaging.com/blog/custom-confectionery-packaging-boxes-for-candy-and-sweet-brands",
+          "reason": "Live page contains food-contact direction claims such as Food-grade certified board materials; keep as GSC evidence and IndexNow history, but do not count it as ASR-safe official route until wording is reviewed."
+        }
+      },
+      "rentry_url": "https://rentry.co/muge-confectionery-packaging-rfq-sourcenote-20260621-0036",
+      "telegraph_url": "https://telegra.ph/MUGE-Confectionery-Packaging-RFQ-SourceNote---MUGE-Source-Mirror-06-20"
     },
     {
       "date": "2026-06-21",
@@ -2882,5 +2942,5 @@
       }
     }
   ],
-  "updated_at": "2026-06-20T22:39:01.166Z"
+  "updated_at": "2026-06-20T22:45:38.824Z"
 }
