@@ -1,0 +1,77 @@
+{
+  "name": "MUGE PACKAGING ASR P0/P1 Refresh Submission",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "website": "https://mugepackaging.com",
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T00:30:37.613Z",
+  "endpoint": "https://www.activesearchresults.com/addwebsite.php",
+  "email_used_domain": "***@mugepackaging.com",
+  "safety_boundaries": [
+    "no paid placement",
+    "no login",
+    "no captcha bypass",
+    "no false verified supplier claim",
+    "no unsupported certification/customer/MOQ/lead-time claim"
+  ],
+  "form_check": {
+    "status": 200,
+    "finalUrl": "https://www.activesearchresults.com/addwebsite.php",
+    "formSafe": true,
+    "reason": "ASR form exposes URL and email fields and does not show captcha/payment/login requirement."
+  },
+  "summary": {
+    "target_count": 5,
+    "attempted_count": 5,
+    "accepted_count": 5,
+    "not_confirmed_count": 0,
+    "target_not_live_count": 0
+  },
+  "results": [
+    {
+      "url": "https://mugepackaging.com/products/child-resistant",
+      "liveStatus": 200,
+      "submitted": true,
+      "submitStatus": 200,
+      "finalUrl": "https://www.activesearchresults.com/urladdedconfirm.php",
+      "result": "accepted",
+      "evidence": "Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine."
+    },
+    {
+      "url": "https://mugepackaging.com/source-notes/child-resistant-structure-review",
+      "liveStatus": 200,
+      "submitted": true,
+      "submitStatus": 200,
+      "finalUrl": "https://www.activesearchresults.com/urladdedconfirm.php",
+      "result": "accepted",
+      "evidence": "Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine."
+    },
+    {
+      "url": "https://mugepackaging.com/source-data/child-resistant-structure-review-20260620.txt",
+      "liveStatus": 200,
+      "submitted": true,
+      "submitStatus": 200,
+      "finalUrl": "https://www.activesearchresults.com/urladdedconfirm.php",
+      "result": "accepted",
+      "evidence": "Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine."
+    },
+    {
+      "url": "https://mugepackaging.com/contact?intent=child-resistant-structure-review&source=gsc-child-resistant-page",
+      "liveStatus": 200,
+      "submitted": true,
+      "submitStatus": 200,
+      "finalUrl": "https://www.activesearchresults.com/urladdedconfirm.php",
+      "result": "accepted",
+      "evidence": "Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine."
+    },
+    {
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "liveStatus": 200,
+      "submitted": true,
+      "submitStatus": 200,
+      "finalUrl": "https://www.activesearchresults.com/urladdedconfirm.php",
+      "result": "accepted",
+      "evidence": "Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine."
+    }
+  ]
+}
