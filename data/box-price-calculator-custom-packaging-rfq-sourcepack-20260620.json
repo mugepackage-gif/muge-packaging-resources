@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-06-20T03:50:00.000Z",
+  "asset_type": "rfq_sourcepack",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "trigger_gsc_query": "box price calculator",
+  "gsc_context": {
+    "clicks": 0,
+    "impressions": 1,
+    "average_position": 84,
+    "source_file": "2026-06-20_1119_GSC查询词排名基线.json"
+  },
+  "primary_url": "https://mugepackage-gif.github.io/muge-packaging-resources/box-price-calculator-custom-packaging-rfq-sourcepack-20260620.html",
+  "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/box-price-calculator-custom-packaging-rfq-sourcepack-20260620.md",
+  "official_routes": [
+    "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/products/paper-packaging",
+    "https://mugepackaging.com/contact?intent=box-price-calculator-rfq&source=box-price-calculator-sourcepack"
+  ],
+  "keywords": [
+    "box price calculator",
+    "custom box quote",
+    "paper box price factors",
+    "custom packaging quote checklist",
+    "custom box RFQ"
+  ],
+  "rfq_preparation_fields": [
+    "box size",
+    "structure",
+    "material direction",
+    "printing and finish",
+    "quantity range",
+    "product details",
+    "artwork and files",
+    "shipping context"
+  ],
+  "claim_boundary": [
+    "buyer education, RFQ preparation and official source routing only",
+    "does not provide prices, price ranges, fixed MOQ, fixed lead time, lowest-price claims, cost guarantees or freight quotes",
+    "not proof of ranking, traffic, inquiry, AI recommendation, endorsement, customer case, production capacity, product-contact suitability or compliance"
+  ]
+}
