@@ -3038,6 +3038,20 @@
       "url": "https://telegra.ph/MUGE-Branded-Packaging-Tape-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Branded-Packaging-Tape-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
       "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_text_mirror",
+      "name": "MUGE EU Void-Space Luxury Packaging RFQ SourceNote Telegraph mirror 2026-06-20",
+      "url": "https://telegra.ph/MUGE-EU-Void-Space-Luxury-Packaging-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
+      "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-EU-Void-Space-Luxury-Packaging-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
+      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_markdown_mirror",
+      "name": "MUGE EU Void-Space Luxury Packaging RFQ SourceNote Rentry mirror 2026-06-20",
+      "url": "https://rentry.co/muge-eu-void-space-luxury-packaging-rfq-sourcenote-20260620-20260620-2119",
+      "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-eu-void-space-luxury-packaging-rfq-sourcenote-20260620-20260620-2119",
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ],
   "items": [
@@ -4303,7 +4317,7 @@
       "useFor": "Visible-search-to-RFQ planning handoff for Europe-facing luxury packaging questions."
     }
   ],
-  "updatedAt": "2026-06-20T13:18:27.278Z",
+  "updatedAt": "2026-06-20T13:19:54.153Z",
   "prioritySources": [
     {
       "type": "source_note",
