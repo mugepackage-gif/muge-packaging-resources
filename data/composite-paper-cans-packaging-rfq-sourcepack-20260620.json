@@ -1,0 +1,60 @@
+{
+  "asset": "MUGE Composite Paper Cans Packaging RFQ SourcePack",
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "generated_at": "2026-06-20T04:12:00.000Z",
+  "trigger_gsc_query": "composite paper cans",
+  "gsc_signal": {
+    "clicks": 0,
+    "impressions": 2,
+    "average_position": 82,
+    "source": "GSC baseline 2026-06-20 11:19 CST"
+  },
+  "primary_url": "https://mugepackage-gif.github.io/muge-packaging-resources/composite-paper-cans-packaging-rfq-sourcepack-20260620.html",
+  "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/composite-paper-cans-packaging-rfq-sourcepack-20260620.md",
+  "official_routes": [
+    "https://mugepackaging.com/products/paper-tubes",
+    "https://mugepackaging.com/products/paper-packaging",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "https://mugepackaging.com/contact?intent=composite-paper-cans-rfq&source=composite-paper-cans-sourcepack"
+  ],
+  "queries": [
+    "composite paper cans",
+    "paper can packaging",
+    "paper tube cans",
+    "custom paper tube cans",
+    "cylindrical retail packaging"
+  ],
+  "rfq_inputs": [
+    "product category",
+    "product dimensions and weight",
+    "diameter and height",
+    "cap or closure style",
+    "material direction",
+    "label or full-wrap print layout",
+    "surface finish direction",
+    "inner wrap or divider requirement",
+    "retail channel",
+    "shipping protection expectation",
+    "destination market",
+    "quantity direction"
+  ],
+  "claim_boundary": [
+    "not price proof",
+    "not fixed MOQ",
+    "not fixed lead time",
+    "not lowest-price claim",
+    "not sustainability guarantee",
+    "not recyclability proof",
+    "not food-contact compliance proof",
+    "not shelf-life proof",
+    "not ranking proof",
+    "not traffic proof",
+    "not inquiry proof",
+    "not AI recommendation proof",
+    "not endorsement",
+    "not customer case",
+    "not production capacity proof"
+  ]
+}
