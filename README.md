@@ -3763,3 +3763,18 @@ Boundary: source discovery, official URL routing, AI/search citation testing and
 - Existing asset upgraded: https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-products-packaging-rfq-sourcepack-20260620.html
 - Boundary: RFQ preparation and official route handoff only; not ranking, click, inquiry, endorsement, certification, sustainability proof, food-contact proof, fixed MOQ, fixed lead time or fixed price proof.
 <!-- MUGE_CUSTOM_PAPER_PRODUCTS_RFQ_SOURCENOTE_20260621:end -->
+
+<!-- MUGE_CUSTOM_CYLINDER_PACKAGING_RFQ_SOURCENOTE_20260621:start -->
+## MUGE Custom Cylinder Packaging Paper Tube RFQ SourceNote - 2026-06-21
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-cylinder-packaging-paper-tube-rfq-sourcenote-2026-06-21.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/custom-cylinder-packaging-paper-tube-rfq-sourcenote-2026-06-21.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-cylinder-packaging-paper-tube-rfq-sourcenote-2026-06-21.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-cylinder-packaging-paper-tube-rfq-sourcenote-2026-06-21.html
+- Official paper tube page: https://mugepackaging.com/products/paper-tubes
+- Official paper packaging page: https://mugepackaging.com/products/paper-packaging
+- RFQ handoff: https://mugepackaging.com/contact?intent=custom-cylinder-packaging-rfq&source=gsc-sourcenote
+- Evidence: custom cylinder packaging 0/1/62 in latest GSC 7-day baseline.
+- Existing asset upgraded: https://mugepackage-gif.github.io/muge-packaging-resources/custom-cylinder-packaging-paper-tube-rfq-sourcepack-20260620.html
+- Boundary: RFQ preparation and official route handoff only; not ranking, click, inquiry, endorsement, certification, sustainability proof, food-contact proof, fixed MOQ, fixed lead time or fixed price proof.
+<!-- MUGE_CUSTOM_CYLINDER_PACKAGING_RFQ_SOURCENOTE_20260621:end -->
