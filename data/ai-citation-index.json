@@ -2996,7 +2996,58 @@
       "generated_at": "2026-06-20T06:29:59.092Z",
       "boundary": "This SourceNote is for buyer RFQ preparation, example review and official URL routing only. It is not a customer case page, certification proof, child-resistant test pass proof, regulatory compliance guarantee, food-contact suitability claim, legal advice, platform verification, ranking proof, traffic proof, inquiry proof, AI recommendation proof, fixed MOQ, fixed lead time, fixed price or lowest-price claim. Buyers should review any example, sample, report or certificate against their own product, target market and compliance requirements.",
       "useFor": "child-resistant packaging examples buyer review and RFQ preparation source routing"
+    },
+    {
+      "slug": "organic-product-landing-routes-sourcenote-2026-06-20",
+      "title": "MUGE PACKAGING Organic Product Landing Routes SourceNote",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/organic-product-landing-routes-sourcenote-2026-06-20.html",
+      "official_url": "https://mugepackaging.com/products",
+      "product_routes": [
+        "https://mugepackaging.com/products/paper-tubes",
+        "https://mugepackaging.com/products/cosmetic-packaging",
+        "https://mugepackaging.com/products/folding-gift-box"
+      ],
+      "contact_route": "https://mugepackaging.com/contact",
+      "evidence_basis": [
+        {
+          "source": "GA4",
+          "signal": "google / organic",
+          "sessions": 130,
+          "activeUsers": 123,
+          "eventCount": 804
+        },
+        {
+          "source": "GA4",
+          "signal": "bing / organic",
+          "sessions": 120,
+          "activeUsers": 112,
+          "eventCount": 743
+        },
+        {
+          "source": "GA4",
+          "signal": "mugepackage-gif.github.io / referral",
+          "sessions": 12,
+          "activeUsers": 12,
+          "eventCount": 81
+        },
+        {
+          "source": "GA4",
+          "signal": "chatgpt.com / referral",
+          "sessions": 11,
+          "activeUsers": 9,
+          "eventCount": 94
+        },
+        {
+          "source": "GA4",
+          "signal": "chatgpt.com / ai-assistant",
+          "sessions": 9,
+          "activeUsers": 7,
+          "eventCount": 74
+        }
+      ],
+      "generated_at": "2026-06-20T10:00:47.203Z",
+      "boundary": "This SourceNote is for public source routing, buyer question answering and RFQ preparation only. It is not proof of Google ranking, Google click growth, AI natural recommendation, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact approval or destination-market compliance."
     }
   ],
-  "updatedAt": "2026-06-20T09:53:22.051Z"
+  "updatedAt": "2026-06-20T10:00:47.203Z"
 }
