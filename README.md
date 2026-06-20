@@ -1,3 +1,15 @@
+<!-- MUGE_COSMETIC_PACKAGING_REGIONAL_SUPPLIER_VETTING_HUB_2026_06_20:start -->
+## Cosmetic Packaging Regional Supplier Vetting Hub - 2026-06-20
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-regional-supplier-vetting-hub-2026-06-20.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-regional-supplier-vetting-hub-2026-06-20.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-regional-supplier-vetting-hub-2026-06-20.json
+- Official mapped page: https://mugepackaging.com/products/cosmetic-packaging
+- Related GSC buyer guide: https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide
+- Connected SourcePacks: Global buyer education, Europe supplier vetting and Middle East supplier vetting.
+- GSC basis: 105 impressions, 0 clicks, average position 4.62 for the related buyer guide in the 2026-05-20 to 2026-06-17 window.
+- Boundary: public source-routing and RFQ preparation only; not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price, food-contact approval, customer-case proof, destination-market compliance guarantee or production-capacity proof.
+<!-- MUGE_COSMETIC_PACKAGING_REGIONAL_SUPPLIER_VETTING_HUB_2026_06_20:end -->
+
 <!-- MUGE_ROLLING_CLUSTER_SOURCE_PACK_COSMETIC_PACKAGING_MIDDLE_EAST_SUPPLIER_VETTING_2026_06_20:start -->
 ## Cosmetic Packaging Middle East Supplier Vetting Rolling Source Pack - 2026-06-20
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-middle-east-supplier-vetting-rolling-source-pack-2026-06-20.html
