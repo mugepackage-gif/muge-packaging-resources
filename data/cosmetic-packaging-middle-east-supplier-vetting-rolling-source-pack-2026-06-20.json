@@ -1,0 +1,61 @@
+{
+  "generatedAt": "2026-06-20T08:15:00Z",
+  "createdAtCst": "2026-06-20 16:15:00",
+  "publishedDate": "2026-06-20",
+  "slug": "cosmetic-packaging-middle-east-supplier-vetting-rolling-source-pack-2026-06-20",
+  "cluster": {
+    "clusterKey": "cosmetic_packaging::middle_east::supplier_vetting",
+    "product": "cosmetic_packaging",
+    "region": "middle_east",
+    "intent": "supplier_vetting",
+    "targetUrls": [
+      "https://mugepackaging.com/products/cosmetic-packaging",
+      "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide"
+    ],
+    "keywords": [
+      "custom cosmetic packaging supplier middle east",
+      "cosmetic packaging supplier uae",
+      "cosmetic packaging supplier dubai",
+      "skincare packaging boxes supplier dubai",
+      "beauty packaging boxes manufacturer uae",
+      "custom cosmetic packaging china supplier middle east",
+      "cosmetic packaging factory for gcc beauty brands",
+      "custom skincare packaging supplier saudi arabia",
+      "cosmetic packaging supplier checklist middle east",
+      "beauty gift set packaging supplier gcc"
+    ],
+    "keywordCount": 10,
+    "gscBasis": {
+      "source": "2026-06-20_1601_GSC查询词排名基线.md",
+      "page": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "window": "2026-05-20 to 2026-06-17",
+      "impressions": 105,
+      "clicks": 0,
+      "averagePosition": 4.62
+    }
+  },
+  "officialSourcePaths": [
+    "https://mugepackaging.com/products/cosmetic-packaging",
+    "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/contact"
+  ],
+  "companionSourcePacks": [
+    "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-europe-supplier-vetting-rolling-source-pack-2026-06-20.html",
+    "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-global-buyer-education-rolling-source-pack-2026-06-16.html"
+  ],
+  "claimBoundaries": [
+    "not ranking proof",
+    "not traffic proof",
+    "not AI answer inclusion proof",
+    "not third-party endorsement",
+    "not verified supplier status",
+    "not fixed MOQ",
+    "not fixed lead time",
+    "not lowest price",
+    "not food-contact approval",
+    "not destination-market compliance guarantee",
+    "not customer-case proof",
+    "not production-capacity proof"
+  ]
+}
