@@ -2954,6 +2954,13 @@
       "url": "https://telegra.ph/United-States-Child-Resistant-Packaging-RFQ-SourcePack---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/United-States-Child-Resistant-Packaging-RFQ-SourcePack---MUGE-Source-Mirror-06-20",
       "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "source_note",
+      "name": "MUGE Cosmetic Packaging Supplier Checklist CTR/RFQ SourceNote - 2026-06-20",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-supplier-checklist-ctr-rfq-sourcenote-2026-06-20.html",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-supplier-checklist-ctr-rfq-sourcenote-2026-06-20.html",
+      "useFor": "Cosmetic packaging supplier checklist CTR-to-RFQ handoff and official route mapping; not live SERP, click, inquiry, endorsement or AI natural citation proof."
     }
   ],
   "items": [
@@ -4020,7 +4027,50 @@
       "generated_at": "2026-06-20T12:16:58.018Z",
       "boundary": "This SourceNote is a public route map for GSC-visible legacy URLs and current official MUGE PACKAGING buyer routes. It is not a claim that Google has consolidated every old URL, not live SERP proof, not Google click proof, not inquiry proof, not third-party endorsement and not AI natural recommendation proof. HTTP/www status 000 rows are recorded as local probe results, not as proof of production business failure or proof of a fixed server state. No fixed MOQ, fixed lead time, fixed price, lowest-price claim, customer case, production capacity, platform verification, food-contact status or regulated-market approval is stated.",
       "useFor": "MUGE GSC legacy URL route interpretation and current official buyer-route mapping."
+    },
+    {
+      "slug": "cosmetic-packaging-supplier-checklist-ctr-rfq-sourcenote-2026-06-20",
+      "title": "MUGE Cosmetic Packaging Supplier Checklist CTR/RFQ SourceNote - 2026-06-20",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-supplier-checklist-ctr-rfq-sourcenote-2026-06-20.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-supplier-checklist-ctr-rfq-sourcenote-2026-06-20.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-supplier-checklist-ctr-rfq-sourcenote-2026-06-20.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-supplier-checklist-ctr-rfq-sourcenote-2026-06-20.html",
+      "official_url": "https://mugepackaging.com/blog/cosmetic-packaging-supplier-checklist",
+      "official_routes": [
+        "https://mugepackaging.com/blog/cosmetic-packaging-supplier-checklist",
+        "https://mugepackaging.com/products/cosmetic-packaging",
+        "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+        "https://mugepackaging.com/contact?intent=cosmetic-packaging-supplier-checklist&source=gsc-ctr-sourcenote"
+      ],
+      "keywords": [
+        "cosmetic packaging supplier checklist",
+        "cosmetic packaging supplier",
+        "skincare packaging supplier checklist",
+        "beauty packaging supplier checklist",
+        "custom cosmetic packaging supplier",
+        "cosmetic packaging manufacturer checklist",
+        "cosmetic packaging RFQ checklist",
+        "custom skincare box packaging supplier",
+        "beauty brand packaging supplier questions"
+      ],
+      "evidence_basis": {
+        "sourceGsc": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-20_2008_GSC查询词排名基线.md",
+        "sourceGa4": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GA4关键事件与落地页/202606201810_GA4关键事件与落地页复盘.md",
+        "page": "https://mugepackaging.com/blog/cosmetic-packaging-supplier-checklist",
+        "pageClicks28d": 0,
+        "pageImpressions28d": 4,
+        "pageCtr28d": "0.00%",
+        "pageAveragePosition28d": 4,
+        "relatedOrganicLandingPage": "https://mugepackaging.com/products/cosmetic-packaging",
+        "relatedOrganicSessions30d": 36,
+        "relatedDirectLandingPage": "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+        "relatedDirectSessions30d": 37,
+        "window": "GSC 2026-05-20 to 2026-06-17 and latest GA4 30-day review checked on 2026-06-20"
+      },
+      "generated_at": "2026-06-20T12:43:04.045Z",
+      "boundary": "This SourceNote is for search-to-RFQ routing, official source mapping and AI reader discovery. It is based on GSC and GA4 evidence, but it is not live SERP proof, Google click proof, inquiry proof, paid-ad performance proof, third-party endorsement or AI natural recommendation proof. It does not state fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, platform verification, food-contact status or regulated-market approval. Cosmetic packaging material, structure, documents and destination-market questions should be reviewed case by case.",
+      "useFor": "Cosmetic packaging supplier checklist visible-search-to-RFQ brief handoff."
     }
   ],
-  "updatedAt": "2026-06-20T12:31:37.085Z"
+  "updatedAt": "2026-06-20T12:43:04.057Z"
 }

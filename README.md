@@ -2894,3 +2894,18 @@ Boundary: source discovery, official URL routing, AI/search citation testing and
 - Current official route examples: https://mugepackaging.com/about, https://mugepackaging.com/products/paper-packaging, https://mugepackaging.com/products/folding-gift-box, https://mugepackaging.com/blog, https://mugepackaging.com/quote-calculator
 - Boundary: route interpretation only; not Google ranking, click, inquiry, AI natural citation, third-party endorsement, verified supplier, fixed MOQ, fixed lead time, fixed price, lowest-price, production-capacity or compliance proof.
 <!-- MUGE_GSC_VISIBLE_LEGACY_URL_ROUTE_MAP_SOURCENOTE_20260620:end -->
+
+<!-- MUGE_COSMETIC_PACKAGING_SUPPLIER_CHECKLIST_CTR_RFQ_SOURCENOTE_20260620:start -->
+## Cosmetic Packaging Supplier Checklist CTR/RFQ SourceNote - 2026-06-20
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-supplier-checklist-ctr-rfq-sourcenote-2026-06-20.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-supplier-checklist-ctr-rfq-sourcenote-2026-06-20.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-supplier-checklist-ctr-rfq-sourcenote-2026-06-20.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-supplier-checklist-ctr-rfq-sourcenote-2026-06-20.html
+- Official checklist: https://mugepackaging.com/blog/cosmetic-packaging-supplier-checklist
+- Product route: https://mugepackaging.com/products/cosmetic-packaging
+- Related buyer guide: https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier
+- RFQ handoff: https://mugepackaging.com/contact?intent=cosmetic-packaging-supplier-checklist&source=gsc-ctr-sourcenote
+- Evidence: 0 click(s) / 4 impression(s) / 4 avg position for the official checklist, plus 36 organic sessions for the related cosmetic packaging product page.
+- Boundary: search-to-RFQ source-routing only; not live SERP, click, inquiry, AI natural recommendation, endorsement, verified supplier status, certification, fixed MOQ, fixed lead time, fixed price, lowest-price or compliance proof.
+<!-- MUGE_COSMETIC_PACKAGING_SUPPLIER_CHECKLIST_CTR_RFQ_SOURCENOTE_20260620:end -->
