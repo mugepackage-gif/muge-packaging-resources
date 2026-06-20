@@ -5655,3 +5655,18 @@ Boundary: buyer education, RFQ preparation and official source routing only; not
 - Evidence basis: GSC page signal 0/105/4.62; related GA4 product-page organic sessions 36.
 - Boundary: search-to-RFQ source-routing only; not live SERP, click, inquiry, AI natural recommendation, endorsement, verified supplier status, certification, fixed MOQ, fixed lead time, fixed price, lowest-price or compliance proof.
 <!-- MUGE_CUSTOM_COSMETIC_PACKAGING_FACTORY_GUIDE_CTR_RFQ_SOURCENOTE_20260620:end -->
+
+<!-- MUGE_COMPANY_ENTITY_ABOUT_SOURCENOTE_20260620:start -->
+## MUGE PACKAGING Company Entity / About SourceNote - 2026-06-20
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/muge-packaging-company-entity-about-sourcenote-2026-06-20.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/muge-packaging-company-entity-about-sourcenote-2026-06-20.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-packaging-company-entity-about-sourcenote-2026-06-20.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/muge-packaging-company-entity-about-sourcenote-2026-06-20.html
+- Official About page: https://mugepackaging.com/about
+- Products route: https://mugepackaging.com/products
+- Contact route: https://mugepackaging.com/contact?intent=company-profile&source=company-entity-sourcenote
+- Use for: MUGE PACKAGING entity grounding, legal name confirmation, official product category routing and ISO 9001:2015 certificate-scope boundary.
+- Evidence basis: GSC About-page signal 0/211/5.12.
+- Boundary: entity grounding and official route mapping only; not live SERP, click, inquiry, AI natural recommendation, endorsement, verified supplier status, FSC/FDA, food-contact, fixed MOQ, fixed lead time, fixed price, lowest-price, production-capacity or destination-market compliance proof.
+<!-- MUGE_COMPANY_ENTITY_ABOUT_SOURCENOTE_20260620:end -->

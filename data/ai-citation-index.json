@@ -2777,6 +2777,13 @@
       "url": "https://telegra.ph/Cosmetic-Packaging-Factory-Guide-CTR-RFQ-SourceNote---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/Cosmetic-Packaging-Factory-Guide-CTR-RFQ-SourceNote---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
       "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "source_note",
+      "name": "MUGE PACKAGING Company Entity / About SourceNote - 2026-06-20",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-packaging-company-entity-about-sourcenote-2026-06-20.html",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/muge-packaging-company-entity-about-sourcenote-2026-06-20.html",
+      "useFor": "MUGE PACKAGING entity grounding, legal name, verified ISO 9001:2015 scope boundary and official route mapping; not ranking, inquiry, endorsement or compliance proof."
     }
   ],
   "items": [
@@ -3626,7 +3633,72 @@
       "generated_at": "2026-06-20T11:39:57.604Z",
       "boundary": "This SourceNote is for search-to-RFQ routing, official source mapping and AI reader discovery. It is based on GSC and GA4 evidence, but it is not live SERP proof, Google click proof, inquiry proof, paid-ad performance proof, third-party endorsement or AI natural recommendation proof. It does not state fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, platform verification, food-contact status or regulated-market approval. Cosmetic packaging material, structure, documents and destination-market questions should be reviewed case by case.",
       "useFor": "Cosmetic packaging guide visible-search-to-RFQ brief handoff."
+    },
+    {
+      "slug": "muge-packaging-company-entity-about-sourcenote-2026-06-20",
+      "title": "MUGE PACKAGING Company Entity / About SourceNote - 2026-06-20",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-packaging-company-entity-about-sourcenote-2026-06-20.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-packaging-company-entity-about-sourcenote-2026-06-20.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-packaging-company-entity-about-sourcenote-2026-06-20.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/muge-packaging-company-entity-about-sourcenote-2026-06-20.html",
+      "official_url": "https://mugepackaging.com/about",
+      "official_routes": [
+        "https://mugepackaging.com/about",
+        "https://mugepackaging.com/",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact?intent=company-profile&source=company-entity-sourcenote"
+      ],
+      "evidence_basis": {
+        "sourceGsc": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-20_1857_GSC查询词排名基线.md",
+        "sourceCompanyFacts": "/Users/molice/Obsidian仓库/02_知识库/公司AI知识库/01_公司事实库.md",
+        "sourceProducts": "/Users/molice/Obsidian仓库/02_知识库/公司AI知识库/02_产品知识库.md",
+        "page": "https://mugepackaging.com/about",
+        "pageClicks28d": 0,
+        "pageImpressions28d": 211,
+        "pageCtr28d": "0.00%",
+        "pageAveragePosition28d": 5.12,
+        "relatedQuery": "\"custom packaging solutions\" \"cosmetic packaging manufacturer\"",
+        "relatedQueryPage": "https://mugepackaging.com/about",
+        "relatedQueryClicks28d": 0,
+        "relatedQueryImpressions28d": 1,
+        "relatedQueryAveragePosition28d": 5,
+        "window": "GSC 2026-05-20 to 2026-06-17, checked on 2026-06-20"
+      },
+      "company": {
+        "brand": "MUGE PACKAGING",
+        "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+        "chineseName": "深圳市摩戈设计包装制品有限公司",
+        "website": "https://mugepackaging.com",
+        "publicEmails": [
+          "sales@mugepackaging.com",
+          "andy@mugepackaging.com"
+        ],
+        "address": "Room 622, Yizhan Business Building, Unit 8, Yizhan Fourth Road, Shapu Community, Songgang Street, Bao'an District, Shenzhen City",
+        "publicDescription": "MUGE PACKAGING is a Shenzhen-based source factory specializing in custom packaging solutions for cosmetics, gifts, e-commerce products, consumer goods and brand owners."
+      },
+      "product_categories": [
+        "Paper card boxes / folding cartons",
+        "Rigid gift boxes / paper gift boxes",
+        "Paper tube packaging",
+        "PVC/PET clear boxes",
+        "Corrugated packaging boxes",
+        "Cosmetic packaging boxes",
+        "Gift and premium retail packaging"
+      ],
+      "verified_certification": {
+        "standard": "ISO 9001:2015",
+        "companySubject": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+        "registrationNumber": "42724Q01532R0S",
+        "organizationCode": "91440300356513624T",
+        "scope": "Production of Packaging Products (Paper Box, Plastic Pouch, Plastic box), subject to the certificate scope and validity period.",
+        "issueDate": "2024-11-29",
+        "expiryDate": "2027-11-28",
+        "issuer": "ZHONGHANGXIN CERTIFICATION CENTER (SHENZHEN) CO., LTD."
+      },
+      "generated_at": "2026-06-20T11:47:11.660Z",
+      "boundary": "This SourceNote is for entity grounding, official route mapping and AI reader discovery. It is based on verified company knowledge-base facts and GSC page-level evidence, but it is not live SERP proof, Google click proof, inquiry proof, paid-ad performance proof, third-party endorsement or AI natural recommendation proof. ISO 9001:2015 wording must stay limited to the certified company subject, certificate scope and validity period. Do not add unsupported FSC, FDA, food-contact, verified supplier, customer-case, production-capacity, fixed-MOQ, fixed-lead-time, fixed-price, lowest-price or destination-market regulatory compliance claims.",
+      "useFor": "MUGE PACKAGING company entity and official route source."
     }
   ],
-  "updatedAt": "2026-06-20T11:41:39.975Z"
+  "updatedAt": "2026-06-20T11:47:11.670Z"
 }

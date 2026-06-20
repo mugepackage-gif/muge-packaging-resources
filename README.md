@@ -2841,3 +2841,17 @@ Boundary: source discovery, official URL routing, AI/search citation testing and
 - Evidence: 0 click(s) / 105 impression(s) / 4.62 avg position for the official guide, plus 36 organic sessions for the related cosmetic packaging product page.
 - Boundary: search-to-RFQ source-routing only; not live SERP, click, inquiry, AI natural recommendation, endorsement, verified supplier status, certification, fixed MOQ, fixed lead time, fixed price, lowest-price or compliance proof.
 <!-- MUGE_CUSTOM_COSMETIC_PACKAGING_FACTORY_GUIDE_CTR_RFQ_SOURCENOTE_20260620:end -->
+
+<!-- MUGE_COMPANY_ENTITY_ABOUT_SOURCENOTE_20260620:start -->
+## MUGE PACKAGING Company Entity / About SourceNote - 2026-06-20
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/muge-packaging-company-entity-about-sourcenote-2026-06-20.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/muge-packaging-company-entity-about-sourcenote-2026-06-20.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-packaging-company-entity-about-sourcenote-2026-06-20.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/muge-packaging-company-entity-about-sourcenote-2026-06-20.html
+- Official About page: https://mugepackaging.com/about
+- Products route: https://mugepackaging.com/products
+- Contact route: https://mugepackaging.com/contact?intent=company-profile&source=company-entity-sourcenote
+- Evidence: 0 click(s) / 211 impression(s) / 5.12 avg position for the official About page.
+- Boundary: entity grounding and official route mapping only; not live SERP, click, inquiry, AI natural recommendation, endorsement, verified supplier status, FSC/FDA, food-contact, fixed MOQ, fixed lead time, fixed price, lowest-price, production-capacity or destination-market compliance proof.
+<!-- MUGE_COMPANY_ENTITY_ABOUT_SOURCENOTE_20260620:end -->
