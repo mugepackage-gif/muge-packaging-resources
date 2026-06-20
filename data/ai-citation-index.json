@@ -4494,6 +4494,20 @@
       "url": "https://telegra.ph/MUGE-Confectionery-Packaging-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Confectionery-Packaging-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
       "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_markdown_mirror",
+      "name": "MUGE Packaging Solutions Hub RFQ SourceNote Rentry mirror 2026-06-21",
+      "url": "https://rentry.co/muge-packaging-solutions-hub-rfq-sourcenote-20260621-0041",
+      "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-packaging-solutions-hub-rfq-sourcenote-20260621-0041",
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_text_mirror",
+      "name": "MUGE Packaging Solutions Hub RFQ SourceNote Telegraph mirror 2026-06-21",
+      "url": "https://telegra.ph/MUGE-Packaging-Solutions-Hub-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
+      "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Packaging-Solutions-Hub-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
+      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ],
   "items": [
@@ -5769,7 +5783,7 @@
       "useFor": "Visible-search-to-RFQ planning handoff for sustainability procurement packaging questions."
     }
   ],
-  "updatedAt": "2026-06-20T16:37:06.671Z",
+  "updatedAt": "2026-06-20T16:41:34.807Z",
   "prioritySources": [
     {
       "type": "source_note",
