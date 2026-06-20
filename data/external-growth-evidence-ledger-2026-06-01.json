@@ -2785,11 +2785,44 @@
         "https://mugepackaging.com/industries/apparel"
       ],
       "gsc_signal": "apparel inquiry checklist 0 clicks / 1 impression / 1.00 average position; custom apparel boxes 0 clicks / 5 impressions / 77.60 average position; black apparel boxes query 0 clicks / 1 impression / 69.00 average position",
-      "verification_status": "generated_pending_live_indexnow_jina_asr",
+      "verification_status": "verified_live_jina_indexnow_asr",
       "counting_rule": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for apparel packaging, clothing brand packaging briefs and official MUGE route handoff. It is not a quotation, price promise, fixed MOQ claim, fixed lead time claim, free service promise, certification proof, FSC claim, food-contact suitability proof, destination-market compliance proof, sustainability guarantee, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof or named buyer proof. Garment size, packaging set, artwork, material direction, finish, shipping method, quantity range and destination-market requirements must be reviewed case by case before confirming a solution.",
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for apparel packaging, clothing brand packaging briefs and official MUGE route handoff. It is not a quotation, price promise, fixed MOQ claim, fixed lead time claim, free service promise, certification proof, FSC claim, food-contact suitability proof, destination-market compliance proof, sustainability guarantee, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof or named buyer proof. Garment size, packaging set, artwork, material direction, finish, shipping method, quantity range and destination-market requirements must be reviewed case by case before confirming a solution.",
-      "generated_at": "2026-06-20T22:25:26.574Z"
+      "generated_at": "2026-06-20T22:25:26.574Z",
+      "latest_verification": {
+        "verifiedAt": "2026-06-20T22:29:25.522Z",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourceNote": {
+            "label": "ApparelPackagingRFQ_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0626_ApparelPackagingRFQ_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "ApparelPackagingRFQ_OfficialRoutes_20260621",
+            "precheckOk": 7,
+            "urlCount": 7,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210627_ApparelPackagingRFQ_OfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "ApparelPackagingRFQ_OfficialRoutes_20260621",
+          "total": 8,
+          "attempted": 8,
+          "accepted": 8,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0627_ApparelPackagingRFQ_OfficialRoutes_20260621_ASR发现提交.md"
+        }
+      }
     }
   ],
-  "updated_at": "2026-06-20T22:25:26.574Z"
+  "updated_at": "2026-06-20T22:29:25.522Z"
 }
