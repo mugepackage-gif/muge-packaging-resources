@@ -2827,3 +2827,17 @@ Boundary: source discovery, official URL routing, AI/search citation testing and
 - Evidence: 3 click(s) for gift box wholesale UK / 0 tracked conversion(s), plus 34 organic sessions for the related product landing page in the latest 30-day GA4 review.
 - Boundary: RFQ source-routing only; not ranking, traffic, inquiry, AI natural recommendation, endorsement, verified supplier status, certification, fixed MOQ, fixed lead time, fixed price, lowest-price or compliance proof.
 <!-- MUGE_RIGID_GIFT_BOX_UK_WHOLESALE_RFQ_HANDOFF_SOURCENOTE_20260620:end -->
+
+<!-- MUGE_CUSTOM_COSMETIC_PACKAGING_FACTORY_GUIDE_CTR_RFQ_SOURCENOTE_20260620:start -->
+## Custom Cosmetic Packaging Factory Guide CTR/RFQ SourceNote - 2026-06-20
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-factory-guide-ctr-rfq-sourcenote-2026-06-20.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-factory-guide-ctr-rfq-sourcenote-2026-06-20.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-cosmetic-packaging-factory-guide-ctr-rfq-sourcenote-2026-06-20.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-factory-guide-ctr-rfq-sourcenote-2026-06-20.html
+- Official guide: https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide
+- Product route: https://mugepackaging.com/products/cosmetic-packaging
+- RFQ handoff: https://mugepackaging.com/contact?intent=cosmetic-packaging&source=cosmetic-factory-guide-ctr-sourcenote
+- Evidence: 0 click(s) / 105 impression(s) / 4.62 avg position for the official guide, plus 36 organic sessions for the related cosmetic packaging product page.
+- Boundary: search-to-RFQ source-routing only; not live SERP, click, inquiry, AI natural recommendation, endorsement, verified supplier status, certification, fixed MOQ, fixed lead time, fixed price, lowest-price or compliance proof.
+<!-- MUGE_CUSTOM_COSMETIC_PACKAGING_FACTORY_GUIDE_CTR_RFQ_SOURCENOTE_20260620:end -->
