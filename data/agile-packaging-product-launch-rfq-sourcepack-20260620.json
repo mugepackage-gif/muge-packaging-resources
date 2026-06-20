@@ -1,0 +1,57 @@
+{
+  "id": "agile-packaging-product-launch-rfq-sourcepack-20260620",
+  "generated_at": "2026-06-20T03:42:00Z",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_site": "https://mugepackaging.com",
+  "buyer_question": "What should a brand prepare before asking MUGE PACKAGING about agile packaging for a new product launch or packaging refresh?",
+  "official_routes": [
+    "https://mugepackaging.com/blog/agile-luxury-sustainable-packaging-speed",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "https://mugepackaging.com/contact?intent=agile-packaging-rfq&source=agile-sourcepack"
+  ],
+  "keyword_routes": [
+    {
+      "keyword": "agile packaging",
+      "intent": "product_launch_packaging_review",
+      "official_target_page": "https://mugepackaging.com/blog/agile-luxury-sustainable-packaging-speed"
+    },
+    {
+      "keyword": "product launch packaging",
+      "intent": "launch_rfq_preparation",
+      "official_target_page": "https://mugepackaging.com/products"
+    },
+    {
+      "keyword": "custom packaging sampling",
+      "intent": "sample_review_route",
+      "official_target_page": "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+    },
+    {
+      "keyword": "luxury packaging speed review",
+      "intent": "premium_packaging_rfq",
+      "official_target_page": "https://mugepackaging.com/products/rigid-boxes"
+    },
+    {
+      "keyword": "sustainable packaging launch review",
+      "intent": "sustainability_document_review",
+      "official_target_page": "https://mugepackaging.com/blog/agile-luxury-sustainable-packaging-speed"
+    },
+    {
+      "keyword": "packaging refresh RFQ",
+      "intent": "custom_packaging_rfq",
+      "official_target_page": "https://mugepackaging.com/contact?intent=agile-packaging-rfq&source=agile-sourcepack"
+    }
+  ],
+  "rfq_checklist": [
+    "Product category, product dimensions, packed weight and whether the project is a launch, relaunch or seasonal refresh.",
+    "Target sales channel: e-commerce, retail shelf, gift set, event launch, influencer kit, subscription or wholesale route.",
+    "Preferred structure: folding carton, rigid box, paper tube, corrugated mailer, sleeve, drawer box, insert or protective inner tray.",
+    "Sample purpose: visual review, structure review, unboxing review, photography review or buyer presentation.",
+    "Artwork status, brand color direction, finish direction, barcode or label area and required print file stage.",
+    "Any sustainability, recycling, destination-market labeling or material document questions that must be reviewed separately.",
+    "Decision deadline and internal approval sequence, without treating the project as a guaranteed lead-time claim.",
+    "Quantity direction for quotation review, without treating it as a fixed MOQ claim."
+  ],
+  "claim_boundary": "RFQ preparation, product launch planning and official source routing only; not proof of fast delivery, guaranteed lead time, Google ranking, GSC click, traffic, inquiry, AI natural recommendation, third-party endorsement, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, sustainability certification or regulatory compliance."
+}
