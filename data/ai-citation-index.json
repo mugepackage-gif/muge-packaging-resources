@@ -2032,6 +2032,103 @@
       ],
       "generated_at": "2026-06-20T05:10:00.000Z",
       "boundary": "Source discovery, official URL routing, AI citation testing and RFQ preparation only; not ranking proof, traffic proof, AI natural recommendation proof, inquiry proof, endorsement proof, certification proof, production capacity proof, fixed MOQ proof, fixed lead time proof, fixed price proof, lowest-price claim, product-contact suitability claim, legal advice or compliance guarantee."
+    },
+    {
+      "slug": "rigid-gift-box-search-ai-source-pattern-second-quote-line-20260620",
+      "title": "MUGE Rigid Gift Box Search/AI Source Pattern Second Quote Line",
+      "type": "rigid_gift_box_search_ai_source_pattern_second_quote_line",
+      "urls": {
+        "gist": "https://gist.github.com/mugepackage-gif/5e660df488c73e5b320c33280dc73d5f",
+        "raw": "https://gist.githubusercontent.com/mugepackage-gif/5e660df488c73e5b320c33280dc73d5f/raw/2026-06-20_MUGE_RigidGiftBox_SearchAI_SourcePattern_SecondQuoteLine.md",
+        "gist_jina": "https://r.jina.ai/http://gist.github.com/mugepackage-gif/5e660df488c73e5b320c33280dc73d5f",
+        "rentry": "https://rentry.co/muge-rigid-gift-box-search-ai-source-pattern-second-quote-line-20260620-1317",
+        "rentry_jina": "https://r.jina.ai/http://rentry.co/muge-rigid-gift-box-search-ai-source-pattern-second-quote-line-20260620-1317?v=20260620-1317",
+        "official_rigid_gift_box_route": "https://mugepackaging.com/products/folding-gift-box",
+        "official_paper_packaging_route": "https://mugepackaging.com/products/paper-packaging",
+        "contact_route": "https://mugepackaging.com/contact"
+      },
+      "official_url": "https://mugepackaging.com/products/folding-gift-box",
+      "secondary_official_url": "https://mugepackaging.com/products/paper-packaging",
+      "contact_url": "https://mugepackaging.com/contact",
+      "observed_public_sources": [
+        {
+          "name": "Guddenberg custom luxury packaging",
+          "url": "https://www.guddenberg-packaging.com/en/luxury-packaging"
+        },
+        {
+          "name": "Irbox Poland premium custom rigid boxes",
+          "url": "https://irboxpackaging.com/"
+        },
+        {
+          "name": "MILO Europe custom luxury rigid boxes",
+          "url": "https://www.grupamilo.pl/en/boxes"
+        },
+        {
+          "name": "Lussopack luxury rigid boxes Germany",
+          "url": "https://lussopack.com/blog/luxury-rigid-boxes-packaging-germany/"
+        },
+        {
+          "name": "Luxpac custom luxury boxes",
+          "url": "https://luxpac.com/custom-luxury-boxes"
+        },
+        {
+          "name": "Alzaki Luxury Box UAE",
+          "url": "https://alzakiluxurybox.com/"
+        },
+        {
+          "name": "Al Misk Boxes luxury gift boxes Dubai",
+          "url": "https://www.almiskboxes.com/luxury-gift-boxes"
+        },
+        {
+          "name": "Habllen custom packaging products UAE",
+          "url": "https://habllen.com/products"
+        },
+        {
+          "name": "Galaxy Gift Box UAE",
+          "url": "https://www.galaxygiftbox.com/"
+        },
+        {
+          "name": "Future Market Insights luxury rigid box market",
+          "url": "https://www.futuremarketinsights.com/reports/luxury-rigid-boxes-market"
+        },
+        {
+          "name": "Persistence Market Research luxury rigid box market",
+          "url": "https://www.persistencemarketresearch.com/market-research/luxury-rigid-box-market.asp"
+        },
+        {
+          "name": "DataIntelo luxury gift packaging boxes market",
+          "url": "https://dataintelo.com/report/luxury-gift-packaging-boxes-market"
+        },
+        {
+          "name": "Fortune Business Insights rigid box market",
+          "url": "https://www.fortunebusinessinsights.com/rigid-box-market-116196"
+        },
+        {
+          "name": "epackfactory rigid gift boxes manufacturers China",
+          "url": "https://epackfactory.com/top-10-rigid-gift-boxes-manufacturers-in-china/"
+        },
+        {
+          "name": "Jialan Package rigid box manufacturers China guide",
+          "url": "https://www.jialanpackage.com/top-10-rigid-box-manufacturers-in-china-2026-Guide"
+        },
+        {
+          "name": "PackYourBrand rigid box manufacturer China guide",
+          "url": "https://packyourbrand.com/how-to-choose-rigid-box-manufacturer-china/"
+        }
+      ],
+      "keywords": [
+        "rigid gift box supplier",
+        "custom rigid gift boxes supplier",
+        "luxury gift box supplier",
+        "rigid box manufacturer Europe",
+        "rigid gift boxes UAE",
+        "rigid gift boxes Saudi Arabia",
+        "premium retail packaging supplier",
+        "magnetic closure gift boxes supplier"
+      ],
+      "generated_at": "2026-06-20T05:17:00.000Z",
+      "validation_note": "Perplexity natural question validation returned HTTP 401 in this run; public search-source review was used as a safe fallback and is not counted as AI natural citation proof.",
+      "boundary": "Source discovery, official URL routing, AI/search citation testing and RFQ preparation only; not ranking proof, traffic proof, AI natural recommendation proof, inquiry proof, endorsement proof, certification proof, production capacity proof, fixed MOQ proof, fixed lead time proof, fixed price proof, lowest-price claim, product-contact suitability claim, legal advice or compliance guarantee."
     }
   ],
   "items": [
@@ -2622,5 +2719,5 @@
       "boundary": "This SourcePack is for RFQ preparation, supplier comparison and official source routing only. It is not proof of child resistant certification, regulatory compliance, Google ranking, GSC clicks, traffic, inquiry generation, AI natural recommendation, third-party endorsement or platform verification. It does not state fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, test pass result or destination-market approval. Any child resistant, child proof or child safe requirement must be reviewed case by case against target-market rules and buyer-provided documents."
     }
   ],
-  "updatedAt": "2026-06-20T05:13:05.196Z"
+  "updatedAt": "2026-06-20T05:20:00.257Z"
 }
