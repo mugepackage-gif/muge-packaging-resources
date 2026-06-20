@@ -1,0 +1,68 @@
+{
+  "name": "MUGE PACKAGING ASR P0/P1 Refresh Submission",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "website": "https://mugepackaging.com",
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T00:19:42.054Z",
+  "endpoint": "https://www.activesearchresults.com/addwebsite.php",
+  "email_used_domain": "***@mugepackaging.com",
+  "safety_boundaries": [
+    "no paid placement",
+    "no login",
+    "no captcha bypass",
+    "no false verified supplier claim",
+    "no unsupported certification/customer/MOQ/lead-time claim"
+  ],
+  "form_check": {
+    "status": 200,
+    "finalUrl": "https://www.activesearchresults.com/addwebsite.php",
+    "formSafe": true,
+    "reason": "ASR form exposes URL and email fields and does not show captcha/payment/login requirement."
+  },
+  "summary": {
+    "target_count": 4,
+    "attempted_count": 4,
+    "accepted_count": 4,
+    "not_confirmed_count": 0,
+    "target_not_live_count": 0
+  },
+  "results": [
+    {
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "liveStatus": 200,
+      "submitted": true,
+      "submitStatus": 200,
+      "finalUrl": "https://www.activesearchresults.com/urladdedconfirm.php",
+      "result": "accepted",
+      "evidence": "Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine."
+    },
+    {
+      "url": "https://mugepackaging.com/blog",
+      "liveStatus": 200,
+      "submitted": true,
+      "submitStatus": 200,
+      "finalUrl": "https://www.activesearchresults.com/urladdedconfirm.php",
+      "result": "accepted",
+      "evidence": "Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine."
+    },
+    {
+      "url": "https://mugepackaging.com/source-notes/paper-packaging-exact-route",
+      "liveStatus": 200,
+      "submitted": true,
+      "submitStatus": 200,
+      "finalUrl": "https://www.activesearchresults.com/urladdedconfirm.php",
+      "result": "accepted",
+      "evidence": "Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine."
+    },
+    {
+      "url": "https://mugepackaging.com/source-notes/blog-gsc-recovery",
+      "liveStatus": 200,
+      "submitted": true,
+      "submitStatus": 200,
+      "finalUrl": "https://www.activesearchresults.com/urladdedconfirm.php",
+      "result": "accepted",
+      "evidence": "Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine."
+    }
+  ]
+}
