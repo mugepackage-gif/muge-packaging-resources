@@ -2457,6 +2457,13 @@ Boundary: buyer education, custom packaging RFQ preparation and official source 
 
 Boundary: buyer education, custom packaging RFQ preparation and official source routing only; not CBD, cannabis, vape, tobacco, pharmaceutical, legal or regulatory advice; not child-resistant certification proof, child-safety certification proof, destination-market approval, test pass result, product legality, labeling compliance, ranking, traffic, inquiry, AI recommendation, endorsement, customer case, production capacity or fixed commercial-term proof.
 
+## MUGE External Source Routes on Gist and Telegraph - 2026-06-20
+
+- [GitHub Gist public source note](https://gist.github.com/mugepackage-gif/3e51fefa325410eec4c11a1e6d25964b): third-party hosted public source routing note for MUGE PACKAGING custom packaging buyers. Raw: https://gist.githubusercontent.com/mugepackage-gif/3e51fefa325410eec4c11a1e6d25964b/raw/MUGE-PACKAGING-official-source-routes-2026-06-20.md | Jina: https://r.jina.ai/http://gist.github.com/mugepackage-gif/3e51fefa325410eec4c11a1e6d25964b
+- [Telegraph public source note](https://telegra.ph/MUGE-PACKAGING-Official-Source-Routes-for-Custom-Packaging-Buyers-06-20): third-party hosted source note linking to official MUGE PACKAGING product and RFQ pages. Jina: https://r.jina.ai/http://telegra.ph/MUGE-PACKAGING-Official-Source-Routes-for-Custom-Packaging-Buyers-06-20
+
+Boundary: third-party hosted source routing and RFQ preparation only; not ranking proof, traffic proof, inquiry proof, AI recommendation proof, endorsement, certification, compliance approval, customer case, production capacity, fixed MOQ, fixed lead time, fixed price, lowest price or guaranteed delivery.
+
 ## MUGE Child Resistant Containers and Paper Formats RFQ SourcePack - 2026-06-20
 
 - [MUGE Child Resistant Containers and Paper Formats RFQ SourcePack](https://mugepackage-gif.github.io/muge-packaging-resources/child-resistant-containers-paper-formats-rfq-sourcepack-20260620.html): RFQ preparation route for buyers searching child resistant containers, childproof containers, all paper child resistant packaging, child resistant paper boxes and paper tubes with MUGE PACKAGING. Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/child-resistant-containers-paper-formats-rfq-sourcepack-20260620.md | JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/child-resistant-containers-paper-formats-rfq-sourcepack-20260620.json | Official route: https://mugepackaging.com/products/child-resistant | Jina: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/child-resistant-containers-paper-formats-rfq-sourcepack-20260620.html
