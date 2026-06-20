@@ -1,0 +1,56 @@
+{
+  "id": "artwork-mailers-wall-art-print-rfq-sourcepack-20260620",
+  "generated_at": "2026-06-20T03:28:00Z",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_site": "https://mugepackaging.com",
+  "buyer_question": "What should art print sellers, wall art brands and e-commerce buyers prepare before requesting artwork mailers or flat mailer packaging quotes?",
+  "official_routes": [
+    "https://mugepackaging.com/blog/wall-art-print-packaging-anti-crease-flat-mailer",
+    "https://mugepackaging.com/products/paper-packaging",
+    "https://mugepackaging.com/contact?intent=artwork-mailer-rfq&source=artwork-mailer-sourcepack"
+  ],
+  "keyword_routes": [
+    {
+      "keyword": "artwork mailers",
+      "intent": "art_print_mailer_rfq",
+      "official_target_page": "https://mugepackaging.com/blog/wall-art-print-packaging-anti-crease-flat-mailer"
+    },
+    {
+      "keyword": "wall art print packaging",
+      "intent": "flat_mailer_packaging_review",
+      "official_target_page": "https://mugepackaging.com/blog/wall-art-print-packaging-anti-crease-flat-mailer"
+    },
+    {
+      "keyword": "flat mailer packaging for art prints",
+      "intent": "art_print_shipping_packaging",
+      "official_target_page": "https://mugepackaging.com/products/paper-packaging"
+    },
+    {
+      "keyword": "anti crease flat mailer",
+      "intent": "structure_review",
+      "official_target_page": "https://mugepackaging.com/blog/wall-art-print-packaging-anti-crease-flat-mailer"
+    },
+    {
+      "keyword": "custom mailer packaging for prints",
+      "intent": "custom_packaging_rfq",
+      "official_target_page": "https://mugepackaging.com/products/paper-packaging"
+    },
+    {
+      "keyword": "ecommerce art print mailer boxes",
+      "intent": "ecommerce_packaging_review",
+      "official_target_page": "https://mugepackaging.com/contact?intent=artwork-mailer-rfq&source=artwork-mailer-sourcepack"
+    }
+  ],
+  "rfq_checklist": [
+    "Artwork or wall art print dimensions, including final packed size and thickness.",
+    "Single print, multi-print set, framed item, unframed print, certificate, card or insert requirement.",
+    "Mailer structure direction: flat mailer, rigid mailer, corrugated mailer, sleeve, envelope or insert board.",
+    "Protection questions: crease resistance, corner protection, moisture layer, scuff prevention and board stiffness target for review.",
+    "Sales route: e-commerce shipping, gallery retail, subscription, marketplace fulfillment, wholesale set or gift packaging.",
+    "Artwork status, print area, barcode area, label location, opening direction and return label need.",
+    "Destination-market packaging, labeling or recycling document questions that must be checked separately by the buyer.",
+    "Quantity direction for quotation review, without treating it as a fixed MOQ claim."
+  ],
+  "claim_boundary": "RFQ preparation and official source routing only; not packaging test proof, anti-crease performance guarantee, shipping damage guarantee, Google ranking proof, GSC click proof, traffic proof, inquiry proof, AI natural recommendation, third-party endorsement, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, sustainability certification or guaranteed delivery."
+}
