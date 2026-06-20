@@ -1,0 +1,57 @@
+{
+  "asset": "MUGE Custom Paper Products Packaging RFQ SourcePack",
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "generated_at": "2026-06-20T04:05:00.000Z",
+  "trigger_gsc_query": "custom paper products",
+  "gsc_signal": {
+    "clicks": 0,
+    "impressions": 1,
+    "average_position": 31,
+    "source": "GSC baseline 2026-06-20 11:19 CST"
+  },
+  "primary_url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-products-packaging-rfq-sourcepack-20260620.html",
+  "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-products-packaging-rfq-sourcepack-20260620.md",
+  "official_routes": [
+    "https://mugepackaging.com/products/paper-packaging",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/products/paper-tubes",
+    "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "https://mugepackaging.com/contact?intent=custom-paper-products-rfq&source=custom-paper-products-sourcepack"
+  ],
+  "queries": [
+    "custom paper products",
+    "custom paper packaging",
+    "custom paper boxes",
+    "paper packaging products",
+    "paper product packaging RFQ"
+  ],
+  "rfq_inputs": [
+    "product dimensions and weight",
+    "paper packaging structure",
+    "material direction",
+    "print coverage",
+    "finish direction",
+    "insert or divider requirement",
+    "sales channel",
+    "artwork status",
+    "quantity direction",
+    "packing method",
+    "destination market"
+  ],
+  "claim_boundary": [
+    "not price proof",
+    "not fixed MOQ",
+    "not fixed lead time",
+    "not lowest-price claim",
+    "not sustainability guarantee",
+    "not food-contact compliance proof",
+    "not ranking proof",
+    "not traffic proof",
+    "not inquiry proof",
+    "not AI recommendation proof",
+    "not endorsement",
+    "not customer case",
+    "not production capacity proof"
+  ]
+}
