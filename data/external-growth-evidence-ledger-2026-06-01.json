@@ -694,7 +694,7 @@
     "target_keywords_clicked": 0,
     "target_keyword_audit_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1218_目标关键词排名验收.json"
   },
-  "generatedAt": "2026-06-20T21:46:56.495Z",
+  "generatedAt": "2026-06-20T21:51:35.562Z",
   "entries": [
     {
       "timestamp": "2026-06-01T05:48:33.088Z",
@@ -2534,7 +2534,23 @@
       "liveVerification": "SourceNote HTML HTTP 200; SourceNote Jina Reader HTTP 200; official chocolate packaging page Jina Reader HTTP 200 and topic/MUGE-readable on 2026-06-21 05:45 CST.",
       "countingNote": "Counts as a GSC-visible zero-click page source-routing asset plus public SourceNote and discovery refresh for chocolate packaging thermal gift box / chocolate gift box packaging queries; not ranking, traffic, inquiry, endorsement, compliance, thermal-performance or AI natural recommendation proof.",
       "verified_at": "2026-06-20T21:46:56.495Z"
+    },
+    {
+      "date": "2026-06-21",
+      "type": "gsc_about_page_route_bridge",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-about-to-rfq-product-route-bridge-2026-06-20.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/muge-about-to-rfq-product-route-bridge-2026-06-20.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-about-to-rfq-product-route-bridge-2026-06-20.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/muge-about-to-rfq-product-route-bridge-2026-06-20.html",
+      "official_page": "https://mugepackaging.com/about",
+      "gsc_visible_url": "https://mugepackaging.com/about",
+      "gsc_signal": "0 clicks / 339 impressions / 5.43 average position",
+      "verification_status": "generated_pending_live_indexnow_jina_asr",
+      "counting_rule": "Counts as an About-page source-routing and RFQ handoff bridge after live/Jina/IndexNow/ASR verification; not ranking, click, inquiry, endorsement or AI natural recommendation proof.",
+      "boundary": "This bridge is a public source-routing and RFQ preparation asset. It is not proof of Google ranking, GSC clicks, natural traffic, AI answer inclusion, inquiry volume, third-party endorsement, verified marketplace status, fixed MOQ, fixed lead time, fixed price, customer cases, production capacity, food-contact approval or destination-market regulatory approval.",
+      "generated_at": "2026-06-20T21:51:35.562Z"
     }
   ],
-  "updated_at": "2026-06-20T21:46:56.495Z"
+  "updated_at": "2026-06-20T21:51:35.562Z"
 }
