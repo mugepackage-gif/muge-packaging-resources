@@ -694,7 +694,7 @@
     "target_keywords_clicked": 0,
     "target_keyword_audit_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1218_目标关键词排名验收.json"
   },
-  "generatedAt": "2026-06-20T21:51:35.562Z",
+  "generatedAt": "2026-06-20T21:53:22.562Z",
   "entries": [
     {
       "timestamp": "2026-06-01T05:48:33.088Z",
@@ -2546,11 +2546,16 @@
       "official_page": "https://mugepackaging.com/about",
       "gsc_visible_url": "https://mugepackaging.com/about",
       "gsc_signal": "0 clicks / 339 impressions / 5.43 average position",
-      "verification_status": "generated_pending_live_indexnow_jina_asr",
+      "verification_status": "verified_live_jina_indexnow_asr",
       "counting_rule": "Counts as an About-page source-routing and RFQ handoff bridge after live/Jina/IndexNow/ASR verification; not ranking, click, inquiry, endorsement or AI natural recommendation proof.",
       "boundary": "This bridge is a public source-routing and RFQ preparation asset. It is not proof of Google ranking, GSC clicks, natural traffic, AI answer inclusion, inquiry volume, third-party endorsement, verified marketplace status, fixed MOQ, fixed lead time, fixed price, customer cases, production capacity, food-contact approval or destination-market regulatory approval.",
-      "generated_at": "2026-06-20T21:51:35.562Z"
+      "generated_at": "2026-06-20T21:51:35.562Z",
+      "indexNow": "Bridge HTML/Markdown/JSON submitted 3/3 HTTP 200; official About/products/product/contact routes submitted HTTP 200; public index submitted 3/3 HTTP 200.",
+      "asr": "Official routes and bridge accepted 6/6 by Active Search Results.",
+      "liveVerification": "Bridge HTML HTTP 200; bridge Jina Reader HTTP 200; official About page Jina Reader HTTP 200 and buyer-route readable on 2026-06-21 05:52 CST.",
+      "countingNote": "Counts as an About-page source-routing and RFQ handoff bridge for the GSC 0-click / 339-impression About page opportunity; not ranking, click, traffic, inquiry, endorsement or AI natural recommendation proof.",
+      "verified_at": "2026-06-20T21:53:22.562Z"
     }
   ],
-  "updated_at": "2026-06-20T21:51:35.562Z"
+  "updated_at": "2026-06-20T21:53:22.562Z"
 }
