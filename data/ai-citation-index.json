@@ -4291,7 +4291,26 @@
       "generated_at": "2026-06-20T13:09:01.111Z",
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset. It uses the official MUGE branded packaging tape article as a route, but it is not category authority proof, live SERP proof, Google click proof, inquiry proof, paid-ad performance proof, third-party endorsement or AI natural recommendation proof. It does not state fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, platform verification, food-contact status, FSC status or regulated-market approval. Packaging structure, material, documents and destination-market questions must be reviewed case by case.",
       "useFor": "Branded packaging tape visible-search-to-RFQ planning handoff."
+    },
+    {
+      "slug": "eu-void-space-luxury-packaging-rfq-sourcenote-2026-06-20",
+      "title": "MUGE EU Void-Space Luxury Packaging RFQ SourceNote - 2026-06-20",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/eu-void-space-luxury-packaging-rfq-sourcenote-2026-06-20.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/eu-void-space-luxury-packaging-rfq-sourcenote-2026-06-20.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/eu-void-space-luxury-packaging-rfq-sourcenote-2026-06-20.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/eu-void-space-luxury-packaging-rfq-sourcenote-2026-06-20.html",
+      "official_url": "https://mugepackaging.com/blog/article-10-vs-article-24-minimization-void-space-luxury",
+      "useFor": "Visible-search-to-RFQ planning handoff for Europe-facing luxury packaging questions."
     }
   ],
-  "updatedAt": "2026-06-20T13:12:41.897Z"
+  "updatedAt": "2026-06-20T13:18:27.278Z",
+  "prioritySources": [
+    {
+      "type": "source_note",
+      "name": "MUGE EU Void-Space Luxury Packaging RFQ SourceNote - 2026-06-20",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/eu-void-space-luxury-packaging-rfq-sourcenote-2026-06-20.html",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/eu-void-space-luxury-packaging-rfq-sourcenote-2026-06-20.html",
+      "useFor": "EU void-space luxury packaging RFQ planning route; not compliance proof, legal advice, ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    }
+  ]
 }
