@@ -2956,11 +2956,44 @@
       ],
       "gsc_signal": "artwork mailers 0/1/54",
       "existing_sourcepack": "https://mugepackage-gif.github.io/muge-packaging-resources/artwork-mailers-wall-art-print-rfq-sourcepack-20260620.html",
-      "verification_status": "generated_pending_live_indexnow_jina_asr",
+      "verification_status": "verified_live_jina_indexnow_asr",
       "counting_rule": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for artwork mailers, wall art print packaging, flat mailer structure review and official MUGE route handoff. It is not packaging test proof, anti-crease performance guarantee, shipping damage guarantee, carrier approval, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, certification proof, production capacity proof, named buyer proof, fixed MOQ claim, fixed lead time claim, fixed price claim or lowest-price claim. Print dimensions, paper thickness, board stiffness, corner protection, moisture expectations, labeling, fulfillment route and destination-market questions must be reviewed case by case before confirming a packaging solution.",
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for artwork mailers, wall art print packaging, flat mailer structure review and official MUGE route handoff. It is not packaging test proof, anti-crease performance guarantee, shipping damage guarantee, carrier approval, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, certification proof, production capacity proof, named buyer proof, fixed MOQ claim, fixed lead time claim, fixed price claim or lowest-price claim. Print dimensions, paper thickness, board stiffness, corner protection, moisture expectations, labeling, fulfillment route and destination-market questions must be reviewed case by case before confirming a packaging solution.",
-      "generated_at": "2026-06-20T22:52:59.030Z"
+      "generated_at": "2026-06-20T22:52:59.030Z",
+      "latest_verification": {
+        "verifiedAt": "2026-06-20T22:54:58.280Z",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourceNote": {
+            "label": "ArtworkMailersRFQ_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0653_ArtworkMailersRFQ_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "ArtworkMailersRFQ_OfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210653_ArtworkMailersRFQ_OfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "ArtworkMailersRFQ_OfficialRoutes_20260621",
+          "total": 6,
+          "attempted": 6,
+          "accepted": 6,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0654_ArtworkMailersRFQ_OfficialRoutes_20260621_ASR发现提交.md"
+        }
+      }
     }
   ],
-  "updated_at": "2026-06-20T22:52:59.030Z"
+  "updated_at": "2026-06-20T22:54:58.280Z"
 }
