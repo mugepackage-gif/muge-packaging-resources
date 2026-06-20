@@ -2996,6 +2996,13 @@
       "url": "https://telegra.ph/MUGE-Luxury-Packaging-Market-Forecast-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Luxury-Packaging-Market-Forecast-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
       "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "source_note",
+      "name": "MUGE Cosmetic Packaging Design Trends RFQ Planning SourceNote - 2026-06-20",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-design-trends-rfq-planning-sourcenote-2026-06-20.html",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-design-trends-rfq-planning-sourcenote-2026-06-20.html",
+      "useFor": "Cosmetic packaging design trends route to RFQ planning; not trend authority proof, live SERP, inquiry, endorsement or AI natural citation proof."
     }
   ],
   "items": [
@@ -4153,7 +4160,55 @@
       "generated_at": "2026-06-20T12:54:28.131Z",
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset. It uses the official MUGE forecast article as a route, but it is not an independent market-size verification, investment research, live SERP proof, Google click proof, inquiry proof, paid-ad performance proof, third-party endorsement or AI natural recommendation proof. It does not state fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, platform verification, food-contact status, FSC status or regulated-market approval. Packaging structure, material, documents and destination-market questions must be reviewed case by case.",
       "useFor": "Luxury packaging forecast visible-search-to-RFQ planning handoff."
+    },
+    {
+      "slug": "cosmetic-packaging-design-trends-rfq-planning-sourcenote-2026-06-20",
+      "title": "MUGE Cosmetic Packaging Design Trends RFQ Planning SourceNote - 2026-06-20",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-design-trends-rfq-planning-sourcenote-2026-06-20.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-design-trends-rfq-planning-sourcenote-2026-06-20.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-design-trends-rfq-planning-sourcenote-2026-06-20.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-design-trends-rfq-planning-sourcenote-2026-06-20.html",
+      "official_url": "https://mugepackaging.com/blog/cosmetic-packaging-design-trends-2025",
+      "official_routes": [
+        "https://mugepackaging.com/blog/cosmetic-packaging-design-trends-2025",
+        "https://mugepackaging.com/products/cosmetic-packaging",
+        "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+        "https://mugepackaging.com/blog/cosmetic-packaging-supplier-checklist",
+        "https://mugepackaging.com/contact?intent=cosmetic-packaging-design-trends&source=gsc-sourcenote",
+        "https://mugepackaging.com"
+      ],
+      "keywords": [
+        "cosmetic packaging design trends",
+        "cosmetic packaging trends 2025",
+        "skincare packaging design planning",
+        "beauty packaging design supplier",
+        "custom cosmetic packaging boxes",
+        "cosmetic packaging manufacturer",
+        "skincare packaging supplier",
+        "cosmetic packaging RFQ planning",
+        "beauty packaging sourcing checklist"
+      ],
+      "evidence_basis": {
+        "sourceGsc": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-20_2008_GSC查询词排名基线.md",
+        "page": "https://mugepackaging.com/blog/cosmetic-packaging-design-trends-2025",
+        "pageClicks28d": 0,
+        "pageImpressions28d": 3,
+        "pageCtr28d": "0.00%",
+        "pageAveragePosition28d": 9.33,
+        "verifiedOfficialRoutes": [
+          "https://mugepackaging.com/blog/cosmetic-packaging-design-trends-2025",
+          "https://mugepackaging.com/products/cosmetic-packaging",
+          "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+          "https://mugepackaging.com/blog/cosmetic-packaging-supplier-checklist",
+          "https://mugepackaging.com/contact?intent=cosmetic-packaging-design-trends&source=gsc-sourcenote"
+        ],
+        "routeCheck": "All official routes returned HTTP 200 during the 2026-06-20 precheck.",
+        "window": "GSC 2026-05-20 to 2026-06-17, checked from the 2026-06-20 20:08 baseline."
+      },
+      "generated_at": "2026-06-20T13:02:11.630Z",
+      "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset. It uses the official MUGE design trends article as a route, but it is not trend authority proof, live SERP proof, Google click proof, inquiry proof, paid-ad performance proof, third-party endorsement or AI natural recommendation proof. It does not state fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, platform verification, food-contact status, FSC status or regulated-market approval. Packaging structure, material, documents and destination-market questions must be reviewed case by case.",
+      "useFor": "Cosmetic packaging design trends visible-search-to-RFQ planning handoff."
     }
   ],
-  "updatedAt": "2026-06-20T12:56:37.331Z"
+  "updatedAt": "2026-06-20T13:02:11.639Z"
 }
