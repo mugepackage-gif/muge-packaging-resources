@@ -2536,23 +2536,75 @@
     },
     {
       "date": "2026-06-21",
-      "type": "gsc_visible_zero_click_commercial_sourcenote",
-      "platform": "GitHub Pages",
+      "type": "seo_geo_queue_commercial_sourcenote",
+      "platform": "GitHub Pages + Rentry + Telegraph",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-tubes-bulk-canada-rfq-sourcenote-2026-06-21.html",
       "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-tubes-bulk-canada-rfq-sourcenote-2026-06-21.md",
       "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-paper-tubes-bulk-canada-rfq-sourcenote-2026-06-21.json",
       "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-tubes-bulk-canada-rfq-sourcenote-2026-06-21.html",
       "official_page": "https://mugepackaging.com/products/paper-tubes",
       "gsc_visible_url": "https://mugepackaging.com/products/paper-tubes",
-      "gsc_signal": "N/A clicks / N/A impressions / N/A average position",
+      "gsc_signal": "Queue-driven commercial RFQ topic; not counted as GSC click/ranking proof.",
       "verification_status": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
-      "counting_rule": "Counts as a public source-routing asset after live/Jina/IndexNow/ASR verification; not ranking, click, inquiry, endorsement or AI natural recommendation proof.",
+      "counting_rule": "Counts as a public source-routing asset after live/Jina/IndexNow/ASR verification; not ranking, click, inquiry, endorsement, local Canada presence or AI natural recommendation proof.",
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for custom paper tubes bulk Canada, North American paper tube packaging and buyer brief preparation. It is not a Canada local company claim, Canada warehouse claim, Canadian distributor claim, local representative claim, fixed bulk price, lowest price claim, production schedule promise, delivery promise, certification proof, food-contact suitability proof, destination-market compliance proof, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof, named buyer proof, preset order minimum, preset schedule or preset price. Packaging material, tube size, cap style, artwork, labeling, shipping conditions and destination-market requirements must be reviewed case by case before confirming a solution.",
-      "generated_at": "2026-06-20T19:21:47.021Z",
+      "generated_at": "2026-06-20T23:55:12.959Z",
       "rentry_url": "https://rentry.co/muge-custom-paper-tubes-bulk-canada-rfq-sourcenote-20260621-20260621-0323",
       "rentry_jina_url": "https://r.jina.ai/http://rentry.co/muge-custom-paper-tubes-bulk-canada-rfq-sourcenote-20260621-20260621-0323",
       "telegraph_url": "https://telegra.ph/MUGE-Custom-Paper-Tubes-Bulk-Canada-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
-      "telegraph_jina_url": "https://r.jina.ai/http://telegra.ph/MUGE-Custom-Paper-Tubes-Bulk-Canada-RFQ-SourceNote---MUGE-Source-Mirror-06-20"
+      "telegraph_jina_url": "https://r.jina.ai/http://telegra.ph/MUGE-Custom-Paper-Tubes-Bulk-Canada-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
+      "official_routes": [
+        "https://mugepackaging.com/products/paper-tubes",
+        "https://mugepackaging.com/products/paper-packaging",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact?intent=custom-paper-tubes-bulk-canada-review&source=seo-geo-queue-sourcenote"
+      ],
+      "queue_topic": "custom paper tubes bulk canada",
+      "latest_verification": {
+        "verifiedAt": "2026-06-20T23:55:12.959Z",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "rentryJina": 200,
+          "telegraph": 200,
+          "telegraphJina": 200,
+          "officialRoutes": 5
+        },
+        "indexNow": {
+          "currentSourceNote": {
+            "label": "CustomPaperTubesBulkCanada_CurrentRecheck_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0753_CustomPaperTubesBulkCanada_CurrentRecheck_20260621_自定义URL_IndexNow提交.md"
+          },
+          "previousPublicIndex": {
+            "commit": "f23c5ab",
+            "precheckOk": 3,
+            "httpStatus": 200,
+            "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/阶段复盘/2026-06-21_0325_CustomPaperTubesBulkCanada_SourceNote与双镜像闭环.md"
+          }
+        },
+        "asr": {
+          "currentRecheck": {
+            "label": "CustomPaperTubesBulkCanada_CurrentRecheck_20260621",
+            "total": 5,
+            "attempted": 4,
+            "accepted": 4,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0754_CustomPaperTubesBulkCanada_CurrentRecheck_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "previousClosedLoop": {
+            "sourceNoteAccepted": 1,
+            "mirrorAccepted": 2,
+            "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/阶段复盘/2026-06-21_0325_CustomPaperTubesBulkCanada_SourceNote与双镜像闭环.md"
+          }
+        }
+      }
     },
     {
       "date": "2026-06-21",
@@ -3351,5 +3403,5 @@
       }
     }
   ],
-  "updated_at": "2026-06-20T23:48:56.302Z"
+  "updated_at": "2026-06-20T23:55:12.959Z"
 }
