@@ -1,0 +1,44 @@
+{
+  "title": "MUGE Child Resistant Containers and Paper Formats RFQ SourcePack",
+  "generated_at": "2026-06-20T04:46:00.000Z",
+  "type": "rfq_sourcepack",
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/child-resistant-containers-paper-formats-rfq-sourcepack-20260620.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/child-resistant-containers-paper-formats-rfq-sourcepack-20260620.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/child-resistant-containers-paper-formats-rfq-sourcepack-20260620.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/child-resistant-containers-paper-formats-rfq-sourcepack-20260620.html"
+  },
+  "gsc_opportunity_mapping": [
+    {"query":"child resistant containers","clicks":0,"impressions":4,"average_position":87.75,"official_route":"https://mugepackaging.com/products/child-resistant"},
+    {"query":"all paper child resistant packaging","clicks":0,"impressions":2,"average_position":84.5,"official_route":"https://mugepackaging.com/products/child-resistant"},
+    {"query":"childproof containers","clicks":0,"impressions":1,"average_position":55,"official_route":"https://mugepackaging.com/products/child-resistant"},
+    {"query":"child resistant container","clicks":0,"impressions":1,"average_position":100,"official_route":"https://mugepackaging.com/products/child-resistant"},
+    {"query":"child resistant multi-use trays","clicks":0,"impressions":1,"average_position":66,"official_route":"https://mugepackaging.com/products/child-resistant"},
+    {"query":"child resistant paper boxes","clicks":0,"impressions":1,"average_position":79,"official_route":"https://mugepackaging.com/products/child-resistant"},
+    {"query":"child resistant paper tubes","clicks":0,"impressions":1,"average_position":63,"official_route":"https://mugepackaging.com/products/child-resistant"}
+  ],
+  "official_routes": [
+    "https://mugepackaging.com/products/child-resistant",
+    "https://mugepackaging.com/products/paper-packaging",
+    "https://mugepackaging.com/products/paper-tubes",
+    "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "https://mugepackaging.com/contact?intent=child-resistant-containers-rfq&source=child-resistant-containers-sourcepack"
+  ],
+  "rfq_fields": [
+    "packaging format",
+    "product dimensions",
+    "product weight",
+    "label area",
+    "opening direction",
+    "target selling region",
+    "sales channel",
+    "material direction",
+    "artwork status",
+    "prototype purpose",
+    "buyer-provided test or compliance-document questions",
+    "quantity direction"
+  ],
+  "boundary": "Buyer education, custom packaging RFQ preparation and official source routing only. Not proof of child-resistant certification, child-safety certification, regulatory compliance, destination-market approval, test pass result, ranking, clicks, traffic, inquiry generation, AI recommendation, endorsement, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or guaranteed delivery."
+}
