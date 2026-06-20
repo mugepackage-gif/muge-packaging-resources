@@ -4604,6 +4604,20 @@
       "url": "https://telegra.ph/MUGE-Wall-Art-Print-Mailer-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Wall-Art-Print-Mailer-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
       "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_markdown_mirror",
+      "name": "MUGE Apparel Industry Boxes RFQ SourceNote Rentry mirror 2026-06-21",
+      "url": "https://rentry.co/muge-apparel-industry-boxes-rfq-sourcenote-20260621-0054",
+      "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-apparel-industry-boxes-rfq-sourcenote-20260621-0054",
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_text_mirror",
+      "name": "MUGE Apparel Industry Boxes RFQ SourceNote Telegraph mirror 2026-06-21",
+      "url": "https://telegra.ph/MUGE-Apparel-Industry-Boxes-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
+      "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Apparel-Industry-Boxes-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
+      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ],
   "items": [
@@ -5879,7 +5893,7 @@
       "useFor": "Visible-search-to-RFQ planning handoff for sustainability procurement packaging questions."
     }
   ],
-  "updatedAt": "2026-06-20T16:49:07.609Z",
+  "updatedAt": "2026-06-20T16:54:51.774Z",
   "prioritySources": [
     {
       "type": "source_note",
