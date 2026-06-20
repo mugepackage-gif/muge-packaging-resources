@@ -2664,11 +2664,55 @@
       "official_page": "https://mugepackaging.com/blog/branded-paper-bags-with-logo",
       "gsc_visible_url": "https://mugepackaging.com/blog/branded-paper-bags-with-logo",
       "gsc_signal": "0 clicks / 4 impressions / 8.00 average position",
-      "verification_status": "generated_pending_live_indexnow_jina_asr",
-      "counting_rule": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for branded paper bags with logo, custom printed paper bags and buyer brief preparation. It does not repeat or validate marketing statistics from the source article. It is not a quotation, price promise, fixed MOQ claim, production schedule promise, certification proof, FSC claim, food-contact suitability proof, destination-market compliance proof, sustainability guarantee, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof or named buyer proof. Paper material, handle strength, artwork, printing, labeling, shipping conditions and destination-market requirements must be reviewed case by case before confirming a solution.",
+      "verification_status": "verified_live_jina_indexnow_asr",
+      "counting_rule": "Counts as a GSC-visible zero-click page source-routing asset plus public SourceNote, Jina-readable entry, IndexNow refresh and ASR accepted discovery for branded paper bags with logo. It is not ranking improvement, click proof, traffic proof, inquiry proof, third-party endorsement, FSC proof, food-contact proof, compliance proof, fixed MOQ, fixed lead time, fixed price or AI natural recommendation proof.",
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for branded paper bags with logo, custom printed paper bags and buyer brief preparation. It does not repeat or validate marketing statistics from the source article. It is not a quotation, price promise, fixed MOQ claim, production schedule promise, certification proof, FSC claim, food-contact suitability proof, destination-market compliance proof, sustainability guarantee, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof or named buyer proof. Paper material, handle strength, artwork, printing, labeling, shipping conditions and destination-market requirements must be reviewed case by case before confirming a solution.",
-      "generated_at": "2026-06-20T22:08:42.442Z"
+      "generated_at": "2026-06-20T22:08:42.442Z",
+      "verified_at": "2026-06-20T22:10:49.318Z",
+      "indexNow": {
+        "sourceNote": {
+          "status": "submitted",
+          "precheckOk": 3,
+          "urlCount": 3,
+          "httpStatus": 200,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0609_BrandedPaperBagsLogo_20260621_retry_自定义URL_IndexNow提交.md"
+        },
+        "officialRoutes": {
+          "status": "submitted",
+          "urlCount": 4,
+          "httpStatus": 200
+        }
+      },
+      "asr": {
+        "status": "accepted",
+        "total": 5,
+        "attempted": 5,
+        "accepted": 5,
+        "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0609_BrandedPaperBagsLogo_OfficialRoutes_20260621_ASR发现提交.md"
+      },
+      "liveVerification": {
+        "html": {
+          "url": "https://mugepackage-gif.github.io/muge-packaging-resources/branded-paper-bags-logo-rfq-sourcenote-2026-06-21.html",
+          "httpStatus": 200,
+          "containsLatestGscSignal": true
+        },
+        "markdown": {
+          "url": "https://mugepackage-gif.github.io/muge-packaging-resources/branded-paper-bags-logo-rfq-sourcenote-2026-06-21.md",
+          "httpStatus": 200,
+          "containsLatestGscSignal": true
+        },
+        "json": {
+          "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/branded-paper-bags-logo-rfq-sourcenote-2026-06-21.json",
+          "httpStatus": 200,
+          "containsLatestGscSignal": true
+        },
+        "jina": {
+          "url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/branded-paper-bags-logo-rfq-sourcenote-2026-06-21.html",
+          "httpStatus": 200,
+          "containsLatestGscSignal": true
+        }
+      }
     }
   ],
-  "updated_at": "2026-06-20T22:08:42.442Z"
+  "updated_at": "2026-06-20T22:10:49.318Z"
 }
