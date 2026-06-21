@@ -694,7 +694,7 @@
     "target_keywords_clicked": 0,
     "target_keyword_audit_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1218_目标关键词排名验收.json"
   },
-  "generatedAt": "2026-06-21T08:55:00+08:00",
+  "generatedAt": "2026-06-21T09:04:00+08:00",
   "entries": [
     {
       "timestamp": "2026-06-01T05:48:33.088Z",
@@ -5148,7 +5148,532 @@
         },
         "boundary": "This cosmetic packaging regional RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
       }
+    },
+    {
+      "timestamp": "2026-06-21T09:04:00+08:00",
+      "date": "2026-06-21",
+      "category": "regional_custom_packaging_boxes_supplier_vetting_sourcepack",
+      "result": "verified_live_jina_indexnow_asr",
+      "slug": "custom-packaging-boxes-europe-supplier-vetting-sourcepack-20260620",
+      "region": "Europe",
+      "buyerQuestion": "What should European buyers prepare before contacting a custom packaging boxes supplier?",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-europe-supplier-vetting-sourcepack-20260620.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-europe-supplier-vetting-sourcepack-20260620.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-boxes-europe-supplier-vetting-sourcepack-20260620.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-europe-supplier-vetting-sourcepack-20260620.html",
+      "officialRoutes": [
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com"
+      ],
+      "keywords": [
+        "custom packaging boxes china manufacturer europe",
+        "custom packaging boxes china supplier europe",
+        "custom packaging boxes factory europe",
+        "custom packaging boxes manufacturer europe",
+        "custom packaging boxes supplier europe"
+      ],
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-europe-supplier-vetting-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-europe-supplier-vetting-sourcepack-20260620.md",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-boxes-europe-supplier-vetting-sourcepack-20260620.json",
+        "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-europe-supplier-vetting-sourcepack-20260620.html"
+      ],
+      "archives": {
+        "sourceIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0901_CustomPackagingBoxesRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md",
+        "officialIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210901_CustomPackagingBoxesRegionalOfficialRoutes_20260621_IndexNow提交记录.md",
+        "asrArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0902_CustomPackagingBoxesRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+      },
+      "metrics": {
+        "liveChecks": 23,
+        "liveChecksOk": 23,
+        "sourcePackIndexNowPrecheckOk": 15,
+        "sourcePackIndexNowUrlCount": 15,
+        "officialIndexNowPrecheckOk": 3,
+        "officialIndexNowUrlCount": 3,
+        "asrTotal": 8,
+        "asrAttempted": 7,
+        "asrAccepted": 7
+      },
+      "countingNote": "This custom packaging boxes regional supplier vetting SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance.",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T09:04:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "officialRoutes": {
+          "checked": [
+            "https://mugepackaging.com/products",
+            "https://mugepackaging.com/contact",
+            "https://mugepackaging.com"
+          ],
+          "httpStatus": 200,
+          "checkedOk": 3,
+          "checkedTotal": 3
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CustomPackagingBoxesRegionalSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0901_CustomPackagingBoxesRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CustomPackagingBoxesRegionalOfficialRoutes_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210901_CustomPackagingBoxesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CustomPackagingBoxesRegionalSourcePacks_20260621",
+          "total": 8,
+          "attempted": 7,
+          "accepted": 7,
+          "acceptedUrls": [
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-europe-supplier-vetting-sourcepack-20260620.html",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.html",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.html",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.html",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.html",
+            "https://mugepackaging.com/contact",
+            "https://mugepackaging.com"
+          ],
+          "skipped": [
+            "https://mugepackaging.com/products"
+          ],
+          "skippedReason": "ASR precheck target_not_verified on generic products page; five SourcePack pages, official contact page and homepage were accepted.",
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0902_CustomPackagingBoxesRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This custom packaging boxes regional supplier vetting SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
+    },
+    {
+      "timestamp": "2026-06-21T09:04:00+08:00",
+      "date": "2026-06-21",
+      "category": "regional_custom_packaging_boxes_supplier_vetting_sourcepack",
+      "result": "verified_live_jina_indexnow_asr",
+      "slug": "custom-packaging-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620",
+      "region": "Middle East",
+      "buyerQuestion": "How should Middle East buyers vet a custom packaging boxes China supplier before RFQ?",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.html",
+      "officialRoutes": [
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com"
+      ],
+      "keywords": [
+        "custom packaging boxes china manufacturer middle east",
+        "custom packaging boxes china supplier middle east",
+        "custom packaging boxes factory middle east",
+        "custom packaging boxes manufacturer middle east",
+        "custom packaging boxes supplier middle east"
+      ],
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.md",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.json",
+        "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.html"
+      ],
+      "archives": {
+        "sourceIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0901_CustomPackagingBoxesRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md",
+        "officialIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210901_CustomPackagingBoxesRegionalOfficialRoutes_20260621_IndexNow提交记录.md",
+        "asrArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0902_CustomPackagingBoxesRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+      },
+      "metrics": {
+        "liveChecks": 23,
+        "liveChecksOk": 23,
+        "sourcePackIndexNowPrecheckOk": 15,
+        "sourcePackIndexNowUrlCount": 15,
+        "officialIndexNowPrecheckOk": 3,
+        "officialIndexNowUrlCount": 3,
+        "asrTotal": 8,
+        "asrAttempted": 7,
+        "asrAccepted": 7
+      },
+      "countingNote": "This custom packaging boxes regional supplier vetting SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance.",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T09:04:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "officialRoutes": {
+          "checked": [
+            "https://mugepackaging.com/products",
+            "https://mugepackaging.com/contact",
+            "https://mugepackaging.com"
+          ],
+          "httpStatus": 200,
+          "checkedOk": 3,
+          "checkedTotal": 3
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CustomPackagingBoxesRegionalSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0901_CustomPackagingBoxesRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CustomPackagingBoxesRegionalOfficialRoutes_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210901_CustomPackagingBoxesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CustomPackagingBoxesRegionalSourcePacks_20260621",
+          "total": 8,
+          "attempted": 7,
+          "accepted": 7,
+          "acceptedUrls": [
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-europe-supplier-vetting-sourcepack-20260620.html",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.html",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.html",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.html",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.html",
+            "https://mugepackaging.com/contact",
+            "https://mugepackaging.com"
+          ],
+          "skipped": [
+            "https://mugepackaging.com/products"
+          ],
+          "skippedReason": "ASR precheck target_not_verified on generic products page; five SourcePack pages, official contact page and homepage were accepted.",
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0902_CustomPackagingBoxesRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This custom packaging boxes regional supplier vetting SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
+    },
+    {
+      "timestamp": "2026-06-21T09:04:00+08:00",
+      "date": "2026-06-21",
+      "category": "regional_custom_packaging_boxes_supplier_vetting_sourcepack",
+      "result": "verified_live_jina_indexnow_asr",
+      "slug": "custom-packaging-boxes-uae-supplier-vetting-rfq-sourcepack-20260620",
+      "region": "UAE",
+      "buyerQuestion": "What should UAE buyers prepare before contacting a custom packaging boxes supplier?",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.html",
+      "officialRoutes": [
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com"
+      ],
+      "keywords": [
+        "custom packaging boxes china manufacturer uae",
+        "custom packaging boxes china supplier uae",
+        "custom packaging boxes factory uae",
+        "custom packaging boxes manufacturer uae",
+        "custom packaging boxes supplier uae"
+      ],
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.md",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.json",
+        "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.html"
+      ],
+      "archives": {
+        "sourceIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0901_CustomPackagingBoxesRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md",
+        "officialIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210901_CustomPackagingBoxesRegionalOfficialRoutes_20260621_IndexNow提交记录.md",
+        "asrArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0902_CustomPackagingBoxesRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+      },
+      "metrics": {
+        "liveChecks": 23,
+        "liveChecksOk": 23,
+        "sourcePackIndexNowPrecheckOk": 15,
+        "sourcePackIndexNowUrlCount": 15,
+        "officialIndexNowPrecheckOk": 3,
+        "officialIndexNowUrlCount": 3,
+        "asrTotal": 8,
+        "asrAttempted": 7,
+        "asrAccepted": 7
+      },
+      "countingNote": "This custom packaging boxes regional supplier vetting SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance.",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T09:04:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "officialRoutes": {
+          "checked": [
+            "https://mugepackaging.com/products",
+            "https://mugepackaging.com/contact",
+            "https://mugepackaging.com"
+          ],
+          "httpStatus": 200,
+          "checkedOk": 3,
+          "checkedTotal": 3
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CustomPackagingBoxesRegionalSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0901_CustomPackagingBoxesRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CustomPackagingBoxesRegionalOfficialRoutes_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210901_CustomPackagingBoxesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CustomPackagingBoxesRegionalSourcePacks_20260621",
+          "total": 8,
+          "attempted": 7,
+          "accepted": 7,
+          "acceptedUrls": [
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-europe-supplier-vetting-sourcepack-20260620.html",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.html",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.html",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.html",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.html",
+            "https://mugepackaging.com/contact",
+            "https://mugepackaging.com"
+          ],
+          "skipped": [
+            "https://mugepackaging.com/products"
+          ],
+          "skippedReason": "ASR precheck target_not_verified on generic products page; five SourcePack pages, official contact page and homepage were accepted.",
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0902_CustomPackagingBoxesRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This custom packaging boxes regional supplier vetting SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
+    },
+    {
+      "timestamp": "2026-06-21T09:04:00+08:00",
+      "date": "2026-06-21",
+      "category": "regional_custom_packaging_boxes_supplier_vetting_sourcepack",
+      "result": "verified_live_jina_indexnow_asr",
+      "slug": "custom-packaging-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620",
+      "region": "Saudi Arabia",
+      "buyerQuestion": "How should Saudi Arabia buyers compare custom packaging boxes suppliers before sampling?",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.html",
+      "officialRoutes": [
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com"
+      ],
+      "keywords": [
+        "custom packaging boxes china manufacturer saudi arabia",
+        "custom packaging boxes china supplier saudi arabia",
+        "custom packaging boxes factory saudi arabia",
+        "custom packaging boxes manufacturer saudi arabia",
+        "custom packaging boxes supplier saudi arabia"
+      ],
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.md",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.json",
+        "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.html"
+      ],
+      "archives": {
+        "sourceIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0901_CustomPackagingBoxesRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md",
+        "officialIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210901_CustomPackagingBoxesRegionalOfficialRoutes_20260621_IndexNow提交记录.md",
+        "asrArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0902_CustomPackagingBoxesRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+      },
+      "metrics": {
+        "liveChecks": 23,
+        "liveChecksOk": 23,
+        "sourcePackIndexNowPrecheckOk": 15,
+        "sourcePackIndexNowUrlCount": 15,
+        "officialIndexNowPrecheckOk": 3,
+        "officialIndexNowUrlCount": 3,
+        "asrTotal": 8,
+        "asrAttempted": 7,
+        "asrAccepted": 7
+      },
+      "countingNote": "This custom packaging boxes regional supplier vetting SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance.",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T09:04:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "officialRoutes": {
+          "checked": [
+            "https://mugepackaging.com/products",
+            "https://mugepackaging.com/contact",
+            "https://mugepackaging.com"
+          ],
+          "httpStatus": 200,
+          "checkedOk": 3,
+          "checkedTotal": 3
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CustomPackagingBoxesRegionalSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0901_CustomPackagingBoxesRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CustomPackagingBoxesRegionalOfficialRoutes_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210901_CustomPackagingBoxesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CustomPackagingBoxesRegionalSourcePacks_20260621",
+          "total": 8,
+          "attempted": 7,
+          "accepted": 7,
+          "acceptedUrls": [
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-europe-supplier-vetting-sourcepack-20260620.html",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.html",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.html",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.html",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.html",
+            "https://mugepackaging.com/contact",
+            "https://mugepackaging.com"
+          ],
+          "skipped": [
+            "https://mugepackaging.com/products"
+          ],
+          "skippedReason": "ASR precheck target_not_verified on generic products page; five SourcePack pages, official contact page and homepage were accepted.",
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0902_CustomPackagingBoxesRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This custom packaging boxes regional supplier vetting SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
+    },
+    {
+      "timestamp": "2026-06-21T09:04:00+08:00",
+      "date": "2026-06-21",
+      "category": "regional_custom_packaging_boxes_supplier_vetting_sourcepack",
+      "result": "verified_live_jina_indexnow_asr",
+      "slug": "custom-packaging-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620",
+      "region": "Dubai",
+      "buyerQuestion": "Which project details should Dubai buyers prepare before asking for custom packaging box quotes?",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.html",
+      "officialRoutes": [
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com"
+      ],
+      "keywords": [
+        "custom packaging boxes china manufacturer dubai",
+        "custom packaging boxes china supplier dubai",
+        "custom packaging boxes factory dubai",
+        "custom packaging boxes manufacturer dubai",
+        "custom packaging boxes supplier dubai"
+      ],
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.md",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.json",
+        "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.html"
+      ],
+      "archives": {
+        "sourceIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0901_CustomPackagingBoxesRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md",
+        "officialIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210901_CustomPackagingBoxesRegionalOfficialRoutes_20260621_IndexNow提交记录.md",
+        "asrArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0902_CustomPackagingBoxesRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+      },
+      "metrics": {
+        "liveChecks": 23,
+        "liveChecksOk": 23,
+        "sourcePackIndexNowPrecheckOk": 15,
+        "sourcePackIndexNowUrlCount": 15,
+        "officialIndexNowPrecheckOk": 3,
+        "officialIndexNowUrlCount": 3,
+        "asrTotal": 8,
+        "asrAttempted": 7,
+        "asrAccepted": 7
+      },
+      "countingNote": "This custom packaging boxes regional supplier vetting SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance.",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T09:04:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "officialRoutes": {
+          "checked": [
+            "https://mugepackaging.com/products",
+            "https://mugepackaging.com/contact",
+            "https://mugepackaging.com"
+          ],
+          "httpStatus": 200,
+          "checkedOk": 3,
+          "checkedTotal": 3
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CustomPackagingBoxesRegionalSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0901_CustomPackagingBoxesRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CustomPackagingBoxesRegionalOfficialRoutes_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210901_CustomPackagingBoxesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CustomPackagingBoxesRegionalSourcePacks_20260621",
+          "total": 8,
+          "attempted": 7,
+          "accepted": 7,
+          "acceptedUrls": [
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-europe-supplier-vetting-sourcepack-20260620.html",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.html",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.html",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.html",
+            "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.html",
+            "https://mugepackaging.com/contact",
+            "https://mugepackaging.com"
+          ],
+          "skipped": [
+            "https://mugepackaging.com/products"
+          ],
+          "skippedReason": "ASR precheck target_not_verified on generic products page; five SourcePack pages, official contact page and homepage were accepted.",
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0902_CustomPackagingBoxesRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This custom packaging boxes regional supplier vetting SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     }
   ],
-  "updated_at": "2026-06-21T08:55:00+08:00"
+  "updated_at": "2026-06-21T09:04:00+08:00"
 }

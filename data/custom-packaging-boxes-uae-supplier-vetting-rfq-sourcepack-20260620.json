@@ -82,5 +82,67 @@
     "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.md",
     "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.json",
     "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.html"
+  },
+  "verificationStatus": "verified_live_jina_indexnow_asr",
+  "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+  "officialRouteIndexNowStatus": "submitted_3_of_3_http_200",
+  "asrStatus": "accepted_7_of_8_total_sourcepack_and_safe_official_routes",
+  "updatedAt": "2026-06-21T09:04:00+08:00",
+  "latestVerification": {
+    "verifiedAt": "2026-06-21T09:04:00+08:00",
+    "verificationStatus": "verified_live_jina_indexnow_asr",
+    "live": {
+      "html": 200,
+      "markdown": 200,
+      "json": 200,
+      "jina": 200
+    },
+    "officialRoutes": {
+      "checked": [
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com"
+      ],
+      "httpStatus": 200,
+      "checkedOk": 3,
+      "checkedTotal": 3
+    },
+    "indexNow": {
+      "sourcePack": {
+        "label": "CustomPackagingBoxesRegionalSourcePacks_20260621",
+        "precheckOk": 15,
+        "urlCount": 15,
+        "httpStatus": 200,
+        "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0901_CustomPackagingBoxesRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+      },
+      "officialRoutes": {
+        "label": "CustomPackagingBoxesRegionalOfficialRoutes_20260621",
+        "precheckOk": 3,
+        "urlCount": 3,
+        "httpStatus": 200,
+        "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210901_CustomPackagingBoxesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+      }
+    },
+    "asr": {
+      "label": "CustomPackagingBoxesRegionalSourcePacks_20260621",
+      "total": 8,
+      "attempted": 7,
+      "accepted": 7,
+      "acceptedUrls": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-europe-supplier-vetting-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.html",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com"
+      ],
+      "skipped": [
+        "https://mugepackaging.com/products"
+      ],
+      "skippedReason": "ASR precheck target_not_verified on generic products page; five SourcePack pages, official contact page and homepage were accepted.",
+      "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0902_CustomPackagingBoxesRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+    },
+    "boundary": "This custom packaging boxes regional supplier vetting SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
   }
 }
