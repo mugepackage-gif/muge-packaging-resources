@@ -206,5 +206,31 @@
     "Use RFQ brief fields on the contact route: product category, dimensions, quantity direction, material/finish reference, artwork status and target market.",
     "Continue external source expansion until AI assistants and search engines can discover at least one reliable MUGE route for each buyer question.",
     "Do not claim certifications, fixed MOQ, fixed lead time or compliance status unless documents are reviewed for the exact project."
-  ]
+  ],
+  "latestVerification": {
+    "verifiedAt": "2026-06-21T04:09:02.142Z",
+    "verificationStatus": "verified_live_jina_indexnow_asr",
+    "live": {
+      "html": 200,
+      "markdown": 200,
+      "json": 200,
+      "jina": 200
+    },
+    "indexNow": {
+      "sourceNote": {
+        "label": "CompetitorV2FivePageGA4RFQRoute_20260621",
+        "precheckOk": 3,
+        "urlCount": 3,
+        "httpStatus": 200,
+        "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1208_CompetitorV2FivePageGA4RFQRoute_20260621_自定义URL_IndexNow提交.md"
+      }
+    },
+    "asr": {
+      "label": "CompetitorV2FivePageGA4RFQRoute_20260621",
+      "total": 3,
+      "attempted": 3,
+      "accepted": 3,
+      "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_1208_CompetitorV2FivePageGA4RFQRoute_20260621_ASR发现提交.md"
+    }
+  }
 }

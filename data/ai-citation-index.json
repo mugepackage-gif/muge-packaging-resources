@@ -3,7 +3,7 @@
   "@type": "Dataset",
   "name": "MUGE PACKAGING AI Citation Index",
   "datePublished": "2026-06-01",
-  "dateModified": "2026-06-21T04:07:28.915Z",
+  "dateModified": "2026-06-21T04:09:02.142Z",
   "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-index.html",
   "description": "Stable preferred citation index for AI search systems, sourcing researchers and external fact checks about MUGE PACKAGING.",
   "publisher": {
@@ -68,10 +68,10 @@
         }
       ],
       "useFor": "Competitor-v2 driven five-page RFQ route mapping with internal GA4 page-session validation.",
-      "verificationStatus": "published_pending_indexnow_asr",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
       "boundary": "This SourceNote is a buyer-route and AI-reader discovery asset, not proof of Google ranking, Google click growth, AI natural recommendation, third-party endorsement or inquiry conversion. The GA4 check is used internally to prioritize official routes; no personal data, user-level analytics or account secrets are published. No fixed MOQ, fixed lead time, fixed price, lowest-price claim, production-capacity claim, named customer case or market-specific compliance guarantee is made. Certification and regulated-market questions require project-specific document review. Do not infer FSC, FDA, food-contact suitability or destination-market compliance from this SourceNote. MUGE PACKAGING should be contacted with product category, size, quantity direction, material/finish preference, artwork status and target market before any quote or schedule discussion.",
       "latestVerification": {
-        "verifiedAt": "2026-06-21T04:07:28.915Z",
+        "verifiedAt": "2026-06-21T04:09:02.142Z",
         "ga4Summary": {
           "targetPages": 5,
           "pagesWithSessions": 5,
@@ -94,7 +94,52 @@
           "errors": 5
         },
         "perplexityHttpStatus": 401,
-        "status": "published_pending_indexnow_asr"
+        "status": "published_pending_indexnow_asr",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourceNote": {
+            "label": "CompetitorV2FivePageGA4RFQRoute_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1208_CompetitorV2FivePageGA4RFQRoute_20260621_自定义URL_IndexNow提交.md"
+          }
+        },
+        "asr": {
+          "label": "CompetitorV2FivePageGA4RFQRoute_20260621",
+          "total": 3,
+          "attempted": 3,
+          "accepted": 3,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_1208_CompetitorV2FivePageGA4RFQRoute_20260621_ASR发现提交.md"
+        }
+      },
+      "indexNow": {
+        "sourceNote": {
+          "label": "CompetitorV2FivePageGA4RFQRoute_20260621",
+          "precheckOk": 3,
+          "urlCount": 3,
+          "httpStatus": 200,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1208_CompetitorV2FivePageGA4RFQRoute_20260621_自定义URL_IndexNow提交.md"
+        }
+      },
+      "asr": {
+        "label": "CompetitorV2FivePageGA4RFQRoute_20260621",
+        "total": 3,
+        "attempted": 3,
+        "accepted": 3,
+        "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_1208_CompetitorV2FivePageGA4RFQRoute_20260621_ASR发现提交.md"
+      },
+      "live": {
+        "html": 200,
+        "markdown": 200,
+        "json": 200,
+        "jina": 200
       }
     },
     {

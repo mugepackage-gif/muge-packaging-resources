@@ -694,14 +694,14 @@
     "target_keywords_clicked": 0,
     "target_keyword_audit_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1218_目标关键词排名验收.json"
   },
-  "generatedAt": "2026-06-21T04:07:28.915Z",
+  "generatedAt": "2026-06-21T04:09:02.142Z",
   "entries": [
     {
       "timestamp": "2026-06-21T04:07:28.915Z",
       "category": "competitor_v2_five_page_ga4_session_rfq_route_sourcenote",
-      "result": "published_pending_indexnow_asr",
+      "result": "verified_live_jina_indexnow_asr",
       "checkedUrls": 8,
-      "stablePublicSignals": 1,
+      "stablePublicSignals": 4,
       "verifiedBacklinkSignals": 0,
       "publicEvidence": [
         "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v2-five-page-ga4-session-rfq-route-sourcenote-2026-06-21.html",
@@ -724,7 +724,28 @@
         "todayTotalEventCount": 13,
         "todayTotalConversions": 0,
         "todayTotalKeyEventCount": 0
-      }
+      },
+      "indexNow": {
+        "label": "CompetitorV2FivePageGA4RFQRoute_20260621",
+        "precheckOk": 3,
+        "urlCount": 3,
+        "httpStatus": 200,
+        "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1208_CompetitorV2FivePageGA4RFQRoute_20260621_自定义URL_IndexNow提交.md"
+      },
+      "asr": {
+        "label": "CompetitorV2FivePageGA4RFQRoute_20260621",
+        "total": 3,
+        "attempted": 3,
+        "accepted": 3,
+        "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_1208_CompetitorV2FivePageGA4RFQRoute_20260621_ASR发现提交.md"
+      },
+      "live": {
+        "html": 200,
+        "markdown": 200,
+        "json": 200,
+        "jina": 200
+      },
+      "verifiedAt": "2026-06-21T04:09:02.142Z"
     },
     {
       "timestamp": "2026-06-01T05:48:33.088Z",
@@ -9395,7 +9416,7 @@
       }
     }
   ],
-  "updated_at": "2026-06-21T04:07:28.915Z",
+  "updated_at": "2026-06-21T04:09:02.142Z",
   "lastEntityRfqHandoffRouteMapVerification": {
     "id": "entity-rfq-handoff-route-map-20260621",
     "label": "Entity / RFQ Handoff / Route Map SourceNotes - 2026-06-21",
@@ -9545,9 +9566,9 @@
   "lastCompetitorV2FivePageGa4SessionRfqRoute": {
     "timestamp": "2026-06-21T04:07:28.915Z",
     "category": "competitor_v2_five_page_ga4_session_rfq_route_sourcenote",
-    "result": "published_pending_indexnow_asr",
+    "result": "verified_live_jina_indexnow_asr",
     "checkedUrls": 8,
-    "stablePublicSignals": 1,
+    "stablePublicSignals": 4,
     "verifiedBacklinkSignals": 0,
     "publicEvidence": [
       "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v2-five-page-ga4-session-rfq-route-sourcenote-2026-06-21.html",
@@ -9570,6 +9591,27 @@
       "todayTotalEventCount": 13,
       "todayTotalConversions": 0,
       "todayTotalKeyEventCount": 0
-    }
+    },
+    "indexNow": {
+      "label": "CompetitorV2FivePageGA4RFQRoute_20260621",
+      "precheckOk": 3,
+      "urlCount": 3,
+      "httpStatus": 200,
+      "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1208_CompetitorV2FivePageGA4RFQRoute_20260621_自定义URL_IndexNow提交.md"
+    },
+    "asr": {
+      "label": "CompetitorV2FivePageGA4RFQRoute_20260621",
+      "total": 3,
+      "attempted": 3,
+      "accepted": 3,
+      "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_1208_CompetitorV2FivePageGA4RFQRoute_20260621_ASR发现提交.md"
+    },
+    "live": {
+      "html": 200,
+      "markdown": 200,
+      "json": 200,
+      "jina": 200
+    },
+    "verifiedAt": "2026-06-21T04:09:02.142Z"
   }
 }
