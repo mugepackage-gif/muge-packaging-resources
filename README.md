@@ -4000,3 +4000,13 @@ Boundary: source discovery, official URL routing, AI/search citation testing and
 - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-bag-eco-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html
 - Purpose: product-line SourceNote for paper bag and eco paper packaging RFQ preparation, competitor-pattern routing and official MUGE page alignment.
 <!-- paper-bag-eco-packaging-europe-middle-east-rfq-competitor-route-2026-06-21:end -->
+
+<!-- paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21:start -->
+## Paper Tube Packaging Europe and Middle East RFQ Competitor Route
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html
+- Purpose: product-line SourceNote for paper tube packaging RFQ preparation, competitor-pattern routing and official MUGE page alignment.
+<!-- paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21:end -->
