@@ -1,6 +1,6 @@
 # Competitor v6 GEO buyer question answer SourcePack for custom paper packaging RFQ routes
 
-Generated: 2026-06-21 15:23:13 CST
+Generated: 2026-06-21 15:26:14 CST
 
 This SourcePack maps competitor-v6 buyer questions to MUGE PACKAGING's official RFQ routes. It is designed for SEO/GEO discovery, source citation preparation and landing-page QA alignment.
 
