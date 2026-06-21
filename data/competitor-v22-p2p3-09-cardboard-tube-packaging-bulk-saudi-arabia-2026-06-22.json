@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2026-06-21T22:49:53.600Z",
+  "generatedAtCST": "2026-06-22 06:49:53 CST",
+  "source": "MUGE competitor v22 keyword universe -> P2/P3 long-tail SourceBridge",
+  "keyword": "cardboard tube packaging bulk Saudi Arabia",
+  "layer": "P2交易执行",
+  "intent": "bulk + region",
+  "cluster": "paper_tubes",
+  "productLine": "Paper Tubes",
+  "market": "Saudi Arabia",
+  "kind": "regional-transaction",
+  "score": 128,
+  "product": "paper tube packaging",
+  "targetUrl": "https://mugepackaging.com/products/paper-tubes",
+  "sourceBridgeReference": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v22-paper-tube-packaging-20site-buyer-decision-sourcebridge-2026-06-22.html",
+  "sourceSites": "Shenzhen Pakoro; Georgia-Pacific GP",
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "officialSite": "https://mugepackaging.com",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v22-p2p3-09-cardboard-tube-packaging-bulk-saudi-arabia-2026-06-22.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v22-p2p3-09-cardboard-tube-packaging-bulk-saudi-arabia-2026-06-22.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v22-p2p3-09-cardboard-tube-packaging-bulk-saudi-arabia-2026-06-22.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v22-p2p3-09-cardboard-tube-packaging-bulk-saudi-arabia-2026-06-22.html"
+  },
+  "slug": "competitor-v22-p2p3-09-cardboard-tube-packaging-bulk-saudi-arabia-2026-06-22",
+  "answer": "For cardboard tube packaging bulk Saudi Arabia, the practical next step is not to ask for a generic price first. Buyers for Saudi Arabia buyers should prepare product dimensions, use case, quantity direction, print coverage, material direction and target-market document requirements, then route the brief to the relevant paper tube packaging page for factory review.",
+  "rfqFields": [
+    "Tube diameter",
+    "Tube height",
+    "Cap or lid style",
+    "Product fit",
+    "Material and finish direction"
+  ],
+  "applications": [
+    "cosmetics",
+    "candles",
+    "tea",
+    "fragrance",
+    "premium retail products"
+  ],
+  "takeaways": [
+    "国内外贸工厂站适合借鉴产品词密度、直接询盘入口和工艺词覆盖。",
+    "海外本土包装站适合借鉴 buyer guide、comparison、FAQ 和可持续/行业方案结构。",
+    "MUGE 的表达必须落在项目审核、结构/材质/工艺定制和 RFQ 准备清单上。"
+  ],
+  "avoid": [
+    "不写固定 MOQ、固定交期、最低价或免费样品承诺。",
+    "不写未核实的 FSC、FDA、食品接触合规、客户案例、产能或平台认证。",
+    "不把包装同行作为目标客户，不把本 SourceBridge 当作排名、流量或询盘证明。"
+  ]
+}
