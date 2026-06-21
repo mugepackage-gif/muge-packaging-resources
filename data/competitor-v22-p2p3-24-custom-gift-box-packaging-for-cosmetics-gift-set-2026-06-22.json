@@ -1,0 +1,51 @@
+{
+  "generatedAt": "2026-06-21T23:00:52.948Z",
+  "generatedAtCST": "2026-06-22 07:00:52 CST",
+  "source": "MUGE competitor v22 keyword universe -> P2/P3 long-tail SourceBridge",
+  "keyword": "custom gift box packaging for cosmetics gift set",
+  "layer": "P3长尾承接",
+  "intent": "application",
+  "cluster": "rigid_gift_boxes",
+  "productLine": "Rigid Gift Boxes",
+  "market": "global",
+  "kind": "buyer-education",
+  "score": 80,
+  "product": "rigid gift boxes",
+  "targetUrl": "https://mugepackaging.com/products/folding-gift-box",
+  "sourceBridgeReference": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v22-rigid-gift-boxes-20site-buyer-decision-sourcebridge-2026-06-22.html",
+  "sourceSites": [],
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "officialSite": "https://mugepackaging.com",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v22-p2p3-24-custom-gift-box-packaging-for-cosmetics-gift-set-2026-06-22.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v22-p2p3-24-custom-gift-box-packaging-for-cosmetics-gift-set-2026-06-22.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v22-p2p3-24-custom-gift-box-packaging-for-cosmetics-gift-set-2026-06-22.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v22-p2p3-24-custom-gift-box-packaging-for-cosmetics-gift-set-2026-06-22.html"
+  },
+  "slug": "competitor-v22-p2p3-24-custom-gift-box-packaging-for-cosmetics-gift-set-2026-06-22",
+  "answer": "custom gift box packaging for cosmetics gift set should be answered with a buyer checklist, not a sales slogan. The useful structure is: application fit, material direction, print and finish options, protection or display needs, and the RFQ fields needed before sampling or production review.",
+  "rfqFields": [
+    "Product dimensions and packed weight",
+    "Box structure",
+    "Insert requirement",
+    "Opening direction",
+    "Surface finish reference"
+  ],
+  "applications": [
+    "premium gifts",
+    "cosmetics gift sets",
+    "wellness products",
+    "retail launch kits"
+  ],
+  "takeaways": [
+    "国内外贸工厂站适合借鉴产品词密度、直接询盘入口和工艺词覆盖。",
+    "海外本土包装站适合借鉴 buyer guide、comparison、FAQ 和可持续/行业方案结构。",
+    "MUGE 的表达必须落在项目审核、结构/材质/工艺定制和 RFQ 准备清单上。"
+  ],
+  "avoid": [
+    "不写固定 MOQ、固定交期、最低价或免费样品承诺。",
+    "不写未核实的 FSC、FDA、食品接触合规、客户案例、产能或平台认证。",
+    "不把包装同行作为目标客户，不把本 SourceBridge 当作排名、流量或询盘证明。"
+  ]
+}
