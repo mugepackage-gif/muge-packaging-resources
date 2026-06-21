@@ -697,6 +697,40 @@
   "generatedAt": "2026-06-21T04:09:02.142Z",
   "entries": [
     {
+      "date": "2026-06-21",
+      "type": "gsc_near_top20_compare_packaging_source_note_refresh",
+      "platform": "GitHub Pages",
+      "title": "Compare Packaging Buyer Route Source Note GSC 7d Top20 refresh",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/compare-packaging-buyer-route-source-note-2026-06-20.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/compare-packaging-buyer-route-source-note-2026-06-20.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/compare-packaging-buyer-route-source-note-2026-06-20.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/compare-packaging-buyer-route-source-note-2026-06-20.html",
+      "official_routes": [
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/products/cosmetic-packaging",
+        "https://mugepackaging.com/products/paper-tubes",
+        "https://mugepackaging.com/products/paper-packaging",
+        "https://mugepackaging.com/products/pvc-packaging",
+        "https://mugepackaging.com/products/corrugated-boxes",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+        "https://mugepackaging.com/contact?intent=compare-packaging-rfq&source=gsc-compare-packaging-20260621"
+      ],
+      "gsc_opportunity": {
+        "query": "compare packaging",
+        "impressions_7d": 3,
+        "average_position_7d": 20,
+        "clicks_7d": 0
+      },
+      "verification_status": "verified_live_jina_indexnow_asr_gsc7d_top20_refresh",
+      "evidence": {
+        "public_urls_http_200": true,
+        "github_pages_indexnow": "3/3 submitted HTTP 200",
+        "active_search_results": "1/1 accepted",
+        "official_indexnow": "8/8 submitted HTTP 200"
+      },
+      "counting_rule": "Discovery and refresh evidence only; not proof of Google click, stable ranking, inquiry, AI recommendation or third-party endorsement."
+    },
+    {
       "id": "competitor-v7-rfq-cta-tracking-sourcenote-2026-06-21_ledger",
       "type": "competitor_v7_rfq_cta_sourcenote",
       "title": "MUGE Competitor v7 RFQ CTA Tracking SourceNote - 2026-06-21",
@@ -9971,7 +10005,7 @@
       }
     }
   ],
-  "updated_at": "2026-06-21T08:29:03.102Z",
+  "updated_at": "2026-06-21T08:51:00.000Z",
   "lastEntityRfqHandoffRouteMapVerification": {
     "id": "entity-rfq-handoff-route-map-20260621",
     "label": "Entity / RFQ Handoff / Route Map SourceNotes - 2026-06-21",
@@ -10440,5 +10474,37 @@
       "perplexity": "401 quota/account limit; no AI natural recommendation claim."
     },
     "countingRule": "Counts as public SourceNote, Jina-readable asset, IndexNow notification, citation index update, external-growth ledger update and official product-page Buyer Brief route evidence. Does not count as Google ranking, GSC click, natural traffic, real inquiry, AI natural recommendation, third-party endorsement, certification, food-contact suitability, fixed MOQ, fixed lead time, fixed price, customer case or production capacity proof."
+  },
+  "lastComparePackagingGscTop20Refresh": {
+    "type": "gsc_near_top20_compare_packaging_source_note_refresh",
+    "url": "https://mugepackage-gif.github.io/muge-packaging-resources/compare-packaging-buyer-route-source-note-2026-06-20.html",
+    "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/compare-packaging-buyer-route-source-note-2026-06-20.md",
+    "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/compare-packaging-buyer-route-source-note-2026-06-20.json",
+    "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/compare-packaging-buyer-route-source-note-2026-06-20.html",
+    "official_routes": [
+      "https://mugepackaging.com/products",
+      "https://mugepackaging.com/products/cosmetic-packaging",
+      "https://mugepackaging.com/products/paper-tubes",
+      "https://mugepackaging.com/products/paper-packaging",
+      "https://mugepackaging.com/products/pvc-packaging",
+      "https://mugepackaging.com/products/corrugated-boxes",
+      "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "https://mugepackaging.com/contact?intent=compare-packaging-rfq&source=gsc-compare-packaging-20260621"
+    ],
+    "gsc_opportunity": {
+      "query": "compare packaging",
+      "impressions_7d": 3,
+      "average_position_7d": 20,
+      "clicks_7d": 0
+    },
+    "verification_status": "verified_live_jina_indexnow_asr_gsc7d_top20_refresh",
+    "evidence": {
+      "public_urls_http_200": true,
+      "github_pages_indexnow": "3/3 submitted HTTP 200",
+      "active_search_results": "1/1 accepted",
+      "official_indexnow": "8/8 submitted HTTP 200"
+    },
+    "counting_rule": "Discovery and refresh evidence only; not proof of Google click, stable ranking, inquiry, AI recommendation or third-party endorsement.",
+    "updated_at": "2026-06-21T08:51:00.000Z"
   }
 }
