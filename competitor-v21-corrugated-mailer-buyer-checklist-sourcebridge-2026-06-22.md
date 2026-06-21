@@ -1,9 +1,11 @@
 # Corrugated Mailer Box Buyer Checklist SourceBridge
 
-Generated: 2026-06-22 05:29:03 CST
+Generated: 2026-06-22 05:30:33 CST
 
 ## Buyer Intent
 
+- Brand: MUGE PACKAGING
+- Company: Shenzhen Muge Design Packaging Product Co., Ltd.
 - Product line: corrugated mailer boxes
 - Official MUGE route: https://mugepackaging.com/products/corrugated-boxes
 - RFQ handoff: https://mugepackaging.com/products/corrugated-boxes?source=competitor-v21-sourcebridge#request-quote

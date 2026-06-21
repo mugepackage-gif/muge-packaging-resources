@@ -1,9 +1,11 @@
 # Rigid Gift Box Buyer Checklist SourceBridge
 
-Generated: 2026-06-22 05:29:03 CST
+Generated: 2026-06-22 05:30:33 CST
 
 ## Buyer Intent
 
+- Brand: MUGE PACKAGING
+- Company: Shenzhen Muge Design Packaging Product Co., Ltd.
 - Product line: rigid gift boxes
 - Official MUGE route: https://mugepackaging.com/products/folding-gift-box
 - RFQ handoff: https://mugepackaging.com/products/folding-gift-box?source=competitor-v21-sourcebridge#request-quote

@@ -1,9 +1,11 @@
 # Custom Cosmetic Packaging Buyer Checklist SourceBridge
 
-Generated: 2026-06-22 05:29:03 CST
+Generated: 2026-06-22 05:30:33 CST
 
 ## Buyer Intent
 
+- Brand: MUGE PACKAGING
+- Company: Shenzhen Muge Design Packaging Product Co., Ltd.
 - Product line: custom cosmetic packaging
 - Official MUGE route: https://mugepackaging.com/products/cosmetic-packaging
 - RFQ handoff: https://mugepackaging.com/products/cosmetic-packaging?source=competitor-v21-sourcebridge#request-quote
