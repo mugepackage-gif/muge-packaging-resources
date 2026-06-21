@@ -82,5 +82,69 @@
     "mdUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-middle-east-rfq-short-sourcepack-2026-06-18.md",
     "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-middle-east-rfq-short-sourcepack-2026-06-18.json",
     "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-middle-east-rfq-short-sourcepack-2026-06-18.html"
+  },
+  "verificationStatus": "verified_live_jina_indexnow_asr",
+  "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+  "officialRouteIndexNowStatus": "submitted_4_of_4_http_200",
+  "asrStatus": "accepted_7_of_9_total_sourcepack_and_safe_official_routes",
+  "updatedAt": "2026-06-21T08:55:00+08:00",
+  "latestVerification": {
+    "verifiedAt": "2026-06-21T08:55:00+08:00",
+    "verificationStatus": "verified_live_jina_indexnow_asr",
+    "live": {
+      "html": 200,
+      "markdown": 200,
+      "json": 200,
+      "jina": 200
+    },
+    "officialRoutes": {
+      "checked": [
+        "https://mugepackaging.com/products/cosmetic-packaging",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+        "https://mugepackaging.com/contact"
+      ],
+      "httpStatus": 200,
+      "checkedOk": 4,
+      "checkedTotal": 4
+    },
+    "indexNow": {
+      "sourcePack": {
+        "label": "CosmeticPackagingRegionalShortSourcePacks_20260621",
+        "precheckOk": 15,
+        "urlCount": 15,
+        "httpStatus": 200,
+        "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0852_CosmeticPackagingRegionalShortSourcePacks_20260621_自定义URL_IndexNow提交.md"
+      },
+      "officialRoutes": {
+        "label": "CosmeticPackagingRegionalOfficialRoutes_20260621",
+        "precheckOk": 4,
+        "urlCount": 4,
+        "httpStatus": 200,
+        "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210852_CosmeticPackagingRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+      }
+    },
+    "asr": {
+      "label": "CosmeticPackagingRegionalShortSourcePacks_20260621",
+      "total": 9,
+      "attempted": 7,
+      "accepted": 7,
+      "acceptedUrls": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-europe-rfq-short-sourcepack-2026-06-18.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-middle-east-rfq-short-sourcepack-2026-06-18.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-uae-rfq-short-sourcepack-2026-06-18.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-saudi-arabia-rfq-short-sourcepack-2026-06-18.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-dubai-rfq-short-sourcepack-2026-06-18.html",
+        "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+        "https://mugepackaging.com/contact"
+      ],
+      "skipped": [
+        "https://mugepackaging.com/products/cosmetic-packaging",
+        "https://mugepackaging.com/products"
+      ],
+      "skippedReason": "ASR precheck target_not_verified on two official product/category pages; five SourcePack pages, cosmetic packaging supplier article and contact page were accepted.",
+      "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0853_CosmeticPackagingRegionalShortSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+    },
+    "boundary": "This cosmetic packaging regional RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
   }
 }
