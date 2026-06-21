@@ -2088,7 +2088,46 @@
         }
       ],
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for agile packaging project planning, fast-moving buyer brief preparation and custom paper packaging route selection. It is not a fastest-delivery claim, fixed lead-time promise, rush production guarantee, sustainability certification proof, FSC claim, material compliance proof, destination-market compliance proof, formal quotation, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof, named buyer proof, preset order minimum, preset schedule or preset price. Project speed, sampling feasibility, material choice, artwork readiness, approval steps, freight and destination-market requirements must be reviewed case by case through a verified RFQ.",
-      "dateModified": "2026-06-20T17:29:29.436Z"
+      "dateModified": "2026-06-20T17:29:29.436Z",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors_commercial_rfq_batch",
+      "verifiedAt": "2026-06-21T01:53:21.035Z",
+      "verificationBatch": "commercial-rfq-discovery-batch-20260621",
+      "verificationEvidence": {
+        "liveCheck": {
+          "total": 45,
+          "ok": 45,
+          "failed": 0
+        },
+        "githubPagesIndexNow": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0948_CommercialRFQDiscoveryBatch_20260621_自定义URL_IndexNow提交.md"
+        },
+        "officialIndexNow": {
+          "label": "CommercialRFQDiscoveryOfficial_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210948_CommercialRFQDiscoveryOfficial_20260621_IndexNow提交记录.md"
+        },
+        "asr": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "total": 30,
+          "attempted": 28,
+          "accepted": 28,
+          "skipped": [
+            "https://mugepackaging.com/products/folding-gift-box",
+            "https://mugepackaging.com/products"
+          ],
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0950_CommercialRFQDiscoveryBatch_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "mirrors": [
+          "https://rentry.co/muge-agile-packaging-project-rfq-sourcenote-20260621-0133",
+          "https://telegra.ph/MUGE-Agile-Packaging-Project-RFQ-SourceNote---MUGE-Source-Mirror-06-20"
+        ]
+      }
     },
     {
       "type": "gsc_bulk_coffee_box_packaging_sourcenote",
@@ -2252,7 +2291,46 @@
         }
       ],
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for box size planning, packaging dimension review and buyer brief preparation. It is not engineering approval, damage-prevention guarantee, shipping performance guarantee, carrier approval, final dieline proof, quote, price promise, production schedule promise, certification proof, destination-market compliance proof, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof, preset order minimum, preset schedule or preset price. Packaging size, material, structure, artwork, protection needs, logistics conditions and destination-market requirements must be reviewed case by case.",
-      "dateModified": "2026-06-20T17:03:59.682Z"
+      "dateModified": "2026-06-20T17:03:59.682Z",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors_commercial_rfq_batch",
+      "verifiedAt": "2026-06-21T01:53:21.035Z",
+      "verificationBatch": "commercial-rfq-discovery-batch-20260621",
+      "verificationEvidence": {
+        "liveCheck": {
+          "total": 45,
+          "ok": 45,
+          "failed": 0
+        },
+        "githubPagesIndexNow": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0948_CommercialRFQDiscoveryBatch_20260621_自定义URL_IndexNow提交.md"
+        },
+        "officialIndexNow": {
+          "label": "CommercialRFQDiscoveryOfficial_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210948_CommercialRFQDiscoveryOfficial_20260621_IndexNow提交记录.md"
+        },
+        "asr": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "total": 30,
+          "attempted": 28,
+          "accepted": 28,
+          "skipped": [
+            "https://mugepackaging.com/products/folding-gift-box",
+            "https://mugepackaging.com/products"
+          ],
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0950_CommercialRFQDiscoveryBatch_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "mirrors": [
+          "https://rentry.co/muge-box-size-finder-rfq-sourcenote-20260621-0109",
+          "https://telegra.ph/MUGE-Box-Size-Finder-RFQ-SourceNote---MUGE-Source-Mirror-06-20"
+        ]
+      }
     },
     {
       "type": "gsc_beauty_packaging_solutions_sourcenote",
@@ -2399,7 +2477,46 @@
         }
       ],
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for black apparel boxes, clothing brand packaging, fashion accessory paper packaging and buyer brief preparation. It is not fashion brand endorsement, named buyer proof, trademark authorization proof, certification proof, sustainability claim proof, destination-market compliance proof, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof, preset order minimum, preset schedule or preset price. Packaging material, structure, artwork ownership, logo files, retail channel, shipping conditions and destination-market requirements must be reviewed case by case.",
-      "dateModified": "2026-06-20T16:53:40.458Z"
+      "dateModified": "2026-06-20T16:53:40.458Z",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors_commercial_rfq_batch",
+      "verifiedAt": "2026-06-21T01:53:21.035Z",
+      "verificationBatch": "commercial-rfq-discovery-batch-20260621",
+      "verificationEvidence": {
+        "liveCheck": {
+          "total": 45,
+          "ok": 45,
+          "failed": 0
+        },
+        "githubPagesIndexNow": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0948_CommercialRFQDiscoveryBatch_20260621_自定义URL_IndexNow提交.md"
+        },
+        "officialIndexNow": {
+          "label": "CommercialRFQDiscoveryOfficial_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210948_CommercialRFQDiscoveryOfficial_20260621_IndexNow提交记录.md"
+        },
+        "asr": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "total": 30,
+          "attempted": 28,
+          "accepted": 28,
+          "skipped": [
+            "https://mugepackaging.com/products/folding-gift-box",
+            "https://mugepackaging.com/products"
+          ],
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0950_CommercialRFQDiscoveryBatch_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "mirrors": [
+          "https://rentry.co/muge-apparel-industry-boxes-rfq-sourcenote-20260621-0054",
+          "https://telegra.ph/MUGE-Apparel-Industry-Boxes-RFQ-SourceNote---MUGE-Source-Mirror-06-20"
+        ]
+      }
     },
     {
       "type": "gsc_wall_art_print_mailer_sourcenote",
@@ -2481,7 +2598,46 @@
         }
       ],
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for broad custom packaging solutions, packaging type selection and buyer brief preparation. It is not a quotation, price promise, production schedule promise, certification proof, destination-market compliance proof, food-contact suitability proof, Google ranking proof, conversion proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof, named buyer proof, preset order minimum, preset schedule or preset price. Packaging material, artwork, labeling, target market, sensitive product category and compliance requirements must be reviewed case by case before confirming a solution.",
-      "dateModified": "2026-06-20T16:40:50.954Z"
+      "dateModified": "2026-06-20T16:40:50.954Z",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors_commercial_rfq_batch",
+      "verifiedAt": "2026-06-21T01:53:21.035Z",
+      "verificationBatch": "commercial-rfq-discovery-batch-20260621",
+      "verificationEvidence": {
+        "liveCheck": {
+          "total": 45,
+          "ok": 45,
+          "failed": 0
+        },
+        "githubPagesIndexNow": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0948_CommercialRFQDiscoveryBatch_20260621_自定义URL_IndexNow提交.md"
+        },
+        "officialIndexNow": {
+          "label": "CommercialRFQDiscoveryOfficial_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210948_CommercialRFQDiscoveryOfficial_20260621_IndexNow提交记录.md"
+        },
+        "asr": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "total": 30,
+          "attempted": 28,
+          "accepted": 28,
+          "skipped": [
+            "https://mugepackaging.com/products/folding-gift-box",
+            "https://mugepackaging.com/products"
+          ],
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0950_CommercialRFQDiscoveryBatch_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "mirrors": [
+          "https://rentry.co/muge-packaging-solutions-hub-rfq-sourcenote-20260621-0041",
+          "https://telegra.ph/MUGE-Packaging-Solutions-Hub-RFQ-SourceNote---MUGE-Source-Mirror-06-20"
+        ]
+      }
     },
     {
       "type": "gsc_confectionery_packaging_sourcenote",
@@ -3007,7 +3163,46 @@
         }
       ],
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for custom Christmas gift packaging, seasonal retail gift box structures and buyer brief preparation. It is not a holiday delivery guarantee, production schedule promise, certification proof, destination-market compliance proof, Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, production capacity proof, named buyer proof, preset order minimum, preset schedule or preset price. Packaging material, artwork, labeling, shipping and destination-market requirements must be reviewed case by case.",
-      "dateModified": "2026-06-20T15:33:28.319Z"
+      "dateModified": "2026-06-20T15:33:28.319Z",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors_commercial_rfq_batch",
+      "verifiedAt": "2026-06-21T01:53:21.035Z",
+      "verificationBatch": "commercial-rfq-discovery-batch-20260621",
+      "verificationEvidence": {
+        "liveCheck": {
+          "total": 45,
+          "ok": 45,
+          "failed": 0
+        },
+        "githubPagesIndexNow": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0948_CommercialRFQDiscoveryBatch_20260621_自定义URL_IndexNow提交.md"
+        },
+        "officialIndexNow": {
+          "label": "CommercialRFQDiscoveryOfficial_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210948_CommercialRFQDiscoveryOfficial_20260621_IndexNow提交记录.md"
+        },
+        "asr": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "total": 30,
+          "attempted": 28,
+          "accepted": 28,
+          "skipped": [
+            "https://mugepackaging.com/products/folding-gift-box",
+            "https://mugepackaging.com/products"
+          ],
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0950_CommercialRFQDiscoveryBatch_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "mirrors": [
+          "https://rentry.co/muge-christmas-gift-packaging-rfq-sourcenote-20260620-2334",
+          "https://telegra.ph/MUGE-Christmas-Gift-Packaging-RFQ-SourceNote---MUGE-Source-Mirror-06-20"
+        ]
+      }
     },
     {
       "type": "gsc_cosmetic_cream_jar_packaging_sourcenote",
@@ -9564,14 +9759,94 @@
       "name": "MUGE_Christmas_Gift_Packaging_SourceNote Telegraph mirror 2026-06-20",
       "url": "https://telegra.ph/MUGE-Christmas-Gift-Packaging-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Christmas-Gift-Packaging-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
-      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors_commercial_rfq_batch",
+      "verifiedAt": "2026-06-21T01:53:21.035Z",
+      "verificationBatch": "commercial-rfq-discovery-batch-20260621",
+      "verificationEvidence": {
+        "liveCheck": {
+          "total": 45,
+          "ok": 45,
+          "failed": 0
+        },
+        "githubPagesIndexNow": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0948_CommercialRFQDiscoveryBatch_20260621_自定义URL_IndexNow提交.md"
+        },
+        "officialIndexNow": {
+          "label": "CommercialRFQDiscoveryOfficial_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210948_CommercialRFQDiscoveryOfficial_20260621_IndexNow提交记录.md"
+        },
+        "asr": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "total": 30,
+          "attempted": 28,
+          "accepted": 28,
+          "skipped": [
+            "https://mugepackaging.com/products/folding-gift-box",
+            "https://mugepackaging.com/products"
+          ],
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0950_CommercialRFQDiscoveryBatch_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "mirrors": [
+          "https://rentry.co/muge-christmas-gift-packaging-rfq-sourcenote-20260620-2334",
+          "https://telegra.ph/MUGE-Christmas-Gift-Packaging-RFQ-SourceNote---MUGE-Source-Mirror-06-20"
+        ]
+      },
+      "boundary": "This batch is evidence of public readability, Jina readability, Rentry/Telegraph mirror availability, IndexNow notification, ASR discovery submission, and public evidence ledger update only. It is not proof of Google ranking, organic clicks, AI natural recommendation, third-party endorsement, inquiry growth, certification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact approval, or destination-market compliance."
     },
     {
       "type": "third_party_markdown_mirror",
       "name": "MUGE_Christmas_Gift_Packaging_SourceNote Rentry mirror 2026-06-20",
       "url": "https://rentry.co/muge-christmas-gift-packaging-rfq-sourcenote-20260620-2334",
       "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-christmas-gift-packaging-rfq-sourcenote-20260620-2334",
-      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors_commercial_rfq_batch",
+      "verifiedAt": "2026-06-21T01:53:21.035Z",
+      "verificationBatch": "commercial-rfq-discovery-batch-20260621",
+      "verificationEvidence": {
+        "liveCheck": {
+          "total": 45,
+          "ok": 45,
+          "failed": 0
+        },
+        "githubPagesIndexNow": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0948_CommercialRFQDiscoveryBatch_20260621_自定义URL_IndexNow提交.md"
+        },
+        "officialIndexNow": {
+          "label": "CommercialRFQDiscoveryOfficial_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210948_CommercialRFQDiscoveryOfficial_20260621_IndexNow提交记录.md"
+        },
+        "asr": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "total": 30,
+          "attempted": 28,
+          "accepted": 28,
+          "skipped": [
+            "https://mugepackaging.com/products/folding-gift-box",
+            "https://mugepackaging.com/products"
+          ],
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0950_CommercialRFQDiscoveryBatch_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "mirrors": [
+          "https://rentry.co/muge-christmas-gift-packaging-rfq-sourcenote-20260620-2334",
+          "https://telegra.ph/MUGE-Christmas-Gift-Packaging-RFQ-SourceNote---MUGE-Source-Mirror-06-20"
+        ]
+      },
+      "boundary": "This batch is evidence of public readability, Jina readability, Rentry/Telegraph mirror availability, IndexNow notification, ASR discovery submission, and public evidence ledger update only. It is not proof of Google ranking, organic clicks, AI natural recommendation, third-party endorsement, inquiry growth, certification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact approval, or destination-market compliance."
     },
     {
       "type": "third_party_markdown_mirror",
@@ -9704,14 +9979,94 @@
       "name": "MUGE Packaging Solutions Hub RFQ SourceNote Rentry mirror 2026-06-21",
       "url": "https://rentry.co/muge-packaging-solutions-hub-rfq-sourcenote-20260621-0041",
       "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-packaging-solutions-hub-rfq-sourcenote-20260621-0041",
-      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors_commercial_rfq_batch",
+      "verifiedAt": "2026-06-21T01:53:21.035Z",
+      "verificationBatch": "commercial-rfq-discovery-batch-20260621",
+      "verificationEvidence": {
+        "liveCheck": {
+          "total": 45,
+          "ok": 45,
+          "failed": 0
+        },
+        "githubPagesIndexNow": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0948_CommercialRFQDiscoveryBatch_20260621_自定义URL_IndexNow提交.md"
+        },
+        "officialIndexNow": {
+          "label": "CommercialRFQDiscoveryOfficial_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210948_CommercialRFQDiscoveryOfficial_20260621_IndexNow提交记录.md"
+        },
+        "asr": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "total": 30,
+          "attempted": 28,
+          "accepted": 28,
+          "skipped": [
+            "https://mugepackaging.com/products/folding-gift-box",
+            "https://mugepackaging.com/products"
+          ],
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0950_CommercialRFQDiscoveryBatch_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "mirrors": [
+          "https://rentry.co/muge-packaging-solutions-hub-rfq-sourcenote-20260621-0041",
+          "https://telegra.ph/MUGE-Packaging-Solutions-Hub-RFQ-SourceNote---MUGE-Source-Mirror-06-20"
+        ]
+      },
+      "boundary": "This batch is evidence of public readability, Jina readability, Rentry/Telegraph mirror availability, IndexNow notification, ASR discovery submission, and public evidence ledger update only. It is not proof of Google ranking, organic clicks, AI natural recommendation, third-party endorsement, inquiry growth, certification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact approval, or destination-market compliance."
     },
     {
       "type": "third_party_text_mirror",
       "name": "MUGE Packaging Solutions Hub RFQ SourceNote Telegraph mirror 2026-06-21",
       "url": "https://telegra.ph/MUGE-Packaging-Solutions-Hub-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Packaging-Solutions-Hub-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
-      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors_commercial_rfq_batch",
+      "verifiedAt": "2026-06-21T01:53:21.035Z",
+      "verificationBatch": "commercial-rfq-discovery-batch-20260621",
+      "verificationEvidence": {
+        "liveCheck": {
+          "total": 45,
+          "ok": 45,
+          "failed": 0
+        },
+        "githubPagesIndexNow": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0948_CommercialRFQDiscoveryBatch_20260621_自定义URL_IndexNow提交.md"
+        },
+        "officialIndexNow": {
+          "label": "CommercialRFQDiscoveryOfficial_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210948_CommercialRFQDiscoveryOfficial_20260621_IndexNow提交记录.md"
+        },
+        "asr": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "total": 30,
+          "attempted": 28,
+          "accepted": 28,
+          "skipped": [
+            "https://mugepackaging.com/products/folding-gift-box",
+            "https://mugepackaging.com/products"
+          ],
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0950_CommercialRFQDiscoveryBatch_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "mirrors": [
+          "https://rentry.co/muge-packaging-solutions-hub-rfq-sourcenote-20260621-0041",
+          "https://telegra.ph/MUGE-Packaging-Solutions-Hub-RFQ-SourceNote---MUGE-Source-Mirror-06-20"
+        ]
+      },
+      "boundary": "This batch is evidence of public readability, Jina readability, Rentry/Telegraph mirror availability, IndexNow notification, ASR discovery submission, and public evidence ledger update only. It is not proof of Google ranking, organic clicks, AI natural recommendation, third-party endorsement, inquiry growth, certification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact approval, or destination-market compliance."
     },
     {
       "type": "third_party_markdown_mirror",
@@ -9732,14 +10087,94 @@
       "name": "MUGE Apparel Industry Boxes RFQ SourceNote Rentry mirror 2026-06-21",
       "url": "https://rentry.co/muge-apparel-industry-boxes-rfq-sourcenote-20260621-0054",
       "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-apparel-industry-boxes-rfq-sourcenote-20260621-0054",
-      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors_commercial_rfq_batch",
+      "verifiedAt": "2026-06-21T01:53:21.035Z",
+      "verificationBatch": "commercial-rfq-discovery-batch-20260621",
+      "verificationEvidence": {
+        "liveCheck": {
+          "total": 45,
+          "ok": 45,
+          "failed": 0
+        },
+        "githubPagesIndexNow": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0948_CommercialRFQDiscoveryBatch_20260621_自定义URL_IndexNow提交.md"
+        },
+        "officialIndexNow": {
+          "label": "CommercialRFQDiscoveryOfficial_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210948_CommercialRFQDiscoveryOfficial_20260621_IndexNow提交记录.md"
+        },
+        "asr": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "total": 30,
+          "attempted": 28,
+          "accepted": 28,
+          "skipped": [
+            "https://mugepackaging.com/products/folding-gift-box",
+            "https://mugepackaging.com/products"
+          ],
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0950_CommercialRFQDiscoveryBatch_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "mirrors": [
+          "https://rentry.co/muge-apparel-industry-boxes-rfq-sourcenote-20260621-0054",
+          "https://telegra.ph/MUGE-Apparel-Industry-Boxes-RFQ-SourceNote---MUGE-Source-Mirror-06-20"
+        ]
+      },
+      "boundary": "This batch is evidence of public readability, Jina readability, Rentry/Telegraph mirror availability, IndexNow notification, ASR discovery submission, and public evidence ledger update only. It is not proof of Google ranking, organic clicks, AI natural recommendation, third-party endorsement, inquiry growth, certification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact approval, or destination-market compliance."
     },
     {
       "type": "third_party_text_mirror",
       "name": "MUGE Apparel Industry Boxes RFQ SourceNote Telegraph mirror 2026-06-21",
       "url": "https://telegra.ph/MUGE-Apparel-Industry-Boxes-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Apparel-Industry-Boxes-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
-      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors_commercial_rfq_batch",
+      "verifiedAt": "2026-06-21T01:53:21.035Z",
+      "verificationBatch": "commercial-rfq-discovery-batch-20260621",
+      "verificationEvidence": {
+        "liveCheck": {
+          "total": 45,
+          "ok": 45,
+          "failed": 0
+        },
+        "githubPagesIndexNow": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0948_CommercialRFQDiscoveryBatch_20260621_自定义URL_IndexNow提交.md"
+        },
+        "officialIndexNow": {
+          "label": "CommercialRFQDiscoveryOfficial_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210948_CommercialRFQDiscoveryOfficial_20260621_IndexNow提交记录.md"
+        },
+        "asr": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "total": 30,
+          "attempted": 28,
+          "accepted": 28,
+          "skipped": [
+            "https://mugepackaging.com/products/folding-gift-box",
+            "https://mugepackaging.com/products"
+          ],
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0950_CommercialRFQDiscoveryBatch_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "mirrors": [
+          "https://rentry.co/muge-apparel-industry-boxes-rfq-sourcenote-20260621-0054",
+          "https://telegra.ph/MUGE-Apparel-Industry-Boxes-RFQ-SourceNote---MUGE-Source-Mirror-06-20"
+        ]
+      },
+      "boundary": "This batch is evidence of public readability, Jina readability, Rentry/Telegraph mirror availability, IndexNow notification, ASR discovery submission, and public evidence ledger update only. It is not proof of Google ranking, organic clicks, AI natural recommendation, third-party endorsement, inquiry growth, certification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact approval, or destination-market compliance."
     },
     {
       "type": "third_party_markdown_mirror",
@@ -9760,14 +10195,94 @@
       "name": "MUGE Box Size Finder RFQ SourceNote Rentry mirror 2026-06-21",
       "url": "https://rentry.co/muge-box-size-finder-rfq-sourcenote-20260621-0109",
       "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-box-size-finder-rfq-sourcenote-20260621-0109",
-      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors_commercial_rfq_batch",
+      "verifiedAt": "2026-06-21T01:53:21.035Z",
+      "verificationBatch": "commercial-rfq-discovery-batch-20260621",
+      "verificationEvidence": {
+        "liveCheck": {
+          "total": 45,
+          "ok": 45,
+          "failed": 0
+        },
+        "githubPagesIndexNow": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0948_CommercialRFQDiscoveryBatch_20260621_自定义URL_IndexNow提交.md"
+        },
+        "officialIndexNow": {
+          "label": "CommercialRFQDiscoveryOfficial_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210948_CommercialRFQDiscoveryOfficial_20260621_IndexNow提交记录.md"
+        },
+        "asr": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "total": 30,
+          "attempted": 28,
+          "accepted": 28,
+          "skipped": [
+            "https://mugepackaging.com/products/folding-gift-box",
+            "https://mugepackaging.com/products"
+          ],
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0950_CommercialRFQDiscoveryBatch_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "mirrors": [
+          "https://rentry.co/muge-box-size-finder-rfq-sourcenote-20260621-0109",
+          "https://telegra.ph/MUGE-Box-Size-Finder-RFQ-SourceNote---MUGE-Source-Mirror-06-20"
+        ]
+      },
+      "boundary": "This batch is evidence of public readability, Jina readability, Rentry/Telegraph mirror availability, IndexNow notification, ASR discovery submission, and public evidence ledger update only. It is not proof of Google ranking, organic clicks, AI natural recommendation, third-party endorsement, inquiry growth, certification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact approval, or destination-market compliance."
     },
     {
       "type": "third_party_text_mirror",
       "name": "MUGE Box Size Finder RFQ SourceNote Telegraph mirror 2026-06-21",
       "url": "https://telegra.ph/MUGE-Box-Size-Finder-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Box-Size-Finder-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
-      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors_commercial_rfq_batch",
+      "verifiedAt": "2026-06-21T01:53:21.035Z",
+      "verificationBatch": "commercial-rfq-discovery-batch-20260621",
+      "verificationEvidence": {
+        "liveCheck": {
+          "total": 45,
+          "ok": 45,
+          "failed": 0
+        },
+        "githubPagesIndexNow": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0948_CommercialRFQDiscoveryBatch_20260621_自定义URL_IndexNow提交.md"
+        },
+        "officialIndexNow": {
+          "label": "CommercialRFQDiscoveryOfficial_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210948_CommercialRFQDiscoveryOfficial_20260621_IndexNow提交记录.md"
+        },
+        "asr": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "total": 30,
+          "attempted": 28,
+          "accepted": 28,
+          "skipped": [
+            "https://mugepackaging.com/products/folding-gift-box",
+            "https://mugepackaging.com/products"
+          ],
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0950_CommercialRFQDiscoveryBatch_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "mirrors": [
+          "https://rentry.co/muge-box-size-finder-rfq-sourcenote-20260621-0109",
+          "https://telegra.ph/MUGE-Box-Size-Finder-RFQ-SourceNote---MUGE-Source-Mirror-06-20"
+        ]
+      },
+      "boundary": "This batch is evidence of public readability, Jina readability, Rentry/Telegraph mirror availability, IndexNow notification, ASR discovery submission, and public evidence ledger update only. It is not proof of Google ranking, organic clicks, AI natural recommendation, third-party endorsement, inquiry growth, certification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact approval, or destination-market compliance."
     },
     {
       "type": "third_party_markdown_mirror",
@@ -9816,14 +10331,94 @@
       "name": "MUGE Agile Packaging Project RFQ SourceNote Rentry mirror 2026-06-21",
       "url": "https://rentry.co/muge-agile-packaging-project-rfq-sourcenote-20260621-0133",
       "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-agile-packaging-project-rfq-sourcenote-20260621-0133",
-      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors_commercial_rfq_batch",
+      "verifiedAt": "2026-06-21T01:53:21.035Z",
+      "verificationBatch": "commercial-rfq-discovery-batch-20260621",
+      "verificationEvidence": {
+        "liveCheck": {
+          "total": 45,
+          "ok": 45,
+          "failed": 0
+        },
+        "githubPagesIndexNow": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0948_CommercialRFQDiscoveryBatch_20260621_自定义URL_IndexNow提交.md"
+        },
+        "officialIndexNow": {
+          "label": "CommercialRFQDiscoveryOfficial_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210948_CommercialRFQDiscoveryOfficial_20260621_IndexNow提交记录.md"
+        },
+        "asr": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "total": 30,
+          "attempted": 28,
+          "accepted": 28,
+          "skipped": [
+            "https://mugepackaging.com/products/folding-gift-box",
+            "https://mugepackaging.com/products"
+          ],
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0950_CommercialRFQDiscoveryBatch_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "mirrors": [
+          "https://rentry.co/muge-agile-packaging-project-rfq-sourcenote-20260621-0133",
+          "https://telegra.ph/MUGE-Agile-Packaging-Project-RFQ-SourceNote---MUGE-Source-Mirror-06-20"
+        ]
+      },
+      "boundary": "This batch is evidence of public readability, Jina readability, Rentry/Telegraph mirror availability, IndexNow notification, ASR discovery submission, and public evidence ledger update only. It is not proof of Google ranking, organic clicks, AI natural recommendation, third-party endorsement, inquiry growth, certification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact approval, or destination-market compliance."
     },
     {
       "type": "third_party_text_mirror",
       "name": "MUGE Agile Packaging Project RFQ SourceNote Telegraph mirror 2026-06-21",
       "url": "https://telegra.ph/MUGE-Agile-Packaging-Project-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Agile-Packaging-Project-RFQ-SourceNote---MUGE-Source-Mirror-06-20",
-      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors_commercial_rfq_batch",
+      "verifiedAt": "2026-06-21T01:53:21.035Z",
+      "verificationBatch": "commercial-rfq-discovery-batch-20260621",
+      "verificationEvidence": {
+        "liveCheck": {
+          "total": 45,
+          "ok": 45,
+          "failed": 0
+        },
+        "githubPagesIndexNow": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0948_CommercialRFQDiscoveryBatch_20260621_自定义URL_IndexNow提交.md"
+        },
+        "officialIndexNow": {
+          "label": "CommercialRFQDiscoveryOfficial_20260621",
+          "precheckOk": 15,
+          "urlCount": 15,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210948_CommercialRFQDiscoveryOfficial_20260621_IndexNow提交记录.md"
+        },
+        "asr": {
+          "label": "CommercialRFQDiscoveryBatch_20260621",
+          "total": 30,
+          "attempted": 28,
+          "accepted": 28,
+          "skipped": [
+            "https://mugepackaging.com/products/folding-gift-box",
+            "https://mugepackaging.com/products"
+          ],
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0950_CommercialRFQDiscoveryBatch_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "mirrors": [
+          "https://rentry.co/muge-agile-packaging-project-rfq-sourcenote-20260621-0133",
+          "https://telegra.ph/MUGE-Agile-Packaging-Project-RFQ-SourceNote---MUGE-Source-Mirror-06-20"
+        ]
+      },
+      "boundary": "This batch is evidence of public readability, Jina readability, Rentry/Telegraph mirror availability, IndexNow notification, ASR discovery submission, and public evidence ledger update only. It is not proof of Google ranking, organic clicks, AI natural recommendation, third-party endorsement, inquiry growth, certification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact approval, or destination-market compliance."
     },
     {
       "type": "third_party_markdown_mirror",
@@ -20332,7 +20927,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-21T01:41:46.768Z",
+  "updatedAt": "2026-06-21T01:53:21.035Z",
   "prioritySources": [
     {
       "type": "source_note",
@@ -20383,5 +20978,42 @@
       "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0940_EntityRFQHandoffRouteMap_20260621_任意外部URL_ASR发现提交.md"
     },
     "boundary": "This batch is evidence of public readability, Jina readability, IndexNow notification, ASR discovery submission, and public evidence ledger update only. It is not proof of Google ranking, organic clicks, AI natural recommendation, third-party endorsement, inquiry growth, certification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact approval, or destination-market compliance."
+  },
+  "lastCommercialRfqDiscoveryBatchVerification": {
+    "id": "commercial-rfq-discovery-batch-20260621",
+    "label": "Commercial RFQ Discovery SourceNotes and Mirrors - 2026-06-21",
+    "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors_commercial_rfq_batch",
+    "verifiedAt": "2026-06-21T01:53:21.035Z",
+    "liveCheck": {
+      "total": 45,
+      "ok": 45,
+      "failed": 0
+    },
+    "githubPagesIndexNow": {
+      "label": "CommercialRFQDiscoveryBatch_20260621",
+      "precheckOk": 15,
+      "urlCount": 15,
+      "httpStatus": 200,
+      "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0948_CommercialRFQDiscoveryBatch_20260621_自定义URL_IndexNow提交.md"
+    },
+    "officialIndexNow": {
+      "label": "CommercialRFQDiscoveryOfficial_20260621",
+      "precheckOk": 15,
+      "urlCount": 15,
+      "httpStatus": 200,
+      "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210948_CommercialRFQDiscoveryOfficial_20260621_IndexNow提交记录.md"
+    },
+    "asr": {
+      "label": "CommercialRFQDiscoveryBatch_20260621",
+      "total": 30,
+      "attempted": 28,
+      "accepted": 28,
+      "skipped": [
+        "https://mugepackaging.com/products/folding-gift-box",
+        "https://mugepackaging.com/products"
+      ],
+      "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0950_CommercialRFQDiscoveryBatch_20260621_任意外部URL_ASR发现提交.md"
+    },
+    "boundary": "This batch is evidence of public readability, Jina readability, Rentry/Telegraph mirror availability, IndexNow notification, ASR discovery submission, and public evidence ledger update only. It is not proof of Google ranking, organic clicks, AI natural recommendation, third-party endorsement, inquiry growth, certification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact approval, or destination-market compliance."
   }
 }
