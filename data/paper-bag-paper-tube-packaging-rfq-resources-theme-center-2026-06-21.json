@@ -3,8 +3,8 @@
   "title": "MUGE Paper Bag and Paper Tube Packaging RFQ Resources Theme Center - 2026-06-21",
   "generated_at": "2026-06-21T02:32:03.533Z",
   "generatedAt": "2026-06-21T02:32:03.533Z",
-  "status": "theme_center_live_pending_indexnow_asr",
-  "verificationStatus": "theme_center_live_pending_indexnow_asr",
+  "status": "verified_live_jina_indexnow_asr_competitor_driven_theme_center",
+  "verificationStatus": "verified_live_jina_indexnow_asr_competitor_driven_theme_center",
   "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-bag-paper-tube-packaging-rfq-resources-theme-center-2026-06-21.html",
   "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-bag-paper-tube-packaging-rfq-resources-theme-center-2026-06-21.md",
   "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-bag-paper-tube-packaging-rfq-resources-theme-center-2026-06-21.md",
@@ -240,5 +240,22 @@
       "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors"
     }
   ],
-  "boundary": "This theme center is a public source-routing, buyer question answering, AI-reader discovery and RFQ preparation asset for Paper Bag and Paper Tube Packaging RFQ Resources. It is not proof of Google ranking, Google click growth, natural traffic, inquiry, third-party endorsement, AI natural recommendation, platform verification, certification, food-contact suitability, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer case or production capacity. Packaging material, structure, artwork, retail channel, shipping condition and destination-market requirements must be reviewed case by case."
+  "boundary": "This theme center is a public source-routing, buyer question answering, AI-reader discovery and RFQ preparation asset for Paper Bag and Paper Tube Packaging RFQ Resources. It is not proof of Google ranking, Google click growth, natural traffic, inquiry, third-party endorsement, AI natural recommendation, platform verification, certification, food-contact suitability, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer case or production capacity. Packaging material, structure, artwork, retail channel, shipping condition and destination-market requirements must be reviewed case by case.",
+  "latestVerification": {
+    "status": "verified_live_jina_indexnow_asr_competitor_driven_theme_center",
+    "verifiedAt": "2026-06-21T02:35:26.507Z",
+    "liveChecks": "19/19 HTTP 200 including HTML/MD/JSON/Jina/index/ledger",
+    "githubPagesIndexNow": "12/12 HTTP 200",
+    "officialIndexNow": "15/15 HTTP 200",
+    "asr": "12/12 accepted from 15 submitted, 3 skipped by ASR precheck",
+    "commit": "aa26561"
+  },
+  "verified_at": "2026-06-21T02:35:26.507Z",
+  "verifiedAt": "2026-06-21T02:35:26.507Z",
+  "discovery": {
+    "liveChecks": "19/19 shared batch HTTP 200",
+    "githubPagesIndexNow": "12/12 shared batch HTTP 200",
+    "officialIndexNow": "15/15 shared batch HTTP 200",
+    "asr": "12/12 accepted"
+  }
 }

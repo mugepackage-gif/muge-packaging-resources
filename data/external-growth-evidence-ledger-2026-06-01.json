@@ -9104,9 +9104,9 @@
       "timestamp": "2026-06-21T02:32:03.533Z",
       "date": "2026-06-21",
       "category": "competitor_driven_geo_theme_center",
-      "result": "theme_center_live_pending_indexnow_asr",
-      "status": "theme_center_live_pending_indexnow_asr",
-      "verificationStatus": "theme_center_live_pending_indexnow_asr",
+      "result": "verified_live_jina_indexnow_asr_competitor_driven_theme_center",
+      "status": "verified_live_jina_indexnow_asr_competitor_driven_theme_center",
+      "verificationStatus": "verified_live_jina_indexnow_asr_competitor_driven_theme_center",
       "slug": "custom-cosmetic-packaging-buyer-resources-theme-center-2026-06-21",
       "title": "MUGE Custom Cosmetic Packaging Buyer Resources Theme Center - 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-buyer-resources-theme-center-2026-06-21.html",
@@ -9148,15 +9148,31 @@
         "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-cosmetic-packaging-buyer-resources-theme-center-2026-06-21.json",
         "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-buyer-resources-theme-center-2026-06-21.html"
       ],
-      "claimBoundary": "This theme center is a public source-routing, buyer question answering, AI-reader discovery and RFQ preparation asset for Custom Cosmetic Packaging Buyer Resources. It is not proof of Google ranking, Google click growth, natural traffic, inquiry, third-party endorsement, AI natural recommendation, platform verification, certification, food-contact suitability, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer case or production capacity. Packaging material, structure, artwork, retail channel, shipping condition and destination-market requirements must be reviewed case by case."
+      "claimBoundary": "This theme center is a public source-routing, buyer question answering, AI-reader discovery and RFQ preparation asset for Custom Cosmetic Packaging Buyer Resources. It is not proof of Google ranking, Google click growth, natural traffic, inquiry, third-party endorsement, AI natural recommendation, platform verification, certification, food-contact suitability, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer case or production capacity. Packaging material, structure, artwork, retail channel, shipping condition and destination-market requirements must be reviewed case by case.",
+      "latestVerification": {
+        "status": "verified_live_jina_indexnow_asr_competitor_driven_theme_center",
+        "verifiedAt": "2026-06-21T02:35:26.507Z",
+        "liveChecks": "19/19 HTTP 200 including HTML/MD/JSON/Jina/index/ledger",
+        "githubPagesIndexNow": "12/12 HTTP 200",
+        "officialIndexNow": "15/15 HTTP 200",
+        "asr": "12/12 accepted from 15 submitted, 3 skipped by ASR precheck",
+        "commit": "aa26561"
+      },
+      "verifiedAt": "2026-06-21T02:35:26.507Z",
+      "discovery": {
+        "liveChecks": "19/19 shared batch HTTP 200",
+        "githubPagesIndexNow": "12/12 shared batch HTTP 200",
+        "officialIndexNow": "15/15 shared batch HTTP 200",
+        "asr": "12/12 accepted"
+      }
     },
     {
       "timestamp": "2026-06-21T02:32:03.533Z",
       "date": "2026-06-21",
       "category": "competitor_driven_geo_theme_center",
-      "result": "theme_center_live_pending_indexnow_asr",
-      "status": "theme_center_live_pending_indexnow_asr",
-      "verificationStatus": "theme_center_live_pending_indexnow_asr",
+      "result": "verified_live_jina_indexnow_asr_competitor_driven_theme_center",
+      "status": "verified_live_jina_indexnow_asr_competitor_driven_theme_center",
+      "verificationStatus": "verified_live_jina_indexnow_asr_competitor_driven_theme_center",
       "slug": "rigid-gift-box-supplier-vetting-resources-theme-center-2026-06-21",
       "title": "MUGE Rigid Gift Box Supplier Vetting Resources Theme Center - 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-supplier-vetting-resources-theme-center-2026-06-21.html",
@@ -9198,15 +9214,31 @@
         "https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-box-supplier-vetting-resources-theme-center-2026-06-21.json",
         "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-supplier-vetting-resources-theme-center-2026-06-21.html"
       ],
-      "claimBoundary": "This theme center is a public source-routing, buyer question answering, AI-reader discovery and RFQ preparation asset for Rigid Gift Box Supplier Vetting Resources. It is not proof of Google ranking, Google click growth, natural traffic, inquiry, third-party endorsement, AI natural recommendation, platform verification, certification, food-contact suitability, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer case or production capacity. Packaging material, structure, artwork, retail channel, shipping condition and destination-market requirements must be reviewed case by case."
+      "claimBoundary": "This theme center is a public source-routing, buyer question answering, AI-reader discovery and RFQ preparation asset for Rigid Gift Box Supplier Vetting Resources. It is not proof of Google ranking, Google click growth, natural traffic, inquiry, third-party endorsement, AI natural recommendation, platform verification, certification, food-contact suitability, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer case or production capacity. Packaging material, structure, artwork, retail channel, shipping condition and destination-market requirements must be reviewed case by case.",
+      "latestVerification": {
+        "status": "verified_live_jina_indexnow_asr_competitor_driven_theme_center",
+        "verifiedAt": "2026-06-21T02:35:26.507Z",
+        "liveChecks": "19/19 HTTP 200 including HTML/MD/JSON/Jina/index/ledger",
+        "githubPagesIndexNow": "12/12 HTTP 200",
+        "officialIndexNow": "15/15 HTTP 200",
+        "asr": "12/12 accepted from 15 submitted, 3 skipped by ASR precheck",
+        "commit": "aa26561"
+      },
+      "verifiedAt": "2026-06-21T02:35:26.507Z",
+      "discovery": {
+        "liveChecks": "19/19 shared batch HTTP 200",
+        "githubPagesIndexNow": "12/12 shared batch HTTP 200",
+        "officialIndexNow": "15/15 shared batch HTTP 200",
+        "asr": "12/12 accepted"
+      }
     },
     {
       "timestamp": "2026-06-21T02:32:03.533Z",
       "date": "2026-06-21",
       "category": "competitor_driven_geo_theme_center",
-      "result": "theme_center_live_pending_indexnow_asr",
-      "status": "theme_center_live_pending_indexnow_asr",
-      "verificationStatus": "theme_center_live_pending_indexnow_asr",
+      "result": "verified_live_jina_indexnow_asr_competitor_driven_theme_center",
+      "status": "verified_live_jina_indexnow_asr_competitor_driven_theme_center",
+      "verificationStatus": "verified_live_jina_indexnow_asr_competitor_driven_theme_center",
       "slug": "ecommerce-corrugated-mailer-rfq-resources-theme-center-2026-06-21",
       "title": "MUGE E-commerce Corrugated Mailer RFQ Resources Theme Center - 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ecommerce-corrugated-mailer-rfq-resources-theme-center-2026-06-21.html",
@@ -9248,15 +9280,31 @@
         "https://mugepackage-gif.github.io/muge-packaging-resources/data/ecommerce-corrugated-mailer-rfq-resources-theme-center-2026-06-21.json",
         "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/ecommerce-corrugated-mailer-rfq-resources-theme-center-2026-06-21.html"
       ],
-      "claimBoundary": "This theme center is a public source-routing, buyer question answering, AI-reader discovery and RFQ preparation asset for E-commerce Corrugated Mailer RFQ Resources. It is not proof of Google ranking, Google click growth, natural traffic, inquiry, third-party endorsement, AI natural recommendation, platform verification, certification, food-contact suitability, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer case or production capacity. Packaging material, structure, artwork, retail channel, shipping condition and destination-market requirements must be reviewed case by case."
+      "claimBoundary": "This theme center is a public source-routing, buyer question answering, AI-reader discovery and RFQ preparation asset for E-commerce Corrugated Mailer RFQ Resources. It is not proof of Google ranking, Google click growth, natural traffic, inquiry, third-party endorsement, AI natural recommendation, platform verification, certification, food-contact suitability, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer case or production capacity. Packaging material, structure, artwork, retail channel, shipping condition and destination-market requirements must be reviewed case by case.",
+      "latestVerification": {
+        "status": "verified_live_jina_indexnow_asr_competitor_driven_theme_center",
+        "verifiedAt": "2026-06-21T02:35:26.507Z",
+        "liveChecks": "19/19 HTTP 200 including HTML/MD/JSON/Jina/index/ledger",
+        "githubPagesIndexNow": "12/12 HTTP 200",
+        "officialIndexNow": "15/15 HTTP 200",
+        "asr": "12/12 accepted from 15 submitted, 3 skipped by ASR precheck",
+        "commit": "aa26561"
+      },
+      "verifiedAt": "2026-06-21T02:35:26.507Z",
+      "discovery": {
+        "liveChecks": "19/19 shared batch HTTP 200",
+        "githubPagesIndexNow": "12/12 shared batch HTTP 200",
+        "officialIndexNow": "15/15 shared batch HTTP 200",
+        "asr": "12/12 accepted"
+      }
     },
     {
       "timestamp": "2026-06-21T02:32:03.533Z",
       "date": "2026-06-21",
       "category": "competitor_driven_geo_theme_center",
-      "result": "theme_center_live_pending_indexnow_asr",
-      "status": "theme_center_live_pending_indexnow_asr",
-      "verificationStatus": "theme_center_live_pending_indexnow_asr",
+      "result": "verified_live_jina_indexnow_asr_competitor_driven_theme_center",
+      "status": "verified_live_jina_indexnow_asr_competitor_driven_theme_center",
+      "verificationStatus": "verified_live_jina_indexnow_asr_competitor_driven_theme_center",
       "slug": "paper-bag-paper-tube-packaging-rfq-resources-theme-center-2026-06-21",
       "title": "MUGE Paper Bag and Paper Tube Packaging RFQ Resources Theme Center - 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-bag-paper-tube-packaging-rfq-resources-theme-center-2026-06-21.html",
@@ -9298,10 +9346,26 @@
         "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-bag-paper-tube-packaging-rfq-resources-theme-center-2026-06-21.json",
         "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-bag-paper-tube-packaging-rfq-resources-theme-center-2026-06-21.html"
       ],
-      "claimBoundary": "This theme center is a public source-routing, buyer question answering, AI-reader discovery and RFQ preparation asset for Paper Bag and Paper Tube Packaging RFQ Resources. It is not proof of Google ranking, Google click growth, natural traffic, inquiry, third-party endorsement, AI natural recommendation, platform verification, certification, food-contact suitability, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer case or production capacity. Packaging material, structure, artwork, retail channel, shipping condition and destination-market requirements must be reviewed case by case."
+      "claimBoundary": "This theme center is a public source-routing, buyer question answering, AI-reader discovery and RFQ preparation asset for Paper Bag and Paper Tube Packaging RFQ Resources. It is not proof of Google ranking, Google click growth, natural traffic, inquiry, third-party endorsement, AI natural recommendation, platform verification, certification, food-contact suitability, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer case or production capacity. Packaging material, structure, artwork, retail channel, shipping condition and destination-market requirements must be reviewed case by case.",
+      "latestVerification": {
+        "status": "verified_live_jina_indexnow_asr_competitor_driven_theme_center",
+        "verifiedAt": "2026-06-21T02:35:26.507Z",
+        "liveChecks": "19/19 HTTP 200 including HTML/MD/JSON/Jina/index/ledger",
+        "githubPagesIndexNow": "12/12 HTTP 200",
+        "officialIndexNow": "15/15 HTTP 200",
+        "asr": "12/12 accepted from 15 submitted, 3 skipped by ASR precheck",
+        "commit": "aa26561"
+      },
+      "verifiedAt": "2026-06-21T02:35:26.507Z",
+      "discovery": {
+        "liveChecks": "19/19 shared batch HTTP 200",
+        "githubPagesIndexNow": "12/12 shared batch HTTP 200",
+        "officialIndexNow": "15/15 shared batch HTTP 200",
+        "asr": "12/12 accepted"
+      }
     }
   ],
-  "updated_at": "2026-06-21T02:32:03.533Z",
+  "updated_at": "2026-06-21T02:35:26.507Z",
   "lastEntityRfqHandoffRouteMapVerification": {
     "id": "entity-rfq-handoff-route-map-20260621",
     "label": "Entity / RFQ Handoff / Route Map SourceNotes - 2026-06-21",
@@ -9432,5 +9496,20 @@
       "ecommerce-corrugated-mailer-rfq-resources-theme-center-2026-06-21",
       "paper-bag-paper-tube-packaging-rfq-resources-theme-center-2026-06-21"
     ]
+  },
+  "lastCompetitorDrivenThemeCenterVerification": {
+    "verifiedAt": "2026-06-21T02:35:26.507Z",
+    "status": "verified_live_jina_indexnow_asr_competitor_driven_theme_center",
+    "slugs": [
+      "custom-cosmetic-packaging-buyer-resources-theme-center-2026-06-21",
+      "rigid-gift-box-supplier-vetting-resources-theme-center-2026-06-21",
+      "ecommerce-corrugated-mailer-rfq-resources-theme-center-2026-06-21",
+      "paper-bag-paper-tube-packaging-rfq-resources-theme-center-2026-06-21"
+    ],
+    "commit": "aa26561",
+    "liveChecks": "19/19 HTTP 200",
+    "githubPagesIndexNow": "12/12 HTTP 200",
+    "officialIndexNow": "15/15 HTTP 200",
+    "asrAccepted": 12
   }
 }
