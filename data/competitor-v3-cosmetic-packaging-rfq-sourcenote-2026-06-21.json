@@ -45,6 +45,35 @@
     "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v3-cosmetic-packaging-rfq-sourcenote-2026-06-21.json",
     "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v3-cosmetic-packaging-rfq-sourcenote-2026-06-21.html"
   },
-  "verificationStatus": "published_pending_indexnow_asr",
-  "boundary": "This SourceNote is for public source routing, buyer question answering, competitor-informed RFQ preparation and AI-reader discovery only. It is not proof of Google ranking, Google click growth, natural traffic, inquiry, third-party endorsement, AI natural recommendation, platform verification, FSC claim, FDA claim, food-contact suitability, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer case or production capacity."
+  "verificationStatus": "verified_live_jina_indexnow_asr_competitor_v3",
+  "boundary": "This SourceNote is for public source routing, buyer question answering, competitor-informed RFQ preparation and AI-reader discovery only. It is not proof of Google ranking, Google click growth, natural traffic, inquiry, third-party endorsement, AI natural recommendation, platform verification, FSC claim, FDA claim, food-contact suitability, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer case or production capacity.",
+  "latestVerification": {
+    "verifiedAt": "2026-06-21T04:36:57.252Z",
+    "verificationStatus": "verified_live_jina_indexnow_asr_competitor_v3",
+    "live": {
+      "html": 200,
+      "markdown": 200,
+      "json": 200,
+      "jina": 200
+    },
+    "indexNow": {
+      "status": "submitted",
+      "precheckOk": 15,
+      "httpStatus": 200,
+      "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1234_竞品v3四主题SourceNote_20260621_自定义URL_IndexNow提交.md"
+    },
+    "asr": {
+      "status": "accepted",
+      "attempted": 4,
+      "accepted": 4,
+      "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_1234_竞品v3四主题SourceNote_20260621_ASR发现提交.md"
+    },
+    "publicUrls": {
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v3-cosmetic-packaging-rfq-sourcenote-2026-06-21.html",
+      "md": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v3-cosmetic-packaging-rfq-sourcenote-2026-06-21.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v3-cosmetic-packaging-rfq-sourcenote-2026-06-21.json",
+      "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v3-cosmetic-packaging-rfq-sourcenote-2026-06-21.html"
+    },
+    "countingNote": "This verification proves public readability, Jina readability, IndexNow notification, ASR accepted submission and evidence-ledger update. It is not proof of Google ranking, organic clicks, inquiry conversion, AI natural recommendation, third-party endorsement, certification, fixed MOQ, fixed lead time, fixed price, customer cases, production capacity, food-contact suitability or destination-market compliance."
+  }
 }
