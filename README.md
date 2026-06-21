@@ -1,3 +1,27 @@
+<!-- GSC_WEAK_SIGNAL_TOP2_5_SOURCE_BRIDGES_20260622:start -->
+## GSC Weak Signal Top2-5 Source Bridges - 2026-06-22
+- Cosmetic Packaging Compare Packaging Source Bridge
+  - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-cosmetic-packaging-compare-packaging-global-buyer-intent-source-bridge-202.html
+  - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-cosmetic-packaging-compare-packaging-global-buyer-intent-source-bridge-202.md
+  - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/gsc-weak-signal-cosmetic-packaging-compare-packaging-global-buyer-intent-source-bridge-202.json
+  - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-cosmetic-packaging-compare-packaging-global-buyer-intent-source-bridge-202.html
+- Custom Paper Tubes Custom Paper Tube Source Bridge
+  - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-custom-paper-tubes-custom-paper-tube-global-buyer-intent-source-bridge-202.html
+  - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-custom-paper-tubes-custom-paper-tube-global-buyer-intent-source-bridge-202.md
+  - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/gsc-weak-signal-custom-paper-tubes-custom-paper-tube-global-buyer-intent-source-bridge-202.json
+  - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-custom-paper-tubes-custom-paper-tube-global-buyer-intent-source-bridge-202.html
+- Custom Paper Tubes Compare Packaging Source Bridge
+  - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-custom-paper-tubes-compare-packaging-global-buyer-intent-source-bridge-202.html
+  - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-custom-paper-tubes-compare-packaging-global-buyer-intent-source-bridge-202.md
+  - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/gsc-weak-signal-custom-paper-tubes-compare-packaging-global-buyer-intent-source-bridge-202.json
+  - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-custom-paper-tubes-compare-packaging-global-buyer-intent-source-bridge-202.html
+- Custom Packaging Boxes Sustainable Packaging Comparison Source Bridge
+  - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-custom-packaging-boxes-sustainable-packaging-comparison-global-buyer-inten.html
+  - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-custom-packaging-boxes-sustainable-packaging-comparison-global-buyer-inten.md
+  - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/gsc-weak-signal-custom-packaging-boxes-sustainable-packaging-comparison-global-buyer-inten.json
+  - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-custom-packaging-boxes-sustainable-packaging-comparison-global-buyer-inten.html
+- Boundary: source bridges and discovery assets only; not ranking, traffic, AI natural recommendation, inquiry, endorsement, preset commercial-term, document or compliance proof.
+<!-- GSC_WEAK_SIGNAL_TOP2_5_SOURCE_BRIDGES_20260622:end -->
 <!-- MUGE_GSC_WEAK_SIGNAL_COMPARE_PACKAGING_CUSTOM_BOXES_SOURCE_BRIDGE_20260622:start -->
 ## GSC Weak Signal Compare Packaging Custom Boxes Source Bridge - 2026-06-22
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-compare-packaging-custom-boxes-source-bridge-2026-06-22.html
