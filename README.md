@@ -3870,3 +3870,13 @@ Boundary: source discovery, official URL routing, AI/search citation testing and
 - Use for: corrugated boxes and broad paper packaging buyer-brief routing
 - Boundary: official Buyer Brief CTA handoff only; not ranking, click, inquiry, endorsement, certification, food-contact, fixed MOQ, fixed lead time, fixed price, compliance or customer-case proof.
 <!-- MUGE_COMPETITOR_V5_BUYER_BRIEF_CTA_HANDOFF_SOURCENOTE_20260621:end -->
+
+<!-- competitor-v6-ads-geo-rfq-route-map-2026-06-21:start -->
+## MUGE PACKAGING competitor v6 paper packaging Ads/GEO RFQ route map
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v6-paper-packaging-ads-geo-rfq-route-map-2026-06-21.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v6-paper-packaging-ads-geo-rfq-route-map-2026-06-21.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v6-paper-packaging-ads-geo-rfq-route-map-2026-06-21.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v6-paper-packaging-ads-geo-rfq-route-map-2026-06-21.html
+- Purpose: public RFQ route map connecting paper packaging buyer intents with official MUGE pages after competitor v6 review.
+<!-- competitor-v6-ads-geo-rfq-route-map-2026-06-21:end -->
