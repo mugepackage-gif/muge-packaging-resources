@@ -8655,9 +8655,453 @@
         },
         "countingNote": "This verification is for external source routing, AI-reader discovery and RFQ preparation. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, certification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
       }
+    },
+    {
+      "timestamp": "2026-06-21T10:07:00+08:00",
+      "date": "2026-06-21",
+      "category": "gsc_zero_click_rfq_handoff_sourcenote",
+      "result": "verified_live_jina_indexnow_asr",
+      "slug": "apparel-boxes-wholesale-rfq-sourcenote-2026-06-20",
+      "title": "MUGE Apparel Boxes Wholesale RFQ SourceNote - 2026-06-20",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/apparel-boxes-wholesale-rfq-sourcenote-2026-06-20.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/apparel-boxes-wholesale-rfq-sourcenote-2026-06-20.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/apparel-boxes-wholesale-rfq-sourcenote-2026-06-20.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/apparel-boxes-wholesale-rfq-sourcenote-2026-06-20.html",
+      "officialRoutes": [
+        "https://mugepackaging.com/blog/custom-apparel-boxes-wholesale-for-clothing-and-fashion-brands",
+        "https://mugepackaging.com/products/folding-gift-box",
+        "https://mugepackaging.com/products/paper-packaging",
+        "https://mugepackaging.com/products/corrugated-boxes",
+        "https://mugepackaging.com/contact?intent=custom-apparel-boxes-wholesale&source=gsc-sourcenote"
+      ],
+      "keywords": [
+        "custom apparel boxes wholesale",
+        "clothing brand packaging boxes RFQ",
+        "fashion brand paper packaging supplier questions",
+        "custom retail apparel gift box structure",
+        "apparel mailer box packaging brief",
+        "clothing subscription box packaging",
+        "paper packaging for fashion accessories",
+        "custom apparel packaging buyer checklist"
+      ],
+      "evidenceBasis": {
+        "sourceGsc": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-20_2305_GSC查询词排名基线.json",
+        "pageClicks28d": 0,
+        "pageImpressions28d": 5,
+        "pageCtr28d": "0.00%",
+        "pageAveragePosition28d": 77.6,
+        "window": "GSC 28-day baseline checked from the 2026-06-20 23:05 baseline.",
+        "gscVisibleUrl": "https://mugepackaging.com/blog/custom-apparel-boxes-wholesale-for-clothing-and-fashion-brands",
+        "routeCheck": "The GSC-visible article and current official routes returned HTTP 200 during precheck."
+      },
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/apparel-boxes-wholesale-rfq-sourcenote-2026-06-20.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/apparel-boxes-wholesale-rfq-sourcenote-2026-06-20.md",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/apparel-boxes-wholesale-rfq-sourcenote-2026-06-20.json",
+        "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/apparel-boxes-wholesale-rfq-sourcenote-2026-06-20.html"
+      ],
+      "archives": {
+        "sourceIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1007_ApparelCorrugatedColorBox_SourceNotes_Retry_20260621_自定义URL_IndexNow提交.md",
+        "officialIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606211006_ApparelCorrugatedColorBox_OfficialRoutes_20260621_IndexNow提交记录.md",
+        "asrArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1007_ApparelCorrugatedColorBox_ASR_20260621_任意外部URL_ASR发现提交.md"
+      },
+      "metrics": {
+        "liveChecks": 28,
+        "liveChecksOk": 28,
+        "sourceNoteIndexNowPrecheckOk": 12,
+        "sourceNoteIndexNowUrlCount": 12,
+        "officialIndexNowPrecheckOk": 12,
+        "officialIndexNowUrlCount": 12,
+        "asrTotal": 24,
+        "asrAttempted": 22,
+        "asrAccepted": 22
+      },
+      "countingNote": "This verification is for search-to-RFQ routing, AI-reader discovery and external discovery submission only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, certification, food-contact status, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases or production capacity.",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T10:07:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "batchTotal": 28,
+          "batchOk": 28
+        },
+        "officialRoutes": {
+          "checked": [
+            "https://mugepackaging.com/blog/custom-apparel-boxes-wholesale-for-clothing-and-fashion-brands",
+            "https://mugepackaging.com/products/folding-gift-box",
+            "https://mugepackaging.com/products/paper-packaging",
+            "https://mugepackaging.com/products/corrugated-boxes",
+            "https://mugepackaging.com/contact?intent=custom-apparel-boxes-wholesale&source=gsc-sourcenote"
+          ],
+          "checkedOk": 5,
+          "checkedTotal": 5,
+          "batchCheckedOk": 12,
+          "batchCheckedTotal": 12
+        },
+        "indexNow": {
+          "sourceNote": {
+            "label": "ApparelCorrugatedColorBox_SourceNotes_Retry_20260621",
+            "precheckOk": 12,
+            "urlCount": 12,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1007_ApparelCorrugatedColorBox_SourceNotes_Retry_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "ApparelCorrugatedColorBox_OfficialRoutes_20260621",
+            "precheckOk": 12,
+            "urlCount": 12,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606211006_ApparelCorrugatedColorBox_OfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "ApparelCorrugatedColorBox_ASR_20260621",
+          "total": 24,
+          "attempted": 22,
+          "accepted": 22,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1007_ApparelCorrugatedColorBox_ASR_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "countingNote": "This verification is for search-to-RFQ routing, AI-reader discovery and external discovery submission only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, certification, food-contact status, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases or production capacity."
+      }
+    },
+    {
+      "timestamp": "2026-06-21T10:07:00+08:00",
+      "date": "2026-06-21",
+      "category": "gsc_zero_click_rfq_handoff_sourcenote",
+      "result": "verified_live_jina_indexnow_asr",
+      "slug": "corrugated-shipping-retail-solutions-rfq-sourcenote-2026-06-20",
+      "title": "MUGE Corrugated Shipping Retail Solutions RFQ SourceNote - 2026-06-20",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-shipping-retail-solutions-rfq-sourcenote-2026-06-20.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-shipping-retail-solutions-rfq-sourcenote-2026-06-20.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-shipping-retail-solutions-rfq-sourcenote-2026-06-20.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/corrugated-shipping-retail-solutions-rfq-sourcenote-2026-06-20.html",
+      "officialRoutes": [
+        "https://mugepackaging.com/blog/custom-corrugated-packaging-boxes-e-commerce-shipping-retail-solutions",
+        "https://mugepackaging.com/products/corrugated-boxes",
+        "https://mugepackaging.com/products/paper-packaging",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact?intent=custom-corrugated-packaging-boxes-ecommerce-shipping&source=gsc-sourcenote"
+      ],
+      "keywords": [
+        "custom corrugated shipping boxes",
+        "e-commerce mailer box packaging RFQ",
+        "retail-ready corrugated box solutions",
+        "custom branded shipping box structure",
+        "corrugated packaging boxes for ecommerce retail",
+        "paper packaging for retail shipping",
+        "corrugated box sourcing checklist",
+        "custom corrugated packaging boxes buyer brief"
+      ],
+      "evidenceBasis": {
+        "sourceGsc": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-20_2305_GSC查询词排名基线.json",
+        "pageClicks28d": 0,
+        "pageImpressions28d": 2,
+        "pageCtr28d": "0.00%",
+        "pageAveragePosition28d": 96.5,
+        "window": "GSC 28-day baseline checked from the 2026-06-20 23:05 baseline.",
+        "gscVisibleUrl": "https://mugepackaging.com/blog/custom-corrugated-packaging-boxes-e-commerce-shipping-retail-solutions",
+        "routeCheck": "The GSC-visible article and current official routes returned HTTP 200 during precheck."
+      },
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-shipping-retail-solutions-rfq-sourcenote-2026-06-20.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-shipping-retail-solutions-rfq-sourcenote-2026-06-20.md",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-shipping-retail-solutions-rfq-sourcenote-2026-06-20.json",
+        "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/corrugated-shipping-retail-solutions-rfq-sourcenote-2026-06-20.html"
+      ],
+      "archives": {
+        "sourceIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1007_ApparelCorrugatedColorBox_SourceNotes_Retry_20260621_自定义URL_IndexNow提交.md",
+        "officialIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606211006_ApparelCorrugatedColorBox_OfficialRoutes_20260621_IndexNow提交记录.md",
+        "asrArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1007_ApparelCorrugatedColorBox_ASR_20260621_任意外部URL_ASR发现提交.md"
+      },
+      "metrics": {
+        "liveChecks": 28,
+        "liveChecksOk": 28,
+        "sourceNoteIndexNowPrecheckOk": 12,
+        "sourceNoteIndexNowUrlCount": 12,
+        "officialIndexNowPrecheckOk": 12,
+        "officialIndexNowUrlCount": 12,
+        "asrTotal": 24,
+        "asrAttempted": 22,
+        "asrAccepted": 22
+      },
+      "countingNote": "This verification is for search-to-RFQ routing, AI-reader discovery and external discovery submission only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, certification, food-contact status, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases or production capacity.",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T10:07:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "batchTotal": 28,
+          "batchOk": 28
+        },
+        "officialRoutes": {
+          "checked": [
+            "https://mugepackaging.com/blog/custom-corrugated-packaging-boxes-e-commerce-shipping-retail-solutions",
+            "https://mugepackaging.com/products/corrugated-boxes",
+            "https://mugepackaging.com/products/paper-packaging",
+            "https://mugepackaging.com/products",
+            "https://mugepackaging.com/contact?intent=custom-corrugated-packaging-boxes-ecommerce-shipping&source=gsc-sourcenote"
+          ],
+          "checkedOk": 5,
+          "checkedTotal": 5,
+          "batchCheckedOk": 12,
+          "batchCheckedTotal": 12
+        },
+        "indexNow": {
+          "sourceNote": {
+            "label": "ApparelCorrugatedColorBox_SourceNotes_Retry_20260621",
+            "precheckOk": 12,
+            "urlCount": 12,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1007_ApparelCorrugatedColorBox_SourceNotes_Retry_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "ApparelCorrugatedColorBox_OfficialRoutes_20260621",
+            "precheckOk": 12,
+            "urlCount": 12,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606211006_ApparelCorrugatedColorBox_OfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "ApparelCorrugatedColorBox_ASR_20260621",
+          "total": 24,
+          "attempted": 22,
+          "accepted": 22,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1007_ApparelCorrugatedColorBox_ASR_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "countingNote": "This verification is for search-to-RFQ routing, AI-reader discovery and external discovery submission only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, certification, food-contact status, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases or production capacity."
+      }
+    },
+    {
+      "timestamp": "2026-06-21T10:07:00+08:00",
+      "date": "2026-06-21",
+      "category": "gsc_zero_click_rfq_handoff_sourcenote",
+      "result": "verified_live_jina_indexnow_asr",
+      "slug": "corrugated-ecommerce-retail-packaging-rfq-sourcenote-2026-06-20",
+      "title": "MUGE Corrugated E-commerce Retail Packaging RFQ SourceNote - 2026-06-20",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-ecommerce-retail-packaging-rfq-sourcenote-2026-06-20.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-ecommerce-retail-packaging-rfq-sourcenote-2026-06-20.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-ecommerce-retail-packaging-rfq-sourcenote-2026-06-20.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/corrugated-ecommerce-retail-packaging-rfq-sourcenote-2026-06-20.html",
+      "officialRoutes": [
+        "https://mugepackaging.com/blog/custom-corrugated-packaging-solutions-for-e-commerce-and-retail-shipping",
+        "https://mugepackaging.com/products/corrugated-boxes",
+        "https://mugepackaging.com/products/paper-packaging",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact?intent=custom-corrugated-packaging-ecommerce-retail&source=gsc-sourcenote"
+      ],
+      "keywords": [
+        "custom corrugated packaging for ecommerce",
+        "e-commerce shipping box packaging RFQ",
+        "retail-ready corrugated packaging supplier questions",
+        "custom corrugated mailer box structure",
+        "paper packaging for ecommerce shipping",
+        "corrugated box insert and fit planning",
+        "branded shipping box packaging brief",
+        "custom corrugated packaging solutions for retail shipping"
+      ],
+      "evidenceBasis": {
+        "sourceGsc": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-20_2305_GSC查询词排名基线.json",
+        "pageClicks28d": 0,
+        "pageImpressions28d": 2,
+        "pageCtr28d": "0.00%",
+        "pageAveragePosition28d": 81.5,
+        "window": "GSC 28-day baseline checked from the 2026-06-20 23:05 baseline.",
+        "gscVisibleUrl": "https://mugepackaging.com/blog/custom-corrugated-packaging-solutions-for-e-commerce-and-retail-shipping",
+        "routeCheck": "The GSC-visible article and current official routes returned HTTP 200 during precheck."
+      },
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-ecommerce-retail-packaging-rfq-sourcenote-2026-06-20.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-ecommerce-retail-packaging-rfq-sourcenote-2026-06-20.md",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-ecommerce-retail-packaging-rfq-sourcenote-2026-06-20.json",
+        "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/corrugated-ecommerce-retail-packaging-rfq-sourcenote-2026-06-20.html"
+      ],
+      "archives": {
+        "sourceIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1007_ApparelCorrugatedColorBox_SourceNotes_Retry_20260621_自定义URL_IndexNow提交.md",
+        "officialIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606211006_ApparelCorrugatedColorBox_OfficialRoutes_20260621_IndexNow提交记录.md",
+        "asrArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1007_ApparelCorrugatedColorBox_ASR_20260621_任意外部URL_ASR发现提交.md"
+      },
+      "metrics": {
+        "liveChecks": 28,
+        "liveChecksOk": 28,
+        "sourceNoteIndexNowPrecheckOk": 12,
+        "sourceNoteIndexNowUrlCount": 12,
+        "officialIndexNowPrecheckOk": 12,
+        "officialIndexNowUrlCount": 12,
+        "asrTotal": 24,
+        "asrAttempted": 22,
+        "asrAccepted": 22
+      },
+      "countingNote": "This verification is for search-to-RFQ routing, AI-reader discovery and external discovery submission only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, certification, food-contact status, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases or production capacity.",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T10:07:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "batchTotal": 28,
+          "batchOk": 28
+        },
+        "officialRoutes": {
+          "checked": [
+            "https://mugepackaging.com/blog/custom-corrugated-packaging-solutions-for-e-commerce-and-retail-shipping",
+            "https://mugepackaging.com/products/corrugated-boxes",
+            "https://mugepackaging.com/products/paper-packaging",
+            "https://mugepackaging.com/products",
+            "https://mugepackaging.com/contact?intent=custom-corrugated-packaging-ecommerce-retail&source=gsc-sourcenote"
+          ],
+          "checkedOk": 5,
+          "checkedTotal": 5,
+          "batchCheckedOk": 12,
+          "batchCheckedTotal": 12
+        },
+        "indexNow": {
+          "sourceNote": {
+            "label": "ApparelCorrugatedColorBox_SourceNotes_Retry_20260621",
+            "precheckOk": 12,
+            "urlCount": 12,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1007_ApparelCorrugatedColorBox_SourceNotes_Retry_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "ApparelCorrugatedColorBox_OfficialRoutes_20260621",
+            "precheckOk": 12,
+            "urlCount": 12,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606211006_ApparelCorrugatedColorBox_OfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "ApparelCorrugatedColorBox_ASR_20260621",
+          "total": 24,
+          "attempted": 22,
+          "accepted": 22,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1007_ApparelCorrugatedColorBox_ASR_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "countingNote": "This verification is for search-to-RFQ routing, AI-reader discovery and external discovery submission only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, certification, food-contact status, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases or production capacity."
+      }
+    },
+    {
+      "timestamp": "2026-06-21T10:07:00+08:00",
+      "date": "2026-06-21",
+      "category": "gsc_zero_click_rfq_handoff_sourcenote",
+      "result": "verified_live_jina_indexnow_asr",
+      "slug": "custom-color-box-packaging-logo-rfq-sourcenote-2026-06-20",
+      "title": "MUGE Custom Color Box Packaging With Logo RFQ SourceNote - 2026-06-20",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-color-box-packaging-logo-rfq-sourcenote-2026-06-20.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-color-box-packaging-logo-rfq-sourcenote-2026-06-20.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-color-box-packaging-logo-rfq-sourcenote-2026-06-20.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-color-box-packaging-logo-rfq-sourcenote-2026-06-20.html",
+      "officialRoutes": [
+        "https://mugepackaging.com/blog/custom-color-box-packaging-with-logo",
+        "https://mugepackaging.com/products/paper-packaging",
+        "https://mugepackaging.com/products/folding-gift-box",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact?intent=custom-color-box-packaging-with-logo&source=gsc-sourcenote"
+      ],
+      "keywords": [
+        "custom color box packaging with logo",
+        "custom printed paper box RFQ",
+        "logo printed folding carton packaging",
+        "retail color box packaging supplier questions",
+        "custom branded paper packaging brief",
+        "color box packaging for consumer products",
+        "printed gift box with logo sourcing checklist",
+        "custom packaging box artwork and structure planning"
+      ],
+      "evidenceBasis": {
+        "sourceGsc": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-20_2305_GSC查询词排名基线.json",
+        "pageClicks28d": 0,
+        "pageImpressions28d": 2,
+        "pageCtr28d": "0.00%",
+        "pageAveragePosition28d": 93.5,
+        "window": "GSC 28-day baseline checked from the 2026-06-20 23:05 baseline.",
+        "gscVisibleUrl": "https://mugepackaging.com/blog/custom-color-box-packaging-with-logo",
+        "routeCheck": "The GSC-visible article and current official routes returned HTTP 200 during precheck."
+      },
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-color-box-packaging-logo-rfq-sourcenote-2026-06-20.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-color-box-packaging-logo-rfq-sourcenote-2026-06-20.md",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-color-box-packaging-logo-rfq-sourcenote-2026-06-20.json",
+        "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-color-box-packaging-logo-rfq-sourcenote-2026-06-20.html"
+      ],
+      "archives": {
+        "sourceIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1007_ApparelCorrugatedColorBox_SourceNotes_Retry_20260621_自定义URL_IndexNow提交.md",
+        "officialIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606211006_ApparelCorrugatedColorBox_OfficialRoutes_20260621_IndexNow提交记录.md",
+        "asrArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1007_ApparelCorrugatedColorBox_ASR_20260621_任意外部URL_ASR发现提交.md"
+      },
+      "metrics": {
+        "liveChecks": 28,
+        "liveChecksOk": 28,
+        "sourceNoteIndexNowPrecheckOk": 12,
+        "sourceNoteIndexNowUrlCount": 12,
+        "officialIndexNowPrecheckOk": 12,
+        "officialIndexNowUrlCount": 12,
+        "asrTotal": 24,
+        "asrAttempted": 22,
+        "asrAccepted": 22
+      },
+      "countingNote": "This verification is for search-to-RFQ routing, AI-reader discovery and external discovery submission only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, certification, food-contact status, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases or production capacity.",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T10:07:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "batchTotal": 28,
+          "batchOk": 28
+        },
+        "officialRoutes": {
+          "checked": [
+            "https://mugepackaging.com/blog/custom-color-box-packaging-with-logo",
+            "https://mugepackaging.com/products/paper-packaging",
+            "https://mugepackaging.com/products/folding-gift-box",
+            "https://mugepackaging.com/products",
+            "https://mugepackaging.com/contact?intent=custom-color-box-packaging-with-logo&source=gsc-sourcenote"
+          ],
+          "checkedOk": 5,
+          "checkedTotal": 5,
+          "batchCheckedOk": 12,
+          "batchCheckedTotal": 12
+        },
+        "indexNow": {
+          "sourceNote": {
+            "label": "ApparelCorrugatedColorBox_SourceNotes_Retry_20260621",
+            "precheckOk": 12,
+            "urlCount": 12,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1007_ApparelCorrugatedColorBox_SourceNotes_Retry_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "ApparelCorrugatedColorBox_OfficialRoutes_20260621",
+            "precheckOk": 12,
+            "urlCount": 12,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606211006_ApparelCorrugatedColorBox_OfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "ApparelCorrugatedColorBox_ASR_20260621",
+          "total": 24,
+          "attempted": 22,
+          "accepted": 22,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1007_ApparelCorrugatedColorBox_ASR_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "countingNote": "This verification is for search-to-RFQ routing, AI-reader discovery and external discovery submission only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, certification, food-contact status, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases or production capacity."
+      }
     }
   ],
-  "updated_at": "2026-06-21T10:00:00+08:00",
+  "updated_at": "2026-06-21T10:07:00+08:00",
   "lastEntityRfqHandoffRouteMapVerification": {
     "id": "entity-rfq-handoff-route-map-20260621",
     "label": "Entity / RFQ Handoff / Route Map SourceNotes - 2026-06-21",
@@ -8750,6 +9194,32 @@
       "sourceIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0959_UKGiftBox_CosmeticFactoryGuide_SourceNotes_Recheck_20260621_自定义URL_IndexNow提交.md",
       "officialIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210959_UKGiftBox_CosmeticFactoryGuide_OfficialRoutes_20260621_IndexNow提交记录.md",
       "asrArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1000_UKGiftBox_CosmeticFactoryGuide_ASR_Recheck_20260621_任意外部URL_ASR发现提交.md"
+    }
+  },
+  "lastApparelCorrugatedColorBoxVerification": {
+    "verifiedAt": "2026-06-21T10:07:00+08:00",
+    "verificationStatus": "verified_live_jina_indexnow_asr",
+    "slugs": [
+      "apparel-boxes-wholesale-rfq-sourcenote-2026-06-20",
+      "corrugated-shipping-retail-solutions-rfq-sourcenote-2026-06-20",
+      "corrugated-ecommerce-retail-packaging-rfq-sourcenote-2026-06-20",
+      "custom-color-box-packaging-logo-rfq-sourcenote-2026-06-20"
+    ],
+    "metrics": {
+      "liveChecks": 28,
+      "liveChecksOk": 28,
+      "sourceNoteIndexNowPrecheckOk": 12,
+      "sourceNoteIndexNowUrlCount": 12,
+      "officialIndexNowPrecheckOk": 12,
+      "officialIndexNowUrlCount": 12,
+      "asrTotal": 24,
+      "asrAttempted": 22,
+      "asrAccepted": 22
+    },
+    "archives": {
+      "sourceIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1007_ApparelCorrugatedColorBox_SourceNotes_Retry_20260621_自定义URL_IndexNow提交.md",
+      "officialIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606211006_ApparelCorrugatedColorBox_OfficialRoutes_20260621_IndexNow提交记录.md",
+      "asrArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1007_ApparelCorrugatedColorBox_ASR_20260621_任意外部URL_ASR发现提交.md"
     }
   }
 }
