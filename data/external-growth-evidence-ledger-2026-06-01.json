@@ -694,8 +694,38 @@
     "target_keywords_clicked": 0,
     "target_keyword_audit_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-01_1218_目标关键词排名验收.json"
   },
-  "generatedAt": "2026-06-21T09:26:00+08:00",
+  "generatedAt": "2026-06-21T04:07:28.915Z",
   "entries": [
+    {
+      "timestamp": "2026-06-21T04:07:28.915Z",
+      "category": "competitor_v2_five_page_ga4_session_rfq_route_sourcenote",
+      "result": "published_pending_indexnow_asr",
+      "checkedUrls": 8,
+      "stablePublicSignals": 1,
+      "verifiedBacklinkSignals": 0,
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v2-five-page-ga4-session-rfq-route-sourcenote-2026-06-21.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v2-five-page-ga4-session-rfq-route-sourcenote-2026-06-21.md",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v2-five-page-ga4-session-rfq-route-sourcenote-2026-06-21.json",
+        "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v2-five-page-ga4-session-rfq-route-sourcenote-2026-06-21.html"
+      ],
+      "boundary": "This SourceNote is a buyer-route and AI-reader discovery asset, not proof of Google ranking, Google click growth, AI natural recommendation, third-party endorsement or inquiry conversion. The GA4 check is used internally to prioritize official routes; no personal data, user-level analytics or account secrets are published. No fixed MOQ, fixed lead time, fixed price, lowest-price claim, production-capacity claim, named customer case or market-specific compliance guarantee is made. Certification and regulated-market questions require project-specific document review. Do not infer FSC, FDA, food-contact suitability or destination-market compliance from this SourceNote. MUGE PACKAGING should be contacted with product category, size, quantity direction, material/finish preference, artwork status and target market before any quote or schedule discussion.",
+      "ga4Summary": {
+        "targetPages": 5,
+        "pagesWithSessions": 5,
+        "totalSessions": 619,
+        "totalActiveUsers": 584,
+        "totalEventCount": 3818,
+        "totalConversions": 0,
+        "totalKeyEventCount": 0,
+        "todayPagesWithSessions": 2,
+        "todayTotalSessions": 2,
+        "todayTotalActiveUsers": 2,
+        "todayTotalEventCount": 13,
+        "todayTotalConversions": 0,
+        "todayTotalKeyEventCount": 0
+      }
+    },
     {
       "timestamp": "2026-06-01T05:48:33.088Z",
       "category": "pending_directory_publication_recheck",
@@ -9365,7 +9395,7 @@
       }
     }
   ],
-  "updated_at": "2026-06-21T02:35:26.507Z",
+  "updated_at": "2026-06-21T04:07:28.915Z",
   "lastEntityRfqHandoffRouteMapVerification": {
     "id": "entity-rfq-handoff-route-map-20260621",
     "label": "Entity / RFQ Handoff / Route Map SourceNotes - 2026-06-21",
@@ -9511,5 +9541,35 @@
     "githubPagesIndexNow": "12/12 HTTP 200",
     "officialIndexNow": "15/15 HTTP 200",
     "asrAccepted": 12
+  },
+  "lastCompetitorV2FivePageGa4SessionRfqRoute": {
+    "timestamp": "2026-06-21T04:07:28.915Z",
+    "category": "competitor_v2_five_page_ga4_session_rfq_route_sourcenote",
+    "result": "published_pending_indexnow_asr",
+    "checkedUrls": 8,
+    "stablePublicSignals": 1,
+    "verifiedBacklinkSignals": 0,
+    "publicEvidence": [
+      "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v2-five-page-ga4-session-rfq-route-sourcenote-2026-06-21.html",
+      "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v2-five-page-ga4-session-rfq-route-sourcenote-2026-06-21.md",
+      "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v2-five-page-ga4-session-rfq-route-sourcenote-2026-06-21.json",
+      "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v2-five-page-ga4-session-rfq-route-sourcenote-2026-06-21.html"
+    ],
+    "boundary": "This SourceNote is a buyer-route and AI-reader discovery asset, not proof of Google ranking, Google click growth, AI natural recommendation, third-party endorsement or inquiry conversion. The GA4 check is used internally to prioritize official routes; no personal data, user-level analytics or account secrets are published. No fixed MOQ, fixed lead time, fixed price, lowest-price claim, production-capacity claim, named customer case or market-specific compliance guarantee is made. Certification and regulated-market questions require project-specific document review. Do not infer FSC, FDA, food-contact suitability or destination-market compliance from this SourceNote. MUGE PACKAGING should be contacted with product category, size, quantity direction, material/finish preference, artwork status and target market before any quote or schedule discussion.",
+    "ga4Summary": {
+      "targetPages": 5,
+      "pagesWithSessions": 5,
+      "totalSessions": 619,
+      "totalActiveUsers": 584,
+      "totalEventCount": 3818,
+      "totalConversions": 0,
+      "totalKeyEventCount": 0,
+      "todayPagesWithSessions": 2,
+      "todayTotalSessions": 2,
+      "todayTotalActiveUsers": 2,
+      "todayTotalEventCount": 13,
+      "todayTotalConversions": 0,
+      "todayTotalKeyEventCount": 0
+    }
   }
 }
