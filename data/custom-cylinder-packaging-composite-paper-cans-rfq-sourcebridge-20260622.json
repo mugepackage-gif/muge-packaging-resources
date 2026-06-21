@@ -1,0 +1,80 @@
+{
+  "generated_at": "2026-06-22T07:40:00+08:00",
+  "asset_type": "gsc_weak_signal_sourcebridge",
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_route": "https://mugepackaging.com/products/paper-tubes",
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-cylinder-packaging-composite-paper-cans-rfq-sourcebridge-20260622.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-cylinder-packaging-composite-paper-cans-rfq-sourcebridge-20260622.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-cylinder-packaging-composite-paper-cans-rfq-sourcebridge-20260622.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-cylinder-packaging-composite-paper-cans-rfq-sourcebridge-20260622.html"
+  },
+  "source_signal": {
+    "source": "Google Search Console query baseline",
+    "baseline_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-22_0732_GSC查询词排名基线.json",
+    "queries": [
+      {
+        "query": "custom cylinder packaging",
+        "window": "last_7_days",
+        "impressions": 1,
+        "clicks": 0,
+        "average_position": 62
+      },
+      {
+        "query": "composite paper cans",
+        "window": "last_7_days",
+        "impressions": 2,
+        "clicks": 0,
+        "average_position": 82
+      },
+      {
+        "query": "custom paper tube",
+        "window": "last_7_days",
+        "impressions": 1,
+        "clicks": 0,
+        "average_position": 80
+      },
+      {
+        "query": "eco friendly tube packaging",
+        "window": "last_7_days",
+        "impressions": 1,
+        "clicks": 0,
+        "average_position": 29
+      }
+    ]
+  },
+  "buyer_intent_map": [
+    {
+      "query": "custom cylinder packaging",
+      "intent": "Diameter, height, lid direction, rigidness, artwork area and retail-display comparison.",
+      "route": "Prepare product dimensions, weight, cap style and artwork status before RFQ."
+    },
+    {
+      "query": "composite paper cans",
+      "intent": "A cylindrical paper package with buyer-specific structure, inner surface, closure and decoration decisions.",
+      "route": "Ask for project-specific review; do not treat public pages as fixed compliance, price, MOQ or delivery promises."
+    },
+    {
+      "query": "custom paper tube",
+      "intent": "Custom size, paperboard direction, surface finish, cap/plug style and packing protection review.",
+      "route": "Compare tube body, closure, print coverage, insert support and export carton packing before sampling."
+    },
+    {
+      "query": "eco friendly tube packaging",
+      "intent": "Material and structure discussion for brands that need paper-based cylindrical retail packaging.",
+      "route": "Confirm product use, destination market and buyer-supplied document requests by project."
+    }
+  ],
+  "boundaries": [
+    "No verified supplier status claim",
+    "No platform ranking claim",
+    "No fixed MOQ",
+    "No fixed delivery time",
+    "No food-contact compliance claim",
+    "No FDA/FSC/BSCI certification claim",
+    "No customer case claim",
+    "No production capacity claim",
+    "No lowest-price claim"
+  ]
+}

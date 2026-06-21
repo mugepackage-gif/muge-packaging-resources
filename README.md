@@ -4407,3 +4407,15 @@ Target queries: clear PET box manufacturer; clear PVC boxes wholesale; clear box
 
 Boundary: public source-routing and RFQ preparation only; not ranking, traffic, inquiry, certification, endorsement, fixed MOQ, fixed lead time or fixed price proof.
 <!-- gsc-clear-pet-pvc-manufacturer-wholesale-sourcebridge-2026-06-22:end -->
+
+<!-- gsc-custom-cylinder-composite-paper-cans-sourcebridge-2026-06-22:start -->
+# GSC weak-signal custom cylinder packaging and composite paper cans SourceBridge (2026-06-22)
+
+- [custom cylinder packaging and composite paper cans RFQ SourceBridge](https://mugepackage-gif.github.io/muge-packaging-resources/custom-cylinder-packaging-composite-paper-cans-rfq-sourcebridge-20260622.html) | [MD](https://mugepackage-gif.github.io/muge-packaging-resources/custom-cylinder-packaging-composite-paper-cans-rfq-sourcebridge-20260622.md) | [JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-cylinder-packaging-composite-paper-cans-rfq-sourcebridge-20260622.json) | [Jina](https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-cylinder-packaging-composite-paper-cans-rfq-sourcebridge-20260622.html)
+
+Official route: https://mugepackaging.com/products/paper-tubes
+
+Target queries: custom cylinder packaging; composite paper cans; custom paper tube; eco friendly tube packaging.
+
+Boundary: public source-routing and RFQ preparation only; not ranking, traffic, inquiry, certification, endorsement, fixed MOQ, fixed lead time or fixed price proof.
+<!-- gsc-custom-cylinder-composite-paper-cans-sourcebridge-2026-06-22:end -->
