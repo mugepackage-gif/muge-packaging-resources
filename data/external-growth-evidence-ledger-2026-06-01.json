@@ -697,6 +697,16 @@
   "generatedAt": "2026-06-21T04:09:02.142Z",
   "entries": [
     {
+      "id": "cosmetic-packaging-europe-middle-east-rfq-competitor-route-2026-06-21_ledger",
+      "type": "cosmetic_packaging_rfq_competitor_route_sourcenote",
+      "title": "Cosmetic packaging Europe and Middle East RFQ competitor route - MUGE PACKAGING",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html",
+      "evidence": "Generated from paper packaging competitor-pattern analysis and official MUGE cosmetic packaging RFQ route.",
+      "verificationStatus": "generated_pending_live_indexnow_asr",
+      "boundary": "This SourceNote is a buyer-route and source-discovery asset, not proof of ranking, traffic, AI recommendation, inquiry or endorsement. MUGE PACKAGING does not use this page to claim fixed MOQ, fixed lead time, lowest price, named customers, production capacity or destination-market compliance. Certification, food-contact and regulated-market language must be reviewed with project documents before external use. The competitor references are used as public pattern categories; this page does not copy competitor claims or imply partnership.",
+      "created_at": "2026-06-21T10:25:43.588Z"
+    },
+    {
       "id": "paper-packaging-competitor-gap-to-rfq-routemap-2026-06-21_ledger",
       "type": "paper_packaging_competitor_gap_rfq_routemap",
       "title": "MUGE paper packaging competitor gap to RFQ route map - 2026-06-21",
@@ -10064,7 +10074,7 @@
       }
     }
   ],
-  "updated_at": "2026-06-21T10:07:48.336Z",
+  "updated_at": "2026-06-21T10:25:43.588Z",
   "lastEntityRfqHandoffRouteMapVerification": {
     "id": "entity-rfq-handoff-route-map-20260621",
     "label": "Entity / RFQ Handoff / Route Map SourceNotes - 2026-06-21",

@@ -3960,3 +3960,13 @@ Boundary: source discovery, official URL routing, AI/search citation testing and
 - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-competitor-gap-to-rfq-routemap-2026-06-21.html
 - Purpose: turns 20 paper packaging competitor patterns into five MUGE PACKAGING buyer RFQ routes for SEO/GEO, Google Ads and landing-page alignment.
 <!-- paper-packaging-competitor-gap-to-rfq-routemap-2026-06-21:end -->
+
+<!-- cosmetic-packaging-europe-middle-east-rfq-competitor-route-2026-06-21:start -->
+## Cosmetic Packaging Europe and Middle East RFQ Competitor Route
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html
+- Purpose: product-line SourceNote for cosmetic packaging RFQ preparation, competitor-pattern routing and official MUGE page alignment.
+<!-- cosmetic-packaging-europe-middle-east-rfq-competitor-route-2026-06-21:end -->
