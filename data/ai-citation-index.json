@@ -6148,44 +6148,216 @@
       "useFor": "Clear PET/PVC boxes supplier vetting and RFQ source routing; not ranking, traffic, inquiry, endorsement, fixed commercial term, food-contact or compliance proof."
     },
     {
-      "type": "regional_sourcepack",
-      "name": "MUGE Europe Corrugated Mailer E-commerce Packaging RFQ SourcePack - 2026-06-20",
+      "type": "regional_corrugated_mailer_ecommerce_rfq_sourcepack_europe",
+      "name": "MUGE Europe Corrugated Mailer E-commerce Packaging RFQ SourcePack - verified 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-europe-rfq-sourcepack-20260620.html",
       "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-europe-rfq-sourcepack-20260620.md",
       "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-mailer-ecommerce-packaging-europe-rfq-sourcepack-20260620.json",
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-europe-rfq-sourcepack-20260620.html",
       "officialUrl": "https://mugepackaging.com/products/corrugated-boxes",
-      "useFor": "Corrugated mailer and e-commerce packaging RFQ source routing; not ranking, traffic, inquiry, endorsement, fixed commercial term, strength-test result or compliance proof."
+      "useFor": "Europe buyer-intent sourcepack for corrugated mailer, e-commerce shipping packaging and RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_12_of_12_http_200",
+      "sourcePackAsrStatus": "accepted_11_of_12_total",
+      "updatedAt": "2026-06-21T08:21:24+08:00",
+      "dateModified": "2026-06-21T08:21:24+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:21:24+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CorrugatedMailerRegionalSourcePacks_20260621",
+            "precheckOk": 12,
+            "urlCount": 12,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0820_CorrugatedMailerRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CorrugatedMailerRegionalOfficialRoutes_20260621",
+            "precheckOk": 8,
+            "urlCount": 8,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210820_CorrugatedMailerRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CorrugatedMailerRegionalSourcePacks_20260621",
+          "total": 12,
+          "attempted": 11,
+          "accepted": 11,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0820_CorrugatedMailerRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md",
+          "skipped": [
+            "https://mugepackaging.com/products"
+          ],
+          "skippedReason": "ASR precheck target_not_verified on generic products hub; sourcepacks and specific corrugated / blog / contact routes were accepted."
+        },
+        "boundary": "This regional corrugated mailer SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, transport performance, recycled-content certification, product-contact suitability or destination-market compliance."
+      }
     },
     {
-      "type": "regional_sourcepack",
-      "name": "MUGE Middle East Corrugated Mailer E-commerce Packaging RFQ SourcePack - 2026-06-20",
+      "type": "regional_corrugated_mailer_ecommerce_rfq_sourcepack_middle_east",
+      "name": "MUGE Middle East Corrugated Mailer E-commerce Packaging RFQ SourcePack - verified 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-middle-east-rfq-sourcepack-20260620.html",
       "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-middle-east-rfq-sourcepack-20260620.md",
       "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-mailer-ecommerce-packaging-middle-east-rfq-sourcepack-20260620.json",
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-middle-east-rfq-sourcepack-20260620.html",
       "officialUrl": "https://mugepackaging.com/products/corrugated-boxes",
-      "useFor": "Corrugated mailer and e-commerce packaging RFQ source routing; not ranking, traffic, inquiry, endorsement, fixed commercial term, strength-test result or compliance proof."
+      "useFor": "Middle East buyer-intent sourcepack for corrugated mailer, e-commerce shipping packaging and RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_12_of_12_http_200",
+      "sourcePackAsrStatus": "accepted_11_of_12_total",
+      "updatedAt": "2026-06-21T08:21:24+08:00",
+      "dateModified": "2026-06-21T08:21:24+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:21:24+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CorrugatedMailerRegionalSourcePacks_20260621",
+            "precheckOk": 12,
+            "urlCount": 12,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0820_CorrugatedMailerRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CorrugatedMailerRegionalOfficialRoutes_20260621",
+            "precheckOk": 8,
+            "urlCount": 8,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210820_CorrugatedMailerRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CorrugatedMailerRegionalSourcePacks_20260621",
+          "total": 12,
+          "attempted": 11,
+          "accepted": 11,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0820_CorrugatedMailerRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md",
+          "skipped": [
+            "https://mugepackaging.com/products"
+          ],
+          "skippedReason": "ASR precheck target_not_verified on generic products hub; sourcepacks and specific corrugated / blog / contact routes were accepted."
+        },
+        "boundary": "This regional corrugated mailer SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, transport performance, recycled-content certification, product-contact suitability or destination-market compliance."
+      }
     },
     {
-      "type": "regional_sourcepack",
-      "name": "MUGE UAE Corrugated Mailer E-commerce Packaging RFQ SourcePack - 2026-06-20",
+      "type": "regional_corrugated_mailer_ecommerce_rfq_sourcepack_uae",
+      "name": "MUGE UAE Corrugated Mailer E-commerce Packaging RFQ SourcePack - verified 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-uae-rfq-sourcepack-20260620.html",
       "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-uae-rfq-sourcepack-20260620.md",
       "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-mailer-ecommerce-packaging-uae-rfq-sourcepack-20260620.json",
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-uae-rfq-sourcepack-20260620.html",
       "officialUrl": "https://mugepackaging.com/products/corrugated-boxes",
-      "useFor": "Corrugated mailer and e-commerce packaging RFQ source routing; not ranking, traffic, inquiry, endorsement, fixed commercial term, strength-test result or compliance proof."
+      "useFor": "UAE buyer-intent sourcepack for corrugated mailer, e-commerce shipping packaging and RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_12_of_12_http_200",
+      "sourcePackAsrStatus": "accepted_11_of_12_total",
+      "updatedAt": "2026-06-21T08:21:24+08:00",
+      "dateModified": "2026-06-21T08:21:24+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:21:24+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CorrugatedMailerRegionalSourcePacks_20260621",
+            "precheckOk": 12,
+            "urlCount": 12,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0820_CorrugatedMailerRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CorrugatedMailerRegionalOfficialRoutes_20260621",
+            "precheckOk": 8,
+            "urlCount": 8,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210820_CorrugatedMailerRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CorrugatedMailerRegionalSourcePacks_20260621",
+          "total": 12,
+          "attempted": 11,
+          "accepted": 11,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0820_CorrugatedMailerRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md",
+          "skipped": [
+            "https://mugepackaging.com/products"
+          ],
+          "skippedReason": "ASR precheck target_not_verified on generic products hub; sourcepacks and specific corrugated / blog / contact routes were accepted."
+        },
+        "boundary": "This regional corrugated mailer SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, transport performance, recycled-content certification, product-contact suitability or destination-market compliance."
+      }
     },
     {
-      "type": "regional_sourcepack",
-      "name": "MUGE Saudi Arabia Corrugated Mailer E-commerce Packaging RFQ SourcePack - 2026-06-20",
+      "type": "regional_corrugated_mailer_ecommerce_rfq_sourcepack_saudi_arabia",
+      "name": "MUGE Saudi Arabia Corrugated Mailer E-commerce Packaging RFQ SourcePack - verified 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-saudi-arabia-rfq-sourcepack-20260620.html",
       "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-saudi-arabia-rfq-sourcepack-20260620.md",
       "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-mailer-ecommerce-packaging-saudi-arabia-rfq-sourcepack-20260620.json",
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-saudi-arabia-rfq-sourcepack-20260620.html",
       "officialUrl": "https://mugepackaging.com/products/corrugated-boxes",
-      "useFor": "Corrugated mailer and e-commerce packaging RFQ source routing; not ranking, traffic, inquiry, endorsement, fixed commercial term, strength-test result or compliance proof."
+      "useFor": "Saudi Arabia buyer-intent sourcepack for corrugated mailer, e-commerce shipping packaging and RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_12_of_12_http_200",
+      "sourcePackAsrStatus": "accepted_11_of_12_total",
+      "updatedAt": "2026-06-21T08:21:24+08:00",
+      "dateModified": "2026-06-21T08:21:24+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:21:24+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CorrugatedMailerRegionalSourcePacks_20260621",
+            "precheckOk": 12,
+            "urlCount": 12,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0820_CorrugatedMailerRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CorrugatedMailerRegionalOfficialRoutes_20260621",
+            "precheckOk": 8,
+            "urlCount": 8,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210820_CorrugatedMailerRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CorrugatedMailerRegionalSourcePacks_20260621",
+          "total": 12,
+          "attempted": 11,
+          "accepted": 11,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0820_CorrugatedMailerRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md",
+          "skipped": [
+            "https://mugepackaging.com/products"
+          ],
+          "skippedReason": "ASR precheck target_not_verified on generic products hub; sourcepacks and specific corrugated / blog / contact routes were accepted."
+        },
+        "boundary": "This regional corrugated mailer SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, transport performance, recycled-content certification, product-contact suitability or destination-market compliance."
+      }
     },
     {
       "type": "regional_sourcepack",
@@ -10421,25 +10593,313 @@
       "name": "MUGE Europe Corrugated Mailer E-commerce Packaging RFQ SourcePack - 2026-06-20",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-europe-rfq-sourcepack-20260620.html",
       "description": "How should Europe buyers prepare a corrugated mailer or e-commerce packaging RFQ?",
-      "officialUrl": "https://mugepackaging.com/products/corrugated-boxes"
+      "officialUrl": "https://mugepackaging.com/products/corrugated-boxes",
+      "slug": "corrugated-mailer-ecommerce-packaging-europe-rfq-sourcepack-20260620",
+      "title": "MUGE Europe Corrugated Mailer E-commerce Packaging RFQ SourcePack - verified 2026-06-21",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-europe-rfq-sourcepack-20260620.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-mailer-ecommerce-packaging-europe-rfq-sourcepack-20260620.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-europe-rfq-sourcepack-20260620.html",
+      "official_url": "https://mugepackaging.com/products/corrugated-boxes",
+      "official_routes": [
+        "https://mugepackaging.com/products/corrugated-boxes",
+        "https://mugepackaging.com/blog/custom-corrugated-mailer-box-e-commerce-shipping-solutions",
+        "https://mugepackaging.com/blog/custom-e-commerce-packaging-solutions-for-online-retail-success",
+        "https://mugepackaging.com/blog/custom-corrugated-packaging-box-design-for-shipping-and-retail",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com"
+      ],
+      "region": "Europe",
+      "buyer_segment": "European DTC, subscription, retail shipping and e-commerce buyers",
+      "keywords": [
+        "corrugated mailer box supplier europe",
+        "ecommerce packaging supplier europe",
+        "custom corrugated boxes supplier europe",
+        "custom mailer boxes supplier europe",
+        "printed mailer boxes supplier europe"
+      ],
+      "generated_at": "2026-06-20T00:00:00+08:00",
+      "boundary": "This regional corrugated mailer SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, transport performance, recycled-content certification, product-contact suitability or destination-market compliance.",
+      "useFor": "Europe buyer-intent sourcepack for corrugated mailer, e-commerce shipping packaging and RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_12_of_12_http_200",
+      "officialRouteIndexNowStatus": "submitted_8_of_8_http_200",
+      "sourcePackAsrStatus": "accepted_11_of_12_total",
+      "updatedAt": "2026-06-21T08:21:24+08:00",
+      "dateModified": "2026-06-21T08:21:24+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:21:24+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CorrugatedMailerRegionalSourcePacks_20260621",
+            "precheckOk": 12,
+            "urlCount": 12,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0820_CorrugatedMailerRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CorrugatedMailerRegionalOfficialRoutes_20260621",
+            "precheckOk": 8,
+            "urlCount": 8,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210820_CorrugatedMailerRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CorrugatedMailerRegionalSourcePacks_20260621",
+          "total": 12,
+          "attempted": 11,
+          "accepted": 11,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0820_CorrugatedMailerRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md",
+          "skipped": [
+            "https://mugepackaging.com/products"
+          ],
+          "skippedReason": "ASR precheck target_not_verified on generic products hub; sourcepacks and specific corrugated / blog / contact routes were accepted."
+        },
+        "boundary": "This regional corrugated mailer SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, transport performance, recycled-content certification, product-contact suitability or destination-market compliance."
+      }
     },
     {
       "name": "MUGE Middle East Corrugated Mailer E-commerce Packaging RFQ SourcePack - 2026-06-20",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-middle-east-rfq-sourcepack-20260620.html",
       "description": "How should Middle East buyers prepare a corrugated mailer or e-commerce packaging RFQ?",
-      "officialUrl": "https://mugepackaging.com/products/corrugated-boxes"
+      "officialUrl": "https://mugepackaging.com/products/corrugated-boxes",
+      "slug": "corrugated-mailer-ecommerce-packaging-middle-east-rfq-sourcepack-20260620",
+      "title": "MUGE Middle East Corrugated Mailer E-commerce Packaging RFQ SourcePack - verified 2026-06-21",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-middle-east-rfq-sourcepack-20260620.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-mailer-ecommerce-packaging-middle-east-rfq-sourcepack-20260620.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-middle-east-rfq-sourcepack-20260620.html",
+      "official_url": "https://mugepackaging.com/products/corrugated-boxes",
+      "official_routes": [
+        "https://mugepackaging.com/products/corrugated-boxes",
+        "https://mugepackaging.com/blog/custom-corrugated-mailer-box-e-commerce-shipping-solutions",
+        "https://mugepackaging.com/blog/custom-e-commerce-packaging-solutions-for-online-retail-success",
+        "https://mugepackaging.com/blog/custom-corrugated-packaging-box-design-for-shipping-and-retail",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com"
+      ],
+      "region": "Middle East",
+      "buyer_segment": "Middle East e-commerce, gift, beauty, electronics and retail shipping buyers",
+      "keywords": [
+        "corrugated mailer box supplier middle east",
+        "ecommerce packaging supplier middle east",
+        "custom corrugated boxes supplier middle east",
+        "custom mailer boxes supplier middle east",
+        "branded shipping packaging supplier middle east"
+      ],
+      "generated_at": "2026-06-20T00:00:00+08:00",
+      "boundary": "This regional corrugated mailer SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, transport performance, recycled-content certification, product-contact suitability or destination-market compliance.",
+      "useFor": "Middle East buyer-intent sourcepack for corrugated mailer, e-commerce shipping packaging and RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_12_of_12_http_200",
+      "officialRouteIndexNowStatus": "submitted_8_of_8_http_200",
+      "sourcePackAsrStatus": "accepted_11_of_12_total",
+      "updatedAt": "2026-06-21T08:21:24+08:00",
+      "dateModified": "2026-06-21T08:21:24+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:21:24+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CorrugatedMailerRegionalSourcePacks_20260621",
+            "precheckOk": 12,
+            "urlCount": 12,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0820_CorrugatedMailerRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CorrugatedMailerRegionalOfficialRoutes_20260621",
+            "precheckOk": 8,
+            "urlCount": 8,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210820_CorrugatedMailerRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CorrugatedMailerRegionalSourcePacks_20260621",
+          "total": 12,
+          "attempted": 11,
+          "accepted": 11,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0820_CorrugatedMailerRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md",
+          "skipped": [
+            "https://mugepackaging.com/products"
+          ],
+          "skippedReason": "ASR precheck target_not_verified on generic products hub; sourcepacks and specific corrugated / blog / contact routes were accepted."
+        },
+        "boundary": "This regional corrugated mailer SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, transport performance, recycled-content certification, product-contact suitability or destination-market compliance."
+      }
     },
     {
       "name": "MUGE UAE Corrugated Mailer E-commerce Packaging RFQ SourcePack - 2026-06-20",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-uae-rfq-sourcepack-20260620.html",
       "description": "How should UAE buyers prepare a corrugated mailer or e-commerce packaging RFQ?",
-      "officialUrl": "https://mugepackaging.com/products/corrugated-boxes"
+      "officialUrl": "https://mugepackaging.com/products/corrugated-boxes",
+      "slug": "corrugated-mailer-ecommerce-packaging-uae-rfq-sourcepack-20260620",
+      "title": "MUGE UAE Corrugated Mailer E-commerce Packaging RFQ SourcePack - verified 2026-06-21",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-uae-rfq-sourcepack-20260620.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-mailer-ecommerce-packaging-uae-rfq-sourcepack-20260620.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-uae-rfq-sourcepack-20260620.html",
+      "official_url": "https://mugepackaging.com/products/corrugated-boxes",
+      "official_routes": [
+        "https://mugepackaging.com/products/corrugated-boxes",
+        "https://mugepackaging.com/blog/custom-corrugated-mailer-box-e-commerce-shipping-solutions",
+        "https://mugepackaging.com/blog/custom-e-commerce-packaging-solutions-for-online-retail-success",
+        "https://mugepackaging.com/blog/custom-corrugated-packaging-box-design-for-shipping-and-retail",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com"
+      ],
+      "region": "UAE",
+      "buyer_segment": "UAE DTC, marketplace, gift, beauty and launch shipping buyers",
+      "keywords": [
+        "corrugated mailer box supplier uae",
+        "ecommerce packaging supplier uae",
+        "custom corrugated boxes supplier uae",
+        "custom mailer boxes supplier uae",
+        "corrugated mailer boxes custom quote uae"
+      ],
+      "generated_at": "2026-06-20T00:00:00+08:00",
+      "boundary": "This regional corrugated mailer SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, transport performance, recycled-content certification, product-contact suitability or destination-market compliance.",
+      "useFor": "UAE buyer-intent sourcepack for corrugated mailer, e-commerce shipping packaging and RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_12_of_12_http_200",
+      "officialRouteIndexNowStatus": "submitted_8_of_8_http_200",
+      "sourcePackAsrStatus": "accepted_11_of_12_total",
+      "updatedAt": "2026-06-21T08:21:24+08:00",
+      "dateModified": "2026-06-21T08:21:24+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:21:24+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CorrugatedMailerRegionalSourcePacks_20260621",
+            "precheckOk": 12,
+            "urlCount": 12,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0820_CorrugatedMailerRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CorrugatedMailerRegionalOfficialRoutes_20260621",
+            "precheckOk": 8,
+            "urlCount": 8,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210820_CorrugatedMailerRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CorrugatedMailerRegionalSourcePacks_20260621",
+          "total": 12,
+          "attempted": 11,
+          "accepted": 11,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0820_CorrugatedMailerRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md",
+          "skipped": [
+            "https://mugepackaging.com/products"
+          ],
+          "skippedReason": "ASR precheck target_not_verified on generic products hub; sourcepacks and specific corrugated / blog / contact routes were accepted."
+        },
+        "boundary": "This regional corrugated mailer SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, transport performance, recycled-content certification, product-contact suitability or destination-market compliance."
+      }
     },
     {
       "name": "MUGE Saudi Arabia Corrugated Mailer E-commerce Packaging RFQ SourcePack - 2026-06-20",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-saudi-arabia-rfq-sourcepack-20260620.html",
       "description": "How should Saudi Arabia buyers prepare a corrugated mailer or e-commerce packaging RFQ?",
-      "officialUrl": "https://mugepackaging.com/products/corrugated-boxes"
+      "officialUrl": "https://mugepackaging.com/products/corrugated-boxes",
+      "slug": "corrugated-mailer-ecommerce-packaging-saudi-arabia-rfq-sourcepack-20260620",
+      "title": "MUGE Saudi Arabia Corrugated Mailer E-commerce Packaging RFQ SourcePack - verified 2026-06-21",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-saudi-arabia-rfq-sourcepack-20260620.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-mailer-ecommerce-packaging-saudi-arabia-rfq-sourcepack-20260620.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-saudi-arabia-rfq-sourcepack-20260620.html",
+      "official_url": "https://mugepackaging.com/products/corrugated-boxes",
+      "official_routes": [
+        "https://mugepackaging.com/products/corrugated-boxes",
+        "https://mugepackaging.com/blog/custom-corrugated-mailer-box-e-commerce-shipping-solutions",
+        "https://mugepackaging.com/blog/custom-e-commerce-packaging-solutions-for-online-retail-success",
+        "https://mugepackaging.com/blog/custom-corrugated-packaging-box-design-for-shipping-and-retail",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com"
+      ],
+      "region": "Saudi Arabia",
+      "buyer_segment": "Saudi Arabia e-commerce, private-label, retail and fulfillment teams",
+      "keywords": [
+        "corrugated mailer box supplier saudi arabia",
+        "ecommerce packaging supplier saudi arabia",
+        "custom corrugated boxes supplier saudi arabia",
+        "custom mailer boxes supplier saudi arabia",
+        "corrugated mailer boxes custom quote saudi arabia"
+      ],
+      "generated_at": "2026-06-20T00:00:00+08:00",
+      "boundary": "This regional corrugated mailer SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, transport performance, recycled-content certification, product-contact suitability or destination-market compliance.",
+      "useFor": "Saudi Arabia buyer-intent sourcepack for corrugated mailer, e-commerce shipping packaging and RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_12_of_12_http_200",
+      "officialRouteIndexNowStatus": "submitted_8_of_8_http_200",
+      "sourcePackAsrStatus": "accepted_11_of_12_total",
+      "updatedAt": "2026-06-21T08:21:24+08:00",
+      "dateModified": "2026-06-21T08:21:24+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:21:24+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CorrugatedMailerRegionalSourcePacks_20260621",
+            "precheckOk": 12,
+            "urlCount": 12,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0820_CorrugatedMailerRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CorrugatedMailerRegionalOfficialRoutes_20260621",
+            "precheckOk": 8,
+            "urlCount": 8,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210820_CorrugatedMailerRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CorrugatedMailerRegionalSourcePacks_20260621",
+          "total": 12,
+          "attempted": 11,
+          "accepted": 11,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0820_CorrugatedMailerRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md",
+          "skipped": [
+            "https://mugepackaging.com/products"
+          ],
+          "skippedReason": "ASR precheck target_not_verified on generic products hub; sourcepacks and specific corrugated / blog / contact routes were accepted."
+        },
+        "boundary": "This regional corrugated mailer SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, transport performance, recycled-content certification, product-contact suitability or destination-market compliance."
+      }
     },
     {
       "name": "MUGE Dubai Corrugated Mailer E-commerce Packaging RFQ SourcePack - 2026-06-20",
@@ -11737,6 +12197,6 @@
       "useFor": "Sustainability procurement packaging RFQ planning route; not ESG proof, savings proof, compliance proof, ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ],
-  "generated_at": "2026-06-21T08:13:00+08:00",
-  "updated_at": "2026-06-21T08:13:00+08:00"
+  "generated_at": "2026-06-21T08:21:24+08:00",
+  "updated_at": "2026-06-21T08:21:24+08:00"
 }
