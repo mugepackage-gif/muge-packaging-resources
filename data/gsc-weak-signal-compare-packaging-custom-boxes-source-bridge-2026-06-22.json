@@ -1,0 +1,54 @@
+{
+  "id": "gsc-weak-signal-compare-packaging-custom-boxes-source-bridge-2026-06-22",
+  "title": "GSC Weak Signal Source Bridge for Compare Packaging and Custom Packaging Boxes",
+  "created_at": "2026-06-22T00:31:00+08:00",
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "website": "https://mugepackaging.com"
+  },
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-compare-packaging-custom-boxes-source-bridge-2026-06-22.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-compare-packaging-custom-boxes-source-bridge-2026-06-22.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/gsc-weak-signal-compare-packaging-custom-boxes-source-bridge-2026-06-22.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-compare-packaging-custom-boxes-source-bridge-2026-06-22.html"
+  },
+  "source_signal": {
+    "type": "GSC weak visible long-tail cluster",
+    "validation_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-22_0024_目标关键词排名验收.json",
+    "target_panel_total": 300,
+    "exact_visible": 0,
+    "top_weak_cluster": "custom packaging boxes / global / buyer_intent",
+    "related_query_signal": "compare packaging",
+    "weak_cluster_impressions": 44,
+    "best_average_position": 19,
+    "clicks": 0
+  },
+  "buyer_questions": [
+    "how to compare packaging for gift sets",
+    "how to compare packaging design service",
+    "how to compare packaging for amazon sellers",
+    "how to compare packaging for dtc brands",
+    "how to compare packaging for home fragrance",
+    "how to compare packaging for product launch",
+    "how to compare packaging for retail",
+    "how to compare packaging for small business",
+    "how to compare packaging for soap",
+    "how to compare packaging for subscription boxes",
+    "how to compare packaging inserts"
+  ],
+  "official_routes": [
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/products/folding-gift-box",
+    "https://mugepackaging.com/products/cosmetic-packaging",
+    "https://mugepackaging.com/products/paper-tubes",
+    "https://mugepackaging.com/products/paper-packaging",
+    "https://mugepackaging.com/contact"
+  ],
+  "claim_boundaries": [
+    "This page is a public source bridge and search-discovery asset.",
+    "It is not proof of Google ranking, traffic growth, AI answer inclusion, inquiry generation, third-party endorsement or platform approval status.",
+    "It does not claim preset order minimums, preset timelines, preset pricing, cheapest-offer positioning, production volume, named buyer examples, product-contact suitability, document proof or destination-market compliance guarantees.",
+    "Commercial terms, documents, certifications and destination-market requirements must be reviewed project by project."
+  ]
+}
