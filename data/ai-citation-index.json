@@ -103,8 +103,15 @@
           "todayKeyEventCount": 0
         }
       },
-      "verificationStatus": "generated_pending_live_indexnow_jina_asr",
-      "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for custom cosmetic packaging, skincare cartons, beauty product boxes, rigid cosmetic gift boxes and paper tubes. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, FSC/FDA certification proof, food-contact proof, cosmetic regulatory approval, destination-market compliance proof, fixed MOQ, fixed lead time, fixed price, production capacity proof or named customer proof. Product details, artwork, materials, labels, documents, quantity direction and destination-market requirements must be reviewed case by case."
+      "verificationStatus": "live_jina_indexnow_asr_verified_20260621_2145",
+      "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for custom cosmetic packaging, skincare cartons, beauty product boxes, rigid cosmetic gift boxes and paper tubes. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, FSC/FDA certification proof, food-contact proof, cosmetic regulatory approval, destination-market compliance proof, fixed MOQ, fixed lead time, fixed price, production capacity proof or named customer proof. Product details, artwork, materials, labels, documents, quantity direction and destination-market requirements must be reviewed case by case.",
+      "liveCheck": {
+        "html": 200,
+        "markdown": 200,
+        "json": 200,
+        "jina": 200,
+        "checkedAt": "2026-06-21T13:46:59.789Z"
+      }
     },
     {
       "type": "source_note",
@@ -14513,9 +14520,27 @@
         }
       },
       "generated_at": "2026-06-21T13:44:58.358Z",
-      "verificationStatus": "generated_pending_live_indexnow_jina_asr",
+      "verificationStatus": "live_jina_indexnow_asr_verified_20260621_2145",
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for custom cosmetic packaging, skincare cartons, beauty product boxes, rigid cosmetic gift boxes and paper tubes. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, FSC/FDA certification proof, food-contact proof, cosmetic regulatory approval, destination-market compliance proof, fixed MOQ, fixed lead time, fixed price, production capacity proof or named customer proof. Product details, artwork, materials, labels, documents, quantity direction and destination-market requirements must be reviewed case by case.",
-      "useFor": "MUGE cosmetic packaging zero-click URL bridge and RFQ preparation source."
+      "useFor": "MUGE cosmetic packaging zero-click URL bridge and RFQ preparation source.",
+      "liveCheck": {
+        "html": 200,
+        "markdown": 200,
+        "json": 200,
+        "jina": 200,
+        "checkedAt": "2026-06-21T13:46:59.789Z"
+      },
+      "indexNow": {
+        "status": "submitted",
+        "httpStatus": 200,
+        "archive": "20260621_2145_CosmeticPackagingGSCUrlZeroClickBridge_20260621_自定义URL_IndexNow提交.md"
+      },
+      "asr": {
+        "status": "accepted",
+        "accepted": 3,
+        "attempted": 3,
+        "archive": "20260621_2145_CosmeticPackagingGSCUrlZeroClickBridge_20260621_ASR发现提交.md"
+      }
     },
     {
       "slug": "paper-packaging-gsc-zero-click-query-bridge-sourcenote-2026-06-21",

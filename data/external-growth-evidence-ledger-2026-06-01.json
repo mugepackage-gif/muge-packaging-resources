@@ -10440,10 +10440,28 @@
       "official_page": "https://mugepackaging.com/products/cosmetic-packaging",
       "gsc_signal": "87 impressions / 0 clicks / 4.84 avg position in 28 days for custom cosmetic packaging route",
       "ga4_signal": "138 sessions / 0 key events",
-      "verification_status": "generated_pending_live_indexnow_jina_asr",
+      "verification_status": "live_jina_indexnow_asr_verified_20260621_2145",
       "counting_rule": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for custom cosmetic packaging, skincare cartons, beauty product boxes, rigid cosmetic gift boxes and paper tubes. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, FSC/FDA certification proof, food-contact proof, cosmetic regulatory approval, destination-market compliance proof, fixed MOQ, fixed lead time, fixed price, production capacity proof or named customer proof. Product details, artwork, materials, labels, documents, quantity direction and destination-market requirements must be reviewed case by case.",
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for custom cosmetic packaging, skincare cartons, beauty product boxes, rigid cosmetic gift boxes and paper tubes. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, FSC/FDA certification proof, food-contact proof, cosmetic regulatory approval, destination-market compliance proof, fixed MOQ, fixed lead time, fixed price, production capacity proof or named customer proof. Product details, artwork, materials, labels, documents, quantity direction and destination-market requirements must be reviewed case by case.",
-      "generated_at": "2026-06-21T13:44:58.358Z"
+      "generated_at": "2026-06-21T13:44:58.358Z",
+      "live_check": {
+        "html": 200,
+        "markdown": 200,
+        "json": 200,
+        "jina": 200,
+        "checked_at": "2026-06-21T13:46:59.799Z"
+      },
+      "indexnow": {
+        "status": "submitted",
+        "http_status": 200,
+        "archive": "20260621_2145_CosmeticPackagingGSCUrlZeroClickBridge_20260621_自定义URL_IndexNow提交.md"
+      },
+      "asr": {
+        "status": "accepted",
+        "accepted": 3,
+        "attempted": 3,
+        "archive": "20260621_2145_CosmeticPackagingGSCUrlZeroClickBridge_20260621_ASR发现提交.md"
+      }
     }
   ],
   "updated_at": "2026-06-21T13:44:58.358Z",
