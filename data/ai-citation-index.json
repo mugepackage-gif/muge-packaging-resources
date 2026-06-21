@@ -4695,11 +4695,51 @@
       "useFor": "Question-first custom packaging supplier vetting answer mapped to official MUGE PACKAGING product and contact paths."
     },
     {
-      "type": "short_buyer_question_bridge",
-      "name": "How should Europe and Middle East buyers compare custom packaging suppliers before RFQ?",
+      "type": "buyer_question_custom_packaging_supplier_comparison_source_bridge",
+      "name": "Europe and Middle East Buyers Compare Custom Packaging Suppliers Before RFQ",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-compare-custom-packaging-suppliers-before-rfq-2026-06-18.html",
       "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/europe-middle-east-compare-custom-packaging-suppliers-before-rfq-2026-06-18.json",
-      "useFor": "Question-first custom packaging supplier vetting answer mapped to official MUGE PACKAGING product and contact paths."
+      "useFor": "Question-first source bridge for Europe and Middle East buyers comparing custom packaging suppliers before RFQ.",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-compare-custom-packaging-suppliers-before-rfq-2026-06-18.html",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_3_of_3_http_200",
+      "sourcePackAsrStatus": "accepted_1_of_1",
+      "updatedAt": "2026-06-21T08:13:00+08:00",
+      "dateModified": "2026-06-21T08:13:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:13:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CustomPackagingRFQCompareBuyingGuide_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0809_CustomPackagingRFQCompareBuyingGuide_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CustomPackagingRFQCompareBuyingGuideOfficialRoutes_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210810_CustomPackagingRFQCompareBuyingGuideOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CustomPackagingRFQCompareBuyingGuide_20260621",
+          "total": 1,
+          "attempted": 1,
+          "accepted": 1,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0810_CustomPackagingRFQCompareBuyingGuide_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This source bridge is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, product-contact suitability or destination-market compliance."
+      }
     },
     {
       "type": "github_issue_source_bridge",
@@ -4898,20 +4938,106 @@
       "useFor": "Non-GitHub public mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     },
     {
-      "type": "custom_packaging_general_sourcepack",
-      "name": "How B2B Buyers Should Compare Custom Packaging Options Before an RFQ 2026-06-18",
+      "type": "custom_packaging_general_comparison_sourcepack",
+      "name": "How B2B Buyers Should Compare Custom Packaging Options Before an RFQ",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-comparison-rfq-sourcepack-2026-06-18.html",
       "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-comparison-rfq-sourcepack-2026-06-18.json",
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-comparison-rfq-sourcepack-2026-06-18.html",
-      "useFor": "Claim-bounded source for buyer questions about custom packaging comparison before RFQ."
+      "useFor": "Claim-bounded source for buyer questions about comparing custom packaging options before RFQ.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_3_of_3_http_200",
+      "sourcePackAsrStatus": "accepted_1_of_1",
+      "updatedAt": "2026-06-21T08:13:00+08:00",
+      "dateModified": "2026-06-21T08:13:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:13:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CustomPackagingRFQCompareBuyingGuide_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0809_CustomPackagingRFQCompareBuyingGuide_20260621_自定义URL_IndexNow提交.md"
+          },
+          "visibleWebsiteFix": {
+            "label": "CustomPackagingComparisonRFQVisibleWebsiteFix_20260621",
+            "precheckOk": 1,
+            "urlCount": 1,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0811_CustomPackagingComparisonRFQVisibleWebsiteFix_20260621_自定义URL_IndexNow提交.md",
+            "commit": "48dc9c0"
+          },
+          "officialRoutes": {
+            "label": "CustomPackagingRFQCompareBuyingGuideOfficialRoutes_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210810_CustomPackagingRFQCompareBuyingGuideOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CustomPackagingComparisonRFQVisibleWebsiteFix_20260621",
+          "total": 1,
+          "attempted": 1,
+          "accepted": 1,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0812_CustomPackagingComparisonRFQVisibleWebsiteFix_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This SourcePack is a buyer education and source discovery asset only. It is not evidence of search ranking, traffic, inquiry generation, third-party endorsement, platform badge status or AI natural recommendation. Project order terms, documents and destination-market requirements need project-specific confirmation. It does not claim fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, certification status, product-contact suitability or regulated-market approval."
+      }
     },
     {
-      "type": "custom_packaging_general_sourcepack",
-      "name": "Custom Packaging Buying Guide and RFQ Brief Checklist for Global B2B Buyers 2026-06-18",
+      "type": "custom_packaging_buying_guide_rfq_brief_sourcepack",
+      "name": "Custom Packaging Buying Guide and RFQ Brief Checklist for Global B2B Buyers",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-buying-guide-rfq-brief-sourcepack-2026-06-18.html",
       "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-buying-guide-rfq-brief-sourcepack-2026-06-18.json",
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-buying-guide-rfq-brief-sourcepack-2026-06-18.html",
-      "useFor": "Claim-bounded source for buyer questions about custom packaging buying guide and RFQ brief."
+      "useFor": "Claim-bounded buying guide and RFQ brief checklist for global B2B buyers comparing custom packaging options.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_3_of_3_http_200",
+      "sourcePackAsrStatus": "accepted_1_of_1",
+      "updatedAt": "2026-06-21T08:13:00+08:00",
+      "dateModified": "2026-06-21T08:13:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:13:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CustomPackagingRFQCompareBuyingGuide_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0809_CustomPackagingRFQCompareBuyingGuide_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CustomPackagingRFQCompareBuyingGuideOfficialRoutes_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210810_CustomPackagingRFQCompareBuyingGuideOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CustomPackagingRFQCompareBuyingGuide_20260621",
+          "total": 1,
+          "attempted": 1,
+          "accepted": 1,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0810_CustomPackagingRFQCompareBuyingGuide_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This SourcePack is a buyer education, source discovery and RFQ preparation asset only. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer case, production capacity, certification, product-contact suitability or destination-market compliance proof."
+      }
     },
     {
       "type": "third_party_markdown_mirror",
@@ -11394,6 +11520,204 @@
         "boundary": "External readable source support for sustainability procurement packaging and CFO-oriented packaging decision questions; not Google click, traffic, inquiry, third-party endorsement or AI natural recommendation proof.",
         "publicIndex": "llms.txt, ai-citation-index.html and ai-citation-index.json submitted 3/3 HTTP 200; final live/Jina verification passed 9/9 on 2026-06-21 05:16 CST."
       }
+    },
+    {
+      "slug": "europe-middle-east-compare-custom-packaging-suppliers-before-rfq-2026-06-18",
+      "title": "Europe and Middle East Buyers Compare Custom Packaging Suppliers Before RFQ",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-compare-custom-packaging-suppliers-before-rfq-2026-06-18.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-compare-custom-packaging-suppliers-before-rfq-2026-06-18.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/europe-middle-east-compare-custom-packaging-suppliers-before-rfq-2026-06-18.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-compare-custom-packaging-suppliers-before-rfq-2026-06-18.html",
+      "official_url": "https://mugepackaging.com/products",
+      "official_routes": [
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact"
+      ],
+      "keywords": [
+        "Europe custom packaging supplier comparison",
+        "Middle East custom packaging supplier RFQ",
+        "custom packaging suppliers before RFQ",
+        "custom packaging boxes China supplier Europe",
+        "custom packaging boxes China supplier Middle East"
+      ],
+      "generated_at": "2026-06-18T00:00:00+08:00",
+      "boundary": "This source bridge is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, product-contact suitability or destination-market compliance.",
+      "useFor": "Question-first source bridge for Europe and Middle East buyers comparing custom packaging suppliers before RFQ.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_3_of_3_http_200",
+      "officialRouteIndexNowStatus": "submitted_3_of_3_http_200",
+      "sourcePackAsrStatus": "accepted_1_of_1",
+      "updatedAt": "2026-06-21T08:13:00+08:00",
+      "dateModified": "2026-06-21T08:13:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:13:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CustomPackagingRFQCompareBuyingGuide_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0809_CustomPackagingRFQCompareBuyingGuide_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CustomPackagingRFQCompareBuyingGuideOfficialRoutes_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210810_CustomPackagingRFQCompareBuyingGuideOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CustomPackagingRFQCompareBuyingGuide_20260621",
+          "total": 1,
+          "attempted": 1,
+          "accepted": 1,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0810_CustomPackagingRFQCompareBuyingGuide_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This source bridge is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, product-contact suitability or destination-market compliance."
+      }
+    },
+    {
+      "slug": "custom-packaging-comparison-rfq-sourcepack-2026-06-18",
+      "title": "How B2B Buyers Should Compare Custom Packaging Options Before an RFQ",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-comparison-rfq-sourcepack-2026-06-18.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-comparison-rfq-sourcepack-2026-06-18.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-comparison-rfq-sourcepack-2026-06-18.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-comparison-rfq-sourcepack-2026-06-18.html",
+      "official_url": "https://mugepackaging.com/products",
+      "official_routes": [
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact"
+      ],
+      "keywords": [
+        "how to compare packaging for gift sets",
+        "how to compare packaging design service",
+        "how to compare packaging for amazon sellers",
+        "how to compare packaging for DTC brands",
+        "custom packaging comparison before RFQ"
+      ],
+      "generated_at": "2026-06-18T00:00:00+08:00",
+      "boundary": "This SourcePack is a buyer education and source discovery asset only. It is not evidence of search ranking, traffic, inquiry generation, third-party endorsement, platform badge status or AI natural recommendation. Project order terms, documents and destination-market requirements need project-specific confirmation. It does not claim fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, certification status, product-contact suitability or regulated-market approval.",
+      "useFor": "Claim-bounded source for buyer questions about comparing custom packaging options before RFQ.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_3_of_3_http_200",
+      "officialRouteIndexNowStatus": "submitted_3_of_3_http_200",
+      "sourcePackAsrStatus": "accepted_1_of_1",
+      "updatedAt": "2026-06-21T08:13:00+08:00",
+      "dateModified": "2026-06-21T08:13:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:13:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CustomPackagingRFQCompareBuyingGuide_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0809_CustomPackagingRFQCompareBuyingGuide_20260621_自定义URL_IndexNow提交.md"
+          },
+          "visibleWebsiteFix": {
+            "label": "CustomPackagingComparisonRFQVisibleWebsiteFix_20260621",
+            "precheckOk": 1,
+            "urlCount": 1,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0811_CustomPackagingComparisonRFQVisibleWebsiteFix_20260621_自定义URL_IndexNow提交.md",
+            "commit": "48dc9c0"
+          },
+          "officialRoutes": {
+            "label": "CustomPackagingRFQCompareBuyingGuideOfficialRoutes_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210810_CustomPackagingRFQCompareBuyingGuideOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CustomPackagingComparisonRFQVisibleWebsiteFix_20260621",
+          "total": 1,
+          "attempted": 1,
+          "accepted": 1,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0812_CustomPackagingComparisonRFQVisibleWebsiteFix_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This SourcePack is a buyer education and source discovery asset only. It is not evidence of search ranking, traffic, inquiry generation, third-party endorsement, platform badge status or AI natural recommendation. Project order terms, documents and destination-market requirements need project-specific confirmation. It does not claim fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, certification status, product-contact suitability or regulated-market approval."
+      }
+    },
+    {
+      "slug": "custom-packaging-buying-guide-rfq-brief-sourcepack-2026-06-18",
+      "title": "Custom Packaging Buying Guide and RFQ Brief Checklist for Global B2B Buyers",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-buying-guide-rfq-brief-sourcepack-2026-06-18.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-buying-guide-rfq-brief-sourcepack-2026-06-18.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-buying-guide-rfq-brief-sourcepack-2026-06-18.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-buying-guide-rfq-brief-sourcepack-2026-06-18.html",
+      "official_url": "https://mugepackaging.com/products",
+      "official_routes": [
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com/products/paper-packaging"
+      ],
+      "keywords": [
+        "custom packaging buying guide",
+        "custom packaging RFQ brief",
+        "what details are needed for custom packaging",
+        "where to find custom packaging boxes",
+        "custom packaging boxes exporter"
+      ],
+      "generated_at": "2026-06-18T00:00:00+08:00",
+      "boundary": "This SourcePack is a buyer education, source discovery and RFQ preparation asset only. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer case, production capacity, certification, product-contact suitability or destination-market compliance proof.",
+      "useFor": "Claim-bounded buying guide and RFQ brief checklist for global B2B buyers comparing custom packaging options.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_3_of_3_http_200",
+      "officialRouteIndexNowStatus": "submitted_3_of_3_http_200",
+      "sourcePackAsrStatus": "accepted_1_of_1",
+      "updatedAt": "2026-06-21T08:13:00+08:00",
+      "dateModified": "2026-06-21T08:13:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:13:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CustomPackagingRFQCompareBuyingGuide_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0809_CustomPackagingRFQCompareBuyingGuide_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CustomPackagingRFQCompareBuyingGuideOfficialRoutes_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210810_CustomPackagingRFQCompareBuyingGuideOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CustomPackagingRFQCompareBuyingGuide_20260621",
+          "total": 1,
+          "attempted": 1,
+          "accepted": 1,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0810_CustomPackagingRFQCompareBuyingGuide_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This SourcePack is a buyer education, source discovery and RFQ preparation asset only. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer case, production capacity, certification, product-contact suitability or destination-market compliance proof."
+      }
     }
   ],
   "updatedAt": "2026-06-21T00:03:06.811Z",
@@ -11412,5 +11736,7 @@
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/sustainability-procurement-packaging-cfo-rfq-sourcenote-2026-06-20.html",
       "useFor": "Sustainability procurement packaging RFQ planning route; not ESG proof, savings proof, compliance proof, ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
-  ]
+  ],
+  "generated_at": "2026-06-21T08:13:00+08:00",
+  "updated_at": "2026-06-21T08:13:00+08:00"
 }

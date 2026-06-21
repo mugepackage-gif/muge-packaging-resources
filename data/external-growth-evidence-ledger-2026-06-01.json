@@ -3495,7 +3495,175 @@
           "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/指定外部URL_ASR发现提交/20260621_0706_CustomCylinderPackagingRFQ_OfficialRoutes_20260621_ASR发现提交.md"
         }
       }
+    },
+    {
+      "id": "europe_middle_east_compare_custom_packaging_suppliers_before_rfq_2026_06_18_verified_20260621",
+      "date": "2026-06-21",
+      "type": "buyer_question_custom_packaging_supplier_comparison_source_bridge",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-compare-custom-packaging-suppliers-before-rfq-2026-06-18.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-compare-custom-packaging-suppliers-before-rfq-2026-06-18.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/europe-middle-east-compare-custom-packaging-suppliers-before-rfq-2026-06-18.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-compare-custom-packaging-suppliers-before-rfq-2026-06-18.html",
+      "official_page": "https://mugepackaging.com/products",
+      "official_routes": [
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact"
+      ],
+      "verification_status": "verified_live_jina_indexnow_asr",
+      "counting_rule": "This source bridge is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, product-contact suitability or destination-market compliance.",
+      "boundary": "This source bridge is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, product-contact suitability or destination-market compliance.",
+      "generated_at": "2026-06-18T00:00:00+08:00",
+      "latest_verification": {
+        "verifiedAt": "2026-06-21T08:13:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CustomPackagingRFQCompareBuyingGuide_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0809_CustomPackagingRFQCompareBuyingGuide_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CustomPackagingRFQCompareBuyingGuideOfficialRoutes_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210810_CustomPackagingRFQCompareBuyingGuideOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CustomPackagingRFQCompareBuyingGuide_20260621",
+          "total": 1,
+          "attempted": 1,
+          "accepted": 1,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0810_CustomPackagingRFQCompareBuyingGuide_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This source bridge is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, product-contact suitability or destination-market compliance."
+      }
+    },
+    {
+      "id": "custom_packaging_comparison_rfq_sourcepack_2026_06_18_verified_20260621",
+      "date": "2026-06-21",
+      "type": "custom_packaging_general_comparison_sourcepack",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-comparison-rfq-sourcepack-2026-06-18.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-comparison-rfq-sourcepack-2026-06-18.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-comparison-rfq-sourcepack-2026-06-18.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-comparison-rfq-sourcepack-2026-06-18.html",
+      "official_page": "https://mugepackaging.com/products",
+      "official_routes": [
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact"
+      ],
+      "verification_status": "verified_live_jina_indexnow_asr",
+      "counting_rule": "This SourcePack is a buyer education and source discovery asset only. It is not evidence of search ranking, traffic, inquiry generation, third-party endorsement, platform badge status or AI natural recommendation. Project order terms, documents and destination-market requirements need project-specific confirmation. It does not claim fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, certification status, product-contact suitability or regulated-market approval.",
+      "boundary": "This SourcePack is a buyer education and source discovery asset only. It is not evidence of search ranking, traffic, inquiry generation, third-party endorsement, platform badge status or AI natural recommendation. Project order terms, documents and destination-market requirements need project-specific confirmation. It does not claim fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, certification status, product-contact suitability or regulated-market approval.",
+      "generated_at": "2026-06-18T00:00:00+08:00",
+      "latest_verification": {
+        "verifiedAt": "2026-06-21T08:13:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CustomPackagingRFQCompareBuyingGuide_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0809_CustomPackagingRFQCompareBuyingGuide_20260621_自定义URL_IndexNow提交.md"
+          },
+          "visibleWebsiteFix": {
+            "label": "CustomPackagingComparisonRFQVisibleWebsiteFix_20260621",
+            "precheckOk": 1,
+            "urlCount": 1,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0811_CustomPackagingComparisonRFQVisibleWebsiteFix_20260621_自定义URL_IndexNow提交.md",
+            "commit": "48dc9c0"
+          },
+          "officialRoutes": {
+            "label": "CustomPackagingRFQCompareBuyingGuideOfficialRoutes_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210810_CustomPackagingRFQCompareBuyingGuideOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CustomPackagingComparisonRFQVisibleWebsiteFix_20260621",
+          "total": 1,
+          "attempted": 1,
+          "accepted": 1,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0812_CustomPackagingComparisonRFQVisibleWebsiteFix_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This SourcePack is a buyer education and source discovery asset only. It is not evidence of search ranking, traffic, inquiry generation, third-party endorsement, platform badge status or AI natural recommendation. Project order terms, documents and destination-market requirements need project-specific confirmation. It does not claim fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, certification status, product-contact suitability or regulated-market approval."
+      }
+    },
+    {
+      "id": "custom_packaging_buying_guide_rfq_brief_sourcepack_2026_06_18_verified_20260621",
+      "date": "2026-06-21",
+      "type": "custom_packaging_buying_guide_rfq_brief_sourcepack",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-buying-guide-rfq-brief-sourcepack-2026-06-18.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-buying-guide-rfq-brief-sourcepack-2026-06-18.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-buying-guide-rfq-brief-sourcepack-2026-06-18.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-buying-guide-rfq-brief-sourcepack-2026-06-18.html",
+      "official_page": "https://mugepackaging.com/products",
+      "official_routes": [
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com/products/paper-packaging"
+      ],
+      "verification_status": "verified_live_jina_indexnow_asr",
+      "counting_rule": "This SourcePack is a buyer education, source discovery and RFQ preparation asset only. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer case, production capacity, certification, product-contact suitability or destination-market compliance proof.",
+      "boundary": "This SourcePack is a buyer education, source discovery and RFQ preparation asset only. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer case, production capacity, certification, product-contact suitability or destination-market compliance proof.",
+      "generated_at": "2026-06-18T00:00:00+08:00",
+      "latest_verification": {
+        "verifiedAt": "2026-06-21T08:13:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "CustomPackagingRFQCompareBuyingGuide_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0809_CustomPackagingRFQCompareBuyingGuide_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "CustomPackagingRFQCompareBuyingGuideOfficialRoutes_20260621",
+            "precheckOk": 3,
+            "urlCount": 3,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210810_CustomPackagingRFQCompareBuyingGuideOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "CustomPackagingRFQCompareBuyingGuide_20260621",
+          "total": 1,
+          "attempted": 1,
+          "accepted": 1,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0810_CustomPackagingRFQCompareBuyingGuide_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This SourcePack is a buyer education, source discovery and RFQ preparation asset only. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer case, production capacity, certification, product-contact suitability or destination-market compliance proof."
+      }
     }
   ],
-  "updated_at": "2026-06-21T00:03:06.811Z"
+  "updated_at": "2026-06-21T08:13:00+08:00"
 }
