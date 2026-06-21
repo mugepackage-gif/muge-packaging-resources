@@ -112,8 +112,20 @@
           }
         ]
       },
-      "verificationStatus": "generated_pending_live_indexnow_jina_asr",
-      "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for paper tube packaging. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, certification proof, food-contact proof, destination-market compliance proof, fixed MOQ, fixed lead time, fixed price, production capacity proof or named customer proof. Project details, materials, documents, quantity direction and destination-market requirements must be reviewed case by case."
+      "verificationStatus": "live_jina_indexnow_asr_verified",
+      "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for paper tube packaging. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, certification proof, food-contact proof, destination-market compliance proof, fixed MOQ, fixed lead time, fixed price, production capacity proof or named customer proof. Project details, materials, documents, quantity direction and destination-market requirements must be reviewed case by case.",
+      "liveChecks": {
+        "html": 200,
+        "markdown": 200,
+        "json": 200,
+        "jina": 200,
+        "brand": true,
+        "query": true,
+        "localPathLeak": false
+      },
+      "indexNowEvidence": "internal-obsidian-archive:20260621_2112_PaperTubeGSCZeroClickQueryBridge_20260621_自定义URL_IndexNow提交.md",
+      "asrEvidence": "internal-obsidian-archive:20260621_2112_PaperTubeGSCZeroClickQueryBridge_20260621_ASR发现提交.md",
+      "verifiedAt": "2026-06-21T13:13:43.347Z"
     },
     {
       "id": "paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21_preferred",
@@ -14356,9 +14368,21 @@
         ]
       },
       "generated_at": "2026-06-21T13:07:56.542Z",
-      "verificationStatus": "generated_pending_live_indexnow_jina_asr",
+      "verificationStatus": "live_jina_indexnow_asr_verified",
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for paper tube packaging. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, certification proof, food-contact proof, destination-market compliance proof, fixed MOQ, fixed lead time, fixed price, production capacity proof or named customer proof. Project details, materials, documents, quantity direction and destination-market requirements must be reviewed case by case.",
-      "useFor": "MUGE paper tube packaging zero-click query bridge and RFQ preparation source."
+      "useFor": "MUGE paper tube packaging zero-click query bridge and RFQ preparation source.",
+      "liveChecks": {
+        "html": 200,
+        "markdown": 200,
+        "json": 200,
+        "jina": 200,
+        "brand": true,
+        "query": true,
+        "localPathLeak": false
+      },
+      "indexNowEvidence": "internal-obsidian-archive:20260621_2112_PaperTubeGSCZeroClickQueryBridge_20260621_自定义URL_IndexNow提交.md",
+      "asrEvidence": "internal-obsidian-archive:20260621_2112_PaperTubeGSCZeroClickQueryBridge_20260621_ASR发现提交.md",
+      "verifiedAt": "2026-06-21T13:13:43.347Z"
     },
     {
       "id": "paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21_item",
@@ -24709,7 +24733,7 @@
       "status": "verified_live_jina_indexnow_asr_competitor_driven_theme_center"
     }
   ],
-  "updatedAt": "2026-06-21T13:07:56.542Z",
+  "updatedAt": "2026-06-21T13:13:43.347Z",
   "prioritySources": [
     {
       "type": "source_note",
