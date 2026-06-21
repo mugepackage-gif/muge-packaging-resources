@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-06-21T21:53:09.786Z",
+  "generated_at_cst": "2026-06-22 05:53:09 CST",
+  "source_workflow": "MUGE competitor v22 -> 20站纸品包装SEO/GEO强证据反推执行",
+  "evidence_basis": "20 competitor sites readable, 10 China export factory sites, 10 overseas packaging company sites, 12 schema-signal sites, 15 contact/RFQ-signal sites.",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "brand": "MUGE PACKAGING",
+  "website": "https://mugepackaging.com",
+  "title": "Paper Tube Packaging v22 Buyer Decision SourceBridge",
+  "product": "paper tube packaging",
+  "official_route": "https://mugepackaging.com/products/paper-tubes",
+  "rfq_route": "https://mugepackaging.com/products/paper-tubes?source=competitor-v22-sourcebridge#request-quote",
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v22-paper-tube-packaging-20site-buyer-decision-sourcebridge-2026-06-22.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v22-paper-tube-packaging-20site-buyer-decision-sourcebridge-2026-06-22.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v22-paper-tube-packaging-20site-buyer-decision-sourcebridge-2026-06-22.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v22-paper-tube-packaging-20site-buyer-decision-sourcebridge-2026-06-22.html"
+  },
+  "slug": "competitor-v22-paper-tube-packaging-20site-buyer-decision-sourcebridge-2026-06-22",
+  "ads_seo_phrases": [
+    "custom paper tube packaging",
+    "paper tube packaging manufacturer",
+    "cardboard tube packaging supplier",
+    "custom tube packaging for cosmetics",
+    "round paper tube boxes",
+    "paper tube packaging for candles"
+  ],
+  "buyer_questions": [
+    "What diameter, height and cap details matter before requesting paper tube packaging?",
+    "How should buyers compare closure style, insert support and surface finish?",
+    "Which RFQ fields make a custom paper tube project easier to review?"
+  ],
+  "rfq_fields": [
+    "Tube diameter and height",
+    "Product fit and packed orientation",
+    "Cap, lid or closure requirement",
+    "Material direction and finish reference",
+    "Retail, cosmetics or gift use"
+  ],
+  "domestic_competitor_takeaway": "China export factory sites usually make product categories, factory language and quote entry visible. Use this as a cue for clear product-route and RFQ entry, not for unsupported low-price or fixed-MOQ claims.",
+  "overseas_competitor_takeaway": "Overseas packaging company sites rely more on resources, sustainability framing, buyer education and solution pages. Use this as a cue for checklists, comparison tables and decision support before RFQ.",
+  "avoid_points": [
+    "Do not claim fixed MOQ, fixed lead time or lowest price.",
+    "Do not claim FSC, FDA, food-contact suitability, destination-market compliance or certification unless a valid document is reviewed.",
+    "Do not present unverified customer cases, production capacity, platform badges or partnerships as facts.",
+    "Do not copy competitor wording; only reuse structure, intent and page logic."
+  ],
+  "counting_boundary": "This SourceBridge is public source-routing and buyer-education evidence only. It is not proof of Google ranking, GSC clicks, GA4 traffic, AI natural recommendation, inquiry generation, customer case, endorsement, certification, fixed MOQ, fixed lead time or fixed price."
+}
