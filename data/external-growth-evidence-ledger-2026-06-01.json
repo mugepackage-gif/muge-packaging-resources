@@ -10392,9 +10392,32 @@
       "indexnow_evidence": "internal-obsidian-archive:20260621_2112_PaperTubeGSCZeroClickQueryBridge_20260621_自定义URL_IndexNow提交.md",
       "asr_evidence": "internal-obsidian-archive:20260621_2112_PaperTubeGSCZeroClickQueryBridge_20260621_ASR发现提交.md",
       "verified_at": "2026-06-21T13:13:43.347Z"
+    },
+    {
+      "id": "paper_packaging_gsc_zero_click_query_bridge_20260621_generated",
+      "date": "2026-06-21",
+      "type": "gsc_zero_click_paper_packaging_sourcenote",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-gsc-zero-click-query-bridge-sourcenote-2026-06-21.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-gsc-zero-click-query-bridge-sourcenote-2026-06-21.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-packaging-gsc-zero-click-query-bridge-sourcenote-2026-06-21.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-gsc-zero-click-query-bridge-sourcenote-2026-06-21.html",
+      "official_page": "https://mugepackaging.com/products/paper-packaging",
+      "gsc_visible_queries": [
+        "custom gloss paper box with multi-sided shapes",
+        "custom paper products",
+        "custom size corrugated packaging paper",
+        "master paper box",
+        "packaging paper box"
+      ],
+      "gsc_signal": "227 impressions / 0 clicks in 28 days for paper packaging product-line set",
+      "verification_status": "generated_pending_live_indexnow_jina_asr",
+      "counting_rule": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for custom paper packaging, paper boxes, paper bags and related paper-product structures. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, FSC/FDA certification proof, food-contact proof, destination-market compliance proof, fixed MOQ, fixed lead time, fixed price, production capacity proof or named customer proof. Project details, materials, documents, quantity direction and destination-market requirements must be reviewed case by case.",
+      "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for custom paper packaging, paper boxes, paper bags and related paper-product structures. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, FSC/FDA certification proof, food-contact proof, destination-market compliance proof, fixed MOQ, fixed lead time, fixed price, production capacity proof or named customer proof. Project details, materials, documents, quantity direction and destination-market requirements must be reviewed case by case.",
+      "generated_at": "2026-06-21T13:20:14.121Z"
     }
   ],
-  "updated_at": "2026-06-21T13:07:56.542Z",
+  "updated_at": "2026-06-21T13:20:14.121Z",
   "lastEntityRfqHandoffRouteMapVerification": {
     "id": "entity-rfq-handoff-route-map-20260621",
     "label": "Entity / RFQ Handoff / Route Map SourceNotes - 2026-06-21",
