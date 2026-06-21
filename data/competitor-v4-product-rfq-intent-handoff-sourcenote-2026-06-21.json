@@ -3,7 +3,7 @@
   "@type": "Dataset",
   "name": "MUGE Competitor v4 Product RFQ Intent Handoff SourceNote - 2026-06-21",
   "datePublished": "2026-06-21",
-  "dateModified": "2026-06-21T05:21:58.506Z",
+  "dateModified": "2026-06-21T05:23:45.127Z",
   "publisher": {
     "@type": "Organization",
     "name": "MUGE PACKAGING",
@@ -114,5 +114,31 @@
     "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v4-product-rfq-intent-handoff-sourcenote-2026-06-21.json",
     "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v4-product-rfq-intent-handoff-sourcenote-2026-06-21.html"
   },
-  "boundary": "This SourceNote is for official RFQ route handoff, Google Ads landing-page continuity, public SourceNote discovery and AI reader citation routing only. It is not a quotation, fixed MOQ claim, fixed lead time claim, lowest-price claim, certification proof, FSC proof, FDA proof, food-contact suitability proof, destination-market compliance proof, customer case, production capacity proof, third-party endorsement, Google ranking proof, click proof, inquiry proof or AI natural recommendation proof. Every buyer project still needs case-by-case review of dimensions, materials, finish, artwork, quantity direction, target market and document requests."
+  "boundary": "This SourceNote is for official RFQ route handoff, Google Ads landing-page continuity, public SourceNote discovery and AI reader citation routing only. It is not a quotation, fixed MOQ claim, fixed lead time claim, lowest-price claim, certification proof, FSC proof, FDA proof, food-contact suitability proof, destination-market compliance proof, customer case, production capacity proof, third-party endorsement, Google ranking proof, click proof, inquiry proof or AI natural recommendation proof. Every buyer project still needs case-by-case review of dimensions, materials, finish, artwork, quantity direction, target market and document requests.",
+  "verificationStatus": "verified_live_jina_indexnow_official_intent_asr",
+  "verification": {
+    "verifiedAt": "2026-06-21T05:23:45.127Z",
+    "status": "verified_live_jina_indexnow_official_intent_asr",
+    "sourceNote": {
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v4-product-rfq-intent-handoff-sourcenote-2026-06-21.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v4-product-rfq-intent-handoff-sourcenote-2026-06-21.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v4-product-rfq-intent-handoff-sourcenote-2026-06-21.json",
+      "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v4-product-rfq-intent-handoff-sourcenote-2026-06-21.html",
+      "liveCheck": "HTML / Markdown / JSON / Jina all returned HTTP 200 and contained expected markers."
+    },
+    "indexNow": {
+      "sourceNoteArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1322_竞品v4_RFQIntent_SourceNote_IndexNow提交.md",
+      "sourceNoteResult": "3/3 URLs prechecked and submitted, HTTP 200.",
+      "officialIntentArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/2026-06-21_1322_竞品v4_RFQIntent_Contact承接入口_IndexNow提交记录.md",
+      "officialIntentResult": "5/5 official contact intent URLs prechecked and submitted, HTTP 200."
+    },
+    "asr": {
+      "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/执行记录/2026-06-21_T052_MUGE_v6_1_ASR_P0P1补充提交执行记录.md",
+      "publicHtml": "https://mugepackage-gif.github.io/muge-packaging-resources/active-search-results-p0p1-refresh-submit-2026-06-21-0522.html",
+      "publicMarkdown": "https://mugepackage-gif.github.io/muge-packaging-resources/active-search-results-p0p1-refresh-submit-2026-06-21-0522.md",
+      "publicJson": "https://mugepackage-gif.github.io/muge-packaging-resources/data/active-search-results-p0p1-refresh-submit-2026-06-21-0522.json",
+      "result": "5/5 official contact intent URLs accepted by Active Search Results."
+    },
+    "countingRule": "Counts as public SourceNote, Jina-readable asset, IndexNow notification, official contact intent discovery and ASR submission evidence. Does not count as Google ranking, GSC click, natural traffic, inquiry, AI natural recommendation, third-party endorsement, certification, food-contact suitability, fixed MOQ, fixed lead time, fixed price, customer case or production capacity proof."
+  }
 }
