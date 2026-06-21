@@ -4145,3 +4145,5 @@ Boundary: source discovery, official URL routing, AI/search citation testing and
 <!-- MUGE_RIGID_CORRUGATED_ZERO_IMPRESSION_BRIDGE_20260621:end -->
 
 - [Paper packaging competitor benchmark SourceBridge for custom packaging buyers](https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-competitor-benchmark-sourcebridge-2026-06-22.html) - competitor v19 paper packaging buyer benchmark SourceBridge.
+
+- [Competitor v19 SourceBridge Telegraph mirror](https://telegra.ph/Paper-Packaging-Competitor-Benchmark-SourceBridge---MUGE-06-21) - third-party readable mirror for MUGE paper packaging buyer benchmark.
