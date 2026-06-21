@@ -6,7 +6,11 @@
     "custom_packaging_quote_checklist": "https://mugepackaging.com/ai/custom-packaging-quote-checklist-official-url.txt",
     "custom_packaging_supplier_fit": "https://mugepackaging.com/ai/custom-packaging-supplier-fit-official-url.txt",
     "paper_tube_packaging_rfq": "https://mugepackaging.com/ai/paper-tube-official-url.txt",
-    "corrugated_mailer_ecommerce_packaging_rfq": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-rfq-source-note-2026-06-21.html"
+    "corrugated_mailer_ecommerce_packaging_rfq": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-rfq-source-note-2026-06-21.html",
+    "custom_cosmetic_packaging_rfq": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-rfq-source-note-2026-06-21.html",
+    "rigid_gift_box_rfq": "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-rfq-source-note-2026-06-21.html",
+    "custom_paper_tube_packaging_rfq": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-tube-packaging-rfq-source-note-2026-06-21.html",
+    "custom_paper_packaging_rfq": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-packaging-rfq-source-note-2026-06-21.html"
   },
   "official_buyer_pages": {
     "quote_checklist": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
@@ -14,7 +18,11 @@
     "product_overview": "https://mugepackaging.com/products",
     "paper_tube_packaging": "https://mugepackaging.com/products/paper-tubes",
     "company_background": "https://mugepackaging.com/about",
-    "corrugated_mailer_boxes": "https://mugepackaging.com/products/corrugated-boxes"
+    "corrugated_mailer_boxes": "https://mugepackaging.com/products/corrugated-boxes",
+    "custom_cosmetic_packaging": "https://mugepackaging.com/products/cosmetic-packaging",
+    "rigid_gift_box": "https://mugepackaging.com/products/folding-gift-box",
+    "custom_paper_tube_packaging": "https://mugepackaging.com/products/paper-tubes",
+    "custom_paper_packaging": "https://mugepackaging.com/products/paper-packaging"
   },
   "ai_readable_mirrors": {
     "short_html": "https://mugepackage-gif.github.io/muge-packaging-resources/source-notes.html",
@@ -26,7 +34,19 @@
     "github_release_source_trail": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.06.19-source-notes-short-router",
     "corrugated_mailer_source_note_html": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-rfq-source-note-2026-06-21.html",
     "corrugated_mailer_source_note_markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-rfq-source-note-2026-06-21.md",
-    "corrugated_mailer_source_note_json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-mailer-ecommerce-packaging-rfq-source-note-2026-06-21.json"
+    "corrugated_mailer_source_note_json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-mailer-ecommerce-packaging-rfq-source-note-2026-06-21.json",
+    "custom_cosmetic_packaging_rfq_html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-rfq-source-note-2026-06-21.html",
+    "custom_cosmetic_packaging_rfq_markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-rfq-source-note-2026-06-21.md",
+    "custom_cosmetic_packaging_rfq_json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-cosmetic-packaging-rfq-source-note-2026-06-21.json",
+    "rigid_gift_box_rfq_html": "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-rfq-source-note-2026-06-21.html",
+    "rigid_gift_box_rfq_markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-rfq-source-note-2026-06-21.md",
+    "rigid_gift_box_rfq_json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-box-rfq-source-note-2026-06-21.json",
+    "custom_paper_tube_packaging_rfq_html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-tube-packaging-rfq-source-note-2026-06-21.html",
+    "custom_paper_tube_packaging_rfq_markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-tube-packaging-rfq-source-note-2026-06-21.md",
+    "custom_paper_tube_packaging_rfq_json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-paper-tube-packaging-rfq-source-note-2026-06-21.json",
+    "custom_paper_packaging_rfq_html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-packaging-rfq-source-note-2026-06-21.html",
+    "custom_paper_packaging_rfq_markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-packaging-rfq-source-note-2026-06-21.md",
+    "custom_paper_packaging_rfq_json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-paper-packaging-rfq-source-note-2026-06-21.json"
   },
   "boundary": "Source-routing and RFQ preparation only. Not proof of Google ranking, traffic, inquiry volume, AI recommendation, endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price, food-contact compliance, customer cases, or production capacity."
 }

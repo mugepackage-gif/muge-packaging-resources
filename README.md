@@ -3890,3 +3890,43 @@ Boundary: source discovery, official URL routing, AI/search citation testing and
 - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-rfq-source-note-2026-06-21.html
 - Purpose: buyer RFQ route for corrugated mailer boxes, ecommerce shipping boxes and subscription packaging.
 <!-- corrugated-mailer-ecommerce-packaging-rfq-source-note-2026-06-21:end -->
+
+<!-- custom-cosmetic-packaging-rfq-source-note-2026-06-21:start -->
+## Custom cosmetic packaging RFQ source note for skincare and beauty buyers
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-rfq-source-note-2026-06-21.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-rfq-source-note-2026-06-21.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-cosmetic-packaging-rfq-source-note-2026-06-21.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-rfq-source-note-2026-06-21.html
+- Purpose: buyer RFQ route for Custom cosmetic packaging for skincare, beauty sets, fragrance and ecommerce retail.
+<!-- custom-cosmetic-packaging-rfq-source-note-2026-06-21:end -->
+
+<!-- rigid-gift-box-rfq-source-note-2026-06-21:start -->
+## Rigid gift box RFQ source note for premium retail and gift buyers
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-rfq-source-note-2026-06-21.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-rfq-source-note-2026-06-21.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-box-rfq-source-note-2026-06-21.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-rfq-source-note-2026-06-21.html
+- Purpose: buyer RFQ route for Rigid gift boxes for premium retail, beauty, electronics, wellness and holiday sets.
+<!-- rigid-gift-box-rfq-source-note-2026-06-21:end -->
+
+<!-- custom-paper-tube-packaging-rfq-source-note-2026-06-21:start -->
+## Custom paper tube packaging RFQ source note for retail product buyers
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-tube-packaging-rfq-source-note-2026-06-21.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-tube-packaging-rfq-source-note-2026-06-21.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-paper-tube-packaging-rfq-source-note-2026-06-21.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-tube-packaging-rfq-source-note-2026-06-21.html
+- Purpose: buyer RFQ route for Custom paper tube packaging for cosmetics, tea, candles, fragrance, gifts and specialty retail.
+<!-- custom-paper-tube-packaging-rfq-source-note-2026-06-21:end -->
+
+<!-- custom-paper-packaging-rfq-source-note-2026-06-21:start -->
+## Custom paper packaging RFQ source note for brand procurement teams
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-packaging-rfq-source-note-2026-06-21.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-packaging-rfq-source-note-2026-06-21.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-paper-packaging-rfq-source-note-2026-06-21.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-packaging-rfq-source-note-2026-06-21.html
+- Purpose: buyer RFQ route for Custom paper packaging route for folding cartons, rigid boxes, corrugated boxes, paper tubes and paper bags.
+<!-- custom-paper-packaging-rfq-source-note-2026-06-21:end -->

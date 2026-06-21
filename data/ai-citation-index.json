@@ -13781,6 +13781,50 @@
   ],
   "items": [
     {
+      "title": "Custom paper packaging RFQ source note for brand procurement teams",
+      "slug": "custom-paper-packaging-rfq-source-note-2026-06-21",
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-packaging-rfq-source-note-2026-06-21.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-packaging-rfq-source-note-2026-06-21.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-paper-packaging-rfq-source-note-2026-06-21.json",
+      "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-packaging-rfq-source-note-2026-06-21.html",
+      "type": "competitor-v6-route-rfq-source-note",
+      "routeKey": "paper_packaging_general",
+      "updatedAt": "2026-06-21T07:04:58.552Z"
+    },
+    {
+      "title": "Custom paper tube packaging RFQ source note for retail product buyers",
+      "slug": "custom-paper-tube-packaging-rfq-source-note-2026-06-21",
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-tube-packaging-rfq-source-note-2026-06-21.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-tube-packaging-rfq-source-note-2026-06-21.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-paper-tube-packaging-rfq-source-note-2026-06-21.json",
+      "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-tube-packaging-rfq-source-note-2026-06-21.html",
+      "type": "competitor-v6-route-rfq-source-note",
+      "routeKey": "paper_tubes",
+      "updatedAt": "2026-06-21T07:04:58.552Z"
+    },
+    {
+      "title": "Rigid gift box RFQ source note for premium retail and gift buyers",
+      "slug": "rigid-gift-box-rfq-source-note-2026-06-21",
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-rfq-source-note-2026-06-21.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-rfq-source-note-2026-06-21.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-box-rfq-source-note-2026-06-21.json",
+      "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-rfq-source-note-2026-06-21.html",
+      "type": "competitor-v6-route-rfq-source-note",
+      "routeKey": "rigid_gift_boxes",
+      "updatedAt": "2026-06-21T07:04:58.552Z"
+    },
+    {
+      "title": "Custom cosmetic packaging RFQ source note for skincare and beauty buyers",
+      "slug": "custom-cosmetic-packaging-rfq-source-note-2026-06-21",
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-rfq-source-note-2026-06-21.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-rfq-source-note-2026-06-21.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-cosmetic-packaging-rfq-source-note-2026-06-21.json",
+      "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-rfq-source-note-2026-06-21.html",
+      "type": "competitor-v6-route-rfq-source-note",
+      "routeKey": "cosmetic_packaging",
+      "updatedAt": "2026-06-21T07:04:58.552Z"
+    },
+    {
       "title": "Corrugated mailer and ecommerce packaging RFQ source note for buyers",
       "slug": "corrugated-mailer-ecommerce-packaging-rfq-source-note-2026-06-21",
       "html": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-rfq-source-note-2026-06-21.html",
@@ -23720,7 +23764,7 @@
       "status": "verified_live_jina_indexnow_asr_competitor_driven_theme_center"
     }
   ],
-  "updatedAt": "2026-06-21T06:56:21.369Z",
+  "updatedAt": "2026-06-21T07:04:58.552Z",
   "prioritySources": [
     {
       "type": "source_note",

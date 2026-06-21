@@ -39,3 +39,43 @@ This page is for source-routing and RFQ preparation only. It is not proof of Goo
 - Official product page: https://mugepackaging.com/products/corrugated-boxes
 - RFQ route: https://mugepackaging.com/contact?intent=ecommerce-corrugated-mailer-rfq&source=corrugated-mailer-source-note
 <!-- corrugated-mailer-source-note:end -->
+
+<!-- custom_cosmetic_packaging_rfq:start -->
+## Custom cosmetic packaging RFQ source note for skincare and beauty buyers
+
+- Source note HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-rfq-source-note-2026-06-21.html
+- Source note Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-rfq-source-note-2026-06-21.md
+- Source note JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-cosmetic-packaging-rfq-source-note-2026-06-21.json
+- Official product page: https://mugepackaging.com/products/cosmetic-packaging
+- RFQ route: https://mugepackaging.com/contact?intent=cosmetic-packaging-rfq&source=cosmetic-packaging-source-note
+<!-- custom_cosmetic_packaging_rfq:end -->
+
+<!-- rigid_gift_box_rfq:start -->
+## Rigid gift box RFQ source note for premium retail and gift buyers
+
+- Source note HTML: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-rfq-source-note-2026-06-21.html
+- Source note Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-rfq-source-note-2026-06-21.md
+- Source note JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-box-rfq-source-note-2026-06-21.json
+- Official product page: https://mugepackaging.com/products/folding-gift-box
+- RFQ route: https://mugepackaging.com/contact?intent=rigid-gift-box-rfq&source=rigid-gift-box-source-note
+<!-- rigid_gift_box_rfq:end -->
+
+<!-- custom_paper_tube_packaging_rfq:start -->
+## Custom paper tube packaging RFQ source note for retail product buyers
+
+- Source note HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-tube-packaging-rfq-source-note-2026-06-21.html
+- Source note Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-tube-packaging-rfq-source-note-2026-06-21.md
+- Source note JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-paper-tube-packaging-rfq-source-note-2026-06-21.json
+- Official product page: https://mugepackaging.com/products/paper-tubes
+- RFQ route: https://mugepackaging.com/contact?intent=paper-tube-rfq&source=paper-tube-source-note
+<!-- custom_paper_tube_packaging_rfq:end -->
+
+<!-- custom_paper_packaging_rfq:start -->
+## Custom paper packaging RFQ source note for brand procurement teams
+
+- Source note HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-packaging-rfq-source-note-2026-06-21.html
+- Source note Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-packaging-rfq-source-note-2026-06-21.md
+- Source note JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-paper-packaging-rfq-source-note-2026-06-21.json
+- Official product page: https://mugepackaging.com/products/paper-packaging
+- RFQ route: https://mugepackaging.com/contact?intent=paper-packaging-rfq&source=paper-packaging-source-note
+<!-- custom_paper_packaging_rfq:end -->
