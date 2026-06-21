@@ -1,0 +1,96 @@
+{
+  "generated_at": "2026-06-22T07:52:00+08:00",
+  "asset_type": "gsc_weak_signal_sourcebridge",
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_route": "https://mugepackaging.com/products",
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/compare-packaging-options-buyer-decision-rfq-sourcebridge-20260622.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/compare-packaging-options-buyer-decision-rfq-sourcebridge-20260622.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/compare-packaging-options-buyer-decision-rfq-sourcebridge-20260622.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/compare-packaging-options-buyer-decision-rfq-sourcebridge-20260622.html"
+  },
+  "source_signal": {
+    "source": "Google Search Console query baseline",
+    "baseline_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-22_0749_GSC查询词排名基线.json",
+    "queries": [
+      {
+        "query": "compare packaging",
+        "window": "last_7_days",
+        "impressions": 3,
+        "clicks": 0,
+        "average_position": 20
+      },
+      {
+        "query": "blog packaging solutions",
+        "window": "last_7_days",
+        "impressions": 2,
+        "clicks": 0,
+        "average_position": 70.5
+      },
+      {
+        "query": "\"custom packaging solutions\" \"cosmetic packaging manufacturer\" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com",
+        "window": "last_7_days",
+        "impressions": 1,
+        "clicks": 0,
+        "average_position": 3
+      }
+    ]
+  },
+  "comparison_routes": [
+    {
+      "buyer_need": "Premium retail box, beauty set, electronics accessory or gift item",
+      "compare": "Rigid gift box, folding gift box, paper packaging box, insert-supported structure",
+      "routes": [
+        "https://mugepackaging.com/products/folding-gift-box",
+        "https://mugepackaging.com/products/paper-packaging"
+      ]
+    },
+    {
+      "buyer_need": "Skincare, cosmetics, fragrance, makeup or beauty kit",
+      "compare": "Cosmetic paper box, rigid set box, clear box, paper tube or pouch depending on product format",
+      "routes": [
+        "https://mugepackaging.com/products/cosmetic-packaging"
+      ]
+    },
+    {
+      "buyer_need": "E-commerce shipping, subscription box or protective mailer",
+      "compare": "Corrugated mailer, folding carton, paper box with insert or custom shipping structure",
+      "routes": [
+        "https://mugepackaging.com/products/corrugated-boxes"
+      ]
+    },
+    {
+      "buyer_need": "Candles, tea, fragrance, specialty retail goods or cylindrical product display",
+      "compare": "Paper tube, composite paper can, cylindrical box or cap-closure tube",
+      "routes": [
+        "https://mugepackaging.com/products/paper-tubes"
+      ]
+    },
+    {
+      "buyer_need": "Transparent retail display for small products",
+      "compare": "Clear PET box, clear PVC box, PP transparent box or printed clear retail box",
+      "routes": [
+        "https://mugepackaging.com/products/clear-boxes"
+      ]
+    },
+    {
+      "buyer_need": "Flexible retail pack, refill pack or lightweight branded pouch",
+      "compare": "Stand-up pouch, zipper pouch, spout pouch, custom printed flexible pouch",
+      "routes": [
+        "https://mugepackaging.com/products/stand-up-pouches"
+      ]
+    }
+  ],
+  "boundaries": [
+    "No verified supplier status claim",
+    "No platform ranking claim",
+    "No fixed MOQ",
+    "No fixed delivery time",
+    "No food-contact compliance claim",
+    "No FDA/FSC/BSCI certification claim",
+    "No customer case claim",
+    "No production capacity claim",
+    "No lowest-price claim"
+  ]
+}
