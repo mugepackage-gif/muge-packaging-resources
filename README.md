@@ -4147,3 +4147,10 @@ Boundary: source discovery, official URL routing, AI/search citation testing and
 - [Paper packaging competitor benchmark SourceBridge for custom packaging buyers](https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-competitor-benchmark-sourcebridge-2026-06-22.html) - competitor v19 paper packaging buyer benchmark SourceBridge.
 
 - [Competitor v19 SourceBridge Telegraph mirror](https://telegra.ph/Paper-Packaging-Competitor-Benchmark-SourceBridge---MUGE-06-21) - third-party readable mirror for MUGE paper packaging buyer benchmark.
+
+### Competitor v19 SourceBridge Rentry mirror (2026-06-22 04:13:29 CST)
+
+- Rentry: https://rentry.co/muge-paper-packaging-competitor-sourcebridge-20260622-0413
+- Jina Reader: https://r.jina.ai/http://rentry.co/muge-paper-packaging-competitor-sourcebridge-20260622-0413?v=20260622-0413
+- Scope: third-party readable mirror for the 20-site paper packaging competitor benchmark SourceBridge.
+- Boundary: source asset only; not ranking, traffic, inquiry, customer case or endorsement evidence.
