@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T09:26:53.743Z",
+  "generatedAt": "2026-06-21T12:58:08.608Z",
   "title": "MUGE PACKAGING GA4/GSC Organic and AI Referral Buyer Route SourceNote",
   "company": {
     "brand": "MUGE PACKAGING",
@@ -67,27 +67,5 @@
     "No fixed MOQ, fixed lead time, lowest-price, production-capacity or customer-case claim is made.",
     "Certification, regulated-market and compliance questions require project-specific document review.",
     "Any quotation, schedule, document commitment or market-specific compliance conclusion must be confirmed manually by MUGE PACKAGING."
-  ],
-  "internalEvidence": {
-    "ga4Json": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GA4关键事件与落地页/202606201724_GA4关键事件与落地页复盘.json",
-    "gscTargetJson": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-20_1723_目标关键词排名验收.json",
-    "ga4Summary": {
-      "eventTotal": 62,
-      "strongEventTotal": 6,
-      "assistEventTotal": 56,
-      "todayEventTotal": 0,
-      "todayStrongEventTotal": 0,
-      "todayAssistEventTotal": 0,
-      "googleAdsRows": 1
-    },
-    "gscSummary": {
-      "totalTargets": 300,
-      "exactVisible": 0,
-      "relatedVisible": 0,
-      "top20": 0,
-      "clicked": 0,
-      "failed": 300
-    },
-    "note": "Public asset omits raw low-volume traffic counts; exact evidence remains archived internally."
-  }
+  ]
 }
