@@ -93,8 +93,15 @@
         },
         "priorSourceNote": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-box-europe-middle-east-rfq-competitor-route-2026-06-21.html"
       },
-      "verificationStatus": "generated_pending_live_indexnow_jina_asr",
-      "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, FSC/FDA certification proof, food-contact proof, destination-market compliance proof, fixed MOQ, fixed lead time, fixed price, production capacity proof or named customer proof. Product details, artwork, materials, labels, documents, quantity direction and destination-market requirements must be reviewed case by case."
+      "verificationStatus": "live_jina_indexnow_asr_verified_20260621_2153",
+      "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, FSC/FDA certification proof, food-contact proof, destination-market compliance proof, fixed MOQ, fixed lead time, fixed price, production capacity proof or named customer proof. Product details, artwork, materials, labels, documents, quantity direction and destination-market requirements must be reviewed case by case.",
+      "liveCheck": {
+        "html": 200,
+        "markdown": 200,
+        "json": 200,
+        "jina": 200,
+        "checkedAt": "2026-06-21T13:54:17.449Z"
+      }
     },
     {
       "type": "source_note",
@@ -151,8 +158,15 @@
         },
         "priorSourceNote": "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-europe-middle-east-rfq-competitor-route-2026-06-21.html"
       },
-      "verificationStatus": "generated_pending_live_indexnow_jina_asr",
-      "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, FSC/FDA certification proof, food-contact proof, destination-market compliance proof, fixed MOQ, fixed lead time, fixed price, production capacity proof or named customer proof. Product details, artwork, materials, labels, documents, quantity direction and destination-market requirements must be reviewed case by case."
+      "verificationStatus": "live_jina_indexnow_asr_verified_20260621_2153",
+      "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, FSC/FDA certification proof, food-contact proof, destination-market compliance proof, fixed MOQ, fixed lead time, fixed price, production capacity proof or named customer proof. Product details, artwork, materials, labels, documents, quantity direction and destination-market requirements must be reviewed case by case.",
+      "liveCheck": {
+        "html": 200,
+        "markdown": 200,
+        "json": 200,
+        "jina": 200,
+        "checkedAt": "2026-06-21T13:54:17.448Z"
+      }
     },
     {
       "type": "source_note",
@@ -14623,9 +14637,27 @@
         "priorSourceNote": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-box-europe-middle-east-rfq-competitor-route-2026-06-21.html"
       },
       "generated_at": "2026-06-21T13:52:22.499Z",
-      "verificationStatus": "generated_pending_live_indexnow_jina_asr",
+      "verificationStatus": "live_jina_indexnow_asr_verified_20260621_2153",
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, FSC/FDA certification proof, food-contact proof, destination-market compliance proof, fixed MOQ, fixed lead time, fixed price, production capacity proof or named customer proof. Product details, artwork, materials, labels, documents, quantity direction and destination-market requirements must be reviewed case by case.",
-      "useFor": "corrugated mailer boxes / ecommerce shipping boxes / protective paper packaging zero-impression RFQ bridge."
+      "useFor": "corrugated mailer boxes / ecommerce shipping boxes / protective paper packaging zero-impression RFQ bridge.",
+      "liveCheck": {
+        "html": 200,
+        "markdown": 200,
+        "json": 200,
+        "jina": 200,
+        "checkedAt": "2026-06-21T13:54:17.449Z"
+      },
+      "indexNow": {
+        "status": "submitted",
+        "httpStatus": 200,
+        "archive": "20260621_2153_RigidCorrugatedZeroImpressionBridge_20260621_自定义URL_IndexNow提交.md"
+      },
+      "asr": {
+        "status": "accepted",
+        "accepted": 6,
+        "attempted": 6,
+        "archive": "20260621_2153_RigidCorrugatedZeroImpressionBridge_20260621_ASR发现提交.md"
+      }
     },
     {
       "slug": "rigid-gift-box-gsc-zero-impression-rfq-bridge-sourcenote-2026-06-21",
@@ -14692,9 +14724,27 @@
         "priorSourceNote": "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-europe-middle-east-rfq-competitor-route-2026-06-21.html"
       },
       "generated_at": "2026-06-21T13:52:22.499Z",
-      "verificationStatus": "generated_pending_live_indexnow_jina_asr",
+      "verificationStatus": "live_jina_indexnow_asr_verified_20260621_2153",
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, FSC/FDA certification proof, food-contact proof, destination-market compliance proof, fixed MOQ, fixed lead time, fixed price, production capacity proof or named customer proof. Product details, artwork, materials, labels, documents, quantity direction and destination-market requirements must be reviewed case by case.",
-      "useFor": "custom rigid gift boxes / folding gift boxes / premium set packaging zero-impression RFQ bridge."
+      "useFor": "custom rigid gift boxes / folding gift boxes / premium set packaging zero-impression RFQ bridge.",
+      "liveCheck": {
+        "html": 200,
+        "markdown": 200,
+        "json": 200,
+        "jina": 200,
+        "checkedAt": "2026-06-21T13:54:17.448Z"
+      },
+      "indexNow": {
+        "status": "submitted",
+        "httpStatus": 200,
+        "archive": "20260621_2153_RigidCorrugatedZeroImpressionBridge_20260621_自定义URL_IndexNow提交.md"
+      },
+      "asr": {
+        "status": "accepted",
+        "accepted": 6,
+        "attempted": 6,
+        "archive": "20260621_2153_RigidCorrugatedZeroImpressionBridge_20260621_ASR发现提交.md"
+      }
     },
     {
       "slug": "cosmetic-packaging-gsc-url-zero-click-bridge-sourcenote-2026-06-21",
