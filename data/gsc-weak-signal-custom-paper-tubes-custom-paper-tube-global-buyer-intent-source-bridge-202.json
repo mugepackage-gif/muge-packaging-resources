@@ -1,0 +1,49 @@
+{
+  "id": "gsc-weak-signal-custom-paper-tubes-custom-paper-tube-global-buyer-intent-source-bridge-202",
+  "title": "Custom Paper Tubes Custom Paper Tube Source Bridge",
+  "created_at": "2026-06-21T16:39:58.688Z",
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "website": "https://mugepackaging.com"
+  },
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-custom-paper-tubes-custom-paper-tube-global-buyer-intent-source-bridge-202.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-custom-paper-tubes-custom-paper-tube-global-buyer-intent-source-bridge-202.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/gsc-weak-signal-custom-paper-tubes-custom-paper-tube-global-buyer-intent-source-bridge-202.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-custom-paper-tubes-custom-paper-tube-global-buyer-intent-source-bridge-202.html"
+  },
+  "source_signal": {
+    "product": "custom paper tubes",
+    "region": "global",
+    "intent": "buyer_intent",
+    "related_query_signal": "custom paper tube",
+    "weak_cluster_impressions": 19,
+    "best_average_position": 80,
+    "clicks": 0,
+    "target_url": "https://mugepackaging.com/products/paper-tubes"
+  },
+  "buyer_questions": [
+    "custom paper tube packaging",
+    "best custom paper tubes",
+    "buying guide custom paper tubes",
+    "guide custom paper tubes",
+    "how to choose custom paper tubes",
+    "how to compare custom paper tubes",
+    "how to source custom paper tubes",
+    "what details are needed for custom paper tubes",
+    "what to send for custom paper tubes",
+    "where to find custom paper tubes"
+  ],
+  "official_routes": [
+    "https://mugepackaging.com/products/paper-tubes",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/contact"
+  ],
+  "claim_boundaries": [
+    "This page is a public source bridge and search-discovery asset.",
+    "It is not proof of Google ranking, traffic growth, AI answer inclusion, inquiry generation, third-party endorsement or platform approval status.",
+    "It does not claim preset order minimums, preset timelines, preset pricing, cheapest-offer positioning, production volume, named buyer examples, product-contact suitability, document approval or destination-market compliance guarantees.",
+    "Commercial terms, documents and destination-market requirements must be reviewed project by project."
+  ]
+}

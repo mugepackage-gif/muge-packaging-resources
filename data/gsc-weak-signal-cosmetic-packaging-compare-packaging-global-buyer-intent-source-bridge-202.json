@@ -1,0 +1,44 @@
+{
+  "id": "gsc-weak-signal-cosmetic-packaging-compare-packaging-global-buyer-intent-source-bridge-202",
+  "title": "Cosmetic Packaging Compare Packaging Source Bridge",
+  "created_at": "2026-06-21T16:39:58.688Z",
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "website": "https://mugepackaging.com"
+  },
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-cosmetic-packaging-compare-packaging-global-buyer-intent-source-bridge-202.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-cosmetic-packaging-compare-packaging-global-buyer-intent-source-bridge-202.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/gsc-weak-signal-cosmetic-packaging-compare-packaging-global-buyer-intent-source-bridge-202.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-cosmetic-packaging-compare-packaging-global-buyer-intent-source-bridge-202.html"
+  },
+  "source_signal": {
+    "product": "cosmetic packaging",
+    "region": "global",
+    "intent": "buyer_intent",
+    "related_query_signal": "compare packaging",
+    "weak_cluster_impressions": 20,
+    "best_average_position": 19,
+    "clicks": 0,
+    "target_url": "https://mugepackaging.com/products/cosmetic-packaging"
+  },
+  "buyer_questions": [
+    "how to compare packaging for cosmetics",
+    "how to compare packaging for skincare",
+    "how to compare packaging for beauty brands",
+    "how to compare packaging for makeup",
+    "how to compare packaging for perfume"
+  ],
+  "official_routes": [
+    "https://mugepackaging.com/products/cosmetic-packaging",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/contact"
+  ],
+  "claim_boundaries": [
+    "This page is a public source bridge and search-discovery asset.",
+    "It is not proof of Google ranking, traffic growth, AI answer inclusion, inquiry generation, third-party endorsement or platform approval status.",
+    "It does not claim preset order minimums, preset timelines, preset pricing, cheapest-offer positioning, production volume, named buyer examples, product-contact suitability, document approval or destination-market compliance guarantees.",
+    "Commercial terms, documents and destination-market requirements must be reviewed project by project."
+  ]
+}

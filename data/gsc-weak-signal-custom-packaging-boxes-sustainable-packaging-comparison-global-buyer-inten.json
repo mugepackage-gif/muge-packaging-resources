@@ -1,0 +1,40 @@
+{
+  "id": "gsc-weak-signal-custom-packaging-boxes-sustainable-packaging-comparison-global-buyer-inten",
+  "title": "Custom Packaging Boxes Sustainable Packaging Comparison Source Bridge",
+  "created_at": "2026-06-21T16:39:58.688Z",
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "website": "https://mugepackaging.com"
+  },
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-custom-packaging-boxes-sustainable-packaging-comparison-global-buyer-inten.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-custom-packaging-boxes-sustainable-packaging-comparison-global-buyer-inten.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/gsc-weak-signal-custom-packaging-boxes-sustainable-packaging-comparison-global-buyer-inten.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-custom-packaging-boxes-sustainable-packaging-comparison-global-buyer-inten.html"
+  },
+  "source_signal": {
+    "product": "custom packaging boxes",
+    "region": "global",
+    "intent": "buyer_intent",
+    "related_query_signal": "sustainable packaging comparison",
+    "weak_cluster_impressions": 12,
+    "best_average_position": 47.42,
+    "clicks": 0,
+    "target_url": "https://mugepackaging.com/materials"
+  },
+  "buyer_questions": [
+    "sustainable packaging"
+  ],
+  "official_routes": [
+    "https://mugepackaging.com/materials",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/contact"
+  ],
+  "claim_boundaries": [
+    "This page is a public source bridge and search-discovery asset.",
+    "It is not proof of Google ranking, traffic growth, AI answer inclusion, inquiry generation, third-party endorsement or platform approval status.",
+    "It does not claim preset order minimums, preset timelines, preset pricing, cheapest-offer positioning, production volume, named buyer examples, product-contact suitability, document approval or destination-market compliance guarantees.",
+    "Commercial terms, documents and destination-market requirements must be reviewed project by project."
+  ]
+}
