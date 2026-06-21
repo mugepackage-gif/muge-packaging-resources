@@ -1,3 +1,31 @@
+<!-- MUGE_RENTRY_MIRROR_GSC_WEAK_PAPER_TUBES_CUSTOM_PAPER_TUBE_20260618:start -->
+## GSC弱展示PaperTubesCustomPaperTube_RentryMirror Rentry Mirror - 2026-06-22 02:58:39
+- Rentry: https://rentry.co/muge-gsc-weak-paper-tubes-custom-paper-tube-20260622-0258
+- Jina: https://r.jina.ai/http://rentry.co/muge-gsc-weak-paper-tubes-custom-paper-tube-20260622-0258?v=20260622-0258
+- Boundary: third-party readable mirror only; not ranking, traffic, AI natural recommendation, inquiry or endorsement proof.
+<!-- MUGE_RENTRY_MIRROR_GSC_WEAK_PAPER_TUBES_CUSTOM_PAPER_TUBE_20260618:end -->
+
+<!-- MUGE_RENTRY_MIRROR_GSC_WEAK_PAPER_TUBES_COMPARE_PACKAGING_20260618:start -->
+## GSC弱展示PaperTubesComparePackaging_RentryMirror Rentry Mirror - 2026-06-22 02:58:39
+- Rentry: https://rentry.co/muge-gsc-weak-paper-tubes-compare-packaging-20260622-0258
+- Jina: https://r.jina.ai/http://rentry.co/muge-gsc-weak-paper-tubes-compare-packaging-20260622-0258?v=20260622-0258
+- Boundary: third-party readable mirror only; not ranking, traffic, AI natural recommendation, inquiry or endorsement proof.
+<!-- MUGE_RENTRY_MIRROR_GSC_WEAK_PAPER_TUBES_COMPARE_PACKAGING_20260618:end -->
+
+<!-- MUGE_RENTRY_MIRROR_GSC_WEAK_SUSTAINABLE_PACKAGING_COMPARISON_20260618:start -->
+## GSC弱展示SustainablePackagingComparison_RentryMirror Rentry Mirror - 2026-06-22 02:58:39
+- Rentry: https://rentry.co/muge-gsc-weak-sustainable-packaging-comparison-20260622-0258
+- Jina: https://r.jina.ai/http://rentry.co/muge-gsc-weak-sustainable-packaging-comparison-20260622-0258?v=20260622-0258
+- Boundary: third-party readable mirror only; not ranking, traffic, AI natural recommendation, inquiry or endorsement proof.
+<!-- MUGE_RENTRY_MIRROR_GSC_WEAK_SUSTAINABLE_PACKAGING_COMPARISON_20260618:end -->
+
+<!-- MUGE_RENTRY_MIRROR_GSC_WEAK_COSMETIC_COMPARE_PACKAGING_20260618:start -->
+## GSC弱展示CosmeticComparePackaging_RentryMirror Rentry Mirror - 2026-06-22 02:58:39
+- Rentry: https://rentry.co/muge-gsc-weak-cosmetic-compare-packaging-20260622-0258
+- Jina: https://r.jina.ai/http://rentry.co/muge-gsc-weak-cosmetic-compare-packaging-20260622-0258?v=20260622-0258
+- Boundary: third-party readable mirror only; not ranking, traffic, AI natural recommendation, inquiry or endorsement proof.
+<!-- MUGE_RENTRY_MIRROR_GSC_WEAK_COSMETIC_COMPARE_PACKAGING_20260618:end -->
+
 <!-- GSC_WEAK_SIGNAL_TOP2_5_SOURCE_BRIDGES_20260622:start -->
 ## GSC Weak Signal Top2-5 Source Bridges - 2026-06-22
 - Cosmetic Packaging Compare Packaging Source Bridge
