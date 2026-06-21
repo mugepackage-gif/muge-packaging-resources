@@ -702,9 +702,58 @@
       "title": "Cosmetic packaging Europe and Middle East RFQ competitor route - MUGE PACKAGING",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html",
       "evidence": "Generated from paper packaging competitor-pattern analysis and official MUGE cosmetic packaging RFQ route.",
-      "verificationStatus": "generated_pending_live_indexnow_asr",
+      "verificationStatus": "verified_live_jina_indexnow_asr_cosmetic_packaging_competitor_route",
       "boundary": "This SourceNote is a buyer-route and source-discovery asset, not proof of ranking, traffic, AI recommendation, inquiry or endorsement. MUGE PACKAGING does not use this page to claim fixed MOQ, fixed lead time, lowest price, named customers, production capacity or destination-market compliance. Certification, food-contact and regulated-market language must be reviewed with project documents before external use. The competitor references are used as public pattern categories; this page does not copy competitor claims or imply partnership.",
-      "created_at": "2026-06-21T10:25:43.588Z"
+      "created_at": "2026-06-21T10:25:43.588Z",
+      "result": "verified_live_jina_indexnow_asr_cosmetic_packaging_competitor_route",
+      "status": "verified_live_jina_indexnow_asr_cosmetic_packaging_competitor_route",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T10:29:50.555Z",
+        "verificationStatus": "verified_live_jina_indexnow_asr_cosmetic_packaging_competitor_route",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "status": "submitted",
+          "precheckOk": 3,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1828_CosmeticPackagingRFQCompetitorRoute_20260621_自定义URL_IndexNow提交.md"
+        },
+        "asr": {
+          "status": "accepted",
+          "attempted": 3,
+          "accepted": 3,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1829_CosmeticPackagingRFQCompetitorRoute_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "publicUrls": {
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html",
+          "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.md",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.json",
+          "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html"
+        },
+        "countingNote": "This verification proves public readability, Jina readability, IndexNow notification, ASR accepted submission and evidence-ledger update. It is not proof of Google ranking, organic clicks, inquiry conversion, AI natural recommendation, third-party endorsement, certification, fixed MOQ, fixed lead time, fixed price, customer cases, production capacity, food-contact suitability or destination-market compliance."
+      },
+      "verifiedAt": "2026-06-21T10:29:50.555Z",
+      "discovery": {
+        "indexNow": {
+          "status": "submitted",
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1828_CosmeticPackagingRFQCompetitorRoute_20260621_自定义URL_IndexNow提交.md"
+        },
+        "asr": {
+          "status": "accepted",
+          "attempted": 3,
+          "accepted": 3,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1829_CosmeticPackagingRFQCompetitorRoute_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "jina": {
+          "status": 200,
+          "url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html"
+        }
+      }
     },
     {
       "id": "paper-packaging-competitor-gap-to-rfq-routemap-2026-06-21_ledger",
@@ -10074,7 +10123,7 @@
       }
     }
   ],
-  "updated_at": "2026-06-21T10:25:43.588Z",
+  "updated_at": "2026-06-21T10:29:50.555Z",
   "lastEntityRfqHandoffRouteMapVerification": {
     "id": "entity-rfq-handoff-route-map-20260621",
     "label": "Entity / RFQ Handoff / Route Map SourceNotes - 2026-06-21",
@@ -10582,5 +10631,12 @@
     "indexNowEvidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1806_CompetitorGapRFQRouteMap_20260621_自定义URL_IndexNow提交.md",
     "asrEvidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1807_CompetitorGapRFQRouteMap_20260621_任意外部URL_ASR发现提交.md",
     "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-competitor-gap-to-rfq-routemap-2026-06-21.html"
+  },
+  "lastCosmeticPackagingCompetitorRouteVerification": {
+    "verifiedAt": "2026-06-21T10:29:50.555Z",
+    "verificationStatus": "verified_live_jina_indexnow_asr_cosmetic_packaging_competitor_route",
+    "indexNowEvidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1828_CosmeticPackagingRFQCompetitorRoute_20260621_自定义URL_IndexNow提交.md",
+    "asrEvidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1829_CosmeticPackagingRFQCompetitorRoute_20260621_任意外部URL_ASR发现提交.md",
+    "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html"
   }
 }
