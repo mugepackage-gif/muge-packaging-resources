@@ -3970,3 +3970,13 @@ Boundary: source discovery, official URL routing, AI/search citation testing and
 - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html
 - Purpose: product-line SourceNote for cosmetic packaging RFQ preparation, competitor-pattern routing and official MUGE page alignment.
 <!-- cosmetic-packaging-europe-middle-east-rfq-competitor-route-2026-06-21:end -->
+
+<!-- rigid-gift-box-europe-middle-east-rfq-competitor-route-2026-06-21:start -->
+## Rigid Gift Box Europe and Middle East RFQ Competitor Route
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-europe-middle-east-rfq-competitor-route-2026-06-21.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-europe-middle-east-rfq-competitor-route-2026-06-21.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-box-europe-middle-east-rfq-competitor-route-2026-06-21.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-europe-middle-east-rfq-competitor-route-2026-06-21.html
+- Purpose: product-line SourceNote for rigid gift box RFQ preparation, competitor-pattern routing and official MUGE page alignment.
+<!-- rigid-gift-box-europe-middle-east-rfq-competitor-route-2026-06-21:end -->
