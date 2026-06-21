@@ -8473,9 +8473,191 @@
         "boundary": "This batch is evidence of public readability, Jina readability, Rentry/Telegraph mirror availability, IndexNow notification, ASR discovery submission, and public evidence ledger update only. It is not proof of Google ranking, organic clicks, AI natural recommendation, third-party endorsement, inquiry growth, certification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact approval, or destination-market compliance."
       },
       "boundary": "This batch is evidence of public readability, Jina readability, Rentry/Telegraph mirror availability, IndexNow notification, ASR discovery submission, and public evidence ledger update only. It is not proof of Google ranking, organic clicks, AI natural recommendation, third-party endorsement, inquiry growth, certification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact approval, or destination-market compliance."
+    },
+    {
+      "timestamp": "2026-06-21T10:00:00+08:00",
+      "date": "2026-06-21",
+      "category": "uk_gift_box_wholesale_rfq_handoff",
+      "result": "verified_live_jina_indexnow_asr",
+      "slug": "rigid-gift-box-uk-wholesale-rfq-handoff-sourcenote-2026-06-20",
+      "market": "UK",
+      "productCategory": "rigid gift boxes",
+      "buyerQuestion": "How should UK buyers move from gift box wholesale search intent into a rigid gift box RFQ brief?",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-uk-wholesale-rfq-handoff-sourcenote-2026-06-20.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-uk-wholesale-rfq-handoff-sourcenote-2026-06-20.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-box-uk-wholesale-rfq-handoff-sourcenote-2026-06-20.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-uk-wholesale-rfq-handoff-sourcenote-2026-06-20.html",
+      "officialRoutes": [
+        "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+        "https://mugepackaging.com/products/folding-gift-box",
+        "https://mugepackaging.com/contact?intent=rigid-gift-box&source=uk-wholesale-rfq-sourcenote",
+        "https://mugepackaging.com"
+      ],
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-uk-wholesale-rfq-handoff-sourcenote-2026-06-20.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-uk-wholesale-rfq-handoff-sourcenote-2026-06-20.md",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-box-uk-wholesale-rfq-handoff-sourcenote-2026-06-20.json",
+        "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-uk-wholesale-rfq-handoff-sourcenote-2026-06-20.html"
+      ],
+      "archives": {
+        "sourceIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0959_UKGiftBox_CosmeticFactoryGuide_SourceNotes_Recheck_20260621_自定义URL_IndexNow提交.md",
+        "officialIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210959_UKGiftBox_CosmeticFactoryGuide_OfficialRoutes_20260621_IndexNow提交记录.md",
+        "asrArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1000_UKGiftBox_CosmeticFactoryGuide_ASR_Recheck_20260621_任意外部URL_ASR发现提交.md"
+      },
+      "metrics": {
+        "liveChecks": 16,
+        "liveChecksOk": 16,
+        "sourceNoteIndexNowPrecheckOk": 6,
+        "sourceNoteIndexNowUrlCount": 6,
+        "officialIndexNowPrecheckOk": 7,
+        "officialIndexNowUrlCount": 7,
+        "asrTotal": 13,
+        "asrAttempted": 10,
+        "asrAccepted": 10
+      },
+      "countingNote": "This verification is for external source routing, AI-reader discovery and RFQ preparation. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, certification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance.",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T10:00:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "batchTotal": 16,
+          "batchOk": 16
+        },
+        "officialRoutes": {
+          "checked": [
+            "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+            "https://mugepackaging.com/products/folding-gift-box",
+            "https://mugepackaging.com/contact?intent=rigid-gift-box&source=uk-wholesale-rfq-sourcenote",
+            "https://mugepackaging.com"
+          ],
+          "checkedOk": 4,
+          "checkedTotal": 4,
+          "batchCheckedOk": 7,
+          "batchCheckedTotal": 7
+        },
+        "indexNow": {
+          "sourceNote": {
+            "label": "UKGiftBox_CosmeticFactoryGuide_SourceNotes_Recheck_20260621",
+            "precheckOk": 6,
+            "urlCount": 6,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0959_UKGiftBox_CosmeticFactoryGuide_SourceNotes_Recheck_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "UKGiftBox_CosmeticFactoryGuide_OfficialRoutes_20260621",
+            "precheckOk": 7,
+            "urlCount": 7,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210959_UKGiftBox_CosmeticFactoryGuide_OfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "UKGiftBox_CosmeticFactoryGuide_ASR_Recheck_20260621",
+          "total": 13,
+          "attempted": 10,
+          "accepted": 10,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1000_UKGiftBox_CosmeticFactoryGuide_ASR_Recheck_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "countingNote": "This verification is for external source routing, AI-reader discovery and RFQ preparation. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, certification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
+    },
+    {
+      "timestamp": "2026-06-21T10:00:00+08:00",
+      "date": "2026-06-21",
+      "category": "cosmetic_factory_guide_ctr_rfq_handoff",
+      "result": "verified_live_jina_indexnow_asr",
+      "slug": "custom-cosmetic-packaging-factory-guide-ctr-rfq-sourcenote-2026-06-20",
+      "market": "Global",
+      "productCategory": "cosmetic packaging",
+      "buyerQuestion": "How should buyers turn custom cosmetic packaging factory guide visibility into an RFQ brief?",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-factory-guide-ctr-rfq-sourcenote-2026-06-20.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-factory-guide-ctr-rfq-sourcenote-2026-06-20.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-cosmetic-packaging-factory-guide-ctr-rfq-sourcenote-2026-06-20.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-factory-guide-ctr-rfq-sourcenote-2026-06-20.html",
+      "officialRoutes": [
+        "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+        "https://mugepackaging.com/products/cosmetic-packaging",
+        "https://mugepackaging.com/contact?intent=cosmetic-packaging&source=cosmetic-factory-guide-ctr-sourcenote",
+        "https://mugepackaging.com"
+      ],
+      "publicEvidence": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-factory-guide-ctr-rfq-sourcenote-2026-06-20.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-factory-guide-ctr-rfq-sourcenote-2026-06-20.md",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-cosmetic-packaging-factory-guide-ctr-rfq-sourcenote-2026-06-20.json",
+        "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-factory-guide-ctr-rfq-sourcenote-2026-06-20.html"
+      ],
+      "archives": {
+        "sourceIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0959_UKGiftBox_CosmeticFactoryGuide_SourceNotes_Recheck_20260621_自定义URL_IndexNow提交.md",
+        "officialIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210959_UKGiftBox_CosmeticFactoryGuide_OfficialRoutes_20260621_IndexNow提交记录.md",
+        "asrArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1000_UKGiftBox_CosmeticFactoryGuide_ASR_Recheck_20260621_任意外部URL_ASR发现提交.md"
+      },
+      "metrics": {
+        "liveChecks": 16,
+        "liveChecksOk": 16,
+        "sourceNoteIndexNowPrecheckOk": 6,
+        "sourceNoteIndexNowUrlCount": 6,
+        "officialIndexNowPrecheckOk": 7,
+        "officialIndexNowUrlCount": 7,
+        "asrTotal": 13,
+        "asrAttempted": 10,
+        "asrAccepted": 10
+      },
+      "countingNote": "This verification is for external source routing, AI-reader discovery and RFQ preparation. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, certification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance.",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T10:00:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "batchTotal": 16,
+          "batchOk": 16
+        },
+        "officialRoutes": {
+          "checked": [
+            "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+            "https://mugepackaging.com/products/cosmetic-packaging",
+            "https://mugepackaging.com/contact?intent=cosmetic-packaging&source=cosmetic-factory-guide-ctr-sourcenote",
+            "https://mugepackaging.com"
+          ],
+          "checkedOk": 4,
+          "checkedTotal": 4,
+          "batchCheckedOk": 7,
+          "batchCheckedTotal": 7
+        },
+        "indexNow": {
+          "sourceNote": {
+            "label": "UKGiftBox_CosmeticFactoryGuide_SourceNotes_Recheck_20260621",
+            "precheckOk": 6,
+            "urlCount": 6,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0959_UKGiftBox_CosmeticFactoryGuide_SourceNotes_Recheck_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "UKGiftBox_CosmeticFactoryGuide_OfficialRoutes_20260621",
+            "precheckOk": 7,
+            "urlCount": 7,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210959_UKGiftBox_CosmeticFactoryGuide_OfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "UKGiftBox_CosmeticFactoryGuide_ASR_Recheck_20260621",
+          "total": 13,
+          "attempted": 10,
+          "accepted": 10,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1000_UKGiftBox_CosmeticFactoryGuide_ASR_Recheck_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "countingNote": "This verification is for external source routing, AI-reader discovery and RFQ preparation. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, certification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     }
   ],
-  "updated_at": "2026-06-21T01:53:21.035Z",
+  "updated_at": "2026-06-21T10:00:00+08:00",
   "lastEntityRfqHandoffRouteMapVerification": {
     "id": "entity-rfq-handoff-route-map-20260621",
     "label": "Entity / RFQ Handoff / Route Map SourceNotes - 2026-06-21",
@@ -8545,5 +8727,29 @@
       "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0950_CommercialRFQDiscoveryBatch_20260621_任意外部URL_ASR发现提交.md"
     },
     "boundary": "This batch is evidence of public readability, Jina readability, Rentry/Telegraph mirror availability, IndexNow notification, ASR discovery submission, and public evidence ledger update only. It is not proof of Google ranking, organic clicks, AI natural recommendation, third-party endorsement, inquiry growth, certification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact approval, or destination-market compliance."
+  },
+  "lastUKGiftBoxCosmeticFactoryGuideVerification": {
+    "verifiedAt": "2026-06-21T10:00:00+08:00",
+    "verificationStatus": "verified_live_jina_indexnow_asr",
+    "slugs": [
+      "rigid-gift-box-uk-wholesale-rfq-handoff-sourcenote-2026-06-20",
+      "custom-cosmetic-packaging-factory-guide-ctr-rfq-sourcenote-2026-06-20"
+    ],
+    "metrics": {
+      "liveChecks": 16,
+      "liveChecksOk": 16,
+      "sourceNoteIndexNowPrecheckOk": 6,
+      "sourceNoteIndexNowUrlCount": 6,
+      "officialIndexNowPrecheckOk": 7,
+      "officialIndexNowUrlCount": 7,
+      "asrTotal": 13,
+      "asrAttempted": 10,
+      "asrAccepted": 10
+    },
+    "archives": {
+      "sourceIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0959_UKGiftBox_CosmeticFactoryGuide_SourceNotes_Recheck_20260621_自定义URL_IndexNow提交.md",
+      "officialIndexNowArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210959_UKGiftBox_CosmeticFactoryGuide_OfficialRoutes_20260621_IndexNow提交记录.md",
+      "asrArchive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1000_UKGiftBox_CosmeticFactoryGuide_ASR_Recheck_20260621_任意外部URL_ASR发现提交.md"
+    }
   }
 }

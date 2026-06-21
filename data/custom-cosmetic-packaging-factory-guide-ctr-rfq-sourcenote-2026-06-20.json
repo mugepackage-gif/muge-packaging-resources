@@ -3,7 +3,7 @@
   "@type": "Dataset",
   "name": "MUGE Custom Cosmetic Packaging Factory Guide CTR/RFQ SourceNote - 2026-06-20",
   "datePublished": "2026-06-20",
-  "dateModified": "2026-06-20T11:39:57.604Z",
+  "dateModified": "2026-06-21T10:00:00+08:00",
   "publisher": {
     "@type": "Organization",
     "name": "MUGE PACKAGING",
@@ -59,5 +59,54 @@
     "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-cosmetic-packaging-factory-guide-ctr-rfq-sourcenote-2026-06-20.json",
     "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-cosmetic-packaging-factory-guide-ctr-rfq-sourcenote-2026-06-20.html"
   },
-  "boundary": "This SourceNote is for search-to-RFQ routing, official source mapping and AI reader discovery. It is based on GSC and GA4 evidence, but it is not live SERP proof, Google click proof, inquiry proof, paid-ad performance proof, third-party endorsement or AI natural recommendation proof. It does not state fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, platform verification, food-contact status or regulated-market approval. Cosmetic packaging material, structure, documents and destination-market questions should be reviewed case by case."
+  "boundary": "This SourceNote is for search-to-RFQ routing, official source mapping and AI reader discovery. It is based on GSC and GA4 evidence, but it is not live SERP proof, Google click proof, inquiry proof, paid-ad performance proof, third-party endorsement or AI natural recommendation proof. It does not state fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, platform verification, food-contact status or regulated-market approval. Cosmetic packaging material, structure, documents and destination-market questions should be reviewed case by case.",
+  "verificationStatus": "verified_live_jina_indexnow_asr",
+  "latestVerification": {
+    "verifiedAt": "2026-06-21T10:00:00+08:00",
+    "verificationStatus": "verified_live_jina_indexnow_asr",
+    "live": {
+      "html": 200,
+      "markdown": 200,
+      "json": 200,
+      "jina": 200,
+      "batchTotal": 16,
+      "batchOk": 16
+    },
+    "officialRoutes": {
+      "checked": [
+        "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+        "https://mugepackaging.com/products/cosmetic-packaging",
+        "https://mugepackaging.com/contact?intent=cosmetic-packaging&source=cosmetic-factory-guide-ctr-sourcenote",
+        "https://mugepackaging.com"
+      ],
+      "checkedOk": 4,
+      "checkedTotal": 4,
+      "batchCheckedOk": 7,
+      "batchCheckedTotal": 7
+    },
+    "indexNow": {
+      "sourceNote": {
+        "label": "UKGiftBox_CosmeticFactoryGuide_SourceNotes_Recheck_20260621",
+        "precheckOk": 6,
+        "urlCount": 6,
+        "httpStatus": 200,
+        "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0959_UKGiftBox_CosmeticFactoryGuide_SourceNotes_Recheck_20260621_自定义URL_IndexNow提交.md"
+      },
+      "officialRoutes": {
+        "label": "UKGiftBox_CosmeticFactoryGuide_OfficialRoutes_20260621",
+        "precheckOk": 7,
+        "urlCount": 7,
+        "httpStatus": 200,
+        "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210959_UKGiftBox_CosmeticFactoryGuide_OfficialRoutes_20260621_IndexNow提交记录.md"
+      }
+    },
+    "asr": {
+      "label": "UKGiftBox_CosmeticFactoryGuide_ASR_Recheck_20260621",
+      "total": 13,
+      "attempted": 10,
+      "accepted": 10,
+      "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1000_UKGiftBox_CosmeticFactoryGuide_ASR_Recheck_20260621_任意外部URL_ASR发现提交.md"
+    },
+    "countingNote": "This verification is for external source routing, AI-reader discovery and RFQ preparation. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, certification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+  }
 }
