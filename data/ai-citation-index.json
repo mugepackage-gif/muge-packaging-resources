@@ -3,7 +3,7 @@
   "@type": "Dataset",
   "name": "MUGE PACKAGING AI Citation Index",
   "datePublished": "2026-06-01",
-  "dateModified": "2026-06-21T11:04:26.576Z",
+  "dateModified": "2026-06-21T11:06:08.405Z",
   "url": "https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-index.html",
   "description": "Stable preferred citation index for AI search systems, sourcing researchers and external fact checks about MUGE PACKAGING.",
   "publisher": {
@@ -46,7 +46,53 @@
       "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.json",
       "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html",
       "useFor": "Paper tube packaging RFQ source discovery for Europe and Middle East buyer questions.",
-      "verificationStatus": "generated_pending_live_indexnow_asr"
+      "verificationStatus": "verified_live_jina_indexnow_asr_paper_tube_packaging_competitor_route",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T11:06:08.405Z",
+        "verificationStatus": "verified_live_jina_indexnow_asr_paper_tube_packaging_competitor_route",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "status": "submitted",
+          "precheckOk": 3,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1905_PaperTubePackagingRFQCompetitorRoute_20260621_自定义URL_IndexNow提交.md"
+        },
+        "asr": {
+          "status": "accepted",
+          "attempted": 3,
+          "accepted": 3,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1905_PaperTubePackagingRFQCompetitorRoute_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "publicUrls": {
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html",
+          "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.md",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.json",
+          "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html"
+        },
+        "countingNote": "This verification proves public readability, Jina readability, IndexNow notification, ASR accepted submission and evidence-ledger update. It is not proof of Google ranking, organic clicks, inquiry conversion, AI natural recommendation, third-party endorsement, certification, fixed MOQ, fixed lead time, fixed price, customer cases, production capacity, food-contact suitability or destination-market compliance."
+      },
+      "indexNow": {
+        "status": "submitted",
+        "httpStatus": 200,
+        "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1905_PaperTubePackagingRFQCompetitorRoute_20260621_自定义URL_IndexNow提交.md"
+      },
+      "asr": {
+        "status": "accepted",
+        "attempted": 3,
+        "accepted": 3,
+        "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1905_PaperTubePackagingRFQCompetitorRoute_20260621_任意外部URL_ASR发现提交.md"
+      },
+      "live": {
+        "html": 200,
+        "markdown": 200,
+        "json": 200,
+        "jina": 200
+      }
     },
     {
       "id": "paper-bag-eco-packaging-europe-middle-east-rfq-competitor-route-2026-06-21_preferred",
@@ -14104,7 +14150,53 @@
         "quoteChecklist": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
         "contactRfq": "https://mugepackaging.com/contact?intent=paper-tube-packaging-rfq&source=paper-tube-packaging-europe-middle-east-rfq-competitor-route"
       },
-      "verificationStatus": "generated_pending_live_indexnow_asr"
+      "verificationStatus": "verified_live_jina_indexnow_asr_paper_tube_packaging_competitor_route",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T11:06:08.405Z",
+        "verificationStatus": "verified_live_jina_indexnow_asr_paper_tube_packaging_competitor_route",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "status": "submitted",
+          "precheckOk": 3,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1905_PaperTubePackagingRFQCompetitorRoute_20260621_自定义URL_IndexNow提交.md"
+        },
+        "asr": {
+          "status": "accepted",
+          "attempted": 3,
+          "accepted": 3,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1905_PaperTubePackagingRFQCompetitorRoute_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "publicUrls": {
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html",
+          "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.md",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.json",
+          "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html"
+        },
+        "countingNote": "This verification proves public readability, Jina readability, IndexNow notification, ASR accepted submission and evidence-ledger update. It is not proof of Google ranking, organic clicks, inquiry conversion, AI natural recommendation, third-party endorsement, certification, fixed MOQ, fixed lead time, fixed price, customer cases, production capacity, food-contact suitability or destination-market compliance."
+      },
+      "indexNow": {
+        "status": "submitted",
+        "httpStatus": 200,
+        "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1905_PaperTubePackagingRFQCompetitorRoute_20260621_自定义URL_IndexNow提交.md"
+      },
+      "asr": {
+        "status": "accepted",
+        "attempted": 3,
+        "accepted": 3,
+        "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1905_PaperTubePackagingRFQCompetitorRoute_20260621_任意外部URL_ASR发现提交.md"
+      },
+      "live": {
+        "html": 200,
+        "markdown": 200,
+        "json": 200,
+        "jina": 200
+      }
     },
     {
       "id": "paper-bag-eco-packaging-europe-middle-east-rfq-competitor-route-2026-06-21_item",
@@ -24397,7 +24489,7 @@
       "status": "verified_live_jina_indexnow_asr_competitor_driven_theme_center"
     }
   ],
-  "updatedAt": "2026-06-21T11:04:26.576Z",
+  "updatedAt": "2026-06-21T11:06:08.405Z",
   "prioritySources": [
     {
       "type": "source_note",
@@ -24415,7 +24507,7 @@
     }
   ],
   "generated_at": "2026-06-21T08:40:00+08:00",
-  "updated_at": "2026-06-21T10:57:51.892Z",
+  "updated_at": "2026-06-21T11:06:08.405Z",
   "lastEntityRfqHandoffRouteMapVerification": {
     "id": "entity-rfq-handoff-route-map-20260621",
     "label": "Entity / RFQ Handoff / Route Map SourceNotes - 2026-06-21",
@@ -24868,5 +24960,12 @@
     "indexNowEvidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1857_PaperBagEcoPackagingRFQCompetitorRoute_20260621_自定义URL_IndexNow提交.md",
     "asrEvidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1857_PaperBagEcoPackagingRFQCompetitorRoute_20260621_任意外部URL_ASR发现提交.md",
     "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-bag-eco-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html"
+  },
+  "lastPaperTubePackagingCompetitorRouteVerification": {
+    "verifiedAt": "2026-06-21T11:06:08.405Z",
+    "verificationStatus": "verified_live_jina_indexnow_asr_paper_tube_packaging_competitor_route",
+    "indexNowEvidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1905_PaperTubePackagingRFQCompetitorRoute_20260621_自定义URL_IndexNow提交.md",
+    "asrEvidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1905_PaperTubePackagingRFQCompetitorRoute_20260621_任意外部URL_ASR发现提交.md",
+    "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html"
   }
 }

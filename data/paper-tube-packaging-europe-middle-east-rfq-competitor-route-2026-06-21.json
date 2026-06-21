@@ -123,5 +123,35 @@
     "Certification, food-contact and regulated-market language must be reviewed with project documents before external use.",
     "The competitor references are used as public pattern categories; this page does not copy competitor claims or imply partnership."
   ],
-  "validationRule": "Count this as an external crawlable SourceNote only after live URL checks pass. Count SEO/GEO growth only after GSC, GA4, SerpAPI, Perplexity, AI citation, search result or inquiry evidence confirms external visibility or action."
+  "validationRule": "Count this as an external crawlable SourceNote only after live URL checks pass. Count SEO/GEO growth only after GSC, GA4, SerpAPI, Perplexity, AI citation, search result or inquiry evidence confirms external visibility or action.",
+  "verificationStatus": "verified_live_jina_indexnow_asr_paper_tube_packaging_competitor_route",
+  "latestVerification": {
+    "verifiedAt": "2026-06-21T11:06:08.398Z",
+    "verificationStatus": "verified_live_jina_indexnow_asr_paper_tube_packaging_competitor_route",
+    "live": {
+      "html": 200,
+      "markdown": 200,
+      "json": 200,
+      "jina": 200
+    },
+    "indexNow": {
+      "status": "submitted",
+      "precheckOk": 3,
+      "httpStatus": 200,
+      "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1905_PaperTubePackagingRFQCompetitorRoute_20260621_自定义URL_IndexNow提交.md"
+    },
+    "asr": {
+      "status": "accepted",
+      "attempted": 3,
+      "accepted": 3,
+      "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1905_PaperTubePackagingRFQCompetitorRoute_20260621_任意外部URL_ASR发现提交.md"
+    },
+    "publicUrls": {
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.json",
+      "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html"
+    },
+    "countingNote": "This verification proves public readability, Jina readability, IndexNow notification, ASR accepted submission and evidence-ledger update. It is not proof of Google ranking, organic clicks, inquiry conversion, AI natural recommendation, third-party endorsement, certification, fixed MOQ, fixed lead time, fixed price, customer cases, production capacity, food-contact suitability or destination-market compliance."
+  }
 }
