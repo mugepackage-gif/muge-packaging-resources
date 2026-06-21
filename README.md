@@ -4419,3 +4419,15 @@ Target queries: custom cylinder packaging; composite paper cans; custom paper tu
 
 Boundary: public source-routing and RFQ preparation only; not ranking, traffic, inquiry, certification, endorsement, fixed MOQ, fixed lead time or fixed price proof.
 <!-- gsc-custom-cylinder-composite-paper-cans-sourcebridge-2026-06-22:end -->
+
+<!-- gsc-custom-flexible-packaging-stand-up-pouches-sourcebridge-2026-06-22:start -->
+# GSC weak-signal custom flexible packaging and stand-up pouches SourceBridge (2026-06-22)
+
+- [custom flexible packaging and stand-up pouches RFQ SourceBridge](https://mugepackage-gif.github.io/muge-packaging-resources/custom-flexible-packaging-stand-up-pouches-rfq-sourcebridge-20260622.html) | [MD](https://mugepackage-gif.github.io/muge-packaging-resources/custom-flexible-packaging-stand-up-pouches-rfq-sourcebridge-20260622.md) | [JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-flexible-packaging-stand-up-pouches-rfq-sourcebridge-20260622.json) | [Jina](https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-flexible-packaging-stand-up-pouches-rfq-sourcebridge-20260622.html)
+
+Official route: https://mugepackaging.com/products/stand-up-pouches
+
+Target queries: custom flexible packaging; custom pouch manufacturer; custom pouches wholesale; custom printed flexible pouches; flexible packaging stand up pouch; flexible stand-up pouches.
+
+Boundary: public source-routing and RFQ preparation only; not ranking, traffic, inquiry, certification, endorsement, fixed MOQ, fixed lead time or fixed price proof.
+<!-- gsc-custom-flexible-packaging-stand-up-pouches-sourcebridge-2026-06-22:end -->

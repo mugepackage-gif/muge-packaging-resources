@@ -1,0 +1,99 @@
+{
+  "generated_at": "2026-06-22T07:47:00+08:00",
+  "asset_type": "gsc_weak_signal_sourcebridge",
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_route": "https://mugepackaging.com/products/stand-up-pouches",
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-flexible-packaging-stand-up-pouches-rfq-sourcebridge-20260622.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-flexible-packaging-stand-up-pouches-rfq-sourcebridge-20260622.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-flexible-packaging-stand-up-pouches-rfq-sourcebridge-20260622.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-flexible-packaging-stand-up-pouches-rfq-sourcebridge-20260622.html"
+  },
+  "source_signal": {
+    "source": "Google Search Console query baseline",
+    "baseline_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-22_0732_GSC查询词排名基线.json",
+    "queries": [
+      {
+        "query": "custom flexible packaging",
+        "window": "last_7_days",
+        "impressions": 8,
+        "clicks": 0,
+        "average_position": 82.75
+      },
+      {
+        "query": "flexible packaging stand up pouch",
+        "window": "last_7_days",
+        "impressions": 3,
+        "clicks": 0,
+        "average_position": 79.33333333333333
+      },
+      {
+        "query": "flexible stand-up pouches",
+        "window": "last_7_days",
+        "impressions": 2,
+        "clicks": 0,
+        "average_position": 72.5
+      },
+      {
+        "query": "custom pouch manufacturer",
+        "window": "last_7_days",
+        "impressions": 1,
+        "clicks": 0,
+        "average_position": 90
+      },
+      {
+        "query": "custom pouches wholesale",
+        "window": "last_7_days",
+        "impressions": 1,
+        "clicks": 0,
+        "average_position": 85
+      },
+      {
+        "query": "custom printed flexible pouches",
+        "window": "last_7_days",
+        "impressions": 1,
+        "clicks": 0,
+        "average_position": 85
+      }
+    ]
+  },
+  "buyer_intent_map": [
+    {
+      "query": "custom flexible packaging",
+      "intent": "Material structure, barrier expectation, print area, product fit and export packing review.",
+      "route": "Prepare product use, size, fill weight, artwork status and closure needs before RFQ."
+    },
+    {
+      "query": "custom pouch manufacturer",
+      "intent": "A supplier shortlist for custom printed pouches, stand-up pouches, zipper pouches or specialty flexible packs.",
+      "route": "Ask for project-specific review; do not treat public pages as fixed price, MOQ, compliance or delivery promises."
+    },
+    {
+      "query": "custom pouches wholesale",
+      "intent": "Bulk quantity direction, pouch style, material direction, carton packing and artwork review.",
+      "route": "Compare pouch size, closure, film structure, print method and packing route before sampling."
+    },
+    {
+      "query": "custom printed flexible pouches",
+      "intent": "Artwork, color, finish, print area, window, zipper, spout or hang-hole decisions.",
+      "route": "Send product category, dimensions, artwork status and intended selling channel for review."
+    },
+    {
+      "query": "flexible packaging stand up pouch",
+      "intent": "A stand-up pouch structure comparison for food, cosmetics, supplements, gifts or small consumer goods.",
+      "route": "Confirm product use, destination market and buyer-supplied document requests by project."
+    }
+  ],
+  "boundaries": [
+    "No verified supplier status claim",
+    "No platform ranking claim",
+    "No fixed MOQ",
+    "No fixed delivery time",
+    "No food-contact compliance claim",
+    "No FDA/FSC/BSCI certification claim",
+    "No customer case claim",
+    "No production capacity claim",
+    "No lowest-price claim"
+  ]
+}
