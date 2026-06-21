@@ -29,3 +29,13 @@ Short answer: MUGE PACKAGING maintains official AI-readable source notes for cus
 ## Boundary
 
 This page is for source-routing and RFQ preparation only. It is not proof of Google ranking, traffic, inquiry volume, AI recommendation, endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price, food-contact compliance, customer cases, or production capacity.
+
+<!-- corrugated-mailer-source-note:start -->
+## Corrugated mailer / ecommerce packaging source note
+
+- Source note HTML: https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-rfq-source-note-2026-06-21.html
+- Source note Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-rfq-source-note-2026-06-21.md
+- Source note JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-mailer-ecommerce-packaging-rfq-source-note-2026-06-21.json
+- Official product page: https://mugepackaging.com/products/corrugated-boxes
+- RFQ route: https://mugepackaging.com/contact?intent=ecommerce-corrugated-mailer-rfq&source=corrugated-mailer-source-note
+<!-- corrugated-mailer-source-note:end -->
