@@ -702,9 +702,58 @@
       "title": "MUGE paper packaging competitor gap to RFQ route map - 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-competitor-gap-to-rfq-routemap-2026-06-21.html",
       "evidence": "Generated from 20 paper packaging competitor patterns and official MUGE RFQ routes.",
-      "verificationStatus": "generated_pending_live_indexnow_asr",
+      "verificationStatus": "verified_live_jina_indexnow_asr_competitor_gap_routemap",
       "boundary": "This SourceNote is a public route map derived from competitor-pattern analysis and MUGE official product pages. It is not proof of Google ranking, GSC clicks, natural traffic, inquiry generation, third-party endorsement or AI natural recommendation. It does not state fixed MOQ, fixed lead time, fixed price, lowest price, verified supplier status, named customer cases or production capacity. Certification, food-contact, regulated-market and destination-market compliance questions require separate project-specific document review.",
-      "created_at": "2026-06-21T10:04:40.350Z"
+      "created_at": "2026-06-21T10:04:40.350Z",
+      "result": "verified_live_jina_indexnow_asr_competitor_gap_routemap",
+      "status": "verified_live_jina_indexnow_asr_competitor_gap_routemap",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T10:07:48.336Z",
+        "verificationStatus": "verified_live_jina_indexnow_asr_competitor_gap_routemap",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "status": "submitted",
+          "precheckOk": 3,
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1806_CompetitorGapRFQRouteMap_20260621_自定义URL_IndexNow提交.md"
+        },
+        "asr": {
+          "status": "accepted",
+          "attempted": 3,
+          "accepted": 3,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1807_CompetitorGapRFQRouteMap_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "publicUrls": {
+          "html": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-competitor-gap-to-rfq-routemap-2026-06-21.html",
+          "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-competitor-gap-to-rfq-routemap-2026-06-21.md",
+          "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-packaging-competitor-gap-to-rfq-routemap-2026-06-21.json",
+          "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-competitor-gap-to-rfq-routemap-2026-06-21.html"
+        },
+        "countingNote": "This verification proves public readability, Jina readability, IndexNow notification, ASR accepted submission and evidence-ledger update. It is not proof of Google ranking, organic clicks, inquiry conversion, AI natural recommendation, third-party endorsement, certification, fixed MOQ, fixed lead time, fixed price, customer cases, production capacity, food-contact suitability or destination-market compliance."
+      },
+      "verifiedAt": "2026-06-21T10:07:48.336Z",
+      "discovery": {
+        "indexNow": {
+          "status": "submitted",
+          "httpStatus": 200,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1806_CompetitorGapRFQRouteMap_20260621_自定义URL_IndexNow提交.md"
+        },
+        "asr": {
+          "status": "accepted",
+          "attempted": 3,
+          "accepted": 3,
+          "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1807_CompetitorGapRFQRouteMap_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "jina": {
+          "status": 200,
+          "url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-competitor-gap-to-rfq-routemap-2026-06-21.html"
+        }
+      }
     },
     {
       "date": "2026-06-21",
@@ -10015,7 +10064,7 @@
       }
     }
   ],
-  "updated_at": "2026-06-21T10:04:40.350Z",
+  "updated_at": "2026-06-21T10:07:48.336Z",
   "lastEntityRfqHandoffRouteMapVerification": {
     "id": "entity-rfq-handoff-route-map-20260621",
     "label": "Entity / RFQ Handoff / Route Map SourceNotes - 2026-06-21",
@@ -10516,5 +10565,12 @@
     },
     "counting_rule": "Discovery and refresh evidence only; not proof of Google click, stable ranking, inquiry, AI recommendation or third-party endorsement.",
     "updated_at": "2026-06-21T08:51:00.000Z"
+  },
+  "lastCompetitorGapRouteMapVerification": {
+    "verifiedAt": "2026-06-21T10:07:48.336Z",
+    "verificationStatus": "verified_live_jina_indexnow_asr_competitor_gap_routemap",
+    "indexNowEvidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1806_CompetitorGapRFQRouteMap_20260621_自定义URL_IndexNow提交.md",
+    "asrEvidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1807_CompetitorGapRFQRouteMap_20260621_任意外部URL_ASR发现提交.md",
+    "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-competitor-gap-to-rfq-routemap-2026-06-21.html"
   }
 }

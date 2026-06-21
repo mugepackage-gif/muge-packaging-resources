@@ -263,5 +263,35 @@
     "It does not state fixed MOQ, fixed lead time, fixed price, lowest price, verified supplier status, named customer cases or production capacity.",
     "Certification, food-contact, regulated-market and destination-market compliance questions require separate project-specific document review."
   ],
-  "validationRule": "Count this asset only when the public HTML/Markdown/JSON/Jina URLs are live and crawlable. Count SEO/GEO growth only when GSC, SerpAPI, Perplexity, GA4 or real inquiry evidence confirms external visibility or action."
+  "validationRule": "Count this asset only when the public HTML/Markdown/JSON/Jina URLs are live and crawlable. Count SEO/GEO growth only when GSC, SerpAPI, Perplexity, GA4 or real inquiry evidence confirms external visibility or action.",
+  "verificationStatus": "verified_live_jina_indexnow_asr_competitor_gap_routemap",
+  "latestVerification": {
+    "verifiedAt": "2026-06-21T10:07:48.315Z",
+    "verificationStatus": "verified_live_jina_indexnow_asr_competitor_gap_routemap",
+    "live": {
+      "html": 200,
+      "markdown": 200,
+      "json": 200,
+      "jina": 200
+    },
+    "indexNow": {
+      "status": "submitted",
+      "precheckOk": 3,
+      "httpStatus": 200,
+      "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_1806_CompetitorGapRFQRouteMap_20260621_自定义URL_IndexNow提交.md"
+    },
+    "asr": {
+      "status": "accepted",
+      "attempted": 3,
+      "accepted": 3,
+      "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_1807_CompetitorGapRFQRouteMap_20260621_任意外部URL_ASR发现提交.md"
+    },
+    "publicUrls": {
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-competitor-gap-to-rfq-routemap-2026-06-21.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-competitor-gap-to-rfq-routemap-2026-06-21.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-packaging-competitor-gap-to-rfq-routemap-2026-06-21.json",
+      "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-competitor-gap-to-rfq-routemap-2026-06-21.html"
+    },
+    "countingNote": "This verification proves public readability, Jina readability, IndexNow notification, ASR accepted submission and evidence-ledger update. It is not proof of Google ranking, organic clicks, inquiry conversion, AI natural recommendation, third-party endorsement, certification, fixed MOQ, fixed lead time, fixed price, customer cases, production capacity, food-contact suitability or destination-market compliance."
+  }
 }
