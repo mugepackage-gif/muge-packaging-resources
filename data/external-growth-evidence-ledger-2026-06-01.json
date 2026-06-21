@@ -10411,10 +10411,22 @@
         "packaging paper box"
       ],
       "gsc_signal": "227 impressions / 0 clicks in 28 days for paper packaging product-line set",
-      "verification_status": "generated_pending_live_indexnow_jina_asr",
+      "verification_status": "live_jina_indexnow_asr_verified",
       "counting_rule": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for custom paper packaging, paper boxes, paper bags and related paper-product structures. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, FSC/FDA certification proof, food-contact proof, destination-market compliance proof, fixed MOQ, fixed lead time, fixed price, production capacity proof or named customer proof. Project details, materials, documents, quantity direction and destination-market requirements must be reviewed case by case.",
       "boundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for custom paper packaging, paper boxes, paper bags and related paper-product structures. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, FSC/FDA certification proof, food-contact proof, destination-market compliance proof, fixed MOQ, fixed lead time, fixed price, production capacity proof or named customer proof. Project details, materials, documents, quantity direction and destination-market requirements must be reviewed case by case.",
-      "generated_at": "2026-06-21T13:20:14.121Z"
+      "generated_at": "2026-06-21T13:20:14.121Z",
+      "live_checks": {
+        "html": 200,
+        "markdown": 200,
+        "json": 200,
+        "jina": 200,
+        "brand": true,
+        "query": true,
+        "localPathLeak": false
+      },
+      "indexnow_evidence": "internal-obsidian-archive:20260621_2121_PaperPackagingGSCZeroClickQueryBridge_20260621_自定义URL_IndexNow提交.md",
+      "asr_evidence": "internal-obsidian-archive:20260621_2121_PaperPackagingGSCZeroClickQueryBridge_20260621_ASR发现提交.md",
+      "verified_at": "2026-06-21T13:22:17.024Z"
     }
   ],
   "updated_at": "2026-06-21T13:20:14.121Z",
@@ -10961,6 +10973,6 @@
     "asrEvidence": "internal-obsidian-archive:20260621_1905_PaperTubePackagingRFQCompetitorRoute_20260621_任意外部URL_ASR发现提交.md",
     "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-europe-middle-east-rfq-competitor-route-2026-06-21.html"
   },
-  "updatedAt": "2026-06-21T13:13:43.347Z",
+  "updatedAt": "2026-06-21T13:22:17.024Z",
   "dateModified": "2026-06-21T13:13:43.347Z"
 }
