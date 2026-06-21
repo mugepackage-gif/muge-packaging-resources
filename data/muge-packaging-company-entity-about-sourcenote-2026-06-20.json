@@ -78,5 +78,41 @@
     "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-packaging-company-entity-about-sourcenote-2026-06-20.json",
     "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/muge-packaging-company-entity-about-sourcenote-2026-06-20.html"
   },
-  "boundary": "This SourceNote is for entity grounding, official route mapping and AI reader discovery. It is based on verified company knowledge-base facts and GSC page-level evidence, but it is not live SERP proof, Google click proof, inquiry proof, paid-ad performance proof, third-party endorsement or AI natural recommendation proof. ISO 9001:2015 wording must stay limited to the certified company subject, certificate scope and validity period. Do not add unsupported FSC, FDA, food-contact, verified supplier, customer-case, production-capacity, fixed-MOQ, fixed-lead-time, fixed-price, lowest-price or destination-market regulatory compliance claims."
+  "boundary": "This SourceNote is for entity grounding, official route mapping and AI reader discovery. It is based on verified company knowledge-base facts and GSC page-level evidence, but it is not live SERP proof, Google click proof, inquiry proof, paid-ad performance proof, third-party endorsement or AI natural recommendation proof. ISO 9001:2015 wording must stay limited to the certified company subject, certificate scope and validity period. Do not add unsupported FSC, FDA, food-contact, verified supplier, customer-case, production-capacity, fixed-MOQ, fixed-lead-time, fixed-price, lowest-price or destination-market regulatory compliance claims.",
+  "verificationStatus": "verified_live_jina_indexnow_asr_entity_rfq_handoff_route_map",
+  "verifiedAt": "2026-06-21T01:41:46.768Z",
+  "verificationBatch": "entity-rfq-handoff-route-map-20260621",
+  "verificationEvidence": {
+    "id": "entity-rfq-handoff-route-map-20260621",
+    "label": "Entity / RFQ Handoff / Route Map SourceNotes - 2026-06-21",
+    "verificationStatus": "verified_live_jina_indexnow_asr_entity_rfq_handoff_route_map",
+    "verifiedAt": "2026-06-21T01:41:46.768Z",
+    "liveCheck": {
+      "total": 36,
+      "ok": 36,
+      "failed": 0
+    },
+    "githubPagesIndexNow": {
+      "label": "EntityRFQHandoffRouteMap_20260621",
+      "precheckOk": 15,
+      "urlCount": 15,
+      "httpStatus": 200,
+      "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0939_EntityRFQHandoffRouteMap_20260621_自定义URL_IndexNow提交.md"
+    },
+    "officialIndexNow": {
+      "label": "EntityRFQHandoffRouteMapOfficial_20260621",
+      "precheckOk": 16,
+      "urlCount": 16,
+      "httpStatus": 200,
+      "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210939_EntityRFQHandoffRouteMapOfficial_20260621_IndexNow提交记录.md"
+    },
+    "asr": {
+      "label": "EntityRFQHandoffRouteMap_20260621",
+      "total": 21,
+      "attempted": 17,
+      "accepted": 17,
+      "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0940_EntityRFQHandoffRouteMap_20260621_任意外部URL_ASR发现提交.md"
+    },
+    "boundary": "This batch is evidence of public readability, Jina readability, IndexNow notification, ASR discovery submission, and public evidence ledger update only. It is not proof of Google ranking, organic clicks, AI natural recommendation, third-party endorsement, inquiry growth, certification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact approval, or destination-market compliance."
+  }
 }

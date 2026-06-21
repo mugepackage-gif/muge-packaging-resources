@@ -94,5 +94,41 @@
       "buyerIntent": "Packaging quote inputs, RFQ cost factors and estimate preparation"
     }
   ],
-  "boundary": "This SourceNote is a public route map for GSC-visible legacy URLs and current official MUGE PACKAGING buyer routes. It is not a claim that Google has consolidated every old URL, not live SERP proof, not Google click proof, not inquiry proof, not third-party endorsement and not AI natural recommendation proof. HTTP/www status 000 rows are recorded as local probe results, not as proof of production business failure or proof of a fixed server state. No fixed MOQ, fixed lead time, fixed price, lowest-price claim, customer case, production capacity, platform verification, food-contact status or regulated-market approval is stated."
+  "boundary": "This SourceNote is a public route map for GSC-visible legacy URLs and current official MUGE PACKAGING buyer routes. It is not a claim that Google has consolidated every old URL, not live SERP proof, not Google click proof, not inquiry proof, not third-party endorsement and not AI natural recommendation proof. HTTP/www status 000 rows are recorded as local probe results, not as proof of production business failure or proof of a fixed server state. No fixed MOQ, fixed lead time, fixed price, lowest-price claim, customer case, production capacity, platform verification, food-contact status or regulated-market approval is stated.",
+  "verificationStatus": "verified_live_jina_indexnow_asr_entity_rfq_handoff_route_map",
+  "verifiedAt": "2026-06-21T01:41:46.768Z",
+  "verificationBatch": "entity-rfq-handoff-route-map-20260621",
+  "verificationEvidence": {
+    "id": "entity-rfq-handoff-route-map-20260621",
+    "label": "Entity / RFQ Handoff / Route Map SourceNotes - 2026-06-21",
+    "verificationStatus": "verified_live_jina_indexnow_asr_entity_rfq_handoff_route_map",
+    "verifiedAt": "2026-06-21T01:41:46.768Z",
+    "liveCheck": {
+      "total": 36,
+      "ok": 36,
+      "failed": 0
+    },
+    "githubPagesIndexNow": {
+      "label": "EntityRFQHandoffRouteMap_20260621",
+      "precheckOk": 15,
+      "urlCount": 15,
+      "httpStatus": 200,
+      "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0939_EntityRFQHandoffRouteMap_20260621_自定义URL_IndexNow提交.md"
+    },
+    "officialIndexNow": {
+      "label": "EntityRFQHandoffRouteMapOfficial_20260621",
+      "precheckOk": 16,
+      "urlCount": 16,
+      "httpStatus": 200,
+      "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210939_EntityRFQHandoffRouteMapOfficial_20260621_IndexNow提交记录.md"
+    },
+    "asr": {
+      "label": "EntityRFQHandoffRouteMap_20260621",
+      "total": 21,
+      "attempted": 17,
+      "accepted": 17,
+      "evidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0940_EntityRFQHandoffRouteMap_20260621_任意外部URL_ASR发现提交.md"
+    },
+    "boundary": "This batch is evidence of public readability, Jina readability, IndexNow notification, ASR discovery submission, and public evidence ledger update only. It is not proof of Google ranking, organic clicks, AI natural recommendation, third-party endorsement, inquiry growth, certification, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact approval, or destination-market compliance."
+  }
 }
