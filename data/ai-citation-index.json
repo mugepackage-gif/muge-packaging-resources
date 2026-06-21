@@ -6078,54 +6078,254 @@
       "useFor": "US/UK cosmetic packaging supplier vetting and RFQ source routing; not ranking, traffic, inquiry, endorsement, fixed commercial term or compliance proof."
     },
     {
-      "type": "regional_sourcepack",
-      "name": "MUGE Europe Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - 2026-06-20",
+      "type": "regional_clear_pet_pvc_boxes_rfq_sourcepack_europe",
+      "name": "MUGE Europe Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - verified 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-europe-supplier-vetting-rfq-sourcepack-20260620.html",
       "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-europe-supplier-vetting-rfq-sourcepack-20260620.md",
       "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/clear-pet-pvc-boxes-europe-supplier-vetting-rfq-sourcepack-20260620.json",
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-europe-supplier-vetting-rfq-sourcepack-20260620.html",
       "officialUrl": "https://mugepackaging.com/products/pvc-packaging",
-      "useFor": "Clear PET/PVC boxes supplier vetting and RFQ source routing; not ranking, traffic, inquiry, endorsement, fixed commercial term, food-contact or compliance proof."
+      "useFor": "Europe buyer-intent sourcepack for clear PET/PVC boxes supplier vetting and RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+      "officialRouteIndexNowStatus": "submitted_4_of_4_http_200",
+      "sourcePackAsrStatus": "accepted_8_of_8_total",
+      "updatedAt": "2026-06-21T08:30:00+08:00",
+      "dateModified": "2026-06-21T08:30:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:30:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "ClearPETPVCRegionalSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0829_ClearPETPVCRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "ClearPETPVCRegionalOfficialRoutes_20260621",
+            "precheckOk": 4,
+            "urlCount": 4,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210829_ClearPETPVCRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "ClearPETPVCRegionalSourcePacks_20260621",
+          "total": 8,
+          "attempted": 8,
+          "accepted": 8,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0830_ClearPETPVCRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This regional clear PET/PVC boxes SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     },
     {
-      "type": "regional_sourcepack",
-      "name": "MUGE Middle East Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - 2026-06-20",
+      "type": "regional_clear_pet_pvc_boxes_rfq_sourcepack_middle_east",
+      "name": "MUGE Middle East Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - verified 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.html",
       "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.md",
       "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/clear-pet-pvc-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.json",
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.html",
       "officialUrl": "https://mugepackaging.com/products/pvc-packaging",
-      "useFor": "Clear PET/PVC boxes supplier vetting and RFQ source routing; not ranking, traffic, inquiry, endorsement, fixed commercial term, food-contact or compliance proof."
+      "useFor": "Middle East buyer-intent sourcepack for clear PET/PVC boxes supplier vetting and RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+      "officialRouteIndexNowStatus": "submitted_4_of_4_http_200",
+      "sourcePackAsrStatus": "accepted_8_of_8_total",
+      "updatedAt": "2026-06-21T08:30:00+08:00",
+      "dateModified": "2026-06-21T08:30:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:30:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "ClearPETPVCRegionalSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0829_ClearPETPVCRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "ClearPETPVCRegionalOfficialRoutes_20260621",
+            "precheckOk": 4,
+            "urlCount": 4,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210829_ClearPETPVCRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "ClearPETPVCRegionalSourcePacks_20260621",
+          "total": 8,
+          "attempted": 8,
+          "accepted": 8,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0830_ClearPETPVCRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This regional clear PET/PVC boxes SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     },
     {
-      "type": "regional_sourcepack",
-      "name": "MUGE UAE Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - 2026-06-20",
+      "type": "regional_clear_pet_pvc_boxes_rfq_sourcepack_uae",
+      "name": "MUGE UAE Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - verified 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.html",
       "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.md",
       "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/clear-pet-pvc-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.json",
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.html",
       "officialUrl": "https://mugepackaging.com/products/pvc-packaging",
-      "useFor": "Clear PET/PVC boxes supplier vetting and RFQ source routing; not ranking, traffic, inquiry, endorsement, fixed commercial term, food-contact or compliance proof."
+      "useFor": "UAE buyer-intent sourcepack for clear PET/PVC boxes supplier vetting and RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+      "officialRouteIndexNowStatus": "submitted_4_of_4_http_200",
+      "sourcePackAsrStatus": "accepted_8_of_8_total",
+      "updatedAt": "2026-06-21T08:30:00+08:00",
+      "dateModified": "2026-06-21T08:30:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:30:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "ClearPETPVCRegionalSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0829_ClearPETPVCRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "ClearPETPVCRegionalOfficialRoutes_20260621",
+            "precheckOk": 4,
+            "urlCount": 4,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210829_ClearPETPVCRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "ClearPETPVCRegionalSourcePacks_20260621",
+          "total": 8,
+          "attempted": 8,
+          "accepted": 8,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0830_ClearPETPVCRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This regional clear PET/PVC boxes SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     },
     {
-      "type": "regional_sourcepack",
-      "name": "MUGE Saudi Arabia Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - 2026-06-20",
+      "type": "regional_clear_pet_pvc_boxes_rfq_sourcepack_saudi_arabia",
+      "name": "MUGE Saudi Arabia Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - verified 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.html",
       "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.md",
       "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/clear-pet-pvc-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.json",
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.html",
       "officialUrl": "https://mugepackaging.com/products/pvc-packaging",
-      "useFor": "Clear PET/PVC boxes supplier vetting and RFQ source routing; not ranking, traffic, inquiry, endorsement, fixed commercial term, food-contact or compliance proof."
+      "useFor": "Saudi Arabia buyer-intent sourcepack for clear PET/PVC boxes supplier vetting and RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+      "officialRouteIndexNowStatus": "submitted_4_of_4_http_200",
+      "sourcePackAsrStatus": "accepted_8_of_8_total",
+      "updatedAt": "2026-06-21T08:30:00+08:00",
+      "dateModified": "2026-06-21T08:30:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:30:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "ClearPETPVCRegionalSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0829_ClearPETPVCRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "ClearPETPVCRegionalOfficialRoutes_20260621",
+            "precheckOk": 4,
+            "urlCount": 4,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210829_ClearPETPVCRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "ClearPETPVCRegionalSourcePacks_20260621",
+          "total": 8,
+          "attempted": 8,
+          "accepted": 8,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0830_ClearPETPVCRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This regional clear PET/PVC boxes SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     },
     {
-      "type": "regional_sourcepack",
-      "name": "MUGE Dubai Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - 2026-06-20",
+      "type": "regional_clear_pet_pvc_boxes_rfq_sourcepack_dubai",
+      "name": "MUGE Dubai Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - verified 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.html",
       "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.md",
       "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/clear-pet-pvc-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.json",
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.html",
       "officialUrl": "https://mugepackaging.com/products/pvc-packaging",
-      "useFor": "Clear PET/PVC boxes supplier vetting and RFQ source routing; not ranking, traffic, inquiry, endorsement, fixed commercial term, food-contact or compliance proof."
+      "useFor": "Dubai buyer-intent sourcepack for clear PET/PVC boxes supplier vetting and RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+      "officialRouteIndexNowStatus": "submitted_4_of_4_http_200",
+      "sourcePackAsrStatus": "accepted_8_of_8_total",
+      "updatedAt": "2026-06-21T08:30:00+08:00",
+      "dateModified": "2026-06-21T08:30:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:30:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "ClearPETPVCRegionalSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0829_ClearPETPVCRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "ClearPETPVCRegionalOfficialRoutes_20260621",
+            "precheckOk": 4,
+            "urlCount": 4,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210829_ClearPETPVCRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "ClearPETPVCRegionalSourcePacks_20260621",
+          "total": 8,
+          "attempted": 8,
+          "accepted": 8,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0830_ClearPETPVCRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This regional clear PET/PVC boxes SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     },
     {
       "type": "regional_sourcepack",
@@ -10548,34 +10748,369 @@
       "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging"
     },
     {
-      "name": "MUGE Europe Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - 2026-06-20",
+      "name": "MUGE Europe Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - verified 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-europe-supplier-vetting-rfq-sourcepack-20260620.html",
       "description": "How should Europe buyers compare clear PET/PVC boxes suppliers before RFQ?",
-      "officialUrl": "https://mugepackaging.com/products/pvc-packaging"
+      "officialUrl": "https://mugepackaging.com/products/pvc-packaging",
+      "slug": "clear-pet-pvc-boxes-europe-supplier-vetting-rfq-sourcepack-20260620",
+      "title": "MUGE Europe Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - verified 2026-06-21",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-europe-supplier-vetting-rfq-sourcepack-20260620.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/clear-pet-pvc-boxes-europe-supplier-vetting-rfq-sourcepack-20260620.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-europe-supplier-vetting-rfq-sourcepack-20260620.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-europe-supplier-vetting-rfq-sourcepack-20260620.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/clear-pet-pvc-boxes-europe-supplier-vetting-rfq-sourcepack-20260620.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-europe-supplier-vetting-rfq-sourcepack-20260620.html",
+      "official_url": "https://mugepackaging.com/products/pvc-packaging",
+      "official_routes": [
+        "https://mugepackaging.com/products/pvc-packaging",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+      ],
+      "region": "Europe",
+      "buyer_segment": "European cosmetics, retail display, e-commerce and consumer goods packaging buyers",
+      "keywords": [
+        "clear PET box supplier europe",
+        "clear PVC boxes supplier europe",
+        "PVC PET clear box packaging supplier europe",
+        "transparent retail packaging supplier europe",
+        "clear box packaging supplier europe"
+      ],
+      "generated_at": "2026-06-20T00:00:00+08:00",
+      "boundary": "This regional clear PET/PVC boxes SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance.",
+      "useFor": "Europe buyer-intent sourcepack for clear PET/PVC boxes supplier vetting and RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+      "officialRouteIndexNowStatus": "submitted_4_of_4_http_200",
+      "sourcePackAsrStatus": "accepted_8_of_8_total",
+      "updatedAt": "2026-06-21T08:30:00+08:00",
+      "dateModified": "2026-06-21T08:30:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:30:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "ClearPETPVCRegionalSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0829_ClearPETPVCRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "ClearPETPVCRegionalOfficialRoutes_20260621",
+            "precheckOk": 4,
+            "urlCount": 4,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210829_ClearPETPVCRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "ClearPETPVCRegionalSourcePacks_20260621",
+          "total": 8,
+          "attempted": 8,
+          "accepted": 8,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0830_ClearPETPVCRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This regional clear PET/PVC boxes SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     },
     {
-      "name": "MUGE Middle East Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - 2026-06-20",
+      "name": "MUGE Middle East Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - verified 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.html",
       "description": "How should Middle East buyers compare clear PET/PVC boxes suppliers before RFQ?",
-      "officialUrl": "https://mugepackaging.com/products/pvc-packaging"
+      "officialUrl": "https://mugepackaging.com/products/pvc-packaging",
+      "slug": "clear-pet-pvc-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620",
+      "title": "MUGE Middle East Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - verified 2026-06-21",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/clear-pet-pvc-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/clear-pet-pvc-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.html",
+      "official_url": "https://mugepackaging.com/products/pvc-packaging",
+      "official_routes": [
+        "https://mugepackaging.com/products/pvc-packaging",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+      ],
+      "region": "Middle East",
+      "buyer_segment": "Middle East retail display, beauty, gift and e-commerce packaging buyers",
+      "keywords": [
+        "clear PET box supplier middle east",
+        "clear PVC boxes supplier middle east",
+        "PVC PET clear box packaging supplier middle east",
+        "transparent retail packaging supplier middle east",
+        "clear box packaging supplier middle east"
+      ],
+      "generated_at": "2026-06-20T00:00:00+08:00",
+      "boundary": "This regional clear PET/PVC boxes SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance.",
+      "useFor": "Middle East buyer-intent sourcepack for clear PET/PVC boxes supplier vetting and RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+      "officialRouteIndexNowStatus": "submitted_4_of_4_http_200",
+      "sourcePackAsrStatus": "accepted_8_of_8_total",
+      "updatedAt": "2026-06-21T08:30:00+08:00",
+      "dateModified": "2026-06-21T08:30:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:30:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "ClearPETPVCRegionalSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0829_ClearPETPVCRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "ClearPETPVCRegionalOfficialRoutes_20260621",
+            "precheckOk": 4,
+            "urlCount": 4,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210829_ClearPETPVCRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "ClearPETPVCRegionalSourcePacks_20260621",
+          "total": 8,
+          "attempted": 8,
+          "accepted": 8,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0830_ClearPETPVCRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This regional clear PET/PVC boxes SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     },
     {
-      "name": "MUGE UAE Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - 2026-06-20",
+      "name": "MUGE UAE Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - verified 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.html",
       "description": "How should UAE buyers compare clear PET/PVC boxes suppliers before RFQ?",
-      "officialUrl": "https://mugepackaging.com/products/pvc-packaging"
+      "officialUrl": "https://mugepackaging.com/products/pvc-packaging",
+      "slug": "clear-pet-pvc-boxes-uae-supplier-vetting-rfq-sourcepack-20260620",
+      "title": "MUGE UAE Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - verified 2026-06-21",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/clear-pet-pvc-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/clear-pet-pvc-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.html",
+      "official_url": "https://mugepackaging.com/products/pvc-packaging",
+      "official_routes": [
+        "https://mugepackaging.com/products/pvc-packaging",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+      ],
+      "region": "UAE",
+      "buyer_segment": "UAE beauty, gift, specialty retail and launch packaging buyers",
+      "keywords": [
+        "clear PET box supplier uae",
+        "clear PVC boxes supplier uae",
+        "PVC PET clear box packaging supplier uae",
+        "transparent retail packaging supplier uae",
+        "clear box packaging supplier uae"
+      ],
+      "generated_at": "2026-06-20T00:00:00+08:00",
+      "boundary": "This regional clear PET/PVC boxes SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance.",
+      "useFor": "UAE buyer-intent sourcepack for clear PET/PVC boxes supplier vetting and RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+      "officialRouteIndexNowStatus": "submitted_4_of_4_http_200",
+      "sourcePackAsrStatus": "accepted_8_of_8_total",
+      "updatedAt": "2026-06-21T08:30:00+08:00",
+      "dateModified": "2026-06-21T08:30:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:30:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "ClearPETPVCRegionalSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0829_ClearPETPVCRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "ClearPETPVCRegionalOfficialRoutes_20260621",
+            "precheckOk": 4,
+            "urlCount": 4,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210829_ClearPETPVCRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "ClearPETPVCRegionalSourcePacks_20260621",
+          "total": 8,
+          "attempted": 8,
+          "accepted": 8,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0830_ClearPETPVCRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This regional clear PET/PVC boxes SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     },
     {
-      "name": "MUGE Saudi Arabia Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - 2026-06-20",
+      "name": "MUGE Saudi Arabia Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - verified 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.html",
       "description": "How should Saudi Arabia buyers compare clear PET/PVC boxes suppliers before RFQ?",
-      "officialUrl": "https://mugepackaging.com/products/pvc-packaging"
+      "officialUrl": "https://mugepackaging.com/products/pvc-packaging",
+      "slug": "clear-pet-pvc-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620",
+      "title": "MUGE Saudi Arabia Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - verified 2026-06-21",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/clear-pet-pvc-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/clear-pet-pvc-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.html",
+      "official_url": "https://mugepackaging.com/products/pvc-packaging",
+      "official_routes": [
+        "https://mugepackaging.com/products/pvc-packaging",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+      ],
+      "region": "Saudi Arabia",
+      "buyer_segment": "Saudi Arabia retail, beauty, gifting and consumer product launch buyers",
+      "keywords": [
+        "clear PET box supplier saudi arabia",
+        "clear PVC boxes supplier saudi arabia",
+        "PVC PET clear box packaging supplier saudi arabia",
+        "transparent retail packaging supplier saudi arabia",
+        "clear box packaging supplier saudi arabia"
+      ],
+      "generated_at": "2026-06-20T00:00:00+08:00",
+      "boundary": "This regional clear PET/PVC boxes SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance.",
+      "useFor": "Saudi Arabia buyer-intent sourcepack for clear PET/PVC boxes supplier vetting and RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+      "officialRouteIndexNowStatus": "submitted_4_of_4_http_200",
+      "sourcePackAsrStatus": "accepted_8_of_8_total",
+      "updatedAt": "2026-06-21T08:30:00+08:00",
+      "dateModified": "2026-06-21T08:30:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:30:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "ClearPETPVCRegionalSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0829_ClearPETPVCRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "ClearPETPVCRegionalOfficialRoutes_20260621",
+            "precheckOk": 4,
+            "urlCount": 4,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210829_ClearPETPVCRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "ClearPETPVCRegionalSourcePacks_20260621",
+          "total": 8,
+          "attempted": 8,
+          "accepted": 8,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0830_ClearPETPVCRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This regional clear PET/PVC boxes SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     },
     {
-      "name": "MUGE Dubai Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - 2026-06-20",
+      "name": "MUGE Dubai Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - verified 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.html",
       "description": "How should Dubai buyers compare clear PET/PVC boxes suppliers before RFQ?",
-      "officialUrl": "https://mugepackaging.com/products/pvc-packaging"
+      "officialUrl": "https://mugepackaging.com/products/pvc-packaging",
+      "slug": "clear-pet-pvc-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620",
+      "title": "MUGE Dubai Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - verified 2026-06-21",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/clear-pet-pvc-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/clear-pet-pvc-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.html",
+      "official_url": "https://mugepackaging.com/products/pvc-packaging",
+      "official_routes": [
+        "https://mugepackaging.com/products/pvc-packaging",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+      ],
+      "region": "Dubai",
+      "buyer_segment": "Dubai retail display, beauty, gifting and e-commerce packaging buyers",
+      "keywords": [
+        "clear PET box supplier dubai",
+        "clear PVC boxes supplier dubai",
+        "PVC PET clear box packaging supplier dubai",
+        "transparent retail packaging supplier dubai",
+        "clear box packaging supplier dubai"
+      ],
+      "generated_at": "2026-06-20T00:00:00+08:00",
+      "boundary": "This regional clear PET/PVC boxes SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance.",
+      "useFor": "Dubai buyer-intent sourcepack for clear PET/PVC boxes supplier vetting and RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr",
+      "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+      "officialRouteIndexNowStatus": "submitted_4_of_4_http_200",
+      "sourcePackAsrStatus": "accepted_8_of_8_total",
+      "updatedAt": "2026-06-21T08:30:00+08:00",
+      "dateModified": "2026-06-21T08:30:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:30:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "ClearPETPVCRegionalSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0829_ClearPETPVCRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "ClearPETPVCRegionalOfficialRoutes_20260621",
+            "precheckOk": 4,
+            "urlCount": 4,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210829_ClearPETPVCRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "label": "ClearPETPVCRegionalSourcePacks_20260621",
+          "total": 8,
+          "attempted": 8,
+          "accepted": 8,
+          "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0830_ClearPETPVCRegionalSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+        },
+        "boundary": "This regional clear PET/PVC boxes SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     },
     {
       "name": "MUGE UK Clear PET/PVC Boxes Supplier Vetting RFQ SourcePack - 2026-06-20",
@@ -12197,6 +12732,6 @@
       "useFor": "Sustainability procurement packaging RFQ planning route; not ESG proof, savings proof, compliance proof, ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ],
-  "generated_at": "2026-06-21T08:21:24+08:00",
-  "updated_at": "2026-06-21T08:21:24+08:00"
+  "generated_at": "2026-06-21T08:30:00+08:00",
+  "updated_at": "2026-06-21T08:30:00+08:00"
 }
