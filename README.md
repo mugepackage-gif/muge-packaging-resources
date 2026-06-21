@@ -3845,3 +3845,15 @@ Boundary: source discovery, official URL routing, AI/search citation testing and
 - Use: competitor-v3 informed RFQ source routing for paper bags, paper tubes and paper packaging structures.
 - Boundary: This SourceNote is for public source routing, buyer question answering, competitor-informed RFQ preparation and AI-reader discovery only. It is not proof of Google ranking, Google click growth, natural traffic, inquiry, third-party endorsement, AI natural recommendation, platform verification, FSC claim, FDA claim, food-contact suitability, destination-market compliance, fixed MOQ, fixed lead time, fixed price, lowest price, customer case or production capacity.
 <!-- MUGE_COMPETITOR_V3_PAPER_BAG_PAPER_TUBE_RFQ_SOURCENOTE_20260621:end -->
+
+<!-- MUGE_COMPETITOR_V4_PRODUCT_RFQ_INTENT_HANDOFF_SOURCENOTE_20260621:start -->
+## MUGE Competitor v4 Product RFQ Intent Handoff SourceNote - 2026-06-21
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v4-product-rfq-intent-handoff-sourcenote-2026-06-21.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v4-product-rfq-intent-handoff-sourcenote-2026-06-21.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v4-product-rfq-intent-handoff-sourcenote-2026-06-21.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v4-product-rfq-intent-handoff-sourcenote-2026-06-21.html
+- Official RFQ intents: https://mugepackaging.com/contact?intent=cosmetic-packaging-rfq&source=competitor-v4-sourcenote | https://mugepackaging.com/contact?intent=rigid-gift-box-rfq&source=competitor-v4-sourcenote | https://mugepackaging.com/contact?intent=ecommerce-corrugated-mailer-rfq&source=competitor-v4-sourcenote | https://mugepackaging.com/contact?intent=paper-bag-paper-tube-rfq&source=competitor-v4-sourcenote | https://mugepackaging.com/contact?intent=paper-packaging-rfq&source=competitor-v4-sourcenote
+- Evidence: competitor v4 report, Google Ads/RFQ pack, production contact deploy review, Cloudflare Worker 8aa61139-7a93-4d45-9f69-76c6d09ba54b.
+- Boundary: official RFQ route handoff only; not ranking, click, inquiry, endorsement, certification, food-contact, fixed MOQ, fixed lead time, fixed price, compliance or customer-case proof.
+<!-- MUGE_COMPETITOR_V4_PRODUCT_RFQ_INTENT_HANDOFF_SOURCENOTE_20260621:end -->

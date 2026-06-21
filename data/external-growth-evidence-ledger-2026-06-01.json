@@ -9754,9 +9754,103 @@
         "officialIndexNow": "15/15 shared batch HTTP 200",
         "asr": "12/12 accepted"
       }
+    },
+    {
+      "id": "competitor_v4_rfq_intent_handoff_sourcenote_20260621_generated",
+      "date": "2026-06-21",
+      "type": "competitor_v4_product_rfq_intent_handoff_sourcenote",
+      "platform": "GitHub Pages",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v4-product-rfq-intent-handoff-sourcenote-2026-06-21.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v4-product-rfq-intent-handoff-sourcenote-2026-06-21.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v4-product-rfq-intent-handoff-sourcenote-2026-06-21.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v4-product-rfq-intent-handoff-sourcenote-2026-06-21.html",
+      "official_page": "https://mugepackaging.com/contact",
+      "official_routes": [
+        {
+          "theme": "Cosmetic packaging RFQ",
+          "productPage": "https://mugepackaging.com/products/cosmetic-packaging",
+          "contactIntent": "https://mugepackaging.com/contact?intent=cosmetic-packaging-rfq&source=competitor-v4-sourcenote",
+          "buyerUse": "Beauty, skincare, fragrance and personal-care buyers preparing product-fit, insert, finish, artwork and target-market notes.",
+          "requiredBrief": [
+            "product category and size",
+            "box style",
+            "insert or tray need",
+            "finish reference",
+            "artwork status",
+            "target market or channel"
+          ]
+        },
+        {
+          "theme": "Rigid gift box RFQ",
+          "productPage": "https://mugepackaging.com/products/folding-gift-box",
+          "contactIntent": "https://mugepackaging.com/contact?intent=rigid-gift-box-rfq&source=competitor-v4-sourcenote",
+          "buyerUse": "Premium gift, retail set, beauty, electronics and wellness buyers comparing rigid box structures before sampling.",
+          "requiredBrief": [
+            "product size and weight",
+            "opening style",
+            "insert requirement",
+            "surface paper or finish reference",
+            "packing volume",
+            "target sales channel"
+          ]
+        },
+        {
+          "theme": "Corrugated mailer RFQ",
+          "productPage": "https://mugepackaging.com/products/corrugated-boxes",
+          "contactIntent": "https://mugepackaging.com/contact?intent=ecommerce-corrugated-mailer-rfq&source=competitor-v4-sourcenote",
+          "buyerUse": "E-commerce, DTC, subscription, apparel, beauty and small electronics buyers reviewing branded mailer or corrugated shipping packaging.",
+          "requiredBrief": [
+            "product size and weight",
+            "shipping route",
+            "mailer or shipper style",
+            "print coverage",
+            "insert or protection need",
+            "quantity direction"
+          ]
+        },
+        {
+          "theme": "Paper tube and paper bag RFQ",
+          "productPage": "https://mugepackaging.com/products/paper-tubes",
+          "contactIntent": "https://mugepackaging.com/contact?intent=paper-bag-paper-tube-rfq&source=competitor-v4-sourcenote",
+          "buyerUse": "Cosmetics, tea, candles, fragrance, gifts and specialty retail buyers comparing paper tubes, paper bags, cartons and rigid boxes.",
+          "requiredBrief": [
+            "tube diameter and height or bag size",
+            "cap, handle, gusset or liner need",
+            "product weight",
+            "display goal",
+            "print and finish reference",
+            "target market"
+          ]
+        },
+        {
+          "theme": "Paper packaging RFQ",
+          "productPage": "https://mugepackaging.com/products/paper-packaging",
+          "contactIntent": "https://mugepackaging.com/contact?intent=paper-packaging-rfq&source=competitor-v4-sourcenote",
+          "buyerUse": "Broad paper packaging buyers who need routing into cartons, rigid boxes, paper bags, paper tubes or corrugated packaging before quote review.",
+          "requiredBrief": [
+            "product category and size",
+            "preferred paper packaging format",
+            "material direction",
+            "insert or packing need",
+            "artwork status",
+            "quantity direction"
+          ]
+        }
+      ],
+      "source_evidence": {
+        "competitorReport": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/竞品分析/2026-06-21_MUGE_外贸纸品包装20竞品SEO_GEO分析_主线插入v4.md",
+        "adsRfqPack": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds策略/20260621_1306_竞品v4_GoogleAds五页面RFQ执行包.md",
+        "contactDeployReview": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/阶段复盘/2026-06-21_1315_竞品v4_RFQ联系页承接生产上线闭环.md",
+        "cloudflareVersion": "8aa61139-7a93-4d45-9f69-76c6d09ba54b",
+        "productionCheck": "5/5 product RFQ intent URLs returned HTTP 200 and showed product-specific RFQ copy; contact JS bundle contains contact_form_start, contact_form_submit, contact_intent, landing_source and project_type."
+      },
+      "verification_status": "generated_pending_live_indexnow_jina_asr",
+      "counting_rule": "This SourceNote is for official RFQ route handoff, Google Ads landing-page continuity, public SourceNote discovery and AI reader citation routing only. It is not a quotation, fixed MOQ claim, fixed lead time claim, lowest-price claim, certification proof, FSC proof, FDA proof, food-contact suitability proof, destination-market compliance proof, customer case, production capacity proof, third-party endorsement, Google ranking proof, click proof, inquiry proof or AI natural recommendation proof. Every buyer project still needs case-by-case review of dimensions, materials, finish, artwork, quantity direction, target market and document requests.",
+      "boundary": "This SourceNote is for official RFQ route handoff, Google Ads landing-page continuity, public SourceNote discovery and AI reader citation routing only. It is not a quotation, fixed MOQ claim, fixed lead time claim, lowest-price claim, certification proof, FSC proof, FDA proof, food-contact suitability proof, destination-market compliance proof, customer case, production capacity proof, third-party endorsement, Google ranking proof, click proof, inquiry proof or AI natural recommendation proof. Every buyer project still needs case-by-case review of dimensions, materials, finish, artwork, quantity direction, target market and document requests.",
+      "generated_at": "2026-06-21T05:20:35.268Z"
     }
   ],
-  "updated_at": "2026-06-21T04:36:57.276Z",
+  "updated_at": "2026-06-21T05:20:35.268Z",
   "lastEntityRfqHandoffRouteMapVerification": {
     "id": "entity-rfq-handoff-route-map-20260621",
     "label": "Entity / RFQ Handoff / Route Map SourceNotes - 2026-06-21",
@@ -9977,5 +10071,88 @@
       "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v3-corrugated-mailer-rfq-sourcenote-2026-06-21.html",
       "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v3-paper-bag-paper-tube-rfq-sourcenote-2026-06-21.html"
     ]
+  },
+  "lastCompetitorV4RfqIntentHandoffBuild": {
+    "generatedAt": "2026-06-21T05:20:35.268Z",
+    "slug": "competitor-v4-product-rfq-intent-handoff-sourcenote-2026-06-21",
+    "publicFiles": {
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v4-product-rfq-intent-handoff-sourcenote-2026-06-21.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v4-product-rfq-intent-handoff-sourcenote-2026-06-21.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v4-product-rfq-intent-handoff-sourcenote-2026-06-21.json",
+      "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v4-product-rfq-intent-handoff-sourcenote-2026-06-21.html"
+    },
+    "officialRoutes": [
+      {
+        "theme": "Cosmetic packaging RFQ",
+        "productPage": "https://mugepackaging.com/products/cosmetic-packaging",
+        "contactIntent": "https://mugepackaging.com/contact?intent=cosmetic-packaging-rfq&source=competitor-v4-sourcenote",
+        "buyerUse": "Beauty, skincare, fragrance and personal-care buyers preparing product-fit, insert, finish, artwork and target-market notes.",
+        "requiredBrief": [
+          "product category and size",
+          "box style",
+          "insert or tray need",
+          "finish reference",
+          "artwork status",
+          "target market or channel"
+        ]
+      },
+      {
+        "theme": "Rigid gift box RFQ",
+        "productPage": "https://mugepackaging.com/products/folding-gift-box",
+        "contactIntent": "https://mugepackaging.com/contact?intent=rigid-gift-box-rfq&source=competitor-v4-sourcenote",
+        "buyerUse": "Premium gift, retail set, beauty, electronics and wellness buyers comparing rigid box structures before sampling.",
+        "requiredBrief": [
+          "product size and weight",
+          "opening style",
+          "insert requirement",
+          "surface paper or finish reference",
+          "packing volume",
+          "target sales channel"
+        ]
+      },
+      {
+        "theme": "Corrugated mailer RFQ",
+        "productPage": "https://mugepackaging.com/products/corrugated-boxes",
+        "contactIntent": "https://mugepackaging.com/contact?intent=ecommerce-corrugated-mailer-rfq&source=competitor-v4-sourcenote",
+        "buyerUse": "E-commerce, DTC, subscription, apparel, beauty and small electronics buyers reviewing branded mailer or corrugated shipping packaging.",
+        "requiredBrief": [
+          "product size and weight",
+          "shipping route",
+          "mailer or shipper style",
+          "print coverage",
+          "insert or protection need",
+          "quantity direction"
+        ]
+      },
+      {
+        "theme": "Paper tube and paper bag RFQ",
+        "productPage": "https://mugepackaging.com/products/paper-tubes",
+        "contactIntent": "https://mugepackaging.com/contact?intent=paper-bag-paper-tube-rfq&source=competitor-v4-sourcenote",
+        "buyerUse": "Cosmetics, tea, candles, fragrance, gifts and specialty retail buyers comparing paper tubes, paper bags, cartons and rigid boxes.",
+        "requiredBrief": [
+          "tube diameter and height or bag size",
+          "cap, handle, gusset or liner need",
+          "product weight",
+          "display goal",
+          "print and finish reference",
+          "target market"
+        ]
+      },
+      {
+        "theme": "Paper packaging RFQ",
+        "productPage": "https://mugepackaging.com/products/paper-packaging",
+        "contactIntent": "https://mugepackaging.com/contact?intent=paper-packaging-rfq&source=competitor-v4-sourcenote",
+        "buyerUse": "Broad paper packaging buyers who need routing into cartons, rigid boxes, paper bags, paper tubes or corrugated packaging before quote review.",
+        "requiredBrief": [
+          "product category and size",
+          "preferred paper packaging format",
+          "material direction",
+          "insert or packing need",
+          "artwork status",
+          "quantity direction"
+        ]
+      }
+    ],
+    "verificationStatus": "generated_pending_live_indexnow_jina_asr"
   }
 }
