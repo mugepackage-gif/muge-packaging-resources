@@ -697,6 +697,16 @@
   "generatedAt": "2026-06-21T04:09:02.142Z",
   "entries": [
     {
+      "id": "paper-packaging-competitor-gap-to-rfq-routemap-2026-06-21_ledger",
+      "type": "paper_packaging_competitor_gap_rfq_routemap",
+      "title": "MUGE paper packaging competitor gap to RFQ route map - 2026-06-21",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-competitor-gap-to-rfq-routemap-2026-06-21.html",
+      "evidence": "Generated from 20 paper packaging competitor patterns and official MUGE RFQ routes.",
+      "verificationStatus": "generated_pending_live_indexnow_asr",
+      "boundary": "This SourceNote is a public route map derived from competitor-pattern analysis and MUGE official product pages. It is not proof of Google ranking, GSC clicks, natural traffic, inquiry generation, third-party endorsement or AI natural recommendation. It does not state fixed MOQ, fixed lead time, fixed price, lowest price, verified supplier status, named customer cases or production capacity. Certification, food-contact, regulated-market and destination-market compliance questions require separate project-specific document review.",
+      "created_at": "2026-06-21T10:04:40.350Z"
+    },
+    {
       "date": "2026-06-21",
       "type": "gsc_near_top20_compare_packaging_source_note_refresh",
       "platform": "GitHub Pages",
@@ -10005,7 +10015,7 @@
       }
     }
   ],
-  "updated_at": "2026-06-21T08:51:00.000Z",
+  "updated_at": "2026-06-21T10:04:40.350Z",
   "lastEntityRfqHandoffRouteMapVerification": {
     "id": "entity-rfq-handoff-route-map-20260621",
     "label": "Entity / RFQ Handoff / Route Map SourceNotes - 2026-06-21",
