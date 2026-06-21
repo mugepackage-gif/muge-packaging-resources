@@ -6886,39 +6886,329 @@
       "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     },
     {
-      "type": "third_party_markdown_mirror",
-      "name": "Paper Tubes Europe Quote RFQ SourcePack - MUGE Source Mirror Rentry mirror 2026-06-20",
+      "type": "third_party_rentry_mirror",
+      "name": "MUGE Europe Paper Tubes Quote RFQ SourcePack - verified 2026-06-21 Rentry mirror",
       "url": "https://rentry.co/muge-paper-tubes-europe-quote-rfq-sourcepack-20260620-20260620-1830",
       "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-paper-tubes-europe-quote-rfq-sourcepack-20260620-20260620-1830",
-      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+      "useFor": "Europe third-party mirror for paper tubes quote RFQ source routing.",
+      "verificationStatus": "verified_live_asr_mirror",
+      "sourcePackAsrStatus": "accepted_10_of_10_total_mirrors",
+      "updatedAt": "2026-06-21T08:40:00+08:00",
+      "dateModified": "2026-06-21T08:40:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:40:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "telegraph": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0838_PaperTubesRegionalQuoteRFQSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "PaperTubesRegionalOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210838_PaperTubesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourcePackAndOfficialRoutes": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "total": 9,
+            "attempted": 8,
+            "accepted": 8,
+            "skipped": [
+              "https://mugepackaging.com/products/paper-tubes"
+            ],
+            "skippedReason": "ASR precheck target_not_verified on official paper tubes product page; sourcepacks and other safe official routes were accepted.",
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0839_PaperTubesRegionalQuoteRFQSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "PaperTubesRegionalQuoteRFQMirrors_20260621",
+            "total": 10,
+            "attempted": 10,
+            "accepted": 10,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0840_PaperTubesRegionalQuoteRFQMirrors_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "acceptedTotal": 18
+        },
+        "mirrors": {
+          "rentry": "https://rentry.co/muge-paper-tubes-europe-quote-rfq-sourcepack-20260620-20260620-1830",
+          "telegraph": "https://telegra.ph/Paper-Tubes-Europe-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+        },
+        "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     },
     {
-      "type": "third_party_markdown_mirror",
-      "name": "Paper Tubes Middle East Quote RFQ SourcePack - MUGE Source Mirror Rentry mirror 2026-06-20",
+      "type": "third_party_rentry_mirror",
+      "name": "MUGE Middle East Paper Tubes Quote RFQ SourcePack - verified 2026-06-21 Rentry mirror",
       "url": "https://rentry.co/muge-paper-tubes-middle-east-quote-rfq-sourcepack-20260620-20260620-1830",
       "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-paper-tubes-middle-east-quote-rfq-sourcepack-20260620-20260620-1830",
-      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+      "useFor": "Middle East third-party mirror for paper tubes quote RFQ source routing.",
+      "verificationStatus": "verified_live_asr_mirror",
+      "sourcePackAsrStatus": "accepted_10_of_10_total_mirrors",
+      "updatedAt": "2026-06-21T08:40:00+08:00",
+      "dateModified": "2026-06-21T08:40:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:40:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "telegraph": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0838_PaperTubesRegionalQuoteRFQSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "PaperTubesRegionalOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210838_PaperTubesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourcePackAndOfficialRoutes": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "total": 9,
+            "attempted": 8,
+            "accepted": 8,
+            "skipped": [
+              "https://mugepackaging.com/products/paper-tubes"
+            ],
+            "skippedReason": "ASR precheck target_not_verified on official paper tubes product page; sourcepacks and other safe official routes were accepted.",
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0839_PaperTubesRegionalQuoteRFQSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "PaperTubesRegionalQuoteRFQMirrors_20260621",
+            "total": 10,
+            "attempted": 10,
+            "accepted": 10,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0840_PaperTubesRegionalQuoteRFQMirrors_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "acceptedTotal": 18
+        },
+        "mirrors": {
+          "rentry": "https://rentry.co/muge-paper-tubes-middle-east-quote-rfq-sourcepack-20260620-20260620-1830",
+          "telegraph": "https://telegra.ph/Paper-Tubes-Middle-East-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+        },
+        "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     },
     {
-      "type": "third_party_markdown_mirror",
-      "name": "Paper Tubes UAE Quote RFQ SourcePack - MUGE Source Mirror Rentry mirror 2026-06-20",
+      "type": "third_party_rentry_mirror",
+      "name": "MUGE UAE Paper Tubes Quote RFQ SourcePack - verified 2026-06-21 Rentry mirror",
       "url": "https://rentry.co/muge-paper-tubes-uae-quote-rfq-sourcepack-20260620-20260620-1831",
       "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-paper-tubes-uae-quote-rfq-sourcepack-20260620-20260620-1831",
-      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+      "useFor": "UAE third-party mirror for paper tubes quote RFQ source routing.",
+      "verificationStatus": "verified_live_asr_mirror",
+      "sourcePackAsrStatus": "accepted_10_of_10_total_mirrors",
+      "updatedAt": "2026-06-21T08:40:00+08:00",
+      "dateModified": "2026-06-21T08:40:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:40:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "telegraph": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0838_PaperTubesRegionalQuoteRFQSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "PaperTubesRegionalOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210838_PaperTubesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourcePackAndOfficialRoutes": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "total": 9,
+            "attempted": 8,
+            "accepted": 8,
+            "skipped": [
+              "https://mugepackaging.com/products/paper-tubes"
+            ],
+            "skippedReason": "ASR precheck target_not_verified on official paper tubes product page; sourcepacks and other safe official routes were accepted.",
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0839_PaperTubesRegionalQuoteRFQSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "PaperTubesRegionalQuoteRFQMirrors_20260621",
+            "total": 10,
+            "attempted": 10,
+            "accepted": 10,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0840_PaperTubesRegionalQuoteRFQMirrors_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "acceptedTotal": 18
+        },
+        "mirrors": {
+          "rentry": "https://rentry.co/muge-paper-tubes-uae-quote-rfq-sourcepack-20260620-20260620-1831",
+          "telegraph": "https://telegra.ph/Paper-Tubes-UAE-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+        },
+        "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     },
     {
-      "type": "third_party_markdown_mirror",
-      "name": "Paper Tubes Saudi Arabia Quote RFQ SourcePack - MUGE Source Mirror Rentry mirror 2026-06-20",
+      "type": "third_party_rentry_mirror",
+      "name": "MUGE Saudi Arabia Paper Tubes Quote RFQ SourcePack - verified 2026-06-21 Rentry mirror",
       "url": "https://rentry.co/muge-paper-tubes-saudi-arabia-quote-rfq-sourcepack-20260620-20260620-1831",
       "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-paper-tubes-saudi-arabia-quote-rfq-sourcepack-20260620-20260620-1831",
-      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+      "useFor": "Saudi Arabia third-party mirror for paper tubes quote RFQ source routing.",
+      "verificationStatus": "verified_live_asr_mirror",
+      "sourcePackAsrStatus": "accepted_10_of_10_total_mirrors",
+      "updatedAt": "2026-06-21T08:40:00+08:00",
+      "dateModified": "2026-06-21T08:40:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:40:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "telegraph": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0838_PaperTubesRegionalQuoteRFQSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "PaperTubesRegionalOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210838_PaperTubesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourcePackAndOfficialRoutes": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "total": 9,
+            "attempted": 8,
+            "accepted": 8,
+            "skipped": [
+              "https://mugepackaging.com/products/paper-tubes"
+            ],
+            "skippedReason": "ASR precheck target_not_verified on official paper tubes product page; sourcepacks and other safe official routes were accepted.",
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0839_PaperTubesRegionalQuoteRFQSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "PaperTubesRegionalQuoteRFQMirrors_20260621",
+            "total": 10,
+            "attempted": 10,
+            "accepted": 10,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0840_PaperTubesRegionalQuoteRFQMirrors_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "acceptedTotal": 18
+        },
+        "mirrors": {
+          "rentry": "https://rentry.co/muge-paper-tubes-saudi-arabia-quote-rfq-sourcepack-20260620-20260620-1831",
+          "telegraph": "https://telegra.ph/Paper-Tubes-Saudi-Arabia-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+        },
+        "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     },
     {
-      "type": "third_party_markdown_mirror",
-      "name": "Paper Tubes Dubai Quote RFQ SourcePack - MUGE Source Mirror Rentry mirror 2026-06-20",
+      "type": "third_party_rentry_mirror",
+      "name": "MUGE Dubai Paper Tubes Quote RFQ SourcePack - verified 2026-06-21 Rentry mirror",
       "url": "https://rentry.co/muge-paper-tubes-dubai-quote-rfq-sourcepack-20260620-20260620-1831",
       "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-paper-tubes-dubai-quote-rfq-sourcepack-20260620-20260620-1831",
-      "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+      "useFor": "Dubai third-party mirror for paper tubes quote RFQ source routing.",
+      "verificationStatus": "verified_live_asr_mirror",
+      "sourcePackAsrStatus": "accepted_10_of_10_total_mirrors",
+      "updatedAt": "2026-06-21T08:40:00+08:00",
+      "dateModified": "2026-06-21T08:40:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:40:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "telegraph": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0838_PaperTubesRegionalQuoteRFQSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "PaperTubesRegionalOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210838_PaperTubesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourcePackAndOfficialRoutes": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "total": 9,
+            "attempted": 8,
+            "accepted": 8,
+            "skipped": [
+              "https://mugepackaging.com/products/paper-tubes"
+            ],
+            "skippedReason": "ASR precheck target_not_verified on official paper tubes product page; sourcepacks and other safe official routes were accepted.",
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0839_PaperTubesRegionalQuoteRFQSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "PaperTubesRegionalQuoteRFQMirrors_20260621",
+            "total": 10,
+            "attempted": 10,
+            "accepted": 10,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0840_PaperTubesRegionalQuoteRFQMirrors_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "acceptedTotal": 18
+        },
+        "mirrors": {
+          "rentry": "https://rentry.co/muge-paper-tubes-dubai-quote-rfq-sourcepack-20260620-20260620-1831",
+          "telegraph": "https://telegra.ph/Paper-Tubes-Dubai-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+        },
+        "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     },
     {
       "type": "third_party_markdown_mirror",
@@ -6935,39 +7225,329 @@
       "useFor": "Non-GitHub public Markdown mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     },
     {
-      "type": "third_party_text_mirror",
-      "name": "Paper Tubes Europe Quote RFQ SourcePack - MUGE Source Mirror Telegraph mirror 2026-06-20",
+      "type": "third_party_telegraph_mirror",
+      "name": "MUGE Europe Paper Tubes Quote RFQ SourcePack - verified 2026-06-21 Telegraph mirror",
       "url": "https://telegra.ph/Paper-Tubes-Europe-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/Paper-Tubes-Europe-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
-      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+      "useFor": "Europe third-party mirror for paper tubes quote RFQ source routing.",
+      "verificationStatus": "verified_live_asr_mirror",
+      "sourcePackAsrStatus": "accepted_10_of_10_total_mirrors",
+      "updatedAt": "2026-06-21T08:40:00+08:00",
+      "dateModified": "2026-06-21T08:40:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:40:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "telegraph": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0838_PaperTubesRegionalQuoteRFQSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "PaperTubesRegionalOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210838_PaperTubesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourcePackAndOfficialRoutes": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "total": 9,
+            "attempted": 8,
+            "accepted": 8,
+            "skipped": [
+              "https://mugepackaging.com/products/paper-tubes"
+            ],
+            "skippedReason": "ASR precheck target_not_verified on official paper tubes product page; sourcepacks and other safe official routes were accepted.",
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0839_PaperTubesRegionalQuoteRFQSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "PaperTubesRegionalQuoteRFQMirrors_20260621",
+            "total": 10,
+            "attempted": 10,
+            "accepted": 10,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0840_PaperTubesRegionalQuoteRFQMirrors_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "acceptedTotal": 18
+        },
+        "mirrors": {
+          "rentry": "https://rentry.co/muge-paper-tubes-europe-quote-rfq-sourcepack-20260620-20260620-1830",
+          "telegraph": "https://telegra.ph/Paper-Tubes-Europe-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+        },
+        "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     },
     {
-      "type": "third_party_text_mirror",
-      "name": "Paper Tubes Middle East Quote RFQ SourcePack - MUGE Source Mirror Telegraph mirror 2026-06-20",
+      "type": "third_party_telegraph_mirror",
+      "name": "MUGE Middle East Paper Tubes Quote RFQ SourcePack - verified 2026-06-21 Telegraph mirror",
       "url": "https://telegra.ph/Paper-Tubes-Middle-East-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/Paper-Tubes-Middle-East-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
-      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+      "useFor": "Middle East third-party mirror for paper tubes quote RFQ source routing.",
+      "verificationStatus": "verified_live_asr_mirror",
+      "sourcePackAsrStatus": "accepted_10_of_10_total_mirrors",
+      "updatedAt": "2026-06-21T08:40:00+08:00",
+      "dateModified": "2026-06-21T08:40:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:40:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "telegraph": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0838_PaperTubesRegionalQuoteRFQSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "PaperTubesRegionalOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210838_PaperTubesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourcePackAndOfficialRoutes": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "total": 9,
+            "attempted": 8,
+            "accepted": 8,
+            "skipped": [
+              "https://mugepackaging.com/products/paper-tubes"
+            ],
+            "skippedReason": "ASR precheck target_not_verified on official paper tubes product page; sourcepacks and other safe official routes were accepted.",
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0839_PaperTubesRegionalQuoteRFQSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "PaperTubesRegionalQuoteRFQMirrors_20260621",
+            "total": 10,
+            "attempted": 10,
+            "accepted": 10,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0840_PaperTubesRegionalQuoteRFQMirrors_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "acceptedTotal": 18
+        },
+        "mirrors": {
+          "rentry": "https://rentry.co/muge-paper-tubes-middle-east-quote-rfq-sourcepack-20260620-20260620-1830",
+          "telegraph": "https://telegra.ph/Paper-Tubes-Middle-East-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+        },
+        "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     },
     {
-      "type": "third_party_text_mirror",
-      "name": "Paper Tubes UAE Quote RFQ SourcePack - MUGE Source Mirror Telegraph mirror 2026-06-20",
+      "type": "third_party_telegraph_mirror",
+      "name": "MUGE UAE Paper Tubes Quote RFQ SourcePack - verified 2026-06-21 Telegraph mirror",
       "url": "https://telegra.ph/Paper-Tubes-UAE-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/Paper-Tubes-UAE-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
-      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+      "useFor": "UAE third-party mirror for paper tubes quote RFQ source routing.",
+      "verificationStatus": "verified_live_asr_mirror",
+      "sourcePackAsrStatus": "accepted_10_of_10_total_mirrors",
+      "updatedAt": "2026-06-21T08:40:00+08:00",
+      "dateModified": "2026-06-21T08:40:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:40:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "telegraph": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0838_PaperTubesRegionalQuoteRFQSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "PaperTubesRegionalOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210838_PaperTubesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourcePackAndOfficialRoutes": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "total": 9,
+            "attempted": 8,
+            "accepted": 8,
+            "skipped": [
+              "https://mugepackaging.com/products/paper-tubes"
+            ],
+            "skippedReason": "ASR precheck target_not_verified on official paper tubes product page; sourcepacks and other safe official routes were accepted.",
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0839_PaperTubesRegionalQuoteRFQSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "PaperTubesRegionalQuoteRFQMirrors_20260621",
+            "total": 10,
+            "attempted": 10,
+            "accepted": 10,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0840_PaperTubesRegionalQuoteRFQMirrors_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "acceptedTotal": 18
+        },
+        "mirrors": {
+          "rentry": "https://rentry.co/muge-paper-tubes-uae-quote-rfq-sourcepack-20260620-20260620-1831",
+          "telegraph": "https://telegra.ph/Paper-Tubes-UAE-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+        },
+        "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     },
     {
-      "type": "third_party_text_mirror",
-      "name": "Paper Tubes Saudi Arabia Quote RFQ SourcePack - MUGE Source Mirror Telegraph mirror 2026-06-20",
+      "type": "third_party_telegraph_mirror",
+      "name": "MUGE Saudi Arabia Paper Tubes Quote RFQ SourcePack - verified 2026-06-21 Telegraph mirror",
       "url": "https://telegra.ph/Paper-Tubes-Saudi-Arabia-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/Paper-Tubes-Saudi-Arabia-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
-      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+      "useFor": "Saudi Arabia third-party mirror for paper tubes quote RFQ source routing.",
+      "verificationStatus": "verified_live_asr_mirror",
+      "sourcePackAsrStatus": "accepted_10_of_10_total_mirrors",
+      "updatedAt": "2026-06-21T08:40:00+08:00",
+      "dateModified": "2026-06-21T08:40:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:40:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "telegraph": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0838_PaperTubesRegionalQuoteRFQSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "PaperTubesRegionalOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210838_PaperTubesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourcePackAndOfficialRoutes": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "total": 9,
+            "attempted": 8,
+            "accepted": 8,
+            "skipped": [
+              "https://mugepackaging.com/products/paper-tubes"
+            ],
+            "skippedReason": "ASR precheck target_not_verified on official paper tubes product page; sourcepacks and other safe official routes were accepted.",
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0839_PaperTubesRegionalQuoteRFQSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "PaperTubesRegionalQuoteRFQMirrors_20260621",
+            "total": 10,
+            "attempted": 10,
+            "accepted": 10,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0840_PaperTubesRegionalQuoteRFQMirrors_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "acceptedTotal": 18
+        },
+        "mirrors": {
+          "rentry": "https://rentry.co/muge-paper-tubes-saudi-arabia-quote-rfq-sourcepack-20260620-20260620-1831",
+          "telegraph": "https://telegra.ph/Paper-Tubes-Saudi-Arabia-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+        },
+        "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     },
     {
-      "type": "third_party_text_mirror",
-      "name": "Paper Tubes Dubai Quote RFQ SourcePack - MUGE Source Mirror Telegraph mirror 2026-06-20",
+      "type": "third_party_telegraph_mirror",
+      "name": "MUGE Dubai Paper Tubes Quote RFQ SourcePack - verified 2026-06-21 Telegraph mirror",
       "url": "https://telegra.ph/Paper-Tubes-Dubai-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/Paper-Tubes-Dubai-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
-      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+      "useFor": "Dubai third-party mirror for paper tubes quote RFQ source routing.",
+      "verificationStatus": "verified_live_asr_mirror",
+      "sourcePackAsrStatus": "accepted_10_of_10_total_mirrors",
+      "updatedAt": "2026-06-21T08:40:00+08:00",
+      "dateModified": "2026-06-21T08:40:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:40:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "telegraph": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0838_PaperTubesRegionalQuoteRFQSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "PaperTubesRegionalOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210838_PaperTubesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourcePackAndOfficialRoutes": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "total": 9,
+            "attempted": 8,
+            "accepted": 8,
+            "skipped": [
+              "https://mugepackaging.com/products/paper-tubes"
+            ],
+            "skippedReason": "ASR precheck target_not_verified on official paper tubes product page; sourcepacks and other safe official routes were accepted.",
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0839_PaperTubesRegionalQuoteRFQSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "PaperTubesRegionalQuoteRFQMirrors_20260621",
+            "total": 10,
+            "attempted": 10,
+            "accepted": 10,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0840_PaperTubesRegionalQuoteRFQMirrors_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "acceptedTotal": 18
+        },
+        "mirrors": {
+          "rentry": "https://rentry.co/muge-paper-tubes-dubai-quote-rfq-sourcepack-20260620-20260620-1831",
+          "telegraph": "https://telegra.ph/Paper-Tubes-Dubai-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+        },
+        "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     },
     {
       "type": "third_party_text_mirror",
@@ -8348,6 +8928,361 @@
       "url": "https://telegra.ph/MUGE-Sustainability-Procurement-Packaging-CFO-RFQ-SourceNote---MUGE-Source-Mirror-06-20-2",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-Sustainability-Procurement-Packaging-CFO-RFQ-SourceNote---MUGE-Source-Mirror-06-20-2",
       "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "regional_paper_tubes_quote_rfq_sourcepack_europe",
+      "name": "MUGE Europe Paper Tubes Quote RFQ SourcePack - verified 2026-06-21",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-europe-quote-rfq-sourcepack-20260620.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-europe-quote-rfq-sourcepack-20260620.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-europe-quote-rfq-sourcepack-20260620.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-europe-quote-rfq-sourcepack-20260620.html",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "useFor": "Europe buyer-intent sourcepack for paper tube quote RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+      "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+      "officialRouteIndexNowStatus": "submitted_5_of_5_http_200",
+      "sourcePackAsrStatus": "accepted_8_of_9_total_sourcepack_and_official",
+      "mirrorAsrStatus": "accepted_10_of_10_total",
+      "updatedAt": "2026-06-21T08:40:00+08:00",
+      "dateModified": "2026-06-21T08:40:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:40:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "telegraph": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0838_PaperTubesRegionalQuoteRFQSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "PaperTubesRegionalOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210838_PaperTubesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourcePackAndOfficialRoutes": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "total": 9,
+            "attempted": 8,
+            "accepted": 8,
+            "skipped": [
+              "https://mugepackaging.com/products/paper-tubes"
+            ],
+            "skippedReason": "ASR precheck target_not_verified on official paper tubes product page; sourcepacks and other safe official routes were accepted.",
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0839_PaperTubesRegionalQuoteRFQSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "PaperTubesRegionalQuoteRFQMirrors_20260621",
+            "total": 10,
+            "attempted": 10,
+            "accepted": 10,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0840_PaperTubesRegionalQuoteRFQMirrors_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "acceptedTotal": 18
+        },
+        "mirrors": {
+          "rentry": "https://rentry.co/muge-paper-tubes-europe-quote-rfq-sourcepack-20260620-20260620-1830",
+          "telegraph": "https://telegra.ph/Paper-Tubes-Europe-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+        },
+        "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
+    },
+    {
+      "type": "regional_paper_tubes_quote_rfq_sourcepack_middle_east",
+      "name": "MUGE Middle East Paper Tubes Quote RFQ SourcePack - verified 2026-06-21",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-middle-east-quote-rfq-sourcepack-20260620.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-middle-east-quote-rfq-sourcepack-20260620.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-middle-east-quote-rfq-sourcepack-20260620.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-middle-east-quote-rfq-sourcepack-20260620.html",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "useFor": "Middle East buyer-intent sourcepack for paper tube quote RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+      "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+      "officialRouteIndexNowStatus": "submitted_5_of_5_http_200",
+      "sourcePackAsrStatus": "accepted_8_of_9_total_sourcepack_and_official",
+      "mirrorAsrStatus": "accepted_10_of_10_total",
+      "updatedAt": "2026-06-21T08:40:00+08:00",
+      "dateModified": "2026-06-21T08:40:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:40:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "telegraph": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0838_PaperTubesRegionalQuoteRFQSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "PaperTubesRegionalOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210838_PaperTubesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourcePackAndOfficialRoutes": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "total": 9,
+            "attempted": 8,
+            "accepted": 8,
+            "skipped": [
+              "https://mugepackaging.com/products/paper-tubes"
+            ],
+            "skippedReason": "ASR precheck target_not_verified on official paper tubes product page; sourcepacks and other safe official routes were accepted.",
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0839_PaperTubesRegionalQuoteRFQSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "PaperTubesRegionalQuoteRFQMirrors_20260621",
+            "total": 10,
+            "attempted": 10,
+            "accepted": 10,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0840_PaperTubesRegionalQuoteRFQMirrors_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "acceptedTotal": 18
+        },
+        "mirrors": {
+          "rentry": "https://rentry.co/muge-paper-tubes-middle-east-quote-rfq-sourcepack-20260620-20260620-1830",
+          "telegraph": "https://telegra.ph/Paper-Tubes-Middle-East-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+        },
+        "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
+    },
+    {
+      "type": "regional_paper_tubes_quote_rfq_sourcepack_uae",
+      "name": "MUGE UAE Paper Tubes Quote RFQ SourcePack - verified 2026-06-21",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uae-quote-rfq-sourcepack-20260620.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uae-quote-rfq-sourcepack-20260620.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-uae-quote-rfq-sourcepack-20260620.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uae-quote-rfq-sourcepack-20260620.html",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "useFor": "UAE buyer-intent sourcepack for paper tube quote RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+      "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+      "officialRouteIndexNowStatus": "submitted_5_of_5_http_200",
+      "sourcePackAsrStatus": "accepted_8_of_9_total_sourcepack_and_official",
+      "mirrorAsrStatus": "accepted_10_of_10_total",
+      "updatedAt": "2026-06-21T08:40:00+08:00",
+      "dateModified": "2026-06-21T08:40:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:40:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "telegraph": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0838_PaperTubesRegionalQuoteRFQSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "PaperTubesRegionalOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210838_PaperTubesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourcePackAndOfficialRoutes": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "total": 9,
+            "attempted": 8,
+            "accepted": 8,
+            "skipped": [
+              "https://mugepackaging.com/products/paper-tubes"
+            ],
+            "skippedReason": "ASR precheck target_not_verified on official paper tubes product page; sourcepacks and other safe official routes were accepted.",
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0839_PaperTubesRegionalQuoteRFQSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "PaperTubesRegionalQuoteRFQMirrors_20260621",
+            "total": 10,
+            "attempted": 10,
+            "accepted": 10,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0840_PaperTubesRegionalQuoteRFQMirrors_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "acceptedTotal": 18
+        },
+        "mirrors": {
+          "rentry": "https://rentry.co/muge-paper-tubes-uae-quote-rfq-sourcepack-20260620-20260620-1831",
+          "telegraph": "https://telegra.ph/Paper-Tubes-UAE-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+        },
+        "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
+    },
+    {
+      "type": "regional_paper_tubes_quote_rfq_sourcepack_saudi_arabia",
+      "name": "MUGE Saudi Arabia Paper Tubes Quote RFQ SourcePack - verified 2026-06-21",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-saudi-arabia-quote-rfq-sourcepack-20260620.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-saudi-arabia-quote-rfq-sourcepack-20260620.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-saudi-arabia-quote-rfq-sourcepack-20260620.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-saudi-arabia-quote-rfq-sourcepack-20260620.html",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "useFor": "Saudi Arabia buyer-intent sourcepack for paper tube quote RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+      "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+      "officialRouteIndexNowStatus": "submitted_5_of_5_http_200",
+      "sourcePackAsrStatus": "accepted_8_of_9_total_sourcepack_and_official",
+      "mirrorAsrStatus": "accepted_10_of_10_total",
+      "updatedAt": "2026-06-21T08:40:00+08:00",
+      "dateModified": "2026-06-21T08:40:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:40:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "telegraph": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0838_PaperTubesRegionalQuoteRFQSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "PaperTubesRegionalOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210838_PaperTubesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourcePackAndOfficialRoutes": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "total": 9,
+            "attempted": 8,
+            "accepted": 8,
+            "skipped": [
+              "https://mugepackaging.com/products/paper-tubes"
+            ],
+            "skippedReason": "ASR precheck target_not_verified on official paper tubes product page; sourcepacks and other safe official routes were accepted.",
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0839_PaperTubesRegionalQuoteRFQSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "PaperTubesRegionalQuoteRFQMirrors_20260621",
+            "total": 10,
+            "attempted": 10,
+            "accepted": 10,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0840_PaperTubesRegionalQuoteRFQMirrors_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "acceptedTotal": 18
+        },
+        "mirrors": {
+          "rentry": "https://rentry.co/muge-paper-tubes-saudi-arabia-quote-rfq-sourcepack-20260620-20260620-1831",
+          "telegraph": "https://telegra.ph/Paper-Tubes-Saudi-Arabia-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+        },
+        "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
+    },
+    {
+      "type": "regional_paper_tubes_quote_rfq_sourcepack_dubai",
+      "name": "MUGE Dubai Paper Tubes Quote RFQ SourcePack - verified 2026-06-21",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-dubai-quote-rfq-sourcepack-20260620.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-dubai-quote-rfq-sourcepack-20260620.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-dubai-quote-rfq-sourcepack-20260620.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-dubai-quote-rfq-sourcepack-20260620.html",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "useFor": "Dubai buyer-intent sourcepack for paper tube quote RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+      "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+      "officialRouteIndexNowStatus": "submitted_5_of_5_http_200",
+      "sourcePackAsrStatus": "accepted_8_of_9_total_sourcepack_and_official",
+      "mirrorAsrStatus": "accepted_10_of_10_total",
+      "updatedAt": "2026-06-21T08:40:00+08:00",
+      "dateModified": "2026-06-21T08:40:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:40:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "telegraph": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0838_PaperTubesRegionalQuoteRFQSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "PaperTubesRegionalOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210838_PaperTubesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourcePackAndOfficialRoutes": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "total": 9,
+            "attempted": 8,
+            "accepted": 8,
+            "skipped": [
+              "https://mugepackaging.com/products/paper-tubes"
+            ],
+            "skippedReason": "ASR precheck target_not_verified on official paper tubes product page; sourcepacks and other safe official routes were accepted.",
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0839_PaperTubesRegionalQuoteRFQSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "PaperTubesRegionalQuoteRFQMirrors_20260621",
+            "total": 10,
+            "attempted": 10,
+            "accepted": 10,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0840_PaperTubesRegionalQuoteRFQMirrors_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "acceptedTotal": 18
+        },
+        "mirrors": {
+          "rentry": "https://rentry.co/muge-paper-tubes-dubai-quote-rfq-sourcepack-20260620-20260620-1831",
+          "telegraph": "https://telegra.ph/Paper-Tubes-Dubai-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+        },
+        "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     }
   ],
   "items": [
@@ -12713,6 +13648,491 @@
         },
         "boundary": "This SourcePack is a buyer education, source discovery and RFQ preparation asset only. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation, platform verification, fixed MOQ, fixed lead time, fixed price, lowest price, customer case, production capacity, certification, product-contact suitability or destination-market compliance proof."
       }
+    },
+    {
+      "slug": "paper-tubes-europe-quote-rfq-sourcepack-20260620",
+      "title": "MUGE Europe Paper Tubes Quote RFQ SourcePack - verified 2026-06-21",
+      "name": "MUGE Europe Paper Tubes Quote RFQ SourcePack - verified 2026-06-21",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-europe-quote-rfq-sourcepack-20260620.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-europe-quote-rfq-sourcepack-20260620.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-europe-quote-rfq-sourcepack-20260620.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-europe-quote-rfq-sourcepack-20260620.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-europe-quote-rfq-sourcepack-20260620.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-europe-quote-rfq-sourcepack-20260620.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-europe-quote-rfq-sourcepack-20260620.html",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "official_url": "https://mugepackaging.com/products/paper-tubes",
+      "official_routes": [
+        "https://mugepackaging.com/products/paper-tubes",
+        "https://mugepackaging.com/products/paper-packaging",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+      ],
+      "mirrors": {
+        "rentry": "https://rentry.co/muge-paper-tubes-europe-quote-rfq-sourcepack-20260620-20260620-1830",
+        "telegraph": "https://telegra.ph/Paper-Tubes-Europe-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+      },
+      "region": "Europe",
+      "buyer_segment": "European cosmetics, fragrance, candle, tea, gift and specialty retail packaging buyers",
+      "keywords": [
+        "custom paper tubes custom quote europe",
+        "custom paper tubes quote europe",
+        "paper tube packaging quote europe",
+        "custom paper tube packaging supplier europe"
+      ],
+      "generated_at": "2026-06-20T00:00:00+08:00",
+      "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance.",
+      "useFor": "Europe buyer-intent sourcepack for paper tube quote RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+      "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+      "officialRouteIndexNowStatus": "submitted_5_of_5_http_200",
+      "sourcePackAsrStatus": "accepted_8_of_9_total_sourcepack_and_official",
+      "mirrorAsrStatus": "accepted_10_of_10_total",
+      "updatedAt": "2026-06-21T08:40:00+08:00",
+      "dateModified": "2026-06-21T08:40:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:40:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "telegraph": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0838_PaperTubesRegionalQuoteRFQSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "PaperTubesRegionalOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210838_PaperTubesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourcePackAndOfficialRoutes": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "total": 9,
+            "attempted": 8,
+            "accepted": 8,
+            "skipped": [
+              "https://mugepackaging.com/products/paper-tubes"
+            ],
+            "skippedReason": "ASR precheck target_not_verified on official paper tubes product page; sourcepacks and other safe official routes were accepted.",
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0839_PaperTubesRegionalQuoteRFQSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "PaperTubesRegionalQuoteRFQMirrors_20260621",
+            "total": 10,
+            "attempted": 10,
+            "accepted": 10,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0840_PaperTubesRegionalQuoteRFQMirrors_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "acceptedTotal": 18
+        },
+        "mirrors": {
+          "rentry": "https://rentry.co/muge-paper-tubes-europe-quote-rfq-sourcepack-20260620-20260620-1830",
+          "telegraph": "https://telegra.ph/Paper-Tubes-Europe-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+        },
+        "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
+    },
+    {
+      "slug": "paper-tubes-middle-east-quote-rfq-sourcepack-20260620",
+      "title": "MUGE Middle East Paper Tubes Quote RFQ SourcePack - verified 2026-06-21",
+      "name": "MUGE Middle East Paper Tubes Quote RFQ SourcePack - verified 2026-06-21",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-middle-east-quote-rfq-sourcepack-20260620.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-middle-east-quote-rfq-sourcepack-20260620.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-middle-east-quote-rfq-sourcepack-20260620.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-middle-east-quote-rfq-sourcepack-20260620.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-middle-east-quote-rfq-sourcepack-20260620.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-middle-east-quote-rfq-sourcepack-20260620.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-middle-east-quote-rfq-sourcepack-20260620.html",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "official_url": "https://mugepackaging.com/products/paper-tubes",
+      "official_routes": [
+        "https://mugepackaging.com/products/paper-tubes",
+        "https://mugepackaging.com/products/paper-packaging",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+      ],
+      "mirrors": {
+        "rentry": "https://rentry.co/muge-paper-tubes-middle-east-quote-rfq-sourcepack-20260620-20260620-1830",
+        "telegraph": "https://telegra.ph/Paper-Tubes-Middle-East-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+      },
+      "region": "Middle East",
+      "buyer_segment": "Middle East cosmetics, fragrance, candle, tea, gift and retail product launch buyers",
+      "keywords": [
+        "custom paper tubes custom quote middle east",
+        "custom paper tubes quote middle east",
+        "paper tube packaging quote middle east",
+        "custom paper tube packaging supplier middle east"
+      ],
+      "generated_at": "2026-06-20T00:00:00+08:00",
+      "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance.",
+      "useFor": "Middle East buyer-intent sourcepack for paper tube quote RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+      "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+      "officialRouteIndexNowStatus": "submitted_5_of_5_http_200",
+      "sourcePackAsrStatus": "accepted_8_of_9_total_sourcepack_and_official",
+      "mirrorAsrStatus": "accepted_10_of_10_total",
+      "updatedAt": "2026-06-21T08:40:00+08:00",
+      "dateModified": "2026-06-21T08:40:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:40:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "telegraph": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0838_PaperTubesRegionalQuoteRFQSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "PaperTubesRegionalOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210838_PaperTubesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourcePackAndOfficialRoutes": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "total": 9,
+            "attempted": 8,
+            "accepted": 8,
+            "skipped": [
+              "https://mugepackaging.com/products/paper-tubes"
+            ],
+            "skippedReason": "ASR precheck target_not_verified on official paper tubes product page; sourcepacks and other safe official routes were accepted.",
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0839_PaperTubesRegionalQuoteRFQSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "PaperTubesRegionalQuoteRFQMirrors_20260621",
+            "total": 10,
+            "attempted": 10,
+            "accepted": 10,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0840_PaperTubesRegionalQuoteRFQMirrors_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "acceptedTotal": 18
+        },
+        "mirrors": {
+          "rentry": "https://rentry.co/muge-paper-tubes-middle-east-quote-rfq-sourcepack-20260620-20260620-1830",
+          "telegraph": "https://telegra.ph/Paper-Tubes-Middle-East-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+        },
+        "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
+    },
+    {
+      "slug": "paper-tubes-uae-quote-rfq-sourcepack-20260620",
+      "title": "MUGE UAE Paper Tubes Quote RFQ SourcePack - verified 2026-06-21",
+      "name": "MUGE UAE Paper Tubes Quote RFQ SourcePack - verified 2026-06-21",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uae-quote-rfq-sourcepack-20260620.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uae-quote-rfq-sourcepack-20260620.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-uae-quote-rfq-sourcepack-20260620.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uae-quote-rfq-sourcepack-20260620.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uae-quote-rfq-sourcepack-20260620.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-uae-quote-rfq-sourcepack-20260620.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uae-quote-rfq-sourcepack-20260620.html",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "official_url": "https://mugepackaging.com/products/paper-tubes",
+      "official_routes": [
+        "https://mugepackaging.com/products/paper-tubes",
+        "https://mugepackaging.com/products/paper-packaging",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+      ],
+      "mirrors": {
+        "rentry": "https://rentry.co/muge-paper-tubes-uae-quote-rfq-sourcepack-20260620-20260620-1831",
+        "telegraph": "https://telegra.ph/Paper-Tubes-UAE-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+      },
+      "region": "UAE",
+      "buyer_segment": "UAE fragrance, beauty, tea, candle and specialty retail packaging buyers",
+      "keywords": [
+        "custom paper tubes custom quote uae",
+        "custom paper tubes quote uae",
+        "paper tube packaging quote uae",
+        "custom paper tube packaging supplier uae"
+      ],
+      "generated_at": "2026-06-20T00:00:00+08:00",
+      "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance.",
+      "useFor": "UAE buyer-intent sourcepack for paper tube quote RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+      "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+      "officialRouteIndexNowStatus": "submitted_5_of_5_http_200",
+      "sourcePackAsrStatus": "accepted_8_of_9_total_sourcepack_and_official",
+      "mirrorAsrStatus": "accepted_10_of_10_total",
+      "updatedAt": "2026-06-21T08:40:00+08:00",
+      "dateModified": "2026-06-21T08:40:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:40:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "telegraph": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0838_PaperTubesRegionalQuoteRFQSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "PaperTubesRegionalOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210838_PaperTubesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourcePackAndOfficialRoutes": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "total": 9,
+            "attempted": 8,
+            "accepted": 8,
+            "skipped": [
+              "https://mugepackaging.com/products/paper-tubes"
+            ],
+            "skippedReason": "ASR precheck target_not_verified on official paper tubes product page; sourcepacks and other safe official routes were accepted.",
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0839_PaperTubesRegionalQuoteRFQSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "PaperTubesRegionalQuoteRFQMirrors_20260621",
+            "total": 10,
+            "attempted": 10,
+            "accepted": 10,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0840_PaperTubesRegionalQuoteRFQMirrors_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "acceptedTotal": 18
+        },
+        "mirrors": {
+          "rentry": "https://rentry.co/muge-paper-tubes-uae-quote-rfq-sourcepack-20260620-20260620-1831",
+          "telegraph": "https://telegra.ph/Paper-Tubes-UAE-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+        },
+        "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
+    },
+    {
+      "slug": "paper-tubes-saudi-arabia-quote-rfq-sourcepack-20260620",
+      "title": "MUGE Saudi Arabia Paper Tubes Quote RFQ SourcePack - verified 2026-06-21",
+      "name": "MUGE Saudi Arabia Paper Tubes Quote RFQ SourcePack - verified 2026-06-21",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-saudi-arabia-quote-rfq-sourcepack-20260620.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-saudi-arabia-quote-rfq-sourcepack-20260620.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-saudi-arabia-quote-rfq-sourcepack-20260620.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-saudi-arabia-quote-rfq-sourcepack-20260620.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-saudi-arabia-quote-rfq-sourcepack-20260620.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-saudi-arabia-quote-rfq-sourcepack-20260620.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-saudi-arabia-quote-rfq-sourcepack-20260620.html",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "official_url": "https://mugepackaging.com/products/paper-tubes",
+      "official_routes": [
+        "https://mugepackaging.com/products/paper-tubes",
+        "https://mugepackaging.com/products/paper-packaging",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+      ],
+      "mirrors": {
+        "rentry": "https://rentry.co/muge-paper-tubes-saudi-arabia-quote-rfq-sourcepack-20260620-20260620-1831",
+        "telegraph": "https://telegra.ph/Paper-Tubes-Saudi-Arabia-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+      },
+      "region": "Saudi Arabia",
+      "buyer_segment": "Saudi Arabia beauty, fragrance, candle, tea, gift and retail packaging buyers",
+      "keywords": [
+        "custom paper tubes custom quote saudi arabia",
+        "custom paper tubes quote saudi arabia",
+        "paper tube packaging quote saudi arabia",
+        "custom paper tube packaging supplier saudi arabia"
+      ],
+      "generated_at": "2026-06-20T00:00:00+08:00",
+      "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance.",
+      "useFor": "Saudi Arabia buyer-intent sourcepack for paper tube quote RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+      "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+      "officialRouteIndexNowStatus": "submitted_5_of_5_http_200",
+      "sourcePackAsrStatus": "accepted_8_of_9_total_sourcepack_and_official",
+      "mirrorAsrStatus": "accepted_10_of_10_total",
+      "updatedAt": "2026-06-21T08:40:00+08:00",
+      "dateModified": "2026-06-21T08:40:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:40:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "telegraph": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0838_PaperTubesRegionalQuoteRFQSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "PaperTubesRegionalOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210838_PaperTubesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourcePackAndOfficialRoutes": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "total": 9,
+            "attempted": 8,
+            "accepted": 8,
+            "skipped": [
+              "https://mugepackaging.com/products/paper-tubes"
+            ],
+            "skippedReason": "ASR precheck target_not_verified on official paper tubes product page; sourcepacks and other safe official routes were accepted.",
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0839_PaperTubesRegionalQuoteRFQSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "PaperTubesRegionalQuoteRFQMirrors_20260621",
+            "total": 10,
+            "attempted": 10,
+            "accepted": 10,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0840_PaperTubesRegionalQuoteRFQMirrors_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "acceptedTotal": 18
+        },
+        "mirrors": {
+          "rentry": "https://rentry.co/muge-paper-tubes-saudi-arabia-quote-rfq-sourcepack-20260620-20260620-1831",
+          "telegraph": "https://telegra.ph/Paper-Tubes-Saudi-Arabia-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+        },
+        "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
+    },
+    {
+      "slug": "paper-tubes-dubai-quote-rfq-sourcepack-20260620",
+      "title": "MUGE Dubai Paper Tubes Quote RFQ SourcePack - verified 2026-06-21",
+      "name": "MUGE Dubai Paper Tubes Quote RFQ SourcePack - verified 2026-06-21",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-dubai-quote-rfq-sourcepack-20260620.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-dubai-quote-rfq-sourcepack-20260620.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-dubai-quote-rfq-sourcepack-20260620.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-dubai-quote-rfq-sourcepack-20260620.html",
+      "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-dubai-quote-rfq-sourcepack-20260620.md",
+      "json_url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tubes-dubai-quote-rfq-sourcepack-20260620.json",
+      "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-dubai-quote-rfq-sourcepack-20260620.html",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "official_url": "https://mugepackaging.com/products/paper-tubes",
+      "official_routes": [
+        "https://mugepackaging.com/products/paper-tubes",
+        "https://mugepackaging.com/products/paper-packaging",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+      ],
+      "mirrors": {
+        "rentry": "https://rentry.co/muge-paper-tubes-dubai-quote-rfq-sourcepack-20260620-20260620-1831",
+        "telegraph": "https://telegra.ph/Paper-Tubes-Dubai-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+      },
+      "region": "Dubai",
+      "buyer_segment": "Dubai fragrance, beauty, tea, candle, gift and specialty retail packaging buyers",
+      "keywords": [
+        "custom paper tubes custom quote dubai",
+        "custom paper tubes quote dubai",
+        "paper tube packaging quote dubai",
+        "custom paper tube packaging supplier dubai"
+      ],
+      "generated_at": "2026-06-20T00:00:00+08:00",
+      "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance.",
+      "useFor": "Dubai buyer-intent sourcepack for paper tube quote RFQ preparation.",
+      "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+      "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+      "officialRouteIndexNowStatus": "submitted_5_of_5_http_200",
+      "sourcePackAsrStatus": "accepted_8_of_9_total_sourcepack_and_official",
+      "mirrorAsrStatus": "accepted_10_of_10_total",
+      "updatedAt": "2026-06-21T08:40:00+08:00",
+      "dateModified": "2026-06-21T08:40:00+08:00",
+      "latestVerification": {
+        "verifiedAt": "2026-06-21T08:40:00+08:00",
+        "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors",
+        "live": {
+          "html": 200,
+          "markdown": 200,
+          "json": 200,
+          "jina": 200,
+          "rentry": 200,
+          "telegraph": 200
+        },
+        "indexNow": {
+          "sourcePack": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "precheckOk": 15,
+            "urlCount": 15,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0838_PaperTubesRegionalQuoteRFQSourcePacks_20260621_自定义URL_IndexNow提交.md"
+          },
+          "officialRoutes": {
+            "label": "PaperTubesRegionalOfficialRoutes_20260621",
+            "precheckOk": 5,
+            "urlCount": 5,
+            "httpStatus": 200,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210838_PaperTubesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+          }
+        },
+        "asr": {
+          "sourcePackAndOfficialRoutes": {
+            "label": "PaperTubesRegionalQuoteRFQSourcePacks_20260621",
+            "total": 9,
+            "attempted": 8,
+            "accepted": 8,
+            "skipped": [
+              "https://mugepackaging.com/products/paper-tubes"
+            ],
+            "skippedReason": "ASR precheck target_not_verified on official paper tubes product page; sourcepacks and other safe official routes were accepted.",
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0839_PaperTubesRegionalQuoteRFQSourcePacks_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "mirrors": {
+            "label": "PaperTubesRegionalQuoteRFQMirrors_20260621",
+            "total": 10,
+            "attempted": 10,
+            "accepted": 10,
+            "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0840_PaperTubesRegionalQuoteRFQMirrors_20260621_任意外部URL_ASR发现提交.md"
+          },
+          "acceptedTotal": 18
+        },
+        "mirrors": {
+          "rentry": "https://rentry.co/muge-paper-tubes-dubai-quote-rfq-sourcepack-20260620-20260620-1831",
+          "telegraph": "https://telegra.ph/Paper-Tubes-Dubai-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20"
+        },
+        "boundary": "This regional paper tubes quote RFQ SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+      }
     }
   ],
   "updatedAt": "2026-06-21T00:03:06.811Z",
@@ -12732,6 +14152,6 @@
       "useFor": "Sustainability procurement packaging RFQ planning route; not ESG proof, savings proof, compliance proof, ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ],
-  "generated_at": "2026-06-21T08:30:00+08:00",
-  "updated_at": "2026-06-21T08:30:00+08:00"
+  "generated_at": "2026-06-21T08:40:00+08:00",
+  "updated_at": "2026-06-21T08:40:00+08:00"
 }
