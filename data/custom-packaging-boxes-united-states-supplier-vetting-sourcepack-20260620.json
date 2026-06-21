@@ -95,5 +95,116 @@
     "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-boxes-united-states-supplier-vetting-sourcepack-20260620.json",
     "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-united-states-supplier-vetting-sourcepack-20260620.html"
   },
-  "claimBoundary": "This SourcePack is for buyer education, supplier comparison and official source routing only. It is not proof of Google ranking, GSC clicks, traffic, inquiry generation, AI natural recommendation, third-party endorsement or platform verification. It does not state fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact status or regulatory approval. Project requirements, documents and destination-market questions should be reviewed case by case."
+  "claimBoundary": "This SourcePack is for buyer education, supplier comparison and official source routing only. It is not proof of Google ranking, GSC clicks, traffic, inquiry generation, AI natural recommendation, third-party endorsement or platform verification. It does not state fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact status or regulatory approval. Project requirements, documents and destination-market questions should be reviewed case by case.",
+  "verificationStatus": "verified_live_jina_indexnow_asr_us_uk_core_batch",
+  "sourcePackIndexNowStatus": "submitted_36_of_36_http_200",
+  "officialRouteIndexNowStatus": "submitted_15_of_15_http_200",
+  "asrStatus": "accepted_40_of_43_total_sourcepack_mirrors_and_safe_official_routes",
+  "updatedAt": "2026-06-21T09:26:00+08:00",
+  "latestVerification": {
+    "verifiedAt": "2026-06-21T09:26:00+08:00",
+    "verificationStatus": "verified_live_jina_indexnow_asr_us_uk_core_batch",
+    "live": {
+      "html": 200,
+      "markdown": 200,
+      "json": 200,
+      "jina": 200,
+      "batchTotal": 79,
+      "batchOk": 79
+    },
+    "officialRoutes": {
+      "checked": [
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com",
+        "https://mugepackaging.com/products/cosmetic-packaging",
+        "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+        "https://mugepackaging.com/products/pvc-packaging",
+        "https://mugepackaging.com/products/clear-boxes",
+        "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide",
+        "https://mugepackaging.com/products/corrugated-boxes",
+        "https://mugepackaging.com/blog/custom-corrugated-mailer-box-e-commerce-shipping-solutions",
+        "https://mugepackaging.com/blog/custom-e-commerce-packaging-solutions-for-online-retail-success",
+        "https://mugepackaging.com/blog/custom-corrugated-packaging-box-design-for-shipping-and-retail",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+        "https://mugepackaging.com/products/paper-tubes",
+        "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure"
+      ],
+      "httpStatus": 200,
+      "checkedOk": 15,
+      "checkedTotal": 15
+    },
+    "indexNow": {
+      "sourcePack": {
+        "label": "USUKCoreSourcePacks_20260621",
+        "precheckOk": 36,
+        "urlCount": 36,
+        "httpStatus": 200,
+        "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0924_USUKCoreSourcePacks_20260621_自定义URL_IndexNow提交.md"
+      },
+      "officialRoutes": {
+        "label": "USUKCoreOfficialRoutes_20260621",
+        "precheckOk": 15,
+        "urlCount": 15,
+        "httpStatus": 200,
+        "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210924_USUKCoreOfficialRoutes_20260621_IndexNow提交记录.md"
+      }
+    },
+    "asr": {
+      "label": "USUKCoreSourcePacksMirrors_20260621",
+      "total": 43,
+      "attempted": 40,
+      "accepted": 40,
+      "acceptedUrls": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-uk-supplier-vetting-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-united-states-supplier-vetting-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-uk-supplier-vetting-rfq-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-united-states-supplier-vetting-rfq-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-uk-supplier-vetting-rfq-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-boxes-united-states-supplier-vetting-rfq-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-uk-rfq-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-united-states-rfq-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-uk-quote-rfq-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tubes-united-states-quote-rfq-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-uk-supplier-vetting-rfq-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-united-states-supplier-vetting-rfq-sourcepack-20260620.html",
+        "https://rentry.co/muge-custom-packaging-uk-source-20260619-0043",
+        "https://telegra.ph/UK-Custom-Packaging-Boxes-Supplier-Vetting---MUGE-Source-Mirror-06-18",
+        "https://rentry.co/muge-cosmetic-packaging-uk-supplier-vetting-rfq-sourcepack-20260620-20260620-1813",
+        "https://telegra.ph/Cosmetic-Packaging-UK-Supplier-Vetting-RFQ-SourcePack---MUGE-Source-Mirror-06-20",
+        "https://rentry.co/muge-corrugated-mailer-ecommerce-uk-rfq-sourcepack-20260620-20260620-1847",
+        "https://telegra.ph/Corrugated-Mailer-E-commerce-Packaging-UK-RFQ-SourcePack---MUGE-Source-Mirror-06-20",
+        "https://rentry.co/muge-corrugated-mailer-ecommerce-united-states-rfq-sourcepack-20260620-20260620-1847",
+        "https://telegra.ph/Corrugated-Mailer-E-commerce-Packaging-United-States-RFQ-SourcePack---MUGE-Source-Mirror-06-20",
+        "https://rentry.co/muge-paper-tubes-uk-quote-rfq-sourcepack-20260620-20260620-1831",
+        "https://telegra.ph/Paper-Tubes-UK-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
+        "https://rentry.co/muge-paper-tubes-united-states-quote-rfq-sourcepack-20260620-20260620-1831",
+        "https://telegra.ph/Paper-Tubes-United-States-Quote-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
+        "https://rentry.co/muge-rigid-gift-boxes-uk-supplier-vetting-rfq-sourcepack-20260620-20260620-1822",
+        "https://telegra.ph/Rigid-Gift-Boxes-UK-Supplier-Vetting-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
+        "https://rentry.co/muge-rigid-gift-boxes-united-states-supplier-vetting-rfq-sourcepack-20260620-20260620-1822",
+        "https://telegra.ph/Rigid-Gift-Boxes-United-States-Supplier-Vetting-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com",
+        "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+        "https://mugepackaging.com/products/pvc-packaging",
+        "https://mugepackaging.com/products/clear-boxes",
+        "https://mugepackaging.com/blog/pvc-pet-clear-box-packaging-guide",
+        "https://mugepackaging.com/products/corrugated-boxes",
+        "https://mugepackaging.com/blog/custom-corrugated-mailer-box-e-commerce-shipping-solutions",
+        "https://mugepackaging.com/blog/custom-e-commerce-packaging-solutions-for-online-retail-success",
+        "https://mugepackaging.com/blog/custom-corrugated-packaging-box-design-for-shipping-and-retail",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+        "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure"
+      ],
+      "skipped": [
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/products/cosmetic-packaging",
+        "https://mugepackaging.com/products/paper-tubes"
+      ],
+      "skippedReason": "Three official product/category pages were live but failed ASR target verification; all 12 SourcePack pages, available mirrors and 12 safe official routes were accepted.",
+      "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0926_USUKCoreSourcePacksMirrors_20260621_任意外部URL_ASR发现提交.md"
+    },
+    "boundary": "This US/UK core SourcePack batch is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, certification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+  }
 }
