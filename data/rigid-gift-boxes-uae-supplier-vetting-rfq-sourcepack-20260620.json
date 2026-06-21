@@ -95,5 +95,81 @@
     "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.json",
     "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.html"
   },
-  "claimBoundary": "This SourcePack is for buyer education, RFQ preparation and official source routing only. It is not proof of Google ranking, GSC clicks, traffic, inquiry generation, AI natural recommendation, third-party endorsement or platform verification. It does not state fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact status or regulatory approval. Rigid gift box structure, inserts, documents and destination-market questions should be reviewed case by case."
+  "claimBoundary": "This SourcePack is for buyer education, RFQ preparation and official source routing only. It is not proof of Google ranking, GSC clicks, traffic, inquiry generation, AI natural recommendation, third-party endorsement or platform verification. It does not state fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, food-contact status or regulatory approval. Rigid gift box structure, inserts, documents and destination-market questions should be reviewed case by case.",
+  "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors_partial_rentry_skip",
+  "sourcePackIndexNowStatus": "submitted_15_of_15_http_200",
+  "officialRouteIndexNowStatus": "submitted_4_of_4_http_200",
+  "asrStatus": "accepted_17_of_19_total_sourcepack_mirrors_and_safe_official_routes",
+  "updatedAt": "2026-06-21T09:14:46+08:00",
+  "latestVerification": {
+    "verifiedAt": "2026-06-21T09:14:46+08:00",
+    "verificationStatus": "verified_live_jina_indexnow_asr_with_rentry_telegraph_mirrors_partial_rentry_skip",
+    "live": {
+      "html": 200,
+      "markdown": 200,
+      "json": 200,
+      "jina": 200,
+      "rentry": 200,
+      "telegraph": 200
+    },
+    "officialRoutes": {
+      "checked": [
+        "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com"
+      ],
+      "httpStatus": 200,
+      "checkedOk": 4,
+      "checkedTotal": 4
+    },
+    "indexNow": {
+      "sourcePack": {
+        "label": "RigidGiftBoxesRegionalSourcePacks_20260621",
+        "precheckOk": 15,
+        "urlCount": 15,
+        "httpStatus": 200,
+        "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交/20260621_0912_RigidGiftBoxesRegionalSourcePacks_20260621_自定义URL_IndexNow提交.md"
+      },
+      "officialRoutes": {
+        "label": "RigidGiftBoxesRegionalOfficialRoutes_20260621",
+        "precheckOk": 4,
+        "urlCount": 4,
+        "httpStatus": 200,
+        "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/IndexNow提交记录/202606210912_RigidGiftBoxesRegionalOfficialRoutes_20260621_IndexNow提交记录.md"
+      }
+    },
+    "asr": {
+      "label": "RigidGiftBoxesRegionalSourcePacksMirrors_20260621",
+      "total": 19,
+      "attempted": 17,
+      "accepted": 17,
+      "acceptedUrls": [
+        "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-europe-supplier-vetting-rfq-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-uae-supplier-vetting-rfq-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620.html",
+        "https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620.html",
+        "https://telegra.ph/Rigid-Gift-Boxes-Europe-Supplier-Vetting-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
+        "https://rentry.co/muge-rigid-gift-boxes-middle-east-supplier-vetting-rfq-sourcepack-20260620-20260620-1822",
+        "https://telegra.ph/Rigid-Gift-Boxes-Middle-East-Supplier-Vetting-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
+        "https://rentry.co/muge-rigid-gift-boxes-uae-supplier-vetting-rfq-sourcepack-20260620-20260620-1822",
+        "https://telegra.ph/Rigid-Gift-Boxes-UAE-Supplier-Vetting-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
+        "https://rentry.co/muge-rigid-gift-boxes-saudi-arabia-supplier-vetting-rfq-sourcepack-20260620-20260620-1822",
+        "https://telegra.ph/Rigid-Gift-Boxes-Saudi-Arabia-Supplier-Vetting-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
+        "https://rentry.co/muge-rigid-gift-boxes-dubai-supplier-vetting-rfq-sourcepack-20260620-20260620-1822",
+        "https://telegra.ph/Rigid-Gift-Boxes-Dubai-Supplier-Vetting-RFQ-SourcePack---MUGE-Source-Mirror---MUGE-Source-Mirror-06-20",
+        "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+        "https://mugepackaging.com/contact",
+        "https://mugepackaging.com"
+      ],
+      "skipped": [
+        "https://rentry.co/muge-rigid-gift-boxes-europe-supplier-vetting-rfq-sourcepack-20260620-20260620-1822",
+        "https://mugepackaging.com/products"
+      ],
+      "skippedReason": "One Europe Rentry mirror returned fetch failed during ASR submission; generic products page was live but failed ASR target verification. Five SourcePack pages, nine mirrors and three safe official routes were accepted.",
+      "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0913_RigidGiftBoxesRegionalSourcePacksMirrors_20260621_任意外部URL_ASR发现提交.md"
+    },
+    "boundary": "This rigid gift boxes regional supplier vetting SourcePack is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, certification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
+  }
 }
