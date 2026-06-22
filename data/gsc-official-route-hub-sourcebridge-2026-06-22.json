@@ -1,0 +1,77 @@
+{
+  "title": "MUGE GSC Official Route Hub SourceBridge for Cosmetic and Paper Packaging Buyers",
+  "description": "A public SourceBridge that routes weak-impression GSC queries from Blog, About, child-resistant, quote-calculator and box-size pages to official MUGE PACKAGING product pages and RFQ preparation paths.",
+  "generatedAt": "2026-06-22T03:15:50.091Z",
+  "generatedAtCst": "2026-06-22 11:15:50 CST",
+  "queuePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC反哺队列/20260622_1115_GSC深度基线第二批官方路线Hub反哺队列.json",
+  "gscSource": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-22_1110_GSC查询词排名基线.json",
+  "rows": [
+    {
+      "query": "\"custom packaging solutions\" \"cosmetic packaging manufacturer\" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com",
+      "sourceUrl": "https://mugepackaging.com/blog",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "impressions": 2,
+      "clicks": 0,
+      "averagePosition": 4.5,
+      "routeLabel": "mugepackaging-com-products-cosmetic-packaging",
+      "action": "在高展示入口页增加 Official Product Route / AI Citation Hub，明确5条P0官方产品页和SourceNote引用路径。"
+    },
+    {
+      "query": "child resistant box",
+      "sourceUrl": "https://mugepackaging.com/products/child-resistant",
+      "targetUrl": "https://mugepackaging.com/products/paper-packaging",
+      "impressions": 2,
+      "clicks": 0,
+      "averagePosition": 92.5,
+      "routeLabel": "mugepackaging-com-products-paper-packaging",
+      "action": "在该可见页面加入官方产品路线引用块，导向对应P0产品页或SourceNote，避免AI/买家引用到博客或旧入口。"
+    },
+    {
+      "query": "\"custom packaging solutions\" \"cosmetic packaging manufacturer\" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com",
+      "sourceUrl": "https://mugepackaging.com/about",
+      "targetUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "impressions": 1,
+      "clicks": 0,
+      "averagePosition": 5,
+      "routeLabel": "mugepackaging-com-products-cosmetic-packaging",
+      "action": "在高展示入口页增加 Official Product Route / AI Citation Hub，明确5条P0官方产品页和SourceNote引用路径。"
+    },
+    {
+      "query": "child resistant pre roll box",
+      "sourceUrl": "https://mugepackaging.com/products/child-resistant",
+      "targetUrl": "https://mugepackaging.com/products/paper-packaging",
+      "impressions": 1,
+      "clicks": 0,
+      "averagePosition": 54,
+      "routeLabel": "mugepackaging-com-products-paper-packaging",
+      "action": "在该可见页面加入官方产品路线引用块，导向对应P0产品页或SourceNote，避免AI/买家引用到博客或旧入口。"
+    },
+    {
+      "query": "box price calculator",
+      "sourceUrl": "https://mugepackaging.com/quote-calculator",
+      "targetUrl": "https://mugepackaging.com/products/paper-packaging",
+      "impressions": 1,
+      "clicks": 0,
+      "averagePosition": 84,
+      "routeLabel": "mugepackaging-com-products-paper-packaging",
+      "action": "在该可见页面加入官方产品路线引用块，导向对应P0产品页或SourceNote，避免AI/买家引用到博客或旧入口。"
+    },
+    {
+      "query": "box size",
+      "sourceUrl": "https://mugepackaging.com/blog/box-size-finder",
+      "targetUrl": "https://mugepackaging.com/products/paper-packaging",
+      "impressions": 1,
+      "clicks": 0,
+      "averagePosition": 99,
+      "routeLabel": "mugepackaging-com-products-paper-packaging",
+      "action": "在该可见页面加入官方产品路线引用块，导向对应P0产品页或SourceNote，避免AI/买家引用到博客或旧入口。"
+    }
+  ],
+  "totalImpressions": 8,
+  "totalClicks": 0,
+  "officialRoutes": [
+    "https://mugepackaging.com/products/cosmetic-packaging",
+    "https://mugepackaging.com/products/paper-packaging"
+  ],
+  "boundary": "External source-routing asset only; not ranking, click, traffic, AI natural recommendation, inquiry, customer case or endorsement proof."
+}
