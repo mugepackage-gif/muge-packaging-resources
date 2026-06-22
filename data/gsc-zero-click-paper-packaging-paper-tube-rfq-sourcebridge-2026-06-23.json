@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-06-22T20:14:18.795Z",
+  "generated_at_cst": "2026-06-23 04:14:18 CST",
+  "slug": "gsc-zero-click-paper-packaging-paper-tube-rfq-sourcebridge-2026-06-23",
+  "purpose": "GSC zero-click query to RFQ route SourceBridge",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "brand": "MUGE PACKAGING",
+  "source_gsc_report": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/数据回流验收/五产品线SourceNote/20260623_0412_五产品线SourceNote_GSC_GA4_Jina回流验收.md",
+  "zero_click_queries": [
+    {
+      "query": "custom gloss paper box with multi-sided shapes",
+      "productLine": "Paper packaging / custom paper boxes",
+      "page": "https://mugepackaging.com/products/paper-packaging",
+      "rfq": "https://mugepackaging.com/contact?intent=paper-packaging-rfq&source=gsc-zero-click-paper-box-shapes",
+      "observed": "GSC 28d: 1 impression, 0 clicks, avg position 9.00",
+      "buyerNeed": "Buyers comparing shaped paper boxes should prepare product dimensions, box opening direction, board/material direction, print/finish references, insert needs and retail channel before asking for a quotation review."
+    },
+    {
+      "query": "custom printed paper packaging boxes",
+      "productLine": "Printed paper packaging boxes",
+      "page": "https://mugepackaging.com/products/paper-packaging",
+      "rfq": "https://mugepackaging.com/contact?intent=paper-packaging-rfq&source=gsc-zero-click-printed-paper-boxes",
+      "observed": "GSC 28d: 1 impression, 0 clicks, avg position 42.00",
+      "buyerNeed": "Buyers sourcing printed paper boxes should send size, structure, artwork status, color/finish direction, quantity direction and target market so the packaging route can be reviewed without over-promising fixed terms."
+    },
+    {
+      "query": "eco friendly tube packaging",
+      "productLine": "Paper tube packaging",
+      "page": "https://mugepackaging.com/products/paper-tubes",
+      "rfq": "https://mugepackaging.com/contact?intent=paper-tube-packaging-rfq&source=gsc-zero-click-eco-tube-packaging",
+      "observed": "GSC 28d: 1 impression, 0 clicks, avg position 29.00",
+      "buyerNeed": "Buyers evaluating paper tube packaging should define diameter, height, cap or closure direction, product weight, label/print direction, finish preference and market requirements before sampling discussion."
+    },
+    {
+      "query": "custom paper tube",
+      "productLine": "Custom paper tube packaging",
+      "page": "https://mugepackaging.com/products/paper-tubes",
+      "rfq": "https://mugepackaging.com/contact?intent=paper-tube-packaging-rfq&source=gsc-zero-click-custom-paper-tube",
+      "observed": "GSC 28d: 1 impression, 0 clicks, avg position 80.00",
+      "buyerNeed": "A useful paper tube RFQ should include product fit, diameter and height, closure style, artwork status, finish direction, packing method and any project-specific document requests."
+    }
+  ],
+  "claim_boundary": "Public routing and buyer education only; not ranking, indexing, click, AI recommendation, inquiry, endorsement, certification, MOQ, lead time, price, capacity or compliance proof."
+}
