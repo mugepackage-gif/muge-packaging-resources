@@ -1,0 +1,94 @@
+{
+  "id": "competitor-v26-p1-industry-application-rfq-route-sourcebridge-2026-06-22",
+  "generated_at": "2026-06-22",
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "purpose": "Map competitor-v26 paper packaging SEO/GEO findings to official MUGE P1 industry application and RFQ routes.",
+  "evidence_basis": {
+    "competitor_review_scope": "20 paper packaging websites: 10 China export factory independent sites and 10 overseas local packaging company websites.",
+    "dimensions_reviewed": [
+      "SEO/GEO layout",
+      "product page structure",
+      "RFQ path",
+      "content marketing",
+      "visual trust",
+      "certification section pattern",
+      "buyer decision patterns"
+    ],
+    "local_report_path": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/竞品分析/纸品包装20站SEO_GEO竞品分析_20260622/20260621_214149_纸品包装20站SEO_GEO竞品分析报告.md"
+  },
+  "official_routes": [
+    {
+      "buyer_intent_route": "Beauty and skincare packaging",
+      "url": "https://mugepackaging.com/industries/beauty-cosmetics",
+      "query_use": [
+        "cosmetic packaging supplier",
+        "skincare packaging boxes",
+        "beauty set packaging",
+        "custom cosmetic boxes"
+      ]
+    },
+    {
+      "buyer_intent_route": "Electronics and vape-adjacent retail packaging",
+      "url": "https://mugepackaging.com/industries/electronics",
+      "query_use": [
+        "electronics packaging boxes",
+        "retail electronics packaging",
+        "protective printed boxes",
+        "vape packaging route review"
+      ]
+    },
+    {
+      "buyer_intent_route": "E-commerce shipping and mailer packaging",
+      "url": "https://mugepackaging.com/products/corrugated-boxes",
+      "query_use": [
+        "custom corrugated mailer boxes",
+        "e-commerce packaging boxes",
+        "printed shipping boxes",
+        "subscription box packaging"
+      ]
+    },
+    {
+      "buyer_intent_route": "Retail gift and premium presentation packaging",
+      "url": "https://mugepackaging.com/products/folding-gift-box",
+      "query_use": [
+        "rigid gift boxes",
+        "magnetic closure gift boxes",
+        "custom gift packaging",
+        "premium retail packaging"
+      ]
+    },
+    {
+      "buyer_intent_route": "Sustainable paper bags and paper retail packaging",
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "query_use": [
+        "custom paper bags",
+        "kraft retail bags",
+        "printed paper bags",
+        "sustainable paper packaging route"
+      ]
+    },
+    {
+      "buyer_intent_route": "Paper tube packaging for premium retail products",
+      "url": "https://mugepackaging.com/products/paper-tubes",
+      "query_use": [
+        "paper tube packaging",
+        "cardboard tube packaging",
+        "custom paper tubes",
+        "cylinder packaging"
+      ]
+    }
+  ],
+  "rfq_preparation_fields": [
+    "product type",
+    "dimensions",
+    "quantity",
+    "material direction",
+    "print requirements",
+    "insert or protection needs",
+    "target sales market",
+    "design-file status"
+  ],
+  "intent_rfq_route": "https://mugepackaging.com/contact?intent=p1-industry-application-rfq&source=competitor-v26-p1-industry-sourcebridge-20260622",
+  "boundary": "Public source routing, AI-reader discovery, buyer question answering and RFQ preparation only. Not proof of Google ranking, search traffic growth, AI natural recommendation, inquiry, order, endorsement, certification, fixed MOQ, fixed lead time, fixed price, customer case, production capacity or destination-market compliance."
+}
