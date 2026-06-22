@@ -39,6 +39,84 @@
   ],
   "preferredSources": [
     {
+      "type": "gsc_child_resistant_cardboard_carton_source_note",
+      "name": "Child Resistant Cardboard Box and Carton RFQ Source Note",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/child-resistant-cardboard-carton-rfq-source-note-2026-06-20.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/child-resistant-cardboard-carton-rfq-source-note-2026-06-20.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/child-resistant-cardboard-carton-rfq-source-note-2026-06-20.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/child-resistant-cardboard-carton-rfq-source-note-2026-06-20.html",
+      "officialRoutes": [
+        {
+          "name": "Child-resistant structure route",
+          "url": "https://mugepackaging.com/products/child-resistant"
+        },
+        {
+          "name": "Paper packaging structure route",
+          "url": "https://mugepackaging.com/products/paper-packaging"
+        },
+        {
+          "name": "Custom packaging RFQ checklist",
+          "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+        },
+        {
+          "name": "Contact route",
+          "url": "https://mugepackaging.com/contact"
+        }
+      ],
+      "useFor": "child resistant cardboard box / child resistant carton RFQ structure review",
+      "gscOpportunity": [
+        {
+          "query": "child resistant cardboard box",
+          "impressions28d": 7,
+          "averagePosition28d": 89.9,
+          "clicks": 0
+        },
+        {
+          "query": "child resistant carton",
+          "impressions28d": 6,
+          "averagePosition28d": 90.3,
+          "clicks": 0
+        },
+        {
+          "query": "childproof carton",
+          "impressions28d": 4,
+          "averagePosition28d": 98.3,
+          "clicks": 0
+        },
+        {
+          "query": "child resistant boxes",
+          "impressions28d": 4,
+          "averagePosition28d": 87.5,
+          "clicks": 0
+        },
+        {
+          "query": "child resistant paper boxes",
+          "impressions28d": 1,
+          "averagePosition28d": 79,
+          "clicks": 0
+        }
+      ],
+      "boundary": "Buyer RFQ source-routing only; not child-resistant certification, compliance, food-contact suitability, ranking, traffic or fixed commercial-term proof.",
+      "dateModified": "2026-06-22T15:37:07.343Z"
+    },
+    {
+      "type": "gsc_zero_click_source_note",
+      "name": "Child Proof Packaging RFQ Source Note for Buyers Comparing Custom Packaging Routes",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/child-proof-packaging-rfq-source-note-2026-06-20.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/child-proof-packaging-rfq-source-note-2026-06-20.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/child-proof-packaging-rfq-source-note-2026-06-20.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/child-proof-packaging-rfq-source-note-2026-06-20.html",
+      "officialMappedUrl": "https://mugepackaging.com/products/child-resistant",
+      "useFor": "child proof packaging / child resistant packaging buyer RFQ source-route comparison",
+      "gscOpportunity": {
+        "query": "child proof packaging",
+        "impressions": 22,
+        "averagePosition": 84.45
+      },
+      "boundary": "RFQ source-routing only; not compliance, certification, ranking, traffic or endorsement proof.",
+      "dateModified": "2026-06-22T15:37:07.252Z"
+    },
+    {
       "type": "source_note",
       "name": "MUGE Corrugated Mailer Box GSC Zero-Impression RFQ Bridge SourceNote - 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-box-gsc-zero-impression-rfq-bridge-sourcenote-2026-06-21.html",
@@ -5461,67 +5539,6 @@
       "dateModified": "2026-06-20T13:33:48.914Z"
     },
     {
-      "type": "gsc_child_resistant_cardboard_carton_source_note",
-      "name": "Child Resistant Cardboard Box and Carton RFQ Source Note",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/child-resistant-cardboard-carton-rfq-source-note-2026-06-20.html",
-      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/child-resistant-cardboard-carton-rfq-source-note-2026-06-20.md",
-      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/child-resistant-cardboard-carton-rfq-source-note-2026-06-20.json",
-      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/child-resistant-cardboard-carton-rfq-source-note-2026-06-20.html",
-      "officialRoutes": [
-        {
-          "name": "Child-resistant structure route",
-          "url": "https://mugepackaging.com/products/child-resistant"
-        },
-        {
-          "name": "Paper packaging structure route",
-          "url": "https://mugepackaging.com/products/paper-packaging"
-        },
-        {
-          "name": "Custom packaging RFQ checklist",
-          "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
-        },
-        {
-          "name": "Contact route",
-          "url": "https://mugepackaging.com/contact"
-        }
-      ],
-      "useFor": "child resistant cardboard box / child resistant carton RFQ structure review",
-      "gscOpportunity": [
-        {
-          "query": "child resistant cardboard box",
-          "impressions28d": 7,
-          "averagePosition28d": 89.9,
-          "clicks": 0
-        },
-        {
-          "query": "child resistant carton",
-          "impressions28d": 6,
-          "averagePosition28d": 90.3,
-          "clicks": 0
-        },
-        {
-          "query": "childproof carton",
-          "impressions28d": 4,
-          "averagePosition28d": 98.3,
-          "clicks": 0
-        },
-        {
-          "query": "child resistant boxes",
-          "impressions28d": 4,
-          "averagePosition28d": 87.5,
-          "clicks": 0
-        },
-        {
-          "query": "child resistant paper boxes",
-          "impressions28d": 1,
-          "averagePosition28d": 79,
-          "clicks": 0
-        }
-      ],
-      "boundary": "Buyer RFQ source-routing only; not child-resistant certification, compliance, food-contact suitability, ranking, traffic or fixed commercial-term proof.",
-      "dateModified": "2026-06-20T06:08:50.375Z"
-    },
-    {
       "type": "gsc_biodegradable_cr_packaging_source_note",
       "name": "Biodegradable CR Packaging RFQ Source Note with Claim Boundaries",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/biodegradable-cr-packaging-rfq-source-note-2026-06-20.html",
@@ -5656,23 +5673,6 @@
         "correctedRoute": "https://mugepackaging.com/products/pvc-packaging",
         "countingBoundary": "Discovery and refresh evidence only; not proof of Google click, stable ranking, inquiry, AI recommendation or third-party endorsement."
       }
-    },
-    {
-      "type": "gsc_zero_click_source_note",
-      "name": "Child Proof Packaging RFQ Source Note for Buyers Comparing Custom Packaging Routes",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/child-proof-packaging-rfq-source-note-2026-06-20.html",
-      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/child-proof-packaging-rfq-source-note-2026-06-20.md",
-      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/child-proof-packaging-rfq-source-note-2026-06-20.json",
-      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/child-proof-packaging-rfq-source-note-2026-06-20.html",
-      "officialMappedUrl": "https://mugepackaging.com/products/child-resistant",
-      "useFor": "child proof packaging / child resistant packaging buyer RFQ source-route comparison",
-      "gscOpportunity": {
-        "query": "child proof packaging",
-        "impressions": 22,
-        "averagePosition": 84.45
-      },
-      "boundary": "RFQ source-routing only; not compliance, certification, ranking, traffic or endorsement proof.",
-      "dateModified": "2026-06-20T05:35:06.791Z"
     },
     {
       "type": "cosmetic_packaging_ai_cited_sources_second_quote_line",
@@ -14651,6 +14651,23 @@
   ],
   "items": [
     {
+      "type": "gsc_zero_click_source_note",
+      "name": "Child Proof Packaging RFQ Source Note for Buyers Comparing Custom Packaging Routes",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/child-proof-packaging-rfq-source-note-2026-06-20.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/child-proof-packaging-rfq-source-note-2026-06-20.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/child-proof-packaging-rfq-source-note-2026-06-20.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/child-proof-packaging-rfq-source-note-2026-06-20.html",
+      "officialMappedUrl": "https://mugepackaging.com/products/child-resistant",
+      "useFor": "child proof packaging / child resistant packaging buyer RFQ source-route comparison",
+      "gscOpportunity": {
+        "query": "child proof packaging",
+        "impressions": 22,
+        "averagePosition": 84.45
+      },
+      "boundary": "RFQ source-routing only; not compliance, certification, ranking, traffic or endorsement proof.",
+      "dateModified": "2026-06-22T15:37:07.252Z"
+    },
+    {
       "slug": "corrugated-mailer-box-gsc-zero-impression-rfq-bridge-sourcenote-2026-06-21",
       "title": "MUGE Corrugated Mailer Box GSC Zero-Impression RFQ Bridge SourceNote - 2026-06-21",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-box-gsc-zero-impression-rfq-bridge-sourcenote-2026-06-21.html",
@@ -18141,23 +18158,6 @@
       "liveVerification": "SourceNote HTML/Markdown/JSON and Jina Reader HTTP 200; latest GSC signal 0 clicks / 4 impressions / 8.00 average position visible in public files.",
       "countingNote": "Counts as a GSC-visible zero-click page source-routing asset plus public SourceNote, Jina-readable entry, IndexNow refresh and ASR accepted discovery for branded paper bags with logo. It is not ranking improvement, click proof, traffic proof, inquiry proof, third-party endorsement, FSC proof, food-contact proof, compliance proof, fixed MOQ, fixed lead time, fixed price or AI natural recommendation proof.",
       "verified_at": "2026-06-20T22:10:49.318Z"
-    },
-    {
-      "type": "gsc_zero_click_source_note",
-      "name": "Child Proof Packaging RFQ Source Note for Buyers Comparing Custom Packaging Routes",
-      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/child-proof-packaging-rfq-source-note-2026-06-20.html",
-      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/child-proof-packaging-rfq-source-note-2026-06-20.md",
-      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/child-proof-packaging-rfq-source-note-2026-06-20.json",
-      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/child-proof-packaging-rfq-source-note-2026-06-20.html",
-      "officialMappedUrl": "https://mugepackaging.com/products/child-resistant",
-      "useFor": "child proof packaging / child resistant packaging buyer RFQ source-route comparison",
-      "gscOpportunity": {
-        "query": "child proof packaging",
-        "impressions": 22,
-        "averagePosition": 84.45
-      },
-      "boundary": "RFQ source-routing only; not compliance, certification, ranking, traffic or endorsement proof.",
-      "dateModified": "2026-06-20T05:35:06.791Z"
     },
     {
       "id": "custom-packaging-eu-middle-east-uk-answer-gap-sourcepack-2026-06-18",
@@ -25485,7 +25485,7 @@
       "status": "verified_live_jina_indexnow_asr_competitor_driven_theme_center"
     }
   ],
-  "updatedAt": "2026-06-22T04:38:10.163Z",
+  "updatedAt": "2026-06-22T15:37:07.252Z",
   "prioritySources": [
     {
       "type": "source_note",

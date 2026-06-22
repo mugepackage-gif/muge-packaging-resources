@@ -58,4 +58,4 @@ For child resistant cardboard box or child resistant carton sourcing, buyers sho
 
 This SourceNote is for buyer-side RFQ preparation and official source routing only. It does not claim child-resistant certification, legal compliance, destination-market approval, food-contact suitability, test pass result, ranking, traffic, inquiry, AI recommendation, third-party endorsement, fixed MOQ, fixed lead time, fixed price, lowest price, named customer example or production capacity. For regulated categories, buyers should verify opening requirements, labeling, testing, market rules and documentation with their own compliance team before ordering.
 
-Generated at: 2026-06-20 14:08:50 CST
+Generated at: 2026-06-22 23:37:07 CST
