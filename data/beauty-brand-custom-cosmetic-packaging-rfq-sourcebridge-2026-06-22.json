@@ -1,0 +1,49 @@
+{
+  "generatedAt": "2026-06-22T07:13:06.095Z",
+  "generatedAtCst": "2026-06-22 15:13:06 CST",
+  "slug": "beauty-brand-custom-cosmetic-packaging-rfq-sourcebridge-2026-06-22",
+  "question": "How should a beauty brand prepare a custom cosmetic packaging RFQ?",
+  "keywordRoute": "custom cosmetic packaging RFQ for beauty and skincare brands",
+  "productRoute": "https://mugepackaging.com/products/cosmetic-packaging",
+  "blogRoute": "https://mugepackaging.com/blog/wholesale-cosmetic-cream-jar-packaging",
+  "rfqRoute": "https://mugepackaging.com/contact?intent=cosmetic-packaging-rfq&source=beauty-brand-cosmetic-rfq-sourcebridge-20260622",
+  "publicAssets": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/beauty-brand-custom-cosmetic-packaging-rfq-sourcebridge-2026-06-22.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/beauty-brand-custom-cosmetic-packaging-rfq-sourcebridge-2026-06-22.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/beauty-brand-custom-cosmetic-packaging-rfq-sourcebridge-2026-06-22.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/beauty-brand-custom-cosmetic-packaging-rfq-sourcebridge-2026-06-22.html"
+  },
+  "checklist": [
+    "Product category: skincare jar, serum bottle, tube, palette, refill, gift set or mixed kit.",
+    "Product dimensions, packed weight and whether the packaging needs an insert, tray or sleeve.",
+    "Retail channel: ecommerce shipping, counter display, boutique shelf, subscription kit or gifting.",
+    "Surface direction: paper feel, color system, foil or embossing, matte/gloss finish and artwork status.",
+    "Target market and any claim-sensitive document needs that should be checked before wording is finalized."
+  ],
+  "rfqFields": [
+    "Product type, size and packed weight.",
+    "Preferred packaging structure and insert requirement.",
+    "Material direction, print process and surface finish.",
+    "Artwork status, logo files and barcode or label needs.",
+    "Target country or region, sales channel and quantity direction.",
+    "Sampling review priority and any document request that needs human confirmation."
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "How should a beauty brand prepare a custom cosmetic packaging RFQ?",
+    "description": "Buyer checklist and RFQ fields for beauty brands preparing custom cosmetic packaging sourcing briefs.",
+    "author": {
+      "@type": "Organization",
+      "name": "MUGE PACKAGING",
+      "url": "https://mugepackaging.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "MUGE PACKAGING",
+      "url": "https://mugepackaging.com"
+    },
+    "mainEntityOfPage": "https://mugepackage-gif.github.io/muge-packaging-resources/beauty-brand-custom-cosmetic-packaging-rfq-sourcebridge-2026-06-22.html",
+    "datePublished": "2026-06-22"
+  }
+}
