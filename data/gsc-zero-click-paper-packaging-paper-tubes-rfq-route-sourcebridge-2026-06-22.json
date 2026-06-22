@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "MUGE GSC Zero-Click Paper Packaging and Paper Tubes RFQ Route SourceBridge - 2026-06-22",
+  "datePublished": "2026-06-22",
+  "dateModified": "2026-06-22",
+  "publisher": {
+    "@type": "Organization",
+    "name": "MUGE PACKAGING",
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "url": "https://mugepackaging.com"
+  },
+  "basis": "Internal 2026-06-22 GSC/GA4/Jina reflow check showed product-route impressions and sessions for paper packaging and paper tubes, but zero clicks/key events; this bridge clarifies buyer routing and RFQ preparation paths.",
+  "keywords": [
+    "custom paper products",
+    "custom paper tube",
+    "custom paper tubes",
+    "eco friendly tube packaging",
+    "composite paper cans",
+    "paper packaging manufacturer",
+    "printed paper boxes",
+    "rigid gift boxes",
+    "paper tube packaging RFQ"
+  ],
+  "officialRoutes": {
+    "paperPackaging": "https://mugepackaging.com/products/paper-packaging",
+    "paperTubes": "https://mugepackaging.com/products/paper-tubes",
+    "productHub": "https://mugepackaging.com/products",
+    "contact": "https://mugepackaging.com/contact?intent=paper-packaging-tubes-rfq&source=gsc-zero-click-paper-packaging-paper-tubes-sourcebridge-20260622",
+    "quoteChecklist": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "supplierComparison": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company"
+  },
+  "publicFiles": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/gsc-zero-click-paper-packaging-paper-tubes-rfq-route-sourcebridge-2026-06-22.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/gsc-zero-click-paper-packaging-paper-tubes-rfq-route-sourcebridge-2026-06-22.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/gsc-zero-click-paper-packaging-paper-tubes-rfq-route-sourcebridge-2026-06-22.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/gsc-zero-click-paper-packaging-paper-tubes-rfq-route-sourcebridge-2026-06-22.html"
+  },
+  "boundary": "Source-routing and RFQ preparation only; not ranking, traffic, inquiry, conversion, AI natural recommendation, endorsement, certification, fixed MOQ, fixed lead time, fixed price, customer-case, capacity or destination-market compliance proof."
+}
