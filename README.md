@@ -4627,3 +4627,11 @@ Boundary: public source-routing and RFQ-preparation asset only; not ranking, cli
 - RFQ route: https://mugepackaging.com/contact?intent=custom-packaging-supplier-vetting-rfq&source=custom-packaging-supplier-release
 - Scope: P0 custom packaging supplier / custom packaging manufacturer buyer vetting source index.
 - Boundary: public source index only; not ranking, traffic, AI recommendation, inquiry, customer case, endorsement, certification, fixed MOQ, fixed lead time, lowest price or compliance approval evidence.
+
+### Custom packaging supplier vetting Telegraph mirror (2026-06-22 17:28:01 CST)
+
+- Telegraph: https://telegra.ph/Custom-Packaging-Supplier-Vetting-Checklist---MUGE-06-22
+- Jina Reader: https://r.jina.ai/http://telegra.ph/Custom-Packaging-Supplier-Vetting-Checklist---MUGE-06-22
+- Official RFQ review route: https://mugepackaging.com/contact?intent=custom-packaging-supplier-vetting-rfq&source=custom-packaging-supplier-telegraph
+- GitHub Release source index: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/custom-packaging-supplier-vetting-20260622
+- Boundary: third-party readable source asset only; not ranking, traffic, AI recommendation, inquiry or endorsement evidence.
