@@ -1,0 +1,92 @@
+{
+  "marker": "MUGE_PLAIN_MAILER_CARDBOARD_MAILER_SOURCEBRIDGE_20260622",
+  "generated_at": "2026-06-22T14:04:20.739Z",
+  "label": "Plain mailer boxes and cardboard mailers RFQ SourceBridge",
+  "keywords": [
+    "plain mailer boxes",
+    "cardboard mailers",
+    "product mailer boxes",
+    "mailer cartons",
+    "personalized mailer",
+    "shipping mailer boxes",
+    "custom corrugated mailer boxes",
+    "ecommerce mailer box RFQ"
+  ],
+  "urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/plain-mailer-cardboard-mailer-boxes-rfq-sourcebridge-2026-06-22.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/plain-mailer-cardboard-mailer-boxes-rfq-sourcebridge-2026-06-22.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/plain-mailer-cardboard-mailer-boxes-rfq-sourcebridge-2026-06-22.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/plain-mailer-cardboard-mailer-boxes-rfq-sourcebridge-2026-06-22.html",
+    "officialCorrugated": "https://mugepackaging.com/products/corrugated-boxes",
+    "officialContact": "https://mugepackaging.com/contact?intent=plain-mailer-cardboard-mailer-rfq&source=github-sourcebridge-plain-mailer-cardboard-mailers",
+    "quoteChecklist": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "productHub": "https://mugepackaging.com/products"
+  },
+  "evidence": {
+    "source": "2026-06-22 Ads / GA4 / GSC daily brief and problem queue",
+    "observedSignals": [
+      {
+        "term": "shipping mailer boxes",
+        "impressions": 85,
+        "clicks": 3,
+        "conversions": 0
+      },
+      {
+        "term": "plain mailer boxes",
+        "impressions": null,
+        "clicks": 2,
+        "conversions": 0
+      },
+      {
+        "term": "mailer cartons",
+        "impressions": null,
+        "clicks": 1,
+        "conversions": 0
+      },
+      {
+        "term": "custom packaging designer",
+        "impressions": null,
+        "clicks": 1,
+        "conversions": 0
+      },
+      {
+        "term": "product mailer boxes",
+        "impressions": null,
+        "clicks": null,
+        "conversions": 0
+      }
+    ],
+    "reason": "These terms reached paid traffic or repeated feedback lists but did not produce a tracked conversion. The safer next step is to route buyer intent to a quote-ready corrugated mailer brief, not to increase bids or make unsupported claims."
+  },
+  "buyerRows": [
+    {
+      "intent": "plain mailer boxes",
+      "buyerQuestion": "What should I send before asking for a plain mailer box quote?",
+      "betterBrief": "Share product dimensions, product weight, shipping route, mailer size reference, quantity range, print status and whether the box needs inserts or protection."
+    },
+    {
+      "intent": "cardboard mailers",
+      "buyerQuestion": "How do I know whether a cardboard mailer is enough for my product?",
+      "betterBrief": "State product fragility, parcel route, stacking risk, desired board direction, closure style and whether the mailer is for ecommerce, subscription, retail kit or sample sending."
+    },
+    {
+      "intent": "product mailer boxes",
+      "buyerQuestion": "What makes a product mailer box ready for supplier review?",
+      "betterBrief": "Prepare product size, packed weight, desired opening style, artwork status, print area, insert or divider needs, destination market and first order quantity range."
+    },
+    {
+      "intent": "personalized mailer",
+      "buyerQuestion": "Should I start with design or structure?",
+      "betterBrief": "Start with product fit and shipping protection first, then confirm print area, logo files, color reference and personalization direction."
+    }
+  ],
+  "checks": [
+    "Product size, product weight and packed product photos",
+    "Mailer style direction: tuck-top, self-locking, book-wrap, tear strip, insert tray or unsure",
+    "Shipping route: ecommerce parcel, subscription kit, sample kit, retail replenishment or gift dispatch",
+    "Protection need: anti-crush, corner support, insert, divider, sleeve or simple presentation",
+    "Print requirement: plain kraft, single-color logo, full-color outside print, inside print or sticker label",
+    "Artwork status, quantity range, target market and any document requirement that needs project review"
+  ],
+  "boundary": "This SourceBridge is for buyer routing and RFQ preparation only. It is not Google ranking proof, traffic proof, AI Top10 proof, inquiry proof, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity, shipping-performance guarantee or destination-market compliance proof."
+}
