@@ -1,0 +1,60 @@
+{
+  "generated_at": "2026-06-22T21:07:00+08:00",
+  "type": "sourcebridge",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "public_url": "https://mugepackage-gif.github.io/muge-packaging-resources/folding-carton-design-tools-rfq-preparation-sourcebridge-2026-06-22.html",
+  "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/folding-carton-design-tools-rfq-preparation-sourcebridge-2026-06-22.html",
+  "official_rfq_route": "https://mugepackaging.com/contact?intent=folding-carton-design-tools-rfq&source=github-sourcebridge-folding-carton-design-tools",
+  "target_keywords": [
+    "folding carton design tools",
+    "folding carton design",
+    "folding carton designs",
+    "custom folding carton boxes design",
+    "folding carton packaging dieline checklist",
+    "custom folding carton RFQ preparation"
+  ],
+  "official_routes": [
+    {
+      "label": "Folding carton / folding gift box route",
+      "url": "https://mugepackaging.com/products/folding-gift-box",
+      "note": "Use when the buyer needs a printable paperboard carton or folding box structure."
+    },
+    {
+      "label": "Paper packaging route",
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "note": "Use when the buyer is still comparing folding cartons with other paper packaging structures."
+    },
+    {
+      "label": "Design and production guide",
+      "url": "https://mugepackaging.com/blog/custom-folding-carton-boxes-design-and-production-complete-guide",
+      "note": "Use for education-to-RFQ context before sampling."
+    },
+    {
+      "label": "Quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "note": "Use to collect dimensions, artwork status, material direction and finish requirements."
+    },
+    {
+      "label": "RFQ handoff route",
+      "url": "https://mugepackaging.com/contact?intent=folding-carton-design-tools-rfq&source=github-sourcebridge-folding-carton-design-tools",
+      "note": "Use when dimensions, reference photos and artwork status are ready to review."
+    }
+  ],
+  "checklist": [
+    "Product dimensions and packed weight.",
+    "Box style or reference image: tuck-end carton, sleeve, window carton, tray, folding gift box or custom structure.",
+    "Artwork status: finished dieline, rough layout, logo files, color requirements or only reference photos.",
+    "Material direction: paperboard thickness range, corrugated need, window film, insert or divider requirement.",
+    "Surface finish direction: matte/gloss lamination, foil stamping, embossing, spot UV or simple printed finish.",
+    "Channel requirement: retail shelf, ecommerce shipment, gift set, cosmetic set, food outer carton or electronics accessory packaging.",
+    "Buyer-side review owner for barcode, warning text, retailer requirement and destination-market compliance."
+  ],
+  "gsc_basis": {
+    "query": "folding carton design tools",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 64
+  },
+  "boundary": "public source bridge only; no free design-tool promise, engineering approval, performance guarantee, certification, fixed MOQ, fixed lead time, fixed price, capacity, customer case, ranking, AI recommendation, inquiry or compliance proof"
+}
