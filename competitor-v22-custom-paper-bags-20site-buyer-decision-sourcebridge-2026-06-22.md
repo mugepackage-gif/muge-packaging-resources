@@ -1,6 +1,6 @@
 # Custom Paper Bags v22 Buyer Decision SourceBridge
 
-Generated: 2026-06-22 05:53:09 CST
+Generated: 2026-06-22 08:40:26 CST
 
 ## Evidence Basis
 
