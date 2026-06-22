@@ -4490,3 +4490,18 @@ Boundary: public source-routing and RFQ preparation only; not ranking, traffic, 
 - Evidence direction: 6 GSC weak-impression route-hub rows, 8 impressions, 0 clicks.
 - Boundary: External source-routing asset only; not ranking, click, traffic, AI natural recommendation, inquiry, customer case or endorsement proof.
 <!-- MUGE_GSC_OFFICIAL_ROUTE_HUB_SOURCEBRIDGE_20260622:end -->
+
+<!-- MUGE_GSC_WEAK_PAPER_TUBES_REGIONAL_MANUFACTURER_20260622:start -->
+## Paper Tubes Regional Manufacturer Weak-Signal SourceBridges - 2026-06-22
+
+- Canada Custom Paper Tube Packaging Manufacturer SourceBridge: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-canada-custom-paper-tube-packaging-manufacturer-sourcebridge-2026-06-22.html
+- Dubai Custom Paper Tube Packaging Manufacturer SourceBridge: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-dubai-custom-paper-tube-packaging-manufacturer-sourcebridge-2026-06-22.html
+- Europe Custom Paper Tube Packaging Manufacturer SourceBridge: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-europe-custom-paper-tube-packaging-manufacturer-sourcebridge-2026-06-22.html
+- Middle East Custom Paper Tube Packaging Manufacturer SourceBridge: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-middle-east-custom-paper-tube-packaging-manufacturer-sourcebridge-2026-06-22.html
+- Saudi Arabia Custom Paper Tube Packaging Manufacturer SourceBridge: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-saudi-arabia-custom-paper-tube-packaging-manufacturer-sourcebridge-2026-06-22.html
+- Uae Custom Paper Tube Packaging Manufacturer SourceBridge: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-uae-custom-paper-tube-packaging-manufacturer-sourcebridge-2026-06-22.html
+
+Evidence direction: 6 GSC weak-impression custom paper tube regional manufacturer clusters, all with 0 clicks.
+
+Boundary: public source-routing and RFQ preparation assets only; not ranking, click, traffic, AI recommendation, inquiry, certification, endorsement, fixed MOQ, fixed lead time or fixed price proof.
+<!-- MUGE_GSC_WEAK_PAPER_TUBES_REGIONAL_MANUFACTURER_20260622:end -->
