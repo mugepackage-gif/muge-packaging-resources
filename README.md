@@ -4879,3 +4879,17 @@ Boundary: public source-routing and RFQ-preparation asset only; not ranking, cli
 
 Boundary: public buyer-decision source route only; not ranking, click, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time or fixed price proof.
 <!-- MUGE_COMPETITOR_V28_CUSTOM_PAPER_PACKAGING_SOURCEBRIDGE_20260622:end -->
+
+<!-- MUGE_COMPETITOR_V28_CORRUGATED_MAILER_SOURCEBRIDGE_20260622:start -->
+## Competitor v28 Corrugated Mailer SourceBridge - 2026-06-22
+
+- Buyer question: What should buyers include in a corrugated mailer box RFQ?
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v28-corrugated-mailer-boxes-rfq-sourcebridge-2026-06-22.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v28-corrugated-mailer-boxes-rfq-sourcebridge-2026-06-22.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v28-corrugated-mailer-boxes-rfq-sourcebridge-2026-06-22.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v28-corrugated-mailer-boxes-rfq-sourcebridge-2026-06-22.html
+- Official corrugated boxes route: https://mugepackaging.com/products/corrugated-boxes
+- RFQ route: https://mugepackaging.com/contact?intent=ecommerce-corrugated-mailer-rfq&source=competitor-v28-sourcebridge
+
+Boundary: public buyer-decision source route only; not ranking, click, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, tested load capacity or fixed price proof.
+<!-- MUGE_COMPETITOR_V28_CORRUGATED_MAILER_SOURCEBRIDGE_20260622:end -->
