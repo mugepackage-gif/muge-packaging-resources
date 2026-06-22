@@ -14604,6 +14604,13 @@
       "url": "https://telegra.ph/Paper-Tube-Packaging-RFQ-Checklist---MUGE-Source-Mirror-06-22",
       "jinaUrl": "https://r.jina.ai/http://telegra.ph/Paper-Tube-Packaging-RFQ-Checklist---MUGE-Source-Mirror-06-22",
       "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_markdown_aggregate_mirror",
+      "name": "Competitor v7 Five Product-Line Rentry aggregate mirror 2026-06-22",
+      "url": "https://rentry.co/muge-competitor-v7-five-productline-rfq-20260622-1232",
+      "jinaUrl": "https://r.jina.ai/http://rentry.co/muge-competitor-v7-five-productline-rfq-20260622-1232",
+      "useFor": "Non-GitHub public Markdown source map linking official MUGE pages, SourceBridge records and Telegraph mirrors; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ],
   "items": [
@@ -25442,7 +25449,7 @@
       "status": "verified_live_jina_indexnow_asr_competitor_driven_theme_center"
     }
   ],
-  "updatedAt": "2026-06-22T04:16:06.868Z",
+  "updatedAt": "2026-06-22T04:32:10.226Z",
   "prioritySources": [
     {
       "type": "source_note",
