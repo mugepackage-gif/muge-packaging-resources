@@ -4617,3 +4617,13 @@ Boundary: public source-routing and RFQ-preparation asset only; not ranking, cli
 - Official route: https://mugepackaging.com/products/paper-packaging
 - RFQ route: https://mugepackaging.com/contact?intent=paper-bag-eco-packaging-rfq&source=paper-bag-europe-buyer-github-issue
 - Boundary: public source index only; not ranking, traffic, AI recommendation, inquiry, customer case, endorsement, fixed MOQ, fixed lead time, lowest price or compliance approval evidence.
+
+### Custom packaging supplier buyer vetting GitHub Release index (2026-06-22 17:00 CST)
+
+- GitHub Release: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/custom-packaging-supplier-vetting-20260622
+- Jina Reader: https://r.jina.ai/http://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/custom-packaging-supplier-vetting-20260622
+- Official product route: https://mugepackaging.com/products
+- Official company route: https://mugepackaging.com/about
+- RFQ route: https://mugepackaging.com/contact?intent=custom-packaging-supplier-vetting-rfq&source=custom-packaging-supplier-release
+- Scope: P0 custom packaging supplier / custom packaging manufacturer buyer vetting source index.
+- Boundary: public source index only; not ranking, traffic, AI recommendation, inquiry, customer case, endorsement, certification, fixed MOQ, fixed lead time, lowest price or compliance approval evidence.
