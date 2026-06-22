@@ -1,3 +1,15 @@
+<!-- MUGE_GSC_WEAK_SIGNAL_RFQ_ROUTE_INDEX_HUB_20260622:start -->
+## GSC Weak Signal RFQ Route Index Hub - 2026-06-22
+
+- Public HTML: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-rfq-route-index-hub-2026-06-22.html
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-rfq-route-index-hub-2026-06-22.html
+- GSC source: 2026-06-22 20:40 query baseline, using weak-signal queries with impressions and zero clicks.
+- Purpose: connect GSC weak-signal queries to official MUGE PACKAGING routes, external evidence pages and RFQ handoff URLs.
+- Covered query groups: bespoke confectionery paper; custom flexible packaging; folding cartons vs rigid boxes; folding carton design tools; clear pet box manufacturer; box manufacturer certificate; beauty packaging solutions; custom paper products.
+- Boundary: public routing and evidence index only; not Google ranking proof, indexing proof, AI recommendation proof, inquiry proof, certification proof, fixed MOQ, fixed lead time, fixed price, capacity, customer-case, food-contact approval, legal compliance approval or packaging performance guarantee.
+<!-- MUGE_GSC_WEAK_SIGNAL_RFQ_ROUTE_INDEX_HUB_20260622:end -->
+
+
 <!-- MUGE_FOLDING_CARTON_DESIGN_TOOLS_SOURCEBRIDGE_20260622:start -->
 ## Folding Carton Design Tools RFQ Preparation SourceBridge - 2026-06-22
 

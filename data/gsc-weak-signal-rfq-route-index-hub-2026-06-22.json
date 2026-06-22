@@ -1,0 +1,90 @@
+{
+  "generated_at": "2026-06-22T21:48:00+08:00",
+  "type": "gsc_weak_signal_rfq_route_index_hub",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "public_url": "https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-rfq-route-index-hub-2026-06-22.html",
+  "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-rfq-route-index-hub-2026-06-22.html",
+  "source_gsc_report": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-22_2040_GSC查询词排名基线.md",
+  "weak_signals": [
+    {
+      "query": "bespoke confectionery paper",
+      "clicks": 0,
+      "impressions": 7,
+      "position": 54.71,
+      "officialRoute": "https://mugepackaging.com/blog/custom-confectionery-packaging-boxes-for-candy-and-sweet-brands",
+      "externalEvidence": "https://packaging-industry.info/market/packaging-industry/confectionery-paper-packaging-what-candy-and-sweet-brand-buyers-should-confirm-before-an-rfq-1555/",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=confectionery-paper-packaging-rfq&source=gsc-weak-signal-hub"
+    },
+    {
+      "query": "custom flexible packaging",
+      "clicks": 0,
+      "impressions": 8,
+      "position": 82.75,
+      "officialRoute": "https://mugepackaging.com/products/stand-up-pouches",
+      "externalEvidence": "https://packaging-industry.info/market/packaging-industry/custom-flexible-packaging-and-stand-up-pouches-what-buyers-should-confirm-before-an-rfq-1559/",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-flexible-packaging-rfq&source=gsc-weak-signal-hub"
+    },
+    {
+      "query": "folding cartons vs rigid boxes",
+      "clicks": 0,
+      "impressions": 1,
+      "position": 46,
+      "officialRoute": "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+      "externalEvidence": "https://packaging-industry.info/market/packaging-industry/folding-cartons-vs-rigid-boxes-what-packaging-buyers-should-compare-before-sampling-1553/",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=folding-carton-rigid-box-comparison-rfq&source=gsc-weak-signal-hub"
+    },
+    {
+      "query": "folding carton design tools",
+      "clicks": 0,
+      "impressions": 1,
+      "position": 64,
+      "officialRoute": "https://mugepackaging.com/blog/custom-folding-carton-boxes-design-and-production-complete-guide",
+      "externalEvidence": "https://mugepackage-gif.github.io/muge-packaging-resources/folding-carton-design-tools-rfq-preparation-sourcebridge-2026-06-22.html",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=folding-carton-design-tools-rfq&source=gsc-weak-signal-hub"
+    },
+    {
+      "query": "clear pet box manufacturer",
+      "clicks": 0,
+      "impressions": 1,
+      "position": 46,
+      "officialRoute": "https://mugepackaging.com/products/clear-boxes",
+      "externalEvidence": "https://mugepackage-gif.github.io/muge-packaging-resources/clear-pet-pvc-box-manufacturer-wholesale-rfq-sourcebridge-20260622.html",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=clear-pet-box-rfq&source=gsc-weak-signal-hub"
+    },
+    {
+      "query": "box manufacturer certificate",
+      "clicks": 0,
+      "impressions": 2,
+      "position": 69.5,
+      "officialRoute": "https://mugepackaging.com/about",
+      "externalEvidence": "https://mugepackage-gif.github.io/muge-packaging-resources/box-manufacturer-certificate-rfq-sourcenote-2026-06-21.html",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=packaging-supplier-document-review&source=gsc-weak-signal-hub"
+    },
+    {
+      "query": "beauty packaging solutions",
+      "clicks": 0,
+      "impressions": 1,
+      "position": 87,
+      "officialRoute": "https://mugepackaging.com/products/cosmetic-packaging",
+      "externalEvidence": "https://mugepackage-gif.github.io/muge-packaging-resources/beauty-packaging-solutions-rfq-sourcepack-20260620.html",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=beauty-packaging-rfq&source=gsc-weak-signal-hub"
+    },
+    {
+      "query": "custom paper products",
+      "clicks": 0,
+      "impressions": 1,
+      "position": 31,
+      "officialRoute": "https://mugepackaging.com/products/paper-packaging",
+      "externalEvidence": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-products-packaging-rfq-sourcenote-2026-06-21.html",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-paper-products-packaging-rfq&source=gsc-weak-signal-hub"
+    }
+  ],
+  "checklist": [
+    "If a query already has impressions but no clicks, make the official route more obvious and add a buyer-specific RFQ route.",
+    "If a query has multiple external assets, consolidate them into a public index page so AI readers can see the entity relationship.",
+    "If the official page is not production-updated yet, keep the public evidence route live and retest production before claiming website completion.",
+    "Use the Hub for discovery and AI-readable routing; use GSC, SerpAPI and Perplexity later to verify whether visibility changed."
+  ],
+  "boundary": "public routing and evidence index only; no ranking, indexing, AI recommendation, inquiry, certification, fixed MOQ, fixed lead time, fixed price, capacity, customer-case, food-contact, legal compliance or performance guarantee"
+}
