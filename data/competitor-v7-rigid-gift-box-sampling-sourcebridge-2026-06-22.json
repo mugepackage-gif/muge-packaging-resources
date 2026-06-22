@@ -1,0 +1,53 @@
+{
+  "asset_id": "competitor-v7-rigid-gift-box-sampling-sourcebridge-20260622",
+  "title": "Rigid Gift Boxes: What Buyers Should Confirm Before Sampling",
+  "buyer_question": "What should buyers confirm before sampling rigid gift boxes?",
+  "short_answer": "Before sampling rigid gift boxes, buyers should confirm product dimensions, product weight, box opening style, insert structure, surface finish direction, artwork status and the sales channel. Rigid boxes are often judged by structure, feel and unboxing sequence, so sampling should review fit and protection before only reviewing color or foil details.",
+  "official_url": "https://mugepackaging.com/products/folding-gift-box",
+  "contact_url": "https://mugepackaging.com/contact?intent=competitor-v7-rigid-gift-box-sampling&source=competitor-v7-rigid-gift-box-sampling-sourcebridge-2026-06-22",
+  "product_fit": [
+    "magnetic closure gift boxes",
+    "drawer boxes",
+    "lid-and-base rigid boxes",
+    "premium retail gift sets",
+    "cosmetic and wellness kits"
+  ],
+  "rfq_fields": [
+    "product dimensions",
+    "product weight",
+    "box opening style",
+    "insert type",
+    "surface paper or finish direction",
+    "artwork status",
+    "gift set assembly notes"
+  ],
+  "comparison_rows": [
+    [
+      "Structure choice",
+      "Domestic factory sites expose product categories quickly",
+      "Overseas sites explain use cases and brand presentation",
+      "Use a structure comparison table on the MUGE rigid box page"
+    ],
+    [
+      "Sampling focus",
+      "Often quote-first",
+      "Often education-first",
+      "Explain what sampling should review before price comparison"
+    ],
+    [
+      "Trust signals",
+      "Factory/process language",
+      "Resource and application language",
+      "Use process notes and clear RFQ fields without unverified claims"
+    ]
+  ],
+  "competitor_signals": "Jialan, Packoi and Pakoro show useful gift box/category signals; PakFactory and WestRock show stronger buyer education patterns.",
+  "source_queue": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/n8n执行数据/muge_competitor_paper_packaging_v7_execution_queue_20260622_1150.json",
+  "source_report": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/竞品分析/纸品包装SEO_GEO竞品批量分析/20260622_1143_纸品包装SEO_GEO竞品批量分析报告.md",
+  "claim_boundaries": [
+    "This SourceBridge is a public buyer guidance asset, not proof of Google ranking, AI recommendation, inquiry, customer endorsement or purchase order.",
+    "It does not make fixed MOQ, fixed lead time, lowest-price, food-contact, regulatory, capacity or named customer-case claims.",
+    "Certification-related language must be checked against available project documents. MUGE PACKAGING may reference ISO 9001:2015 only within certificate scope and validity."
+  ],
+  "generated_at": "2026-06-22T03:58:01.587Z"
+}

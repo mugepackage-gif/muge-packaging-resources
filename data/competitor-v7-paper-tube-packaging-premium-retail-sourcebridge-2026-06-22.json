@@ -1,0 +1,55 @@
+{
+  "asset_id": "competitor-v7-paper-tube-packaging-sourcebridge-20260622",
+  "title": "Paper Tube Packaging: When It Works for Premium Retail Products",
+  "buyer_question": "When is paper tube packaging a practical option for premium retail products?",
+  "short_answer": "Paper tube packaging is practical when the product benefits from cylindrical presentation, stable vertical display, giftable structure or compact retail shelf impact. Buyers should confirm diameter, height, cap style, product weight, insert need, label or print direction and target market before requesting a paper tube quote.",
+  "official_url": "https://mugepackaging.com/products/paper-tubes",
+  "contact_url": "https://mugepackaging.com/contact?intent=competitor-v7-paper-tube-packaging&source=competitor-v7-paper-tube-packaging-premium-retail-sourcebridge-2026-06-22",
+  "product_fit": [
+    "cosmetics",
+    "tea",
+    "candles",
+    "fragrance",
+    "small gifts",
+    "specialty retail products"
+  ],
+  "rfq_fields": [
+    "diameter",
+    "height",
+    "cap style",
+    "product weight",
+    "insert or inner support",
+    "label or print direction",
+    "surface finish",
+    "target market"
+  ],
+  "comparison_rows": [
+    [
+      "Use case fit",
+      "Factory sites list product categories",
+      "Overseas sites explain applications and resource decisions",
+      "MUGE should explain when paper tubes are suitable or unsuitable"
+    ],
+    [
+      "RFQ detail",
+      "Diameter and height often decide feasibility",
+      "Buyer education improves quote quality",
+      "Use a paper tube RFQ field block"
+    ],
+    [
+      "AI readability",
+      "Gallery pages are hard for AI to cite",
+      "Guide pages are easier to cite",
+      "Publish concise definitions, tables and boundaries"
+    ]
+  ],
+  "competitor_signals": "Guangdong Shiteng and previous GSC weak queries show paper tube terms; overseas resource-style packaging sites show the format MUGE should emulate for AI citation.",
+  "source_queue": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/n8n执行数据/muge_competitor_paper_packaging_v7_execution_queue_20260622_1150.json",
+  "source_report": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/竞品分析/纸品包装SEO_GEO竞品批量分析/20260622_1143_纸品包装SEO_GEO竞品批量分析报告.md",
+  "claim_boundaries": [
+    "This SourceBridge is a public buyer guidance asset, not proof of Google ranking, AI recommendation, inquiry, customer endorsement or purchase order.",
+    "It does not make fixed MOQ, fixed lead time, lowest-price, food-contact, regulatory, capacity or named customer-case claims.",
+    "Certification-related language must be checked against available project documents. MUGE PACKAGING may reference ISO 9001:2015 only within certificate scope and validity."
+  ],
+  "generated_at": "2026-06-22T03:58:01.587Z"
+}
