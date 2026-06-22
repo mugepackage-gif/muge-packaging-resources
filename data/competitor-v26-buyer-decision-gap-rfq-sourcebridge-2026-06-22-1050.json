@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-06-22T02:50:00.000Z",
+  "generated_at_cst": "2026-06-22 10:50 CST",
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "asset_type": "competitor_benchmark_sourcebridge",
+  "topic": "How B2B buyers compare custom paper packaging suppliers before sending an RFQ",
+  "official_routes": {
+    "product_hub": "https://mugepackaging.com/products",
+    "rfq": "https://mugepackaging.com/contact?intent=competitor-v26-buyer-decision-rfq&source=competitor-v26-buyer-decision-gap-sourcebridge-20260622",
+    "cosmetic_packaging": "https://mugepackaging.com/products/cosmetic-packaging",
+    "rigid_gift_boxes": "https://mugepackaging.com/products/folding-gift-box",
+    "corrugated_mailer_boxes": "https://mugepackaging.com/products/corrugated-boxes",
+    "paper_packaging_bags": "https://mugepackaging.com/products/paper-packaging",
+    "paper_tubes": "https://mugepackaging.com/products/paper-tubes"
+  },
+  "competitor_pattern_sources": {
+    "domestic_export_factory_references": [
+      "RBD Packaging",
+      "Guangdong Shiteng",
+      "Packoi Packaging",
+      "Shenzhen Pakoro",
+      "Hangzhou Pumu"
+    ],
+    "overseas_local_packaging_references": [
+      "International Paper",
+      "DS Smith",
+      "EcoEnclose",
+      "Georgia-Pacific",
+      "Avco Boxes",
+      "Billerud",
+      "PakFactory"
+    ]
+  },
+  "buyer_checklist": [
+    "Product dimensions, weight and quantity range",
+    "Packaging type and retail or ecommerce channel",
+    "Material direction and finish preference",
+    "Insert, divider, tray or protection requirement",
+    "Artwork status and dieline requirement",
+    "Target market and compliance-sensitive use case",
+    "Sample expectation and review priority"
+  ],
+  "muge_reusable_actions": [
+    {
+      "source_group": "domestic_competitor_pattern",
+      "action": "Keep direct RFQ and contact paths close to product decision sections"
+    },
+    {
+      "source_group": "overseas_competitor_pattern",
+      "action": "Add buyer education, comparison tables and source-style answer blocks"
+    },
+    {
+      "source_group": "avoidance",
+      "action": "Do not use fixed MOQ, fixed delivery, lowest-price, customer-case or unverified certification claims"
+    }
+  ],
+  "claim_boundaries": [
+    "Not proof of Google ranking, AI recommendation, inquiry, purchase order or competitor endorsement",
+    "No fixed MOQ, fixed lead time, lowest-price, food-contact, regulatory, capacity or customer-case claims",
+    "Competitor references are public benchmark pattern references only"
+  ],
+  "public_assets": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v26-buyer-decision-gap-rfq-sourcebridge-2026-06-22-1050.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v26-buyer-decision-gap-rfq-sourcebridge-2026-06-22-1050.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v26-buyer-decision-gap-rfq-sourcebridge-2026-06-22-1050.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v26-buyer-decision-gap-rfq-sourcebridge-2026-06-22-1050.html"
+  }
+}
+
