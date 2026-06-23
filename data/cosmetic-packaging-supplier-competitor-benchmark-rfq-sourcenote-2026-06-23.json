@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-06-23T16:40:00+08:00",
+  "asset_type": "public_source_note",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_website": "https://mugepackaging.com",
+  "target_keywords": [
+    "cosmetic packaging supplier",
+    "custom cosmetic packaging"
+  ],
+  "target_keyword_status": {
+    "exact_visibility": 0,
+    "related_visibility": 0,
+    "top20": 0,
+    "clicks": 0,
+    "source": "latest MUGE target keyword hard validation"
+  },
+  "official_routes": {
+    "cosmetic_packaging": "https://mugepackaging.com/products/cosmetic-packaging",
+    "products": "https://mugepackaging.com/products",
+    "cosmetic_supplier_checklist": "https://mugepackaging.com/blog/cosmetic-packaging-supplier-checklist",
+    "quote_checklist": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "rfq_handoff": "https://mugepackaging.com/contact?intent=cosmetic-packaging-rfq&source=competitor-benchmark-sourcenote-20260623"
+  },
+  "competitor_derived_pattern": [
+    "Use direct product-category routing near quote or contact paths.",
+    "Use buyer guide, RFQ checklist and FAQ-style content for answer engines.",
+    "Connect the official cosmetic packaging page with product fit, retail channel, insert or tray, surface finish, artwork status, sample review and destination-market review questions."
+  ],
+  "buyer_query_route": [
+    "cosmetic packaging supplier",
+    "custom cosmetic packaging",
+    "custom cosmetic packaging manufacturer",
+    "skincare packaging boxes supplier",
+    "cosmetic packaging RFQ checklist",
+    "custom cosmetic packaging quote checklist"
+  ],
+  "rfq_checklist": [
+    "Product category",
+    "Product dimensions and packed weight",
+    "Packaging structure",
+    "Insert or tray requirement",
+    "Surface finish direction",
+    "Artwork status and language requirements",
+    "Sales channel and destination market"
+  ],
+  "claim_boundary": "Search-to-RFQ routing and AI reader discovery only. No third-party endorsement, certification, compliance certificate, test report, Google ranking proof, Google click proof, inquiry proof, paid-ad performance proof or AI natural recommendation proof. No fixed MOQ, lead time, price, lowest price, customer cases, production capacity, platform verification, FSC status, food-contact status or regulated-market approval.",
+  "public_files": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-supplier-competitor-benchmark-rfq-sourcenote-2026-06-23.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-supplier-competitor-benchmark-rfq-sourcenote-2026-06-23.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-supplier-competitor-benchmark-rfq-sourcenote-2026-06-23.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-supplier-competitor-benchmark-rfq-sourcenote-2026-06-23.html"
+  }
+}
