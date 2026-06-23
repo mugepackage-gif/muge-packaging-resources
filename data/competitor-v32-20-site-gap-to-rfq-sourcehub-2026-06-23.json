@@ -1,0 +1,996 @@
+{
+  "version": "competitor-v32-current-evidence-gap-to-rfq",
+  "createdAt": "2026-06-23T10:46:49.753Z",
+  "createdAtCst": "2026-06-23 18:46:49 CST",
+  "slug": "competitor-v32-20-site-gap-to-rfq-sourcehub-2026-06-23",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v32-20-site-gap-to-rfq-sourcehub-2026-06-23.html",
+    "md": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v32-20-site-gap-to-rfq-sourcehub-2026-06-23.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v32-20-site-gap-to-rfq-sourcehub-2026-06-23.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v32-20-site-gap-to-rfq-sourcehub-2026-06-23.html"
+  },
+  "summary": {
+    "total": 20,
+    "homeOk": 14,
+    "strongEvidence": 14,
+    "weakEvidence": 6
+  },
+  "competitors": [
+    {
+      "group": "China export factory",
+      "name": "RBD Packaging",
+      "url": "https://rbdpackaging.com",
+      "focus": "factory RFQ path, product category density, sample/quote visibility",
+      "checkedAt": "2026-06-23T10:46:52.916Z",
+      "home": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://rbdpackaging.com/",
+        "error": ""
+      },
+      "robots": {
+        "ok": true,
+        "status": 200
+      },
+      "sitemap": {
+        "ok": true,
+        "status": 200
+      },
+      "llms": {
+        "ok": true,
+        "status": 200
+      },
+      "evidenceScore": 5,
+      "title": "RBD Packaging",
+      "meta": "B2B Packaging Supplier. rbdpackaging offers Flexible Packaging &amp; paper packaging, Partner with us for quality, reliability, and expert service. Request samples.",
+      "h1": [
+        "Reliable Custom Packaging Manufacturer in China",
+        "Reliable Custom Packaging Manufacturer in China"
+      ],
+      "h2": [
+        "One-stop packaging customization service process",
+        "One-stop packaging customization service process",
+        "Our Business Scope",
+        "Custom Packaging Boxes Manufacturer",
+        "Custom Paper Bags Manufacturer",
+        "Our Business Scope",
+        "Custom Packaging Boxes Manufacturer",
+        "Custom Paper Bags Manufacturer"
+      ],
+      "termSignals": {
+        "custom packaging": 10,
+        "gift box": 12,
+        "rigid box": 2,
+        "corrugated": 2,
+        "mailer": 4,
+        "paper bag": 45,
+        "blog": 6,
+        "faq": 4,
+        "quote": 10,
+        "contact": 13,
+        "sample": 54,
+        "email": 12,
+        "whatsapp": 8,
+        "organization": 2
+      },
+      "plainSample": "RBD Packaging Skip to content WhatsApp: +86 137 1249 2770 WhatsApp: +86 137 1249 2770 Toggle Navigation Home Products Shopping Bags Food Gift Box Burger Box Cookie Gift Box Kraft Paper Bags Bakery Bags Cookie Bags Greaseproof Paper Bags Snack Bags Fries Bags V-Bottom Paper Bags Coffee Bags Custom Paper Bags CBD Packaging mylar bag Corrugated Cardboard Box Paper Gift Box Custom Gable Boxes Blog About Us FAQ Certifications Contact Us Fast &amp; Global Delivery | Packaging Manufacturer Since 2005 F"
+    },
+    {
+      "group": "China export factory",
+      "name": "Shenzhen Jinyu Packaging",
+      "url": "https://www.jinyupack.com",
+      "focus": "China export packaging site evidence refresh",
+      "checkedAt": "2026-06-23T10:46:53.291Z",
+      "home": {
+        "ok": false,
+        "status": 0,
+        "finalUrl": "",
+        "error": "fetch failed"
+      },
+      "robots": {
+        "ok": false,
+        "status": 0
+      },
+      "sitemap": {
+        "ok": false,
+        "status": 0
+      },
+      "llms": {
+        "ok": false,
+        "status": 0
+      },
+      "evidenceScore": 0,
+      "title": "",
+      "meta": "",
+      "h1": [],
+      "h2": [],
+      "termSignals": {},
+      "plainSample": ""
+    },
+    {
+      "group": "China export factory",
+      "name": "Jialan Package",
+      "url": "https://www.jialanpackage.com",
+      "focus": "gift box and paper packaging category structure",
+      "checkedAt": "2026-06-23T10:46:55.616Z",
+      "home": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.jialanpackage.com/",
+        "error": ""
+      },
+      "robots": {
+        "ok": true,
+        "status": 200
+      },
+      "sitemap": {
+        "ok": true,
+        "status": 200
+      },
+      "llms": {
+        "ok": false,
+        "status": 404
+      },
+      "evidenceScore": 4,
+      "title": "Paper Gift Box Wholesale Manufacturer &amp; Paper Packaging Box Supplier | Jialan Package",
+      "meta": "Paper box manufacturer- Jialan Package is a paper packaging box supplier for paper gift box wholesale, fodable gift box, corrugated box, rigid box, etc. Contact us!",
+      "h1": [],
+      "h2": [],
+      "termSignals": {
+        "gift box": 27,
+        "rigid box": 4,
+        "corrugated": 6,
+        "mailer": 4,
+        "paper bag": 1,
+        "paper tube": 1,
+        "contact": 8,
+        "sample": 9,
+        "whatsapp": 5
+      },
+      "plainSample": "Paper Gift Box Wholesale Manufacturer &amp; Paper Packaging Box Supplier | Jialan Package --> loading Jialan Package Direct Factory, Global Gift Box Wholesale Custom &nbsp;Manufacturer! Language Home Products Paper Packaging Box Paper Chocolate Box Paper Wine Box Paper Watch Box Paper Flower Box Paper Jewelry Box Paper Gift Box Foldable Gift Box Book Shaped Gift Box Birthday Gift Box Christmas Paper Gift Box Valentine&#039;s Day Gift Box Wedding Gift Box Perfume Packaging Box Corrugated Box Corr"
+    },
+    {
+      "group": "China export factory",
+      "name": "Naturalpak Industrial",
+      "url": "https://naturalpak.com",
+      "focus": "export paper packaging evidence refresh",
+      "checkedAt": "2026-06-23T10:46:57.200Z",
+      "home": {
+        "ok": false,
+        "status": 0,
+        "finalUrl": "",
+        "error": "fetch failed"
+      },
+      "robots": {
+        "ok": false,
+        "status": 0
+      },
+      "sitemap": {
+        "ok": false,
+        "status": 0
+      },
+      "llms": {
+        "ok": false,
+        "status": 0
+      },
+      "evidenceScore": 0,
+      "title": "",
+      "meta": "",
+      "h1": [],
+      "h2": [],
+      "termSignals": {},
+      "plainSample": ""
+    },
+    {
+      "group": "China export factory",
+      "name": "Guangdong Shiteng",
+      "url": "https://www.shitengzx.com",
+      "focus": "corrugated, mailer and factory product matrix",
+      "checkedAt": "2026-06-23T10:47:01.927Z",
+      "home": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.shitengzx.com/",
+        "error": ""
+      },
+      "robots": {
+        "ok": true,
+        "status": 200
+      },
+      "sitemap": {
+        "ok": true,
+        "status": 200
+      },
+      "llms": {
+        "ok": false,
+        "status": 404
+      },
+      "evidenceScore": 4,
+      "title": "China Carton Box,Corrugated Cardboard,Mailer Box,Fanfold Material Manufacturer and Supplier",
+      "meta": "Guangdong Shiteng Wisdom Technology Co., Ltd. have been specialized in Carton Box manufacture for many years. Our main products are various kinds of Corrugated Cardboard, Mailer Box. Also including Fanfold Material,",
+      "h1": [],
+      "h2": [],
+      "termSignals": {
+        "custom boxes": 3,
+        "gift box": 2,
+        "corrugated": 9,
+        "mailer": 4,
+        "paper bag": 4,
+        "paper tube": 2,
+        "blog": 4,
+        "contact": 16,
+        "email": 2,
+        "whatsapp": 1
+      },
+      "plainSample": "China Carton Box,Corrugated Cardboard,Mailer Box,Fanfold Material Manufacturer and Supplier Mr. shiteng What can I do for you? +1 3126943727 Facebook Contact Now YouTube Tiktok Guangdong Shiteng Wisdom Technology Co., Ltd. Home Products Cardboard Furniture Paper Furniture 3D Wooden Puzzle Paper Back Pack Cardboard Sculpture Custom Boxes Mailer Box Shipper Box Gable Box Recyclable Packaging Boxes ESD Cardboard Boxes Waxed Box Waterproof Cardboard Boxes Molded Pulp Beauty Box Professional Packing "
+    },
+    {
+      "group": "China export factory",
+      "name": "Ancheng Paper Bag",
+      "url": "https://www.anchenggy.com",
+      "focus": "paper bag RFQ and retail packaging path",
+      "checkedAt": "2026-06-23T10:47:04.656Z",
+      "home": {
+        "ok": false,
+        "status": 0,
+        "finalUrl": "",
+        "error": "fetch failed"
+      },
+      "robots": {
+        "ok": false,
+        "status": 0
+      },
+      "sitemap": {
+        "ok": false,
+        "status": 0
+      },
+      "llms": {
+        "ok": false,
+        "status": 0
+      },
+      "evidenceScore": 0,
+      "title": "",
+      "meta": "",
+      "h1": [],
+      "h2": [],
+      "termSignals": {},
+      "plainSample": ""
+    },
+    {
+      "group": "China export factory",
+      "name": "Packoi Packaging",
+      "url": "https://packoi.com",
+      "focus": "custom boxes guides, quote path and buyer education",
+      "checkedAt": "2026-06-23T10:47:06.537Z",
+      "home": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://packoi.com/",
+        "error": ""
+      },
+      "robots": {
+        "ok": true,
+        "status": 200
+      },
+      "sitemap": {
+        "ok": true,
+        "status": 200
+      },
+      "llms": {
+        "ok": true,
+        "status": 200
+      },
+      "evidenceScore": 5,
+      "title": "Custom Packaging Manufacturer in China for Your Brand - Packoi",
+      "meta": "Leading custom packaging manufacturer in China. We offer eco-friendly materials and fully customizable solutions for sustainable brands.",
+      "h1": [
+        "Your Trusted Custom Packaging Manufacturer in China"
+      ],
+      "h2": [
+        "Custom Printed Packaging for Small and Growing Business",
+        "Hassle-Free Custom Packaging Ordering",
+        "Types of Packaging and Print We Offer",
+        "Custom Printed Boxes",
+        "Custom Printed Bags",
+        "Custom Printed Marketing Materials",
+        "Start your Packaging Journey",
+        "Frequently Asked Questions"
+      ],
+      "termSignals": {
+        "custom packaging": 8,
+        "custom boxes": 6,
+        "gift box": 2,
+        "mailer": 2,
+        "paper bag": 2,
+        "sustainability": 4,
+        "sustainable": 4,
+        "guide": 3,
+        "blog": 3,
+        "quote": 14,
+        "contact": 12,
+        "sample": 15,
+        "email": 8
+      },
+      "plainSample": "Custom Packaging Manufacturer in China for Your Brand - Packoi Skip to content Home Custom Boxes Custom Mailer Boxes Custom Product Boxes Custom Shipping Boxes Custom Gift Boxes Custom Display Boxes Custom Folding Cartons Custom Bags Custom Gift Bags Custom Paper Bags Custom Shopping Bags About Company Design Services Blog Contact Home Custom Boxes Custom Mailer Boxes Custom Product Boxes Custom Shipping Boxes Custom Gift Boxes Custom Display Boxes Custom Folding Cartons Custom Bags Custom Gift "
+    },
+    {
+      "group": "China export factory",
+      "name": "Hengtong Paper & Packaging",
+      "url": "https://www.hengtongpaper.com",
+      "focus": "paper packaging export evidence refresh",
+      "checkedAt": "2026-06-23T10:47:06.942Z",
+      "home": {
+        "ok": false,
+        "status": 0,
+        "finalUrl": "",
+        "error": "fetch failed"
+      },
+      "robots": {
+        "ok": false,
+        "status": 0
+      },
+      "sitemap": {
+        "ok": false,
+        "status": 0
+      },
+      "llms": {
+        "ok": false,
+        "status": 0
+      },
+      "evidenceScore": 0,
+      "title": "",
+      "meta": "",
+      "h1": [],
+      "h2": [],
+      "termSignals": {},
+      "plainSample": ""
+    },
+    {
+      "group": "China export factory",
+      "name": "Shenzhen Pakoro",
+      "url": "https://pakoro.com",
+      "focus": "corrugated, rigid box and paper bag product routing",
+      "checkedAt": "2026-06-23T10:47:08.334Z",
+      "home": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://pakoro.com/",
+        "error": ""
+      },
+      "robots": {
+        "ok": true,
+        "status": 200
+      },
+      "sitemap": {
+        "ok": true,
+        "status": 200
+      },
+      "llms": {
+        "ok": false,
+        "status": 404
+      },
+      "evidenceScore": 4,
+      "title": "pakoro.com",
+      "meta": "China&#039;s leading carton manufacturer, focusing on innovative and sustainable packaging solutio",
+      "h1": [
+        "Paper Box Manufacturer"
+      ],
+      "h2": [
+        "Paper Box Manufacturer for Small and Growing Business",
+        "Hassle-Free Wholesale Ordering",
+        "Our product catalog",
+        "Types of Packaging and Print We Offer",
+        "Start your Packaging Journey",
+        "What Our Customers Say About Us",
+        "Get Started with Pakoro Today!",
+        "Blog"
+      ],
+      "termSignals": {
+        "custom packaging": 1,
+        "custom boxes": 1,
+        "gift box": 4,
+        "rigid box": 2,
+        "corrugated": 2,
+        "mailer": 4,
+        "paper bag": 2,
+        "paper tube": 2,
+        "sustainable": 1,
+        "guide": 1,
+        "blog": 3,
+        "quote": 4,
+        "request a quote": 1,
+        "contact": 4,
+        "email": 2,
+        "whatsapp": 1
+      },
+      "plainSample": "pakoro.com Skip to main content Skip to footer Home Packaging gift box packaging Pillow Box Candle Box Pen Box Rigid Box magnetic box Mailer Box Led Bulb Box funko pop protectors business card Paper Tube corrugated box shipping box paper carton box Gable Boxes display box Custom POP Displays Food Packaging Cake Box pizza box Tea box Sweet box bakery box Fruit Box Cookie Box Take Out Box chocolate box clothing packaging Shirt Box Hat Box Shoe Boxes Hang Tags kraft box cosmetic box Perfume Box Bus"
+    },
+    {
+      "group": "China export factory",
+      "name": "Hangzhou Pumu",
+      "url": "https://www.hzpumu.com",
+      "focus": "paper bag and paper product route",
+      "checkedAt": "2026-06-23T10:47:09.531Z",
+      "home": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.hzpumu.com/",
+        "error": ""
+      },
+      "robots": {
+        "ok": true,
+        "status": 200
+      },
+      "sitemap": {
+        "ok": true,
+        "status": 200
+      },
+      "llms": {
+        "ok": true,
+        "status": 200
+      },
+      "evidenceScore": 5,
+      "title": "China Paper Bag Manufacturers, Paper Napkins Suppliers, Customized Paper Plates | PU MU",
+      "meta": "Hangzhou Pu Mu Import and Export Co., Ltd: We specialize in crafting and supplying premium wholesale paper bags, making them the bag of choice for grocers and retailers alike. Customize gift bags to fit any product. Choose any design and we can print on every ",
+      "h1": [
+        "Manufacturing Capability You Can Rely On"
+      ],
+      "h2": [],
+      "termSignals": {
+        "paper bag": 5,
+        "blog": 2,
+        "contact": 4,
+        "email": 2,
+        "whatsapp": 1
+      },
+      "plainSample": "China Paper Bag Manufacturers, Paper Napkins Suppliers, Customized Paper Plates | PU MU admin@hzpumu.com +86-18758918993 Language English Français Deutsch 日本語 Italiano Español Português русский slovenščina עברית বাংলা Norsk magyar suomi Eesti عربي Malti Latviešu Gaeilgenah Éireann Cymraeg اردو Čeština 한국어 українська bosanski Lietuvių ไทย Bai Miaowen O'zbek Türkçe Български Melayu íslenska فارسی slovenčina Srbija jezik (latinica) hrvatski Việt Nam Svenska हिंदी România limbi Català Polski dansk N"
+    },
+    {
+      "group": "Overseas local packaging company",
+      "name": "International Paper",
+      "url": "https://www.internationalpaper.com",
+      "focus": "enterprise solution pages and resource center pattern",
+      "checkedAt": "2026-06-23T10:47:12.778Z",
+      "home": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.internationalpaper.com/",
+        "error": ""
+      },
+      "robots": {
+        "ok": true,
+        "status": 200
+      },
+      "sitemap": {
+        "ok": true,
+        "status": 200
+      },
+      "llms": {
+        "ok": false,
+        "status": 404
+      },
+      "evidenceScore": 4,
+      "title": "Sustainable Packaging Solutions, Pulp &amp; Paper Products | International Paper",
+      "meta": "We transform renewable resources into innovative and sustainable packaging solutions, corrugated cardboard boxes, paper products, and recycling solutions.",
+      "h1": [
+        "Sustainable Packaging Solutions"
+      ],
+      "h2": [
+        "Header utility - US",
+        "Search",
+        "Main navigation - US",
+        "Main navigation - US",
+        "Header utility - US",
+        "Taking action for long-term value creation",
+        "Sustainable products and services that drive your business forward",
+        "See the latest"
+      ],
+      "termSignals": {
+        "corrugated": 2,
+        "sustainability": 12,
+        "sustainable": 10,
+        "contact": 3
+      },
+      "plainSample": "Sustainable Packaging Solutions, Pulp &amp; Paper Products | International Paper Skip to main content Header utility - US News Careers Locations Region: US (North America) - EN EMEA - EN Asia - EN France - FR Italia - IT Polska - PL España - ES Portugal - PT Maroc - FR Latinoamérica - ES Search Search Main navigation - US Products &amp; Services Three Columns Column left Packaging Corrugated Packaging Bulk Packaging Solid Fiber Sheets Retail Packaging &amp; Display Containerboard Column middle R"
+    },
+    {
+      "group": "Overseas local packaging company",
+      "name": "Mondi Group",
+      "url": "https://www.mondi.com",
+      "focus": "material education and enterprise packaging structure",
+      "checkedAt": "2026-06-23T10:47:14.217Z",
+      "home": {
+        "ok": false,
+        "status": 0,
+        "finalUrl": "",
+        "error": "fetch failed"
+      },
+      "robots": {
+        "ok": false,
+        "status": 0
+      },
+      "sitemap": {
+        "ok": false,
+        "status": 0
+      },
+      "llms": {
+        "ok": false,
+        "status": 0
+      },
+      "evidenceScore": 0,
+      "title": "",
+      "meta": "",
+      "h1": [],
+      "h2": [],
+      "termSignals": {},
+      "plainSample": ""
+    },
+    {
+      "group": "Overseas local packaging company",
+      "name": "WestRock",
+      "url": "https://www.westrock.com",
+      "focus": "industry solution pages and retail/corrugated content",
+      "checkedAt": "2026-06-23T10:47:16.032Z",
+      "home": {
+        "ok": false,
+        "status": 403,
+        "finalUrl": "https://www.westrock.com/",
+        "error": ""
+      },
+      "robots": {
+        "ok": false,
+        "status": 403
+      },
+      "sitemap": {
+        "ok": false,
+        "status": 403
+      },
+      "llms": {
+        "ok": false,
+        "status": 403
+      },
+      "evidenceScore": 1,
+      "title": "403 Forbidden",
+      "meta": "",
+      "h1": [
+        "403 Forbidden"
+      ],
+      "h2": [],
+      "termSignals": {},
+      "plainSample": "403 Forbidden 403 Forbidden"
+    },
+    {
+      "group": "Overseas local packaging company",
+      "name": "PakFactory",
+      "url": "https://pakfactory.com",
+      "focus": "custom packaging buyer guide and RFQ funnel",
+      "checkedAt": "2026-06-23T10:47:18.729Z",
+      "home": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://pakfactory.com/",
+        "error": ""
+      },
+      "robots": {
+        "ok": true,
+        "status": 200
+      },
+      "sitemap": {
+        "ok": true,
+        "status": 200
+      },
+      "llms": {
+        "ok": false,
+        "status": 404
+      },
+      "evidenceScore": 4,
+      "title": "PakFactory® | Your Trusted Custom Packaging Solutions Partner",
+      "meta": "Your top choice for custom printed packaging in US &amp; Canada. PakFactory tailors packaging solutions for you from consultation to delivery.",
+      "h1": [
+        "Create custom boxes &amp; packaging of your dreams"
+      ],
+      "h2": [
+        "We are your best solution for Custom Packaging",
+        "One for all solution, for custom printed packaging",
+        "Looking for something else? We can help.",
+        "Shop packaging solutions by industry needs",
+        "Let’s create a sustainable future together",
+        "Go green with sustainably responsible packaging",
+        "PakFactory’s mission towards a greener future",
+        "Services that meet your packaging needs"
+      ],
+      "termSignals": {
+        "custom packaging": 17,
+        "custom boxes": 2,
+        "gift box": 1,
+        "rigid box": 1,
+        "corrugated": 4,
+        "mailer": 6,
+        "paper bag": 2,
+        "sustainability": 3,
+        "sustainable": 6,
+        "guide": 1,
+        "blog": 2,
+        "faq": 1,
+        "quote": 5,
+        "request a quote": 3,
+        "contact": 4,
+        "sample": 6,
+        "email": 2
+      },
+      "plainSample": "PakFactory® | Your Trusted Custom Packaging Solutions Partner JavaScript seems to be disabled in your browser. For the best experience on our site, be sure to turn on Javascript in your browser. We’re actively helping customers reduce the impact of tariffs — explore our approach . Call us toll free: 1-888-622-2819 Speak to our experts in 1 min 9:30am - 6:30pm EST --> Skip to Content Blog Contact Us Sign In Create an Account My Quote Cart 0 Toggle Nav Search Search Advanced Search Search Call us "
+    },
+    {
+      "group": "Overseas local packaging company",
+      "name": "DS Smith",
+      "url": "https://www.dssmith.com",
+      "focus": "sustainability, industry solution and contact path",
+      "checkedAt": "2026-06-23T10:47:20.205Z",
+      "home": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.dssmith.com/",
+        "error": ""
+      },
+      "robots": {
+        "ok": true,
+        "status": 200
+      },
+      "sitemap": {
+        "ok": false,
+        "status": 404
+      },
+      "llms": {
+        "ok": false,
+        "status": 404
+      },
+      "evidenceScore": 3,
+      "title": "DS Smith &#x2013; Packaging, Paper, Recycling",
+      "meta": "DS Smith is an international packaging company, offering sustainable, plastic-free packaging, integrated recycling services, and sustainable paper products.",
+      "h1": [
+        "Taking action for long-term value creation",
+        "Taking action for long-term value creation"
+      ],
+      "h2": [
+        "Our Offering",
+        "Our Experts",
+        "We care about sustainability",
+        "Packaging Solutions",
+        "Containerboard",
+        "Recycling Services",
+        "Investor information",
+        "Join DS Smith"
+      ],
+      "termSignals": {
+        "sustainability": 11,
+        "contact": 5
+      },
+      "plainSample": "DS Smith &#x2013; Packaging, Paper, Recycling Skip to main content Contact us Worldwide About Our Purpose and who we are Our Innovation Innovation Partnerships Understanding Supply Chain Challenges Supplier Information Responsible Sourcing Speak Up Policy General Terms and Conditions Where we operate Products &amp; Services Packaging Solutions Packaging Innovation Retail Packaging Transport &amp; Transit packaging Retail and Shelf Ready Packaging Consumer Packaging Industrial packaging Transport"
+    },
+    {
+      "group": "Overseas local packaging company",
+      "name": "EcoEnclose",
+      "url": "https://ecoenclose.com",
+      "focus": "sustainable packaging education and sample/RFQ path",
+      "checkedAt": "2026-06-23T10:47:22.952Z",
+      "home": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.ecoenclose.com/",
+        "error": ""
+      },
+      "robots": {
+        "ok": true,
+        "status": 200
+      },
+      "sitemap": {
+        "ok": false,
+        "status": 404
+      },
+      "llms": {
+        "ok": false,
+        "status": 404
+      },
+      "evidenceScore": 3,
+      "title": "Sustainable Packaging and Shipping Supplies | EcoEnclose",
+      "meta": "EcoEnclose helps businesses ship sustainably. Order custom shipping boxes, mailers, and other sustainable packaging supplies for a greener supply chain.",
+      "h1": [
+        "Sustainable packaging made easier"
+      ],
+      "h2": [
+        "What you get with EcoEnclose",
+        "Our best sellers",
+        "See – and Feel – the Difference",
+        "Testimonials",
+        "Why Sustainable Packaging Matters for Modern Commerce",
+        "Our Collective 2025 Eco Impact",
+        "Our Latest Articles, Perspectives, And News You Can Use",
+        "Your Partner in Sustainable Packaging"
+      ],
+      "termSignals": {
+        "custom packaging": 2,
+        "corrugated": 2,
+        "mailer": 31,
+        "paper bag": 2,
+        "sustainability": 11,
+        "sustainable": 19,
+        "guide": 20,
+        "blog": 1,
+        "faq": 2,
+        "quote": 5,
+        "request a quote": 1,
+        "contact": 3,
+        "sample": 13,
+        "email": 12
+      },
+      "plainSample": "Sustainable Packaging and Shipping Supplies | EcoEnclose Toggle menu 0 Search Browse Products Mailers Poly Mailers Recycled Poly Mailers RCS100-Certified Poly Mailers Flat Paper Mailers Kraft Mailer Lite Kraft Mailers EcoX Mailers Apparel Mailers Padded Envelopes Plastic Bubble Mailers Paper Padded Mailers Paper Bubble Mailers Paper EcoTec Mailers Rigid Mailers Self-Seal Rigid Mailers Tab-Locking Rigid Mailers Reusable Mailers ReEnclose Mailers Shipping Boxes Custom Shipping Boxes Seaweed Packag"
+    },
+    {
+      "group": "Overseas local packaging company",
+      "name": "Georgia-Pacific GP",
+      "url": "https://www.gp.com",
+      "focus": "enterprise trust and industrial packaging language",
+      "checkedAt": "2026-06-23T10:47:25.361Z",
+      "home": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.gp.com/",
+        "error": ""
+      },
+      "robots": {
+        "ok": true,
+        "status": 200
+      },
+      "sitemap": {
+        "ok": true,
+        "status": 200
+      },
+      "llms": {
+        "ok": true,
+        "status": 200
+      },
+      "evidenceScore": 5,
+      "title": "Welcome To Georgia Pacific | Georgia-Pacific",
+      "meta": "Whether you&#x2019;re at home or on the go, Georgia-Pacific provides packaging and goods to support your daily routine. Our household names include Quilted Northern&#xAE; bath tissue, Brawny&#xAE; paper towels, Dixie&#xAE; cups and more.",
+      "h1": [
+        "Everyday products, responsibly made"
+      ],
+      "h2": [
+        "At work in your world",
+        "Focused on Stewardship",
+        "Progress with Purpose",
+        "Transform Your Career",
+        "A network of resources"
+      ],
+      "termSignals": {
+        "corrugated": 1,
+        "sustainable": 1,
+        "faq": 2,
+        "organization": 1
+      },
+      "plainSample": "Welcome To Georgia Pacific | Georgia-Pacific About Back Executive Leadership Our History Media Library Locations Products Back Building Products Cellulose Consumer Products GP PRO Packaging Pine Solutions Recycling Stewardship Back Environmental Stewardship First Responders Governance Grant FAQs Koch Stewardship Framework Social Stewardship Careers Newsroom Supplier Portal Legal Notices ©2026 Georgia-Pacific. All rights reserved. Employee Login Partner Login About Executive Leadership Our Histor"
+    },
+    {
+      "group": "Overseas local packaging company",
+      "name": "Avco Boxes",
+      "url": "https://avcoboxes.com",
+      "focus": "local packaging quote/contact path",
+      "checkedAt": "2026-06-23T10:47:28.744Z",
+      "home": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.avcoboxes.com/",
+        "error": ""
+      },
+      "robots": {
+        "ok": true,
+        "status": 200
+      },
+      "sitemap": {
+        "ok": true,
+        "status": 200
+      },
+      "llms": {
+        "ok": true,
+        "status": 200
+      },
+      "evidenceScore": 5,
+      "title": "Avco Boxes",
+      "meta": "Avco Boxes offers premium custom food packaging including pizza boxes, cups, wax paper, and restaurant supplies. Fast turnaround, bulk pricing, and nationwide shipping.",
+      "h1": [
+        "More than a box. It’s your brand."
+      ],
+      "h2": [
+        "Best Sellers",
+        "Trusted by the Best",
+        "New Arrivals",
+        "The AVCO Journal",
+        "Have questions? We&#x27;re here to help."
+      ],
+      "termSignals": {
+        "custom packaging": 1,
+        "custom boxes": 2,
+        "sustainability": 1,
+        "sustainable": 3,
+        "blog": 1,
+        "contact": 1,
+        "sample": 1
+      },
+      "plainSample": "Products Industries Reorder Blogs CART CART More than a box. It’s your brand. Premium custom packaging engineered to make a lasting impression, from first glance to final delivery. Shop Now Reorder Made in the USA Ships in 10 Business Days Over 10 Million Boxes Printed Best Sellers Explore our best-selling collections Custom Wax Paper Custom Wax Paper From $43.98 per bundle Custom Pizza Boxes Custom Pizza Boxes From $16.95 per bundle Custom Clear Cups Custom Clear Cups From $62.74 per case Custo"
+    },
+    {
+      "group": "Overseas local packaging company",
+      "name": "Billerud",
+      "url": "https://www.billerud.com",
+      "focus": "sustainable material education and resource structure",
+      "checkedAt": "2026-06-23T10:47:30.824Z",
+      "home": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.billerud.com/",
+        "error": ""
+      },
+      "robots": {
+        "ok": true,
+        "status": 200
+      },
+      "sitemap": {
+        "ok": true,
+        "status": 200
+      },
+      "llms": {
+        "ok": false,
+        "status": 404
+      },
+      "evidenceScore": 4,
+      "title": "Billerud – Packaging tomorrow",
+      "meta": "We are a world leading company in high-performing paper and packaging materials – passionately committed to sustainability, quality, and customer value.",
+      "h1": [],
+      "h2": [
+        "Packaging",
+        "Graphic and Label",
+        "Our latest news",
+        "This is Billerud",
+        "Our offer",
+        "Stories",
+        "Investors"
+      ],
+      "termSignals": {
+        "paper bag": 1,
+        "sustainability": 10,
+        "sustainable": 13,
+        "guide": 1,
+        "blog": 1,
+        "faq": 1,
+        "contact": 11,
+        "organization": 1
+      },
+      "plainSample": "Billerud – Packaging tomorrow Skip to content Go to main navigation Go to language selector Trends &amp; Cases About us Investors Press &amp; news Career Contact Forestry Log in Customer E-portal Web BonD Arena Billerud North America (YourBillerud) en svenska SEARCH BACK Products Go to Products Packaging materials Cartonboard Containerboard Sack Paper Kraft Paper Bags Kraft Paper Flexible Kraft Paper Medical Kraft Paper Speciality Formable Paper Liquid Packaging Board Graphic and label papers Co"
+    },
+    {
+      "group": "Overseas local packaging company",
+      "name": "Ecofolds Packaging",
+      "url": "https://ecofolds.com",
+      "focus": "paper bag quote path and FAQ structure",
+      "checkedAt": "2026-06-23T10:47:34.706Z",
+      "home": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://ecofolds.com/",
+        "error": ""
+      },
+      "robots": {
+        "ok": true,
+        "status": 200
+      },
+      "sitemap": {
+        "ok": true,
+        "status": 200
+      },
+      "llms": {
+        "ok": false,
+        "status": 404
+      },
+      "evidenceScore": 4,
+      "title": "Paper Bags Manufacturer | Unfold a Greener Future With Ecofolds",
+      "meta": "Ecofolds offer premium Paper Bags and Pizza Boxes for Your Business Needs. We take pride in our exceptional craftsmanship and use premium materials to ensure that our paper bags, pizza boxes are of the highest quality.",
+      "h1": [
+        "Discover Sustainable Packaging Solutions"
+      ],
+      "h2": [
+        "Discover Sustainable Packaging Solutions",
+        "What We Offer",
+        "Premium Paper Bags and Pizza Boxes for Your Business Needs",
+        "Why Choose Ecofolds Packaging Ltd.",
+        "Benefit of plastic vs paper bags usage",
+        "©2023 Ecofolds"
+      ],
+      "termSignals": {
+        "paper bag": 21,
+        "sustainability": 8,
+        "sustainable": 2,
+        "faq": 2,
+        "quote": 2,
+        "contact": 5
+      },
+      "plainSample": "Paper Bags Manufacturer | Unfold a Greener Future With Ecofolds Skip to content CAREERS Search Search Home Products Grocery Paper Bags Handle Paper Bags Luxury Paper Bags Pizza Boxes Sustainability About Us Core Values Vision Market-served Distribution enquiry Request Quote Credit Application Contact Us FAQ Menu Home Products Grocery Paper Bags Handle Paper Bags Luxury Paper Bags Pizza Boxes Sustainability About Us Core Values Vision Market-served Distribution enquiry Request Quote Credit Applic"
+    }
+  ],
+  "routes": [
+    {
+      "cluster": "Cosmetic packaging",
+      "official": "https://mugepackaging.com/products/cosmetic-packaging",
+      "contact": "https://mugepackaging.com/contact?intent=cosmetic-packaging-competitor-gap-rfq&source=competitor-v32-20-site-gap-to-rfq-sourcehub-2026-06-23",
+      "question": "What should a beauty brand compare before choosing a custom cosmetic packaging supplier?",
+      "mustAdd": [
+        "product fit",
+        "retail channel",
+        "insert or tray",
+        "surface finish",
+        "artwork status",
+        "sample review scope"
+      ],
+      "competitorPattern": "Packoi and PakFactory-style buyer guide + China factory RFQ visibility"
+    },
+    {
+      "cluster": "Rigid gift boxes",
+      "official": "https://mugepackaging.com/products/folding-gift-box",
+      "contact": "https://mugepackaging.com/contact?intent=rigid-gift-box-competitor-gap-rfq&source=competitor-v32-20-site-gap-to-rfq-sourcehub-2026-06-23",
+      "question": "What should buyers confirm before sampling rigid gift boxes?",
+      "mustAdd": [
+        "box structure",
+        "insert",
+        "finish",
+        "product dimensions",
+        "retail display",
+        "gift set use"
+      ],
+      "competitorPattern": "Jialan, Pakoro and PakFactory-style structure comparison and sampling checklist"
+    },
+    {
+      "cluster": "Corrugated mailer boxes",
+      "official": "https://mugepackaging.com/products/corrugated-boxes",
+      "contact": "https://mugepackaging.com/contact?intent=corrugated-mailer-competitor-gap-rfq&source=competitor-v32-20-site-gap-to-rfq-sourcehub-2026-06-23",
+      "question": "What should ecommerce brands include in a corrugated mailer box RFQ?",
+      "mustAdd": [
+        "product weight",
+        "size",
+        "print area",
+        "flute direction",
+        "shipping route",
+        "protection expectation"
+      ],
+      "competitorPattern": "International Paper, WestRock and EcoEnclose-style shipping protection and use-case pages"
+    },
+    {
+      "cluster": "Paper bags and paper packaging",
+      "official": "https://mugepackaging.com/products/paper-packaging",
+      "contact": "https://mugepackaging.com/contact?intent=paper-bag-competitor-gap-rfq&source=competitor-v32-20-site-gap-to-rfq-sourcehub-2026-06-23",
+      "question": "How should retail brands compare custom paper bags and eco paper packaging suppliers?",
+      "mustAdd": [
+        "paper material direction",
+        "handle style",
+        "printing method",
+        "finish",
+        "retail use",
+        "document questions"
+      ],
+      "competitorPattern": "EcoEnclose, Billerud and China factory paper bag route patterns"
+    },
+    {
+      "cluster": "Paper tube packaging",
+      "official": "https://mugepackaging.com/products/paper-tubes",
+      "contact": "https://mugepackaging.com/contact?intent=paper-tube-competitor-gap-rfq&source=competitor-v32-20-site-gap-to-rfq-sourcehub-2026-06-23",
+      "question": "What should buyers know before requesting custom paper tube packaging?",
+      "mustAdd": [
+        "diameter",
+        "height",
+        "cap structure",
+        "insert need",
+        "label or printing method",
+        "product fit"
+      ],
+      "competitorPattern": "paper tube supplier checklist + retail product-fit explanation"
+    }
+  ]
+}
