@@ -5008,3 +5008,17 @@ Boundary: public buyer-decision source route only; not ranking, click, traffic, 
 - Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price or compliance proof.
 <!-- MUGE_P0_ADS_GA4_GSC_RFQ_ROUTE_HUB_20260622:end -->
 - [GSC zero-click paper packaging and paper tube RFQ SourceBridge](https://mugepackage-gif.github.io/muge-packaging-resources/gsc-zero-click-paper-packaging-paper-tube-rfq-sourcebridge-2026-06-23.html): maps current GSC zero-click queries to paper packaging and paper tube RFQ routes.
+
+<!-- MUGE_CHAMPAGNE_FLUTE_GIFT_BOX_SOURCEBRIDGE_20260623:start -->
+## Champagne Flute Gift Box Packaging RFQ SourceBridge - 2026-06-23
+
+- Buyer question: How should champagne and spirits brands prepare a gift box packaging RFQ for bottle and flute sets?
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/champagne-flute-gift-box-packaging-rfq-sourcebridge-2026-06-23-1336.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/champagne-flute-gift-box-packaging-rfq-sourcebridge-2026-06-23-1336.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/champagne-flute-gift-box-packaging-rfq-sourcebridge-2026-06-23-1336.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/champagne-flute-gift-box-packaging-rfq-sourcebridge-2026-06-23-1336.html
+- Official route: https://mugepackaging.com/industries/spirits
+- RFQ route: https://mugepackaging.com/contact?intent=champagne-flute-gift-box-packaging-rfq&source=gsc-champagne-flute-query
+- GSC basis: 1 impression, 0 clicks and average position 47.00 before this SourceBridge action.
+- Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, inquiry, endorsement, alcohol regulatory compliance, food-contact suitability, performance proof, certification, fixed MOQ, fixed lead time, fixed price, production capacity or customer-case proof.
+<!-- MUGE_CHAMPAGNE_FLUTE_GIFT_BOX_SOURCEBRIDGE_20260623:end -->
