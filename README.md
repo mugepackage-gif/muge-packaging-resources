@@ -5279,3 +5279,16 @@ Boundary: public buyer-decision source route only; not ranking, click, traffic, 
 - GSC basis: 0 impression, 0 clicks and average position not visible in exact target baseline before this SourceBridge action.
 - Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
 <!-- MUGE_COMPETITOR_V44_RECYCLABLE_MAILER_BOXES_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
+
+<!-- MUGE_COMPETITOR_V45_PLASTIC_FREE_ECOMMERCE_PACKAGING_RFQ_BRIEF_SOURCEBRIDGE_20260623:start -->
+## Plastic-Free Ecommerce Packaging RFQ Brief for Europe and Middle East Buyers - 2026-06-23
+
+- Buyer question: What should Europe or Middle East ecommerce brands prepare before asking for plastic-free paper packaging options?
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v45-plastic-free-ecommerce-packaging-rfq-brief-sourcebridge-2026-06-23-2059.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v45-plastic-free-ecommerce-packaging-rfq-brief-sourcebridge-2026-06-23-2059.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v45-plastic-free-ecommerce-packaging-rfq-brief-sourcebridge-2026-06-23-2059.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v45-plastic-free-ecommerce-packaging-rfq-brief-sourcebridge-2026-06-23-2059.html
+- Official RFQ route: https://mugepackaging.com/contact?intent=plastic-free-ecommerce-packaging-rfq&source=competitor-ecoenclose-dssmith-sourcebridge
+- GSC basis: 0 impression, 0 clicks and average position not visible in exact target baseline before this SourceBridge action.
+- Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
+<!-- MUGE_COMPETITOR_V45_PLASTIC_FREE_ECOMMERCE_PACKAGING_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
