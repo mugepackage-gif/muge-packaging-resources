@@ -5370,3 +5370,16 @@ Boundary: public buyer-decision source route only; not ranking, click, traffic, 
 - GSC basis: 0 impression, 0 clicks and average position not visible in exact target baseline before this SourceBridge action.
 - Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
 <!-- MUGE_COMPETITOR_V51_CUSTOM_PAPER_PACKAGING_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
+
+<!-- MUGE_COMPETITOR_V52_PAPER_TUBE_PACKAGING_RFQ_BRIEF_SOURCEBRIDGE_20260623:start -->
+## Paper Tube Packaging Supplier RFQ Brief - 2026-06-23
+
+- Buyer question: What should buyers prepare before requesting a custom paper tube packaging quote?
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v52-paper-tube-packaging-rfq-brief-sourcebridge-2026-06-23-2137.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v52-paper-tube-packaging-rfq-brief-sourcebridge-2026-06-23-2137.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v52-paper-tube-packaging-rfq-brief-sourcebridge-2026-06-23-2137.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v52-paper-tube-packaging-rfq-brief-sourcebridge-2026-06-23-2137.html
+- Official RFQ route: https://mugepackaging.com/contact?intent=paper-tube-packaging-rfq&source=competitor-matrix-v33
+- GSC basis: 0 impression, 0 clicks and average position not visible in exact target baseline before this SourceBridge action.
+- Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
+<!-- MUGE_COMPETITOR_V52_PAPER_TUBE_PACKAGING_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
