@@ -5240,3 +5240,16 @@ Boundary: public buyer-decision source route only; not ranking, click, traffic, 
 - GSC basis: 10 impression, 0 clicks and average position 61.6 before this SourceBridge action.
 - Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
 <!-- MUGE_COMPETITOR_V41_PAPER_CANS_SUPPLIER_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
+
+<!-- MUGE_COMPETITOR_V42_FOLDED_BOX_PRINTING_RFQ_BRIEF_SOURCEBRIDGE_20260623:start -->
+## Folded Box Printing RFQ Brief SourceBridge - 2026-06-23
+
+- Buyer question: What should buyers prepare before requesting folded box printing?
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v42-folded-box-printing-rfq-brief-sourcebridge-2026-06-23-2032.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v42-folded-box-printing-rfq-brief-sourcebridge-2026-06-23-2032.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v42-folded-box-printing-rfq-brief-sourcebridge-2026-06-23-2032.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v42-folded-box-printing-rfq-brief-sourcebridge-2026-06-23-2032.html
+- Official RFQ route: https://mugepackaging.com/contact?intent=folded-box-printing-rfq&source=competitor-v42-folded-box-printing-sourcebridge
+- GSC basis: 2 impression, 0 clicks and average position 33 before this SourceBridge action.
+- Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
+<!-- MUGE_COMPETITOR_V42_FOLDED_BOX_PRINTING_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
