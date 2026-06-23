@@ -1,0 +1,77 @@
+{
+  "generated_at": "2026-06-23T15:38:00.000Z",
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_site": "https://mugepackaging.com",
+  "purpose": "Public RFQ source index for six competitor-informed paper packaging sourcing themes.",
+  "boundary": "No fixed MOQ, fixed lead time, lowest price, food-contact compliance, customer cases or unverified certifications are claimed.",
+  "source_index": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v47-v52-rfq-source-index-2026-06-23.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v47-v52-rfq-source-index-2026-06-23.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v47-v52-rfq-source-index-2026-06-23.json"
+  },
+  "official_pages": [
+    "https://mugepackaging.com/products/paper-packaging",
+    "https://mugepackaging.com/products/corrugated-boxes",
+    "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+    "https://mugepackaging.com/products/cosmetic-packaging",
+    "https://mugepackaging.com/products/paper-tubes",
+    "https://mugepackaging.com/contact?intent=competitor-v47-v52-rfq-source-index&source=github-pages-source-index"
+  ],
+  "themes": [
+    {
+      "id": "v47",
+      "theme": "custom paper bags",
+      "official_page": "https://mugepackaging.com/products/paper-packaging",
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v47-custom-paper-bags-retail-rfq-brief-sourcebridge-2026-06-23-2114.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v47-custom-paper-bags-retail-rfq-brief-sourcebridge-2026-06-23-2114.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v47-custom-paper-bags-retail-rfq-brief-sourcebridge-2026-06-23-2114.json",
+      "rfq_fields": ["bag size", "paper direction", "handle style", "print coverage", "retail channel"]
+    },
+    {
+      "id": "v48",
+      "theme": "custom mailer boxes",
+      "official_page": "https://mugepackaging.com/products/corrugated-boxes",
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v48-custom-mailer-boxes-rfq-brief-sourcebridge-2026-06-23-2118.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v48-custom-mailer-boxes-rfq-brief-sourcebridge-2026-06-23-2118.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v48-custom-mailer-boxes-rfq-brief-sourcebridge-2026-06-23-2118.json",
+      "rfq_fields": ["product weight", "box dimensions", "flute direction", "print area", "protection expectation"]
+    },
+    {
+      "id": "v49",
+      "theme": "rigid gift box structure",
+      "official_page": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v49-rigid-gift-box-structure-rfq-brief-sourcebridge-2026-06-23-2123.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v49-rigid-gift-box-structure-rfq-brief-sourcebridge-2026-06-23-2123.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v49-rigid-gift-box-structure-rfq-brief-sourcebridge-2026-06-23-2123.json",
+      "rfq_fields": ["box structure", "board thickness", "closure type", "insert requirement", "surface finish"]
+    },
+    {
+      "id": "v50",
+      "theme": "retail skincare set packaging",
+      "official_page": "https://mugepackaging.com/products/cosmetic-packaging",
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v50-retail-skincare-set-packaging-rfq-brief-sourcebridge-2026-06-23-2127.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v50-retail-skincare-set-packaging-rfq-brief-sourcebridge-2026-06-23-2127.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v50-retail-skincare-set-packaging-rfq-brief-sourcebridge-2026-06-23-2127.json",
+      "rfq_fields": ["jar or bottle fit", "insert structure", "surface finish", "display channel", "sample review"]
+    },
+    {
+      "id": "v51",
+      "theme": "custom paper packaging",
+      "official_page": "https://mugepackaging.com/products/paper-packaging",
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v51-custom-paper-packaging-rfq-brief-sourcebridge-2026-06-23-2132.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v51-custom-paper-packaging-rfq-brief-sourcebridge-2026-06-23-2132.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v51-custom-paper-packaging-rfq-brief-sourcebridge-2026-06-23-2132.json",
+      "rfq_fields": ["packaging format", "material direction", "print method", "sales channel", "artwork status"]
+    },
+    {
+      "id": "v52",
+      "theme": "paper tube packaging",
+      "official_page": "https://mugepackaging.com/products/paper-tubes",
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v52-paper-tube-packaging-rfq-brief-sourcebridge-2026-06-23-2137.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v52-paper-tube-packaging-rfq-brief-sourcebridge-2026-06-23-2137.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v52-paper-tube-packaging-rfq-brief-sourcebridge-2026-06-23-2137.json",
+      "rfq_fields": ["diameter", "height", "cap structure", "artwork", "surface finish"]
+    }
+  ]
+}
