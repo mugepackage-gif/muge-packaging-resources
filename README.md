@@ -5344,3 +5344,16 @@ Boundary: public buyer-decision source route only; not ranking, click, traffic, 
 - GSC basis: 0 impression, 0 clicks and average position not visible in exact target baseline before this SourceBridge action.
 - Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
 <!-- MUGE_COMPETITOR_V49_RIGID_GIFT_BOX_STRUCTURE_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
+
+<!-- MUGE_COMPETITOR_V50_RETAIL_SKINCARE_SET_PACKAGING_RFQ_BRIEF_SOURCEBRIDGE_20260623:start -->
+## Retail Skincare Set Packaging and Cosmetic Sample Kit RFQ Brief - 2026-06-23
+
+- Buyer question: What should beauty brands prepare before requesting retail skincare set packaging or cosmetic sample kit boxes?
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v50-retail-skincare-set-packaging-rfq-brief-sourcebridge-2026-06-23-2127.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v50-retail-skincare-set-packaging-rfq-brief-sourcebridge-2026-06-23-2127.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v50-retail-skincare-set-packaging-rfq-brief-sourcebridge-2026-06-23-2127.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v50-retail-skincare-set-packaging-rfq-brief-sourcebridge-2026-06-23-2127.html
+- Official RFQ route: https://mugepackaging.com/contact?intent=retail-skincare-set-packaging-rfq&source=competitor-matrix-v33
+- GSC basis: 0 impression, 0 clicks and average position not visible in exact target baseline before this SourceBridge action.
+- Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
+<!-- MUGE_COMPETITOR_V50_RETAIL_SKINCARE_SET_PACKAGING_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
