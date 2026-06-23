@@ -5188,3 +5188,16 @@ Boundary: public buyer-decision source route only; not ranking, click, traffic, 
 - GSC basis: 1 impression, 0 clicks and average position 76 before this SourceBridge action.
 - Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
 <!-- MUGE_COMPETITOR_V37_HOME_FURNISHING_PAPER_PACKAGING_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
+
+<!-- MUGE_COMPETITOR_V38_PAPER_RIGID_BOX_SAMPLING_RFQ_BRIEF_SOURCEBRIDGE_20260623:start -->
+## Paper Rigid Box Sampling RFQ Brief SourceBridge - 2026-06-23
+
+- Buyer question: What should buyers confirm before sampling a custom paper rigid box?
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v38-paper-rigid-box-sampling-rfq-brief-sourcebridge-2026-06-23-2006.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v38-paper-rigid-box-sampling-rfq-brief-sourcebridge-2026-06-23-2006.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v38-paper-rigid-box-sampling-rfq-brief-sourcebridge-2026-06-23-2006.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v38-paper-rigid-box-sampling-rfq-brief-sourcebridge-2026-06-23-2006.html
+- Official RFQ route: https://mugepackaging.com/contact?intent=paper-rigid-box-sampling-rfq&source=competitor-v38-paper-rigid-box-sourcebridge
+- GSC basis: 1 impression, 0 clicks and average position 92 before this SourceBridge action.
+- Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
+<!-- MUGE_COMPETITOR_V38_PAPER_RIGID_BOX_SAMPLING_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
