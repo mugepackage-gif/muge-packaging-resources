@@ -5253,3 +5253,16 @@ Boundary: public buyer-decision source route only; not ranking, click, traffic, 
 - GSC basis: 2 impression, 0 clicks and average position 33 before this SourceBridge action.
 - Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
 <!-- MUGE_COMPETITOR_V42_FOLDED_BOX_PRINTING_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
+
+<!-- MUGE_COMPETITOR_V43_ARTWORK_MAILERS_RFQ_BRIEF_SOURCEBRIDGE_20260623:start -->
+## Artwork Mailers RFQ Brief SourceBridge - 2026-06-23
+
+- Buyer question: What should buyers prepare before requesting custom artwork mailers or flat protective packaging?
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v43-artwork-mailers-rfq-brief-sourcebridge-2026-06-23-2042.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v43-artwork-mailers-rfq-brief-sourcebridge-2026-06-23-2042.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v43-artwork-mailers-rfq-brief-sourcebridge-2026-06-23-2042.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v43-artwork-mailers-rfq-brief-sourcebridge-2026-06-23-2042.html
+- Official RFQ route: https://mugepackaging.com/contact?intent=artwork-mailers-rfq&source=competitor-v43-artwork-mailers-sourcebridge
+- GSC basis: 1 impression, 0 clicks and average position 54 before this SourceBridge action.
+- Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
+<!-- MUGE_COMPETITOR_V43_ARTWORK_MAILERS_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
