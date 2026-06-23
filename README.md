@@ -5149,3 +5149,16 @@ Boundary: public buyer-decision source route only; not ranking, click, traffic, 
 - GSC basis: 1 impression, 0 clicks and average position 42 before this SourceBridge action.
 - Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
 <!-- MUGE_COMPETITOR_V34_CUSTOM_PRINTED_PAPER_PACKAGING_BOXES_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
+
+<!-- MUGE_COMPETITOR_V35_PAPER_PACKAGING_BOX_PRINTING_RFQ_BRIEF_SOURCEBRIDGE_20260623:start -->
+## Paper Packaging Box Printing RFQ Brief SourceBridge - 2026-06-23
+
+- Buyer question: What printing details should buyers prepare for a paper packaging box RFQ?
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v35-paper-packaging-box-printing-rfq-brief-sourcebridge-2026-06-23-1954.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v35-paper-packaging-box-printing-rfq-brief-sourcebridge-2026-06-23-1954.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v35-paper-packaging-box-printing-rfq-brief-sourcebridge-2026-06-23-1954.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v35-paper-packaging-box-printing-rfq-brief-sourcebridge-2026-06-23-1954.html
+- Official RFQ route: https://mugepackaging.com/contact?intent=paper-packaging-box-printing-rfq&source=competitor-v35-paper-packaging-box-printing-sourcebridge
+- GSC basis: 1 impression, 0 clicks and average position 53 before this SourceBridge action.
+- Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
+<!-- MUGE_COMPETITOR_V35_PAPER_PACKAGING_BOX_PRINTING_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
