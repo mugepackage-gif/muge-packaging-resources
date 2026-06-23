@@ -6,7 +6,7 @@ tags:
   - GSC
   - RFQ
   - SourceBridge
-created: 2026-06-23 04:14:18 CST
+created: 2026-06-23 22:12:44 CST
 status: published
 ---
 
@@ -22,7 +22,7 @@ Brand: MUGE PACKAGING
 
 The latest GSC / GA4 / Jina reflow check showed that MUGE PACKAGING has page-level impressions and site visits, but still has zero GSC clicks and zero GA4 key events for the five monitored product lines. This page does not claim a ranking win. It creates a clearer bridge from search queries to buyer-ready RFQ routes.
 
-Source GSC report: `/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/数据回流验收/五产品线SourceNote/20260623_0412_五产品线SourceNote_GSC_GA4_Jina回流验收.md`
+Source GSC report: `/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/数据回流验收/五产品线SourceNote/20260623_2158_五产品线SourceNote_GSC_GA4_Jina回流验收.md`
 
 ## Zero-Click Query Map
 
