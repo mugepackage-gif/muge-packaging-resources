@@ -1,0 +1,108 @@
+{
+  "generated_at": "2026-06-23T18:37:00+08:00",
+  "type": "gsc_weak_signal_rfq_route_index_hub",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "public_url": "https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-rfq-route-index-hub-2026-06-23.html",
+  "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-rfq-route-index-hub-2026-06-23.html",
+  "source_gsc_report": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-23_1831_GSC查询词排名基线.md",
+  "weak_signals": [
+    {
+      "query": "compare packaging",
+      "clicks": 0,
+      "impressions": 5,
+      "position": 19,
+      "officialRoute": "https://mugepackaging.com/products",
+      "externalEvidence": "https://mugepackage-gif.github.io/muge-packaging-resources/compare-packaging-buyer-decision-matrix-sourcebridge-2026-06-23.html",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=compare-packaging-rfq&source=gsc-weak-signal-hub-20260623"
+    },
+    {
+      "query": "clear pvc box",
+      "clicks": 0,
+      "impressions": 1,
+      "position": 23,
+      "officialRoute": "https://mugepackaging.com/products/clear-boxes",
+      "externalEvidence": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/134",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=clear-pvc-box-rfq&source=gsc-weak-signal-hub-20260623"
+    },
+    {
+      "query": "custom paper products",
+      "clicks": 0,
+      "impressions": 1,
+      "position": 31,
+      "officialRoute": "https://mugepackaging.com/products/paper-packaging",
+      "externalEvidence": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-products-packaging-rfq-sourcenote-2026-06-21.html",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-paper-products-packaging-rfq&source=gsc-weak-signal-hub-20260623"
+    },
+    {
+      "query": "custom printed paper packaging boxes",
+      "clicks": 0,
+      "impressions": 1,
+      "position": 42,
+      "officialRoute": "https://mugepackaging.com/products/paper-packaging",
+      "externalEvidence": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/160",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-printed-paper-packaging-boxes-rfq&source=gsc-weak-signal-hub-20260623"
+    },
+    {
+      "query": "custom sustainable packaging for organic brands",
+      "clicks": 0,
+      "impressions": 1,
+      "position": 48,
+      "officialRoute": "https://mugepackaging.com/products/paper-packaging",
+      "externalEvidence": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/161",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=sustainable-packaging-organic-brands-rfq&source=gsc-weak-signal-hub-20260623"
+    },
+    {
+      "query": "baby food branding and packaging",
+      "clicks": 0,
+      "impressions": 1,
+      "position": 48,
+      "officialRoute": "https://mugepackaging.com/products/paper-packaging",
+      "externalEvidence": "https://mugepackage-gif.github.io/muge-packaging-resources/baby-food-branding-packaging-rfq-sourcenote-2026-06-23.html",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=baby-food-branding-packaging-rfq&source=gsc-weak-signal-hub-20260623"
+    },
+    {
+      "query": "custom flexible packaging",
+      "clicks": 0,
+      "impressions": 8,
+      "position": 82.75,
+      "officialRoute": "https://mugepackaging.com/products/stand-up-pouches",
+      "externalEvidence": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/135",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-flexible-packaging-rfq&source=gsc-weak-signal-hub-20260623"
+    },
+    {
+      "query": "custom protective packaging fragile products",
+      "clicks": 0,
+      "impressions": 1,
+      "position": 74,
+      "officialRoute": "https://mugepackaging.com/products/corrugated-boxes",
+      "externalEvidence": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/162",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=protective-packaging-fragile-products-rfq&source=gsc-weak-signal-hub-20260623"
+    },
+    {
+      "query": "custom shoe boxes footwear brand packaging",
+      "clicks": 0,
+      "impressions": 1,
+      "position": 76,
+      "officialRoute": "https://mugepackaging.com/products/folding-gift-box",
+      "externalEvidence": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/163",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-shoe-boxes-footwear-rfq&source=gsc-weak-signal-hub-20260623"
+    },
+    {
+      "query": "\"hygiene sealed\" \"return policy\" earbuds",
+      "clicks": 0,
+      "impressions": 2,
+      "position": 9.5,
+      "officialRoute": "https://mugepackaging.com/industries/electronics",
+      "externalEvidence": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/167",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=earbuds-packaging-rfq&source=gsc-weak-signal-hub-20260623"
+    }
+  ],
+  "checklist": [
+    "Use this Hub as a single AI-readable map from GSC weak signals to official MUGE routes.",
+    "Do not create duplicate one-off assets for a query already covered here; refresh the official route or the evidence page instead.",
+    "Prioritize queries with impressions, zero clicks and commercial intent for the next P0/P1 page update.",
+    "Retest GSC, GA4, SerpAPI and Perplexity after the API channels recover."
+  ],
+  "boundary": "public routing and evidence index only; no ranking, indexing, AI recommendation, inquiry, certification, fixed MOQ, fixed lead time, fixed price, capacity, customer-case, food-contact, legal compliance or performance guarantee"
+}

@@ -1,3 +1,14 @@
+<!-- MUGE_GSC_WEAK_SIGNAL_RFQ_ROUTE_INDEX_HUB_20260623:start -->
+## GSC Weak Signal RFQ Route Index Hub - 2026-06-23
+
+- Public HTML: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-rfq-route-index-hub-2026-06-23.html
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-rfq-route-index-hub-2026-06-23.html
+- GSC source: 2026-06-23 18:31 query baseline, using already-visible zero-click queries.
+- Purpose: consolidate already-handled GSC weak signals into one public AI-readable route index, so future work refreshes the official route or evidence page instead of duplicating assets.
+- Covered query groups: compare packaging; clear pvc box; custom paper products; custom printed paper packaging boxes; custom sustainable packaging for organic brands; baby food branding and packaging; custom flexible packaging; custom protective packaging fragile products; custom shoe boxes footwear brand packaging; "hygiene sealed" "return policy" earbuds.
+- Boundary: public routing and evidence index only; not Google ranking proof, indexing proof, AI recommendation proof, inquiry proof, certification proof, fixed MOQ, fixed lead time, fixed price, capacity, customer-case, food-contact approval, legal compliance approval or packaging performance guarantee.
+<!-- MUGE_GSC_WEAK_SIGNAL_RFQ_ROUTE_INDEX_HUB_20260623:end -->
+
 <!-- MUGE_CHINA_VS_LOCAL_SUPPLIER_SOURCEBRIDGE_20260623:start -->
 ## China Vs Local Packaging Supplier RFQ SourceBridge - 2026-06-23
 
