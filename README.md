@@ -5175,3 +5175,16 @@ Boundary: public buyer-decision source route only; not ranking, click, traffic, 
 - GSC basis: 3 impression, 0 clicks and average position 80.33 before this SourceBridge action.
 - Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
 <!-- MUGE_COMPETITOR_V36_RIGID_PAPER_PACKAGING_STRUCTURE_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
+
+<!-- MUGE_COMPETITOR_V37_HOME_FURNISHING_PAPER_PACKAGING_RFQ_BRIEF_SOURCEBRIDGE_20260623:start -->
+## Home Furnishing Paper Packaging RFQ Brief SourceBridge - 2026-06-23
+
+- Buyer question: What should home furnishing buyers prepare before requesting paper packaging quotes?
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v37-home-furnishing-paper-packaging-rfq-brief-sourcebridge-2026-06-23-2003.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v37-home-furnishing-paper-packaging-rfq-brief-sourcebridge-2026-06-23-2003.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v37-home-furnishing-paper-packaging-rfq-brief-sourcebridge-2026-06-23-2003.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v37-home-furnishing-paper-packaging-rfq-brief-sourcebridge-2026-06-23-2003.html
+- Official RFQ route: https://mugepackaging.com/contact?intent=home-furnishing-paper-packaging-rfq&source=competitor-v37-home-furnishing-paper-packaging-sourcebridge
+- GSC basis: 1 impression, 0 clicks and average position 76 before this SourceBridge action.
+- Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
+<!-- MUGE_COMPETITOR_V37_HOME_FURNISHING_PAPER_PACKAGING_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
