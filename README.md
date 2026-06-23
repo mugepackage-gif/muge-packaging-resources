@@ -5123,3 +5123,16 @@ Boundary: public buyer-decision source route only; not ranking, click, traffic, 
 - GSC basis: 1 impression, 0 clicks and average position 74 before this SourceBridge action.
 - Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
 <!-- MUGE_PROTECTIVE_PACKAGING_FRAGILE_PRODUCTS_RFQ_SOURCEBRIDGE_20260623:end -->
+
+<!-- MUGE_COMPETITOR_V33_EUROPE_COSMETIC_PACKAGING_RFQ_BRIEF_SOURCEBRIDGE_20260623:start -->
+## Europe Cosmetic Packaging RFQ Brief SourceBridge - 2026-06-23
+
+- Buyer question: What should a Europe buyer include in a cosmetic packaging RFQ?
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v33-europe-cosmetic-packaging-rfq-brief-sourcebridge-2026-06-23-1946.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v33-europe-cosmetic-packaging-rfq-brief-sourcebridge-2026-06-23-1946.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v33-europe-cosmetic-packaging-rfq-brief-sourcebridge-2026-06-23-1946.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v33-europe-cosmetic-packaging-rfq-brief-sourcebridge-2026-06-23-1946.html
+- Official RFQ route: https://mugepackaging.com/contact?intent=cosmetic-packaging-rfq&source=competitor-v33-europe-rfq-sourcebridge
+- GSC basis: 1 impression, 0 clicks and average position 87 before this SourceBridge action.
+- Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
+<!-- MUGE_COMPETITOR_V33_EUROPE_COSMETIC_PACKAGING_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
