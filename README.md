@@ -5305,3 +5305,16 @@ Boundary: public buyer-decision source route only; not ranking, click, traffic, 
 - GSC basis: 0 impression, 0 clicks and average position not visible in exact target baseline before this SourceBridge action.
 - Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
 <!-- MUGE_COMPETITOR_V46_COSMETIC_CORRUGATED_MAILER_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
+
+<!-- MUGE_COMPETITOR_V47_CUSTOM_PAPER_BAGS_RETAIL_RFQ_BRIEF_SOURCEBRIDGE_20260623:start -->
+## Custom Paper Bags and Retail Shopping Bags RFQ Brief - 2026-06-23
+
+- Buyer question: What should retail and ecommerce brands prepare before requesting custom paper bags or kraft shopping bags?
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v47-custom-paper-bags-retail-rfq-brief-sourcebridge-2026-06-23-2114.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v47-custom-paper-bags-retail-rfq-brief-sourcebridge-2026-06-23-2114.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v47-custom-paper-bags-retail-rfq-brief-sourcebridge-2026-06-23-2114.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v47-custom-paper-bags-retail-rfq-brief-sourcebridge-2026-06-23-2114.html
+- Official RFQ route: https://mugepackaging.com/contact?intent=custom-paper-bags-rfq&source=competitor-matrix-v33
+- GSC basis: 0 impression, 0 clicks and average position not visible in exact target baseline before this SourceBridge action.
+- Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
+<!-- MUGE_COMPETITOR_V47_CUSTOM_PAPER_BAGS_RETAIL_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
