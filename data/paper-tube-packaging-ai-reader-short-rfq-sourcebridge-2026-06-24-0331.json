@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-06-24T03:31:09+08:00",
+  "label": "Paper tube packaging AI-readable RFQ route for Europe and Middle East buyers",
+  "brand": "MUGE PACKAGING",
+  "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "officialRoutes": {
+    "paperTubePage": "https://mugepackaging.com/products/paper-tubes",
+    "quoteChecklist": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "rfqContact": "https://mugepackaging.com/contact?intent=paper-tube-ai-reader-rfq&source=paper-tube-short-sourcebridge-20260624"
+  },
+  "sourceReason": "The longer paper tube SourceNote was live but returned HTTP 503 in Jina Reader during the 2026-06-24 product-line reflow validation. This shorter SourceBridge provides a stable AI-readable buyer route.",
+  "currentValidationSignal": {
+    "gsc28Impressions": 385,
+    "gsc28Clicks": 0,
+    "gsc7Impressions": 369,
+    "ga4Sessions30d": 232,
+    "ga4KeyEvents": 0,
+    "longSourceNoteLive": "passed",
+    "longSourceNoteJina": "HTTP 503"
+  },
+  "buyerQuestion": "What should a Europe, UAE, Saudi or Middle East retail buyer prepare before asking a source factory to review custom paper tube packaging?",
+  "shortAnswer": "The buyer should prepare tube diameter, tube height, product weight, product category, cap style, wall thickness direction, insert or liner needs, artwork status, surface finish preference, sales channel and target market before sampling.",
+  "rfqDetails": [
+    "Product category: candle, tea, cosmetic, fragrance, wellness, gift set, sample kit or retail product.",
+    "Product size and weight.",
+    "Tube diameter and height.",
+    "Closure direction: paper cap, metal cap, plug cap, rolled edge or custom cap review.",
+    "Interior fit: loose product, insert, liner, divider or protective wrap.",
+    "Surface direction: printed wrap, texture paper, foil, embossing, spot UV, lamination or plain branded finish.",
+    "Artwork status: finished artwork, reference image, logo only or concept stage.",
+    "Market and channel: Europe, UAE, Saudi, Middle East, retail shelf, ecommerce, distributor shipment or gifting."
+  ],
+  "claimBoundary": [
+    "This page is a public source route and AI-readable RFQ helper.",
+    "It is not proof of Google ranking, AI recommendation, traffic growth, inquiry, order or endorsement.",
+    "It does not claim fixed MOQ, fixed lead time, lowest price, customer case, production capacity, certification status, food-contact suitability, destination-market compliance or legal compliance."
+  ],
+  "keywords": [
+    "paper tube packaging",
+    "custom paper tubes",
+    "paper tube RFQ",
+    "cosmetic paper tube packaging",
+    "candle paper tube packaging",
+    "tea paper tube packaging",
+    "Europe packaging buyers",
+    "Middle East packaging buyers"
+  ]
+}
