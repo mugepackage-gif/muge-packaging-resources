@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-23T14:26:29.724Z",
+  "generatedAtCST": "2026-06-23 22:26:29 CST",
+  "sourceReport": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/竞品分析/20260623_2221_MUGE_纸品包装20竞品SEO_GEO_v29执行反哺总控版.md",
+  "sourceEvidence": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/竞品分析/数据/20260623_2220_MUGE_纸品包装20竞品SEO_GEO深度证据分析_v28.json",
+  "htmlUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v29-five-productline-buyer-question-sourcebridge-2026-06-23.html",
+  "mdUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v29-five-productline-buyer-question-sourcebridge-2026-06-23.md",
+  "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v29-five-productline-buyer-question-sourcebridge-2026-06-23.json",
+  "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v29-five-productline-buyer-question-sourcebridge-2026-06-23.html",
+  "topics": [
+    {
+      "productLine": "Custom cosmetic packaging",
+      "question": "What should beauty brands prepare before requesting custom cosmetic packaging quotes?",
+      "officialPage": "https://mugepackaging.com/products/cosmetic-packaging",
+      "rfq": "https://mugepackaging.com/contact?intent=cosmetic-packaging-competitor-v29-rfq&source=competitor-v29-five-productline-sourcebridge",
+      "buyerBrief": [
+        "product dimensions",
+        "retail channel",
+        "insert or tray requirement",
+        "surface finish",
+        "artwork status",
+        "sample review needs"
+      ],
+      "competitorLesson": "Competitor pages commonly make the quote path visible early and explain product fit, finish and sample preparation before the form."
+    },
+    {
+      "productLine": "Rigid gift boxes and magnetic gift boxes",
+      "question": "What should buyers confirm before sampling custom rigid gift boxes?",
+      "officialPage": "https://mugepackaging.com/products/folding-gift-box",
+      "rfq": "https://mugepackaging.com/contact?intent=rigid-gift-box-competitor-v29-rfq&source=competitor-v29-five-productline-sourcebridge",
+      "buyerBrief": [
+        "box structure",
+        "product weight",
+        "insert layout",
+        "magnetic or drawer style",
+        "finish direction",
+        "retail or ecommerce channel"
+      ],
+      "competitorLesson": "Strong competitor pages separate structure, insert, finish and sampling decisions instead of only showing finished box photos."
+    },
+    {
+      "productLine": "Corrugated mailer boxes and ecommerce shipping boxes",
+      "question": "What should ecommerce brands include in a corrugated mailer box RFQ?",
+      "officialPage": "https://mugepackaging.com/products/corrugated-boxes",
+      "rfq": "https://mugepackaging.com/contact?intent=corrugated-mailer-competitor-v29-rfq&source=competitor-v29-five-productline-sourcebridge",
+      "buyerBrief": [
+        "product dimensions",
+        "shipping protection needs",
+        "board strength",
+        "print area",
+        "packing method",
+        "destination market"
+      ],
+      "competitorLesson": "Mailer box pages that rank well usually connect protection, print layout and ecommerce shipping use cases to a direct quote path."
+    },
+    {
+      "productLine": "Custom paper bags and eco paper packaging",
+      "question": "How should retail brands compare custom paper bag and eco paper packaging suppliers?",
+      "officialPage": "https://mugepackaging.com/products/paper-packaging",
+      "rfq": "https://mugepackaging.com/contact?intent=paper-bag-eco-packaging-competitor-v29-rfq&source=competitor-v29-five-productline-sourcebridge",
+      "buyerBrief": [
+        "bag size",
+        "paper material",
+        "handle type",
+        "print coverage",
+        "finish",
+        "retail use scenario"
+      ],
+      "competitorLesson": "Overseas packaging sites often build trust through material explanations and sustainability topics, but claims still need evidence."
+    },
+    {
+      "productLine": "Custom paper tube packaging",
+      "question": "What should buyers know before requesting custom paper tube packaging?",
+      "officialPage": "https://mugepackaging.com/products/paper-tubes",
+      "rfq": "https://mugepackaging.com/contact?intent=paper-tube-competitor-v29-rfq&source=competitor-v29-five-productline-sourcebridge",
+      "buyerBrief": [
+        "diameter",
+        "height",
+        "cap structure",
+        "product weight",
+        "inner fit",
+        "labeling or print finish"
+      ],
+      "competitorLesson": "Useful paper tube supplier pages explain diameter, height, cap structure and product fit before asking buyers to submit a quote."
+    }
+  ],
+  "boundary": "public source routing and RFQ preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, customer cases, production capacity or legal compliance proof"
+}
