@@ -1,0 +1,65 @@
+{
+  "generated_at": "2026-06-24T04:35:00+08:00",
+  "asset_type": "SourceBridge",
+  "title": "Custom Size Corrugated Packaging Paper GSC Zero-click RFQ SourceBridge",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_site": "https://mugepackaging.com",
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-size-corrugated-packaging-paper-gsc-zero-click-rfq-sourcebridge-2026-06-24-0435.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-size-corrugated-packaging-paper-gsc-zero-click-rfq-sourcebridge-2026-06-24-0435.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-size-corrugated-packaging-paper-gsc-zero-click-rfq-sourcebridge-2026-06-24-0435.json",
+    "official_paper_packaging_route": "https://mugepackaging.com/products/paper-packaging",
+    "official_corrugated_boxes_route": "https://mugepackaging.com/products/corrugated-boxes",
+    "rfq_route": "https://mugepackaging.com/contact?intent=custom-size-corrugated-packaging-paper-rfq&source=gsc-zero-click-corrugated-paper-sourcebridge-20260624"
+  },
+  "target_queries": [
+    "custom size corrugated packaging paper",
+    "corrugated paper packaging",
+    "custom corrugated boxes",
+    "mailer boxes",
+    "shipping boxes",
+    "display boxes"
+  ],
+  "rfq_inputs": [
+    "product dimensions",
+    "product weight",
+    "box structure",
+    "flute direction",
+    "board strength direction",
+    "print coverage",
+    "shipping route",
+    "insert or divider need",
+    "carton packing",
+    "target sales channel",
+    "destination-market document needs"
+  ],
+  "routing_matrix": [
+    {
+      "check": "product dimensions and weight",
+      "why": "internal fit, protection and carton packing depend on the real product size and weight",
+      "buyer_input": "length, width, height, weight, fragile areas and quantity per box"
+    },
+    {
+      "check": "box structure",
+      "why": "mailer, tuck-top, shipping and display boxes solve different retail and logistics needs",
+      "buyer_input": "reference box, opening direction, display need, return-ready need and product placement"
+    },
+    {
+      "check": "flute and board direction",
+      "why": "flute direction affects stacking, folding, edge strength and shipping protection",
+      "buyer_input": "product weight, shipping method, storage condition, display requirement and any packing test notes"
+    },
+    {
+      "check": "print and finish",
+      "why": "corrugated print can be simple logo print, full surface print or litho-laminated display print",
+      "buyer_input": "print coverage, color count, artwork status, label panels, barcode location and finish reference"
+    }
+  ],
+  "boundary": [
+    "public source-routing and RFQ preparation evidence only",
+    "not proof of Google ranking, GSC click growth, GA4 traffic, AI answer inclusion, inquiry generation, third-party endorsement, platform approval or customer case",
+    "no fixed MOQ, fixed lead time, lowest price, production capacity, food-contact approval, certification, recycled-content proof, load-bearing guarantee or destination-market regulatory guarantee",
+    "commercial terms, structural tests, documents and destination-market requirements must be reviewed project by project"
+  ]
+}
