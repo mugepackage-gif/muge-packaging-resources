@@ -30,7 +30,7 @@ This public SourceBridge connects the GSC query **paper cans supplier** with off
 |---|---|
 | Official paper tubes and paper cans page | https://mugepackaging.com/products/paper-tubes |
 | Official paper packaging page | https://mugepackaging.com/products/paper-packaging |
-| Official material guide | https://mugepackaging.com/blog/custom-packaging-material-selection-guide |
+| Official material guide | https://mugepackaging.com/materials |
 | Official quote checklist | https://mugepackaging.com/blog/custom-packaging-quote-checklist |
 | Official products hub | https://mugepackaging.com/products |
 | RFQ contact route | https://mugepackaging.com/contact?intent=paper-cans-supplier-rfq&source=competitor-v41-paper-cans-supplier-sourcebridge |
