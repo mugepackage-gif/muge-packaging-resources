@@ -1,0 +1,87 @@
+{
+  "generated_at": "2026-06-24T04:40:00+08:00",
+  "asset_type": "SourceBridge",
+  "title": "Magnetic Closure Gift Box Sampling Checklist SourceBridge",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_site": "https://mugepackaging.com",
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/magnetic-closure-gift-box-sampling-checklist-sourcebridge-2026-06-24-0440.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/magnetic-closure-gift-box-sampling-checklist-sourcebridge-2026-06-24-0440.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/magnetic-closure-gift-box-sampling-checklist-sourcebridge-2026-06-24-0440.json",
+    "official_folding_gift_box_route": "https://mugepackaging.com/products/folding-gift-box",
+    "official_magnetic_closure_route": "https://mugepackaging.com/products/folding-gift-box/magnetic-closure",
+    "rfq_route": "https://mugepackaging.com/contact?intent=magnetic-closure-gift-box-sampling-checklist&source=competitor-p0-folding-gift-box-sourcebridge-20260624"
+  },
+  "target_queries": [
+    "magnetic closure gift box sampling checklist",
+    "what should buyers confirm before sampling magnetic closure gift boxes",
+    "custom magnetic gift boxes RFQ checklist",
+    "magnetic closure folding gift box supplier",
+    "rigid gift box sampling checklist",
+    "luxury gift box packaging sample checklist"
+  ],
+  "buyer_regions": [
+    "Europe",
+    "United Arab Emirates",
+    "Saudi Arabia",
+    "Middle East",
+    "United Kingdom",
+    "United States"
+  ],
+  "rfq_inputs": [
+    "product dimensions",
+    "packed weight",
+    "gift-set layout",
+    "opening style",
+    "magnet position",
+    "insert or tray plan",
+    "board direction",
+    "surface paper",
+    "print coverage",
+    "finish reference",
+    "artwork status",
+    "retail channel",
+    "target market",
+    "packing route",
+    "destination-market document review request"
+  ],
+  "sampling_matrix": [
+    {
+      "check": "product fit",
+      "why": "magnetic closure boxes need enough internal tolerance for the product, insert and opening movement",
+      "buyer_input": "product length, width, height, weight, item count, fragile parts and gift-set layout"
+    },
+    {
+      "check": "closure structure",
+      "why": "magnet placement, flap depth and opening style affect unboxing feel and stability",
+      "buyer_input": "reference opening style, magnet direction, lid overlap preference and whether a ribbon pull is needed"
+    },
+    {
+      "check": "insert support",
+      "why": "premium sets often fail at the insert stage if product movement is not reviewed early",
+      "buyer_input": "paperboard, EVA, foam, molded pulp or tray direction, product arrangement and color direction"
+    },
+    {
+      "check": "board and surface paper",
+      "why": "rigid box feel depends on board direction, wrap paper and edge finishing",
+      "buyer_input": "greyboard direction, surface paper reference, color target, texture preference and edge-wrap expectation"
+    },
+    {
+      "check": "print and finish",
+      "why": "foil, embossing, debossing, spot UV and soft-touch finishes need artwork and sample review",
+      "buyer_input": "logo files, artwork status, Pantone or color direction, print coverage and finish reference photos"
+    },
+    {
+      "check": "packing route",
+      "why": "collapsible and assembled rigid boxes affect freight volume, storage and retail preparation differently",
+      "buyer_input": "flat-pack or assembled preference, carton packing, target market, sales channel and document review requests"
+    }
+  ],
+  "boundary": [
+    "public source-routing and RFQ preparation evidence only",
+    "not proof of Google ranking, GSC click growth, GA4 traffic, AI answer inclusion, inquiry generation, third-party endorsement, platform approval or customer case",
+    "no fixed MOQ, fixed lead time, lowest price, production capacity, FSC, FDA, food-contact approval, destination-market compliance or guaranteed packaging performance",
+    "commercial terms, sampling sequence, documents, structure tests and destination-market requirements must be reviewed project by project"
+  ]
+}
