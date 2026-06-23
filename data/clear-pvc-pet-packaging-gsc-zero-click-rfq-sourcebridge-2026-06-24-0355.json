@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-06-24T03:55:00+08:00",
+  "label": "Clear PVC/PET packaging GSC zero-click RFQ route",
+  "brand": "MUGE PACKAGING",
+  "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "officialRoutes": {
+    "pvcPetPackagingPage": "https://mugepackaging.com/products/pvc-packaging",
+    "quoteChecklist": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "rfqContact": "https://mugepackaging.com/contact?intent=clear-pvc-pet-box-rfq&source=clear-pvc-pet-sourcebridge-20260624"
+  },
+  "sourceReason": "Latest GSC baselines show zero-click exposure for clear PVC, clear PET and transparent display packaging queries. This asset points to the current reachable MUGE PACKAGING PVC/PET packaging route.",
+  "currentGscSignals": [
+    { "query": "pvc packaging", "impressions28d": 7, "clicks": 0, "averagePosition": 35.29 },
+    { "query": "clear PET box manufacturer", "impressions28d": 4, "clicks": 0, "averagePosition": 53.75 },
+    { "query": "packaging pvc", "impressions28d": 4, "clicks": 0, "averagePosition": 66.5 },
+    { "query": "clear PVC boxes wholesale", "impressions28d": 3, "clicks": 0, "averagePosition": 50.33 },
+    { "query": "PVC plastic packaging", "impressions28d": 2, "clicks": 0, "averagePosition": 35.0 },
+    { "query": "clear product packaging", "impressions28d": 2, "clicks": 0, "averagePosition": 60.0 },
+    { "query": "clear PVC box", "impressions28d": 1, "clicks": 0, "averagePosition": 23.0 },
+    { "query": "clear PVC boxes for sale", "impressions28d": 1, "clicks": 0, "averagePosition": 42.0 },
+    { "query": "packing PVC clear boxes", "impressions28d": 1, "clicks": 0, "averagePosition": 43.0 },
+    { "query": "plastic PVC box packaging", "impressions28d": 1, "clicks": 0, "averagePosition": 44.0 }
+  ],
+  "buyerQuestion": "What should a retail buyer prepare before asking a factory to review custom clear PVC, PET or PP display packaging?",
+  "shortAnswer": "The buyer should prepare product dimensions, product weight, display orientation, material direction, required clarity, thickness direction, fold-line or crease requirement, closure style, print or label area, hanging or shelf-display need, packing method and destination-market document requests.",
+  "rfqDetails": [
+    "Product category: cosmetics, toys, electronics accessories, gifts, stationery, consumer goods or retail display products.",
+    "Product dimensions and product weight.",
+    "Display requirement: full clear box, partial window, hanging hole, shelf-ready display or gift presentation.",
+    "Material direction: PET, PVC, PP, RPET or project-specific request.",
+    "Thickness direction and fold-line requirement.",
+    "Closure and structure: tuck end, auto bottom, hanging tab, insert, tray, sleeve or tube direction.",
+    "Print and label area: logo, barcode, warning label, product information or transparent blank area.",
+    "Packing method: protective film, scratch protection, flat packing, assembled packing or carton packing.",
+    "Destination-market document request: buyer-side checklist, material document request or compliance review before public claim language is used."
+  ],
+  "claimBoundary": [
+    "This page is a public source route and RFQ helper.",
+    "It is not proof of FDA certification, food-contact suitability, recycled-content claim, destination-market compliance, material-performance guarantee, Google ranking, AI recommendation, inquiry, order, fixed MOQ, fixed lead time, lowest price, customer case, production capacity or third-party endorsement."
+  ],
+  "keywords": [
+    "clear PVC box",
+    "clear PVC boxes wholesale",
+    "clear PET box manufacturer",
+    "PVC packaging",
+    "PVC plastic packaging",
+    "transparent retail display packaging",
+    "clear plastic packaging RFQ"
+  ]
+}
