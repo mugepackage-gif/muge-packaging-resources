@@ -14,6 +14,8 @@ Boundary: this page does not claim fixed MOQ, fixed lead time, lowest price, foo
 
 ## Official MUGE PACKAGING Pages
 
+Official website: https://mugepackaging.com
+
 - [Custom paper packaging and paper bags](https://mugepackaging.com/products/paper-packaging)
 - [Corrugated mailer boxes and ecommerce shipping boxes](https://mugepackaging.com/products/corrugated-boxes)
 - [Rigid gift box structure and material guide](https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide)
@@ -86,4 +88,3 @@ Useful for cosmetics, candle, tea and gift buyers preparing diameter, height, ca
 ## About MUGE PACKAGING
 
 MUGE PACKAGING is the English brand name of Shenzhen Muge Design Packaging Product Co., Ltd. The company works on custom paper packaging structures including cosmetic packaging, rigid gift boxes, corrugated mailer boxes, paper bags and paper tube packaging. Project details should be reviewed before quotation or sampling.
-
