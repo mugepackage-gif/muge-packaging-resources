@@ -5396,3 +5396,16 @@ Boundary: public buyer-decision source route only; not ranking, click, traffic, 
 - Official RFQ routes: https://mugepackaging.com/contact?intent=cosmetic-packaging-competitor-v29-rfq&source=competitor-v29-five-productline-sourcebridge; https://mugepackaging.com/contact?intent=rigid-gift-box-competitor-v29-rfq&source=competitor-v29-five-productline-sourcebridge; https://mugepackaging.com/contact?intent=corrugated-mailer-competitor-v29-rfq&source=competitor-v29-five-productline-sourcebridge; https://mugepackaging.com/contact?intent=paper-bag-eco-packaging-competitor-v29-rfq&source=competitor-v29-five-productline-sourcebridge; https://mugepackaging.com/contact?intent=paper-tube-competitor-v29-rfq&source=competitor-v29-five-productline-sourcebridge
 - Boundary: source-routing and RFQ preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed timing, fixed price, customer cases, production capacity or compliance.
 <!-- MUGE_COMPETITOR_V29_BUYER_QUESTION_SOURCEBRIDGE_20260623:end -->
+
+<!-- MUGE_GSC_ZERO_CLICK_P0P1_CTR_RFQ_RESCUE_SOURCEBRIDGE_20260623:start -->
+## GSC Zero-Click P0/P1 CTR Rescue: Cosmetic Packaging, Paper Packaging and Paper Tubes - 2026-06-23
+
+- Buyer question: If a buyer sees MUGE PACKAGING product pages in Google but does not click, what should each page clearly answer before an RFQ?
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-zero-click-p0p1-ctr-rfq-rescue-sourcebridge-2026-06-23-2246.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-zero-click-p0p1-ctr-rfq-rescue-sourcebridge-2026-06-23-2246.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/gsc-zero-click-p0p1-ctr-rfq-rescue-sourcebridge-2026-06-23-2246.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/gsc-zero-click-p0p1-ctr-rfq-rescue-sourcebridge-2026-06-23-2246.html
+- Official RFQ route: https://mugepackaging.com/contact?intent=p0p1-ctr-rescue-rfq&source=gsc-zero-click-p0p1-ctr-rfq-rescue
+- GSC basis: 935 impression, 0 clicks and average position cosmetic 5.55, paper packaging 8.08, paper tubes 9.97 before this SourceBridge action.
+- Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
+<!-- MUGE_GSC_ZERO_CLICK_P0P1_CTR_RFQ_RESCUE_SOURCEBRIDGE_20260623:end -->
