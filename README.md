@@ -5318,3 +5318,16 @@ Boundary: public buyer-decision source route only; not ranking, click, traffic, 
 - GSC basis: 0 impression, 0 clicks and average position not visible in exact target baseline before this SourceBridge action.
 - Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
 <!-- MUGE_COMPETITOR_V47_CUSTOM_PAPER_BAGS_RETAIL_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
+
+<!-- MUGE_COMPETITOR_V48_CUSTOM_MAILER_BOXES_RFQ_BRIEF_SOURCEBRIDGE_20260623:start -->
+## Custom Mailer Boxes and Ecommerce Corrugated Packaging RFQ Brief - 2026-06-23
+
+- Buyer question: What should ecommerce brands prepare before requesting custom mailer boxes or branded corrugated shipping boxes?
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v48-custom-mailer-boxes-rfq-brief-sourcebridge-2026-06-23-2118.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v48-custom-mailer-boxes-rfq-brief-sourcebridge-2026-06-23-2118.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v48-custom-mailer-boxes-rfq-brief-sourcebridge-2026-06-23-2118.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v48-custom-mailer-boxes-rfq-brief-sourcebridge-2026-06-23-2118.html
+- Official RFQ route: https://mugepackaging.com/contact?intent=custom-mailer-boxes-rfq&source=competitor-matrix-v33
+- GSC basis: 0 impression, 0 clicks and average position not visible in exact target baseline before this SourceBridge action.
+- Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
+<!-- MUGE_COMPETITOR_V48_CUSTOM_MAILER_BOXES_RFQ_BRIEF_SOURCEBRIDGE_20260623:end -->
