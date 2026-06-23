@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-06-24T03:45:00+08:00",
+  "label": "Child-resistant packaging RFQ route and compliance boundary",
+  "brand": "MUGE PACKAGING",
+  "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "officialRoutes": {
+    "childResistantPage": "https://mugepackaging.com/products/child-resistant",
+    "quoteChecklist": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "rfqContact": "https://mugepackaging.com/contact?intent=child-resistant-rfq&source=child-resistant-sourcebridge-20260624"
+  },
+  "sourceReason": "GSC shows a zero-click query group around child-proof and child-resistant packaging. This asset creates a conservative RFQ route without making certification, compliance or product-safety claims.",
+  "currentGscSignals": [
+    { "query": "child proof packaging", "impressions28d": 25, "clicks": 0, "averagePosition": 84.8 },
+    { "query": "child resistant packaging", "impressions28d": 13, "clicks": 0, "averagePosition": 96.31 },
+    { "query": "child resistant cardboard box", "impressions28d": 8, "clicks": 0, "averagePosition": 89.38 },
+    { "query": "child resistant carton", "impressions28d": 8, "clicks": 0, "averagePosition": 90.75 },
+    { "query": "child resistant containers", "impressions28d": 5, "clicks": 0, "averagePosition": 88.6 },
+    { "query": "child proof packaging supplier", "impressions28d": 5, "clicks": 0, "averagePosition": 93.0 },
+    { "query": "child resistant boxes", "impressions28d": 4, "clicks": 0, "averagePosition": 87.5 },
+    { "query": "child resistant cartridge boxes", "impressions28d": 3, "clicks": 0, "averagePosition": 52.33 },
+    { "query": "child resistant disposable boxes", "impressions28d": 3, "clicks": 0, "averagePosition": 54.33 },
+    { "query": "all paper child resistant packaging", "impressions28d": 3, "clicks": 0, "averagePosition": 75.67 }
+  ],
+  "buyerQuestion": "What should a buyer prepare before asking a source factory to review child-resistant style paper boxes, cartons, tin boxes, exit bags or regulated-product packaging?",
+  "shortAnswer": "The buyer should prepare the product category, target market, required standard or document request, product size and weight, opening method, closure direction, material direction, artwork status, sales channel and whether a third-party test or legal review is required before claim language is used.",
+  "rfqDetails": [
+    "Product category: vape, pre-roll, CBD, wellness, supplement, regulated retail product or another category.",
+    "Target market: United States, Canada, Europe, UAE, Saudi, Middle East or another destination.",
+    "Required standard, document request or buyer-side compliance checklist.",
+    "Product dimensions, product weight and retail unit count.",
+    "Packaging format: paper box, carton, tin box, exit bag, pouch or multi-piece set.",
+    "Opening and closure direction: tuck lock, sliding lock, push-and-slide, two-step opening, insert, seal label or other structure for review.",
+    "Material and printing direction: paperboard, corrugated paper, specialty paper, plastic window, surface finish, warning label area or barcode area.",
+    "Evidence requirement: whether a third-party lab test, buyer compliance team review or destination-market legal review is required before using any child-resistant claim."
+  ],
+  "claimBoundary": [
+    "This page is a public source route and RFQ helper.",
+    "It is not proof that MUGE PACKAGING provides certified child-resistant packaging for any specific market or product category.",
+    "It is not proof of product safety, legal compliance, food-contact suitability, medical compliance, tobacco/vape/CBD compliance, destination-market approval, Google ranking, AI recommendation, inquiry, order, fixed MOQ, fixed lead time, lowest price, customer case, production capacity or third-party endorsement."
+  ],
+  "keywords": [
+    "child proof packaging",
+    "child resistant packaging",
+    "child resistant cardboard box",
+    "child resistant carton",
+    "child proof packaging supplier",
+    "child resistant boxes",
+    "regulated product packaging RFQ"
+  ]
+}
