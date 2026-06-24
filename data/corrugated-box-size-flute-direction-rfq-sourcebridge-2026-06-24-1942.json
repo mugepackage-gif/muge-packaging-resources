@@ -1,0 +1,79 @@
+{
+  "generated_at": "2026-06-24T19:42:00+08:00",
+  "asset_type": "SourceBridge",
+  "title": "Corrugated Box Size And Flute Direction RFQ SourceBridge",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_site": "https://mugepackaging.com",
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-box-size-flute-direction-rfq-sourcebridge-2026-06-24-1942.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-box-size-flute-direction-rfq-sourcebridge-2026-06-24-1942.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-box-size-flute-direction-rfq-sourcebridge-2026-06-24-1942.json",
+    "official_corrugated_boxes_route": "https://mugepackaging.com/products/corrugated-boxes",
+    "box_size_finder_article": "https://mugepackaging.com/blog/box-size-finder",
+    "custom_corrugated_article": "https://mugepackaging.com/blog/custom-corrugated-box-packaging-manufacturer-industrial-design",
+    "rfq_route": "https://mugepackaging.com/contact?intent=corrugated-box-size-flute-direction-rfq&source=gsc-zero-click-corrugated-size-sourcebridge-20260624"
+  },
+  "target_queries": [
+    "corrugated box size and flute direction RFQ checklist",
+    "corrugated box size review",
+    "custom corrugated box dimensions RFQ",
+    "what box size and flute direction should buyers prepare",
+    "custom corrugated boxes shipping route checklist",
+    "ecommerce mailer box size and flute direction"
+  ],
+  "rfq_inputs": [
+    "product length",
+    "product width",
+    "product height",
+    "packed weight",
+    "product fragility notes",
+    "sales channel",
+    "shipping route",
+    "box structure",
+    "wall direction",
+    "flute preference if known",
+    "print coverage",
+    "insert or divider need",
+    "carton packing plan",
+    "destination-market document questions"
+  ],
+  "decision_matrix": [
+    {
+      "decision": "inner size",
+      "why": "the box needs enough clearance for product fit, insert support and packing movement",
+      "buyer_input": "product length, width, height, product count, insert space and whether the box must fit a shelf or shipper"
+    },
+    {
+      "decision": "packed weight",
+      "why": "weight changes wall direction, flute review and outer carton planning",
+      "buyer_input": "single-unit weight, packed set weight, carton quantity and any stacking or palletizing notes"
+    },
+    {
+      "decision": "box structure",
+      "why": "mailer, shipper, display tray and subscription kit boxes solve different jobs",
+      "buyer_input": "opening style, closure method, return-flow need, retail display requirement and unboxing goal"
+    },
+    {
+      "decision": "flute direction",
+      "why": "flute direction affects folding, edge strength, panel stiffness and print surface choice",
+      "buyer_input": "shipping route, print coverage, box size range, product weight and whether fine graphics are needed"
+    },
+    {
+      "decision": "insert or divider",
+      "why": "corrugated boxes often fail when internal movement is not reviewed",
+      "buyer_input": "product placement, divider count, insert material direction and product surface sensitivity"
+    },
+    {
+      "decision": "print coverage",
+      "why": "print method depends on panel size, color coverage and surface expectation",
+      "buyer_input": "logo files, color direction, outside or inside print area, label panel and artwork status"
+    }
+  ],
+  "boundary": [
+    "public source-routing and RFQ preparation evidence only",
+    "not proof of Google ranking, GSC click growth, GA4 traffic, AI answer inclusion, inquiry generation, third-party endorsement, platform approval or customer case",
+    "no fixed MOQ, fixed lead time, lowest price, production capacity, food-contact approval, certification, load-bearing guarantee, shipping damage guarantee, carrier approval or destination-market regulatory guarantee",
+    "commercial terms, box engineering, structural tests, documents and destination-market requirements must be reviewed project by project"
+  ]
+}
