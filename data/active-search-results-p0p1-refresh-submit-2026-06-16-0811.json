@@ -1,0 +1,31 @@
+{
+  "name": "MUGE PACKAGING ASR P0/P1 Refresh Submission",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "website": "https://mugepackaging.com",
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T08:11:10.117Z",
+  "endpoint": "https://www.activesearchresults.com/addwebsite.php",
+  "email_used_domain": "***@mugepackaging.com",
+  "safety_boundaries": [
+    "no paid placement",
+    "no login",
+    "no captcha bypass",
+    "no false verified supplier claim",
+    "no unsupported certification/customer/MOQ/lead-time claim"
+  ],
+  "form_check": {
+    "status": 0,
+    "finalUrl": "https://www.activesearchresults.com/addwebsite.php",
+    "formSafe": false,
+    "reason": "ASR form was not safe to automate; no submission attempted."
+  },
+  "summary": {
+    "target_count": 9,
+    "attempted_count": 0,
+    "accepted_count": 0,
+    "not_confirmed_count": 0,
+    "target_not_live_count": 0
+  },
+  "results": []
+}
