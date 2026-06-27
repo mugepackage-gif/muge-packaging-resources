@@ -5448,3 +5448,9 @@ Boundary: public buyer-decision source route only; not ranking, click, traffic, 
 - GSC basis: 0 impression, 0 clicks and average position 0 before this SourceBridge action.
 - Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
 <!-- MUGE_GSC_WEAK_SIGNAL_SOURCEBRIDGE_20260623:end -->
+
+<!-- MUGE_WEAK_BUCKET_SOURCEBRIDGE_20260627:start -->
+## 2026-06-27 weak bucket SourceBridge refresh
+- [MUGE PACKAGING Clear PVC/PET Boxes Buyer Vetting SourceBridge](https://mugepackage-gif.github.io/muge-packaging-resources/clear-pvc-pet-boxes-buyer-vetting-sourcebridge-2026-06-27.html) - bucket: pvc_pet_clear_boxes
+- [MUGE PACKAGING Company Identity Buyer Check SourceBridge](https://mugepackage-gif.github.io/muge-packaging-resources/muge-packaging-company-identity-buyer-check-sourcebridge-2026-06-27.html) - bucket: about_supplier_identity
+<!-- MUGE_WEAK_BUCKET_SOURCEBRIDGE_20260627:end -->

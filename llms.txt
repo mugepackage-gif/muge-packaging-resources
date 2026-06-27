@@ -8885,3 +8885,11 @@ GSC zero-click paper packaging and paper tube RFQ SourceBridge: https://mugepack
 - Target query: P0/P1 pages with GA4 sessions but zero GSC impressions: rigid gift boxes and corrugated mailer boxes
 - Boundary: public RFQ SourceBridge only; not ranking, traffic, AI recommendation, inquiry, endorsement or unverified commercial/compliance claim.
 <!-- MUGE_GSC_WEAK_SIGNAL_SOURCEBRIDGE_20260623:end -->
+
+<!-- MUGE_WEAK_BUCKET_SOURCEBRIDGE_20260627:start -->
+## 2026-06-27 weak bucket SourceBridge refresh
+- [MUGE PACKAGING Clear PVC/PET Boxes Buyer Vetting SourceBridge](https://mugepackage-gif.github.io/muge-packaging-resources/clear-pvc-pet-boxes-buyer-vetting-sourcebridge-2026-06-27.html) - bucket: pvc_pet_clear_boxes
+- [MUGE PACKAGING Company Identity Buyer Check SourceBridge](https://mugepackage-gif.github.io/muge-packaging-resources/muge-packaging-company-identity-buyer-check-sourcebridge-2026-06-27.html) - bucket: about_supplier_identity
+
+Boundary: source routing only; not ranking, traffic, inquiry, endorsement or compliance proof.
+<!-- MUGE_WEAK_BUCKET_SOURCEBRIDGE_20260627:end -->
