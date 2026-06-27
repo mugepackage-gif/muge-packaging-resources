@@ -5522,3 +5522,16 @@ Boundary: third-party public route index only; not ranking, traffic, inquiry, en
 - GSC basis: rolling keyword pool evidence; exact GSC API unavailable in this run impression, 0 clicks and average position not verified in this run before this SourceBridge action.
 - Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
 <!-- MUGE_CURRENT100_PAPER_TUBES_BULK_MIDDLE_EAST_EUROPE_RFQ_SOURCEBRIDGE_20260623:end -->
+
+<!-- MUGE_CURRENT100_RIGID_GIFT_BOXES_SUPPLIER_RFQ_SOURCEBRIDGE_20260623:start -->
+## Rigid Gift Box Supplier RFQ Route for Premium Product Buyers - 2026-06-28
+
+- Buyer question: What should premium product buyers confirm before sending a rigid gift box supplier RFQ?
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/current100-rigid-gift-boxes-supplier-rfq-sourcebridge-2026-06-28-0347.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/current100-rigid-gift-boxes-supplier-rfq-sourcebridge-2026-06-28-0347.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/current100-rigid-gift-boxes-supplier-rfq-sourcebridge-2026-06-28-0347.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/current100-rigid-gift-boxes-supplier-rfq-sourcebridge-2026-06-28-0347.html
+- Official RFQ route: https://mugepackaging.com/contact?intent=rigid-gift-box-rfq&source=current100-sourcebridge
+- GSC basis: rolling keyword pool evidence; exact GSC API unavailable in this run impression, 0 clicks and average position not verified in this run before this SourceBridge action.
+- Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
+<!-- MUGE_CURRENT100_RIGID_GIFT_BOXES_SUPPLIER_RFQ_SOURCEBRIDGE_20260623:end -->
