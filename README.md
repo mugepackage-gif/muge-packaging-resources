@@ -5637,3 +5637,6 @@ Boundary: public buyer-route and citation-context assets only; not ranking, traf
   - Jina: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/current246-api-validation-gap-response-sourcebridge-2026-06-28.html
   - Topics: paper bags, PVC/PET clear boxes, folding gift boxes.
 <!-- MUGE_CURRENT246_API_VALIDATION_GAP_RESPONSE_SOURCEBRIDGE_20260628:END -->
+
+## Ads/GSC High-Intent RFQ Route - 2026-06-28_0534
+- [MUGE PACKAGING Ads/GSC High-Intent RFQ Route SourceBridge](https://mugepackage-gif.github.io/muge-packaging-resources/ads-gsc-high-intent-rfq-route-sourcebridge-2026-06-28.html) - Ads/GSC high-intent RFQ route SourceBridge. Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/ads-gsc-high-intent-rfq-route-sourcebridge-2026-06-28.md. JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/ads-gsc-high-intent-rfq-route-sourcebridge-2026-06-28.json. Jina: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/ads-gsc-high-intent-rfq-route-sourcebridge-2026-06-28.html
