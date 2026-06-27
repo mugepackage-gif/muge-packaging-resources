@@ -5509,3 +5509,16 @@ Boundary: public buyer-decision source route only; not ranking, click, traffic, 
 
 Boundary: third-party public route index only; not ranking, traffic, inquiry, endorsement, AI natural recommendation, certification, fixed MOQ, fixed lead time, fixed price, food-contact or compliance proof.
 <!-- MUGE_MOBILE_P0P1_RFQ_ROUTE_TELEGRAPH_20260628:end -->
+
+<!-- MUGE_CURRENT100_PAPER_TUBES_BULK_MIDDLE_EAST_EUROPE_RFQ_SOURCEBRIDGE_20260623:start -->
+## Paper Tube Packaging Bulk RFQ Route for Europe and Middle East Buyers - 2026-06-28
+
+- Buyer question: How should Europe and Middle East buyers prepare a bulk paper tube packaging RFQ before contacting a supplier?
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/current100-paper-tubes-bulk-middle-east-europe-rfq-sourcebridge-2026-06-28-0343.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/current100-paper-tubes-bulk-middle-east-europe-rfq-sourcebridge-2026-06-28-0343.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/current100-paper-tubes-bulk-middle-east-europe-rfq-sourcebridge-2026-06-28-0343.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/current100-paper-tubes-bulk-middle-east-europe-rfq-sourcebridge-2026-06-28-0343.html
+- Official RFQ route: https://mugepackaging.com/contact?intent=paper-tube-bulk-rfq&source=current100-sourcebridge
+- GSC basis: rolling keyword pool evidence; exact GSC API unavailable in this run impression, 0 clicks and average position not verified in this run before this SourceBridge action.
+- Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
+<!-- MUGE_CURRENT100_PAPER_TUBES_BULK_MIDDLE_EAST_EUROPE_RFQ_SOURCEBRIDGE_20260623:end -->

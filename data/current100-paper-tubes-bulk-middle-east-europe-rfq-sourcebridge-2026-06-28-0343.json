@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-06-27T19:43:26.103Z",
+  "generatedAtCst": "2026-06-28 03:43:26 CST",
+  "title": "Paper Tube Packaging Bulk RFQ Route for Europe and Middle East Buyers",
+  "buyerQuestion": "How should Europe and Middle East buyers prepare a bulk paper tube packaging RFQ before contacting a supplier?",
+  "brand": "MUGE PACKAGING",
+  "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "gscBasis": {
+    "query": "custom paper tubes bulk middle east / uae / saudi arabia / europe",
+    "window": "current100 rolling validation set generated 2026-06-27",
+    "clicks": 0,
+    "impressions": "rolling keyword pool evidence; exact GSC API unavailable in this run",
+    "averagePosition": "not verified in this run",
+    "source": "muge_current_100_hard_validation_keywords.json items 24-30"
+  },
+  "officialRoutes": {
+    "Paper tube product route": "https://mugepackaging.com/products/paper-tubes",
+    "Material review route": "https://mugepackaging.com/materials",
+    "Sample review route": "https://mugepackaging.com/sample-pack",
+    "RFQ contact route": "https://mugepackaging.com/contact?intent=paper-tube-bulk-rfq&source=current100-sourcebridge"
+  },
+  "targetQueries": [
+    "custom paper tubes bulk middle east",
+    "custom paper tubes bulk uae",
+    "custom paper tubes bulk saudi arabia",
+    "custom paper tubes bulk dubai",
+    "custom paper tubes bulk europe",
+    "custom paper tubes bulk uk",
+    "paper tube packaging supplier middle east",
+    "paper tube packaging supplier europe"
+  ],
+  "buyerInputs": [
+    "Product diameter, height and filled product weight",
+    "Cap structure and closure preference",
+    "Material direction and surface finish expectation",
+    "Printing coverage, artwork readiness and barcode or label area",
+    "Retail, e-commerce or gift channel usage",
+    "Sample purpose and project timeline for review",
+    "Destination market and document questions that need project-specific confirmation"
+  ],
+  "decisionMatrix": [
+    {
+      "dimension": "Size brief",
+      "weakBrief": "Only says paper tube box needed.",
+      "strongerBrief": "Provides diameter, height, product weight and insert or cap requirements."
+    },
+    {
+      "dimension": "Surface finish",
+      "weakBrief": "Asks for premium look without references.",
+      "strongerBrief": "Shares finish direction such as matte, soft-touch, foil, embossing or printed texture reference."
+    },
+    {
+      "dimension": "Regional routing",
+      "weakBrief": "Mentions UAE, Saudi Arabia, UK or Europe without product use case.",
+      "strongerBrief": "States destination market, sales channel, packaging use case and document questions for supplier review."
+    },
+    {
+      "dimension": "Sampling",
+      "weakBrief": "Requests sample immediately.",
+      "strongerBrief": "Explains whether the sample is for structure check, brand approval, photo shoot, retail test or pre-production review."
+    }
+  ],
+  "claimBoundaries": [
+    "This SourceBridge supports buyer RFQ routing, crawlable discovery and AI-readable citation context only.",
+    "It is not proof of Google ranking, AI Top10, traffic, inquiry, customer case, endorsement, certification, fixed MOQ, fixed lead time, fixed price or production capacity.",
+    "Food-contact, sustainability, destination-market and product-contact claims require project-specific documents before external use."
+  ],
+  "urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/current100-paper-tubes-bulk-middle-east-europe-rfq-sourcebridge-2026-06-28-0343.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/current100-paper-tubes-bulk-middle-east-europe-rfq-sourcebridge-2026-06-28-0343.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/current100-paper-tubes-bulk-middle-east-europe-rfq-sourcebridge-2026-06-28-0343.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/current100-paper-tubes-bulk-middle-east-europe-rfq-sourcebridge-2026-06-28-0343.html"
+  }
+}
