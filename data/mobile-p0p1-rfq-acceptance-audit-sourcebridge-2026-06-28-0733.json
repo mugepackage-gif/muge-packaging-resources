@@ -1,0 +1,211 @@
+{
+  "marker": "MUGE_MOBILE_P0P1_RFQ_ACCEPTANCE_AUDIT_SOURCEBRIDGE_20260628",
+  "generatedAt": "2026-06-27T23:33:51.120Z",
+  "generatedAtCst": "2026-06-28_0733 CST",
+  "slug": "mobile-p0p1-rfq-acceptance-audit-sourcebridge-2026-06-28-0733",
+  "title": "MUGE PACKAGING Mobile P0/P1 RFQ Acceptance Audit SourceBridge",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/移动端P0P1承接全页审计/2026-06-28_0730_CST_MUGE_移动端P0P1承接全页审计.json",
+  "summary": {
+    "pages": 10,
+    "passed": 10,
+    "needsWork": 0,
+    "highRisk": 0,
+    "viewport": "375x812 mobile"
+  },
+  "results": [
+    {
+      "name": "Home",
+      "url": "https://mugepackaging.com/",
+      "status": "通过",
+      "score": 6,
+      "statusCode": 200,
+      "hasMobileStickyQuote": true,
+      "hasFirstViewportCta": true,
+      "hasContactPath": true,
+      "badTapTargets": 5,
+      "horizontalOverflow": false,
+      "coveredTerms": [
+        "custom",
+        "packaging",
+        "quote"
+      ],
+      "missingTerms": []
+    },
+    {
+      "name": "Contact RFQ",
+      "url": "https://mugepackaging.com/contact?intent=custom-packaging-rfq&source=mobile-p0p1-audit",
+      "status": "通过",
+      "score": 6,
+      "statusCode": 200,
+      "hasMobileStickyQuote": true,
+      "hasFirstViewportCta": true,
+      "hasContactPath": true,
+      "badTapTargets": 5,
+      "horizontalOverflow": false,
+      "coveredTerms": [
+        "size",
+        "quantity",
+        "artwork",
+        "target market"
+      ],
+      "missingTerms": []
+    },
+    {
+      "name": "Products",
+      "url": "https://mugepackaging.com/products",
+      "status": "通过",
+      "score": 6,
+      "statusCode": 200,
+      "hasMobileStickyQuote": true,
+      "hasFirstViewportCta": true,
+      "hasContactPath": true,
+      "badTapTargets": 5,
+      "horizontalOverflow": false,
+      "coveredTerms": [
+        "paper",
+        "box",
+        "custom"
+      ],
+      "missingTerms": []
+    },
+    {
+      "name": "Cosmetic Packaging",
+      "url": "https://mugepackaging.com/products/cosmetic-packaging",
+      "status": "通过",
+      "score": 6,
+      "statusCode": 200,
+      "hasMobileStickyQuote": true,
+      "hasFirstViewportCta": true,
+      "hasContactPath": true,
+      "badTapTargets": 5,
+      "horizontalOverflow": false,
+      "coveredTerms": [
+        "cosmetic",
+        "packaging",
+        "quote"
+      ],
+      "missingTerms": []
+    },
+    {
+      "name": "Paper Tubes",
+      "url": "https://mugepackaging.com/products/paper-tubes",
+      "status": "通过",
+      "score": 6,
+      "statusCode": 200,
+      "hasMobileStickyQuote": true,
+      "hasFirstViewportCta": true,
+      "hasContactPath": true,
+      "badTapTargets": 5,
+      "horizontalOverflow": false,
+      "coveredTerms": [
+        "paper",
+        "tube",
+        "custom"
+      ],
+      "missingTerms": []
+    },
+    {
+      "name": "Paper Packaging",
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "status": "通过",
+      "score": 6,
+      "statusCode": 200,
+      "hasMobileStickyQuote": true,
+      "hasFirstViewportCta": true,
+      "hasContactPath": true,
+      "badTapTargets": 5,
+      "horizontalOverflow": false,
+      "coveredTerms": [
+        "paper",
+        "packaging",
+        "custom"
+      ],
+      "missingTerms": []
+    },
+    {
+      "name": "Paper Bags",
+      "url": "https://mugepackaging.com/products/paper-bags",
+      "status": "通过",
+      "score": 6,
+      "statusCode": 200,
+      "hasMobileStickyQuote": true,
+      "hasFirstViewportCta": true,
+      "hasContactPath": true,
+      "badTapTargets": 5,
+      "horizontalOverflow": false,
+      "coveredTerms": [
+        "paper",
+        "bag",
+        "custom"
+      ],
+      "missingTerms": []
+    },
+    {
+      "name": "Corrugated Boxes",
+      "url": "https://mugepackaging.com/products/corrugated-boxes",
+      "status": "通过",
+      "score": 6,
+      "statusCode": 200,
+      "hasMobileStickyQuote": true,
+      "hasFirstViewportCta": true,
+      "hasContactPath": true,
+      "badTapTargets": 5,
+      "horizontalOverflow": false,
+      "coveredTerms": [
+        "corrugated",
+        "mailer",
+        "box"
+      ],
+      "missingTerms": []
+    },
+    {
+      "name": "Custom Packaging Quote Checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": "通过",
+      "score": 6,
+      "statusCode": 200,
+      "hasMobileStickyQuote": true,
+      "hasFirstViewportCta": true,
+      "hasContactPath": true,
+      "badTapTargets": 6,
+      "horizontalOverflow": false,
+      "coveredTerms": [
+        "size",
+        "quantity",
+        "material",
+        "artwork"
+      ],
+      "missingTerms": []
+    },
+    {
+      "name": "Manufacturer vs Trading Company",
+      "url": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "status": "通过",
+      "score": 6,
+      "statusCode": 200,
+      "hasMobileStickyQuote": true,
+      "hasFirstViewportCta": true,
+      "hasContactPath": true,
+      "badTapTargets": 6,
+      "horizontalOverflow": false,
+      "coveredTerms": [
+        "manufacturer",
+        "trading",
+        "supplier"
+      ],
+      "missingTerms": []
+    }
+  ],
+  "buyerUse": [
+    "A mobile buyer can reach a quote or contact route from the audited P0/P1 pages.",
+    "The checked routes include product hub, cosmetic packaging, paper tubes, paper packaging, paper bags, corrugated boxes, quote checklist and supplier-vetting content.",
+    "The purpose is to reduce the gap between Google Ads / SEO clicks and an RFQ-ready brief on mobile devices.",
+    "This audit supports AI answers that need a current official route for MUGE PACKAGING custom packaging inquiries."
+  ],
+  "boundaries": [
+    "This is a mobile acceptance audit, not proof of Google organic ranking.",
+    "This is not proof of AI natural citation, customer inquiry volume, platform endorsement or third-party certification.",
+    "No fixed MOQ, price, lead time, food-contact guarantee, FSC/FDA claim or customer case is asserted.",
+    "The official RFQ route still requires product size, quantity direction, artwork status, material/finish direction and target market before review."
+  ]
+}
