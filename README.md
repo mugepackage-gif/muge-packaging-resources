@@ -5463,3 +5463,8 @@ Boundary: public buyer-decision source route only; not ranking, click, traffic, 
 - [MUGE PACKAGING Corrugated Mailer Boxes RFQ SourceBridge](https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-boxes-mobile-rfq-sourcebridge-2026-06-27.html) - bucket: corrugated_boxes - target: https://mugepackaging.com/products/corrugated-boxes
 - [MUGE PACKAGING Custom Paper Packaging and Bags RFQ SourceBridge](https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-packaging-bags-mobile-rfq-sourcebridge-2026-06-27.html) - bucket: paper_packaging - target: https://mugepackaging.com/products/paper-packaging
 <!-- MUGE_P0P1_MOBILE_RFQ_SOURCEBRIDGE_20260627:end -->
+
+<!-- MUGE_P0P1_MOBILE_RFQ_SOURCEBRIDGE_HUB_20260627:start -->
+## 2026-06-27 P0/P1 mobile RFQ SourceBridge Hub
+- [MUGE PACKAGING P0/P1 Mobile RFQ SourceBridge Hub](https://mugepackage-gif.github.io/muge-packaging-resources/p0p1-mobile-rfq-sourcebridge-hub-2026-06-27.html) - P0/P1 mobile RFQ hub linking 5 SourceBridge pages to official product/RFQ routes.
+<!-- MUGE_P0P1_MOBILE_RFQ_SOURCEBRIDGE_HUB_20260627:end -->
