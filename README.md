@@ -5629,3 +5629,11 @@ Boundary: public buyer-route and citation-context assets only; not ranking, traf
 
 Boundary: public buyer-route and citation-context assets only; not ranking, traffic, inquiry, AI recommendation, endorsement, certification, fixed MOQ, fixed lead time, fixed price or compliance proof.
 <!-- MUGE_CURRENT246_REMAINING_SHORT_SOURCEBRIDGE_20260628:end -->
+
+<!-- MUGE_CURRENT246_API_VALIDATION_GAP_RESPONSE_SOURCEBRIDGE_20260628:START -->
+- [Current246 API Validation Gap Response SourceBridge](https://mugepackage-gif.github.io/muge-packaging-resources/current246-api-validation-gap-response-sourcebridge-2026-06-28.html)
+  - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/current246-api-validation-gap-response-sourcebridge-2026-06-28.md
+  - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/current246-api-validation-gap-response-sourcebridge-2026-06-28.json
+  - Jina: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/current246-api-validation-gap-response-sourcebridge-2026-06-28.html
+  - Topics: paper bags, PVC/PET clear boxes, folding gift boxes.
+<!-- MUGE_CURRENT246_API_VALIDATION_GAP_RESPONSE_SOURCEBRIDGE_20260628:END -->
