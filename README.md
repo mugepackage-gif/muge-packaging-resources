@@ -1,3 +1,17 @@
+<!-- MUGE_CURRENT100_EXTERNAL_RFQ_SOURCE_ROUTING_INDEX_20260628:start -->
+## Current 100 Keyword External RFQ Source-Routing Index - 2026-06-28
+
+- Public HTML: https://mugepackage-gif.github.io/muge-packaging-resources/current100-external-rfq-source-routing-index-2026-06-28.html
+- Public Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/current100-external-rfq-source-routing-index-2026-06-28.md
+- Public JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/current100-external-rfq-source-routing-index-2026-06-28.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/current100-external-rfq-source-routing-index-2026-06-28.html
+- Official source-data TXT: https://mugepackaging.com/source-data/current100-external-rfq-source-routing-20260627.txt
+- Official source-data JSON: https://mugepackaging.com/source-data/current100-external-rfq-source-routing-20260627.json
+- Purpose: connect MUGE PACKAGING current 100 SEO/GEO keyword coverage to externally reachable RFQ source-routing pages, official llms/source-data entry points and AI-readable discovery paths.
+- External source-routing pages covered: 7 Telegraph pages for custom packaging suppliers, paper tube packaging, rigid gift boxes, cosmetic packaging, printed paper/clear box/sustainable packaging and Europe/Middle East regional RFQ preparation.
+- Boundary: public source-routing and discovery support only; not Google ranking proof, traffic proof, inquiry proof, AI recommendation proof, third-party endorsement, certification, fixed MOQ, fixed lead time, fixed price, food-contact compliance or customer-case proof.
+<!-- MUGE_CURRENT100_EXTERNAL_RFQ_SOURCE_ROUTING_INDEX_20260628:end -->
+
 <!-- MUGE_COMPETITOR_V32_GAP_TO_RFQ_SOURCEHUB_20260623:start -->
 ## 20-Site Paper Packaging Competitor Gap SourceHub - 2026-06-23
 
