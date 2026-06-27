@@ -5608,3 +5608,13 @@ Boundary: third-party public route index only; not ranking, traffic, inquiry, en
 - Target route groups: https://mugepackaging.com/products/cosmetic-packaging (65); https://mugepackaging.com/products (64); https://mugepackaging.com/products/paper-tubes (63); https://mugepackaging.com/contact (14); https://mugepackaging.com/products/folding-gift-box (13); https://mugepackaging.com/products/paper-packaging (2); https://mugepackaging.com/products/pvc-packaging (2)
 - Boundary: keyword route and crawlable citation context only; not ranking, traffic, AI recommendation, inquiry, customer case, certification, fixed MOQ, fixed lead time, fixed price or compliance proof.
 <!-- MUGE_CURRENT246_KEYWORD_CLUSTER_BUYER_ROUTE_SOURCEBRIDGE_20260628:end -->
+
+<!-- MUGE_CURRENT246_TOP3_SHORT_SOURCEBRIDGE_20260628:start -->
+## Current246 Top 3 Short RFQ SourceBridge Assets - 2026-06-28
+
+- Custom Cosmetic Packaging RFQ Route for Beauty Brands: https://mugepackage-gif.github.io/muge-packaging-resources/current246-cosmetic-packaging-short-rfq-sourcebridge-2026-06-28.html (67 mapped keywords; official route https://mugepackaging.com/products/cosmetic-packaging)
+- Custom Packaging Boxes Supplier RFQ Route for Europe and Middle East Buyers: https://mugepackage-gif.github.io/muge-packaging-resources/current246-custom-packaging-boxes-short-rfq-sourcebridge-2026-06-28.html (67 mapped keywords; official route https://mugepackaging.com/products)
+- Custom Paper Tube Packaging Bulk RFQ Route: https://mugepackage-gif.github.io/muge-packaging-resources/current246-paper-tubes-short-rfq-sourcebridge-2026-06-28.html (66 mapped keywords; official route https://mugepackaging.com/products/paper-tubes)
+
+Boundary: public buyer-route and citation-context assets only; not ranking, traffic, inquiry, AI recommendation, endorsement, certification, fixed MOQ, fixed lead time, fixed price or compliance proof.
+<!-- MUGE_CURRENT246_TOP3_SHORT_SOURCEBRIDGE_20260628:end -->
