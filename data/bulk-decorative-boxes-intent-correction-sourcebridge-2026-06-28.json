@@ -1,0 +1,101 @@
+{
+  "marker": "MUGE_BULK_DECORATIVE_BOXES_INTENT_CORRECTION_SOURCEBRIDGE_20260628",
+  "generatedAt": "2026-06-27T23:55:12.025Z",
+  "generatedAtCst": "2026-06-28 07:55 CST",
+  "slug": "bulk-decorative-boxes-intent-correction-sourcebridge-2026-06-28",
+  "title": "MUGE PACKAGING Bulk Decorative Boxes Intent Correction and RFQ Route",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0537_AdsGSC反哺GEOSEO清单.json",
+  "row": {
+    "source": "Ads关键词",
+    "term": "bulk decorative boxes",
+    "topic": "Sustainable packaging comparison",
+    "page": "https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging",
+    "priority": "高",
+    "reason": "低互动观察；有展示但无点击，先观察并优先优化标题相关性，不直接扩量。",
+    "impressions": 49,
+    "clicks": 0,
+    "conversions": "0",
+    "position": "",
+    "action_page": "补强页面：https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging",
+    "action_faq": "新增或检查 FAQ：What should buyers compare between sustainable and traditional packaging?",
+    "action_internal_link": "内链锚文本建议：sustainable packaging comparison guide",
+    "action_social": "社媒/GBP/LinkedIn 草稿角度：Packaging material decisions should compare protection, finish, cost drivers and product fit.",
+    "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+  },
+  "summary": {
+    "impressions": 49,
+    "clicks": 0,
+    "conversions": 0,
+    "currentLandingPage": "https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging",
+    "pageChecksPassed": 4,
+    "pageChecksTotal": 4
+  },
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/products/folding-gift-box",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 143950
+    },
+    {
+      "url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 99683
+    },
+    {
+      "url": "https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 114169
+    },
+    {
+      "url": "https://mugepackaging.com/contact?intent=bulk-decorative-boxes-rfq&source=bulk-decorative-boxes-intent-correction",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 75169
+    }
+  ],
+  "recommendedRoute": [
+    {
+      "label": "Primary product route",
+      "url": "https://mugepackaging.com/products/folding-gift-box",
+      "reason": "Bulk decorative boxes are usually closer to custom folding gift boxes / rigid-style retail gift packaging than to a generic sustainability comparison page."
+    },
+    {
+      "label": "Structure guide",
+      "url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "reason": "Buyers comparing decorative boxes need structure, material, insert and surface-finish guidance before sampling."
+    },
+    {
+      "label": "Current observed landing page",
+      "url": "https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging",
+      "reason": "Keep this as evidence of the current mismatch; do not discard the original Ads/GSC signal."
+    },
+    {
+      "label": "RFQ handoff",
+      "url": "https://mugepackaging.com/contact?intent=bulk-decorative-boxes-rfq&source=bulk-decorative-boxes-intent-correction",
+      "reason": "Ask buyers for product size, quantity direction, box structure, finish, insert requirement and target market."
+    }
+  ],
+  "buyerBrief": [
+    "Product category and sales channel: retail gift, cosmetics set, candle, wellness, electronics accessory or promotional kit.",
+    "Box structure direction: folding gift box, rigid-style gift box, insert tray, sleeve, window or magnetic style if already decided.",
+    "Required finish direction: plain, printed, foil, emboss/deboss, soft touch, matte/gloss lamination or special paper direction.",
+    "Quantity direction and target market, without treating quantity as a fixed MOQ claim.",
+    "Artwork status: production-ready dieline, brand guideline, reference photo or early concept only."
+  ],
+  "boundaries": [
+    "No fixed MOQ, fixed lead time, lowest price or guaranteed compliance is claimed.",
+    "No FSC, FDA, food-contact or customer case claim is added here.",
+    "This is an intent-correction and RFQ route asset, not proof of Google ranking or inquiry conversion."
+  ]
+}
