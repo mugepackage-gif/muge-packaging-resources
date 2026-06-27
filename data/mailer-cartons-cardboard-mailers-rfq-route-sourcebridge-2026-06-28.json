@@ -1,0 +1,175 @@
+{
+  "marker": "MUGE_MAILER_CARTONS_CARDBOARD_MAILERS_RFQ_ROUTE_20260628",
+  "generatedAt": "2026-06-27T22:19:58.303Z",
+  "generatedAtCst": "2026-06-28_0619 CST",
+  "slug": "mailer-cartons-cardboard-mailers-rfq-route-sourcebridge-2026-06-28",
+  "title": "MUGE PACKAGING Mailer Cartons and Cardboard Mailers RFQ Route",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0537_AdsGSC反哺GEOSEO清单.json",
+  "summary": {
+    "selectedTerms": 5,
+    "impressions": 985,
+    "clicks": 28,
+    "conversions": 0,
+    "pageChecksPassed": 4,
+    "pageChecksTotal": 5
+  },
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "mailer cartons",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "高",
+      "reason": "检查搜索词和落地页，不提价；已有较多点击但无转化，优先查搜索词意图、落地页承接和表单，不应先加价抢排名。",
+      "impressions": 256,
+      "clicks": 9,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    },
+    {
+      "source": "Ads关键词",
+      "term": "plain mailer boxes",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "高",
+      "reason": "覆盖不足，先等数据；搜索展示份额偏低但还没有转化证据，当前不适合主动加价。",
+      "impressions": 512,
+      "clicks": 7,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    },
+    {
+      "source": "Ads搜索词",
+      "term": "simply cartons",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "高",
+      "reason": "mailer cartons 相关搜索词；保留观察；当前数据不足，暂不修改",
+      "impressions": 4,
+      "clicks": 5,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    },
+    {
+      "source": "Ads关键词",
+      "term": "cardboard mailers",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "高",
+      "reason": "覆盖不足，先等数据；搜索展示份额偏低但还没有转化证据，当前不适合主动加价。",
+      "impressions": 128,
+      "clicks": 4,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    },
+    {
+      "source": "Ads关键词",
+      "term": "shipping mailer boxes",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "高",
+      "reason": "覆盖不足，先等数据；搜索展示份额偏低但还没有转化证据，当前不适合主动加价。",
+      "impressions": 85,
+      "clicks": 3,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/contact",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasMailer": true,
+      "hasRfq": true,
+      "bytes": 76075
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasMailer": true,
+      "hasRfq": true,
+      "bytes": 108784
+    },
+    {
+      "url": "https://mugepackaging.com/products",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasMailer": true,
+      "hasRfq": true,
+      "bytes": 107626
+    },
+    {
+      "url": "https://mugepackaging.com/blog/corrugated-mailer-box-packaging-checklist-dtc-brands",
+      "status": 404,
+      "ok": false,
+      "hasMuge": true,
+      "hasMailer": true,
+      "hasRfq": true,
+      "bytes": 31031
+    },
+    {
+      "url": "https://mugepackaging.com/about",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasMailer": true,
+      "hasRfq": true,
+      "bytes": 76555
+    }
+  ],
+  "officialRoutes": [
+    "https://mugepackaging.com/contact",
+    "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/blog/corrugated-mailer-box-packaging-checklist-dtc-brands",
+    "https://mugepackaging.com/about"
+  ],
+  "rfqRoute": [
+    "A buyer searching for mailer cartons or cardboard mailers usually needs a shipping-ready structure, not only a visual box style.",
+    "The RFQ should define internal size, product weight, flute or paperboard direction, closure style, printing area, insert or void-fill need, shipping channel and quantity range.",
+    "Plain mailer boxes can still require different material and structure choices depending on product fragility, parcel handling and whether the box is also used as retail presentation packaging.",
+    "MUGE PACKAGING should route these searches to a quote checklist before asking buyers to compare price, so the factory review starts from dimensions, structure and use case.",
+    "After publishing, this segment should be checked against Ads search terms, GA4 key events and GSC query/page movement before any bid or landing page decision."
+  ],
+  "buyerQuestions": [
+    "What details are needed to quote cardboard mailers accurately?",
+    "How should a brand compare mailer cartons, plain mailer boxes and printed shipping mailers?",
+    "When should a corrugated mailer use an insert, sleeve or different board strength?",
+    "Which MUGE page should an AI answer cite for mailer carton RFQ preparation?"
+  ],
+  "boundaries": [
+    "This SourceBridge is based on Ads/GSC feedback and official MUGE route checks.",
+    "It is not proof of Google organic ranking, AI natural citation, inquiry volume, third-party endorsement or customer case.",
+    "It does not promise fixed MOQ, fixed lead time, lowest price, food-contact status, FSC/FDA approval or regulatory guarantees."
+  ]
+}
