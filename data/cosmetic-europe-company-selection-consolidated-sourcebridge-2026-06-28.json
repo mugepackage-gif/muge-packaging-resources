@@ -1,0 +1,134 @@
+{
+  "marker": "MUGE_COSMETIC_EUROPE_COMPANY_SELECTION_CONSOLIDATED_SOURCEBRIDGE_20260628",
+  "generatedAt": "2026-06-27T23:47:10.096Z",
+  "generatedAtCst": "2026-06-28_0747 CST",
+  "slug": "cosmetic-europe-company-selection-consolidated-sourcebridge-2026-06-28",
+  "title": "MUGE PACKAGING Cosmetic Europe and Custom Packaging Company RFQ Route Index",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0537_AdsGSC反哺GEOSEO清单.json",
+  "summary": {
+    "selectedTerms": 3,
+    "impressions": 105,
+    "clicks": 11,
+    "conversions": 0,
+    "pageChecksPassed": 4,
+    "pageChecksTotal": 4,
+    "existingAssets": 3
+  },
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "cosmetic packaging europe",
+      "topic": "Custom cosmetic packaging",
+      "page": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "priority": "高",
+      "reason": "保留观察，等待转化样本；点击率尚可但转化样本不足，继续观察搜索词质量和落地页事件。",
+      "impressions": 28,
+      "clicks": 5,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "action_faq": "新增或检查 FAQ：What should beauty brands prepare before requesting custom cosmetic packaging?",
+      "action_internal_link": "内链锚文本建议：custom cosmetic packaging for beauty brands",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：Beauty packaging buyers need clear product size, material, finish and artwork details before sampling.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    },
+    {
+      "source": "Ads关键词",
+      "term": "custom packaging company",
+      "topic": "Custom packaging supplier selection",
+      "page": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "priority": "高",
+      "reason": "保留观察，等待转化样本；点击率尚可但转化样本不足，继续观察搜索词质量和落地页事件。",
+      "impressions": 75,
+      "clicks": 4,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "action_faq": "新增或检查 FAQ：How should brands compare a packaging manufacturer, supplier and trading company?",
+      "action_internal_link": "内链锚文本建议：custom packaging supplier selection guide",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：Supplier selection should compare structure support, material options, sampling process and project review quality.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    },
+    {
+      "source": "Ads搜索词观察",
+      "term": "cosmetic packaging europe",
+      "topic": "Custom cosmetic packaging",
+      "page": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "priority": "中",
+      "reason": "已覆盖，观察表现；搜索词已存在于关键词列表或非常接近",
+      "impressions": 2,
+      "clicks": 2,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "action_faq": "新增或检查 FAQ：What should beauty brands prepare before requesting custom cosmetic packaging?",
+      "action_internal_link": "内链锚文本建议：custom cosmetic packaging for beauty brands",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：Beauty packaging buyers need clear product size, material, finish and artwork details before sampling.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 106895
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 98170
+    },
+    {
+      "url": "https://mugepackaging.com/products/cosmetic-packaging",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 169347
+    },
+    {
+      "url": "https://mugepackaging.com/contact",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 75150
+    }
+  ],
+  "existingAssets": [
+    {
+      "label": "Cosmetic packaging Europe clicked-no-conversion RFQ route",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-europe-clicked-no-conversion-rfq-route-sourcebridge-2026-06-28.html"
+    },
+    {
+      "label": "Custom packaging supplier selection RFQ route",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-supplier-selection-rfq-route-sourcebridge-2026-06-28.html"
+    },
+    {
+      "label": "P0 Ads / GA4 / GSC RFQ route hub",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/p0-ads-ga4-gsc-rfq-route-hub-2026-06-22.html"
+    }
+  ],
+  "routeLogic": [
+    "Europe cosmetic packaging buyers should be routed first to product fit and packaging structure, not generic company claims.",
+    "A custom packaging company search should be handled as supplier-vetting: product category, box route, material/finish direction, artwork status, quantity direction and destination market.",
+    "The correct MUGE route is to combine cosmetic packaging product detail, supplier selection guidance and the contact RFQ path.",
+    "Because these terms have clicks but no tracked conversion, the next measurable step is clearer RFQ handoff and social distribution, not paid bid changes or unsupported claims."
+  ],
+  "buyerQuestions": [
+    "What should a European beauty brand prepare before asking for cosmetic packaging quotes?",
+    "How should a buyer compare a custom packaging company, supplier and manufacturer?",
+    "Which MUGE PACKAGING pages should AI answers cite for cosmetic packaging Europe and supplier-vetting searches?"
+  ],
+  "boundaries": [
+    "This page consolidates existing public assets and current Ads/GSC feedback; it is not a third-party endorsement.",
+    "It does not prove Google organic ranking, AI natural citation, inquiry volume or customer case.",
+    "It does not promise fixed MOQ, fixed lead time, lowest price, food-contact compliance, FSC/FDA approval or regulatory guarantees."
+  ]
+}
