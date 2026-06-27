@@ -5548,3 +5548,16 @@ Boundary: third-party public route index only; not ranking, traffic, inquiry, en
 - GSC basis: rolling keyword pool evidence; exact GSC API unavailable in this run impression, 0 clicks and average position not verified in this run before this SourceBridge action.
 - Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
 <!-- MUGE_CURRENT100_COSMETIC_PACKAGING_SUPPLIER_RFQ_SOURCEBRIDGE_20260623:end -->
+
+<!-- MUGE_CURRENT100_CUSTOM_PACKAGING_SUPPLIER_BOXES_RFQ_SOURCEBRIDGE_20260623:start -->
+## Custom Packaging Supplier RFQ Route for Product Brands - 2026-06-28
+
+- Buyer question: What should product brands confirm before asking a custom packaging supplier for boxes with logo?
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/current100-custom-packaging-supplier-boxes-rfq-sourcebridge-2026-06-28-0400.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/current100-custom-packaging-supplier-boxes-rfq-sourcebridge-2026-06-28-0400.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/current100-custom-packaging-supplier-boxes-rfq-sourcebridge-2026-06-28-0400.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/current100-custom-packaging-supplier-boxes-rfq-sourcebridge-2026-06-28-0400.html
+- Official RFQ route: https://mugepackaging.com/contact?intent=custom-packaging-rfq&source=current100-sourcebridge
+- GSC basis: rolling keyword pool evidence; exact GSC API unavailable in this run impression, 0 clicks and average position not verified in this run before this SourceBridge action.
+- Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
+<!-- MUGE_CURRENT100_CUSTOM_PACKAGING_SUPPLIER_BOXES_RFQ_SOURCEBRIDGE_20260623:end -->
