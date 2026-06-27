@@ -5574,3 +5574,14 @@ Boundary: third-party public route index only; not ranking, traffic, inquiry, en
 - GSC basis: rolling keyword pool evidence; exact GSC API unavailable in this run impression, 0 clicks and average position not verified in this run before this SourceBridge action.
 - Boundary: RFQ routing and buyer brief preparation only; not ranking, traffic, AI recommendation, inquiry, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
 <!-- MUGE_CURRENT100_CONTACT_BUYER_QUESTIONS_RFQ_SOURCEBRIDGE_20260623:end -->
+
+<!-- MUGE_CURRENT100_FIVE_RFQ_SOURCEBRIDGE_INDEX_20260628:start -->
+## Current100 Five RFQ SourceBridge Index - 2026-06-28
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/current100-five-rfq-sourcebridge-index-2026-06-28.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/current100-five-rfq-sourcebridge-index-2026-06-28.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/current100-five-rfq-sourcebridge-index-2026-06-28.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/current100-five-rfq-sourcebridge-index-2026-06-28.html
+- Buckets: paper_tubes, rigid_gift_boxes, cosmetic_packaging, products_overview, contact_buyer_questions
+- Boundary: RFQ routing and crawlable discovery only; not ranking, traffic, inquiry, AI recommendation, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
+<!-- MUGE_CURRENT100_FIVE_RFQ_SOURCEBRIDGE_INDEX_20260628:end -->

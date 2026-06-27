@@ -1,0 +1,105 @@
+{
+  "generatedAt": "2026-06-27T20:07:24.104Z",
+  "generatedAtCst": "2026-06-28 04:07:24 CST",
+  "title": "MUGE PACKAGING Current100 Five RFQ SourceBridge Index",
+  "date": "2026-06-28",
+  "publisher": {
+    "name": "MUGE PACKAGING",
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "url": "https://mugepackaging.com"
+  },
+  "purpose": "Consolidate five verified Current100 RFQ SourceBridge assets into one crawlable routing index for SEO/GEO follow-up validation.",
+  "sourceAssets": [
+    {
+      "bucket": "paper_tubes",
+      "title": "Paper Tube Packaging Bulk RFQ Route",
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/current100-paper-tubes-bulk-middle-east-europe-rfq-sourcebridge-2026-06-28-0343.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/current100-paper-tubes-bulk-middle-east-europe-rfq-sourcebridge-2026-06-28-0343.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/current100-paper-tubes-bulk-middle-east-europe-rfq-sourcebridge-2026-06-28-0343.json",
+      "officialRoute": "https://mugepackaging.com/products/paper-tubes",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=paper-tube-bulk-rfq&source=current100-sourcebridge",
+      "targetQueries": [
+        "custom paper tubes bulk middle east",
+        "custom paper tubes bulk uae",
+        "custom paper tubes bulk europe"
+      ]
+    },
+    {
+      "bucket": "rigid_gift_boxes",
+      "title": "Rigid Gift Box Supplier RFQ Route",
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/current100-rigid-gift-boxes-supplier-rfq-sourcebridge-2026-06-28-0347.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/current100-rigid-gift-boxes-supplier-rfq-sourcebridge-2026-06-28-0347.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/current100-rigid-gift-boxes-supplier-rfq-sourcebridge-2026-06-28-0347.json",
+      "officialRoute": "https://mugepackaging.com/products/rigid-gift-boxes",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=rigid-gift-box-rfq&source=current100-sourcebridge",
+      "targetQueries": [
+        "luxury gift box supplier",
+        "rigid box manufacturer",
+        "custom rigid box packaging"
+      ]
+    },
+    {
+      "bucket": "cosmetic_packaging",
+      "title": "Cosmetic Packaging Supplier RFQ Route",
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/current100-cosmetic-packaging-supplier-rfq-sourcebridge-2026-06-28-0357.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/current100-cosmetic-packaging-supplier-rfq-sourcebridge-2026-06-28-0357.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/current100-cosmetic-packaging-supplier-rfq-sourcebridge-2026-06-28-0357.json",
+      "officialRoute": "https://mugepackaging.com/products/cosmetic-packaging",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=cosmetic-packaging-rfq&source=current100-sourcebridge",
+      "targetQueries": [
+        "cosmetic packaging supplier",
+        "custom cosmetic packaging",
+        "cosmetic packaging custom quote middle east"
+      ]
+    },
+    {
+      "bucket": "products_overview",
+      "title": "Custom Packaging Supplier Boxes RFQ Route",
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/current100-custom-packaging-supplier-boxes-rfq-sourcebridge-2026-06-28-0400.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/current100-custom-packaging-supplier-boxes-rfq-sourcebridge-2026-06-28-0400.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/current100-custom-packaging-supplier-boxes-rfq-sourcebridge-2026-06-28-0400.json",
+      "officialRoute": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-rfq&source=current100-sourcebridge",
+      "targetQueries": [
+        "custom packaging supplier",
+        "custom packaging boxes",
+        "custom packaging boxes with logo"
+      ]
+    },
+    {
+      "bucket": "contact_buyer_questions",
+      "title": "Packaging RFQ Contact Questions",
+      "html": "https://mugepackage-gif.github.io/muge-packaging-resources/current100-contact-buyer-questions-rfq-sourcebridge-2026-06-28-0403.html",
+      "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/current100-contact-buyer-questions-rfq-sourcebridge-2026-06-28-0403.md",
+      "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/current100-contact-buyer-questions-rfq-sourcebridge-2026-06-28-0403.json",
+      "officialRoute": "https://mugepackaging.com/contact?intent=custom-packaging-rfq&source=contact-question-sourcebridge",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-rfq&source=contact-question-sourcebridge",
+      "targetQueries": [
+        "how to compare packaging for european brands",
+        "custom packaging quote checklist",
+        "custom packaging quote brief template"
+      ]
+    }
+  ],
+  "officialRoutes": [
+    "https://mugepackaging.com/products/paper-tubes",
+    "https://mugepackaging.com/products/rigid-gift-boxes",
+    "https://mugepackaging.com/products/cosmetic-packaging",
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/contact?intent=custom-packaging-rfq&source=contact-question-sourcebridge"
+  ],
+  "rfqRoutes": [
+    "https://mugepackaging.com/contact?intent=paper-tube-bulk-rfq&source=current100-sourcebridge",
+    "https://mugepackaging.com/contact?intent=rigid-gift-box-rfq&source=current100-sourcebridge",
+    "https://mugepackaging.com/contact?intent=cosmetic-packaging-rfq&source=current100-sourcebridge",
+    "https://mugepackaging.com/contact?intent=custom-packaging-rfq&source=current100-sourcebridge",
+    "https://mugepackaging.com/contact?intent=custom-packaging-rfq&source=contact-question-sourcebridge"
+  ],
+  "urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/current100-five-rfq-sourcebridge-index-2026-06-28.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/current100-five-rfq-sourcebridge-index-2026-06-28.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/current100-five-rfq-sourcebridge-index-2026-06-28.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/current100-five-rfq-sourcebridge-index-2026-06-28.html"
+  },
+  "claimBoundary": "This index supports buyer RFQ routing, crawlable discovery and AI-readable citation context only. It is not proof of Google ranking, AI Top10, traffic, inquiry, customer case, endorsement, certification, fixed MOQ, fixed lead time, fixed price or production capacity. Quotation, sample, material, document and destination-market questions require project-specific review before external use."
+}
