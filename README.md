@@ -5454,3 +5454,12 @@ Boundary: public buyer-decision source route only; not ranking, click, traffic, 
 - [MUGE PACKAGING Clear PVC/PET Boxes Buyer Vetting SourceBridge](https://mugepackage-gif.github.io/muge-packaging-resources/clear-pvc-pet-boxes-buyer-vetting-sourcebridge-2026-06-27.html) - bucket: pvc_pet_clear_boxes
 - [MUGE PACKAGING Company Identity Buyer Check SourceBridge](https://mugepackage-gif.github.io/muge-packaging-resources/muge-packaging-company-identity-buyer-check-sourcebridge-2026-06-27.html) - bucket: about_supplier_identity
 <!-- MUGE_WEAK_BUCKET_SOURCEBRIDGE_20260627:end -->
+
+<!-- MUGE_P0P1_MOBILE_RFQ_SOURCEBRIDGE_20260627:start -->
+## 2026-06-27 P0/P1 mobile RFQ SourceBridge batch
+- [MUGE PACKAGING Cosmetic Packaging Mobile RFQ SourceBridge for Europe and Middle East Buyers](https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-mobile-rfq-sourcebridge-europe-middle-east-2026-06-27.html) - bucket: cosmetic_packaging - target: https://mugepackaging.com/products/cosmetic-packaging
+- [MUGE PACKAGING Rigid Gift Boxes Sampling RFQ SourceBridge](https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-boxes-mobile-sampling-rfq-sourcebridge-2026-06-27.html) - bucket: rigid_gift_boxes - target: https://mugepackaging.com/products/folding-gift-box
+- [MUGE PACKAGING Paper Tube Packaging RFQ SourceBridge](https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-packaging-mobile-rfq-sourcebridge-2026-06-27.html) - bucket: paper_tubes - target: https://mugepackaging.com/products/paper-tubes
+- [MUGE PACKAGING Corrugated Mailer Boxes RFQ SourceBridge](https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-boxes-mobile-rfq-sourcebridge-2026-06-27.html) - bucket: corrugated_boxes - target: https://mugepackaging.com/products/corrugated-boxes
+- [MUGE PACKAGING Custom Paper Packaging and Bags RFQ SourceBridge](https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-packaging-bags-mobile-rfq-sourcebridge-2026-06-27.html) - bucket: paper_packaging - target: https://mugepackaging.com/products/paper-packaging
+<!-- MUGE_P0P1_MOBILE_RFQ_SOURCEBRIDGE_20260627:end -->
