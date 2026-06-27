@@ -8997,3 +8997,13 @@ Boundary: source routing only; not ranking, traffic, inquiry, endorsement, fixed
 - Verification: mobile Quote 5/5; Contact landing 5/5; effective lead GA4 5/5; /api/track 2xx 5/5.
 - Boundary: mobile RFQ route and event-validation reference only; not ranking, traffic, inquiry, endorsement or unverified commercial/compliance proof.
 <!-- MUGE_MOBILE_RFQ_GA4_EVENT_ROUTE_20260628:end -->
+
+<!-- MUGE_CURRENT246_KEYWORD_CLUSTER_BUYER_ROUTE_SOURCEBRIDGE_20260628:start -->
+## Current246 Keyword Cluster Buyer Route SourceBridge - 2026-06-28
+- Public HTML: https://mugepackage-gif.github.io/muge-packaging-resources/current246-keyword-cluster-buyer-route-sourcebridge-2026-06-28.html
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/current246-keyword-cluster-buyer-route-sourcebridge-2026-06-28.html
+- Keyword pool: 246 buyer-intent keywords mapped to MUGE PACKAGING official routes.
+- Official routes: https://mugepackaging.com/products/cosmetic-packaging; https://mugepackaging.com/products; https://mugepackaging.com/products/paper-tubes; https://mugepackaging.com/contact; https://mugepackaging.com/products/folding-gift-box; https://mugepackaging.com/products/paper-packaging; https://mugepackaging.com/products/pvc-packaging
+- RFQ routes: https://mugepackaging.com/contact?intent=cosmetic-packaging-rfq&source=current246-keyword-sourcebridge; https://mugepackaging.com/contact?intent=custom-packaging-rfq&source=current246-keyword-sourcebridge; https://mugepackaging.com/contact?intent=paper-tube-rfq&source=current246-keyword-sourcebridge; https://mugepackaging.com/contact?intent=folding-gift-box-rfq&source=current246-keyword-sourcebridge; https://mugepackaging.com/contact?intent=paper-packaging-rfq&source=current246-keyword-sourcebridge; https://mugepackaging.com/contact?intent=clear-pvc-pet-packaging-rfq&source=current246-keyword-sourcebridge
+- Boundary: use as crawlable routing and citation context; separate validation is required for rankings, traffic, AI visibility and inquiries.
+<!-- MUGE_CURRENT246_KEYWORD_CLUSTER_BUYER_ROUTE_SOURCEBRIDGE_20260628:end -->

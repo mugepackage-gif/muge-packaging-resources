@@ -5596,3 +5596,15 @@ Boundary: third-party public route index only; not ranking, traffic, inquiry, en
 - Verification: mobile Quote 5/5; Contact landing 5/5; effective lead GA4 5/5; /api/track 2xx 5/5.
 - Boundary: mobile RFQ route and event-validation reference only; not ranking, traffic, inquiry, endorsement or unverified commercial/compliance proof.
 <!-- MUGE_MOBILE_RFQ_GA4_EVENT_ROUTE_20260628:end -->
+
+<!-- MUGE_CURRENT246_KEYWORD_CLUSTER_BUYER_ROUTE_SOURCEBRIDGE_20260628:start -->
+## Current246 Keyword Cluster Buyer Route SourceBridge - 2026-06-28
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/current246-keyword-cluster-buyer-route-sourcebridge-2026-06-28.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/current246-keyword-cluster-buyer-route-sourcebridge-2026-06-28.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/current246-keyword-cluster-buyer-route-sourcebridge-2026-06-28.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/current246-keyword-cluster-buyer-route-sourcebridge-2026-06-28.html
+- Keyword pool: 246 total (23 hard validation, 143 execution, 80 GEO questions)
+- Target route groups: https://mugepackaging.com/products/cosmetic-packaging (65); https://mugepackaging.com/products (64); https://mugepackaging.com/products/paper-tubes (63); https://mugepackaging.com/contact (14); https://mugepackaging.com/products/folding-gift-box (13); https://mugepackaging.com/products/paper-packaging (2); https://mugepackaging.com/products/pvc-packaging (2)
+- Boundary: keyword route and crawlable citation context only; not ranking, traffic, AI recommendation, inquiry, customer case, certification, fixed MOQ, fixed lead time, fixed price or compliance proof.
+<!-- MUGE_CURRENT246_KEYWORD_CLUSTER_BUYER_ROUTE_SOURCEBRIDGE_20260628:end -->
