@@ -1,0 +1,70 @@
+{
+  "generatedAt": "2026-06-27T20:24:11.882Z",
+  "generatedAtCst": "2026-06-28 04:24:11 CST",
+  "title": "MUGE PACKAGING Mobile RFQ Route and GA4 Event SourceBridge",
+  "evidencePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GA4事件验证/2026-06-28_0422_移动端Sticky_RFQ_GA4网络复验.json",
+  "summary": {
+    "total": 5,
+    "pagesWithQuote": 5,
+    "pagesWithContactLanding": 5,
+    "pagesWithStickyGa": 0,
+    "pagesWithQuoteContactGa": 5,
+    "pagesWithEffectiveLeadGa": 5,
+    "pagesWithApiTrack2xx": 5,
+    "pagesWithLeadApiTrack": 0
+  },
+  "routes": [
+    {
+      "label": "Cosmetic packaging",
+      "officialUrl": "https://mugepackaging.com/products/cosmetic-packaging",
+      "quoteHref": "/contact?intent=cosmetic-packaging-rfq&source=mobile-sticky-products-cosmetic-packaging",
+      "contactLanding": true,
+      "effectiveLeadGaCount": 1,
+      "apiTrack2xxCount": 4
+    },
+    {
+      "label": "Paper tubes",
+      "officialUrl": "https://mugepackaging.com/products/paper-tubes",
+      "quoteHref": "/contact?intent=paper-tube-rfq&source=mobile-sticky-products-paper-tubes",
+      "contactLanding": true,
+      "effectiveLeadGaCount": 1,
+      "apiTrack2xxCount": 3
+    },
+    {
+      "label": "Paper packaging",
+      "officialUrl": "https://mugepackaging.com/products/paper-packaging",
+      "quoteHref": "/contact?intent=paper-packaging-rfq&source=mobile-sticky-products-paper-packaging",
+      "contactLanding": true,
+      "effectiveLeadGaCount": 1,
+      "apiTrack2xxCount": 3
+    },
+    {
+      "label": "Folding gift box",
+      "officialUrl": "https://mugepackaging.com/products/folding-gift-box",
+      "quoteHref": "/contact?intent=rigid-gift-box-rfq&source=mobile-sticky-products-folding-gift-box",
+      "contactLanding": true,
+      "effectiveLeadGaCount": 1,
+      "apiTrack2xxCount": 3
+    },
+    {
+      "label": "Corrugated boxes",
+      "officialUrl": "https://mugepackaging.com/products/corrugated-boxes",
+      "quoteHref": "/contact?intent=corrugated-box-rfq&source=mobile-sticky-products-corrugated-boxes",
+      "contactLanding": true,
+      "effectiveLeadGaCount": 1,
+      "apiTrack2xxCount": 3
+    }
+  ],
+  "claimBoundaries": [
+    "This SourceBridge is a mobile RFQ routing and event-validation reference, not proof of Google ranking, AI Top10 visibility, organic traffic volume, customer inquiry volume or customer endorsement.",
+    "GA4 network validation confirms that event requests were emitted during the verification run; it does not publish personal data or guarantee future conversions.",
+    "No fixed MOQ, fixed lead time, lowest-price, production-capacity, customer-case, certification or market-compliance claim is made.",
+    "Quotation, schedule, regulated-use and destination-market document questions require project-specific manual review by MUGE PACKAGING."
+  ],
+  "urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/mobile-rfq-ga4-event-route-sourcebridge-2026-06-28-0424.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/mobile-rfq-ga4-event-route-sourcebridge-2026-06-28-0424.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/mobile-rfq-ga4-event-route-sourcebridge-2026-06-28-0424.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/mobile-rfq-ga4-event-route-sourcebridge-2026-06-28-0424.html"
+  }
+}

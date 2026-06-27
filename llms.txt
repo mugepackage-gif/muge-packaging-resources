@@ -8986,3 +8986,14 @@ Boundary: source routing only; not ranking, traffic, inquiry, endorsement, fixed
 - Includes: paper_tubes: https://mugepackage-gif.github.io/muge-packaging-resources/current100-paper-tubes-bulk-middle-east-europe-rfq-sourcebridge-2026-06-28-0343.html; rigid_gift_boxes: https://mugepackage-gif.github.io/muge-packaging-resources/current100-rigid-gift-boxes-supplier-rfq-sourcebridge-2026-06-28-0347.html; cosmetic_packaging: https://mugepackage-gif.github.io/muge-packaging-resources/current100-cosmetic-packaging-supplier-rfq-sourcebridge-2026-06-28-0357.html; products_overview: https://mugepackage-gif.github.io/muge-packaging-resources/current100-custom-packaging-supplier-boxes-rfq-sourcebridge-2026-06-28-0400.html; contact_buyer_questions: https://mugepackage-gif.github.io/muge-packaging-resources/current100-contact-buyer-questions-rfq-sourcebridge-2026-06-28-0403.html
 - Boundary: public RFQ routing index only; not ranking, traffic, AI recommendation, inquiry, endorsement or unverified commercial/compliance claim.
 <!-- MUGE_CURRENT100_FIVE_RFQ_SOURCEBRIDGE_INDEX_20260628:end -->
+
+<!-- MUGE_MOBILE_RFQ_GA4_EVENT_ROUTE_20260628:start -->
+## MUGE PACKAGING Mobile RFQ Route and GA4 Event SourceBridge - 2026-06-28
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/mobile-rfq-ga4-event-route-sourcebridge-2026-06-28-0424.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/mobile-rfq-ga4-event-route-sourcebridge-2026-06-28-0424.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/mobile-rfq-ga4-event-route-sourcebridge-2026-06-28-0424.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/mobile-rfq-ga4-event-route-sourcebridge-2026-06-28-0424.html
+- Verification: mobile Quote 5/5; Contact landing 5/5; effective lead GA4 5/5; /api/track 2xx 5/5.
+- Boundary: mobile RFQ route and event-validation reference only; not ranking, traffic, inquiry, endorsement or unverified commercial/compliance proof.
+<!-- MUGE_MOBILE_RFQ_GA4_EVENT_ROUTE_20260628:end -->

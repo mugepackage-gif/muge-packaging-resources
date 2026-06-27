@@ -5585,3 +5585,14 @@ Boundary: third-party public route index only; not ranking, traffic, inquiry, en
 - Buckets: paper_tubes, rigid_gift_boxes, cosmetic_packaging, products_overview, contact_buyer_questions
 - Boundary: RFQ routing and crawlable discovery only; not ranking, traffic, inquiry, AI recommendation, endorsement, certification, fixed MOQ, fixed lead time, fixed price, production capacity or compliance proof.
 <!-- MUGE_CURRENT100_FIVE_RFQ_SOURCEBRIDGE_INDEX_20260628:end -->
+
+<!-- MUGE_MOBILE_RFQ_GA4_EVENT_ROUTE_20260628:start -->
+## MUGE PACKAGING Mobile RFQ Route and GA4 Event SourceBridge - 2026-06-28
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/mobile-rfq-ga4-event-route-sourcebridge-2026-06-28-0424.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/mobile-rfq-ga4-event-route-sourcebridge-2026-06-28-0424.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/mobile-rfq-ga4-event-route-sourcebridge-2026-06-28-0424.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/mobile-rfq-ga4-event-route-sourcebridge-2026-06-28-0424.html
+- Verification: mobile Quote 5/5; Contact landing 5/5; effective lead GA4 5/5; /api/track 2xx 5/5.
+- Boundary: mobile RFQ route and event-validation reference only; not ranking, traffic, inquiry, endorsement or unverified commercial/compliance proof.
+<!-- MUGE_MOBILE_RFQ_GA4_EVENT_ROUTE_20260628:end -->
