@@ -1,0 +1,82 @@
+{
+  "marker": "MUGE_PAK_PACKAGES_INTENT_CORRECTION_SOURCEBRIDGE_20260628",
+  "title": "MUGE PACKAGING Pak Packages Intent Correction RFQ Route",
+  "term": "pak packages",
+  "generatedAt": "2026-06-28T01:26:23.223Z",
+  "generatedAtCst": "2026-06-28 09:26 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0537_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads搜索词观察",
+      "term": "pak packages",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "中",
+      "reason": "保留观察；当前数据不足，暂不修改",
+      "impressions": 6,
+      "clicks": 2,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Product category selector",
+      "url": "https://mugepackaging.com/products",
+      "reason": "Use when the query is broad or misspelled and the buyer needs to choose the right packaging category first."
+    },
+    {
+      "label": "Custom packaging quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Use to prepare size, quantity range, material direction, artwork status and sales channel before requesting a quote."
+    },
+    {
+      "label": "General packaging RFQ handoff",
+      "url": "https://mugepackaging.com/contact?intent=pak-packages-intent-correction-rfq&source=pak-packages-sourcebridge",
+      "reason": "Use after the buyer clarifies whether they need product packaging, shipping mailers, gift boxes, cosmetic boxes, paper tubes, clear boxes or paper bags."
+    }
+  ],
+  "decisions": [
+    "Is the query a misspelling of pack packages, packaging packages, product packaging or custom packaging?",
+    "Which structure does the buyer need: paper box, rigid gift box, corrugated mailer, cosmetic box, paper tube, clear box or paper bag?",
+    "Can the buyer provide product dimensions, packed weight, quantity range, material direction and artwork status?",
+    "Is the need for retail display, shipping protection, product launch packaging or sample review?",
+    "Which claims, certifications, delivery expectations or compliance needs must remain buyer-confirmed before quoting?"
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/products",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 106701
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/contact?intent=pak-packages-intent-correction-rfq&source=pak-packages-sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75155
+    }
+  ],
+  "summary": {
+    "impressions": 6,
+    "clicks": 2,
+    "conversions": 0,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  }
+}
