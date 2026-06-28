@@ -1,0 +1,88 @@
+{
+  "marker": "custom-box-solutions-rfq-route-sourcebridge-2026-06-28-1250",
+  "title": "Custom Box Solutions RFQ Route for Ecommerce and Retail Buyers",
+  "term": "custom box solutions",
+  "generatedAt": "2026-06-28T04:47:17.519Z",
+  "generatedAtCst": "2026-06-28 12:47 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0920_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "custom box solutions",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "高",
+      "reason": "数据不足，继续跑；当前展示、点击或转化样本不足，暂不修改。",
+      "impressions": 203,
+      "clicks": 5,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Official contact route",
+      "url": "https://mugepackaging.com/contact?intent=custom-box-solutions-rfq&source=custom-box-solutions-sourcebridge"
+    },
+    {
+      "label": "Custom packaging quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+    },
+    {
+      "label": "Paper packaging product route",
+      "url": "https://mugepackaging.com/products/paper-packaging"
+    },
+    {
+      "label": "Corrugated boxes route",
+      "url": "https://mugepackaging.com/products/corrugated-boxes"
+    }
+  ],
+  "decisions": [
+    "Use custom box solutions as an Ads/GSC feedback term with 203 impressions and 5 clicks.",
+    "Build an RFQ route that separates ecommerce shipping, retail display, gift presentation, and product protection needs.",
+    "Route buyers to contact intent, quote checklist, paper packaging, and corrugated box paths without fixed pricing or lead-time claims."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/contact?intent=custom-box-solutions-rfq&source=custom-box-solutions-sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75163
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 247205
+    },
+    {
+      "url": "https://mugepackaging.com/products/corrugated-boxes",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 138512
+    }
+  ],
+  "summary": {
+    "impressions": 203,
+    "clicks": 5,
+    "conversions": 0,
+    "pageChecksPassed": 4,
+    "pageChecksTotal": 4
+  }
+}
