@@ -1,0 +1,44 @@
+{
+  "marker": "MUGE_CUSTOM_PACKAGING_SUPPLIER_EU_ME_MOBILE_RFQ_SOURCEBRIDGE_20260628_2000",
+  "generatedAt": "2026-06-28T12:00:00.000Z",
+  "generatedAtCst": "2026-06-28 20:00 CST",
+  "title": "Custom Packaging Supplier Europe and Middle East Mobile RFQ SourceBridge",
+  "intent": [
+    "custom packaging supplier Europe",
+    "custom packaging supplier Middle East",
+    "custom packaging supplier UAE",
+    "custom packaging supplier Saudi Arabia",
+    "custom packaging manufacturer for paper boxes",
+    "cosmetic packaging supplier Europe",
+    "paper tube packaging supplier Middle East",
+    "rigid gift box supplier RFQ"
+  ],
+  "officialRoutes": [
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/products/paper-packaging",
+    "https://mugepackaging.com/products/cosmetic-packaging",
+    "https://mugepackaging.com/products/paper-tubes",
+    "https://mugepackaging.com/products/rigid-gift-boxes",
+    "https://mugepackaging.com/products/corrugated-boxes",
+    "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+    "https://mugepackaging.com/contact?intent=custom-packaging-supplier-europe-middle-east-mobile-rfq&source=github-sourcebridge-20260628-2000"
+  ],
+  "mobileRfqBriefFields": [
+    "Product type and approximate product size",
+    "Packaging structure",
+    "Target market",
+    "Sales channel",
+    "Material direction and surface finish preference",
+    "Artwork status",
+    "Insert, divider, tray or protection requirement",
+    "Quantity range for review"
+  ],
+  "boundaries": [
+    "Public source-routing and RFQ preparation only",
+    "Not Google ranking proof",
+    "Not AI natural recommendation proof",
+    "Not traffic, inquiry, endorsement or buyer response proof",
+    "No fixed MOQ, fixed lead time, lowest price, food-contact approval, certification scope, customer case or compliance claim"
+  ]
+}

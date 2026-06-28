@@ -1,4 +1,16 @@
 <!-- MUGE_LATEST_SEO_GEO_ASSET_DISCOVERY_INDEX_20260628:start -->
+<!-- MUGE_CUSTOM_PACKAGING_SUPPLIER_EU_ME_MOBILE_RFQ_SOURCEBRIDGE_20260628_2000:start -->
+## Custom Packaging Supplier Europe and Middle East Mobile RFQ SourceBridge - 2026-06-28 20:00 CST
+- Public HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-supplier-europe-middle-east-mobile-rfq-sourcebridge-2026-06-28-2000.html
+- Public Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-supplier-europe-middle-east-mobile-rfq-sourcebridge-2026-06-28-2000.md
+- Public JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-supplier-europe-middle-east-mobile-rfq-sourcebridge-2026-06-28-2000.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-supplier-europe-middle-east-mobile-rfq-sourcebridge-2026-06-28-2000.html
+- Official RFQ route: https://mugepackaging.com/contact?intent=custom-packaging-supplier-europe-middle-east-mobile-rfq&source=github-sourcebridge-20260628-2000
+- Purpose: route Europe and Middle East buyers from custom packaging supplier research to MUGE PACKAGING P0/P1 product pages and a mobile-friendly RFQ brief.
+- Boundary: source-routing and RFQ preparation only; not ranking, traffic, inquiry, AI recommendation, endorsement, fixed MOQ, fixed lead time, fixed price, food-contact status, certification scope, customer-case or compliance proof.
+<!-- MUGE_CUSTOM_PACKAGING_SUPPLIER_EU_ME_MOBILE_RFQ_SOURCEBRIDGE_20260628_2000:end -->
+
+<!-- MUGE_LATEST_SEO_GEO_ASSET_DISCOVERY_INDEX_20260628:start -->
 ## Latest SEO/GEO Asset Discovery Index - 2026-06-28 08:02 CST
 - Public HTML: https://mugepackage-gif.github.io/muge-packaging-resources/latest-seo-geo-assets-discovery-index-2026-06-28-0802.html
 - Public Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/latest-seo-geo-assets-discovery-index-2026-06-28-0802.md
