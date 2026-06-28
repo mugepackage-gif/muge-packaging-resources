@@ -1,0 +1,81 @@
+{
+  "marker": "MUGE_PERSONALIZED_MAILER_RFQ_ROUTE_SOURCEBRIDGE_20260628",
+  "title": "Personalized Mailer RFQ Route for Ecommerce Packaging Buyers",
+  "term": "personalized mailer",
+  "generatedAt": "2026-06-28T04:03:13.650Z",
+  "generatedAtCst": "2026-06-28 12:03 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0920_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "personalized mailer",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "高",
+      "reason": "核心词保留，人工评估排名空间；已有转化但搜索展示份额偏低，说明可能有排名/覆盖空间；不自动改预算或出价，先进入人工评估。",
+      "impressions": 194,
+      "clicks": 26,
+      "conversions": 1,
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Corrugated boxes",
+      "url": "https://mugepackaging.com/products/corrugated-boxes",
+      "reason": "Relevant for mailer box structure and shipping use cases."
+    },
+    {
+      "label": "Quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Helps buyers prepare dimensions, material, quantity, and artwork before RFQ."
+    },
+    {
+      "label": "RFQ contact",
+      "url": "https://mugepackaging.com/contact?intent=personalized-mailer-rfq&source=personalized-mailer-sourcebridge",
+      "reason": "Routes personalized mailer buyers to the quote request path."
+    }
+  ],
+  "decisions": [
+    "Confirm whether the mailer is for ecommerce shipping, subscription sets, PR kits, or retail presentation.",
+    "Prepare inner dimensions, product weight, board direction, quantity range, and artwork status.",
+    "Separate structure requirements from branding requirements before sampling.",
+    "Avoid asking only for price before product fit and shipping role are defined."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/products/corrugated-boxes",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 138512
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/contact?intent=personalized-mailer-rfq&source=personalized-mailer-sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75162
+    }
+  ],
+  "summary": {
+    "impressions": 194,
+    "clicks": 26,
+    "conversions": 1,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  }
+}
