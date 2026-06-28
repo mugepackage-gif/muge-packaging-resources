@@ -1,0 +1,92 @@
+{
+  "marker": "MUGE-SOURCEBRIDGE-BESPOKE-BOXES-UK-20260628",
+  "title": "Bespoke Boxes UK RFQ Route for Custom Packaging Buyers",
+  "term": "bespoke boxes uk",
+  "generatedAt": "2026-06-28T05:34:03.294Z",
+  "generatedAtCst": "2026-06-28 13:34 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0920_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads搜索词观察",
+      "term": "bespoke boxes uk",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "中",
+      "reason": "保留观察；当前数据不足，暂不修改",
+      "impressions": 4,
+      "clicks": 2,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Custom packaging quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Connects bespoke box sourcing to the information buyers need before requesting a quote."
+    },
+    {
+      "label": "Rigid gift box structure guide",
+      "url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "reason": "Helps UK buyers compare structure, inserts and finish direction for bespoke box projects."
+    },
+    {
+      "label": "Official RFQ contact route",
+      "url": "https://mugepackaging.com/contact?intent=bespoke-boxes-uk-rfq",
+      "reason": "Routes buyers with dimensions, quantity range, artwork status and shipping market to the RFQ path."
+    },
+    {
+      "label": "Custom packaging supplier selection",
+      "url": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "reason": "Supports buyer evaluation of source factory vs trading company when sourcing custom boxes."
+    }
+  ],
+  "decisions": [
+    "Confirm product dimensions, weight and retail channel before asking for bespoke boxes.",
+    "Prepare quantity range, artwork status, insert requirement and surface finish preference.",
+    "Use the RFQ route for project review; do not assume fixed MOQ, fixed lead time or lowest price."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 99683
+    },
+    {
+      "url": "https://mugepackaging.com/contact?intent=bespoke-boxes-uk-rfq",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75150
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 98170
+    }
+  ],
+  "summary": {
+    "impressions": 4,
+    "clicks": 2,
+    "conversions": 0,
+    "pageChecksPassed": 4,
+    "pageChecksTotal": 4
+  }
+}
