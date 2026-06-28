@@ -1,0 +1,80 @@
+{
+  "marker": "MUGE-CUSTOM-BOX-SOLUTIONS-RFQ-ROUTE-20260628-B",
+  "title": "Custom Box Solutions RFQ Route for Brand and E-commerce Buyers",
+  "term": "custom box solutions",
+  "generatedAt": "2026-06-28T02:24:34.450Z",
+  "generatedAtCst": "2026-06-28 10:24 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0920_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "custom box solutions",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "高",
+      "reason": "数据不足，继续跑；当前展示、点击或转化样本不足，暂不修改。",
+      "impressions": 203,
+      "clicks": 5,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Product overview",
+      "url": "https://mugepackaging.com/products",
+      "reason": "Helps buyers compare paper boxes, rigid gift boxes, corrugated mailer boxes, paper tubes and clear boxes before narrowing the RFQ."
+    },
+    {
+      "label": "Custom packaging quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Use this checklist to convert a broad custom box solutions query into a quote-ready brief."
+    },
+    {
+      "label": "Contact / RFQ intake",
+      "url": "https://mugepackaging.com/contact",
+      "reason": "Use when the buyer has product size, box style, quantity range, material direction and artwork status ready for factory review."
+    }
+  ],
+  "decisions": [
+    "Define whether the project needs shipping protection, retail display, gift presentation or e-commerce fulfillment support.",
+    "Map the requested box solution to a concrete structure before asking for price.",
+    "Prepare dimensions, product weight, quantity range, artwork status, insert needs and target sales channel for RFQ review."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/products",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 106701
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/contact",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75150
+    }
+  ],
+  "summary": {
+    "impressions": 203,
+    "clicks": 5,
+    "conversions": 0,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  }
+}
