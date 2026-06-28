@@ -1,0 +1,97 @@
+{
+  "marker": "MUGE-SOURCEBRIDGE-INNOVATIVE-PACKAGING-20260628-1435",
+  "title": "Innovative Packaging RFQ Route for Brand, Retail and E-commerce Buyers",
+  "term": "innovative packaging",
+  "generatedAt": "2026-06-28T06:32:46.188Z",
+  "generatedAtCst": "2026-06-28 14:32 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0537_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads搜索词",
+      "term": "innovative packaging",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "低",
+      "reason": "custom made product packaging 相关搜索词；保留观察；当前数据不足，暂不修改",
+      "impressions": 1,
+      "clicks": 1,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    },
+    {
+      "source": "Ads搜索词观察",
+      "term": "innovative packaging",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "低",
+      "reason": "保留观察；当前数据不足，暂不修改",
+      "impressions": 1,
+      "clicks": 1,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Official RFQ route",
+      "url": "https://mugepackaging.com/contact?intent=innovative-packaging-rfq&source=innovative-packaging-sourcebridge",
+      "reason": "Direct inquiry route for buyers exploring new packaging structures or presentation ideas."
+    },
+    {
+      "label": "Product overview",
+      "url": "https://mugepackaging.com/products",
+      "reason": "Helps buyers compare custom boxes, paper tubes, clear boxes, bags and mailer structures before RFQ."
+    },
+    {
+      "label": "Quote checklist guide",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Helps buyers prepare dimensions, material, structure, finish and artwork details before requesting a quote."
+    }
+  ],
+  "decisions": [
+    "Define what innovation means for the project: shelf impact, unboxing, material direction, shipping protection or easier assembly.",
+    "Prepare product dimensions, packed weight, quantity range, structure reference, finish direction and artwork status before requesting a quote.",
+    "Avoid treating innovation as decoration only; structure, product fit, logistics and brand presentation should be reviewed together."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/contact?intent=innovative-packaging-rfq&source=innovative-packaging-sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75163
+    },
+    {
+      "url": "https://mugepackaging.com/products",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 106701
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    }
+  ],
+  "summary": {
+    "impressions": 2,
+    "clicks": 2,
+    "conversions": 0,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  }
+}
