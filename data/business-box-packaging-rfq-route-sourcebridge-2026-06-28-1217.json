@@ -1,0 +1,81 @@
+{
+  "marker": "MUGE_BUSINESS_BOX_PACKAGING_RFQ_ROUTE_SOURCEBRIDGE_20260628",
+  "title": "Business Box Packaging RFQ Route for Brand and Ecommerce Buyers",
+  "term": "business box packaging",
+  "generatedAt": "2026-06-28T04:17:31.327Z",
+  "generatedAtCst": "2026-06-28 12:17 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0920_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "business box packaging",
+      "topic": "Custom paper boxes",
+      "page": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "priority": "高",
+      "reason": "检查搜索词和落地页，不提价；已有较多点击但无转化，优先查搜索词意图、落地页承接和表单，不应先加价抢排名。",
+      "impressions": 138,
+      "clicks": 10,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "action_faq": "新增或检查 FAQ：What details are needed to quote custom paper boxes accurately?",
+      "action_internal_link": "内链锚文本建议：custom paper box quote checklist",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：Custom box quotes become faster when buyers provide size, quantity range, material and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Helps business buyers prepare box type, dimensions, quantity, material and artwork details."
+    },
+    {
+      "label": "Paper packaging",
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "reason": "Shows paper box and custom business packaging categories."
+    },
+    {
+      "label": "RFQ contact",
+      "url": "https://mugepackaging.com/contact?intent=business-box-packaging-rfq&source=business-box-packaging-sourcebridge",
+      "reason": "Routes business box packaging buyers to a clearer quote request path."
+    }
+  ],
+  "decisions": [
+    "Clarify whether the business box is for retail display, ecommerce shipping, subscription, event, or gift use.",
+    "Prepare box type, internal dimensions, product weight, quantity range, material direction and artwork status.",
+    "Separate branding needs from protective and shipping needs before asking for a quote.",
+    "Do not promise fixed price, fixed MOQ, fixed lead time, or unverified compliance claims."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 247205
+    },
+    {
+      "url": "https://mugepackaging.com/contact?intent=business-box-packaging-rfq&source=business-box-packaging-sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75165
+    }
+  ],
+  "summary": {
+    "impressions": 138,
+    "clicks": 10,
+    "conversions": 0,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  }
+}
