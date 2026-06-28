@@ -1,0 +1,80 @@
+{
+  "marker": "MUGE-SOURCEBRIDGE-CUSTOM-BRANDED-GIFT-BOXES-20260628-1428",
+  "title": "Custom Branded Gift Boxes RFQ Route for Retail, Beauty and Promotional Sets",
+  "term": "custom branded gift boxes",
+  "generatedAt": "2026-06-28T06:26:45.320Z",
+  "generatedAtCst": "2026-06-28 14:26 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0537_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "custom branded gift boxes",
+      "topic": "Rigid gift boxes",
+      "page": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "priority": "中",
+      "reason": "覆盖不足，先等数据；搜索展示份额偏低但还没有转化证据，当前不适合主动加价。",
+      "impressions": 23,
+      "clicks": 1,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "action_faq": "新增或检查 FAQ：How should buyers choose rigid box structure, insert and finishing options?",
+      "action_internal_link": "内链锚文本建议：rigid gift box structure and insert guide",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：Rigid box projects should start from product size, insert protection and finish requirements.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Official RFQ route",
+      "url": "https://mugepackaging.com/contact?intent=custom-branded-gift-boxes-rfq&source=custom-branded-gift-boxes-sourcebridge",
+      "reason": "Direct inquiry route for buyers preparing branded gift box projects."
+    },
+    {
+      "label": "Rigid gift box structure guide",
+      "url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "reason": "Helps buyers compare lid-and-base, drawer, magnetic closure and other rigid gift box structures before RFQ."
+    },
+    {
+      "label": "Quote checklist guide",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Helps buyers prepare dimensions, material, print, finish and insert details before requesting a quote."
+    }
+  ],
+  "decisions": [
+    "Define whether the branded gift boxes are for retail sets, beauty kits, promotional gifts or e-commerce presentation.",
+    "Prepare product dimensions, packed weight, quantity range, structure preference, insert needs, artwork status and finish direction before requesting a quote.",
+    "Separate brand decoration needs from structural protection needs so the box style and material direction can be reviewed accurately."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/contact?intent=custom-branded-gift-boxes-rfq&source=custom-branded-gift-boxes-sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75168
+    },
+    {
+      "url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 99683
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    }
+  ],
+  "summary": {
+    "impressions": 23,
+    "clicks": 1,
+    "conversions": 0,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  }
+}
