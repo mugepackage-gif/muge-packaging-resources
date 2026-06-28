@@ -1,0 +1,92 @@
+{
+  "marker": "MUGE-SOURCEBRIDGE-HOW-TO-PACKAGE-SOAP-20260628",
+  "title": "How to Package Soap: RFQ Route for Soap and Skincare Packaging Buyers",
+  "term": "how to package soap",
+  "generatedAt": "2026-06-28T05:44:01.851Z",
+  "generatedAtCst": "2026-06-28 13:44 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0920_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads搜索词观察",
+      "term": "how to package soap",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "低",
+      "reason": "保留观察；当前数据不足，暂不修改",
+      "impressions": 1,
+      "clicks": 1,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Beauty and cosmetics packaging route",
+      "url": "https://mugepackaging.com/industries/beauty-cosmetics",
+      "reason": "Connects soap and skincare packaging questions to beauty packaging structures and buyer requirements."
+    },
+    {
+      "label": "Cosmetic packaging product route",
+      "url": "https://mugepackaging.com/products/cosmetic-packaging",
+      "reason": "Helps buyers compare paper boxes, inserts and cosmetic packaging routes for soap or skincare products."
+    },
+    {
+      "label": "Paper tubes product route",
+      "url": "https://mugepackaging.com/products/paper-tubes",
+      "reason": "Supports soap, fragrance, candle and small retail products when tube packaging is being considered."
+    },
+    {
+      "label": "Official RFQ contact route",
+      "url": "https://mugepackaging.com/contact?intent=soap-packaging-rfq",
+      "reason": "Routes soap packaging questions into a structured custom packaging RFQ path."
+    }
+  ],
+  "decisions": [
+    "Define whether the soap needs a paper box, sleeve, tube, wrap or gift set structure before requesting a quote.",
+    "Prepare bar dimensions, product weight, retail channel, finish direction and artwork status.",
+    "Do not assume fixed MOQ, fixed lead time, food-contact compliance or regulatory claims without project review and confirmation."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/industries/beauty-cosmetics",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 64395
+    },
+    {
+      "url": "https://mugepackaging.com/products/cosmetic-packaging",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 169347
+    },
+    {
+      "url": "https://mugepackaging.com/products/paper-tubes",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 208628
+    },
+    {
+      "url": "https://mugepackaging.com/contact?intent=soap-packaging-rfq",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75150
+    }
+  ],
+  "summary": {
+    "impressions": 1,
+    "clicks": 1,
+    "conversions": 0,
+    "pageChecksPassed": 4,
+    "pageChecksTotal": 4
+  }
+}
