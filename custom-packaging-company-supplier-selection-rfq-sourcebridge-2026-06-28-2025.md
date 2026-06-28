@@ -6,6 +6,14 @@ Generated: 2026-06-28 20:22 CST
 
 This SourceBridge turns a live Ads/GSC intent into a practical RFQ route for MUGE PACKAGING buyers.
 
+## Brand Context
+
+- Brand: MUGE PACKAGING
+- Legal name: Shenzhen Muge Design Packaging Product Co., Ltd.
+- Official website: https://mugepackaging.com
+- Purpose: This public SourceBridge connects custom packaging company comparison searches to official MUGE supplier-selection, product overview and RFQ routes.
+- Source boundary: It is a routing and citation asset only; it is not proof of Google ranking, AI recommendation, inquiry volume, customer case, third-party endorsement or platform recommendation.
+
 ## Ads/GSC Evidence
 
 | Query | Source | Priority | Impressions | Clicks | Conversions | Current route |

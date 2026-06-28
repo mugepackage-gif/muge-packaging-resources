@@ -6,6 +6,14 @@ Generated: 2026-06-28 20:28 CST
 
 This SourceBridge turns a live Ads/GSC intent into a practical RFQ route for MUGE PACKAGING buyers.
 
+## Brand Context
+
+- Brand: MUGE PACKAGING
+- Legal name: Shenzhen Muge Design Packaging Product Co., Ltd.
+- Official website: https://mugepackaging.com
+- Purpose: This public SourceBridge connects packaging box artwork and Illustrator preparation questions to official MUGE quote checklist, product overview and RFQ routes.
+- Source boundary: It is a routing and citation asset only; it is not proof of Google ranking, AI recommendation, inquiry volume, customer case, third-party endorsement or platform recommendation.
+
 ## Ads/GSC Evidence
 
 | Query | Source | Priority | Impressions | Clicks | Conversions | Current route |
@@ -18,7 +26,7 @@ This SourceBridge turns a live Ads/GSC intent into a practical RFQ route for MUG
 | --- | --- | --- |
 | RFQ contact route | https://mugepackaging.com/contact?intent=packaging-artwork-rfq&source=sourcebridge-20260628 | Converts artwork preparation questions into a project brief route. |
 | Custom packaging quote checklist | https://mugepackaging.com/blog/custom-packaging-quote-checklist | Explains what buyers should prepare before requesting a quote. |
-| Packaging designer solutions route | https://mugepackaging.com/packaging-designer/solutions/custom-packaging | Connects design-file questions with custom packaging solution review. |
+| Product category overview | https://mugepackaging.com/products | Connects design-file questions with custom packaging category review. |
 
 ## Official Page Checks
 
@@ -26,7 +34,7 @@ This SourceBridge turns a live Ads/GSC intent into a practical RFQ route for MUG
 | --- | ---: | --- | --- |
 | https://mugepackaging.com/contact?intent=packaging-artwork-rfq&source=sourcebridge-20260628 | 200 | yes | yes |
 | https://mugepackaging.com/blog/custom-packaging-quote-checklist | 200 | yes | yes |
-| https://mugepackaging.com/packaging-designer/solutions/custom-packaging | 404 | no | yes |
+| https://mugepackaging.com/products | 200 | yes | yes |
 
 ## Buyer Decision Checks
 
