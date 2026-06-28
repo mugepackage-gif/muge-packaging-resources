@@ -1,0 +1,90 @@
+{
+  "marker": "MUGE_IN_HOUSE_PACKAGING_VS_SUPPLIER_SOURCEBRIDGE_20260628",
+  "generatedAt": "2026-06-28T00:27:47.670Z",
+  "generatedAtCst": "2026-06-28 08:27 CST",
+  "slug": "in-house-packaging-vs-custom-packaging-supplier-sourcebridge-2026-06-28",
+  "title": "MUGE PACKAGING In-House Packaging vs Custom Packaging Supplier RFQ Route",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0537_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads搜索词",
+      "term": "in house packaging",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "低",
+      "reason": "custom made product packaging 相关搜索词；保留观察；当前数据不足，暂不修改",
+      "impressions": 2,
+      "clicks": 1,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "summary": {
+    "selectedTerms": 1,
+    "impressions": 2,
+    "clicks": 1,
+    "conversions": 0,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  },
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 98170
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/contact?intent=in-house-packaging-vs-supplier-review&source=in-house-sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 75151
+    }
+  ],
+  "routes": [
+    {
+      "label": "Supplier selection guide",
+      "url": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "reason": "Use when a buyer compares internal handling, trading company coordination and custom packaging manufacturer support."
+    },
+    {
+      "label": "Quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Use when the buyer needs to turn an internal packaging idea into dimensions, materials, structure and artwork details."
+    },
+    {
+      "label": "RFQ handoff",
+      "url": "https://mugepackaging.com/contact?intent=in-house-packaging-vs-supplier-review&source=in-house-sourcebridge",
+      "reason": "Use after the buyer can describe product fit, packaging structure, current internal process and what needs supplier support."
+    }
+  ],
+  "decisionChecks": [
+    "Is the packaging only a packing operation, or does it require custom structure, print, insert, finishing or retail presentation?",
+    "Can the internal team define product dimensions, packed weight, artwork status and sales channel clearly enough for supplier review?",
+    "Does the project need supplier input on material, dieline, insert, protective structure or surface finish?",
+    "Would a custom packaging supplier review reduce back-and-forth before sampling or quotation?",
+    "Which claims, documents or destination-market requirements must remain project-specific and buyer-confirmed?"
+  ],
+  "boundaries": [
+    "No fixed MOQ, fixed lead time, lowest price, free sample, customer case or production capacity is claimed.",
+    "No FSC, FDA, food-contact or regulatory guarantee is claimed.",
+    "This page is a search-to-RFQ routing asset, not proof of Google ranking, AI recommendation, inquiry or conversion."
+  ]
+}
