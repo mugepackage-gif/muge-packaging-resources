@@ -1,0 +1,80 @@
+{
+  "marker": "MUGE_CUSTOM_BOXES_RFQ_BRIEF_ROUTE_SOURCEBRIDGE_20260628",
+  "title": "Custom Boxes RFQ Brief Route for Packaging Buyers",
+  "term": "custom boxes",
+  "generatedAt": "2026-06-28T03:48:25.483Z",
+  "generatedAtCst": "2026-06-28 11:48 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0537_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "custom boxes",
+      "topic": "Custom paper boxes",
+      "page": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "priority": "中",
+      "reason": "保留观察，等待转化样本；点击率尚可但转化样本不足，继续观察搜索词质量和落地页事件。",
+      "impressions": 2,
+      "clicks": 1,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "action_faq": "新增或检查 FAQ：What details are needed to quote custom paper boxes accurately?",
+      "action_internal_link": "内链锚文本建议：custom paper box quote checklist",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：Custom box quotes become faster when buyers provide size, quantity range, material and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Helps buyers prepare size, quantity, material, artwork and target market before asking for a quote."
+    },
+    {
+      "label": "Contact RFQ route",
+      "url": "https://mugepackaging.com/contact?intent=custom-boxes-rfq&source=custom-boxes-sourcebridge",
+      "reason": "Official route for sending a custom boxes brief to MUGE PACKAGING."
+    },
+    {
+      "label": "Product hub",
+      "url": "https://mugepackaging.com/products",
+      "reason": "Lets buyers compare box structures before choosing a quote path."
+    }
+  ],
+  "decisions": [
+    "Define whether the custom box is for retail display, shipping, gift presentation or e-commerce fulfillment.",
+    "Prepare internal dimensions, product weight, quantity range, material direction and artwork status before requesting a quote.",
+    "Use the product hub to compare rigid boxes, folding cartons, mailer boxes, corrugated boxes and paper tubes before sending an RFQ."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/contact?intent=custom-boxes-rfq&source=custom-boxes-sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75155
+    },
+    {
+      "url": "https://mugepackaging.com/products",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 106701
+    }
+  ],
+  "summary": {
+    "impressions": 2,
+    "clicks": 1,
+    "conversions": 0,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  }
+}
