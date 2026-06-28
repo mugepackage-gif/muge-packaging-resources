@@ -1,0 +1,82 @@
+{
+  "marker": "MUGE_CUSTOM_PACKAGING_COMPANY_SOURCEBRIDGE_20260628",
+  "title": "MUGE PACKAGING Custom Packaging Company RFQ Route",
+  "term": "custom packaging company",
+  "generatedAt": "2026-06-28T01:08:05.278Z",
+  "generatedAtCst": "2026-06-28 09:08 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0537_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "custom packaging company",
+      "topic": "Custom packaging supplier selection",
+      "page": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "priority": "高",
+      "reason": "保留观察，等待转化样本；点击率尚可但转化样本不足，继续观察搜索词质量和落地页事件。",
+      "impressions": 75,
+      "clicks": 4,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "action_faq": "新增或检查 FAQ：How should brands compare a packaging manufacturer, supplier and trading company?",
+      "action_internal_link": "内链锚文本建议：custom packaging supplier selection guide",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：Supplier selection should compare structure support, material options, sampling process and project review quality.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Company selection guide",
+      "url": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "reason": "Use when a buyer compares manufacturer support, sourcing coordination and custom packaging company fit."
+    },
+    {
+      "label": "Product categories",
+      "url": "https://mugepackaging.com/products",
+      "reason": "Use to choose the right packaging category before asking a company for review."
+    },
+    {
+      "label": "Company RFQ handoff",
+      "url": "https://mugepackaging.com/contact?intent=custom-packaging-company-rfq&source=custom-packaging-company-sourcebridge",
+      "reason": "Use after the buyer can describe product type, channel, box structure and project needs."
+    }
+  ],
+  "decisions": [
+    "Is the buyer looking for a manufacturer, trading company, design support, or a packaging company that can coordinate structure and production review?",
+    "Can the buyer define product category, dimensions, packed weight, quantity range, sales channel and artwork status?",
+    "Does the project need structural review, inserts, finish direction, material advice or sample coordination?",
+    "Which product category should be reviewed first: gift boxes, cosmetic packaging, corrugated boxes, clear boxes, paper tubes or paper bags?",
+    "Which destination-market documents or claims must remain project-specific and buyer-confirmed?"
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 98170
+    },
+    {
+      "url": "https://mugepackaging.com/products",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 106701
+    },
+    {
+      "url": "https://mugepackaging.com/contact?intent=custom-packaging-company-rfq&source=custom-packaging-company-sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75167
+    }
+  ],
+  "summary": {
+    "impressions": 75,
+    "clicks": 4,
+    "conversions": 0,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  }
+}
