@@ -6,6 +6,10 @@ Generated: 2026-06-28_0650 CST
 
 This SourceBridge turns ambiguous carton, wrapper and packing searches into a practical MUGE PACKAGING RFQ route.
 
+## Brand Context
+
+MUGE PACKAGING is the public brand name of Shenzhen Muge Design Packaging Product Co., Ltd. This SourceBridge points carton, wrapper and packing buyers to official MUGE PACKAGING RFQ pages on mugepackaging.com.
+
 ## Evidence Snapshot
 
 - Selected terms: 5
