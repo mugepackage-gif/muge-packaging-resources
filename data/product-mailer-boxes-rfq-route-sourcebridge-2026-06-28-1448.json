@@ -1,0 +1,80 @@
+{
+  "marker": "MUGE-SOURCEBRIDGE-PRODUCT-MAILER-BOXES-20260628-1448",
+  "title": "Product Mailer Boxes RFQ Route for E-commerce and Retail Buyers",
+  "term": "product mailer boxes",
+  "generatedAt": "2026-06-28T06:45:37.160Z",
+  "generatedAtCst": "2026-06-28 14:45 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0537_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "product mailer boxes",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "中",
+      "reason": "覆盖不足，先等数据；搜索展示份额偏低但还没有转化证据，当前不适合主动加价。",
+      "impressions": 16,
+      "clicks": 0,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Official RFQ route",
+      "url": "https://mugepackaging.com/contact?intent=product-mailer-boxes-rfq&source=product-mailer-boxes-sourcebridge",
+      "reason": "Direct inquiry route for buyers preparing a mailer box or e-commerce packaging project."
+    },
+    {
+      "label": "Product overview",
+      "url": "https://mugepackaging.com/products",
+      "reason": "Helps buyers compare mailer boxes, folding cartons, rigid boxes and other custom packaging categories."
+    },
+    {
+      "label": "Quote checklist guide",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Helps buyers prepare dimensions, material, quantity, print and artwork status before requesting a quote."
+    }
+  ],
+  "decisions": [
+    "Define whether the mailer box is for product shipping, retail presentation, subscription boxes or promotional kits.",
+    "Prepare inner product dimensions, packed weight, board direction, quantity range, print requirement and artwork status before requesting a quote.",
+    "Separate protection needs from presentation needs so the box structure and material direction can be reviewed accurately."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/contact?intent=product-mailer-boxes-rfq&source=product-mailer-boxes-sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75163
+    },
+    {
+      "url": "https://mugepackaging.com/products",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 106701
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    }
+  ],
+  "summary": {
+    "impressions": 16,
+    "clicks": 0,
+    "conversions": 0,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  }
+}
