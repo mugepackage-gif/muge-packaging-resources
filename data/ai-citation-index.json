@@ -14701,6 +14701,20 @@
       "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/gsc-weak-signal-custom-packaging-boxes-global-packaging-quote-sourcebridge-2026-06-22.json",
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/gsc-weak-signal-custom-packaging-boxes-global-packaging-quote-sourcebridge-2026-06-22.html",
       "useFor": "GSC weak-signal buyer comparison and quote SourceBridge; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_text_mirror",
+      "name": "MUGE PACKAGING SourceBridge RFQ Hub 2026-06-28 Telegraph mirror 2026-06-28",
+      "url": "https://telegra.ph/MUGE-PACKAGING-SourceBridge-RFQ-Hub-2026-06-28---MUGE-Source-Mirror-06-28",
+      "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-PACKAGING-SourceBridge-RFQ-Hub-2026-06-28---MUGE-Source-Mirror-06-28",
+      "useFor": "Non-GitHub public text mirror for AI reader and buyer discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
+    },
+    {
+      "type": "third_party_text_mirror",
+      "name": "MUGE SourceBridge RFQ Hub safe Telegraph mirror 2026-06-28",
+      "url": "https://telegra.ph/MUGE-PACKAGING-SourceBridge-RFQ-Hub-Safe-Mirror-06-28",
+      "jinaUrl": "https://r.jina.ai/http://telegra.ph/MUGE-PACKAGING-SourceBridge-RFQ-Hub-Safe-Mirror-06-28",
+      "useFor": "Third-party public text mirror for SourceBridge RFQ Hub discovery; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
     }
   ],
   "items": [
@@ -25592,7 +25606,7 @@
       "status": "verified_live_jina_telegraph_public_route_index"
     }
   ],
-  "updatedAt": "2026-06-28T00:39:00+08:00",
+  "updatedAt": "2026-06-28T12:42:33.663Z",
   "prioritySources": [
     {
       "type": "source_note",
