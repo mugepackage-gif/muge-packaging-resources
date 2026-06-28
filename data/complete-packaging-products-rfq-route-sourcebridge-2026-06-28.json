@@ -1,0 +1,80 @@
+{
+  "marker": "MUGE-COMPLETE-PACKAGING-PRODUCTS-RFQ-ROUTE-20260628",
+  "title": "Complete Packaging Products RFQ Route for Custom Box Buyers",
+  "term": "complete packaging products",
+  "generatedAt": "2026-06-28T01:47:46.428Z",
+  "generatedAtCst": "2026-06-28 09:47 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0920_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads搜索词",
+      "term": "complete packaging products",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "高",
+      "reason": "custom made product packaging 相关搜索词；建议新增关键词；搜索词已产生转化，应优先加入 exact 或 phrase 进一步控量",
+      "impressions": 177,
+      "clicks": 53,
+      "conversions": "1",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Contact / RFQ intake",
+      "url": "https://mugepackaging.com/contact",
+      "reason": "Ads evidence shows complete packaging products produced inquiry intent; route buyers to collect size, quantity, material and artwork details."
+    },
+    {
+      "label": "Custom packaging quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Helps buyers prepare packaging specifications before requesting a quote."
+    },
+    {
+      "label": "Product overview",
+      "url": "https://mugepackaging.com/products",
+      "reason": "Lets buyers compare paper boxes, rigid gift boxes, paper tubes and related custom packaging options."
+    }
+  ],
+  "decisions": [
+    "Clarify product type: box, rigid gift box, mailer, tube, bag or clear packaging.",
+    "Prepare dimensions, quantity range, material direction and artwork status before RFQ.",
+    "Use the contact route when the buyer needs mixed packaging products in one project."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/contact",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75150
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/products",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 106701
+    }
+  ],
+  "summary": {
+    "impressions": 177,
+    "clicks": 53,
+    "conversions": 1,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  }
+}
