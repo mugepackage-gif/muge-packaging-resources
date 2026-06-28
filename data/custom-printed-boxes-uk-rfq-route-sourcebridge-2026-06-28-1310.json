@@ -1,0 +1,92 @@
+{
+  "marker": "MUGE-SOURCEBRIDGE-CUSTOM-PRINTED-BOXES-UK-20260628",
+  "title": "Custom Printed Boxes UK RFQ Route for Buyers",
+  "term": "custom printed boxes UK",
+  "generatedAt": "2026-06-28T05:07:44.092Z",
+  "generatedAtCst": "2026-06-28 13:07 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0920_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "custom printed boxes UK",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "高",
+      "reason": "检查搜索词和落地页，不提价；已有较多点击但无转化，优先查搜索词意图、落地页承接和表单，不应先加价抢排名。",
+      "impressions": 117,
+      "clicks": 23,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Official RFQ contact route",
+      "url": "https://mugepackaging.com/contact?intent=custom-printed-boxes-uk-rfq&source=sourcebridge",
+      "reason": "Captures UK custom printed box buyers from Ads click intent into a direct inquiry path."
+    },
+    {
+      "label": "Custom packaging quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Helps buyers prepare size, quantity, material, print and artwork details before inquiry."
+    },
+    {
+      "label": "Paper packaging route",
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "reason": "Connects printed box inquiries to the relevant paper packaging product family."
+    },
+    {
+      "label": "Custom gift box route",
+      "url": "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+      "reason": "Supports premium printed rigid gift box and presentation box intent without making fixed MOQ or lead-time claims."
+    }
+  ],
+  "decisions": [
+    "Confirm product dimensions and sales channel before requesting custom printed boxes.",
+    "Prepare artwork status, color direction, material preference and quantity range for review.",
+    "Use this route for RFQ preparation; it does not claim fixed MOQ, fixed lead time, food-contact compliance or lowest price."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/contact?intent=custom-printed-boxes-uk-rfq&source=sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75142
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 247205
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 68412
+    }
+  ],
+  "summary": {
+    "impressions": 117,
+    "clicks": 23,
+    "conversions": 0,
+    "pageChecksPassed": 4,
+    "pageChecksTotal": 4
+  }
+}
