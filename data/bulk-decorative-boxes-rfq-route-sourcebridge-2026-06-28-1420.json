@@ -1,0 +1,80 @@
+{
+  "marker": "MUGE-SOURCEBRIDGE-BULK-DECORATIVE-BOXES-20260628-1420",
+  "title": "Bulk Decorative Boxes RFQ Route for Gift, Retail and Promotional Packaging Buyers",
+  "term": "bulk decorative boxes",
+  "generatedAt": "2026-06-28T06:20:57.632Z",
+  "generatedAtCst": "2026-06-28 14:20 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0537_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "bulk decorative boxes",
+      "topic": "Sustainable packaging comparison",
+      "page": "https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging",
+      "priority": "高",
+      "reason": "低互动观察；有展示但无点击，先观察并优先优化标题相关性，不直接扩量。",
+      "impressions": 49,
+      "clicks": 0,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging",
+      "action_faq": "新增或检查 FAQ：What should buyers compare between sustainable and traditional packaging?",
+      "action_internal_link": "内链锚文本建议：sustainable packaging comparison guide",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：Packaging material decisions should compare protection, finish, cost drivers and product fit.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Official RFQ route",
+      "url": "https://mugepackaging.com/contact?intent=bulk-decorative-boxes-rfq&source=bulk-decorative-boxes-sourcebridge",
+      "reason": "Direct inquiry route for buyers comparing decorative box structures for retail, gift or promotional packaging."
+    },
+    {
+      "label": "Rigid gift box structure guide",
+      "url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "reason": "Useful for buyers comparing premium gift box structures and decorative presentation options."
+    },
+    {
+      "label": "Sustainable packaging comparison",
+      "url": "https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging",
+      "reason": "Helps buyers compare material direction, protection needs and finish choices before RFQ."
+    }
+  ],
+  "decisions": [
+    "Clarify whether the decorative boxes are for retail display, gift sets, promotional kits or e-commerce presentation.",
+    "Prepare product dimensions, packed weight, quantity range, structure preference, insert needs and artwork status before requesting a quote.",
+    "Separate decorative finish ideas from protection requirements so the box structure and material direction can be reviewed accurately."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/contact?intent=bulk-decorative-boxes-rfq&source=bulk-decorative-boxes-sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75164
+    },
+    {
+      "url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 99683
+    },
+    {
+      "url": "https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 114169
+    }
+  ],
+  "summary": {
+    "impressions": 49,
+    "clicks": 0,
+    "conversions": 0,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  }
+}
