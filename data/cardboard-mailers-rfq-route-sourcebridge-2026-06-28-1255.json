@@ -1,0 +1,88 @@
+{
+  "marker": "cardboard-mailers-rfq-route-sourcebridge-2026-06-28-1255",
+  "title": "Cardboard Mailers RFQ Route for Ecommerce Shipping Buyers",
+  "term": "cardboard mailers",
+  "generatedAt": "2026-06-28T04:51:23.915Z",
+  "generatedAtCst": "2026-06-28 12:51 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0920_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "cardboard mailers",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "高",
+      "reason": "覆盖不足，先等数据；搜索展示份额偏低但还没有转化证据，当前不适合主动加价。",
+      "impressions": 128,
+      "clicks": 4,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Official contact route",
+      "url": "https://mugepackaging.com/contact?intent=cardboard-mailers-rfq&source=cardboard-mailers-sourcebridge"
+    },
+    {
+      "label": "Corrugated boxes route",
+      "url": "https://mugepackaging.com/products/corrugated-boxes"
+    },
+    {
+      "label": "Custom packaging quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+    },
+    {
+      "label": "Products overview",
+      "url": "https://mugepackaging.com/products"
+    }
+  ],
+  "decisions": [
+    "Use cardboard mailers as an Ads/GSC feedback term with 128 impressions and 4 clicks.",
+    "Build a sourcing route around ecommerce shipping protection, internal dimensions, board strength, print scope, and insert needs.",
+    "Route buyers to contact intent, corrugated boxes, and quote checklist without fixed MOQ, fixed lead-time, or price claims."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/contact?intent=cardboard-mailers-rfq&source=cardboard-mailers-sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75160
+    },
+    {
+      "url": "https://mugepackaging.com/products/corrugated-boxes",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 138512
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/products",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 106701
+    }
+  ],
+  "summary": {
+    "impressions": 128,
+    "clicks": 4,
+    "conversions": 0,
+    "pageChecksPassed": 4,
+    "pageChecksTotal": 4
+  }
+}
