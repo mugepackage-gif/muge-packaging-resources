@@ -1,0 +1,105 @@
+{
+  "marker": "cosmetic-packaging-europe-rfq-route-sourcebridge-2026-06-28-1235",
+  "title": "Cosmetic Packaging Europe RFQ Route for Skincare and Beauty Buyers",
+  "term": "cosmetic packaging europe",
+  "generatedAt": "2026-06-28T04:28:50.680Z",
+  "generatedAtCst": "2026-06-28 12:28 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0920_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "cosmetic packaging europe",
+      "topic": "Custom cosmetic packaging",
+      "page": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "priority": "高",
+      "reason": "保留观察，等待转化样本；点击率尚可但转化样本不足，继续观察搜索词质量和落地页事件。",
+      "impressions": 28,
+      "clicks": 5,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "action_faq": "新增或检查 FAQ：What should beauty brands prepare before requesting custom cosmetic packaging?",
+      "action_internal_link": "内链锚文本建议：custom cosmetic packaging for beauty brands",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：Beauty packaging buyers need clear product size, material, finish and artwork details before sampling.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    },
+    {
+      "source": "Ads搜索词观察",
+      "term": "cosmetic packaging europe",
+      "topic": "Custom cosmetic packaging",
+      "page": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "priority": "中",
+      "reason": "已覆盖，观察表现；搜索词已存在于关键词列表或非常接近",
+      "impressions": 2,
+      "clicks": 2,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "action_faq": "新增或检查 FAQ：What should beauty brands prepare before requesting custom cosmetic packaging?",
+      "action_internal_link": "内链锚文本建议：custom cosmetic packaging for beauty brands",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：Beauty packaging buyers need clear product size, material, finish and artwork details before sampling.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Cosmetic packaging factory guide",
+      "url": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide"
+    },
+    {
+      "label": "Official contact route",
+      "url": "https://mugepackaging.com/contact"
+    },
+    {
+      "label": "Custom packaging quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+    },
+    {
+      "label": "Paper packaging product route",
+      "url": "https://mugepackaging.com/products/paper-packaging"
+    }
+  ],
+  "decisions": [
+    "Use cosmetic packaging europe as a high-intent regional buyer term with 28 impressions and 5 clicks.",
+    "Route European skincare and beauty buyers to the cosmetic packaging guide, quote checklist, and contact path without claiming unverified regional certifications.",
+    "Frame the RFQ around product dimensions, jar or bottle fit, insert structure, finish direction, retail channel, and artwork readiness."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 106895
+    },
+    {
+      "url": "https://mugepackaging.com/contact",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75150
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 247205
+    }
+  ],
+  "summary": {
+    "impressions": 30,
+    "clicks": 7,
+    "conversions": 0,
+    "pageChecksPassed": 4,
+    "pageChecksTotal": 4
+  }
+}
