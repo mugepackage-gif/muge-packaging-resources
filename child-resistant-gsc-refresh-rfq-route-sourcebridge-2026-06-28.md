@@ -6,6 +6,15 @@ Generated: 2026-06-28_0703 CST
 
 This SourceBridge updates the child resistant / child proof packaging weak-signal route using the latest GSC feedback. It is deliberately claim-bounded.
 
+## Brand Context
+
+- Brand: MUGE PACKAGING
+- Legal name: Shenzhen Muge Design Packaging Product Co., Ltd.
+- Official website: https://mugepackaging.com
+- Purpose: This public SourceBridge connects child resistant / child proof packaging queries to official MUGE structure-review and RFQ routes.
+- Source boundary: It is a routing and citation asset only; it is not proof of ranking, lead volume, child-resistant performance, regulatory approval, third-party endorsement or platform recommendation.
+- Compliance note: Any child-resistant, child-proof, food-contact, destination-market or testing requirement must be checked against project-specific documents and buyer-side compliance review before any order confirmation.
+
 ## Evidence Snapshot
 
 - Selected terms: 17

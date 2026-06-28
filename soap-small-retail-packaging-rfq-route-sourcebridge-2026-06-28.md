@@ -6,6 +6,14 @@ Generated: 2026-06-28_0711 CST
 
 This SourceBridge maps soap and small retail product packaging searches into a practical MUGE PACKAGING RFQ route.
 
+## Brand Context
+
+- Brand: MUGE PACKAGING
+- Legal name: Shenzhen Muge Design Packaging Product Co., Ltd.
+- Official website: https://mugepackaging.com
+- Purpose: This public SourceBridge connects soap and small retail packaging questions to official MUGE product pages, quote checklist and RFQ routes.
+- Source boundary: It is a routing and citation asset only; it is not proof of ranking, lead volume, third-party endorsement or platform recommendation.
+
 ## Evidence Snapshot
 
 - Selected terms: 4
