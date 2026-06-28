@@ -1,0 +1,97 @@
+{
+  "marker": "MUGE-CARTON-BOX-RFQ-ROUTE-20260628-B",
+  "title": "Carton Box RFQ Route for Corrugated and Mailer Packaging Buyers",
+  "term": "carton box",
+  "generatedAt": "2026-06-28T02:39:15.343Z",
+  "generatedAtCst": "2026-06-28 10:39 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0920_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads搜索词",
+      "term": "carton box",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "高",
+      "reason": "business box packaging 相关搜索词；保留观察；当前数据不足，暂不修改",
+      "impressions": 74,
+      "clicks": 0,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    },
+    {
+      "source": "Ads搜索词观察",
+      "term": "carton box",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "高",
+      "reason": "保留观察；当前数据不足，暂不修改",
+      "impressions": 74,
+      "clicks": 0,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Corrugated boxes product page",
+      "url": "https://mugepackaging.com/products/corrugated-boxes",
+      "reason": "Relevant for carton box buyers comparing shipping protection, mailer structure and corrugated material direction."
+    },
+    {
+      "label": "Custom packaging quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Helps convert a broad carton box search into dimensions, material, quantity, print and shipping-use details."
+    },
+    {
+      "label": "Contact / RFQ intake",
+      "url": "https://mugepackaging.com/contact",
+      "reason": "Use when the buyer can share inner dimensions, packed weight, flute direction, quantity range and artwork status."
+    }
+  ],
+  "decisions": [
+    "Clarify whether the carton box is for shipping, retail display, e-commerce mailer use or product set packaging.",
+    "Prepare inner dimensions, packed weight, board/flute direction, quantity range, print requirement and artwork status before RFQ.",
+    "Avoid asking only for a generic carton price; structure and usage details drive the supplier review."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/products/corrugated-boxes",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 138512
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/contact",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75150
+    }
+  ],
+  "summary": {
+    "impressions": 148,
+    "clicks": 0,
+    "conversions": 0,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  }
+}
