@@ -1,0 +1,105 @@
+{
+  "marker": "MUGE-SOURCEBRIDGE-CUSTOM-MADE-PRODUCT-PACKAGING-RFQ-20260628-1856",
+  "title": "Custom Made Product Packaging RFQ Route for Brand Buyers | MUGE PACKAGING",
+  "term": "custom made product packaging",
+  "generatedAt": "2026-06-28T10:50:09.960Z",
+  "generatedAtCst": "2026-06-28 18:50 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0537_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "custom made product packaging",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "高",
+      "reason": "检查搜索词和落地页，不提价；已有较多点击但无转化，优先查搜索词意图、落地页承接和表单，不应先加价抢排名。",
+      "impressions": 294,
+      "clicks": 21,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Product overview",
+      "url": "https://mugepackaging.com/products",
+      "reason": "Broad route for custom paper boxes, cosmetic packaging, paper tubes, paper bags, clear boxes and corrugated boxes."
+    },
+    {
+      "label": "Custom quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Helps buyers prepare size, quantity range, material direction, artwork status and use case before RFQ."
+    },
+    {
+      "label": "Cosmetic packaging",
+      "url": "https://mugepackaging.com/products/cosmetic-packaging",
+      "reason": "Useful when the custom product packaging is for skincare, fragrance, beauty sets or retail cosmetics."
+    },
+    {
+      "label": "Paper packaging",
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "reason": "Useful when the project needs paperboard boxes, printed paper packaging or paper-based retail packaging."
+    },
+    {
+      "label": "RFQ contact path",
+      "url": "https://mugepackaging.com/contact?intent=custom-made-product-packaging-rfq&source=github-sourcebridge-20260628-1856",
+      "reason": "Dedicated RFQ route for buyers who already know their product, channel and packaging direction."
+    }
+  ],
+  "decisions": [
+    "Define the product type, dimensions and packed weight before asking for a packaging quote.",
+    "Choose the likely structure first: rigid box, folding carton, paper tube, paper bag, mailer box, clear box or mixed packaging set.",
+    "Prepare quantity range, artwork status, sales channel and destination market questions for project-specific review.",
+    "Do not treat any public page as a fixed MOQ, price, lead-time, certification or compliance guarantee."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/products",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 106701
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/products/cosmetic-packaging",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 169347
+    },
+    {
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 247205
+    },
+    {
+      "url": "https://mugepackaging.com/contact?intent=custom-made-product-packaging-rfq&source=github-sourcebridge-20260628-1856",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75850
+    }
+  ],
+  "summary": {
+    "impressions": 294,
+    "clicks": 21,
+    "conversions": 0,
+    "pageChecksPassed": 5,
+    "pageChecksTotal": 5
+  }
+}
