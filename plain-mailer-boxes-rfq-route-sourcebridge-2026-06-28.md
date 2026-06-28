@@ -6,6 +6,10 @@ Generated: 2026-06-28 08:42 CST
 
 This SourceBridge turns plain mailer boxes searches into a practical RFQ route for e-commerce shipping, subscription kits and lightweight retail dispatch.
 
+## Brand Context
+
+MUGE PACKAGING is the public brand name of Shenzhen Muge Design Packaging Product Co., Ltd. This SourceBridge points plain mailer box and e-commerce shipping box buyers to official MUGE PACKAGING RFQ pages on mugepackaging.com.
+
 ## Ads/GSC Evidence
 
 | Query | Source | Priority | Impressions | Clicks | Conversions | Current route |
