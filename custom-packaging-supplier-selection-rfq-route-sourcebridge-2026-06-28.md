@@ -6,6 +6,10 @@ Generated: 2026-06-28_0605 CST
 
 This SourceBridge routes supplier-selection searches into a practical MUGE PACKAGING RFQ path without making price, certification or delivery promises.
 
+## Brand Context
+
+MUGE PACKAGING is the public brand name of Shenzhen Muge Design Packaging Product Co., Ltd. This SourceBridge points custom packaging supplier selection searches to official MUGE PACKAGING RFQ and supplier-fit pages on mugepackaging.com.
+
 ## Evidence Snapshot
 
 - Selected terms: 8
