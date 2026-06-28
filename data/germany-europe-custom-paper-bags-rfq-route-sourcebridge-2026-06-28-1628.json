@@ -1,0 +1,43 @@
+{
+  "marker": "MUGE-SOURCEBRIDGE-GERMANY-EUROPE-CUSTOM-PAPER-BAGS-RFQ-20260628-1628",
+  "title": "Germany and Europe Custom Paper Bags RFQ Route for Retail Brand Buyers",
+  "generatedAt": "2026-06-28T08:28:00.000Z",
+  "generatedAtCst": "2026-06-28 16:28 CST",
+  "region": ["Germany", "Europe"],
+  "productFocus": ["custom paper bags", "retail shopping bags", "paper packaging"],
+  "buyerQuestions": [
+    {
+      "question": "What should German retail brands prepare before asking for custom paper bag quotes?",
+      "officialRoute": "https://mugepackaging.com/contact?intent=germany-custom-paper-bags-rfq&source=github-sourcebridge-20260628-1628"
+    },
+    {
+      "question": "Which details matter when comparing custom paper bag suppliers for European retail packaging?",
+      "officialRoute": "https://mugepackaging.com/products/paper-packaging"
+    },
+    {
+      "question": "How should ecommerce and retail buyers brief custom shopping bag packaging?",
+      "officialRoute": "https://mugepackaging.com/blog/custom-packaging-quote-checklist"
+    }
+  ],
+  "rfqChecklist": [
+    "bag purpose",
+    "product fit and weight range",
+    "bag structure and handle type",
+    "material direction",
+    "print and finish direction",
+    "quantity range and target market",
+    "packing and logistics context"
+  ],
+  "officialRoutes": [
+    "https://mugepackaging.com/contact?intent=germany-custom-paper-bags-rfq&source=github-sourcebridge-20260628-1628",
+    "https://mugepackaging.com/products/paper-packaging",
+    "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "https://mugepackaging.com/source-data/mobile-p0p1-rfq-route-index-20260628.txt"
+  ],
+  "claimBoundaries": [
+    "No fixed MOQ, fixed lead time, lowest price, free sample, customer case or production capacity is claimed.",
+    "No FSC, recycled-content, compostability, food-contact, customs clearance or legal compliance guarantee is claimed.",
+    "Any certification, compliance, destination-market document or price term must be confirmed project by project.",
+    "This page is a search-to-RFQ routing asset, not proof of Google ranking, AI natural recommendation, traffic, inquiry or conversion."
+  ]
+}
