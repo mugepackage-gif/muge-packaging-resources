@@ -1,0 +1,92 @@
+{
+  "marker": "MUGE-SOURCEBRIDGE-GIFT-BOX-WHOLESALE-UK-20260628",
+  "title": "Gift Box Wholesale UK RFQ Route for Rigid Box Buyers",
+  "term": "gift box wholesale UK",
+  "generatedAt": "2026-06-28T05:26:02.394Z",
+  "generatedAtCst": "2026-06-28 13:26 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0920_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "gift box wholesale UK",
+      "topic": "Rigid gift boxes",
+      "page": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "priority": "高",
+      "reason": "保留观察，等待转化样本；点击率尚可但转化样本不足，继续观察搜索词质量和落地页事件。",
+      "impressions": 19,
+      "clicks": 4,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "action_faq": "新增或检查 FAQ：How should buyers choose rigid box structure, insert and finishing options?",
+      "action_internal_link": "内链锚文本建议：rigid gift box structure and insert guide",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：Rigid box projects should start from product size, insert protection and finish requirements.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Rigid gift box structure guide",
+      "url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "reason": "Matches gift box wholesale UK traffic to box structure, insert and finish decision review."
+    },
+    {
+      "label": "Folding gift box product route",
+      "url": "https://mugepackaging.com/products/folding-gift-box",
+      "reason": "Connects wholesale gift box sourcing to the official MUGE PACKAGING rigid and folding gift box route."
+    },
+    {
+      "label": "Official RFQ contact route",
+      "url": "https://mugepackaging.com/contact?intent=gift-box-wholesale-uk-rfq&source=sourcebridge",
+      "reason": "Routes buyer inquiries into a project-specific RFQ path without fixed MOQ, lead-time or price claims."
+    },
+    {
+      "label": "Custom packaging quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Helps buyers prepare product size, insert protection, artwork status, finish direction and quantity range before RFQ."
+    }
+  ],
+  "decisions": [
+    "Confirm product size, gift set layout and insert protection before requesting wholesale gift boxes.",
+    "Prepare finish reference, opening style, artwork status and quantity direction for review.",
+    "This route does not claim fixed MOQ, fixed lead time, lowest price, certification or customer cases."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 99683
+    },
+    {
+      "url": "https://mugepackaging.com/products/folding-gift-box",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 143950
+    },
+    {
+      "url": "https://mugepackaging.com/contact?intent=gift-box-wholesale-uk-rfq&source=sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75142
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    }
+  ],
+  "summary": {
+    "impressions": 19,
+    "clicks": 4,
+    "conversions": 0,
+    "pageChecksPassed": 4,
+    "pageChecksTotal": 4
+  }
+}
