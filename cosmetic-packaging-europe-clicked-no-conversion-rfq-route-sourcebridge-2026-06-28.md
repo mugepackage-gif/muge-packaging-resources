@@ -6,6 +6,10 @@ Generated: 2026-06-28_0559 CST
 
 This SourceBridge routes European cosmetic packaging searches from broad supplier discovery into a practical MUGE PACKAGING RFQ path.
 
+## Brand Context
+
+MUGE PACKAGING is the public brand name of Shenzhen Muge Design Packaging Product Co., Ltd. This SourceBridge points European cosmetic packaging buyers with clicked-but-not-converted search intent to official MUGE PACKAGING RFQ and product review pages on mugepackaging.com.
+
 ## Evidence Snapshot
 
 - Selected terms: 2
