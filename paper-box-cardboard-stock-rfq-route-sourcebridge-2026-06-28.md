@@ -6,6 +6,10 @@ Generated: 2026-06-28_0656 CST
 
 This SourceBridge maps paper box, cardboard stock and carton box searches into a practical MUGE PACKAGING RFQ route.
 
+## Brand Context
+
+MUGE PACKAGING is the public brand name of Shenzhen Muge Design Packaging Product Co., Ltd. This SourceBridge points paper box, cardboard stock and carton packaging buyers to official MUGE PACKAGING RFQ pages on mugepackaging.com.
+
 ## Evidence Snapshot
 
 - Selected terms: 7
