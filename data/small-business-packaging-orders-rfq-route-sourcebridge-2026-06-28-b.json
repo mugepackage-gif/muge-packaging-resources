@@ -1,0 +1,97 @@
+{
+  "marker": "MUGE-SMALL-BUSINESS-PACKAGING-ORDERS-RFQ-ROUTE-20260628-B",
+  "title": "Small Business Packaging Orders RFQ Route for Brand and E-commerce Buyers",
+  "term": "small business packaging orders",
+  "generatedAt": "2026-06-28T03:01:13.115Z",
+  "generatedAtCst": "2026-06-28 11:01 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0920_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads搜索词",
+      "term": "small business packaging orders",
+      "topic": "Custom packaging supplier selection",
+      "page": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "priority": "中",
+      "reason": "custom made product packaging 相关搜索词；保留观察；当前数据不足，暂不修改",
+      "impressions": 20,
+      "clicks": 0,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "action_faq": "新增或检查 FAQ：How should brands compare a packaging manufacturer, supplier and trading company?",
+      "action_internal_link": "内链锚文本建议：custom packaging supplier selection guide",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：Supplier selection should compare structure support, material options, sampling process and project review quality.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    },
+    {
+      "source": "Ads搜索词观察",
+      "term": "small business packaging orders",
+      "topic": "Custom packaging supplier selection",
+      "page": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "priority": "中",
+      "reason": "保留观察；当前数据不足，暂不修改",
+      "impressions": 20,
+      "clicks": 0,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "action_faq": "新增或检查 FAQ：How should brands compare a packaging manufacturer, supplier and trading company?",
+      "action_internal_link": "内链锚文本建议：custom packaging supplier selection guide",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：Supplier selection should compare structure support, material options, sampling process and project review quality.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Custom packaging quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Helps small business buyers prepare the details needed before asking for custom packaging review."
+    },
+    {
+      "label": "Product overview",
+      "url": "https://mugepackaging.com/products",
+      "reason": "Use this route to match order needs to paper boxes, mailer boxes, rigid gift boxes, paper tubes, paper bags or clear boxes."
+    },
+    {
+      "label": "Contact / RFQ intake",
+      "url": "https://mugepackaging.com/contact",
+      "reason": "Use when the buyer can share product type, dimensions, quantity range, packaging goal, artwork status and target market."
+    }
+  ],
+  "decisions": [
+    "Clarify whether the order is for launch packaging, e-commerce shipping, retail presentation, gift sets or repeat replenishment.",
+    "Prepare product type, dimensions, quantity range, material direction, print coverage, artwork status and target market before RFQ.",
+    "Do not assume fixed MOQ, fixed lead time or lowest price; supplier review depends on structure, quantity and production details."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/products",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 106701
+    },
+    {
+      "url": "https://mugepackaging.com/contact",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75150
+    }
+  ],
+  "summary": {
+    "impressions": 40,
+    "clicks": 0,
+    "conversions": 0,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  }
+}
