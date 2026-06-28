@@ -1,0 +1,142 @@
+{
+  "marker": "MUGE_HIGH_INTENT_RFQ_ROUTE_INDEX_SOURCEBRIDGE_20260628",
+  "title": "MUGE PACKAGING High-Intent Custom Packaging RFQ Route Index",
+  "term": "custom printed boxes UK",
+  "generatedAt": "2026-06-28T01:32:04.914Z",
+  "generatedAtCst": "2026-06-28 09:32 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0537_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "custom printed boxes UK",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "高",
+      "reason": "检查搜索词和落地页，不提价；已有较多点击但无转化，优先查搜索词意图、落地页承接和表单，不应先加价抢排名。",
+      "impressions": 117,
+      "clicks": 23,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Custom printed boxes UK RFQ route",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-printed-boxes-uk-rfq-route-sourcebridge-2026-06-28.html",
+      "reason": "Use when UK/EU buyers need to turn printed box searches into a quote-ready packaging brief."
+    },
+    {
+      "label": "Custom packaging company route",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-company-rfq-route-sourcebridge-2026-06-28.html",
+      "reason": "Use when buyers compare manufacturer support, trading company coordination and packaging company fit."
+    },
+    {
+      "label": "Custom packaging boxes UK route",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-uk-rfq-route-sourcebridge-2026-06-28.html",
+      "reason": "Use when UK buyers need custom boxes but must clarify structure, quantity range, material and artwork status first."
+    },
+    {
+      "label": "Gift box wholesale UK route",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/gift-box-wholesale-uk-rfq-route-sourcebridge-2026-06-28.html",
+      "reason": "Use for rigid gift box wholesale projects requiring structure, insert and finish review."
+    },
+    {
+      "label": "Custom boxes triage route",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-boxes-rfq-triage-route-sourcebridge-2026-06-28.html",
+      "reason": "Use when the query is broad and the buyer needs to choose between box types before RFQ."
+    },
+    {
+      "label": "Product category selector",
+      "url": "https://mugepackaging.com/products",
+      "reason": "Use to choose paper boxes, rigid gift boxes, corrugated mailers, clear boxes, paper tubes or paper bags."
+    },
+    {
+      "label": "Quote checklist guide",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Use to prepare size, quantity range, material direction, artwork status and sales channel."
+    },
+    {
+      "label": "RFQ handoff",
+      "url": "https://mugepackaging.com/contact?intent=high-intent-packaging-rfq-route-index&source=route-index-sourcebridge",
+      "reason": "Use when the buyer can describe product type, structure, dimensions, quantity range, sales channel and artwork status."
+    }
+  ],
+  "decisions": [
+    "Which search intent is active: custom printed boxes, custom boxes, packaging company, gift box wholesale, mailer boxes or cosmetic packaging?",
+    "Which packaging structure should be reviewed first: paper box, rigid gift box, corrugated mailer, clear box, paper tube or paper bag?",
+    "Can the buyer provide dimensions, packed weight, quantity range, sales channel, material direction, finish needs and artwork status?",
+    "Does the project need retail presentation, shipping protection, insert design, sampling review or production coordination?",
+    "Which compliance, certification, delivery or market claims must stay buyer-confirmed before quoting?"
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-printed-boxes-uk-rfq-route-sourcebridge-2026-06-28.html",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 5936
+    },
+    {
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-company-rfq-route-sourcebridge-2026-06-28.html",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 4534
+    },
+    {
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-boxes-uk-rfq-route-sourcebridge-2026-06-28.html",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 4491
+    },
+    {
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/gift-box-wholesale-uk-rfq-route-sourcebridge-2026-06-28.html",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 4449
+    },
+    {
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-boxes-rfq-triage-route-sourcebridge-2026-06-28.html",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 4397
+    },
+    {
+      "url": "https://mugepackaging.com/products",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 106701
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/contact?intent=high-intent-packaging-rfq-route-index&source=route-index-sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75154
+    }
+  ],
+  "summary": {
+    "impressions": 117,
+    "clicks": 23,
+    "conversions": 0,
+    "pageChecksPassed": 8,
+    "pageChecksTotal": 8
+  }
+}
