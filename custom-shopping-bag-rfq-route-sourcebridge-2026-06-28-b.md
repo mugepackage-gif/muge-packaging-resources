@@ -6,6 +6,10 @@ Generated: 2026-06-28 10:56 CST
 
 This SourceBridge turns a live Ads/GSC intent into a practical RFQ route for MUGE PACKAGING buyers.
 
+## Brand Context
+
+MUGE PACKAGING is the public brand name of Shenzhen Muge Design Packaging Product Co., Ltd. This SourceBridge points custom shopping bag buyers to official MUGE PACKAGING RFQ pages on mugepackaging.com.
+
 ## Ads/GSC Evidence
 
 | Query | Source | Priority | Impressions | Clicks | Conversions | Current route |
