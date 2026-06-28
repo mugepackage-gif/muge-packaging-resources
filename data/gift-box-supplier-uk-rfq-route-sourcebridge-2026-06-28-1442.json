@@ -1,0 +1,80 @@
+{
+  "marker": "MUGE-SOURCEBRIDGE-GIFT-BOX-SUPPLIER-UK-20260628-1442",
+  "title": "Gift Box Supplier UK RFQ Route for Rigid Gift Box Buyers",
+  "term": "gift box supplier UK",
+  "generatedAt": "2026-06-28T06:38:36.326Z",
+  "generatedAtCst": "2026-06-28 14:38 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0537_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "gift box supplier UK",
+      "topic": "Rigid gift boxes",
+      "page": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "priority": "中",
+      "reason": "数据不足，继续跑；当前展示、点击或转化样本不足，暂不修改。",
+      "impressions": 20,
+      "clicks": 0,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "action_faq": "新增或检查 FAQ：How should buyers choose rigid box structure, insert and finishing options?",
+      "action_internal_link": "内链锚文本建议：rigid gift box structure and insert guide",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：Rigid box projects should start from product size, insert protection and finish requirements.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Official RFQ route",
+      "url": "https://mugepackaging.com/contact?intent=gift-box-supplier-uk-rfq&source=gift-box-supplier-uk-sourcebridge",
+      "reason": "Direct inquiry route for UK buyers preparing a rigid gift box or branded gift packaging project."
+    },
+    {
+      "label": "Rigid gift box structure guide",
+      "url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "reason": "Helps buyers compare box structures, inserts and finishing direction before RFQ."
+    },
+    {
+      "label": "Quote checklist guide",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Helps buyers prepare product dimensions, material, artwork and quantity information before requesting a quote."
+    }
+  ],
+  "decisions": [
+    "Define the gift box role: retail shelf display, premium gift set, promotional kit or e-commerce presentation.",
+    "Prepare product dimensions, packed weight, quantity range, rigid box structure preference, insert needs and artwork status before requesting a quote.",
+    "Separate finishing ideas from structural protection needs so the supplier can review box style, insert and material direction accurately."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/contact?intent=gift-box-supplier-uk-rfq&source=gift-box-supplier-uk-sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75163
+    },
+    {
+      "url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 99683
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    }
+  ],
+  "summary": {
+    "impressions": 20,
+    "clicks": 0,
+    "conversions": 0,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  }
+}
