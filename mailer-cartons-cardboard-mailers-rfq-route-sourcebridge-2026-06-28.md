@@ -6,6 +6,10 @@ Generated: 2026-06-28_0619 CST
 
 This SourceBridge routes mailer cartons, plain mailer boxes, cardboard mailers and shipping mailer box searches into a practical MUGE PACKAGING RFQ path.
 
+## Brand Context
+
+MUGE PACKAGING is the public brand name of Shenzhen Muge Design Packaging Product Co., Ltd. This SourceBridge points mailer carton and cardboard mailer buyers to official MUGE PACKAGING RFQ pages on mugepackaging.com.
+
 ## Evidence Snapshot
 
 - Selected terms: 5
