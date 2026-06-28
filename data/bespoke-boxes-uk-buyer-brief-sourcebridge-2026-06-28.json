@@ -1,0 +1,107 @@
+{
+  "marker": "MUGE_BESPOKE_BOXES_UK_SOURCEBRIDGE_20260628",
+  "generatedAt": "2026-06-28T00:21:36.904Z",
+  "generatedAtCst": "2026-06-28 08:21 CST",
+  "slug": "bespoke-boxes-uk-buyer-brief-sourcebridge-2026-06-28",
+  "title": "MUGE PACKAGING Bespoke Boxes UK Buyer Brief and RFQ Route",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0537_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads搜索词观察",
+      "term": "bespoke boxes uk",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "中",
+      "reason": "保留观察；当前数据不足，暂不修改",
+      "impressions": 4,
+      "clicks": 2,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    },
+    {
+      "source": "Ads搜索词观察",
+      "term": "bespoke packaging uk",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "低",
+      "reason": "保留观察；当前数据不足，暂不修改",
+      "impressions": 2,
+      "clicks": 1,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "summary": {
+    "selectedTerms": 2,
+    "impressions": 6,
+    "clicks": 3,
+    "conversions": 0,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  },
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 99683
+    },
+    {
+      "url": "https://mugepackaging.com/contact?intent=bespoke-boxes-uk-rfq&source=bespoke-boxes-uk-sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 75159
+    }
+  ],
+  "routes": [
+    {
+      "label": "Custom packaging quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Use when a UK buyer needs to prepare dimensions, material, artwork and quantity direction before supplier review."
+    },
+    {
+      "label": "Rigid gift box structure guide",
+      "url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "reason": "Use when bespoke boxes means rigid gift boxes, branded gift boxes, inserts or premium retail packaging."
+    },
+    {
+      "label": "RFQ handoff",
+      "url": "https://mugepackaging.com/contact?intent=bespoke-boxes-uk-rfq&source=bespoke-boxes-uk-sourcebridge",
+      "reason": "Use after the buyer can describe structure, size, packed product, artwork status, finish direction and target market."
+    }
+  ],
+  "briefFields": [
+    "Box type: rigid gift box, folding carton, mailer box, sleeve, drawer box, paper tube or paper bag set.",
+    "Product size, packed weight, protection need and whether inserts or dividers are required.",
+    "Brand direction: print coverage, foil, emboss/deboss, lamination, texture or reference photo.",
+    "Sales channel: UK ecommerce, retail shelf, event/gift set, launch kit or international distribution.",
+    "Artwork status and dieline readiness, plus quantity direction for supplier review."
+  ],
+  "boundaries": [
+    "No fixed MOQ, fixed lead time, lowest price, free sample, customer case or production capacity is claimed.",
+    "No FSC, FDA, food-contact or regulatory guarantee is claimed.",
+    "This page is a search-to-RFQ routing asset, not proof of Google ranking, AI recommendation, inquiry or conversion."
+  ]
+}
