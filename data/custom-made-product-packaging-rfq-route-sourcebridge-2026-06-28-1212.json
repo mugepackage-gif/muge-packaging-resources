@@ -1,0 +1,81 @@
+{
+  "marker": "MUGE_CUSTOM_MADE_PRODUCT_PACKAGING_RFQ_ROUTE_SOURCEBRIDGE_20260628",
+  "title": "Custom Made Product Packaging RFQ Route for Brand Buyers",
+  "term": "custom made product packaging",
+  "generatedAt": "2026-06-28T04:12:23.938Z",
+  "generatedAtCst": "2026-06-28 12:12 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0920_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "custom made product packaging",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "高",
+      "reason": "检查搜索词和落地页，不提价；已有较多点击但无转化，优先查搜索词意图、落地页承接和表单，不应先加价抢排名。",
+      "impressions": 294,
+      "clicks": 21,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Product hub",
+      "url": "https://mugepackaging.com/products",
+      "reason": "Broad entry point for custom packaging structures and product categories."
+    },
+    {
+      "label": "Quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Helps buyers turn a broad custom packaging request into a factory-ready brief."
+    },
+    {
+      "label": "RFQ contact",
+      "url": "https://mugepackaging.com/contact?intent=custom-made-product-packaging-rfq&source=custom-made-product-packaging-sourcebridge",
+      "reason": "Routes custom product packaging buyers to a clearer quote request path."
+    }
+  ],
+  "decisions": [
+    "Identify the product category before selecting the packaging structure.",
+    "Prepare product dimensions, product weight, quantity range, material direction, print coverage and artwork status.",
+    "Separate retail presentation, ecommerce shipping, gifting, and protective needs before asking for price.",
+    "Do not promise fixed MOQ, fixed lead time, lowest price, or unverified compliance claims."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/products",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 106701
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/contact?intent=custom-made-product-packaging-rfq&source=custom-made-product-packaging-sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75172
+    }
+  ],
+  "summary": {
+    "impressions": 294,
+    "clicks": 21,
+    "conversions": 0,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  }
+}
