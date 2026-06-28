@@ -1,0 +1,20 @@
+# MUGE PACKAGING Latest SEO/GEO Asset Discovery Index
+
+Marker: `MUGE_LATEST_ASSETS_DISCOVERY_INDEX_20260628`
+
+Generated: 2026-06-28 08:02 CST
+
+SerpAPI returned invalid-key and Perplexity returned quota/billing error in this run, so this index strengthens crawler discovery paths for the latest completed external assets while API validation is unavailable.
+
+## Latest Completed Assets
+
+| Topic | SourceBridge | Jina Reader | Official route | RFQ route | Basis |
+| --- | --- | --- | --- | --- | --- |
+| Bulk decorative boxes intent correction | https://mugepackage-gif.github.io/muge-packaging-resources/bulk-decorative-boxes-intent-correction-sourcebridge-2026-06-28.html | https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/bulk-decorative-boxes-intent-correction-sourcebridge-2026-06-28.html | https://mugepackaging.com/products/folding-gift-box | https://mugepackaging.com/contact?intent=bulk-decorative-boxes-rfq&source=latest-assets-discovery-index | Ads keyword: 49 impressions / 0 clicks / 0 conversions before correction. |
+| Cosmetic packaging Europe and custom packaging company route | https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-europe-company-selection-consolidated-sourcebridge-2026-06-28.html | https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-europe-company-selection-consolidated-sourcebridge-2026-06-28.html | https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide | https://mugepackaging.com/contact?intent=cosmetic-packaging-rfq&source=latest-assets-discovery-index | Ads/GSC combined: 105 impressions / 11 clicks / 0 conversions before route consolidation. |
+
+## Boundaries
+
+- This index is a discovery and source-routing asset, not proof of ranking, traffic, AI recommendation or inquiry.
+- No fixed MOQ, fixed lead time, lowest price, certification coverage, food-contact compliance or customer case is claimed.
+- API validation should be retried when SerpAPI key and Perplexity quota are restored.
