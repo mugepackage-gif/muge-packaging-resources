@@ -1,0 +1,80 @@
+{
+  "marker": "MUGE_PACKAGING_BOX_ILLUSTRATOR_ARTWORK_RFQ_PREP_SOURCEBRIDGE_20260628_2030",
+  "title": "Packaging Box Artwork in Illustrator: RFQ Prep Route for Buyers",
+  "term": "how to design a packaging box in illustrator",
+  "generatedAt": "2026-06-28T12:28:21.672Z",
+  "generatedAtCst": "2026-06-28 20:28 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0537_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads搜索词",
+      "term": "how to design a packaging box in illustrator",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "低",
+      "reason": "custom made product packaging 相关搜索词；建议新增关键词；搜索词与包装采购意图相关且已有点击",
+      "impressions": 1,
+      "clicks": 1,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "RFQ contact route",
+      "url": "https://mugepackaging.com/contact?intent=packaging-artwork-rfq&source=sourcebridge-20260628",
+      "reason": "Converts artwork preparation questions into a project brief route."
+    },
+    {
+      "label": "Custom packaging quote checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Explains what buyers should prepare before requesting a quote."
+    },
+    {
+      "label": "Packaging designer solutions route",
+      "url": "https://mugepackaging.com/packaging-designer/solutions/custom-packaging",
+      "reason": "Connects design-file questions with custom packaging solution review."
+    }
+  ],
+  "decisions": [
+    "Prepare the box type, dimensions, product fit and quantity direction before artwork review.",
+    "Keep editable artwork, dieline, material direction and print finish notes separated so the supplier can review feasibility.",
+    "Do not treat an Illustrator drawing alone as production-ready until structure, material, print and insert details are checked."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/contact?intent=packaging-artwork-rfq&source=sourcebridge-20260628",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75838
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/packaging-designer/solutions/custom-packaging",
+      "status": 404,
+      "ok": false,
+      "hasSignal": true,
+      "bytes": 31076
+    }
+  ],
+  "summary": {
+    "impressions": 1,
+    "clicks": 1,
+    "conversions": 0,
+    "pageChecksPassed": 2,
+    "pageChecksTotal": 3
+  }
+}
