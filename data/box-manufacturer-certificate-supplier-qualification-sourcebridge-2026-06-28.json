@@ -1,0 +1,114 @@
+{
+  "marker": "MUGE_BOX_MANUFACTURER_CERTIFICATE_SOURCEBRIDGE_20260628",
+  "generatedAt": "2026-06-28T00:14:47.466Z",
+  "generatedAtCst": "2026-06-28 08:14 CST",
+  "slug": "box-manufacturer-certificate-supplier-qualification-sourcebridge-2026-06-28",
+  "title": "MUGE PACKAGING Box Manufacturer Certificate and Supplier Qualification Check",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0537_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "GSC查询词",
+      "term": "box manufacturer certificate",
+      "topic": "Custom packaging supplier selection",
+      "page": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "priority": "低",
+      "reason": "GSC 28天展示 2，平均排名 69.5",
+      "impressions": 2,
+      "clicks": 0,
+      "conversions": 0,
+      "position": 69.5,
+      "action_page": "补强页面：https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "action_faq": "新增或检查 FAQ：How should brands compare a packaging manufacturer, supplier and trading company?",
+      "action_internal_link": "内链锚文本建议：custom packaging supplier selection guide",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：Supplier selection should compare structure support, material options, sampling process and project review quality.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    },
+    {
+      "source": "GSC查询页面",
+      "term": "box manufacturer certificate",
+      "topic": "Custom packaging supplier selection",
+      "page": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "priority": "低",
+      "reason": "GSC 查询-页面已出现：https://mugepackaging.com/blog/custom-rigid-box-manufacturer-quality-standards-and-certification-guide；展示 2，平均排名 69.5",
+      "impressions": 2,
+      "clicks": 0,
+      "conversions": 0,
+      "position": 69.5,
+      "action_page": "补强页面：https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "action_faq": "新增或检查 FAQ：How should brands compare a packaging manufacturer, supplier and trading company?",
+      "action_internal_link": "内链锚文本建议：custom packaging supplier selection guide",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：Supplier selection should compare structure support, material options, sampling process and project review quality.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "summary": {
+    "selectedTerms": 2,
+    "impressions": 4,
+    "clicks": 0,
+    "conversions": 0,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  },
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 98170
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-rigid-box-manufacturer-quality-standards-and-certification-guide",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 34929
+    },
+    {
+      "url": "https://mugepackaging.com/contact?intent=certificate-supplier-qualification-review&source=certificate-sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 75154
+    }
+  ],
+  "routes": [
+    {
+      "label": "Manufacturer vs trading company route",
+      "url": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "reason": "Use when a buyer needs to compare supplier type, project review capability and communication quality."
+    },
+    {
+      "label": "Quality standards and certification guide",
+      "url": "https://mugepackaging.com/blog/custom-rigid-box-manufacturer-quality-standards-and-certification-guide",
+      "reason": "Use when a buyer is checking what certificate scope, sample review and quality documentation should mean."
+    },
+    {
+      "label": "RFQ handoff",
+      "url": "https://mugepackaging.com/contact?intent=certificate-supplier-qualification-review&source=certificate-sourcebridge",
+      "reason": "Use after the buyer can provide product category, packaging structure, destination market and certificate/documentation questions."
+    }
+  ],
+  "verificationQuestions": [
+    "Does the certificate name match the legal company or operating entity being evaluated?",
+    "Does the certificate scope actually cover the packaging material, process or product type being discussed?",
+    "Is the certificate valid for the buyer's target market, or does the project require additional buyer-side compliance review?",
+    "Can the supplier explain sample review, inspection points, material choices and artwork prepress checks before quoting?",
+    "Which documents must be confirmed by the buyer before final order, especially for food, child-resistant or regulated categories?"
+  ],
+  "buyerBriefFields": [
+    "Product category and packaging structure: rigid box, folding carton, paper tube, corrugated mailer, paper bag or clear PVC/PET box.",
+    "Destination market and sales channel: ecommerce, retail shelf, gift set, cosmetic, wellness, electronics, specialty retail or regulated category.",
+    "Specific certificate or document question, instead of a vague request for all certificates.",
+    "Artwork status, material direction, printing/finish requirement and sample review expectation.",
+    "Quantity direction and timeline question for internal review only, without treating it as a fixed MOQ or fixed lead-time promise."
+  ],
+  "boundaries": [
+    "This page does not claim a fixed certificate, fixed certification scope, FSC, FDA, food-contact approval or regulatory guarantee.",
+    "Any certificate, compliance document or market-specific claim must be checked against project documents before buyer use.",
+    "This page is a source-routing and qualification-check asset, not proof of ranking, traffic, AI recommendation or inquiry."
+  ]
+}
