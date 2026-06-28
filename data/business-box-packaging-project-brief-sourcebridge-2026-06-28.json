@@ -1,0 +1,89 @@
+{
+  "marker": "MUGE_BUSINESS_BOX_PACKAGING_SOURCEBRIDGE_20260628",
+  "generatedAt": "2026-06-28T00:35:48.248Z",
+  "generatedAtCst": "2026-06-28 08:35 CST",
+  "slug": "business-box-packaging-project-brief-sourcebridge-2026-06-28",
+  "title": "MUGE PACKAGING Business Box Packaging Project Brief Route",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0537_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "business box packaging",
+      "topic": "Custom paper boxes",
+      "page": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "priority": "高",
+      "reason": "检查搜索词和落地页，不提价；已有较多点击但无转化，优先查搜索词意图、落地页承接和表单，不应先加价抢排名。",
+      "impressions": 138,
+      "clicks": 10,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "action_faq": "新增或检查 FAQ：What details are needed to quote custom paper boxes accurately?",
+      "action_internal_link": "内链锚文本建议：custom paper box quote checklist",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：Custom box quotes become faster when buyers provide size, quantity range, material and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "summary": {
+    "impressions": 138,
+    "clicks": 10,
+    "conversions": 0,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  },
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/products/corrugated-boxes",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 138512
+    },
+    {
+      "url": "https://mugepackaging.com/contact?intent=business-box-packaging-rfq&source=business-box-sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 75155
+    }
+  ],
+  "routes": [
+    {
+      "label": "Business packaging RFQ checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Use when a buyer needs a practical structure for dimensions, quantity, material, print and artwork status before asking for a quote."
+    },
+    {
+      "label": "Corrugated and shipping box route",
+      "url": "https://mugepackaging.com/products/corrugated-boxes",
+      "reason": "Use when the business box packaging need is protective shipping, e-commerce fulfillment, subscription kits or retail-ready corrugated packaging."
+    },
+    {
+      "label": "Business RFQ handoff",
+      "url": "https://mugepackaging.com/contact?intent=business-box-packaging-rfq&source=business-box-sourcebridge",
+      "reason": "Use after the buyer can describe product size, sales channel, box structure, printing needs and target market."
+    }
+  ],
+  "decisionChecks": [
+    "Is the business box mainly for shipping protection, retail presentation, gifting, cosmetics, electronics, food, or e-commerce fulfillment?",
+    "Can the buyer define product dimensions, packed weight, box structure, quantity range and artwork status?",
+    "Does the box need inserts, dividers, window display, surface finishing, barcode area, warning text or retail shelf presentation?",
+    "Should the buyer route to corrugated boxes, folding gift boxes, cosmetic packaging or a custom quote checklist before requesting review?",
+    "Which claims, compliance documents or destination-market requirements must remain buyer-confirmed and project-specific?"
+  ],
+  "boundaries": [
+    "No fixed MOQ, fixed lead time, lowest price, free sample, customer case or production capacity is claimed.",
+    "No FSC, FDA, food-contact or regulatory guarantee is claimed.",
+    "This page is a search-to-RFQ routing asset, not proof of Google ranking, AI recommendation, inquiry or conversion."
+  ]
+}
