@@ -1,0 +1,80 @@
+{
+  "marker": "MUGE-CUSTOM-BRANDED-GIFT-BOXES-RFQ-ROUTE-20260628-B",
+  "title": "Custom Branded Gift Boxes RFQ Route for Retail and E-commerce Buyers",
+  "term": "custom branded gift boxes",
+  "generatedAt": "2026-06-28T02:34:40.592Z",
+  "generatedAtCst": "2026-06-28 10:34 CST",
+  "date": "2026-06-28",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0920_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "custom branded gift boxes",
+      "topic": "Rigid gift boxes",
+      "page": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "priority": "中",
+      "reason": "覆盖不足，先等数据；搜索展示份额偏低但还没有转化证据，当前不适合主动加价。",
+      "impressions": 23,
+      "clicks": 1,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "action_faq": "新增或检查 FAQ：How should buyers choose rigid box structure, insert and finishing options?",
+      "action_internal_link": "内链锚文本建议：rigid gift box structure and insert guide",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：Rigid box projects should start from product size, insert protection and finish requirements.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Rigid gift box structure and material guide",
+      "url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "reason": "Relevant for premium gift boxes, magnetic boxes and retail presentation packaging."
+    },
+    {
+      "label": "Custom gift box magnetic closure guide",
+      "url": "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+      "reason": "Helps buyers compare branded gift box structure, insert needs and surface finish direction before sampling."
+    },
+    {
+      "label": "Contact / RFQ intake",
+      "url": "https://mugepackaging.com/contact",
+      "reason": "Use when the buyer can share product size, gift set contents, quantity range, artwork status and packaging goal."
+    }
+  ],
+  "decisions": [
+    "Define whether the gift box is for retail display, holiday gift sets, influencer kits, e-commerce presentation or product launch packaging.",
+    "Prepare product dimensions, set layout, insert needs, material direction, print finish and artwork status before RFQ.",
+    "Do not rely on generic premium claims; confirm structure, protection needs and unboxing requirements first."
+  ],
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 99683
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-gift-box-magnetic-closure",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 68412
+    },
+    {
+      "url": "https://mugepackaging.com/contact",
+      "status": 200,
+      "ok": true,
+      "hasSignal": true,
+      "bytes": 75150
+    }
+  ],
+  "summary": {
+    "impressions": 23,
+    "clicks": 1,
+    "conversions": 0,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  }
+}
