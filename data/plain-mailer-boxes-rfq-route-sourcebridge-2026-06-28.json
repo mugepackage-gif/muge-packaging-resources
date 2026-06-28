@@ -1,0 +1,89 @@
+{
+  "marker": "MUGE_PLAIN_MAILER_BOXES_SOURCEBRIDGE_20260628",
+  "generatedAt": "2026-06-28T00:42:05.348Z",
+  "generatedAtCst": "2026-06-28 08:42 CST",
+  "slug": "plain-mailer-boxes-rfq-route-sourcebridge-2026-06-28",
+  "title": "MUGE PACKAGING Plain Mailer Boxes RFQ Route",
+  "sourcePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/GoogleAds与账号复盘/GEO_SEO反哺清单/2026-06-28_0537_AdsGSC反哺GEOSEO清单.json",
+  "selected": [
+    {
+      "source": "Ads关键词",
+      "term": "plain mailer boxes",
+      "topic": "General packaging inquiry",
+      "page": "https://mugepackaging.com/contact",
+      "priority": "高",
+      "reason": "覆盖不足，先等数据；搜索展示份额偏低但还没有转化证据，当前不适合主动加价。",
+      "impressions": 512,
+      "clicks": 7,
+      "conversions": "0",
+      "position": "",
+      "action_page": "补强页面：https://mugepackaging.com/contact",
+      "action_faq": "新增或检查 FAQ：What information should a buyer include in a custom packaging inquiry?",
+      "action_internal_link": "内链锚文本建议：custom packaging project review",
+      "action_social": "社媒/GBP/LinkedIn 草稿角度：A useful packaging inquiry includes product size, quantity range, material preference and artwork status.",
+      "forbidden": "不自动发布；不承诺未核实认证、价格、固定交期、最低价或客户案例。"
+    }
+  ],
+  "summary": {
+    "impressions": 512,
+    "clicks": 7,
+    "conversions": 0,
+    "pageChecksPassed": 3,
+    "pageChecksTotal": 3
+  },
+  "pageChecks": [
+    {
+      "url": "https://mugepackaging.com/products/corrugated-boxes",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 138512
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 107859
+    },
+    {
+      "url": "https://mugepackaging.com/contact?intent=plain-mailer-boxes-rfq&source=plain-mailer-sourcebridge",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 75155
+    }
+  ],
+  "routes": [
+    {
+      "label": "Corrugated mailer box route",
+      "url": "https://mugepackaging.com/products/corrugated-boxes",
+      "reason": "Use when a buyer needs plain or printed mailer boxes for e-commerce shipping, subscription kits or lightweight retail dispatch."
+    },
+    {
+      "label": "RFQ checklist",
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "reason": "Use when the buyer needs to define internal dimensions, board strength, quantity, artwork status and delivery use before requesting review."
+    },
+    {
+      "label": "Mailer box RFQ handoff",
+      "url": "https://mugepackaging.com/contact?intent=plain-mailer-boxes-rfq&source=plain-mailer-sourcebridge",
+      "reason": "Use after the buyer can describe product fit, box size, packing weight, shipping channel and print requirement."
+    }
+  ],
+  "decisionChecks": [
+    "Are the boxes for shipping protection only, or do they also need retail presentation or branded unboxing?",
+    "Does the buyer need plain kraft/white mailers, custom printed mailers, inserts, dividers, sleeves or labels?",
+    "Can the buyer define internal dimensions, packed weight, quantity range, board direction and artwork status?",
+    "Will the package ship directly to consumers, go through marketplace fulfillment, or sit inside an outer carton?",
+    "Which destination-market claims or documentation must remain project-specific and buyer-confirmed?"
+  ],
+  "boundaries": [
+    "No fixed MOQ, fixed lead time, lowest price, free sample, customer case or production capacity is claimed.",
+    "No FSC, FDA, food-contact or regulatory guarantee is claimed.",
+    "This page is a search-to-RFQ routing asset, not proof of Google ranking, AI recommendation, inquiry or conversion."
+  ]
+}
