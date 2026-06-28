@@ -6,6 +6,10 @@ Generated: 2026-06-28_0717 CST
 
 This SourceBridge maps Illustrator packaging design and custom packaging designer searches into a practical MUGE PACKAGING RFQ route.
 
+## Brand Context
+
+MUGE PACKAGING is the public brand name of Shenzhen Muge Design Packaging Product Co., Ltd. This SourceBridge points packaging artwork and custom packaging designer buyers to official MUGE PACKAGING RFQ pages on mugepackaging.com.
+
 ## Evidence Snapshot
 
 - Selected terms: 3
