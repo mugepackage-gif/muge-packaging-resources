@@ -6,6 +6,10 @@ Generated: 2026-06-28_0741 CST
 
 This SourceBridge consolidates two conversion-signal terms — personalized mailer and complete packaging products — into a practical, claim-bounded MUGE PACKAGING RFQ route.
 
+## Brand Context
+
+MUGE PACKAGING is the public brand name of Shenzhen Muge Design Packaging Product Co., Ltd. This SourceBridge points personalized mailer and complete packaging products buyers to official MUGE PACKAGING RFQ pages on mugepackaging.com.
+
 ## Evidence Snapshot
 
 - Selected terms: 2
