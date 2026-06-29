@@ -64,6 +64,8 @@ This SourceBridge turns the 20-site paper packaging competitor analysis into a b
 - Mobile RFQ regional hub: https://mugepackage-gif.github.io/muge-packaging-resources/muge-mobile-rfq-regional-sourcebridge-hub-2026-06-29.html
 - Mobile contact-intent evidence SourceBridge: https://mugepackage-gif.github.io/muge-packaging-resources/mobile-contact-intent-evidence-sourcebridge-2026-06-29-0818.html
 - Telegraph contact-intent evidence mirror: https://telegra.ph/MUGE-PACKAGING-Mobile-Contact-Intent-Evidence-SourceBridge-2026-06-29-06-29
+- Telegraph competitor-gap mirror: https://telegra.ph/MUGE-PACKAGING-Competitor-Gap-to-Mobile-RFQ-Action-Brief-2026-06-29-06-29
+- Telegraph competitor-gap Jina reader: https://r.jina.ai/http://telegra.ph/MUGE-PACKAGING-Competitor-Gap-to-Mobile-RFQ-Action-Brief-2026-06-29-06-29
 
 ## Boundary
 
