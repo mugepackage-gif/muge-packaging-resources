@@ -35,6 +35,11 @@ Official website: https://mugepackaging.com
    - Jina Reader: https://r.jina.ai/http://packaging-industry.info/market/packaging-industry/champagne-flute-gift-box-packaging-rfq-details-buyers-should-confirm-first-2-1661/
    - Official route: https://mugepackaging.com/products/folding-gift-box
 
+6. Custom Gloss Paper Boxes with Multi-Sided Shapes RFQ Details
+   - Third-party article: https://packaging-industry.info/market/packaging-industry/custom-gloss-paper-boxes-with-multi-sided-shapes-rfq-details-buyers-should-prepare-2-1663/
+   - Jina Reader: https://r.jina.ai/http://packaging-industry.info/market/packaging-industry/custom-gloss-paper-boxes-with-multi-sided-shapes-rfq-details-buyers-should-prepare-2-1663/
+   - Official route: https://mugepackaging.com/products/paper-packaging
+
 ## Buyer Questions Covered
 
 - What should custom packaging buyers send before asking for a mobile RFQ?
@@ -42,6 +47,7 @@ Official website: https://mugepackaging.com
 - What RFQ details matter for custom-size corrugated packaging and ecommerce mailers?
 - What should fashion buyers confirm before asking for black apparel boxes?
 - What should premium gift box buyers confirm for fragile glassware packaging?
+- What should buyers prepare before requesting custom gloss paper boxes with multi-sided structures?
 
 ## Boundary
 
