@@ -80,6 +80,11 @@ Official website: https://mugepackaging.com
     - Jina Reader: https://r.jina.ai/http://packaging-industry.info/market/packaging-industry/beauty-packaging-solutions-what-buyers-should-confirm-before-an-rfq-2-1679/
     - Official route: https://mugepackaging.com/blog/custom-cosmetic-packaging-solutions-for-beauty-and-skincare-brands
 
+15. Custom Cylinder Packaging Paper Tube RFQ Details
+    - Third-party article: https://packaging-industry.info/market/packaging-industry/custom-cylinder-packaging-paper-tube-rfq-details-buyers-should-prepare-3-1681/
+    - Jina Reader: https://r.jina.ai/http://packaging-industry.info/market/packaging-industry/custom-cylinder-packaging-paper-tube-rfq-details-buyers-should-prepare-3-1681/
+    - Official route: https://mugepackaging.com/products/paper-tubes
+
 ## Buyer Questions Covered
 
 - What should custom packaging buyers send before asking for a mobile RFQ?
@@ -96,6 +101,7 @@ Official website: https://mugepackaging.com
 - What should ecommerce sellers prepare before asking for corrugated mailer boxes?
 - What should beauty buyers prepare before reviewing custom packaging solutions or a cosmetic packaging manufacturer?
 - What should beauty and skincare brands confirm before sending a beauty packaging solutions RFQ?
+- What should buyers prepare before sampling custom cylinder packaging or paper tube packaging?
 
 ## Boundary
 
