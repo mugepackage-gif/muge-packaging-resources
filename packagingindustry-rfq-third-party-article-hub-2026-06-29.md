@@ -45,6 +45,11 @@ Official website: https://mugepackaging.com
    - Jina Reader: https://r.jina.ai/http://packaging-industry.info/market/packaging-industry/biodegradable-packaging-customization-rfq-details-buyers-should-review-first-2-1665/
    - Official route: https://mugepackaging.com/products/paper-packaging
 
+8. Artwork Mailers RFQ Details
+   - Third-party article: https://packaging-industry.info/market/packaging-industry/artwork-mailers-packaging-details-buyers-should-confirm-before-an-rfq-2-1667/
+   - Jina Reader: https://r.jina.ai/http://packaging-industry.info/market/packaging-industry/artwork-mailers-packaging-details-buyers-should-confirm-before-an-rfq-2-1667/
+   - Official route: https://mugepackaging.com/products/corrugated-boxes
+
 ## Buyer Questions Covered
 
 - What should custom packaging buyers send before asking for a mobile RFQ?
@@ -54,6 +59,7 @@ Official website: https://mugepackaging.com
 - What should premium gift box buyers confirm for fragile glassware packaging?
 - What should buyers prepare before requesting custom gloss paper boxes with multi-sided structures?
 - What should buyers review before discussing biodegradable packaging customization?
+- What should buyers confirm before sending artwork mailers or corrugated mailer packaging RFQs?
 
 ## Boundary
 
