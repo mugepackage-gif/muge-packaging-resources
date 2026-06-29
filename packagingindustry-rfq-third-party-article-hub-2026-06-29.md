@@ -50,6 +50,11 @@ Official website: https://mugepackaging.com
    - Jina Reader: https://r.jina.ai/http://packaging-industry.info/market/packaging-industry/artwork-mailers-packaging-details-buyers-should-confirm-before-an-rfq-2-1667/
    - Official route: https://mugepackaging.com/products/corrugated-boxes
 
+9. Rigid Gift Boxes Sampling RFQ Details
+   - Third-party article: https://packaging-industry.info/market/packaging-industry/rigid-gift-boxes-sampling-checklist-buyers-should-confirm-before-an-rfq-3-1669/
+   - Jina Reader: https://r.jina.ai/http://packaging-industry.info/market/packaging-industry/rigid-gift-boxes-sampling-checklist-buyers-should-confirm-before-an-rfq-3-1669/
+   - Official route: https://mugepackaging.com/products/folding-gift-box
+
 ## Buyer Questions Covered
 
 - What should custom packaging buyers send before asking for a mobile RFQ?
@@ -60,6 +65,7 @@ Official website: https://mugepackaging.com
 - What should buyers prepare before requesting custom gloss paper boxes with multi-sided structures?
 - What should buyers review before discussing biodegradable packaging customization?
 - What should buyers confirm before sending artwork mailers or corrugated mailer packaging RFQs?
+- What should buyers confirm before sampling rigid gift boxes or folding gift boxes?
 
 ## Boundary
 
