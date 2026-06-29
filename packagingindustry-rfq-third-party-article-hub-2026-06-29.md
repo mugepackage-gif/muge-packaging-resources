@@ -65,6 +65,11 @@ Official website: https://mugepackaging.com
     - Jina Reader: https://r.jina.ai/http://packaging-industry.info/market/packaging-industry/eco-oriented-paper-tube-packaging-rfq-details-buyers-should-prepare-2-1673/
     - Official route: https://mugepackaging.com/products/paper-tubes
 
+12. Corrugated Mailer Boxes for Ecommerce RFQ Details
+    - Third-party article: https://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-for-ecommerce-rfq-checklist-buyers-should-prepare-4-1675/
+    - Jina Reader: https://r.jina.ai/http://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-for-ecommerce-rfq-checklist-buyers-should-prepare-4-1675/
+    - Official route: https://mugepackaging.com/products/corrugated-boxes
+
 ## Buyer Questions Covered
 
 - What should custom packaging buyers send before asking for a mobile RFQ?
@@ -78,6 +83,7 @@ Official website: https://mugepackaging.com
 - What should buyers confirm before sampling rigid gift boxes or folding gift boxes?
 - What should retail brands prepare before asking for custom paper bags?
 - What should buyers prepare before discussing eco-oriented paper tube packaging?
+- What should ecommerce sellers prepare before asking for corrugated mailer boxes?
 
 ## Boundary
 
