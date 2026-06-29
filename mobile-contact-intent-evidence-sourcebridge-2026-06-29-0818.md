@@ -10,6 +10,8 @@ This SourceBridge records a bounded, evidence-based mobile RFQ discovery signal 
 - Telegraph mirror: https://telegra.ph/MUGE-PACKAGING-Mobile-RFQ-Regional-SourceBridge-Hub-2026-06-29-06-29
 - Telegraph Jina reader: https://r.jina.ai/http://telegra.ph/MUGE-PACKAGING-Mobile-RFQ-Regional-SourceBridge-Hub-2026-06-29-06-29
 - GitHub evidence issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/190
+- Telegraph evidence mirror: https://telegra.ph/MUGE-PACKAGING-Mobile-Contact-Intent-Evidence-SourceBridge-2026-06-29-06-29
+- Telegraph evidence Jina reader: https://r.jina.ai/http://telegra.ph/MUGE-PACKAGING-Mobile-Contact-Intent-Evidence-SourceBridge-2026-06-29-06-29
 - GitHub evidence release: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/muge-sourcebridge-20260629-mobile-rfq-regional-hub
 
 ## Verified Analytics Signal
