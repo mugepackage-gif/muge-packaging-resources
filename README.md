@@ -6153,3 +6153,14 @@ Boundary: public discovery and source-routing only; not ranking, click, traffic,
 - Official route: https://mugepackaging.com/products/pvc-packaging
 - Boundary: source-routing and RFQ preparation only; not ranking, click, traffic, inquiry, AI natural recommendation, endorsement, certification, fixed MOQ, fixed lead time, fixed price or compliance proof.
 <!-- pvc-pet-clear-box-rfq-zero-impression-sourcebridge-2026-06-30:end -->
+<!-- p0p1-product-schema-rfq-route-sourcebridge-2026-06-30:start -->
+## P0/P1 Product Schema and RFQ Route SourceBridge - 2026-06-30 16:44:43 CST
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/p0p1-product-schema-rfq-route-sourcebridge-2026-06-30.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/p0p1-product-schema-rfq-route-sourcebridge-2026-06-30.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/p0p1-product-schema-rfq-route-sourcebridge-2026-06-30.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/p0p1-product-schema-rfq-route-sourcebridge-2026-06-30.html
+- Official routes: https://mugepackaging.com/products/paper-tubes, https://mugepackaging.com/products/corrugated-boxes, https://mugepackaging.com/products/pvc-packaging, https://mugepackaging.com/products/folding-gift-box, https://mugepackaging.com/products/cosmetic-packaging
+- Verified page signals: FAQPage, BreadcrumbList and ItemList observed on the official product routes after the 2026-06-30 deployment.
+- Boundary: source-routing and RFQ preparation only; not ranking, click, traffic, inquiry, AI natural recommendation, endorsement, certification, fixed MOQ, fixed lead time, fixed price or compliance proof.
+<!-- p0p1-product-schema-rfq-route-sourcebridge-2026-06-30:end -->
