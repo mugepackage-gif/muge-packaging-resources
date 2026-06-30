@@ -625,20 +625,21 @@
   },
   "ok": true,
   "finalOk": true,
-  "finalStatus": "verified_public_live_after_github_pages_propagation",
+  "finalStatus": "verified_public_live_and_website_llms_attached",
   "verification": {
-    "verifiedAt": "2026-06-30T06:12:38.729Z",
-    "verifiedAtCst": "2026-06-30 14:12:38 CST",
+    "verifiedAt": "2026-06-30T06:20:07.239Z",
+    "verifiedAtCst": "2026-06-30 14:20:07 CST",
+    "cloudflareWorkerVersion": "5a8d9d8c-50d4-41b2-bf47-7deaae25eaf2",
     "initialGitHubPagesStatus": 404,
-    "finalStatus": "verified_public_live",
+    "finalStatus": "verified_public_live_and_website_llms_attached",
     "results": [
       {
         "label": "GitHub Pages HTML",
         "url": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30.html",
-        "status": 200,
-        "hasBrand": true,
+        "httpStatus": 200,
+        "hasBrandName": true,
         "hasLegalName": true,
-        "hasDomain": true,
+        "hasDomainText": true,
         "hasTopic": true,
         "hasBoundary": true,
         "unsafeClaim": false
@@ -646,10 +647,10 @@
       {
         "label": "GitHub Pages Jina",
         "url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30.html",
-        "status": 200,
-        "hasBrand": true,
+        "httpStatus": 200,
+        "hasBrandName": true,
         "hasLegalName": true,
-        "hasDomain": true,
+        "hasDomainText": true,
         "hasTopic": true,
         "hasBoundary": true,
         "unsafeClaim": false
@@ -657,10 +658,10 @@
       {
         "label": "Telegraph",
         "url": "https://telegra.ph/MUGE-PACKAGING-Custom-Packaging-RFQ-SourceBridge-06-30",
-        "status": 200,
-        "hasBrand": true,
+        "httpStatus": 200,
+        "hasBrandName": true,
         "hasLegalName": true,
-        "hasDomain": true,
+        "hasDomainText": true,
         "hasTopic": true,
         "hasBoundary": true,
         "unsafeClaim": false
@@ -668,15 +669,54 @@
       {
         "label": "Telegraph Jina",
         "url": "https://r.jina.ai/http://telegra.ph/MUGE-PACKAGING-Custom-Packaging-RFQ-SourceBridge-06-30",
-        "status": 200,
-        "hasBrand": true,
+        "httpStatus": 200,
+        "hasBrandName": true,
         "hasLegalName": true,
-        "hasDomain": true,
+        "hasDomainText": true,
         "hasTopic": true,
         "hasBoundary": true,
         "unsafeClaim": false
       }
     ],
-    "countingRule": "Counts as verified external source-routing and discovery support for custom packaging zero-impression RFQ terms. It is not proof of Google ranking, GSC click, organic traffic, inquiry, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price, certification, food-contact compliance or customer cases."
+    "websiteLlmsVerification": {
+      "llmsTxt": {
+        "url": "https://mugepackaging.com/llms.txt",
+        "httpStatus": 200,
+        "customMarkerCount": 1,
+        "telegraphCount": 2,
+        "jinaCount": 1,
+        "aiSourcingSummaryCount": 0
+      },
+      "llmsFull": {
+        "url": "https://mugepackaging.com/llms-full.txt",
+        "httpStatus": 200,
+        "customMarkerCount": 1,
+        "telegraphCount": 2,
+        "jinaCount": 1,
+        "aiSourcingSummaryCount": 0
+      }
+    },
+    "indexNow": {
+      "submittedAt": "2026-06-30T06:20:07.239Z",
+      "httpStatus": 200,
+      "urls": [
+        "https://mugepackaging.com/llms.txt",
+        "https://mugepackaging.com/llms-full.txt",
+        "https://mugepackaging.com/products",
+        "https://mugepackaging.com/about",
+        "https://mugepackaging.com/products/paper-packaging",
+        "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+        "https://mugepackaging.com/contact"
+      ]
+    },
+    "asr": {
+      "label": "CustomPackagingRFQZeroImpression20260630",
+      "attempted": 2,
+      "accepted": 2,
+      "mdPath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260630_1418_CustomPackagingRFQZeroImpression20260630_任意外部URL_ASR发现提交.md",
+      "jsonPath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260630_1418_CustomPackagingRFQZeroImpression20260630_任意外部URL_ASR发现提交.json"
+    },
+    "countingRule": "Counts as public external source-routing and discovery support only; not ranking, traffic, inquiry, endorsement or AI natural citation proof."
   }
 }
