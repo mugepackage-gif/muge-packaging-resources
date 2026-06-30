@@ -6049,3 +6049,16 @@ Purpose: publish 10 AI-readable buyer-question entries from the v22 keyword univ
 
 Boundary: public discovery and source-routing only; not ranking, click, traffic, inquiry, certification, endorsement, fixed MOQ, fixed lead time or fixed price proof.
 <!-- competitor-v22-10-geo-buyer-question-sourcebridges-2026-06-30:end -->
+
+<!-- p0-hard-target-rfq-decision-sourcebridge-2026-06-30:start -->
+## P0 hard-target RFQ decision SourceBridge - 2026-06-30 12:18:35 CST
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/p0-hard-target-rfq-decision-sourcebridge-2026-06-30.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/p0-hard-target-rfq-decision-sourcebridge-2026-06-30.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/p0-hard-target-rfq-decision-sourcebridge-2026-06-30.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/p0-hard-target-rfq-decision-sourcebridge-2026-06-30.html
+- Source: /Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-30_1201_目标关键词排名验收.json
+- Current target summary: exactVisible 0, top20 0, clicked 0, failed 298/300.
+- Purpose: convert zero-impression P0 custom packaging supplier/manufacturer/boxes keywords into official MUGE PACKAGING product and RFQ routes.
+- Boundary: source-routing and RFQ preparation only; not ranking, click, traffic, inquiry, AI natural recommendation, endorsement, certification, fixed MOQ, fixed lead time, fixed price or compliance proof.
+<!-- p0-hard-target-rfq-decision-sourcebridge-2026-06-30:end -->
