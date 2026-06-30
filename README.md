@@ -6164,3 +6164,14 @@ Boundary: public discovery and source-routing only; not ranking, click, traffic,
 - Verified page signals: FAQPage, BreadcrumbList and ItemList observed on the official product routes after the 2026-06-30 deployment.
 - Boundary: source-routing and RFQ preparation only; not ranking, click, traffic, inquiry, AI natural recommendation, endorsement, certification, fixed MOQ, fixed lead time, fixed price or compliance proof.
 <!-- p0p1-product-schema-rfq-route-sourcebridge-2026-06-30:end -->
+<!-- gsc-visible-query-sustainable-best-custom-packaging-sourcebridge-2026-06-30:start -->
+## GSC Visible Query SourceBridge: Sustainable and Custom Packaging - 2026-06-30
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-visible-query-sustainable-best-custom-packaging-sourcebridge-2026-06-30.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-visible-query-sustainable-best-custom-packaging-sourcebridge-2026-06-30.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/gsc-visible-query-sustainable-best-custom-packaging-sourcebridge-2026-06-30.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/gsc-visible-query-sustainable-best-custom-packaging-sourcebridge-2026-06-30.html
+- Source signal: 2026-06-30 target-keyword validation found related GSC-visible queries for sustainable packaging and best custom packaging.
+- Official routes: https://mugepackaging.com/materials and https://mugepackaging.com/products
+- Boundary: weak-query routing and RFQ preparation only; not ranking, traffic, inquiry, AI recommendation, certification, fixed MOQ, fixed lead time, fixed price or compliance proof.
+<!-- gsc-visible-query-sustainable-best-custom-packaging-sourcebridge-2026-06-30:end -->
