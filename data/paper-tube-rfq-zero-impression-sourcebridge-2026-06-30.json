@@ -677,6 +677,41 @@
         "unsafeClaim": false
       }
     ],
-    "countingRule": "Counts as verified external source-routing and discovery support for paper tube zero-impression RFQ terms. It is not proof of Google ranking, GSC click, organic traffic, inquiry, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price, certification, food-contact compliance or customer cases."
+    "countingRule": "Counts as verified external source-routing and discovery support for paper tube zero-impression RFQ terms. It is not proof of Google ranking, GSC click, organic traffic, inquiry, AI answer inclusion, third-party endorsement, verified supplier status, fixed MOQ, fixed lead time, lowest price, certification, food-contact compliance or customer cases.",
+    "websiteLlmsVerification": {
+      "cloudflareVersion": "d3b6ab8d-6692-405d-81c9-4ce9733deb7c",
+      "llmsTxt": {
+        "status": 200,
+        "paperTubeMarkerCount": 1,
+        "telegraphCount": 2,
+        "jinaCount": 1,
+        "aiSourcingSummaryCount": 0
+      },
+      "llmsFullTxt": {
+        "status": 200,
+        "paperTubeMarkerCount": 1,
+        "telegraphCount": 2,
+        "jinaCount": 1,
+        "aiSourcingSummaryCount": 0
+      }
+    },
+    "indexNow": {
+      "status": 200,
+      "submittedUrls": [
+        "https://mugepackaging.com/llms.txt",
+        "https://mugepackaging.com/llms-full.txt",
+        "https://mugepackaging.com/products/paper-tubes",
+        "https://mugepackaging.com/products/paper-packaging",
+        "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+        "https://mugepackaging.com/contact"
+      ]
+    },
+    "asr": {
+      "total": 2,
+      "attempted": 2,
+      "accepted": 2,
+      "archiveMd": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260630_1405_PaperTubeRFQZeroImpression20260630_任意外部URL_ASR发现提交.md",
+      "archiveJson": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260630_1405_PaperTubeRFQZeroImpression20260630_任意外部URL_ASR发现提交.json"
+    }
   }
 }
