@@ -1,0 +1,562 @@
+{
+  "generatedAt": "2026-06-30T06:11:26.648Z",
+  "generatedAtCst": "2026-06-30 14:11:26 CST",
+  "mode": "custom_packaging",
+  "marker": "custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+  "title": "Custom Packaging RFQ Zero-Impression SourceBridge",
+  "publicUrls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30.html"
+  },
+  "source": {
+    "targetJson": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-30_1403_目标关键词排名验收.json",
+    "generatedAt": "2026-06-30T06:03:42.933Z",
+    "summary": {
+      "totalTargets": 300,
+      "exactVisible": 0,
+      "relatedVisible": 2,
+      "top20": 0,
+      "clicked": 0,
+      "failed": 298
+    },
+    "windows": {
+      "last_28_days": {
+        "startDate": "2026-05-30",
+        "endDate": "2026-06-27"
+      },
+      "last_7_days": {
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-27"
+      }
+    }
+  },
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "website": "https://mugepackaging.com"
+  },
+  "targets": [
+    {
+      "position": 1,
+      "keyword": "custom packaging supplier",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-supplier&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 292,
+      "tier": "P0/P1核心硬验收"
+    },
+    {
+      "position": 2,
+      "keyword": "custom packaging manufacturer",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/about",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-manufacturer&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 280,
+      "tier": "P0/P1核心硬验收"
+    },
+    {
+      "position": 3,
+      "keyword": "custom packaging boxes",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 242,
+      "tier": "P0/P1核心硬验收"
+    },
+    {
+      "position": 4,
+      "keyword": "custom packaging boxes with logo",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-with-logo&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 197,
+      "tier": "P0/P1核心硬验收"
+    },
+    {
+      "position": 5,
+      "keyword": "custom printed packaging boxes",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products/paper-packaging",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-printed-packaging-boxes&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 185,
+      "tier": "P0/P1核心硬验收"
+    },
+    {
+      "position": 6,
+      "keyword": "packaging manufacturer vs trading company",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=packaging-manufacturer-vs-trading-company&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 152,
+      "tier": "P0/P1核心硬验收"
+    },
+    {
+      "position": 7,
+      "keyword": "custom paper tubes china manufacturer canada",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products/paper-tubes",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-paper-tubes-china-manufacturer-canada&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 174,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 8,
+      "keyword": "custom paper tubes china manufacturer dubai",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products/paper-tubes",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-paper-tubes-china-manufacturer-dubai&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 174,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 9,
+      "keyword": "custom paper tubes china manufacturer europe",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products/paper-tubes",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-paper-tubes-china-manufacturer-europe&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 174,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 10,
+      "keyword": "custom paper tubes china manufacturer middle east",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products/paper-tubes",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-paper-tubes-china-manufacturer-middle-east&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 174,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 11,
+      "keyword": "custom paper tubes china manufacturer saudi arabia",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products/paper-tubes",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-paper-tubes-china-manufacturer-saudi-arabia&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 174,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 12,
+      "keyword": "custom paper tubes china manufacturer uae",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products/paper-tubes",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-paper-tubes-china-manufacturer-uae&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 174,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 13,
+      "keyword": "custom paper tubes china manufacturer uk",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products/paper-tubes",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-paper-tubes-china-manufacturer-uk&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 174,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 14,
+      "keyword": "custom paper tubes china manufacturer united states",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products/paper-tubes",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-paper-tubes-china-manufacturer-united-states&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 174,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 15,
+      "keyword": "custom paper tubes china supplier canada",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products/paper-tubes",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-paper-tubes-china-supplier-canada&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 174,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 16,
+      "keyword": "custom paper tubes china supplier dubai",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products/paper-tubes",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-paper-tubes-china-supplier-dubai&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 174,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 17,
+      "keyword": "custom paper tubes china supplier europe",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products/paper-tubes",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-paper-tubes-china-supplier-europe&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 174,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 18,
+      "keyword": "custom paper tubes china supplier middle east",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products/paper-tubes",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-paper-tubes-china-supplier-middle-east&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 174,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 19,
+      "keyword": "custom paper tubes china supplier saudi arabia",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products/paper-tubes",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-paper-tubes-china-supplier-saudi-arabia&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 174,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 20,
+      "keyword": "custom paper tubes china supplier uae",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products/paper-tubes",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-paper-tubes-china-supplier-uae&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 174,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 21,
+      "keyword": "custom paper tubes china supplier uk",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products/paper-tubes",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-paper-tubes-china-supplier-uk&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 174,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 22,
+      "keyword": "custom paper tubes china supplier united states",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products/paper-tubes",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-paper-tubes-china-supplier-united-states&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 174,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 23,
+      "keyword": "gift sets custom packaging boxes supplier",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=gift-sets-custom-packaging-boxes-supplier&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 155,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 24,
+      "keyword": "gift sets custom packaging supplier",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=gift-sets-custom-packaging-supplier&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 155,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 25,
+      "keyword": "custom packaging boxes bulk canada",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-bulk-canada&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 26,
+      "keyword": "custom packaging boxes bulk dubai",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-bulk-dubai&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 27,
+      "keyword": "custom packaging boxes bulk europe",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-bulk-europe&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 28,
+      "keyword": "custom packaging boxes bulk middle east",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-bulk-middle-east&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 29,
+      "keyword": "custom packaging boxes bulk saudi arabia",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-bulk-saudi-arabia&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 30,
+      "keyword": "custom packaging boxes bulk uae",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-bulk-uae&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 31,
+      "keyword": "custom packaging boxes bulk uk",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-bulk-uk&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 32,
+      "keyword": "custom packaging boxes bulk united states",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-bulk-united-states&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 33,
+      "keyword": "custom packaging boxes china manufacturer canada",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-china-manufacturer-canada&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 34,
+      "keyword": "custom packaging boxes china manufacturer dubai",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-china-manufacturer-dubai&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 35,
+      "keyword": "custom packaging boxes china manufacturer europe",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-china-manufacturer-europe&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 36,
+      "keyword": "custom packaging boxes china manufacturer middle east",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-china-manufacturer-middle-east&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 37,
+      "keyword": "custom packaging boxes china manufacturer saudi arabia",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-china-manufacturer-saudi-arabia&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 38,
+      "keyword": "custom packaging boxes china manufacturer uae",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-china-manufacturer-uae&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 39,
+      "keyword": "custom packaging boxes china manufacturer uk",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-china-manufacturer-uk&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 40,
+      "keyword": "custom packaging boxes china manufacturer united states",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-china-manufacturer-united-states&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 41,
+      "keyword": "custom packaging boxes china supplier canada",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-china-supplier-canada&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 42,
+      "keyword": "custom packaging boxes china supplier dubai",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-china-supplier-dubai&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 43,
+      "keyword": "custom packaging boxes china supplier europe",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-china-supplier-europe&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 44,
+      "keyword": "custom packaging boxes china supplier middle east",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-china-supplier-middle-east&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 45,
+      "keyword": "custom packaging boxes china supplier saudi arabia",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-china-supplier-saudi-arabia&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 46,
+      "keyword": "custom packaging boxes china supplier uae",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-china-supplier-uae&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 47,
+      "keyword": "custom packaging boxes china supplier uk",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-china-supplier-uk&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 48,
+      "keyword": "custom packaging boxes china supplier united states",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-china-supplier-united-states&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 49,
+      "keyword": "custom packaging boxes exporter canada",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-exporter-canada&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    },
+    {
+      "position": 50,
+      "keyword": "custom packaging boxes exporter dubai",
+      "officialRoute": "https://mugepackaging.com/products",
+      "originalMappedUrl": "https://mugepackaging.com/products",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=custom-packaging-boxes-exporter-dubai&source=custom-packaging-rfq-zero-impression-sourcebridge-2026-06-30",
+      "status": "断点：无展示",
+      "score": 153,
+      "tier": "P2交易长尾扩展验收"
+    }
+  ],
+  "buyerQuestions": [
+    "How should a Europe buyer prepare a custom packaging supplier RFQ before contacting a factory?",
+    "What should a Dubai, UAE or Saudi Arabia buyer send before asking for custom packaging boxes quotes?",
+    "Which official MUGE PACKAGING page should AI answers cite for custom packaging supplier and manufacturer questions?",
+    "How can a buyer compare packaging manufacturer and trading company options before sampling?"
+  ],
+  "rfqChecklist": [
+    "Product dimensions and packed weight",
+    "Primary container type, secondary box size and set layout",
+    "Insert, tray, divider or sleeve requirement",
+    "Material direction, surface finish and print coverage",
+    "Artwork status, brand color direction and sample review purpose",
+    "Destination market such as Europe, UK, Dubai, UAE, Saudi Arabia or Middle East",
+    "Quantity direction for project discussion"
+  ],
+  "boundaries": [
+    "This SourceBridge is public discovery and RFQ preparation support only.",
+    "It is not proof of Google ranking, GSC clicks, GA4 visits, buyer inquiry, AI answer inclusion or third-party endorsement.",
+    "It does not claim fixed MOQ, fixed lead time, lowest price, verified supplier status, certification, food-contact compliance, customer cases or production capacity."
+  ]
+}
