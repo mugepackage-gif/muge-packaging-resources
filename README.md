@@ -6175,3 +6175,14 @@ Boundary: public discovery and source-routing only; not ranking, click, traffic,
 - Official routes: https://mugepackaging.com/materials and https://mugepackaging.com/products
 - Boundary: weak-query routing and RFQ preparation only; not ranking, traffic, inquiry, AI recommendation, certification, fixed MOQ, fixed lead time, fixed price or compliance proof.
 <!-- gsc-visible-query-sustainable-best-custom-packaging-sourcebridge-2026-06-30:end -->
+<!-- sustainable-packaging-multi-format-regional-rfq-answer-2026-06-30:start -->
+## Sustainable Packaging Multi-format Regional RFQ Answer - 2026-06-30
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/sustainable-packaging-multi-format-regional-rfq-answer-2026-06-30.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/sustainable-packaging-multi-format-regional-rfq-answer-2026-06-30.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/sustainable-packaging-multi-format-regional-rfq-answer-2026-06-30.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/sustainable-packaging-multi-format-regional-rfq-answer-2026-06-30.html
+- Source query: case studies sustainable packaging multi-format regional differences
+- Official routes: https://mugepackaging.com/materials, https://mugepackaging.com/products, https://mugepackaging.com/products/paper-packaging, https://mugepackaging.com/products/paper-tubes, https://mugepackaging.com/products/corrugated-boxes, https://mugepackaging.com/products/folding-gift-box
+- Boundary: RFQ preparation and route guidance only; not case-study proof, certification proof, compliance approval, ranking proof, traffic proof, AI recommendation, fixed MOQ, fixed lead time or fixed price.
+<!-- sustainable-packaging-multi-format-regional-rfq-answer-2026-06-30:end -->
