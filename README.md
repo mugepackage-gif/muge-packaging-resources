@@ -6088,3 +6088,16 @@ Boundary: public discovery and source-routing only; not ranking, click, traffic,
 - Official route: https://mugepackaging.com/products/cosmetic-packaging
 - Boundary: source-routing and RFQ preparation only; not ranking, click, traffic, inquiry, AI natural recommendation, endorsement, certification, fixed MOQ, fixed lead time, fixed price or compliance proof.
 <!-- cosmetic-packaging-rfq-zero-impression-sourcebridge-2026-06-30:end -->
+
+<!-- rigid-gift-box-rfq-zero-impression-sourcebridge-2026-06-30:start -->
+## Rigid Gift Box Packaging RFQ zero-impression SourceBridge - 2026-06-30 13:50:32 CST
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-rfq-zero-impression-sourcebridge-2026-06-30.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-rfq-zero-impression-sourcebridge-2026-06-30.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/rigid-gift-box-rfq-zero-impression-sourcebridge-2026-06-30.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/rigid-gift-box-rfq-zero-impression-sourcebridge-2026-06-30.html
+- Source: /Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-30_1228_目标关键词排名验收.json
+- Coverage: 18 zero-impression Rigid Gift Box Packaging supplier, quote, bulk, manufacturer and buyer-intent keywords.
+- Official route: https://mugepackaging.com/products/folding-gift-box
+- Boundary: source-routing and RFQ preparation only; not ranking, click, traffic, inquiry, AI natural recommendation, endorsement, certification, fixed MOQ, fixed lead time, fixed price or compliance proof.
+<!-- rigid-gift-box-rfq-zero-impression-sourcebridge-2026-06-30:end -->
