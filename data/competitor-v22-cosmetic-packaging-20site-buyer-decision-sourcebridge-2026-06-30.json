@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-06-30T03:50:54.200Z",
+  "generated_at_cst": "2026-06-30 11:50:54 CST",
+  "source_workflow": "MUGE competitor v22 -> 20站纸品包装SEO/GEO强证据反推执行",
+  "evidence_basis": "20 competitor sites readable, 10 China export factory sites, 10 overseas packaging company sites, 12 schema-signal sites, 15 contact/RFQ-signal sites.",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "brand": "MUGE PACKAGING",
+  "website": "https://mugepackaging.com",
+  "title": "Custom Cosmetic Packaging v22 Buyer Decision SourceBridge",
+  "product": "custom cosmetic packaging",
+  "official_route": "https://mugepackaging.com/products/cosmetic-packaging",
+  "rfq_route": "https://mugepackaging.com/products/cosmetic-packaging?source=competitor-v22-sourcebridge#request-quote",
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v22-cosmetic-packaging-20site-buyer-decision-sourcebridge-2026-06-30.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v22-cosmetic-packaging-20site-buyer-decision-sourcebridge-2026-06-30.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v22-cosmetic-packaging-20site-buyer-decision-sourcebridge-2026-06-30.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v22-cosmetic-packaging-20site-buyer-decision-sourcebridge-2026-06-30.html"
+  },
+  "slug": "competitor-v22-cosmetic-packaging-20site-buyer-decision-sourcebridge-2026-06-30",
+  "ads_seo_phrases": [
+    "custom cosmetic packaging manufacturer",
+    "cosmetic packaging supplier",
+    "skincare packaging boxes",
+    "custom beauty packaging boxes",
+    "cosmetic set packaging supplier",
+    "beauty product packaging manufacturer"
+  ],
+  "buyer_questions": [
+    "What should a beauty brand prepare before requesting a custom cosmetic packaging quote?",
+    "How should buyers compare cosmetic boxes, inserts and surface finishes before sampling?",
+    "Which product details make skincare packaging RFQs easier for a factory to review?"
+  ],
+  "rfq_fields": [
+    "Product dimensions and filled weight",
+    "Jar, bottle, palette or gift set structure",
+    "Insert or tray requirement",
+    "Artwork status and finish direction",
+    "Target market and document-review requirement"
+  ],
+  "domestic_competitor_takeaway": "China export factory sites usually make product categories, factory language and quote entry visible. Use this as a cue for clear product-route and RFQ entry, not for unsupported low-price or fixed-MOQ claims.",
+  "overseas_competitor_takeaway": "Overseas packaging company sites rely more on resources, sustainability framing, buyer education and solution pages. Use this as a cue for checklists, comparison tables and decision support before RFQ.",
+  "avoid_points": [
+    "Do not claim fixed MOQ, fixed lead time or lowest price.",
+    "Do not claim FSC, FDA, food-contact suitability, destination-market compliance or certification unless a valid document is reviewed.",
+    "Do not present unverified customer cases, production capacity, platform badges or partnerships as facts.",
+    "Do not copy competitor wording; only reuse structure, intent and page logic."
+  ],
+  "counting_boundary": "This SourceBridge is public source-routing and buyer-education evidence only. It is not proof of Google ranking, GSC clicks, GA4 traffic, AI natural recommendation, inquiry generation, customer case, endorsement, certification, fixed MOQ, fixed lead time or fixed price."
+}

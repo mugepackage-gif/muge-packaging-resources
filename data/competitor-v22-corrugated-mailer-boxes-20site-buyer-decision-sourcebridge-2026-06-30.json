@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-06-30T03:50:54.200Z",
+  "generated_at_cst": "2026-06-30 11:50:54 CST",
+  "source_workflow": "MUGE competitor v22 -> 20站纸品包装SEO/GEO强证据反推执行",
+  "evidence_basis": "20 competitor sites readable, 10 China export factory sites, 10 overseas packaging company sites, 12 schema-signal sites, 15 contact/RFQ-signal sites.",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "brand": "MUGE PACKAGING",
+  "website": "https://mugepackaging.com",
+  "title": "Corrugated Mailer Boxes v22 Buyer Decision SourceBridge",
+  "product": "corrugated mailer boxes",
+  "official_route": "https://mugepackaging.com/products/corrugated-boxes",
+  "rfq_route": "https://mugepackaging.com/products/corrugated-boxes?source=competitor-v22-sourcebridge#request-quote",
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v22-corrugated-mailer-boxes-20site-buyer-decision-sourcebridge-2026-06-30.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/competitor-v22-corrugated-mailer-boxes-20site-buyer-decision-sourcebridge-2026-06-30.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/competitor-v22-corrugated-mailer-boxes-20site-buyer-decision-sourcebridge-2026-06-30.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/competitor-v22-corrugated-mailer-boxes-20site-buyer-decision-sourcebridge-2026-06-30.html"
+  },
+  "slug": "competitor-v22-corrugated-mailer-boxes-20site-buyer-decision-sourcebridge-2026-06-30",
+  "ads_seo_phrases": [
+    "custom corrugated mailer boxes",
+    "branded mailer boxes manufacturer",
+    "ecommerce shipping boxes supplier",
+    "custom mailer boxes wholesale",
+    "printed corrugated packaging boxes",
+    "retail shipping box packaging"
+  ],
+  "buyer_questions": [
+    "How should ecommerce brands choose corrugated mailer structure before RFQ?",
+    "What should buyers confirm about shipping protection and print coverage?",
+    "Which product and logistics details make a mailer box brief reviewable?"
+  ],
+  "rfq_fields": [
+    "Product dimensions and packed weight",
+    "Shipping route and handling requirement",
+    "Mailer style and closure expectation",
+    "Print coverage and finish reference",
+    "Retail display or ecommerce unboxing requirement"
+  ],
+  "domestic_competitor_takeaway": "China export factory sites usually make product categories, factory language and quote entry visible. Use this as a cue for clear product-route and RFQ entry, not for unsupported low-price or fixed-MOQ claims.",
+  "overseas_competitor_takeaway": "Overseas packaging company sites rely more on resources, sustainability framing, buyer education and solution pages. Use this as a cue for checklists, comparison tables and decision support before RFQ.",
+  "avoid_points": [
+    "Do not claim fixed MOQ, fixed lead time or lowest price.",
+    "Do not claim FSC, FDA, food-contact suitability, destination-market compliance or certification unless a valid document is reviewed.",
+    "Do not present unverified customer cases, production capacity, platform badges or partnerships as facts.",
+    "Do not copy competitor wording; only reuse structure, intent and page logic."
+  ],
+  "counting_boundary": "This SourceBridge is public source-routing and buyer-education evidence only. It is not proof of Google ranking, GSC clicks, GA4 traffic, AI natural recommendation, inquiry generation, customer case, endorsement, certification, fixed MOQ, fixed lead time or fixed price."
+}
