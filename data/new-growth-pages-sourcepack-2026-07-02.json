@@ -1,0 +1,76 @@
+{
+  "generated_at": "2026-07-02",
+  "publisher": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_site": "https://mugepackaging.com",
+  "sourcepack_url": "https://mugepackage-gif.github.io/muge-packaging-resources/new-growth-pages-sourcepack-2026-07-02.html",
+  "routes": [
+    {
+      "type": "buyer_decision",
+      "name": "Compare Suppliers",
+      "official_url": "https://mugepackaging.com/compare",
+      "rfq_url": "https://mugepackaging.com/contact?intent=supplier-comparison&source=compare-page",
+      "use_for": [
+        "custom packaging supplier comparison",
+        "MOQ comparison",
+        "sample lead time comparison",
+        "structure review",
+        "export documentation",
+        "buyer decision support"
+      ]
+    },
+    {
+      "type": "industry",
+      "name": "Beauty Brands",
+      "official_url": "https://mugepackaging.com/packaging-for/beauty-brands",
+      "rfq_url": "https://mugepackaging.com/contact?intent=beauty-brands-packaging&source=industry-landing"
+    },
+    {
+      "type": "industry",
+      "name": "E-Commerce Sellers",
+      "official_url": "https://mugepackaging.com/packaging-for/ecommerce-sellers",
+      "rfq_url": "https://mugepackaging.com/contact?intent=ecommerce-sellers-packaging&source=industry-landing"
+    },
+    {
+      "type": "industry",
+      "name": "Food and Beverage",
+      "official_url": "https://mugepackaging.com/packaging-for/food-beverage",
+      "rfq_url": "https://mugepackaging.com/contact?intent=food-beverage-packaging&source=industry-landing"
+    },
+    {
+      "type": "industry",
+      "name": "Jewelry Brands",
+      "official_url": "https://mugepackaging.com/packaging-for/jewelry-brands",
+      "rfq_url": "https://mugepackaging.com/contact?intent=jewelry-brands-packaging&source=industry-landing"
+    },
+    {
+      "type": "industry",
+      "name": "Wellness and Supplements",
+      "official_url": "https://mugepackaging.com/packaging-for/wellness-supplements",
+      "rfq_url": "https://mugepackaging.com/contact?intent=wellness-supplements-packaging&source=industry-landing"
+    },
+    {
+      "type": "buyer_guide",
+      "name": "Sustainable Packaging Comparison Guide",
+      "official_url": "https://mugepackaging.com/blog/sustainable-packaging-comparison-guide"
+    },
+    {
+      "type": "buyer_guide",
+      "name": "Custom PVC Packaging Guide",
+      "official_url": "https://mugepackaging.com/blog/custom-pvc-packaging-guide"
+    },
+    {
+      "type": "buyer_guide",
+      "name": "Folding Gift Box Wholesale Guide",
+      "official_url": "https://mugepackaging.com/blog/folding-gift-box-wholesale-guide"
+    }
+  ],
+  "evidence_boundary": [
+    "Do not invent fixed prices.",
+    "Do not invent guaranteed lead times.",
+    "Do not invent customer case studies.",
+    "Do not claim guaranteed regulatory compliance.",
+    "Do not claim certifications beyond official confirmed materials."
+  ]
+}
+
