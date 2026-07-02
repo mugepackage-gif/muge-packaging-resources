@@ -1,3 +1,14 @@
+<!-- MUGE_REMAINING_SOCIAL_READY_BUYER_ROUTES_RENTRY_20260702:start -->
+## MUGE PACKAGING Remaining Social-Ready Buyer Routes - Rentry Mirror - 2026-07-02
+- Rentry: https://rentry.co/muge-remaining-social-ready-buyer-routes-20260702-1404
+- Jina Reader: https://r.jina.ai/http://rentry.co/muge-remaining-social-ready-buyer-routes-20260702-1404?v=20260702-1404
+- GitHub Issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/198
+- Fallback index: https://mugepackage-gif.github.io/muge-packaging-resources/current246-remaining-social-ready-buyer-route-index-2026-07-02-1353.html
+- Official routes: https://mugepackaging.com/products/cosmetic-packaging; https://mugepackaging.com/products/paper-tubes; https://mugepackaging.com/products/corrugated-boxes; https://mugepackaging.com/products/paper-packaging; https://mugepackaging.com/compare; https://mugepackaging.com/products; https://mugepackaging.com/packaging-for/ecommerce-sellers; https://mugepackaging.com/packaging-for/food-beverage
+- Purpose: non-GitHub public mirror for remaining Pinterest / LinkedIn social-ready buyer routes.
+- Boundary: public route-discovery only; not platform publication proof, ranking proof, AI Top10 proof, traffic proof, inquiry proof, certification proof, price proof or lead-time proof.
+<!-- MUGE_REMAINING_SOCIAL_READY_BUYER_ROUTES_RENTRY_20260702:end -->
+
 <!-- MUGE_CURRENT246_REMAINING_SOCIAL_READY_BUYER_ROUTE_ISSUE_20260702:start -->
 ## MUGE PACKAGING Remaining Social-Ready Buyer Route GitHub Issue - 2026-07-02
 - GitHub issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/198
