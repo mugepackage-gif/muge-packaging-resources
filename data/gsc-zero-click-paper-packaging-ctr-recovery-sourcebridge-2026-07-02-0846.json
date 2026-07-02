@@ -1,0 +1,52 @@
+{
+  "marker": "MUGE_GSC_ZERO_CLICK_PAPER_PACKAGING_CTR_RECOVERY_20260702",
+  "generatedAt": "2026-07-02T00:46:29.030Z",
+  "generatedAtCst": "2026-07-02 08:46 CST",
+  "slug": "gsc-zero-click-paper-packaging-ctr-recovery-sourcebridge-2026-07-02-0846",
+  "title": "MUGE PACKAGING Paper Packaging GSC Zero-Click CTR Recovery Route",
+  "analysisSource": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC本地导出机会分析/20260702_0846_GSC本地导出机会分析.json",
+  "gsc": {
+    "type": "page",
+    "value": "https://mugepackaging.com/products/paper-packaging",
+    "clicks": 0,
+    "impressions": 743,
+    "ctr": 0,
+    "position": 7.54,
+    "cluster": "paper-packaging",
+    "score": 14.358
+  },
+  "checks": [
+    {
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 239783
+    },
+    {
+      "url": "https://mugepackaging.com/contact?intent=paper-packaging-rfq&source=gsc-zero-click-ctr-recovery",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 75926
+    },
+    {
+      "url": "https://mugepackaging.com/products",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 109139
+    },
+    {
+      "url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+      "status": 200,
+      "ok": true,
+      "hasMuge": true,
+      "hasSignal": true,
+      "bytes": 96719
+    }
+  ]
+}
