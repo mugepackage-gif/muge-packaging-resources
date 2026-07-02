@@ -1,3 +1,11 @@
+## Europe and Middle East Custom Packaging RFQ Checklist SourcePack - 2026-07-02
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-custom-packaging-rfq-checklist-sourcepack-2026-07-02.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-custom-packaging-rfq-checklist-sourcepack-2026-07-02.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/europe-middle-east-custom-packaging-rfq-checklist-sourcepack-2026-07-02.json
+- Official mapped pages: https://mugepackaging.com/compare; https://mugepackaging.com/products; https://mugepackaging.com/packaging-for/beauty-brands; https://mugepackaging.com/packaging-for/ecommerce-sellers; https://mugepackaging.com/packaging-for/food-beverage; https://mugepackaging.com/packaging-for/jewelry-brands; https://mugepackaging.com/packaging-for/wellness-supplements
+- Marker: `MUGE_EU_ME_CUSTOM_PACKAGING_RFQ_CHECKLIST_SOURCEPACK_20260702`
+- Boundary: public RFQ route-discovery only; not ranking, traffic, inquiry, endorsement, certification, price or timing proof.
+
 ## MUGE Europe and Middle East Industry Buyer Question Route Map - 2026-07-02
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-industry-buyer-question-route-map-2026-07-02.html
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-industry-buyer-question-route-map-2026-07-02.md
