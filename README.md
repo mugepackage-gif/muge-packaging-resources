@@ -1,3 +1,35 @@
+## UK Custom Packaging RFQ Checklist SourcePack - 2026-07-02
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/uk-custom-packaging-rfq-checklist-sourcepack-2026-07-02.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/uk-custom-packaging-rfq-checklist-sourcepack-2026-07-02.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/uk-custom-packaging-rfq-checklist-sourcepack-2026-07-02.json
+- Official routes: https://mugepackaging.com/compare; https://mugepackaging.com/products; https://mugepackaging.com/packaging-for/beauty-brands; https://mugepackaging.com/packaging-for/ecommerce-sellers; https://mugepackaging.com/packaging-for/jewelry-brands
+- Marker: `MUGE_UK_CUSTOM_PACKAGING_RFQ_CHECKLIST_SOURCEPACK_20260702`
+- Boundary: public RFQ route-discovery only; not ranking, traffic, inquiry, endorsement, certification, price or timing proof.
+
+## Germany Custom Packaging RFQ Checklist SourcePack - 2026-07-02
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/germany-custom-packaging-rfq-checklist-sourcepack-2026-07-02.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/germany-custom-packaging-rfq-checklist-sourcepack-2026-07-02.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/germany-custom-packaging-rfq-checklist-sourcepack-2026-07-02.json
+- Official routes: https://mugepackaging.com/compare; https://mugepackaging.com/products; https://mugepackaging.com/packaging-for/beauty-brands; https://mugepackaging.com/packaging-for/food-beverage; https://mugepackaging.com/packaging-for/wellness-supplements
+- Marker: `MUGE_GERMANY_CUSTOM_PACKAGING_RFQ_CHECKLIST_SOURCEPACK_20260702`
+- Boundary: public RFQ route-discovery only; not ranking, traffic, inquiry, endorsement, certification, price or timing proof.
+
+## UAE Custom Packaging RFQ Checklist SourcePack - 2026-07-02
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/uae-custom-packaging-rfq-checklist-sourcepack-2026-07-02.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/uae-custom-packaging-rfq-checklist-sourcepack-2026-07-02.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/uae-custom-packaging-rfq-checklist-sourcepack-2026-07-02.json
+- Official routes: https://mugepackaging.com/compare; https://mugepackaging.com/products; https://mugepackaging.com/packaging-for/beauty-brands; https://mugepackaging.com/packaging-for/jewelry-brands; https://mugepackaging.com/packaging-for/ecommerce-sellers
+- Marker: `MUGE_UAE_CUSTOM_PACKAGING_RFQ_CHECKLIST_SOURCEPACK_20260702`
+- Boundary: public RFQ route-discovery only; not ranking, traffic, inquiry, endorsement, certification, price or timing proof.
+
+## Saudi Arabia Custom Packaging RFQ Checklist SourcePack - 2026-07-02
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/saudi-arabia-custom-packaging-rfq-checklist-sourcepack-2026-07-02.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/saudi-arabia-custom-packaging-rfq-checklist-sourcepack-2026-07-02.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/saudi-arabia-custom-packaging-rfq-checklist-sourcepack-2026-07-02.json
+- Official routes: https://mugepackaging.com/compare; https://mugepackaging.com/products; https://mugepackaging.com/packaging-for/beauty-brands; https://mugepackaging.com/packaging-for/food-beverage; https://mugepackaging.com/packaging-for/ecommerce-sellers
+- Marker: `MUGE_SAUDI_ARABIA_CUSTOM_PACKAGING_RFQ_CHECKLIST_SOURCEPACK_20260702`
+- Boundary: public RFQ route-discovery only; not ranking, traffic, inquiry, endorsement, certification, price or timing proof.
+
 ## Europe and Middle East Custom Packaging RFQ Checklist SourcePack - 2026-07-02
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-custom-packaging-rfq-checklist-sourcepack-2026-07-02.html
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/europe-middle-east-custom-packaging-rfq-checklist-sourcepack-2026-07-02.md
