@@ -6234,3 +6234,14 @@ Marker: MUGE_GSC_ZERO_CLICK_BUYER_ROUTE_GITHUB_ISSUE_20260702
 - Hub: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-zero-click-buyer-route-hub-2026-07-02-0851.html
 - Scope: public second-hop route index for 10 GSC-impression / zero-click official pages.
 - Boundary: not ranking, click, traffic, inquiry, customer case or endorsement proof.
+
+## Supplier capability and product range Gist source pack - 2026-07-02 09:01:30 CST
+
+Marker: MUGE_SUPPLIER_CAPABILITY_PRODUCT_RANGE_GIST_20260702
+
+- Gist: https://gist.github.com/mugepackage-gif/a05a17108a57ae9b3c9d16ca593c17e1
+- Raw: https://gist.githubusercontent.com/mugepackage-gif/a05a17108a57ae9b3c9d16ca593c17e1/raw/muge-supplier-capability-product-range-source-pack-20260702_0901.md
+- Jina Gist: https://r.jina.ai/http://gist.github.com/mugepackage-gif/a05a17108a57ae9b3c9d16ca593c17e1
+- Jina Raw: https://r.jina.ai/http://gist.githubusercontent.com/mugepackage-gif/a05a17108a57ae9b3c9d16ca593c17e1/raw/muge-supplier-capability-product-range-source-pack-20260702_0901.md
+- Scope: public external source pack for /products, /about, /products/paper-packaging and /contact zero-click buyer routes.
+- Boundary: not ranking, click, traffic, inquiry, customer case or endorsement proof.
