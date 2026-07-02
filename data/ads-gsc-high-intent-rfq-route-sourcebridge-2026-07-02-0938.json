@@ -1,0 +1,74 @@
+{
+  "marker": "MUGE_ADS_GSC_HIGH_INTENT_RFQ_ROUTE_SOURCEBRIDGE_20260702",
+  "generatedAt": "2026-07-02T01:40:13.573Z",
+  "generatedAtCst": "2026-07-02 09:40:13",
+  "slug": "ads-gsc-high-intent-rfq-route-sourcebridge-2026-07-02-0938",
+  "title": "MUGE PACKAGING Ads/GSC High-Intent RFQ Route SourceBridge",
+  "htmlUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/ads-gsc-high-intent-rfq-route-sourcebridge-2026-07-02-0938.html",
+  "mdUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/ads-gsc-high-intent-rfq-route-sourcebridge-2026-07-02-0938.md",
+  "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/ads-gsc-high-intent-rfq-route-sourcebridge-2026-07-02-0938.json",
+  "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/ads-gsc-high-intent-rfq-route-sourcebridge-2026-07-02-0938.html",
+  "evidence": [
+    {
+      "term": "personalized mailer",
+      "source": "Google Ads keyword",
+      "impressions": 312,
+      "clicks": 36,
+      "conversions": 1,
+      "route": "https://mugepackaging.com/contact?intent=personalized-mailer-rfq&source=ads-gsc-high-intent-sourcebridge",
+      "page": "https://mugepackaging.com/products/corrugated-boxes",
+      "note": "For e-commerce and retail buyers preparing a branded mailer or shipping box brief."
+    },
+    {
+      "term": "complete packaging products",
+      "source": "Google Ads search term",
+      "impressions": 130,
+      "clicks": 36,
+      "conversions": 1,
+      "route": "https://mugepackaging.com/contact?intent=complete-packaging-products-rfq&source=ads-gsc-high-intent-sourcebridge",
+      "page": "https://mugepackaging.com/products",
+      "note": "For buyers comparing the full MUGE PACKAGING product range before choosing a structure."
+    },
+    {
+      "term": "custom made product packaging",
+      "source": "Google Ads keyword",
+      "impressions": 584,
+      "clicks": 30,
+      "conversions": 0,
+      "route": "https://mugepackaging.com/contact?intent=custom-made-product-packaging-rfq&source=ads-gsc-high-intent-sourcebridge",
+      "page": "https://mugepackaging.com/products",
+      "note": "For buyers who need a project-specific structure review before quotation."
+    },
+    {
+      "term": "custom printed boxes UK",
+      "source": "Google Ads keyword",
+      "impressions": 151,
+      "clicks": 27,
+      "conversions": 0,
+      "route": "https://mugepackaging.com/contact?intent=custom-printed-boxes-uk-rfq&source=ads-gsc-high-intent-sourcebridge",
+      "page": "https://mugepackaging.com/products/paper-packaging",
+      "note": "For UK buyers comparing printed paper boxes, folding cartons and rigid gift packaging routes."
+    },
+    {
+      "term": "plain mailer boxes",
+      "source": "Google Ads keyword",
+      "impressions": 892,
+      "clicks": 10,
+      "conversions": 0,
+      "route": "https://mugepackaging.com/contact?intent=plain-mailer-boxes-rfq&source=ads-gsc-high-intent-sourcebridge",
+      "page": "https://mugepackaging.com/products/corrugated-boxes",
+      "note": "For buyers checking simple mailer box structures before adding print or insert requirements."
+    },
+    {
+      "term": "mailer cartons",
+      "source": "Google Ads keyword",
+      "impressions": 326,
+      "clicks": 10,
+      "conversions": 0,
+      "route": "https://mugepackaging.com/contact?intent=mailer-cartons-rfq&source=ads-gsc-high-intent-sourcebridge",
+      "page": "https://mugepackaging.com/products/corrugated-boxes",
+      "note": "For buyers comparing mailer carton structures for e-commerce and retail shipment."
+    }
+  ],
+  "boundary": "This SourceBridge is a public source-routing and RFQ preparation asset. It is not proof of Google ranking, organic traffic growth, AI Top10 visibility, inquiry generation, endorsement, fixed price, fixed lead time, fixed production capacity, food-contact approval or destination-market compliance. Final project scope, documents, materials and order terms must be reviewed case by case by MUGE PACKAGING."
+}
