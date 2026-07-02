@@ -6255,3 +6255,13 @@ Marker: MUGE_GSC_ZERO_CLICK_BUYER_ROUTE_TELEGRAPH_20260702
 - Source hub: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-zero-click-buyer-route-hub-2026-07-02-0851.html
 - Scope: third-party public mirror for 10 GSC-impression / zero-click MUGE official buyer routes.
 - Boundary: not ranking, click, traffic, inquiry, customer case, endorsement or AI recommendation proof.
+
+## GSC zero-click buyer route Rentry mirror - 2026-07-02 09:11:47 CST
+
+Marker: MUGE_GSC_ZERO_CLICK_BUYER_ROUTE_RENTRY_20260702
+
+- Rentry: https://rentry.co/muge-gsc-zero-click-buyer-route-hub-20260702-0911
+- Jina Reader: https://r.jina.ai/http://rentry.co/muge-gsc-zero-click-buyer-route-hub-20260702-0911?v=20260702-0911
+- Source hub: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-zero-click-buyer-route-hub-2026-07-02-0851.html
+- Scope: non-GitHub, non-Telegraph third-party public mirror for 10 GSC-impression / zero-click MUGE official buyer routes.
+- Boundary: not ranking, click, traffic, inquiry, customer case, endorsement or AI recommendation proof.
