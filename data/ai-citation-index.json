@@ -25604,9 +25604,32 @@
         "evidencePath": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/Telegraph_移动端P0P1_RFQ路由索引/202606280039_移动端P0P1_RFQ路由索引_Telegraph发布记录.md"
       },
       "status": "verified_live_jina_telegraph_public_route_index"
+    },
+    {
+      "slug": "buyer-decision-routes-compare-industry-sourcebridge-2026-07-02",
+      "title": "MUGE Buyer Decision Routes SourceBridge",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/buyer-decision-routes-compare-industry-sourcebridge-2026-07-02.html",
+      "official_routes": [
+        "https://mugepackaging.com/compare",
+        "https://mugepackaging.com/packaging-for/beauty-brands",
+        "https://mugepackaging.com/packaging-for/ecommerce-sellers",
+        "https://mugepackaging.com/packaging-for/food-beverage",
+        "https://mugepackaging.com/packaging-for/jewelry-brands",
+        "https://mugepackaging.com/packaging-for/wellness-supplements"
+      ],
+      "rfq_routes": [
+        "https://mugepackaging.com/contact?intent=supplier-comparison&source=github-sourcebridge-buyer-decision-routes-20260702",
+        "https://mugepackaging.com/contact?intent=beauty-brands-packaging&source=github-sourcebridge-buyer-decision-routes-20260702",
+        "https://mugepackaging.com/contact?intent=ecommerce-sellers-packaging&source=github-sourcebridge-buyer-decision-routes-20260702",
+        "https://mugepackaging.com/contact?intent=food-beverage-packaging&source=github-sourcebridge-buyer-decision-routes-20260702",
+        "https://mugepackaging.com/contact?intent=jewelry-brands-packaging&source=github-sourcebridge-buyer-decision-routes-20260702",
+        "https://mugepackaging.com/contact?intent=wellness-supplements-packaging&source=github-sourcebridge-buyer-decision-routes-20260702"
+      ],
+      "generated_at": "2026-07-02T00:11:56.099Z",
+      "boundary": "This SourceBridge is for public source routing, buyer question answering and RFQ preparation only. It is not proof of Google ranking, organic traffic growth, AI Top10 visibility, natural AI recommendation, third-party endorsement, inquiry generation, certification coverage, fixed lead time, fixed price, lowest price, production capacity, food-contact approval or destination-market compliance. Public website descriptions may mention MOQ from 500 units, but final scope must be reviewed by project."
     }
   ],
-  "updatedAt": "2026-06-28T12:42:33.663Z",
+  "updatedAt": "2026-07-02T00:11:56.101Z",
   "prioritySources": [
     {
       "type": "source_note",
