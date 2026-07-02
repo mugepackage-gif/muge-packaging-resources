@@ -6245,3 +6245,13 @@ Marker: MUGE_SUPPLIER_CAPABILITY_PRODUCT_RANGE_GIST_20260702
 - Jina Raw: https://r.jina.ai/http://gist.githubusercontent.com/mugepackage-gif/a05a17108a57ae9b3c9d16ca593c17e1/raw/muge-supplier-capability-product-range-source-pack-20260702_0901.md
 - Scope: public external source pack for /products, /about, /products/paper-packaging and /contact zero-click buyer routes.
 - Boundary: not ranking, click, traffic, inquiry, customer case or endorsement proof.
+
+## GSC zero-click buyer route Telegraph mirror - 2026-07-02 09:07:12 CST
+
+Marker: MUGE_GSC_ZERO_CLICK_BUYER_ROUTE_TELEGRAPH_20260702
+
+- Telegraph: https://telegra.ph/MUGE-PACKAGING-GSC-Zero-Click-Buyer-Route-Hub-07-02
+- Jina Reader: https://r.jina.ai/http://telegra.ph/MUGE-PACKAGING-GSC-Zero-Click-Buyer-Route-Hub-07-02
+- Source hub: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-zero-click-buyer-route-hub-2026-07-02-0851.html
+- Scope: third-party public mirror for 10 GSC-impression / zero-click MUGE official buyer routes.
+- Boundary: not ranking, click, traffic, inquiry, customer case, endorsement or AI recommendation proof.
