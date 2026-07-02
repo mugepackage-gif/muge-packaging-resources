@@ -6224,3 +6224,13 @@ Boundary: public discovery and source-routing only; not ranking, click, traffic,
 
 ## GSC zero-click buyer route hub - 2026-07-02 08:51 CST
 - [MUGE PACKAGING GSC Zero-Click Buyer Route Hub](https://mugepackage-gif.github.io/muge-packaging-resources/gsc-zero-click-buyer-route-hub-2026-07-02-0851.html) - 10 zero-click pages from local GSC export. Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-zero-click-buyer-route-hub-2026-07-02-0851.md. JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/gsc-zero-click-buyer-route-hub-2026-07-02-0851.json. Jina: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/gsc-zero-click-buyer-route-hub-2026-07-02-0851.html
+
+## GSC zero-click buyer route GitHub Issue - 2026-07-02 08:57:40 CST
+
+Marker: MUGE_GSC_ZERO_CLICK_BUYER_ROUTE_GITHUB_ISSUE_20260702
+
+- GitHub Issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/194
+- Jina Reader: https://r.jina.ai/http://github.com/mugepackage-gif/muge-packaging-resources/issues/194
+- Hub: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-zero-click-buyer-route-hub-2026-07-02-0851.html
+- Scope: public second-hop route index for 10 GSC-impression / zero-click official pages.
+- Boundary: not ranking, click, traffic, inquiry, customer case or endorsement proof.
