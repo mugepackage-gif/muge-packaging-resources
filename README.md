@@ -1,3 +1,39 @@
+## UK Beauty Packaging RFQ Route SourcePack - 2026-07-02
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/uk-beauty-packaging-rfq-route-sourcepack-2026-07-02.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/uk-beauty-packaging-rfq-route-sourcepack-2026-07-02.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/uk-beauty-packaging-rfq-route-sourcepack-2026-07-02.json
+- Official routes: https://mugepackaging.com/packaging-for/beauty-brands; https://mugepackaging.com/products/cosmetic-packaging; https://mugepackaging.com/products/paper-tubes; https://mugepackaging.com/compare
+- RFQ route: https://mugepackaging.com/contact?intent=uk-beauty-packaging-rfq&source=uk-beauty-packaging-rfq-route-sourcepack-2026-07-02
+- Marker: `MUGE_UK_BEAUTY_PACKAGING_RFQ_ROUTE_SOURCEPACK_20260702`
+- Boundary: public RFQ route-discovery only; not ranking, traffic, inquiry, endorsement, certification, price or timing proof.
+
+## Germany Paper Tube Packaging RFQ Route SourcePack - 2026-07-02
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/germany-paper-tube-packaging-rfq-route-sourcepack-2026-07-02.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/germany-paper-tube-packaging-rfq-route-sourcepack-2026-07-02.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/germany-paper-tube-packaging-rfq-route-sourcepack-2026-07-02.json
+- Official routes: https://mugepackaging.com/products/paper-tubes; https://mugepackaging.com/packaging-for/food-beverage; https://mugepackaging.com/packaging-for/wellness-supplements; https://mugepackaging.com/compare
+- RFQ route: https://mugepackaging.com/contact?intent=germany-paper-tube-packaging-rfq&source=germany-paper-tube-packaging-rfq-route-sourcepack-2026-07-02
+- Marker: `MUGE_GERMANY_PAPER_TUBE_PACKAGING_RFQ_ROUTE_SOURCEPACK_20260702`
+- Boundary: public RFQ route-discovery only; not ranking, traffic, inquiry, endorsement, certification, price or timing proof.
+
+## UAE Luxury Gift Box RFQ Route SourcePack - 2026-07-02
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/uae-luxury-gift-box-rfq-route-sourcepack-2026-07-02.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/uae-luxury-gift-box-rfq-route-sourcepack-2026-07-02.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/uae-luxury-gift-box-rfq-route-sourcepack-2026-07-02.json
+- Official routes: https://mugepackaging.com/packaging-for/jewelry-brands; https://mugepackaging.com/products/folding-gift-box; https://mugepackaging.com/packaging-for/beauty-brands; https://mugepackaging.com/compare
+- RFQ route: https://mugepackaging.com/contact?intent=uae-luxury-gift-box-rfq&source=uae-luxury-gift-box-rfq-route-sourcepack-2026-07-02
+- Marker: `MUGE_UAE_LUXURY_GIFT_BOX_RFQ_ROUTE_SOURCEPACK_20260702`
+- Boundary: public RFQ route-discovery only; not ranking, traffic, inquiry, endorsement, certification, price or timing proof.
+
+## Saudi Arabia Fragrance Packaging RFQ Route SourcePack - 2026-07-02
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/saudi-fragrance-packaging-rfq-route-sourcepack-2026-07-02.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/saudi-fragrance-packaging-rfq-route-sourcepack-2026-07-02.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/saudi-fragrance-packaging-rfq-route-sourcepack-2026-07-02.json
+- Official routes: https://mugepackaging.com/packaging-for/beauty-brands; https://mugepackaging.com/products/cosmetic-packaging; https://mugepackaging.com/products/folding-gift-box; https://mugepackaging.com/compare
+- RFQ route: https://mugepackaging.com/contact?intent=saudi-fragrance-packaging-rfq&source=saudi-fragrance-packaging-rfq-route-sourcepack-2026-07-02
+- Marker: `MUGE_SAUDI_FRAGRANCE_PACKAGING_RFQ_ROUTE_SOURCEPACK_20260702`
+- Boundary: public RFQ route-discovery only; not ranking, traffic, inquiry, endorsement, certification, price or timing proof.
+
 ## UK Custom Packaging RFQ Checklist SourcePack - 2026-07-02
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/uk-custom-packaging-rfq-checklist-sourcepack-2026-07-02.html
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/uk-custom-packaging-rfq-checklist-sourcepack-2026-07-02.md
