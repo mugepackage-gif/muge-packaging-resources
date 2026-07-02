@@ -8,6 +8,18 @@
 - Routes: /packaging-for/beauty-brands, /packaging-for/ecommerce-sellers, /packaging-for/food-beverage, /packaging-for/jewelry-brands, /packaging-for/wellness-supplements
 <!-- MUGE_ZERO_SESSION_INDUSTRY_LANDING_ROUTE_SOURCEBRIDGE_20260702:end -->
 
+<!-- MUGE_ADS_GSC_HIGH_INTENT_RFQ_ROUTE_REFRESH_20260702:start -->
+## MUGE Ads/GSC high-intent RFQ route refresh - 2026-07-02
+- GitHub issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/195
+- Latest refresh comment: https://github.com/mugepackage-gif/muge-packaging-resources/issues/195#issuecomment-4862285792
+- Jina Reader: https://r.jina.ai/http://github.com/mugepackage-gif/muge-packaging-resources/issues/195
+- SourceBridge: https://mugepackage-gif.github.io/muge-packaging-resources/ads-gsc-high-intent-rfq-route-sourcebridge-2026-07-02-0938.html
+- Official route: https://mugepackaging.com/products
+- Supporting routes: https://mugepackaging.com/products/paper-packaging, https://mugepackaging.com/products/corrugated-boxes
+- RFQ route: https://mugepackaging.com/contact?intent=high-intent-packaging-rfq&source=github-high-intent-issue
+- Boundary: public citation refresh only; not ranking, AI Top10, traffic, inquiry, certification, price or lead-time proof.
+<!-- MUGE_ADS_GSC_HIGH_INTENT_RFQ_ROUTE_REFRESH_20260702:end -->
+
 <!-- MUGE_REGIONAL_RFQ_BUYER_ROUTES_REFRESH_20260702:start -->
 ## MUGE regional RFQ buyer routes refresh - 2026-07-02
 - GitHub issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/184
