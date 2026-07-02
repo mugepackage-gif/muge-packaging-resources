@@ -1,0 +1,130 @@
+{
+  "generatedAt": "2026/07/02 11:13:13 CST",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "brand": "MUGE PACKAGING",
+  "marker": "MUGE PACKAGING Blog-to-Industry Buyer Route Evidence Map",
+  "officialVerified": 10,
+  "totalMappings": 10,
+  "rows": [
+    {
+      "source": "/blog/custom-cosmetic-packaging-factory-guide",
+      "target": "/packaging-for/beauty-brands",
+      "anchor": "custom packaging for beauty brands",
+      "intent": "Beauty sourcing teams comparing cosmetic packaging supplier fit.",
+      "sourceUrl": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "targetUrl": "https://mugepackaging.com/packaging-for/beauty-brands",
+      "sourceStatus": 200,
+      "sourceOk": true,
+      "targetPresent": true,
+      "anchorPresent": true
+    },
+    {
+      "source": "/blog/paper-tube-packaging-for-cosmetics-guide",
+      "target": "/packaging-for/beauty-brands",
+      "anchor": "beauty brand packaging options",
+      "intent": "Beauty buyers comparing paper tubes with cosmetic packaging routes.",
+      "sourceUrl": "https://mugepackaging.com/blog/paper-tube-packaging-for-cosmetics-guide",
+      "targetUrl": "https://mugepackaging.com/packaging-for/beauty-brands",
+      "sourceStatus": 200,
+      "sourceOk": true,
+      "targetPresent": true,
+      "anchorPresent": true
+    },
+    {
+      "source": "/blog/custom-cosmetic-packaging-box-manufacturer",
+      "target": "/packaging-for/beauty-brands",
+      "anchor": "packaging solutions for cosmetics brands",
+      "intent": "Cosmetics brands checking box manufacturer fit.",
+      "sourceUrl": "https://mugepackaging.com/blog/custom-cosmetic-packaging-box-manufacturer",
+      "targetUrl": "https://mugepackaging.com/packaging-for/beauty-brands",
+      "sourceStatus": 200,
+      "sourceOk": true,
+      "targetPresent": true,
+      "anchorPresent": true
+    },
+    {
+      "source": "/blog/fba-packaging-requirements-2026-a-complete-guide-for-amazon-sellers",
+      "target": "/packaging-for/ecommerce-sellers",
+      "anchor": "custom packaging for e-commerce sellers",
+      "intent": "Amazon, DTC and e-commerce buyers checking packaging requirements.",
+      "sourceUrl": "https://mugepackaging.com/blog/fba-packaging-requirements-2026-a-complete-guide-for-amazon-sellers",
+      "targetUrl": "https://mugepackaging.com/packaging-for/ecommerce-sellers",
+      "sourceStatus": 200,
+      "sourceOk": true,
+      "targetPresent": true,
+      "anchorPresent": true
+    },
+    {
+      "source": "/blog/custom-supplement-packaging-boxes-wholesale-for-vitamin-brands",
+      "target": "/packaging-for/wellness-supplements",
+      "anchor": "supplement and wellness packaging options",
+      "intent": "Vitamin and supplement brands comparing secondary packaging routes.",
+      "sourceUrl": "https://mugepackaging.com/blog/custom-supplement-packaging-boxes-wholesale-for-vitamin-brands",
+      "targetUrl": "https://mugepackaging.com/packaging-for/wellness-supplements",
+      "sourceStatus": 200,
+      "sourceOk": true,
+      "targetPresent": true,
+      "anchorPresent": true
+    },
+    {
+      "source": "/blog/custom-confectionery-packaging-boxes-for-candy-and-sweet-brands",
+      "target": "/packaging-for/food-beverage",
+      "anchor": "food and beverage packaging",
+      "intent": "Candy, confectionery, tea and specialty food packaging research.",
+      "sourceUrl": "https://mugepackaging.com/blog/custom-confectionery-packaging-boxes-for-candy-and-sweet-brands",
+      "targetUrl": "https://mugepackaging.com/packaging-for/food-beverage",
+      "sourceStatus": 200,
+      "sourceOk": true,
+      "targetPresent": true,
+      "anchorPresent": true
+    },
+    {
+      "source": "/blog/rigid-box-vs-folding-carton-which-packaging-format-delivers-better-roi",
+      "target": "/compare",
+      "anchor": "compare packaging suppliers",
+      "intent": "Buyers comparing structure choices and supplier fit before sampling.",
+      "sourceUrl": "https://mugepackaging.com/blog/rigid-box-vs-folding-carton-which-packaging-format-delivers-better-roi",
+      "targetUrl": "https://mugepackaging.com/compare",
+      "sourceStatus": 200,
+      "sourceOk": true,
+      "targetPresent": true,
+      "anchorPresent": true
+    },
+    {
+      "source": "/blog/sustainable-packaging-vs-traditional-packaging-eco-friendly-comparison",
+      "target": "/compare",
+      "anchor": "supplier comparison guide",
+      "intent": "Sustainable packaging buyers comparing supplier evaluation paths.",
+      "sourceUrl": "https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging-eco-friendly-comparison",
+      "targetUrl": "https://mugepackaging.com/compare",
+      "sourceStatus": 200,
+      "sourceOk": true,
+      "targetPresent": true,
+      "anchorPresent": true
+    },
+    {
+      "source": "/blog/custom-packaging-manufacturer-vs-trading-company",
+      "target": "/compare",
+      "anchor": "see our full supplier comparison",
+      "intent": "Buyers deciding between direct manufacturer, trading company and marketplace routes.",
+      "sourceUrl": "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
+      "targetUrl": "https://mugepackaging.com/compare",
+      "sourceStatus": 200,
+      "sourceOk": true,
+      "targetPresent": true,
+      "anchorPresent": true
+    },
+    {
+      "source": "/blog/wholesale-cosmetic-cream-jar-packaging",
+      "target": "/packaging-for/beauty-brands",
+      "anchor": "cosmetic packaging for beauty brands",
+      "intent": "Skincare and cream jar packaging buyers comparing category-specific structures.",
+      "sourceUrl": "https://mugepackaging.com/blog/wholesale-cosmetic-cream-jar-packaging",
+      "targetUrl": "https://mugepackaging.com/packaging-for/beauty-brands",
+      "sourceStatus": 200,
+      "sourceOk": true,
+      "targetPresent": true,
+      "anchorPresent": true
+    }
+  ]
+}
