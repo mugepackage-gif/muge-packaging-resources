@@ -1,0 +1,66 @@
+{
+  "marker": "MUGE_CURRENT246_REMAINING_SOCIAL_READY_BUYER_ROUTE_INDEX_20260702_1353",
+  "generated_at_cst": "2026-07-02 13:53:00 CST",
+  "official_website": "https://mugepackaging.com",
+  "purpose": "Public fallback index for remaining social-ready buyer routes while some Pinterest and LinkedIn publishing attempts remain unverified.",
+  "routes": [
+    {
+      "item": "Netherlands cosmetic packaging inserts",
+      "platform_queue": "Pinterest",
+      "official_route": "https://mugepackaging.com/products/cosmetic-packaging",
+      "source_asset": "https://mugepackage-gif.github.io/muge-packaging-resources/netherlands-cosmetic-packaging-inserts-mobile-rfq-sourcebridge-2026-06-29-0750.html",
+      "buyer_question": "Which cosmetic packaging route should Netherlands beauty buyers use before sending an RFQ?"
+    },
+    {
+      "item": "Kuwait paper tubes for cosmetics and gifts",
+      "platform_queue": "Pinterest",
+      "official_route": "https://mugepackaging.com/products/paper-tubes",
+      "source_asset": "https://mugepackage-gif.github.io/muge-packaging-resources/kuwait-paper-tubes-cosmetics-gifts-mobile-rfq-sourcebridge-2026-06-29-0755.html",
+      "buyer_question": "Which paper tube packaging route fits cosmetics, gifts and premium retail packs in Kuwait?"
+    },
+    {
+      "item": "US corrugated mailers for DTC brands",
+      "platform_queue": "Pinterest",
+      "official_route": "https://mugepackaging.com/products/corrugated-boxes",
+      "source_asset": "https://mugepackage-gif.github.io/muge-packaging-resources/us-corrugated-mailers-dtc-mobile-rfq-sourcebridge-2026-06-29-0800.html",
+      "buyer_question": "Which corrugated mailer route should US DTC sellers compare before requesting custom packaging?"
+    },
+    {
+      "item": "GSC zero-click buyer route hub",
+      "platform_queue": "LinkedIn",
+      "official_route": "https://mugepackaging.com/products/paper-packaging",
+      "source_asset": "https://rentry.co/muge-gsc-zero-click-buyer-route-hub-20260702-0911",
+      "buyer_question": "Which paper packaging route should buyers use when Google impressions exist but clicks are weak?"
+    },
+    {
+      "item": "Compare suppliers buyer decision route",
+      "platform_queue": "Pinterest",
+      "official_route": "https://mugepackaging.com/compare",
+      "source_asset": "https://mugepackage-gif.github.io/muge-packaging-resources/buyer-decision-routes-compare-industry-sourcebridge-2026-07-02.html",
+      "buyer_question": "How should sourcing teams compare custom packaging suppliers before requesting a quote?"
+    },
+    {
+      "item": "Ads/GSC high-intent RFQ route",
+      "platform_queue": "Pinterest",
+      "official_route": "https://mugepackaging.com/products",
+      "source_asset": "https://mugepackage-gif.github.io/muge-packaging-resources/ads-gsc-high-intent-rfq-route-sourcebridge-2026-07-02-0938.html",
+      "buyer_question": "Which product hub should buyers use for high-intent custom packaging RFQ searches?"
+    },
+    {
+      "item": "E-commerce sellers packaging route",
+      "platform_queue": "LinkedIn",
+      "official_route": "https://mugepackaging.com/packaging-for/ecommerce-sellers",
+      "source_asset": "https://mugepackage-gif.github.io/muge-packaging-resources/blog-to-industry-buyer-route-evidence-map-20260702-1113.html",
+      "buyer_question": "Which route should e-commerce sellers use for mailer boxes, inserts and branded shipping?"
+    },
+    {
+      "item": "Food and beverage independent entry",
+      "platform_queue": "LinkedIn",
+      "official_route": "https://mugepackaging.com/packaging-for/food-beverage",
+      "source_asset": "https://mugepackage-gif.github.io/muge-packaging-resources/industry-food-beverage-independent-entry-2026-07-02-1059.html",
+      "buyer_question": "Which route should food, beverage and confectionery buyers use before a packaging RFQ?"
+    }
+  ],
+  "boundary": "Public fallback index only. It does not prove platform post publication, Google ranking, AI Top10 visibility, organic traffic, inquiry generation, certification coverage, fixed price, fixed lead time, production capacity, food-contact approval or destination-market compliance."
+}
+
