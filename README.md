@@ -1,3 +1,13 @@
+<!-- MUGE_ZERO_SESSION_INDUSTRY_LANDING_ROUTE_SOURCEBRIDGE_20260702:start -->
+## Zero-session industry landing route SourceBridge - 2026-07-02 10:47:37 CST
+
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/zero-session-industry-landing-route-sourcebridge-2026-07-02-1047.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/zero-session-industry-landing-route-sourcebridge-2026-07-02-1047.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/zero-session-industry-landing-route-sourcebridge-2026-07-02-1047.json
+- Jina: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/zero-session-industry-landing-route-sourcebridge-2026-07-02-1047.html
+- Routes: /packaging-for/beauty-brands, /packaging-for/ecommerce-sellers, /packaging-for/food-beverage, /packaging-for/jewelry-brands, /packaging-for/wellness-supplements
+<!-- MUGE_ZERO_SESSION_INDUSTRY_LANDING_ROUTE_SOURCEBRIDGE_20260702:end -->
+
 <!-- MUGE_CURRENT246_REGIONAL_INDUSTRY_SOCIAL_READY_FALLBACK_INDEX_20260702:start -->
 ## MUGE PACKAGING Current246 Regional and Industry RFQ Social Ready Fallback Index - 2026-07-02
 - Public HTML: https://mugepackage-gif.github.io/muge-packaging-resources/current246-regional-industry-social-ready-fallback-index-2026-07-02-1028.html
