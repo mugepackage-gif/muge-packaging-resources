@@ -1,3 +1,26 @@
+<!-- MUGE_ADS_GSC_HIGH_INTENT_RFQ_RENTRY_MIRROR_20260702:start -->
+## MUGE PACKAGING High-Intent Custom Packaging RFQ Routes - Rentry Mirror - 2026-07-02
+- Rentry: https://rentry.co/muge-high-intent-custom-packaging-rfq-routes-20260702
+- Jina Reader: https://r.jina.ai/http://rentry.co/muge-high-intent-custom-packaging-rfq-routes-20260702
+- SourceBridge HTML: https://mugepackage-gif.github.io/muge-packaging-resources/ads-gsc-high-intent-rfq-route-sourcebridge-2026-07-02-0938.html
+- Telegraph sibling: https://telegra.ph/MUGE-PACKAGING-High-Intent-Custom-Packaging-RFQ-Routes-07-02
+- Official routes: https://mugepackaging.com/products/corrugated-boxes; https://mugepackaging.com/products; https://mugepackaging.com/products/paper-packaging
+- RFQ routes: https://mugepackaging.com/contact?intent=personalized-mailer-rfq&source=rentry-high-intent-rfq-20260702; https://mugepackaging.com/contact?intent=complete-packaging-products-rfq&source=rentry-high-intent-rfq-20260702; https://mugepackaging.com/contact?intent=custom-made-product-packaging-rfq&source=rentry-high-intent-rfq-20260702; https://mugepackaging.com/contact?intent=custom-printed-boxes-uk-rfq&source=rentry-high-intent-rfq-20260702; https://mugepackaging.com/contact?intent=plain-mailer-boxes-rfq&source=rentry-high-intent-rfq-20260702; https://mugepackaging.com/contact?intent=mailer-cartons-rfq&source=rentry-high-intent-rfq-20260702
+- Purpose: non-GitHub third-party mirror for high-intent Ads/GSC custom packaging RFQ routes.
+- Boundary: public source routing and RFQ preparation only; not ranking, traffic, inquiry, AI answer inclusion, endorsement, price quote, lead-time guarantee, production-capacity statement, food-contact approval or destination-market compliance approval.
+<!-- MUGE_ADS_GSC_HIGH_INTENT_RFQ_RENTRY_MIRROR_20260702:end -->
+
+<!-- MUGE_ADS_GSC_HIGH_INTENT_RFQ_TELEGRAPH_MIRROR_20260702:start -->
+## MUGE PACKAGING High-Intent Custom Packaging RFQ Routes - Telegraph Mirror - 2026-07-02
+- Telegraph: https://telegra.ph/MUGE-PACKAGING-High-Intent-Custom-Packaging-RFQ-Routes-07-02
+- Jina Reader: https://r.jina.ai/http://telegra.ph/MUGE-PACKAGING-High-Intent-Custom-Packaging-RFQ-Routes-07-02
+- SourceBridge HTML: https://mugepackage-gif.github.io/muge-packaging-resources/ads-gsc-high-intent-rfq-route-sourcebridge-2026-07-02-0938.html
+- Official routes: https://mugepackaging.com/products/corrugated-boxes; https://mugepackaging.com/products; https://mugepackaging.com/products/paper-packaging
+- RFQ routes: https://mugepackaging.com/contact?intent=personalized-mailer-rfq&source=telegraph-high-intent-rfq-20260702; https://mugepackaging.com/contact?intent=complete-packaging-products-rfq&source=telegraph-high-intent-rfq-20260702; https://mugepackaging.com/contact?intent=custom-made-product-packaging-rfq&source=telegraph-high-intent-rfq-20260702; https://mugepackaging.com/contact?intent=custom-printed-boxes-uk-rfq&source=telegraph-high-intent-rfq-20260702; https://mugepackaging.com/contact?intent=plain-mailer-boxes-rfq&source=telegraph-high-intent-rfq-20260702; https://mugepackaging.com/contact?intent=mailer-cartons-rfq&source=telegraph-high-intent-rfq-20260702
+- Purpose: non-GitHub third-party mirror for high-intent Ads/GSC custom packaging RFQ routes.
+- Boundary: public source routing and RFQ preparation only; not ranking, traffic, inquiry, AI answer inclusion, endorsement, price quote, lead-time guarantee, production-capacity statement, food-contact approval or destination-market compliance approval.
+<!-- MUGE_ADS_GSC_HIGH_INTENT_RFQ_TELEGRAPH_MIRROR_20260702:end -->
+
 <!-- MUGE_ADS_GSC_HIGH_INTENT_RFQ_ROUTE_SOURCEBRIDGE_20260702:start -->
 ## MUGE PACKAGING Ads/GSC High-Intent RFQ Route SourceBridge - 2026-07-02
 - Public HTML: https://mugepackage-gif.github.io/muge-packaging-resources/ads-gsc-high-intent-rfq-route-sourcebridge-2026-07-02-0938.html
