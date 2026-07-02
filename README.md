@@ -1,3 +1,15 @@
+<!-- MUGE_ADS_GSC_HIGH_INTENT_SOCIAL_FALLBACK_RFQ_PACK_20260702:start -->
+## MUGE PACKAGING Ads/GSC High-Intent Social Fallback RFQ Pack - 2026-07-02
+- Public HTML: https://mugepackage-gif.github.io/muge-packaging-resources/ads-gsc-high-intent-social-fallback-rfq-pack-2026-07-02-1020.html
+- Public Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/ads-gsc-high-intent-social-fallback-rfq-pack-2026-07-02-1020.md
+- Public JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/ads-gsc-high-intent-social-fallback-rfq-pack-2026-07-02-1020.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/ads-gsc-high-intent-social-fallback-rfq-pack-2026-07-02-1020.html
+- SourceBridge: https://mugepackage-gif.github.io/muge-packaging-resources/ads-gsc-high-intent-rfq-route-sourcebridge-2026-07-02-0938.html
+- RFQ route: https://mugepackaging.com/contact?intent=high-intent-packaging-rfq&source=social-fallback-rfq-pack
+- Purpose: public fallback text asset when Facebook/Pinterest Predis publishing is not verified.
+- Boundary: This fallback pack is a public social distribution support asset for MUGE PACKAGING. It does not prove that Facebook or Pinterest has published the posts. It is not proof of Google ranking, AI Top10 visibility, organic traffic, inquiry generation or third-party endorsement. It does not claim fixed price, fixed lead time, fixed MOQ beyond current verified website copy, production capacity, food-contact approval or destination-market compliance.
+<!-- MUGE_ADS_GSC_HIGH_INTENT_SOCIAL_FALLBACK_RFQ_PACK_20260702:end -->
+
 <!-- MUGE_ADS_GSC_HIGH_INTENT_RFQ_RENTRY_MIRROR_20260702:start -->
 ## MUGE PACKAGING High-Intent Custom Packaging RFQ Routes - Rentry Mirror - 2026-07-02
 - Rentry: https://rentry.co/muge-high-intent-custom-packaging-rfq-routes-20260702
