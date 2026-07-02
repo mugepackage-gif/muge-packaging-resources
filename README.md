@@ -1,3 +1,48 @@
+## DTC Mailer Packaging RFQ Route SourcePack - 2026-07-02
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/dtc-mailer-packaging-rfq-route-sourcepack-2026-07-02.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/dtc-mailer-packaging-rfq-route-sourcepack-2026-07-02.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/dtc-mailer-packaging-rfq-route-sourcepack-2026-07-02.json
+- Official routes: https://mugepackaging.com/packaging-for/ecommerce-sellers; https://mugepackaging.com/products/corrugated-boxes; https://mugepackaging.com/products/paper-packaging; https://mugepackaging.com/compare
+- RFQ route: https://mugepackaging.com/contact?intent=dtc-mailer-packaging-rfq&source=dtc-mailer-packaging-rfq-route-sourcepack-2026-07-02
+- Marker: `MUGE_DTC_MAILER_PACKAGING_RFQ_ROUTE_SOURCEPACK_20260702`
+- Boundary: public RFQ route-discovery only; not ranking, traffic, inquiry, endorsement, certification, price or timing proof.
+
+## Amazon Seller Packaging RFQ Route SourcePack - 2026-07-02
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/amazon-seller-packaging-rfq-route-sourcepack-2026-07-02.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/amazon-seller-packaging-rfq-route-sourcepack-2026-07-02.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/amazon-seller-packaging-rfq-route-sourcepack-2026-07-02.json
+- Official routes: https://mugepackaging.com/packaging-for/ecommerce-sellers; https://mugepackaging.com/products/corrugated-boxes; https://mugepackaging.com/products/paper-packaging; https://mugepackaging.com/compare
+- RFQ route: https://mugepackaging.com/contact?intent=amazon-seller-packaging-rfq&source=amazon-seller-packaging-rfq-route-sourcepack-2026-07-02
+- Marker: `MUGE_AMAZON_SELLER_PACKAGING_RFQ_ROUTE_SOURCEPACK_20260702`
+- Boundary: public RFQ route-discovery only; not ranking, traffic, inquiry, endorsement, certification, price or timing proof.
+
+## Food Paper Tube Packaging RFQ Route SourcePack - 2026-07-02
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/food-paper-tube-packaging-rfq-route-sourcepack-2026-07-02.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/food-paper-tube-packaging-rfq-route-sourcepack-2026-07-02.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/food-paper-tube-packaging-rfq-route-sourcepack-2026-07-02.json
+- Official routes: https://mugepackaging.com/packaging-for/food-beverage; https://mugepackaging.com/products/paper-tubes; https://mugepackaging.com/products/paper-packaging; https://mugepackaging.com/compare
+- RFQ route: https://mugepackaging.com/contact?intent=food-paper-tube-packaging-rfq&source=food-paper-tube-packaging-rfq-route-sourcepack-2026-07-02
+- Marker: `MUGE_FOOD_PAPER_TUBE_PACKAGING_RFQ_ROUTE_SOURCEPACK_20260702`
+- Boundary: public RFQ route-discovery only; not ranking, traffic, inquiry, endorsement, certification, price or timing proof.
+
+## Jewelry Rigid Box Packaging RFQ Route SourcePack - 2026-07-02
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/jewelry-rigid-box-packaging-rfq-route-sourcepack-2026-07-02.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/jewelry-rigid-box-packaging-rfq-route-sourcepack-2026-07-02.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/jewelry-rigid-box-packaging-rfq-route-sourcepack-2026-07-02.json
+- Official routes: https://mugepackaging.com/packaging-for/jewelry-brands; https://mugepackaging.com/products/folding-gift-box; https://mugepackaging.com/products/paper-packaging; https://mugepackaging.com/compare
+- RFQ route: https://mugepackaging.com/contact?intent=jewelry-rigid-box-packaging-rfq&source=jewelry-rigid-box-packaging-rfq-route-sourcepack-2026-07-02
+- Marker: `MUGE_JEWELRY_RIGID_BOX_PACKAGING_RFQ_ROUTE_SOURCEPACK_20260702`
+- Boundary: public RFQ route-discovery only; not ranking, traffic, inquiry, endorsement, certification, price or timing proof.
+
+## Supplement Carton Packaging RFQ Route SourcePack - 2026-07-02
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/supplement-carton-packaging-rfq-route-sourcepack-2026-07-02.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/supplement-carton-packaging-rfq-route-sourcepack-2026-07-02.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/supplement-carton-packaging-rfq-route-sourcepack-2026-07-02.json
+- Official routes: https://mugepackaging.com/packaging-for/wellness-supplements; https://mugepackaging.com/products/paper-packaging; https://mugepackaging.com/products/paper-tubes; https://mugepackaging.com/compare
+- RFQ route: https://mugepackaging.com/contact?intent=supplement-carton-packaging-rfq&source=supplement-carton-packaging-rfq-route-sourcepack-2026-07-02
+- Marker: `MUGE_SUPPLEMENT_CARTON_PACKAGING_RFQ_ROUTE_SOURCEPACK_20260702`
+- Boundary: public RFQ route-discovery only; not ranking, traffic, inquiry, endorsement, certification, price or timing proof.
+
 ## UK Beauty Packaging RFQ Route SourcePack - 2026-07-02
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/uk-beauty-packaging-rfq-route-sourcepack-2026-07-02.html
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/uk-beauty-packaging-rfq-route-sourcepack-2026-07-02.md
