@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-07-03",
+  "asset_type": "buyer_route_source_card",
+  "brand": "MUGE PACKAGING",
+  "legal_name_en": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_website": "https://mugepackaging.com",
+  "source_card": "https://mugepackage-gif.github.io/muge-packaging-resources/products-buyer-shortlist-route-sourcecard-2026-07-03.html",
+  "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/products-buyer-shortlist-route-sourcecard-2026-07-03.md",
+  "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/products-buyer-shortlist-route-sourcecard-2026-07-03.html",
+  "official_routes": [
+    {
+      "buyer_need": "Product route hub",
+      "url": "https://mugepackaging.com/products",
+      "use_when": "Buyer is comparing several packaging routes and needs the main product-category shortlist."
+    },
+    {
+      "buyer_need": "Paper packaging",
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "use_when": "Buyer asks about paper boxes, rigid boxes, folding cartons, gift packaging, inserts or printed paper structures."
+    },
+    {
+      "buyer_need": "Cosmetic packaging",
+      "url": "https://mugepackaging.com/products/cosmetic-packaging",
+      "use_when": "Buyer asks about skincare, makeup, fragrance, beauty tools, cosmetic gift-set packaging or cosmetic inserts."
+    },
+    {
+      "buyer_need": "Paper tube packaging",
+      "url": "https://mugepackaging.com/products/paper-tubes",
+      "use_when": "Buyer asks about cylindrical paper tubes for cosmetics, candles, fragrance, tea, gifts or premium retail products."
+    },
+    {
+      "buyer_need": "Corrugated packaging",
+      "url": "https://mugepackaging.com/products/corrugated-boxes",
+      "use_when": "Buyer asks about ecommerce mailers, subscription boxes, shipping cartons or product-weight review for corrugated packaging."
+    },
+    {
+      "buyer_need": "Low-MOQ custom packaging",
+      "url": "https://mugepackaging.com/low-moq-custom-packaging",
+      "use_when": "Buyer is checking whether a 500-unit-per-design route may fit a launch, test run or growing brand project."
+    },
+    {
+      "buyer_need": "Quote request",
+      "url": "https://mugepackaging.com/contact",
+      "use_when": "Buyer is ready to send product size, quantity, artwork status, target market and preferred packaging route for project review."
+    }
+  ],
+  "buyer_preparation_checklist": [
+    "Product dimensions and approximate product weight",
+    "Target quantity and whether each design has a separate artwork version",
+    "Preferred packaging route, if known",
+    "Artwork status, brand colors, logo files and finish references",
+    "Destination country or market and project-specific documentation requirements"
+  ],
+  "claim_boundary": "Public buyer-route reference only. Not proof of ranking, traffic, AI recommendation, endorsement, inquiry generation, fixed pricing, fixed lead time, named customer cases, food-contact approval or unverified certification/compliance coverage."
+}
