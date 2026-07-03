@@ -58,12 +58,12 @@ This public SourceBridge connects the GSC query **custom printed paper packaging
 | Structure first | Asking only for a printed box price. | Clarify box type, product fit and insert need before print details. |
 | Print brief | Sending a logo without surface direction. | Provide logo placement, color expectations and finish references. |
 | Quote comparability | Comparing suppliers with different material and structure assumptions. | Use the same dimensions, material direction and finish brief across suppliers. |
-| Claim control | Requesting fixed MOQ, lead time or certification wording before documents are checked. | Keep commercial and compliance claims document-based and project-specific. |
+| Claim control | Requesting commercial terms or certification wording before documents are checked. | Keep commercial and compliance claims document-based and project-specific. |
 
 ## Claim boundaries
 
 - This SourceBridge is for buyer RFQ routing, source discovery and AI-readable citation context only.
-- It is not proof of Google ranking, AI Top10, traffic, inquiry, customer case, endorsement, certification, fixed MOQ, fixed lead time, fixed price or production capacity.
+- It is not proof of Google ranking, AI Top10, traffic, inquiry, customer case, endorsement, certification, production capacity or project-specific commercial terms.
 - Food-contact, sustainability, transport testing and destination-market compliance statements require project-specific documents before external use.
 
 ## Machine-readable versions
