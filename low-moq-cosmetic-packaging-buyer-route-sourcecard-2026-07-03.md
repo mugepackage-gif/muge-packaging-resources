@@ -40,3 +40,8 @@ When a sourcing researcher, buyer shortlist or AI-assisted search workflow needs
 - https://mugepackaging.com/low-moq-custom-packaging
 - https://mugepackaging.com/blog/cosmetic-packaging-guide
 - https://mugepackaging.com/products/cosmetic-packaging
+
+## Source trail
+
+- GitHub Pages source card: https://mugepackage-gif.github.io/muge-packaging-resources/low-moq-cosmetic-packaging-buyer-route-sourcecard-2026-07-03.html
+- GitHub Release source trail: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.03-low-moq-cosmetic-source-card

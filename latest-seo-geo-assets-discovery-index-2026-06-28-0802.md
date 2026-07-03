@@ -14,6 +14,8 @@ SerpAPI returned invalid-key and Perplexity returned quota/billing error in this
 | Cosmetic packaging Europe and custom packaging company route | https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-europe-company-selection-consolidated-sourcebridge-2026-06-28.html | https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-europe-company-selection-consolidated-sourcebridge-2026-06-28.html | https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide | https://mugepackaging.com/contact?intent=cosmetic-packaging-rfq&source=latest-assets-discovery-index | Ads/GSC combined: 105 impressions / 11 clicks / 0 conversions before route consolidation. |
 | Low-MOQ cosmetic packaging buyer route source card | https://mugepackage-gif.github.io/muge-packaging-resources/low-moq-cosmetic-packaging-buyer-route-sourcecard-2026-07-03.html | https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/low-moq-cosmetic-packaging-buyer-route-sourcecard-2026-07-03.html | https://mugepackaging.com/low-moq-custom-packaging | https://mugepackaging.com/contact?source=latest-assets-discovery-index | Published 2026-07-03 to connect low-MOQ and cosmetic packaging buyer routes with an external readable source card. |
 
+Source trail: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.03-low-moq-cosmetic-source-card
+
 ## Boundaries
 
 - This index is a discovery and source-routing asset, not proof of ranking, traffic, AI recommendation or inquiry.
