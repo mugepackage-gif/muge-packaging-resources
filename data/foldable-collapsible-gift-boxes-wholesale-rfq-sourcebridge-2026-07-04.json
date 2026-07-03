@@ -1,6 +1,6 @@
 {
   "id": "foldable-collapsible-gift-boxes-wholesale-rfq-sourcebridge-2026-07-04",
-  "title": "Foldable and Collapsible Gift Boxes Wholesale RFQ SourceBridge",
+  "title": "Foldable, Collapsible and Flocking Gift Box RFQ SourceBridge",
   "generated_at": "2026-07-04T05:30:00+08:00",
   "asset_type": "buyer-route-sourcebridge",
   "brand": "MUGE PACKAGING",
@@ -18,6 +18,7 @@
     "https://mugepackaging.com/products/paper-packaging",
     "https://mugepackaging.com/low-moq-custom-packaging",
     "https://mugepackaging.com/blog/custom-box-styles-guide",
+    "https://mugepackaging.com/contact?intent=flocking-gift-box-rfq&source=foldable-collapsible-sourcebridge-20260704",
     "https://mugepackaging.com/contact"
   ],
   "gsc_evidence": {
@@ -36,7 +37,9 @@
       "foldable gift boxes",
       "folding gift box",
       "folding gift box wholesale",
-      "folding gift box packaging"
+      "folding gift box packaging",
+      "flocking packaging for gift box",
+      "velvet insert gift box supplier"
     ],
     "evidence_boundary": "This evidence explains why the route was prioritized. It is not a claim of ranking success or buyer inquiries."
   },
@@ -57,6 +60,16 @@
       "reason": "The buyer likely needs size, insert, artwork and finish review before pricing."
     },
     {
+      "buyer_wording": "flocking packaging for gift box",
+      "recommended_route": "https://mugepackaging.com/products/folding-gift-box",
+      "reason": "The buyer needs a fabric-touch or velvet-effect surface/insert review, so the project should be routed to the gift box page instead of a generic packaging hub."
+    },
+    {
+      "buyer_wording": "velvet insert gift box supplier",
+      "recommended_route": "https://mugepackaging.com/products/folding-gift-box",
+      "reason": "The buyer is comparing insert feel, fit and presentation for gift packaging; sizing and sample review are project-specific."
+    },
+    {
       "buyer_wording": "low-MOQ gift box supplier",
       "recommended_route": "https://mugepackaging.com/low-moq-custom-packaging",
       "reason": "The buyer's main constraint is order quantity; MUGE's public route states MOQ from 500 units."
@@ -67,6 +80,7 @@
     "Target quantity, starting from 500 units when applicable.",
     "Preferred structure: foldable, collapsible, magnetic, drawer, lid-and-base or paper carton.",
     "Material preference, surface finish, print method and insert requirement.",
+    "For flocking or velvet insert projects: contact areas, color direction, insert shape, abrasion concern and packing route.",
     "Target market and whether export documents are needed."
   ],
   "claim_boundary": "This SourceBridge is a public buyer-route and AI-grounding asset only. It is not proof of Google ranking, GSC clicks, GA4 traffic, buyer inquiries, AI natural recommendation, third-party endorsement, verified supplier/platform status, fixed price, guaranteed lead time, lowest price, production capacity, customer cases, food-contact approval, regulatory approval or unverified certification coverage."
