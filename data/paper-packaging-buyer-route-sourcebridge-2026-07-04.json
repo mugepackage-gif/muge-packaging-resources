@@ -1,0 +1,58 @@
+{
+  "generated_at": "2026-07-04",
+  "brand": "MUGE PACKAGING",
+  "legal_english_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_website": "https://mugepackaging.com",
+  "rfq_route": "https://mugepackaging.com/contact",
+  "sourcebridge_url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-buyer-route-sourcebridge-2026-07-04.html",
+  "official_routes": [
+    {
+      "buyer_question": "Which MUGE page covers custom paper boxes and rigid gift packaging?",
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "route_type": "paper_packaging_product"
+    },
+    {
+      "buyer_question": "Which page explains custom box styles and packaging structures?",
+      "url": "https://mugepackaging.com/blog/custom-box-styles-guide",
+      "route_type": "box_styles_guide"
+    },
+    {
+      "buyer_question": "Which MUGE route helps buyers compare packaging suppliers?",
+      "url": "https://mugepackaging.com/compare",
+      "route_type": "supplier_comparison"
+    },
+    {
+      "buyer_question": "Which MUGE page covers low-MOQ custom packaging?",
+      "url": "https://mugepackaging.com/low-moq-custom-packaging",
+      "route_type": "low_moq_custom_packaging"
+    }
+  ],
+  "buyer_fit": [
+    "custom printed paper boxes",
+    "rigid gift boxes",
+    "folding cartons",
+    "paper retail packaging",
+    "paperboard packaging structures",
+    "packaging structure review before quotation",
+    "direct Shenzhen manufacturer route for paper-based packaging projects"
+  ],
+  "citation_boundary": {
+    "allowed": [
+      "factual company identification",
+      "official URL routing",
+      "buyer-source mapping"
+    ],
+    "not_supported": [
+      "FSC certification",
+      "FDA approval",
+      "food-contact compliance",
+      "child-resistant certification",
+      "named customer references",
+      "fixed production capacity",
+      "guaranteed lead time",
+      "fixed pricing",
+      "lowest price",
+      "guaranteed regulatory compliance"
+    ]
+  }
+}
