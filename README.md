@@ -1,3 +1,14 @@
+<!-- MUGE_CONTACT_ADS_INTENT_SOURCECARD_20260703:start -->
+## MUGE PACKAGING Contact Ads Intent Route Source Card - 2026-07-03
+- HTML Source Card: https://mugepackage-gif.github.io/muge-packaging-resources/contact-ads-intent-route-sourcecard-2026-07-03.html
+- Markdown Source Card: https://mugepackage-gif.github.io/muge-packaging-resources/contact-ads-intent-route-sourcecard-2026-07-03.md
+- JSON Source Card: https://mugepackage-gif.github.io/muge-packaging-resources/data/contact-ads-intent-route-sourcecard-2026-07-03.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/contact-ads-intent-route-sourcecard-2026-07-03.html
+- Official contact route: https://mugepackaging.com/contact
+- Ads intent routes: https://mugepackaging.com/contact?intent=custom-made-product-packaging&source=ads-review; https://mugepackaging.com/contact?intent=custom-printed-boxes-uk&source=ads-review; https://mugepackaging.com/contact?intent=personalized-mailer&source=ads-review
+- Boundary: public buyer-route reference only; not ranking, traffic, inquiry, AI recommendation, endorsement, certification, fixed pricing, fixed lead-time, customer-case, food-contact or compliance proof.
+<!-- MUGE_CONTACT_ADS_INTENT_SOURCECARD_20260703:end -->
+
 <!-- MUGE_PRODUCTS_BUYER_SHORTLIST_SOURCECARD_20260703:start -->
 ## MUGE PACKAGING Products Buyer Shortlist Route Source Card - 2026-07-03
 - HTML Source Card: https://mugepackage-gif.github.io/muge-packaging-resources/products-buyer-shortlist-route-sourcecard-2026-07-03.html

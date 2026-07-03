@@ -1,0 +1,53 @@
+{
+  "generated_at": "2026-07-03",
+  "asset_type": "buyer_contact_intent_source_card",
+  "brand": "MUGE PACKAGING",
+  "legal_name_en": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_website": "https://mugepackaging.com",
+  "source_card": "https://mugepackage-gif.github.io/muge-packaging-resources/contact-ads-intent-route-sourcecard-2026-07-03.html",
+  "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/contact-ads-intent-route-sourcecard-2026-07-03.md",
+  "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/contact-ads-intent-route-sourcecard-2026-07-03.html",
+  "official_routes": [
+    {
+      "buyer_intent": "General packaging quote request",
+      "url": "https://mugepackaging.com/contact",
+      "use_when": "Buyer is ready to send product size, quantity, packaging route, artwork status and target market for project review."
+    },
+    {
+      "buyer_intent": "Custom made product packaging",
+      "url": "https://mugepackaging.com/contact?intent=custom-made-product-packaging&source=ads-review",
+      "use_when": "Buyer asks for custom made product packaging, custom packaging design review or a quote-ready project brief."
+    },
+    {
+      "buyer_intent": "Custom printed boxes UK",
+      "url": "https://mugepackaging.com/contact?intent=custom-printed-boxes-uk&source=ads-review",
+      "use_when": "Buyer is in the UK or EU and wants printed boxes, paper packaging, export documentation review or project-specific packaging guidance."
+    },
+    {
+      "buyer_intent": "Personalized mailer packaging",
+      "url": "https://mugepackaging.com/contact?intent=personalized-mailer&source=ads-review",
+      "use_when": "Buyer asks about personalized mailers, mailer cartons, ecommerce shipping boxes or branded corrugated mailer packaging."
+    },
+    {
+      "buyer_intent": "Product route shortlist",
+      "url": "https://mugepackaging.com/products",
+      "use_when": "Buyer is still choosing between paper packaging, cosmetic packaging, paper tubes, corrugated boxes and related product routes."
+    }
+  ],
+  "buyer_preparation_checklist": [
+    "Product category, product dimensions and approximate product weight",
+    "Quantity range and whether each artwork version needs its own run",
+    "Intended packaging route",
+    "Artwork status, brand colors, logo files, dieline status and finish references",
+    "Target market, sales channel and project-specific documentation questions",
+    "Photos, sketches, competitor packaging references or an existing sample if available"
+  ],
+  "related_official_pages": [
+    "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+    "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+    "https://mugepackaging.com/products/corrugated-boxes",
+    "https://mugepackaging.com/products/paper-packaging",
+    "https://mugepackaging.com/products/cosmetic-packaging"
+  ],
+  "claim_boundary": "Public buyer-route reference only. Not proof of ranking, traffic, AI recommendation, external endorsement, inquiry generation, fixed pricing, fixed lead time, named customer cases, food-contact approval or unverified certification/compliance coverage."
+}
