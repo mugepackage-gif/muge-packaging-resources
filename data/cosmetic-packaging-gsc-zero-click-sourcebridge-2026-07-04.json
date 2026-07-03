@@ -1,0 +1,56 @@
+{
+  "asset": "cosmetic-packaging-gsc-zero-click-sourcebridge-2026-07-04",
+  "generated_at": "2026-07-04",
+  "type": "gsc_zero_click_sourcebridge",
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_website": "https://mugepackaging.com",
+  "gsc_window": {
+    "start": "2026-06-04",
+    "end": "2026-07-03"
+  },
+  "gsc_page_evidence": {
+    "page": "https://mugepackaging.com/products/cosmetic-packaging",
+    "clicks": 0,
+    "impressions": 141,
+    "average_position": 5.553,
+    "query_rows": 2
+  },
+  "observed_query_rows": [
+    {
+      "query_or_route": "https://mugepackaging.com/products/cosmetic-packaging",
+      "clicks": 0,
+      "impressions": 139,
+      "average_position": 5.504
+    },
+    {
+      "query_or_route": "https://mugepackaging.com/source-notes/custom-packaging-supplier-fit",
+      "clicks": 0,
+      "impressions": 2,
+      "average_position": 9.0
+    }
+  ],
+  "official_routes": {
+    "product_page": "https://mugepackaging.com/products/cosmetic-packaging",
+    "guide": "https://mugepackaging.com/blog/cosmetic-packaging-guide",
+    "industry_page": "https://mugepackaging.com/industries/cosmetics-packaging",
+    "low_moq": "https://mugepackaging.com/low-moq-custom-packaging",
+    "rfq": "https://mugepackaging.com/contact?intent=cosmetic-packaging-rfq&source=cosmetic-gsc-sourcebridge-20260704"
+  },
+  "public_supporting_entry": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/205#issuecomment-4879875798",
+  "published_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-gsc-zero-click-sourcebridge-2026-07-04.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-gsc-zero-click-sourcebridge-2026-07-04.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-gsc-zero-click-sourcebridge-2026-07-04.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-gsc-zero-click-sourcebridge-2026-07-04.html"
+  },
+  "boundaries": [
+    "No buyer traffic claim",
+    "No inquiry volume claim",
+    "No AI answer ranking claim",
+    "No certification claim",
+    "No fixed pricing claim",
+    "No guaranteed lead time claim",
+    "No regulatory compliance claim"
+  ]
+}
