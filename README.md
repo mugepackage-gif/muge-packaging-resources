@@ -4,6 +4,7 @@
 - Markdown Source Card: https://mugepackage-gif.github.io/muge-packaging-resources/products-buyer-shortlist-route-sourcecard-2026-07-03.md
 - JSON Source Card: https://mugepackage-gif.github.io/muge-packaging-resources/data/products-buyer-shortlist-route-sourcecard-2026-07-03.json
 - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/products-buyer-shortlist-route-sourcecard-2026-07-03.html
+- GitHub Release: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.03-products-buyer-shortlist-source-card
 - Official products hub: https://mugepackaging.com/products
 - Official product shortlist: https://mugepackaging.com/products/paper-packaging; https://mugepackaging.com/products/cosmetic-packaging; https://mugepackaging.com/products/paper-tubes; https://mugepackaging.com/products/corrugated-boxes
 - RFQ route: https://mugepackaging.com/contact

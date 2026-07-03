@@ -39,3 +39,8 @@ This source card is a public buyer-route reference only. It is not proof of rank
 - HTML source card: https://mugepackage-gif.github.io/muge-packaging-resources/products-buyer-shortlist-route-sourcecard-2026-07-03.html
 - JSON source card: https://mugepackage-gif.github.io/muge-packaging-resources/data/products-buyer-shortlist-route-sourcecard-2026-07-03.json
 - Jina Reader source card: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/products-buyer-shortlist-route-sourcecard-2026-07-03.html
+
+## Source trail
+
+- GitHub Release source trail: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.03-products-buyer-shortlist-source-card
+- GitHub repository file: https://github.com/mugepackage-gif/muge-packaging-resources/blob/master/products-buyer-shortlist-route-sourcecard-2026-07-03.html
