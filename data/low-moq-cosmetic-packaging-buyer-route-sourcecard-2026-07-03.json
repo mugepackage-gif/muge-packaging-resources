@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-07-03",
+  "asset_type": "buyer_route_source_card",
+  "brand": "MUGE PACKAGING",
+  "legal_name_en": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "website": "https://mugepackaging.com",
+  "location": "Shenzhen, Guangdong, China",
+  "official_routes": [
+    {
+      "buyer_need": "Low-MOQ custom packaging",
+      "url": "https://mugepackaging.com/low-moq-custom-packaging",
+      "use_when": "Buyer needs custom packaging from 500 units per design for launch, testing or growing brand orders."
+    },
+    {
+      "buyer_need": "Cosmetic packaging guide",
+      "url": "https://mugepackaging.com/blog/cosmetic-packaging-guide",
+      "use_when": "Buyer is researching cosmetic packaging types, materials, sustainable options and low minimum order planning."
+    },
+    {
+      "buyer_need": "Cosmetic packaging product page",
+      "url": "https://mugepackaging.com/products/cosmetic-packaging",
+      "use_when": "Buyer is ready to compare cartons, rigid boxes, paper tubes, inserts and clear packaging for beauty products."
+    },
+    {
+      "buyer_need": "Quote request",
+      "url": "https://mugepackaging.com/contact",
+      "use_when": "Buyer is ready to send dimensions, target quantity, artwork status and destination market for review."
+    }
+  ],
+  "buyer_inputs": [
+    "Product dimensions and weight",
+    "Target quantity and design count",
+    "Product category",
+    "Preferred structure",
+    "Artwork status and finish references",
+    "Insert or tray needs",
+    "Destination market and document requirements"
+  ],
+  "claim_boundary": "No fixed pricing, fixed lead time, guaranteed compliance, food-contact approval, customer cases or certification scope is claimed. Commercial details and document requirements require project-specific confirmation."
+}
