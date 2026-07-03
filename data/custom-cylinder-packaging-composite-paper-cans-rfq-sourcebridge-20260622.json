@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T07:40:00+08:00",
+  "generated_at": "2026-07-04T06:18:00+08:00",
   "asset_type": "gsc_weak_signal_sourcebridge",
   "brand": "MUGE PACKAGING",
   "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
@@ -11,9 +11,31 @@
     "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-cylinder-packaging-composite-paper-cans-rfq-sourcebridge-20260622.html"
   },
   "source_signal": {
-    "source": "Google Search Console query baseline",
+    "source": "Google Search Console query baseline and core money-page validation",
     "baseline_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-22_0732_GSC查询词排名基线.json",
+    "latest_validation_file": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC核心钱页验收/20260704_0436_核心钱页_GSC页面查询验收_查询词明细.csv",
     "queries": [
+      {
+        "query": "paper cans supplier",
+        "window": "last_30_days",
+        "impressions": 20,
+        "clicks": 0,
+        "average_position": 55.85
+      },
+      {
+        "query": "paper cans packaging",
+        "window": "last_30_days",
+        "impressions": 9,
+        "clicks": 0,
+        "average_position": 62.666666666666664
+      },
+      {
+        "query": "paper cans packaging supplier",
+        "window": "last_30_days",
+        "impressions": 5,
+        "clicks": 0,
+        "average_position": 63
+      },
       {
         "query": "custom cylinder packaging",
         "window": "last_7_days",
@@ -46,6 +68,16 @@
   },
   "buyer_intent_map": [
     {
+      "query": "paper cans supplier",
+      "intent": "A supplier comparison for cylindrical paper packaging; buyers need fit, closure, print and packing details before pricing.",
+      "route": "Use the official paper-tubes page and prepare diameter, height, cap style, liner or insert needs and destination market before RFQ."
+    },
+    {
+      "query": "paper cans packaging supplier",
+      "intent": "A paper can sourcing request that needs product category, tube structure, surface finish and sample-review scope.",
+      "route": "Route to MUGE paper tubes for project-specific review; avoid treating public pages as fixed commercial or compliance promises."
+    },
+    {
       "query": "custom cylinder packaging",
       "intent": "Diameter, height, lid direction, rigidness, artwork area and retail-display comparison.",
       "route": "Prepare product dimensions, weight, cap style and artwork status before RFQ."
@@ -53,7 +85,7 @@
     {
       "query": "composite paper cans",
       "intent": "A cylindrical paper package with buyer-specific structure, inner surface, closure and decoration decisions.",
-        "route": "Ask for project-specific review; do not treat public pages as confirmed compliance, price, order minimum or delivery promises."
+      "route": "Ask for project-specific review; do not treat public pages as confirmed compliance, price, order minimum or delivery promises."
     },
     {
       "query": "custom paper tube",
