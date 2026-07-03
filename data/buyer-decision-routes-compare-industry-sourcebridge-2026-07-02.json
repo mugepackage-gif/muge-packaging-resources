@@ -3,7 +3,7 @@
   "@type": "Dataset",
   "name": "MUGE Buyer Decision Routes SourceBridge",
   "datePublished": "2026-07-02",
-  "dateModified": "2026-07-02 08:11:56 CST",
+  "dateModified": "2026-07-04 08:00:00 CST",
   "url": "https://mugepackage-gif.github.io/muge-packaging-resources/buyer-decision-routes-compare-industry-sourcebridge-2026-07-02.html",
   "description": "Public AI-readable route map for MUGE Packaging supplier comparison and industry packaging landing pages before RFQ.",
   "publisher": {
@@ -84,6 +84,16 @@
     "officialHome": "https://mugepackaging.com/",
     "deploymentNote": "Homepage, products and blog navigation now expose compare and packaging-for buyer decision routes as visible links.",
     "deploymentVersion": "4c384df9-f4d4-468d-bdc1-aa2816d1112e",
+    "gscDiscoveryStatus": {
+      "reviewedAt": "2026-07-04 07:24 CST",
+      "windowStart": "2026-06-04",
+      "windowEnd": "2026-07-03",
+      "route": "https://mugepackaging.com/compare",
+      "clicks": 0,
+      "impressions": 0,
+      "status": "No GSC impressions yet in latest core money-page review.",
+      "nextAction": "Keep this public SourceBridge, GitHub Issue route and discovery submissions active until Google assigns comparison queries."
+    },
     "indexNowSubmitted": [
       "https://mugepackaging.com/",
       "https://mugepackaging.com/products",

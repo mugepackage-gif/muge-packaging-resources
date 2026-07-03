@@ -17,6 +17,16 @@ This public SourceBridge maps MUGE Packaging's supplier comparison page and indu
 
 Official website: https://mugepackaging.com
 
+## 2026-07-04 GSC Discovery Status
+
+Latest local Google Search Console core money-page review:
+
+| Official route | Clicks | Impressions | Status | Next action |
+|---|---:|---:|---|---|
+| https://mugepackaging.com/compare | 0 | 0 | No GSC impressions yet | Keep this public SourceBridge, GitHub Issue route and discovery submissions active until Google assigns comparison queries. |
+
+Interpretation: `/compare` is live and self-canonical, but it has not yet received GSC impressions in the latest 30-day window. This update keeps the buyer-decision route discoverable without creating a duplicate comparison article.
+
 ## Official Buyer Decision Routes
 
 | Route | Official URL | RFQ handoff | Use for |
