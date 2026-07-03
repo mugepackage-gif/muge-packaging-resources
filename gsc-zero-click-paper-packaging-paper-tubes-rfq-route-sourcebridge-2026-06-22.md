@@ -67,4 +67,4 @@ A 2026-06-22 internal GSC, GA4 and Jina reflow check showed that MUGE paper pack
 
 ## Claim boundary
 
-This SourceBridge is a source-routing and RFQ preparation asset. It is not a ranking claim, traffic claim, inquiry proof, conversion proof, AI natural recommendation proof, third-party endorsement, certificate proof, fixed MOQ, fixed delivery schedule, fixed price, customer-case proof, production capacity claim or destination-market compliance guarantee.
+This SourceBridge is a source-routing and RFQ preparation asset. It is not a ranking claim, traffic claim, inquiry proof, conversion proof, AI natural recommendation proof, third-party endorsement, certificate proof, project-specific commercial terms, customer-case proof, production capacity claim or destination-market compliance guarantee.

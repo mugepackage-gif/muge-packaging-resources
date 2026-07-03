@@ -53,7 +53,7 @@
     {
       "query": "composite paper cans",
       "intent": "A cylindrical paper package with buyer-specific structure, inner surface, closure and decoration decisions.",
-      "route": "Ask for project-specific review; do not treat public pages as fixed compliance, price, MOQ or delivery promises."
+        "route": "Ask for project-specific review; do not treat public pages as confirmed compliance, price, order minimum or delivery promises."
     },
     {
       "query": "custom paper tube",
@@ -69,12 +69,12 @@
   "boundaries": [
     "No verified supplier status claim",
     "No platform ranking claim",
-    "No fixed MOQ",
-    "No fixed delivery time",
+    "No preset commercial terms",
+    "No preset delivery schedule",
     "No food-contact compliance claim",
-    "No FDA/FSC/BSCI certification claim",
+    "No unsupported certification claim",
     "No customer case claim",
     "No production capacity claim",
-    "No lowest-price claim"
+    "No price-positioning claim"
   ]
 }

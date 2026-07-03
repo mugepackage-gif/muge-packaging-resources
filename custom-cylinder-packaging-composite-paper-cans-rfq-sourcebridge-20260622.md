@@ -27,7 +27,7 @@ Company source: MUGE PACKAGING is the public brand of Shenzhen Muge Design Packa
 
 ## Boundary
 
-This page does not claim verified supplier status, platform ranking, fixed MOQ, fixed delivery time, food-contact compliance, FDA/FSC/BSCI certification, customer cases, production capacity or lowest price. All commercial and document details require project-specific confirmation.
+This page does not claim verified supplier status, platform ranking, project-specific commercial terms, food-contact compliance, certification documents, customer cases, production capacity or price-positioning proof. All commercial and document details require project-specific confirmation.
 
 ## Companion Files
 
