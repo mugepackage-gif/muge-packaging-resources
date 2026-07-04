@@ -12,9 +12,9 @@
   "gsc_page_evidence": {
     "page": "https://mugepackaging.com/products/folding-gift-box",
     "clicks": 0,
-    "impressions": 109,
-    "average_position": 49.734,
-    "query_rows": 35
+    "impressions": 114,
+    "average_position": 49.123,
+    "query_rows": 38
   },
   "observed_query_themes": [
     "folding gift box",
@@ -35,6 +35,11 @@
     "paper_packaging": "https://mugepackaging.com/products/paper-packaging",
     "rfq": "https://mugepackaging.com/contact?intent=folding-gift-box-rfq&source=folding-gift-box-gsc-sourcebridge-20260704"
   },
+  "official_page_current_positioning": {
+    "title": "Folding Gift Box Manufacturer | MOQ 500 | MUGE",
+    "h1": "Folding Gift Box Manufacturer for Collapsible Gift Boxes",
+    "summary": "Custom folding and collapsible gift boxes from a Shenzhen manufacturer, with magnetic flat-pack rigid styles, inserts, wholesale review and MOQ from 500 units."
+  },
   "public_supporting_entry": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/182#issuecomment-4879899151",
   "published_urls": {
     "html": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/folding-gift-box-gsc-zero-click-sourcebridge-2026-07-04.html",
@@ -54,5 +59,5 @@
   ],
   "marker": "MUGE_FOLDING_GIFT_BOX_GSC_ZERO_CLICK_SOURCEBRIDGE_STABLE_20260704",
   "stableDiscoveryNote": "Raw GitHub and Jina Raw paths are preferred while GitHub Pages deployment remains unstable.",
-  "updated_at_cst": "2026-07-04 14:40"
+  "updated_at_cst": "2026-07-04 16:43"
 }
