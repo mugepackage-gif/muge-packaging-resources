@@ -73,6 +73,49 @@
       "githubReleaseUrl": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.04-low-moq-route-sourcebridge"
     },
     {
+      "type": "cosmetic_packaging_gsc_zero_click_sourcebridge",
+      "name": "MUGE PACKAGING Cosmetic Packaging GSC Zero-Click SourceBridge",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-gsc-zero-click-sourcebridge-2026-07-04.html",
+      "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-gsc-zero-click-sourcebridge-2026-07-04.md",
+      "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-gsc-zero-click-sourcebridge-2026-07-04.json",
+      "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-gsc-zero-click-sourcebridge-2026-07-04.html",
+      "githubReleaseUrl": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.04-cosmetic-packaging-gsc-zero-click-sourcebridge",
+      "officialRoutes": [
+        {
+          "name": "Custom cosmetic packaging product route",
+          "url": "https://mugepackaging.com/products/cosmetic-packaging"
+        },
+        {
+          "name": "Cosmetic packaging guide",
+          "url": "https://mugepackaging.com/blog/cosmetic-packaging-guide"
+        },
+        {
+          "name": "Cosmetics industry route",
+          "url": "https://mugepackaging.com/industries/cosmetics-packaging"
+        },
+        {
+          "name": "Low-MOQ custom packaging route",
+          "url": "https://mugepackaging.com/low-moq-custom-packaging"
+        },
+        {
+          "name": "Cosmetic packaging RFQ route",
+          "url": "https://mugepackaging.com/contact?intent=cosmetic-packaging-rfq&source=cosmetic-gsc-sourcebridge-20260704"
+        }
+      ],
+      "gscObservation": {
+        "source": "GSC core money-page review",
+        "recordedAtCst": "2026-07-04 12:05",
+        "window": "2026-06-04 to 2026-07-03",
+        "page": "https://mugepackaging.com/products/cosmetic-packaging",
+        "clicks": 0,
+        "impressions": 141,
+        "averagePosition": 5.553,
+        "queryRows": 2
+      },
+      "boundary": "Public buyer-route reference only. Not proof of Google ranking stability, organic traffic, AI recommendation, external endorsement, inquiry generation, fixed pricing, fixed lead time, named customer cases, food-contact approval, production capacity or unverified certification/compliance coverage.",
+      "dateModified": "2026-07-04"
+    },
+    {
       "type": "paper_cans_supplier_gsc_zero_click_sourcecard",
       "name": "MUGE PACKAGING Paper Cans Supplier GSC Zero-Click Source Card",
       "url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-cans-supplier-gsc-zero-click-sourcecard-2026-07-03.html",
