@@ -1,7 +1,7 @@
 {
   "name": "MUGE PACKAGING official buyer route index",
-  "generated_at": "2026-07-04T15:37:47.299Z",
-  "deprecated_route_notice": "The old website route family for source notes is retired from the official domain and returns 410/noindex. Use the official buyer routes in this file instead.",
+  "generated_at": "2026-07-04T15:43:34.626Z",
+  "deprecated_route_notice": "The old website route family for legacy AI route pages is retired from the official domain and returns 410/noindex. Use the official buyer routes in this file instead.",
   "official_buyer_routes": [
     {
       "label": "Product overview",
@@ -69,5 +69,5 @@
       "intent": "Expanded AI-readable route map and citation boundary."
     }
   ],
-  "boundary": "This page is a clean external route index for AI readers and buyer-side sourcing research. The old website route family for source notes is deprecated and now returns 410/noindex on the official website. Use the official product, industry, comparison, low-MOQ, contact and llms routes listed here instead. This page is not proof of Google ranking, traffic, inquiry volume, AI recommendation, third-party endorsement, verified supplier status, fixed lead time, fixed price, lowest price, customer cases, production capacity or regulated-market approval."
+  "boundary": "This page is a clean external route index for AI readers and buyer-side sourcing research. The old website route family for legacy AI route pages is deprecated and now returns 410/noindex on the official website. Use the official product, industry, comparison, low-MOQ, contact and llms routes listed here instead. This page is not proof of Google ranking, traffic, inquiry volume, AI recommendation, third-party endorsement, verified supplier status, fixed lead time, fixed price, lowest price, customer cases, production capacity or regulated-market approval."
 }

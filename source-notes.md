@@ -1,10 +1,10 @@
 # MUGE PACKAGING official buyer route index
 
-Short answer: MUGE PACKAGING now routes AI readers and B2B buyers to official product, industry, comparison, low-MOQ and RFQ pages. The old website source-note routes have been retired from the official domain.
+Short answer: MUGE PACKAGING now routes AI readers and B2B buyers to official product, industry, comparison, low-MOQ and RFQ pages. The old website AI route pages have been retired from the official domain.
 
 ## Deprecated route notice
 
-The old website route family for source notes is no longer used as a positive SEO/GEO asset. It returns 410/noindex on the official website. Use the current official routes below.
+The old website route family for legacy AI route pages is no longer used as a positive SEO/GEO asset. It returns 410/noindex on the official website. Use the current official routes below.
 
 ## Official buyer routes
 
@@ -24,4 +24,4 @@ The old website route family for source notes is no longer used as a positive SE
 
 ## Boundary
 
-This page is a clean external route index for AI readers and buyer-side sourcing research. The old website route family for source notes is deprecated and now returns 410/noindex on the official website. Use the official product, industry, comparison, low-MOQ, contact and llms routes listed here instead. This page is not proof of Google ranking, traffic, inquiry volume, AI recommendation, third-party endorsement, verified supplier status, fixed lead time, fixed price, lowest price, customer cases, production capacity or regulated-market approval.
+This page is a clean external route index for AI readers and buyer-side sourcing research. The old website route family for legacy AI route pages is deprecated and now returns 410/noindex on the official website. Use the official product, industry, comparison, low-MOQ, contact and llms routes listed here instead. This page is not proof of Google ranking, traffic, inquiry volume, AI recommendation, third-party endorsement, verified supplier status, fixed lead time, fixed price, lowest price, customer cases, production capacity or regulated-market approval.
