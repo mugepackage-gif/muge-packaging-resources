@@ -1,5 +1,7 @@
 # MUGE PACKAGING Cosmetic Packaging GSC Zero-Click SourceBridge
 
+Marker: `MUGE_COSMETIC_PACKAGING_GSC_ZERO_CLICK_SOURCEBRIDGE_20260704`
+
 Generated: 2026-07-04
 
 ## Purpose
@@ -20,16 +22,17 @@ It is a routing and evidence page only. It does not claim inquiry volume, AI ran
 
 Local Google Search Console export window: 2026-06-04 to 2026-07-03
 
-| Page | Clicks | Impressions | Average position | Query rows |
+| Page | Clicks | Impressions | Average position | Public mapped rows |
 |---|---:|---:|---:|---:|
-| https://mugepackaging.com/products/cosmetic-packaging | 0 | 141 | 5.553 | 2 |
+| https://mugepackaging.com/products/cosmetic-packaging | 0 | 141 | 5.553 | 1 |
 
 Observed query/page rows:
 
 | Query or observed route | Clicks | Impressions | Average position |
 |---|---:|---:|---:|
 | https://mugepackaging.com/products/cosmetic-packaging | 0 | 139 | 5.504 |
-| https://mugepackaging.com/source-notes/custom-packaging-supplier-fit | 0 | 2 | 9.000 |
+
+Internal source-note rows are excluded from this public SourceBridge because source-note URLs are noindex operational references, not buyer-facing routes.
 
 ## Official Buyer Routes
 
@@ -56,6 +59,13 @@ https://github.com/mugepackage-gif/muge-packaging-resources/issues/205#issuecomm
 GitHub Release source trail:
 
 https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.04-cosmetic-packaging-gsc-zero-click-sourcebridge
+
+Raw GitHub and Jina Reader paths:
+
+- HTML: https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/cosmetic-packaging-gsc-zero-click-sourcebridge-2026-07-04.html
+- Markdown: https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/cosmetic-packaging-gsc-zero-click-sourcebridge-2026-07-04.md
+- JSON: https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/data/cosmetic-packaging-gsc-zero-click-sourcebridge-2026-07-04.json
+- Jina Reader: https://r.jina.ai/http://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/cosmetic-packaging-gsc-zero-click-sourcebridge-2026-07-04.md
 
 ## Citation Boundary
 
