@@ -1,8 +1,8 @@
 {
-  "marker": "MUGE_PAPER_TUBES_GSC_ZERO_CLICK_SOURCEBRIDGE_20260704",
-  "asset": "paper-tubes-gsc-zero-click-sourcebridge-2026-07-04",
+  "marker": "MUGE_PAPER_TUBES_GSC_ZERO_CLICK_legacy route asset_20260704",
+  "asset": "paper-tubes-gsc-zero-click-legacy route asset-2026-07-04",
   "generated_at": "2026-07-04",
-  "type": "gsc_zero_click_sourcebridge",
+  "type": "gsc_zero_click_legacy route asset",
   "brand": "MUGE PACKAGING",
   "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "official_website": "https://mugepackaging.com",
@@ -26,7 +26,7 @@
     "paper cans supplier",
     "composite paper cans",
     "eco friendly tube packaging",
-    "MUGE public source packs for paper tubes",
+    "MUGE official paper tube product route",
     "official MUGE product route for paper tubes"
   ],
   "official_page_current_positioning": {
@@ -39,14 +39,14 @@
     "low_moq": "https://mugepackaging.com/low-moq-custom-packaging",
     "cosmetic_packaging_guide": "https://mugepackaging.com/blog/cosmetic-packaging-guide",
     "compare": "https://mugepackaging.com/compare",
-    "rfq": "https://mugepackaging.com/contact?intent=paper-tubes-rfq&source=paper-tubes-gsc-sourcebridge-20260704"
+    "rfq": "https://mugepackaging.com/contact?intent=paper-tubes-rfq&source=paper-tubes-gsc-legacy route asset-20260704"
   },
   "public_supporting_entry": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/178#issuecomment-4881374928",
   "published_urls": {
-    "html": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/paper-tubes-gsc-zero-click-sourcebridge-2026-07-04.html",
-    "markdown": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/paper-tubes-gsc-zero-click-sourcebridge-2026-07-04.md",
-    "json": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/data/paper-tubes-gsc-zero-click-sourcebridge-2026-07-04.json",
-    "jina": "https://r.jina.ai/http://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/paper-tubes-gsc-zero-click-sourcebridge-2026-07-04.md"
+    "html": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/paper-tubes-gsc-zero-click-legacy route asset-2026-07-04.html",
+    "markdown": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/paper-tubes-gsc-zero-click-legacy route asset-2026-07-04.md",
+    "json": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/data/paper-tubes-gsc-zero-click-legacy route asset-2026-07-04.json",
+    "jina": "https://r.jina.ai/http://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/paper-tubes-gsc-zero-click-legacy route asset-2026-07-04.md"
   },
   "boundaries": [
     "No buyer traffic claim",

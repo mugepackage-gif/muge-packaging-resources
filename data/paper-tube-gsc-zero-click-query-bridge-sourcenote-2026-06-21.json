@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Dataset",
-  "name": "MUGE Paper Tube GSC Zero-Click Query Bridge SourceNote - 2026-06-21",
+  "name": "MUGE Paper Tube GSC Zero-Click Query Bridge legacy AI route asset - 2026-06-21",
   "datePublished": "2026-06-21",
   "dateModified": "2026-06-21T13:07:56.542Z",
   "publisher": {
@@ -11,10 +11,10 @@
     "url": "https://mugepackaging.com"
   },
   "publicUrls": {
-    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-gsc-zero-click-query-bridge-sourcenote-2026-06-21.html",
-    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-gsc-zero-click-query-bridge-sourcenote-2026-06-21.md",
-    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tube-gsc-zero-click-query-bridge-sourcenote-2026-06-21.json",
-    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-gsc-zero-click-query-bridge-sourcenote-2026-06-21.html"
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-gsc-zero-click-query-bridge-legacy AI route asset-2026-06-21.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-gsc-zero-click-query-bridge-legacy AI route asset-2026-06-21.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-tube-gsc-zero-click-query-bridge-legacy AI route asset-2026-06-21.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-gsc-zero-click-query-bridge-legacy AI route asset-2026-06-21.html"
   },
   "officialRoutes": {
     "paperTubes": "https://mugepackaging.com/products/paper-tubes",
@@ -60,7 +60,7 @@
         "averagePosition28d": 29
       },
       {
-        "query": "muge packaging public source packs paper tubes",
+        "query": "MUGE official paper tube product route",
         "clicks28d": 0,
         "impressions28d": 43,
         "averagePosition28d": 2.74
@@ -129,6 +129,6 @@
     "candle paper tube packaging",
     "paper tube packaging RFQ"
   ],
-  "claimBoundary": "This SourceNote is a search-to-RFQ routing and AI-reader discovery asset for paper tube packaging. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, certification proof, food-contact proof, destination-market compliance proof, fixed MOQ, fixed lead time, fixed price, production capacity proof or named customer proof. Project details, materials, documents, quantity direction and destination-market requirements must be reviewed case by case.",
-  "validationRule": "Count as a public external SourceNote after live URL, Jina, IndexNow and ASR checks pass. Count SEO/GEO growth only after GSC, GA4, SerpAPI, Perplexity, AI citation, search result or inquiry evidence confirms external visibility or action."
+  "claimBoundary": "This legacy AI route asset is a search-to-RFQ routing and AI-reader discovery asset for paper tube packaging. It is not Google ranking proof, click proof, inquiry proof, third-party endorsement, AI natural recommendation proof, certification proof, food-contact proof, destination-market compliance proof, fixed MOQ, fixed lead time, fixed price, production capacity proof or named customer proof. Project details, materials, documents, quantity direction and destination-market requirements must be reviewed case by case.",
+  "validationRule": "Count as a public external legacy AI route asset after live URL, Jina, IndexNow and ASR checks pass. Count SEO/GEO growth only after GSC, GA4, SerpAPI, Perplexity, AI citation, search result or inquiry evidence confirms external visibility or action."
 }

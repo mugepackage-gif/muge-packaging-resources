@@ -1,19 +1,49 @@
 User-agent: *
-Allow: /
+Allow: /ai-citation-index.html
+Allow: /ai-citation-index.md
+Allow: /data/ai-citation-index.json
+Allow: /official-buyer-route-index.html
+Allow: /official-buyer-route-index.md
+Allow: /data/official-buyer-route-index.json
+Disallow: /*sourcenote*
+Disallow: /*source-note*
+Disallow: /*sourcebridge*
+Disallow: /*source-bridge*
+Disallow: /*sourcepack*
+Disallow: /*source-pack*
+Disallow: /*rentry*
+Disallow: /*telegra*
+Disallow: /source-notes*
+Disallow: /data/*sourcenote*
+Disallow: /data/*sourcebridge*
+Disallow: /data/*sourcepack*
 
 User-agent: GPTBot
-Allow: /
+Allow: /ai-citation-index.html
+Allow: /official-buyer-route-index.html
+Disallow: /*sourcenote*
+Disallow: /*sourcebridge*
+Disallow: /*sourcepack*
 
 User-agent: OAI-SearchBot
-Allow: /
-
-User-agent: ChatGPT-User
-Allow: /
+Allow: /ai-citation-index.html
+Allow: /official-buyer-route-index.html
+Disallow: /*sourcenote*
+Disallow: /*sourcebridge*
+Disallow: /*sourcepack*
 
 User-agent: ClaudeBot
-Allow: /
+Allow: /ai-citation-index.html
+Allow: /official-buyer-route-index.html
+Disallow: /*sourcenote*
+Disallow: /*sourcebridge*
+Disallow: /*sourcepack*
 
 User-agent: PerplexityBot
-Allow: /
+Allow: /ai-citation-index.html
+Allow: /official-buyer-route-index.html
+Disallow: /*sourcenote*
+Disallow: /*sourcebridge*
+Disallow: /*sourcepack*
 
 Sitemap: https://mugepackage-gif.github.io/muge-packaging-resources/sitemap.xml
