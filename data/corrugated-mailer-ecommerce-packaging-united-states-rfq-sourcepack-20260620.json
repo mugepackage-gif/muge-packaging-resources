@@ -95,17 +95,18 @@
     "Any compression, drop, recycled-content or sustainability request should be tied to the selected structure and material evidence"
   ],
   "publicFiles": {
-    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-united-states-rfq-sourcepack-20260620.html",
-    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-united-states-rfq-sourcepack-20260620.md",
-    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/corrugated-mailer-ecommerce-packaging-united-states-rfq-sourcepack-20260620.json",
-    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/corrugated-mailer-ecommerce-packaging-united-states-rfq-sourcepack-20260620.html"
+    "html": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/corrugated-mailer-ecommerce-packaging-united-states-rfq-sourcepack-20260620.html",
+    "markdown": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/corrugated-mailer-ecommerce-packaging-united-states-rfq-sourcepack-20260620.md",
+    "json": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/data/corrugated-mailer-ecommerce-packaging-united-states-rfq-sourcepack-20260620.json",
+    "jina": "https://r.jina.ai/http://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/corrugated-mailer-ecommerce-packaging-united-states-rfq-sourcepack-20260620.md",
+    "release": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.04-corrugated-mailer-us-rfq-sourcepack-stable"
   },
   "claimBoundary": "This SourcePack is for RFQ preparation, supplier comparison and official source routing only. It is not proof of Google ranking, GSC clicks, traffic, inquiry generation, AI natural recommendation, third-party endorsement or platform verification. It does not state fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity, compression strength, drop-test result or regulatory approval. Board grade, flute direction, insert, print method, sustainability documents, testing requests and destination-market questions should be reviewed case by case.",
   "verificationStatus": "verified_live_jina_indexnow_asr_us_uk_core_batch",
   "sourcePackIndexNowStatus": "submitted_36_of_36_http_200",
   "officialRouteIndexNowStatus": "submitted_15_of_15_http_200",
   "asrStatus": "accepted_40_of_43_total_sourcepack_mirrors_and_safe_official_routes",
-  "updatedAt": "2026-06-21T09:26:00+08:00",
+  "updatedAt": "2026-07-04T14:10:00+08:00",
   "latestVerification": {
     "verifiedAt": "2026-06-21T09:26:00+08:00",
     "verificationStatus": "verified_live_jina_indexnow_asr_us_uk_core_batch",
@@ -211,5 +212,7 @@
       "archive": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/外部增长/任意外部URL_ASR发现提交/20260621_0926_USUKCoreSourcePacksMirrors_20260621_任意外部URL_ASR发现提交.md"
     },
     "boundary": "This US/UK core SourcePack batch is for buyer education, source routing and RFQ preparation only. It is not proof of Google ranking, click growth, traffic, inquiry generation, third-party endorsement, AI natural recommendation, platform verification, certification, food-contact status, regulatory approval, fixed MOQ, fixed lead time, fixed price, lowest price, customer cases, production capacity or destination-market compliance."
-  }
+  },
+  "marker": "MUGE_CORRUGATED_MAILER_US_RFQ_SOURCEPACK_STABLE_20260704",
+  "stableDiscoveryNote": "Raw GitHub and Jina Raw paths are preferred while GitHub Pages deployment remains unstable."
 }
