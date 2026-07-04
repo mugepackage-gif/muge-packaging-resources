@@ -79,6 +79,7 @@
       "markdownUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-cans-supplier-gsc-zero-click-sourcecard-2026-07-03.md",
       "jsonUrl": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-cans-supplier-gsc-zero-click-sourcecard-2026-07-03.json",
       "jinaUrl": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-cans-supplier-gsc-zero-click-sourcecard-2026-07-03.html",
+      "githubReleaseUrl": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.03-paper-cans-gsc-zero-click-source-card",
       "officialRoutes": [
         {
           "name": "Paper tube product route",
@@ -106,8 +107,27 @@
           "paper tubes packaging"
         ]
       },
+      "latestGscVerification": {
+        "recordedAtCst": "2026-07-04 12:05",
+        "window": "2026-06-04 to 2026-07-03",
+        "summary": "The paper tubes and paper packaging product pages still show impressions with zero clicks, confirming a CTR and route-discovery gap.",
+        "pages": [
+          {
+            "page": "https://mugepackaging.com/products/paper-tubes",
+            "clicks": 0,
+            "impressions": 400,
+            "averagePosition": 11.6
+          },
+          {
+            "page": "https://mugepackaging.com/products/paper-packaging",
+            "clicks": 0,
+            "impressions": 414,
+            "averagePosition": 7.2
+          }
+        ]
+      },
       "boundary": "Public buyer-route reference only. Not proof of Google ranking stability, organic traffic, AI recommendation, external endorsement, inquiry generation, fixed pricing, fixed lead time, named customer cases, food-contact approval, aroma-barrier performance or unverified certification/compliance coverage.",
-      "dateModified": "2026-07-03"
+      "dateModified": "2026-07-04"
     },
     {
       "type": "contact_ads_intent_route_sourcecard",

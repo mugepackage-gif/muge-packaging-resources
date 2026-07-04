@@ -22,6 +22,17 @@ MUGE's Google Search Console core money-page review on 2026-07-03 showed impress
 | paper cans packaging supplier | 2026-06-03 to 2026-07-02 | https://mugepackaging.com/products/paper-tubes |
 | paper tubes packaging | 2026-06-03 to 2026-07-02 | https://mugepackaging.com/products/paper-tubes |
 
+## Latest GSC verification
+
+The follow-up GSC core money-page review on 2026-07-04 covered 2026-06-04 to 2026-07-03. It showed that the paper tubes product page had 400 impressions and 0 clicks, while the paper packaging product page had 414 impressions and 0 clicks. This confirms that the route still needs clearer buyer-facing discovery and comparison support, not more automated blog volume.
+
+Key zero-click signals from the same review:
+
+| Page | Impressions | Clicks | Average position | Notes |
+|---|---:|---:|---:|---|
+| https://mugepackaging.com/products/paper-tubes | 400 | 0 | 11.6 | Contains paper cans, paper cans supplier and paper tubes packaging query signals. |
+| https://mugepackaging.com/products/paper-packaging | 414 | 0 | 7.2 | Contains paper packaging, printed paper boxes and related route queries. |
+
 ## Buyer route map
 
 | Buyer need | Official MUGE URL | Use this page when |
@@ -48,4 +59,4 @@ This source card is a public buyer-route reference only. It is not proof of Goog
 - HTML source card: https://mugepackage-gif.github.io/muge-packaging-resources/paper-cans-supplier-gsc-zero-click-sourcecard-2026-07-03.html
 - JSON source card: https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-cans-supplier-gsc-zero-click-sourcecard-2026-07-03.json
 - Jina Reader source card: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-cans-supplier-gsc-zero-click-sourcecard-2026-07-03.html
-
+- GitHub Release: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.03-paper-cans-gsc-zero-click-source-card

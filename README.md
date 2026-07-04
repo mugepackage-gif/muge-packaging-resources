@@ -48,6 +48,7 @@
 - Markdown Source Card: https://mugepackage-gif.github.io/muge-packaging-resources/paper-cans-supplier-gsc-zero-click-sourcecard-2026-07-03.md
 - JSON Source Card: https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-cans-supplier-gsc-zero-click-sourcecard-2026-07-03.json
 - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-cans-supplier-gsc-zero-click-sourcecard-2026-07-03.html
+- GitHub Release: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.03-paper-cans-gsc-zero-click-source-card
 - Official paper tube route: https://mugepackaging.com/products/paper-tubes
 - Official paper packaging route: https://mugepackaging.com/products/paper-packaging
 - Boundary: GSC zero-click buyer-route reference only; not ranking stability, traffic, inquiry, AI recommendation, endorsement, certification, fixed pricing, fixed lead-time, aroma-barrier, food-contact or compliance proof.

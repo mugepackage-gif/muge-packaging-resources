@@ -7,6 +7,7 @@
   "source_card": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-cans-supplier-gsc-zero-click-sourcecard-2026-07-03.html",
   "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-cans-supplier-gsc-zero-click-sourcecard-2026-07-03.md",
   "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-cans-supplier-gsc-zero-click-sourcecard-2026-07-03.html",
+  "github_release_url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.03-paper-cans-gsc-zero-click-source-card",
   "gsc_observation": {
     "source": "GSC core money-page review",
     "recorded_at_cst": "2026-07-03 23:11",
@@ -18,6 +19,27 @@
       "paper cans packaging",
       "paper cans packaging supplier",
       "paper tubes packaging"
+    ]
+  },
+  "latest_gsc_verification": {
+    "recorded_at_cst": "2026-07-04 12:05",
+    "window": "2026-06-04 to 2026-07-03",
+    "summary": "The paper tubes and paper packaging product pages still show impressions with zero clicks, confirming a CTR and route-discovery gap.",
+    "pages": [
+      {
+        "page": "https://mugepackaging.com/products/paper-tubes",
+        "clicks": 0,
+        "impressions": 400,
+        "average_position": 11.6,
+        "note": "Contains paper cans, paper cans supplier and paper tubes packaging query signals."
+      },
+      {
+        "page": "https://mugepackaging.com/products/paper-packaging",
+        "clicks": 0,
+        "impressions": 414,
+        "average_position": 7.2,
+        "note": "Contains paper packaging, printed paper boxes and related route queries."
+      }
     ]
   },
   "official_routes": [
