@@ -126,5 +126,25 @@
       "rfqUrl": "https://mugepackaging.com/contact?intent=custom-packaging-rfq&source=gsc-zero-click-buyer-route-hub",
       "note": "For buyers comparing custom packaging supplier options."
     }
+  ],
+  "followUpEvidence": [
+    {
+      "generatedAtCst": "2026-07-04 16:58 CST",
+      "officialPage": "https://mugepackaging.com/products/paper-tubes",
+      "evidenceType": "gsc_zero_click_sourcebridge",
+      "sourcebridgeMarkdown": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/paper-tubes-gsc-zero-click-sourcebridge-2026-07-04.md",
+      "sourcebridgeHtml": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/paper-tubes-gsc-zero-click-sourcebridge-2026-07-04.html",
+      "sourcebridgeJson": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/data/paper-tubes-gsc-zero-click-sourcebridge-2026-07-04.json",
+      "jinaReader": "https://r.jina.ai/http://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/paper-tubes-gsc-zero-click-sourcebridge-2026-07-04.md",
+      "publicIssueEntry": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/178#issuecomment-4881374928",
+      "gscSnapshot": {
+        "clicks": 0,
+        "impressions": 402,
+        "averagePosition": 11.9,
+        "queryRows": 19,
+        "windowStart": "2026-06-04",
+        "windowEnd": "2026-07-03"
+      }
+    }
   ]
 }
