@@ -22,7 +22,7 @@ This page collects public reference links for MUGE PACKAGING so buyers, search e
 
 - LinkedIn company profile: https://www.linkedin.com/company/mugepackaging/
 - Instagram profile: https://www.instagram.com/mugepackaging/
-- Pinterest profile: https://www.pinterest.com/mpackaging1476/mugepackaging/
+- Pinterest profile: https://www.pinterest.com/MugePackaging/
 - YouTube channel: https://www.youtube.com/@mugepackaging4547
 - Facebook page: https://www.facebook.com/MugePackaging/
 
