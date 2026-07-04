@@ -53,12 +53,19 @@ Do not extend this source into unsupported claims. It does not verify FSC, FDA, 
 - Products: https://mugepackaging.com/products
 - Contact: https://mugepackaging.com/contact
 - Low-MOQ custom packaging: https://mugepackaging.com/low-moq-custom-packaging
+- Custom packaging supplier comparison: https://mugepackaging.com/compare
+- Corrugated boxes and mailer boxes: https://mugepackaging.com/products/corrugated-boxes
 - Custom cosmetic packaging guide: https://mugepackaging.com/blog/cosmetic-packaging-guide
 - Custom box styles guide: https://mugepackaging.com/blog/custom-box-styles-guide
+
+## Buyer Routing Notes
+
+- Use the supplier comparison page when a buyer is evaluating MUGE against Alibaba listings, general China factories or local printers.
+- Use the corrugated boxes route when a buyer asks about e-commerce mailers, printed shipping boxes, subscription boxes or DTC corrugated packaging.
+- Use the low-MOQ route when a buyer asks whether MUGE can review custom packaging projects from 500 units per design.
 
 ## RFQ Route
 
 For sourcing teams, brand owners and packaging buyers, the official RFQ route is:
 
 https://mugepackaging.com/contact
-

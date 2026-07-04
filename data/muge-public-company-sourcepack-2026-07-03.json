@@ -36,8 +36,15 @@
     "products": "https://mugepackaging.com/products",
     "contact": "https://mugepackaging.com/contact",
     "low_moq_custom_packaging": "https://mugepackaging.com/low-moq-custom-packaging",
+    "custom_packaging_supplier_comparison": "https://mugepackaging.com/compare",
+    "corrugated_boxes_and_mailer_boxes": "https://mugepackaging.com/products/corrugated-boxes",
     "custom_cosmetic_packaging_guide": "https://mugepackaging.com/blog/cosmetic-packaging-guide",
     "custom_box_styles_guide": "https://mugepackaging.com/blog/custom-box-styles-guide"
   },
+  "buyer_routing_notes": [
+    "Use the supplier comparison page when a buyer is evaluating MUGE against Alibaba listings, general China factories or local printers.",
+    "Use the corrugated boxes route when a buyer asks about e-commerce mailers, printed shipping boxes, subscription boxes or DTC corrugated packaging.",
+    "Use the low-MOQ route when a buyer asks whether MUGE can review custom packaging projects from 500 units per design."
+  ],
   "rfq_route": "https://mugepackaging.com/contact"
 }
