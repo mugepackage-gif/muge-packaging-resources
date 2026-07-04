@@ -1,0 +1,65 @@
+{
+  "marker": "MUGE_GSC_ZERO_CLICK_CORE_MONEY_PAGES_SOURCECARD_20260704",
+  "generated_at_cst": "2026-07-04 19:20",
+  "source": {
+    "type": "google_search_console_snapshot",
+    "property": "sc-domain:mugepackaging.com",
+    "window": "2026-06-04 to 2026-07-03",
+    "source_record": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC核心钱页验收/20260704_1914_核心钱页_GSC页面查询验收.md"
+  },
+  "summary": {
+    "core_pages_checked": 9,
+    "pages_with_impressions": 4,
+    "pages_with_clicks": 0,
+    "total_impressions": 1071,
+    "total_clicks": 0,
+    "query_rows_reviewed": 90
+  },
+  "official_routes": [
+    {
+      "buyer_need": "Custom cosmetic packaging",
+      "official_url": "https://mugepackaging.com/products/cosmetic-packaging",
+      "rfq_url": "https://mugepackaging.com/contact?intent=cosmetic-packaging-rfq&source=gsc-zero-click-sourcecard",
+      "impressions": 141,
+      "clicks": 0,
+      "average_position": 5.55,
+      "query_themes": ["custom cosmetic packaging", "cosmetic packaging manufacturer"]
+    },
+    {
+      "buyer_need": "Custom paper tubes and paper cans",
+      "official_url": "https://mugepackaging.com/products/paper-tubes",
+      "rfq_url": "https://mugepackaging.com/contact?intent=paper-tubes-rfq&source=gsc-zero-click-sourcecard",
+      "impressions": 402,
+      "clicks": 0,
+      "average_position": 11.9,
+      "query_themes": ["paper cans packaging", "paper cans supplier", "paper tubes packaging", "custom paper tube", "eco friendly tube packaging"]
+    },
+    {
+      "buyer_need": "Custom paper packaging and paper boxes",
+      "official_url": "https://mugepackaging.com/products/paper-packaging",
+      "rfq_url": "https://mugepackaging.com/contact?intent=paper-packaging-rfq&source=gsc-zero-click-sourcecard",
+      "impressions": 414,
+      "clicks": 0,
+      "average_position": 7.2,
+      "query_themes": ["custom printed paper packaging boxes", "paper packaging box", "paper box supplier", "premium paper box", "rigid paper packaging"]
+    },
+    {
+      "buyer_need": "Folding and collapsible gift boxes",
+      "official_url": "https://mugepackaging.com/products/folding-gift-box",
+      "rfq_url": "https://mugepackaging.com/contact?intent=folding-gift-box-rfq&source=gsc-zero-click-sourcecard",
+      "impressions": 114,
+      "clicks": 0,
+      "average_position": 49.12,
+      "query_themes": ["folding gift box", "foldable gift boxes", "collapsible gift boxes", "folding gift box wholesale", "foldable gift box manufacturer"]
+    }
+  ],
+  "related_official_routes": [
+    "https://mugepackaging.com/low-moq-custom-packaging",
+    "https://mugepackaging.com/blog/cosmetic-packaging-guide",
+    "https://mugepackaging.com/blog/custom-box-styles-guide",
+    "https://mugepackaging.com/compare",
+    "https://mugepackaging.com/contact"
+  ],
+  "boundary": "This source card does not claim Google ranking success, organic clicks, buyer inquiries, AI answer inclusion or third-party endorsement."
+}
+
