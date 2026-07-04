@@ -4,10 +4,10 @@
   "brand": "MUGE PACKAGING",
   "legal_name_en": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "official_website": "https://mugepackaging.com",
-  "source_card": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-cans-supplier-gsc-zero-click-sourcecard-2026-07-03.html",
-  "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-cans-supplier-gsc-zero-click-sourcecard-2026-07-03.md",
-  "jina_url": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-cans-supplier-gsc-zero-click-sourcecard-2026-07-03.html",
-  "github_release_url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.03-paper-cans-gsc-zero-click-source-card",
+  "source_card": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/paper-cans-supplier-gsc-zero-click-sourcecard-2026-07-03.html",
+  "markdown_url": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/paper-cans-supplier-gsc-zero-click-sourcecard-2026-07-03.md",
+  "jina_url": "https://r.jina.ai/http://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/paper-cans-supplier-gsc-zero-click-sourcecard-2026-07-03.md",
+  "github_release_url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.04-paper-cans-gsc-zero-click-sourcecard-stable",
   "gsc_observation": {
     "source": "GSC core money-page review",
     "recorded_at_cst": "2026-07-03 23:11",
@@ -67,5 +67,9 @@
     "Quantity range, artwork status, target market and sample review goal",
     "Project-specific documentation questions"
   ],
-  "claim_boundary": "Public buyer-route reference only. Not proof of Google ranking stability, organic traffic, AI recommendation, external endorsement, inquiry generation, fixed pricing, fixed lead time, named customer cases, food-contact approval, aroma-barrier performance or unverified certification/compliance coverage."
+  "claim_boundary": "Public buyer-route reference only. Not proof of Google ranking stability, organic traffic, AI recommendation, external endorsement, inquiry generation, fixed pricing, fixed lead time, named customer cases, food-contact approval, aroma-barrier performance or unverified certification/compliance coverage.",
+  "marker": "MUGE_PAPER_CANS_GSC_ZERO_CLICK_SOURCECARD_STABLE_20260704",
+  "json_url": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/data/paper-cans-supplier-gsc-zero-click-sourcecard-2026-07-03.json",
+  "stableDiscoveryNote": "Raw GitHub and Jina Raw paths are preferred while GitHub Pages deployment remains unstable.",
+  "updated_at_cst": "2026-07-04 14:18"
 }
