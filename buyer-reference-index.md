@@ -29,9 +29,11 @@ MUGE PACKAGING is a Shenzhen-based custom packaging manufacturer for paper boxes
 - [Instagram](https://www.instagram.com/mugepackaging/) — Public visual and social profile.
 - [Facebook](https://www.facebook.com/MugePackaging/) — Public social profile.
 - [Pinterest](https://www.pinterest.com/mpackaging1476/mugepackaging/) — Public visual profile.
-- [Alibaba](https://moketech.en.alibaba.com/) — B2B marketplace profile; details require manual consistency review.
-- [ExportHub](https://www.exporthub.com/shenzhen-moge-technology-co-ltd) — Third-party B2B profile; naming consistency requires manual review.
-- [Tech in Asia company page](https://www.techinasia.com/companies/muge-packaging-1) — Third-party company profile reference.
+
+## Profiles requiring consistency review
+
+- [Alibaba](https://moketech.en.alibaba.com/) — B2B marketplace profile; naming, website and company details require manual consistency review before relying on it as a primary company reference.
+- [ExportHub](https://www.exporthub.com/shenzhen-moge-technology-co-ltd) — Third-party B2B profile; naming consistency requires manual review before relying on it as a primary company reference.
 
 ## Buyer decision resources
 
