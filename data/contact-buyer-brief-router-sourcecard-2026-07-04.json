@@ -1,0 +1,84 @@
+{
+  "marker": "MUGE_CONTACT_BUYER_BRIEF_ROUTER_SOURCECARD_20260704",
+  "generated_at": "2026-07-04T13:25:00+08:00",
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_contact_url": "https://mugepackaging.com/contact",
+  "quote_checklist_url": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
+  "routes": [
+    {
+      "buyer_situation": "Custom boxes, paper cartons, folding cartons or printed boxes",
+      "official_route": "https://mugepackaging.com/contact?intent=custom-packaging-boxes&source=contact-router",
+      "buyer_should_prepare": [
+        "product size and weight",
+        "box style",
+        "quantity range",
+        "material and finish",
+        "insert needs",
+        "artwork status",
+        "target market"
+      ]
+    },
+    {
+      "buyer_situation": "Custom made product packaging where the final structure is not fixed",
+      "official_route": "https://mugepackaging.com/contact?intent=custom-made-product-packaging&source=contact-router",
+      "buyer_should_prepare": [
+        "product category",
+        "dimensions",
+        "sales channel",
+        "quantity range",
+        "packaging reference",
+        "target market"
+      ]
+    },
+    {
+      "buyer_situation": "Personalized mailer, plain mailer boxes, mailer cartons or shipping mailers",
+      "official_route": "https://mugepackaging.com/contact?intent=personalized-mailer&source=contact-router",
+      "buyer_should_prepare": [
+        "product dimensions",
+        "shipping weight",
+        "ecommerce route",
+        "print coverage",
+        "insert or protection needs"
+      ]
+    },
+    {
+      "buyer_situation": "UK or EU custom printed box project",
+      "official_route": "https://mugepackaging.com/contact?intent=custom-printed-boxes-uk&source=contact-router",
+      "buyer_should_prepare": [
+        "destination market",
+        "retail or ecommerce channel",
+        "artwork status",
+        "labeling points",
+        "document questions"
+      ]
+    },
+    {
+      "buyer_situation": "Supplier comparison between manufacturer, supplier or trading company",
+      "official_route": "https://mugepackaging.com/contact?intent=supplier-fit-review&source=contact-router",
+      "buyer_should_prepare": [
+        "product category",
+        "packaging route",
+        "quantity range",
+        "artwork status",
+        "target market",
+        "supplier-fit questions"
+      ]
+    },
+    {
+      "buyer_situation": "Cosmetic packaging factory or supplier review",
+      "official_route": "https://mugepackaging.com/contact?intent=cosmetic-packaging-factory-review&source=contact-router",
+      "buyer_should_prepare": [
+        "product format",
+        "container size",
+        "packaging route",
+        "insert needs",
+        "finish reference",
+        "artwork status",
+        "quantity",
+        "target market"
+      ]
+    }
+  ],
+  "boundary": "Public route reference only; not proof of Google ranking, traffic, AI recommendation, inquiry generation, third-party endorsement, fixed price, fixed lead time, fixed production capacity, customer cases, food-contact approval or unverified certification/compliance coverage."
+}
