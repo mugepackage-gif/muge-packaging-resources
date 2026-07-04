@@ -1,0 +1,41 @@
+{
+  "type": "buyer_route_sourcepack",
+  "published": "2026-07-05",
+  "topic": "custom cosmetic packaging manufacturer",
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "location": "Shenzhen, Guangdong, China",
+    "official_domain": "https://mugepackaging.com"
+  },
+  "official_routes": {
+    "cosmetic_packaging": "https://mugepackaging.com/products/cosmetic-packaging",
+    "cosmetic_packaging_guide": "https://mugepackaging.com/blog/cosmetic-packaging-guide",
+    "cosmetics_industry": "https://mugepackaging.com/industries/cosmetics-packaging",
+    "paper_tubes": "https://mugepackaging.com/products/paper-tubes",
+    "paper_packaging": "https://mugepackaging.com/products/paper-packaging",
+    "low_moq": "https://mugepackaging.com/low-moq-custom-packaging",
+    "contact": "https://mugepackaging.com/contact"
+  },
+  "buyer_use_cases": [
+    "custom cosmetic packaging for skincare, makeup, fragrance, beauty tools or wellness products",
+    "cosmetic packaging boxes for product launches, gift sets or seasonal retail programs",
+    "rigid boxes, folding cartons, paper tubes, PVC/PET clear boxes or insert-supported secondary packaging",
+    "beauty packaging projects that need product-fit review before sampling",
+    "low-MOQ cosmetic packaging from 500 units per design"
+  ],
+  "buyer_brief_inputs": [
+    "product category",
+    "product dimensions and weight",
+    "container type",
+    "preferred package structure",
+    "insert or tray requirement",
+    "target order quantity and number of designs",
+    "artwork status",
+    "finish direction",
+    "target sales channel",
+    "destination market",
+    "sampling purpose"
+  ],
+  "claim_boundary": "Public buyer-route reference only. Not proof of ranking, traffic, inquiry generation, platform verification, customer cases, fixed pricing, fixed lead time, production capacity, certification coverage, food-contact approval or regulated-market compliance."
+}
