@@ -26,7 +26,7 @@
     },
     {
       "label": "Beauty brand packaging route",
-      "officialUrl": "https://mugepackaging.com/packaging-for/beauty-brands",
+      "officialUrl": "https://mugepackaging.com/industries/cosmetics-packaging",
       "rfqUrl": "https://mugepackaging.com/contact?intent=beauty-brands-packaging&source=github-sourcebridge-buyer-decision-routes-20260702",
       "useFor": "Beauty, skincare, fragrance and cosmetic gift-set buyers comparing rigid boxes, paper tubes, cosmetic cartons and inserts.",
       "buyerQuestions": [
@@ -48,7 +48,7 @@
     },
     {
       "label": "Food and beverage packaging route",
-      "officialUrl": "https://mugepackaging.com/packaging-for/food-beverage",
+      "officialUrl": "https://mugepackaging.com/industries/food-packaging",
       "rfqUrl": "https://mugepackaging.com/contact?intent=food-beverage-packaging&source=github-sourcebridge-buyer-decision-routes-20260702",
       "useFor": "Tea, snacks, confectionery, gift food and specialty beverage buyers comparing paper tubes, cartons and retail paper boxes.",
       "buyerQuestions": [
@@ -59,7 +59,7 @@
     },
     {
       "label": "Jewelry and accessories packaging route",
-      "officialUrl": "https://mugepackaging.com/packaging-for/jewelry-brands",
+      "officialUrl": "https://mugepackaging.com/industries/jewelry",
       "rfqUrl": "https://mugepackaging.com/contact?intent=jewelry-brands-packaging&source=github-sourcebridge-buyer-decision-routes-20260702",
       "useFor": "Jewelry, accessories and premium small-goods buyers comparing rigid boxes, drawer boxes, inserts and retail presentation.",
       "buyerQuestions": [
@@ -70,7 +70,7 @@
     },
     {
       "label": "Wellness and supplement packaging route",
-      "officialUrl": "https://mugepackaging.com/packaging-for/wellness-supplements",
+      "officialUrl": "https://mugepackaging.com/industries/wellness",
       "rfqUrl": "https://mugepackaging.com/contact?intent=wellness-supplements-packaging&source=github-sourcebridge-buyer-decision-routes-20260702",
       "useFor": "Supplement, wellness and lifestyle product buyers comparing paper tubes, folding cartons and secondary packaging before RFQ.",
       "buyerQuestions": [
@@ -82,7 +82,7 @@
   ],
   "sourceContext": {
     "officialHome": "https://mugepackaging.com/",
-    "deploymentNote": "Homepage, products and blog navigation now expose compare and packaging-for buyer decision routes as visible links.",
+    "deploymentNote": "Homepage, products and blog navigation now expose compare and canonical industry buyer decision routes as visible links.",
     "deploymentVersion": "4c384df9-f4d4-468d-bdc1-aa2816d1112e",
     "gscDiscoveryStatus": {
       "reviewedAt": "2026-07-04 07:24 CST",
@@ -99,11 +99,11 @@
       "https://mugepackaging.com/products",
       "https://mugepackaging.com/blog",
       "https://mugepackaging.com/compare",
-      "https://mugepackaging.com/packaging-for/beauty-brands",
+      "https://mugepackaging.com/industries/cosmetics-packaging",
       "https://mugepackaging.com/packaging-for/ecommerce-sellers",
-      "https://mugepackaging.com/packaging-for/food-beverage",
-      "https://mugepackaging.com/packaging-for/jewelry-brands",
-      "https://mugepackaging.com/packaging-for/wellness-supplements"
+      "https://mugepackaging.com/industries/food-packaging",
+      "https://mugepackaging.com/industries/jewelry",
+      "https://mugepackaging.com/industries/wellness"
     ]
   },
   "boundary": "This SourceBridge is for public source routing, buyer question answering and RFQ preparation only. It is not proof of Google ranking, organic traffic growth, AI Top10 visibility, natural AI recommendation, third-party endorsement, inquiry generation, certification coverage, fixed lead time, fixed price, lowest price, production capacity, food-contact approval or destination-market compliance. Public website descriptions may mention MOQ from 500 units, but final scope must be reviewed by project."
