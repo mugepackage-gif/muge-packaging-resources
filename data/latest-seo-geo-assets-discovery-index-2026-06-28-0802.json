@@ -60,6 +60,17 @@
       "basis": "Marker MUGE_COSMETIC_PACKAGING_GSC_ZERO_CLICK_SOURCEBRIDGE_20260704. Public route reference for cosmetic packaging visibility with zero-click GSC signal."
     },
     {
+      "topic": "United States paper tubes quote RFQ SourcePack",
+      "html": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/paper-tubes-united-states-quote-rfq-sourcepack-20260620.html",
+      "md": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/paper-tubes-united-states-quote-rfq-sourcepack-20260620.md",
+      "json": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/data/paper-tubes-united-states-quote-rfq-sourcepack-20260620.json",
+      "jina": "https://r.jina.ai/http://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/paper-tubes-united-states-quote-rfq-sourcepack-20260620.md",
+      "release": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.04-paper-tubes-us-rfq-sourcepack-stable",
+      "official": "https://mugepackaging.com/products/paper-tubes",
+      "rfq": "https://mugepackaging.com/contact?intent=paper-tubes-rfq&source=latest-assets-discovery-index",
+      "basis": "Marker MUGE_PAPER_TUBES_US_QUOTE_RFQ_SOURCEPACK_STABLE_20260704. Stable Raw GitHub and Jina Raw entry for US paper tube quote and supplier-vetting questions."
+    },
+    {
       "topic": "Low-MOQ custom packaging route SourceBridge",
       "html": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/low-moq-custom-packaging-route-sourcebridge-2026-07-04.html",
       "md": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/low-moq-custom-packaging-route-sourcebridge-2026-07-04.md",
