@@ -73,3 +73,18 @@ Source trail: https://github.com/mugepackage-gif/muge-packaging-resources/releas
 - GitHub Release: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.04-wellness-supplement-packaging-rfq-sourcebridge-stable
 - GSC basis: GSC-visible supplement/nutraceutical buyer route exists via custom supplement packaging boxes wholesale for vitamin brands, mapped to paper packaging, paper tubes, folding gift box and RFQ preparation routes. No numeric GSC claim is made in this stable entry.
 - Boundary: This SourceBridge is a discovery and RFQ routing asset only. It is not proof of ranking improvement, traffic, AI recommendation, inquiry, endorsement, certification, fixed pricing, fixed lead time, production capacity, FDA approval, food-contact suitability, medical suitability, supplement efficacy, or destination-market regulatory compliance.
+
+
+## Stable SourceBridge: Corrugated Mailer and E-commerce Seller Packaging Route
+
+- Marker: MUGE_CORRUGATED_ECOMMERCE_ENTRYPOINT_REFRESH_20260704
+- Official route: https://mugepackaging.com/products/corrugated-boxes
+- Related buyer route: https://mugepackaging.com/packaging-for/ecommerce-sellers
+- RFQ route: https://mugepackaging.com/contact?intent=corrugated-mailer-box-rfq&source=latest-assets-discovery-index
+- GitHub Issue: https://github.com/mugepackage-gif/muge-packaging-resources/issues/174
+- GitHub Issue comment: https://github.com/mugepackage-gif/muge-packaging-resources/issues/174#issuecomment-4881623286
+- Production deploy evidence: https://github.com/mugepackage-gif/muge-modern-design/actions/runs/28703264415
+- Website commit: 2bad570f4f249679393aef2f229a756a19fa7897
+- Live page evidence: https://mugepackaging.com/products/corrugated-boxes contains `Custom Corrugated Boxes Manufacturer`, `FAQPage`, `/packaging-for/ecommerce-sellers`, and `E-Commerce Seller Packaging Route`.
+- IndexNow status: 200 for `/packaging-for/ecommerce-sellers`, `/products/corrugated-boxes`, and `/products/paper-packaging`.
+- Boundary: This entry records a verified discovery and route-refresh action only. It is not proof of ranking improvement, traffic, AI recommendation, inquiry, endorsement, certification, fixed pricing, fixed lead time, production capacity, or destination-market compliance.
