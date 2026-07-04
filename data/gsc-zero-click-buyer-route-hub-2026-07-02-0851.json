@@ -145,6 +145,42 @@
         "windowStart": "2026-06-04",
         "windowEnd": "2026-07-03"
       }
+    },
+    {
+      "generatedAtCst": "2026-07-04 16:54 CST",
+      "officialPage": "https://mugepackaging.com/products/paper-packaging",
+      "evidenceType": "buyer_route_sourcebridge",
+      "sourcebridgeMarkdown": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/paper-packaging-buyer-route-sourcebridge-2026-07-04.md",
+      "sourcebridgeHtml": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/paper-packaging-buyer-route-sourcebridge-2026-07-04.html",
+      "sourcebridgeJson": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/data/paper-packaging-buyer-route-sourcebridge-2026-07-04.json",
+      "jinaReader": "https://r.jina.ai/http://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/paper-packaging-buyer-route-sourcebridge-2026-07-04.md",
+      "publicIssueEntry": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/139#issuecomment-4881350792",
+      "gscSnapshot": {
+        "clicks": 0,
+        "impressions": 414,
+        "averagePosition": 7.196,
+        "queryRows": 31,
+        "windowStart": "2026-06-04",
+        "windowEnd": "2026-07-03"
+      }
+    },
+    {
+      "generatedAtCst": "2026-07-04 16:36 CST",
+      "officialPage": "https://mugepackaging.com/products/folding-gift-box",
+      "evidenceType": "gsc_zero_click_sourcebridge",
+      "sourcebridgeMarkdown": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/folding-gift-box-gsc-zero-click-sourcebridge-2026-07-04.md",
+      "sourcebridgeHtml": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/folding-gift-box-gsc-zero-click-sourcebridge-2026-07-04.html",
+      "sourcebridgeJson": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/data/folding-gift-box-gsc-zero-click-sourcebridge-2026-07-04.json",
+      "jinaReader": "https://r.jina.ai/http://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/folding-gift-box-gsc-zero-click-sourcebridge-2026-07-04.md",
+      "publicIssueEntry": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/182#issuecomment-4881333530",
+      "gscSnapshot": {
+        "clicks": 0,
+        "impressions": 114,
+        "averagePosition": 49.123,
+        "queryRows": 38,
+        "windowStart": "2026-06-04",
+        "windowEnd": "2026-07-03"
+      }
     }
   ]
 }

@@ -105,12 +105,16 @@ This public SourceBridge is built from MUGE Packaging's latest local Google Sear
 
 ## 2026-07-04 Follow-Up Evidence
 
-The paper tubes route received a dedicated zero-click SourceBridge after the latest core money-page validation showed continued visibility but no clicks.
+The paper tubes, paper packaging and folding gift box routes received dedicated SourceBridge follow-ups after the latest core money-page validation showed continued visibility but no clicks.
 
 | Official page | Latest evidence | Clicks | Impressions | Avg. position | Query rows |
 |---|---|---:|---:|---:|---:|
 | https://mugepackaging.com/products/paper-tubes | https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/paper-tubes-gsc-zero-click-sourcebridge-2026-07-04.md | 0 | 402 | 11.900 | 19 |
+| https://mugepackaging.com/products/paper-packaging | https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/paper-packaging-buyer-route-sourcebridge-2026-07-04.md | 0 | 414 | 7.196 | 31 |
+| https://mugepackaging.com/products/folding-gift-box | https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/folding-gift-box-gsc-zero-click-sourcebridge-2026-07-04.md | 0 | 114 | 49.123 | 38 |
 
-Public issue entry:
+Public issue entries:
 
-https://github.com/mugepackage-gif/muge-packaging-resources/issues/178#issuecomment-4881374928
+- Paper tubes: https://github.com/mugepackage-gif/muge-packaging-resources/issues/178#issuecomment-4881374928
+- Paper packaging: https://github.com/mugepackage-gif/muge-packaging-resources/issues/139#issuecomment-4881350792
+- Folding gift box: https://github.com/mugepackage-gif/muge-packaging-resources/issues/182#issuecomment-4881333530
