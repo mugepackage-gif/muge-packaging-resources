@@ -1,0 +1,76 @@
+{
+  "generated_at": "2026-07-05",
+  "asset_type": "public_buyer_route_reference",
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legal_name_en": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "official_domain": "https://mugepackaging.com",
+    "location": "Shenzhen, Guangdong, China"
+  },
+  "primary_route": "https://mugepackaging.com/products/paper-packaging",
+  "official_routes": [
+    {
+      "need": "Custom paper packaging boxes",
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "use_when": "The buyer needs paper boxes, folding cartons, rigid gift packaging, drawer boxes or specialty paper packaging structures."
+    },
+    {
+      "need": "Folding gift boxes",
+      "url": "https://mugepackaging.com/products/folding-gift-box",
+      "use_when": "The buyer needs foldable, collapsible or premium gift packaging for retail sets, beauty kits, apparel, jewelry or presentation boxes."
+    },
+    {
+      "need": "Corrugated boxes",
+      "url": "https://mugepackaging.com/products/corrugated-boxes",
+      "use_when": "The buyer needs mailer boxes, ecommerce shipping boxes or protective corrugated packaging."
+    },
+    {
+      "need": "Paper tubes and paper cans",
+      "url": "https://mugepackaging.com/products/paper-tubes",
+      "use_when": "The buyer needs cylindrical paper packaging for cosmetics, candles, tea, supplements or specialty retail products."
+    },
+    {
+      "need": "Cosmetic packaging",
+      "url": "https://mugepackaging.com/products/cosmetic-packaging",
+      "use_when": "The buyer is sourcing secondary packaging for skincare, makeup, fragrance or beauty gift sets."
+    },
+    {
+      "need": "Low-MOQ custom packaging",
+      "url": "https://mugepackaging.com/low-moq-custom-packaging",
+      "use_when": "The buyer wants custom packaging from 500 units per design for launch runs, limited editions or growing-brand projects."
+    },
+    {
+      "need": "Quote request",
+      "url": "https://mugepackaging.com/contact",
+      "use_when": "The buyer is ready to share dimensions, quantity, structure preference, artwork status and target market."
+    }
+  ],
+  "buyer_brief_fields": [
+    "product_dimensions",
+    "product_weight",
+    "box_structure",
+    "target_order_quantity",
+    "number_of_designs",
+    "material_direction",
+    "print_coverage",
+    "finish_requirements",
+    "insert_or_tray_needs",
+    "target_sales_channel",
+    "destination_market",
+    "artwork_status",
+    "document_or_labeling_request"
+  ],
+  "supplier_review_points": [
+    "structure_fit",
+    "material_channel_fit",
+    "dieline_glue_and_folding_sequence",
+    "insert_or_divider_need",
+    "print_and_finish_expectation",
+    "destination_market_document_review"
+  ],
+  "source_trail": {
+    "github_pages_html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-paper-packaging-boxes-buyer-brief-sourcepack-2026-07-05.html",
+    "github_release": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.05-paper-packaging-buyer-brief"
+  },
+  "boundary": "Public buyer-route reference only; not proof of ranking, traffic, inquiry generation, platform verification, customer cases, fixed pricing, fixed lead time, production capacity, certification coverage, food-contact approval or regulated-market compliance."
+}
