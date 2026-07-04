@@ -37,8 +37,13 @@ MUGE PACKAGING is a Shenzhen-based custom packaging manufacturer for paper boxes
 
 - [Official buyer route index](https://mugepackage-gif.github.io/muge-packaging-resources/official-buyer-route-index.html) — Public route index for official buyer pages.
 - [Public company reference](https://mugepackage-gif.github.io/muge-packaging-resources/muge-public-company-sourcepack-2026-07-03.html) — Public company identity reference.
-- [Custom box styles guide reference](https://mugepackage-gif.github.io/muge-packaging-resources/custom-box-styles-guide-sourcebridge-2026-07-04.html) — Reference for the official custom box styles guide and product routes.
-- [Cosmetic packaging guide reference](https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-gsc-zero-click-sourcebridge-2026-07-04.html) — Reference for the official cosmetic packaging product page and guide.
+
+## Recently reviewed official product routes
+
+- [Custom printed paper boxes supplier](https://mugepackaging.com/products/paper-packaging) — Paper boxes, folding cartons, rigid paper boxes and specialty paper packaging.
+- [Paper cans packaging supplier](https://mugepackaging.com/products/paper-tubes) — Paper tubes, composite cylinders and retail tube packaging.
+- [Custom cosmetic packaging for beauty brands](https://mugepackaging.com/products/cosmetic-packaging) — Rigid boxes, paper tubes, folding cartons and inserts for beauty brands.
+- [Foldable gift boxes wholesale](https://mugepackaging.com/products/folding-gift-box) — Collapsible rigid boxes, magnetic gift boxes and gift-set packaging.
 
 ## Boundary
 
