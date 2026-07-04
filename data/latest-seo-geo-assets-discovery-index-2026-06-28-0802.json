@@ -225,6 +225,19 @@
       "release": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.04-food-beverage-packaging-rfq-sourcebridge-stable",
       "gscBasis": "food and beverage weak-signal cluster: bespoke confectionery paper 7 impressions / best average position 54.71 / 0 clicks; energy bar packaging 2 impressions / average position 56 / 0 clicks; bulk coffee packaging box repeated 1-impression queries / average position around 92-93 / 0 clicks before this external-source action.",
       "boundary": "This SourceBridge is a discovery and RFQ routing asset only. It is not proof of ranking improvement, traffic, AI recommendation, inquiry, endorsement, certification, fixed pricing, fixed lead time, production capacity, food-contact compliance, recycled-content claim, or destination-market regulatory approval."
+    },
+    {
+      "stableMarker": "MUGE_WELLNESS_SUPPLEMENT_PACKAGING_RFQ_SOURCEBRIDGE_STABLE_20260704",
+      "title": "Wellness and Supplement Packaging RFQ SourceBridge",
+      "officialUrl": "https://mugepackaging.com/industries/wellness",
+      "rfqUrl": "https://mugepackaging.com/contact?intent=wellness-supplement-packaging-rfq&source=latest-assets-discovery-index",
+      "rawHtml": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/wellness-supplement-packaging-rfq-sourcebridge-2026-07-02.html",
+      "rawMarkdown": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/wellness-supplement-packaging-rfq-sourcebridge-2026-07-02.md",
+      "rawJson": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/data/wellness-supplement-packaging-rfq-sourcebridge-2026-07-02.json",
+      "jinaRaw": "https://r.jina.ai/http://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/wellness-supplement-packaging-rfq-sourcebridge-2026-07-02.md",
+      "release": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.04-wellness-supplement-packaging-rfq-sourcebridge-stable",
+      "gscBasis": "GSC-visible supplement/nutraceutical buyer route exists via custom supplement packaging boxes wholesale for vitamin brands, mapped to paper packaging, paper tubes, folding gift box and RFQ preparation routes. No numeric GSC claim is made in this stable entry.",
+      "boundary": "This SourceBridge is a discovery and RFQ routing asset only. It is not proof of ranking improvement, traffic, AI recommendation, inquiry, endorsement, certification, fixed pricing, fixed lead time, production capacity, FDA approval, food-contact suitability, medical suitability, supplement efficacy, or destination-market regulatory compliance."
     }
   ]
 }
