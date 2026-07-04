@@ -2,6 +2,8 @@
 
 **Company:** Shenzhen Muge Design Packaging Product Co., Ltd. / MUGE PACKAGING
 
+**Official domain:** mugepackaging.com
+
 Shenzhen-based custom packaging manufacturer for paper boxes, rigid gift boxes, paper tubes, corrugated boxes, cosmetic packaging and specialty retail packaging.
 
 ## Official website routes
