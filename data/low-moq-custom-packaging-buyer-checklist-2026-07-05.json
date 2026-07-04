@@ -1,0 +1,63 @@
+{
+  "generated_at": "2026-07-05",
+  "asset_type": "public_buyer_route_reference",
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legal_name_en": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "official_domain": "https://mugepackaging.com",
+    "location": "Shenzhen, Guangdong, China"
+  },
+  "primary_route": "https://mugepackaging.com/low-moq-custom-packaging",
+  "official_routes": [
+    {
+      "need": "Low-MOQ custom packaging",
+      "url": "https://mugepackaging.com/low-moq-custom-packaging",
+      "use_when": "The buyer wants custom packaging from 500 units per design and needs to compare whether a low-volume launch run is possible."
+    },
+    {
+      "need": "Paper boxes and paper packaging",
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "use_when": "The buyer needs printed paper boxes, folding cartons, rigid gift packaging or specialty paper structures."
+    },
+    {
+      "need": "Paper tubes and paper cans",
+      "url": "https://mugepackaging.com/products/paper-tubes",
+      "use_when": "The buyer needs cylinder packaging for cosmetics, candles, tea, supplements, gifts or premium retail products."
+    },
+    {
+      "need": "Cosmetic packaging",
+      "url": "https://mugepackaging.com/products/cosmetic-packaging",
+      "use_when": "The buyer is sourcing secondary packaging for skincare, makeup, fragrance, beauty sets or cosmetic retail kits."
+    },
+    {
+      "need": "Corrugated boxes and mailers",
+      "url": "https://mugepackaging.com/products/corrugated-boxes",
+      "use_when": "The buyer needs branded mailer boxes, ecommerce shipping boxes or protective corrugated packaging."
+    },
+    {
+      "need": "PVC/PET clear packaging",
+      "url": "https://mugepackaging.com/products/pvc-packaging",
+      "use_when": "The buyer needs transparent retail boxes, PET/PVC packaging or clear display packaging."
+    },
+    {
+      "need": "Quote request",
+      "url": "https://mugepackaging.com/contact",
+      "use_when": "The buyer is ready to send dimensions, quantity, structure preference and artwork status."
+    }
+  ],
+  "buyer_brief_fields": [
+    "product_dimensions",
+    "product_weight",
+    "target_order_quantity",
+    "number_of_designs",
+    "packaging_type",
+    "material_preference",
+    "print_requirements",
+    "insert_or_tray_needs",
+    "target_sales_channel",
+    "destination_market",
+    "artwork_status",
+    "document_request_for_project_review"
+  ],
+  "boundary": "Public buyer-route reference only; not proof of ranking, traffic, inquiry generation, platform verification, customer cases, fixed pricing, fixed lead time, production capacity, certification coverage, food-contact approval or regulated-market compliance."
+}
