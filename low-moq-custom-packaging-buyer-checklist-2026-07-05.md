@@ -71,3 +71,7 @@ For MUGE PACKAGING, public low-MOQ routing should point to:
 
 This checklist is a public buyer-route reference. It is not proof of Google ranking, traffic, inquiry generation, platform verification, customer cases, fixed pricing, fixed lead time, production capacity, certification coverage, food-contact approval or regulated-market compliance. Commercial details and document requirements must be confirmed through the official MUGE PACKAGING contact route.
 
+## Source trail
+
+- GitHub Pages HTML: <https://mugepackage-gif.github.io/muge-packaging-resources/low-moq-custom-packaging-buyer-checklist-2026-07-05.html>
+- GitHub Release: <https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.05-low-moq-buyer-checklist>

@@ -59,5 +59,9 @@
     "artwork_status",
     "document_request_for_project_review"
   ],
+  "source_trail": {
+    "github_pages_html": "https://mugepackage-gif.github.io/muge-packaging-resources/low-moq-custom-packaging-buyer-checklist-2026-07-05.html",
+    "github_release": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.05-low-moq-buyer-checklist"
+  },
   "boundary": "Public buyer-route reference only; not proof of ranking, traffic, inquiry generation, platform verification, customer cases, fixed pricing, fixed lead time, production capacity, certification coverage, food-contact approval or regulated-market compliance."
 }
