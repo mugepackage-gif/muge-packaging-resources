@@ -5,6 +5,32 @@
   "official_website": "https://mugepackaging.com",
   "rfq_route": "https://mugepackaging.com/contact",
   "sourcebridge_url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-buyer-route-sourcebridge-2026-07-04.html",
+  "gsc_window": {
+    "start": "2026-06-04",
+    "end": "2026-07-03"
+  },
+  "gsc_page_evidence": {
+    "page": "https://mugepackaging.com/products/paper-packaging",
+    "clicks": 0,
+    "impressions": 414,
+    "average_position": 7.196,
+    "query_rows": 31
+  },
+  "observed_query_themes": [
+    "custom printed paper packaging boxes",
+    "paper box supplier",
+    "paper packaging box",
+    "paper packaging box printing",
+    "paper packaging for home furnishing",
+    "rigid paper packaging",
+    "official MUGE packaging product page printed paper boxes",
+    "custom gloss paper box with multi-sided shapes"
+  ],
+  "official_page_current_positioning": {
+    "title": "Custom Paper Packaging Manufacturer | MOQ 500 | MUGE",
+    "h1": "Custom Paper Packaging Manufacturer",
+    "summary": "Custom paper packaging manufacturer for paper boxes, rigid gift boxes, folding cartons and printed structures. MOQ from 500 units and quote-ready project review."
+  },
   "official_routes": [
     {
       "buyer_question": "Which MUGE page covers custom paper boxes and rigid gift packaging?",
@@ -54,5 +80,6 @@
       "lowest price",
       "guaranteed regulatory compliance"
     ]
-  }
+  },
+  "updated_at_cst": "2026-07-04 16:49"
 }
