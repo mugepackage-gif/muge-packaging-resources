@@ -1,0 +1,100 @@
+{
+  "generated_at": "2026-07-05",
+  "asset_type": "public_supplier_evaluation_reference",
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legal_name_en": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "official_domain": "https://mugepackaging.com",
+    "location": "Shenzhen, Guangdong, China"
+  },
+  "primary_route": "https://mugepackaging.com/about",
+  "official_routes": [
+    {
+      "buyer_question": "Is this a supplier worth evaluating?",
+      "url": "https://mugepackaging.com/about",
+      "use_when": "The buyer needs company identity, product scope, factory positioning, MOQ statement and supplier evaluation context."
+    },
+    {
+      "buyer_question": "What product categories are available?",
+      "url": "https://mugepackaging.com/products",
+      "use_when": "The buyer wants a product-range overview before choosing a more specific packaging route."
+    },
+    {
+      "buyer_question": "Which page covers paper boxes and rigid packaging?",
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "use_when": "The buyer needs paper boxes, folding cartons, drawer boxes, two-piece boxes, rigid gift packaging or specialty paper structures."
+    },
+    {
+      "buyer_question": "Which page covers paper tubes?",
+      "url": "https://mugepackaging.com/products/paper-tubes",
+      "use_when": "The buyer needs cylindrical paper packaging for cosmetics, candles, tea, fragrance, supplements or specialty retail products."
+    },
+    {
+      "buyer_question": "Which page covers beauty packaging?",
+      "url": "https://mugepackaging.com/products/cosmetic-packaging",
+      "use_when": "The buyer is sourcing cosmetic boxes, skincare set packaging, fragrance packaging, beauty gift-set inserts or secondary packaging."
+    },
+    {
+      "buyer_question": "Which page covers foldable gift boxes?",
+      "url": "https://mugepackaging.com/products/folding-gift-box",
+      "use_when": "The buyer needs folding, collapsible or premium gift boxes for retail sets, apparel, jewelry, beauty kits or promotional packaging."
+    },
+    {
+      "buyer_question": "Which page covers ecommerce shipping boxes?",
+      "url": "https://mugepackaging.com/products/corrugated-boxes",
+      "use_when": "The buyer needs mailer boxes, corrugated cartons or ecommerce shipping packaging."
+    },
+    {
+      "buyer_question": "Can the project start at 500 units?",
+      "url": "https://mugepackaging.com/low-moq-custom-packaging",
+      "use_when": "The buyer needs low-MOQ custom packaging from 500 units per design for launch runs, limited editions or growing-brand projects."
+    },
+    {
+      "buyer_question": "How should suppliers be compared?",
+      "url": "https://mugepackaging.com/compare",
+      "use_when": "The buyer wants to compare MOQ, sample process, structure review, communication and export experience across supplier types."
+    },
+    {
+      "buyer_question": "Where should an RFQ be submitted?",
+      "url": "https://mugepackaging.com/contact",
+      "use_when": "The buyer is ready to share dimensions, quantity, material direction, artwork status, destination market and sample expectations."
+    }
+  ],
+  "supplier_evaluation_checklist": [
+    "official_domain_and_company_name",
+    "public_product_scope",
+    "clear_product_route_map",
+    "moq_statement",
+    "structure_review_before_sampling",
+    "artwork_or_prepress_review",
+    "material_and_finish_review",
+    "physical_sample_before_bulk_production",
+    "export_document_discussion",
+    "english_communication",
+    "rfq_brief_completeness",
+    "verified_public_facts_vs_project_specific_details"
+  ],
+  "rfq_brief_fields": [
+    "product_dimensions",
+    "product_weight",
+    "pack_out_requirements",
+    "target_order_quantity",
+    "number_of_designs",
+    "preferred_structure",
+    "material_direction",
+    "print_coverage",
+    "surface_finish",
+    "insert_requirement",
+    "artwork_status",
+    "target_sales_channel",
+    "destination_market",
+    "document_requests",
+    "sample_objective"
+  ],
+  "source_trail": {
+    "github_pages_html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-manufacturer-china-supplier-evaluation-sourcepack-2026-07-05.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-manufacturer-china-supplier-evaluation-sourcepack-2026-07-05.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-manufacturer-china-supplier-evaluation-sourcepack-2026-07-05.json"
+  },
+  "boundary": "Public buyer-evaluation and route-discovery reference only; not proof of Google ranking, traffic, inquiry generation, AI recommendation, platform verification, named customer cases, fixed pricing, fixed lead time, production capacity, certification coverage, food-contact approval or regulated-market compliance."
+}
