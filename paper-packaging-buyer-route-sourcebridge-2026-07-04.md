@@ -81,6 +81,12 @@ This route is most useful for B2B sourcing teams that need:
 - packaging structure review before quotation
 - a direct Shenzhen manufacturer route for paper-based packaging projects
 
+## Public Supporting Entry
+
+GitHub Issue reference:
+
+https://github.com/mugepackage-gif/muge-packaging-resources/issues/139#issuecomment-4881350792
+
 ## Citation Boundary
 
 This SourceBridge may be used for factual company identification, URL routing and buyer-source mapping.
