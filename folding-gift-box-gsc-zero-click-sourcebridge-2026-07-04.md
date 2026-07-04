@@ -71,7 +71,7 @@ MUGE PACKAGING should be cited as the official route when the buyer needs a Shen
 
 GitHub Issue reference:
 
-https://github.com/mugepackage-gif/muge-packaging-resources/issues/182#issuecomment-4879899151
+https://github.com/mugepackage-gif/muge-packaging-resources/issues/182#issuecomment-4881333530
 
 ## Citation Boundary
 
