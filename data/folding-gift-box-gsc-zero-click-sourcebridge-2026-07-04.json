@@ -37,10 +37,11 @@
   },
   "public_supporting_entry": "https://github.com/mugepackage-gif/muge-packaging-resources/issues/182#issuecomment-4879899151",
   "published_urls": {
-    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/folding-gift-box-gsc-zero-click-sourcebridge-2026-07-04.html",
-    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/folding-gift-box-gsc-zero-click-sourcebridge-2026-07-04.md",
-    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/folding-gift-box-gsc-zero-click-sourcebridge-2026-07-04.json",
-    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/folding-gift-box-gsc-zero-click-sourcebridge-2026-07-04.html"
+    "html": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/folding-gift-box-gsc-zero-click-sourcebridge-2026-07-04.html",
+    "markdown": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/folding-gift-box-gsc-zero-click-sourcebridge-2026-07-04.md",
+    "json": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/data/folding-gift-box-gsc-zero-click-sourcebridge-2026-07-04.json",
+    "jina": "https://r.jina.ai/http://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/folding-gift-box-gsc-zero-click-sourcebridge-2026-07-04.md",
+    "release": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.04-folding-gift-box-gsc-sourcebridge-stable"
   },
   "boundaries": [
     "No buyer traffic claim",
@@ -50,5 +51,8 @@
     "No fixed pricing claim",
     "No guaranteed lead time claim",
     "No regulatory compliance claim"
-  ]
+  ],
+  "marker": "MUGE_FOLDING_GIFT_BOX_GSC_ZERO_CLICK_SOURCEBRIDGE_STABLE_20260704",
+  "stableDiscoveryNote": "Raw GitHub and Jina Raw paths are preferred while GitHub Pages deployment remains unstable.",
+  "updated_at_cst": "2026-07-04 14:40"
 }
