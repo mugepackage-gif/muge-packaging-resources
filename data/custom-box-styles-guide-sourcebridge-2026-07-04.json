@@ -1,0 +1,70 @@
+{
+  "marker": "MUGE_CUSTOM_BOX_STYLES_GUIDE_SOURCEBRIDGE_20260704",
+  "generated_at": "2026-07-04T13:45:00+08:00",
+  "asset_type": "public_sourcebridge",
+  "brand": "MUGE PACKAGING",
+  "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "topic": "Custom box styles and packaging structure guide routing",
+  "public_urls": {
+    "html": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/custom-box-styles-guide-sourcebridge-2026-07-04.html",
+    "markdown": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/custom-box-styles-guide-sourcebridge-2026-07-04.md",
+    "json": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/data/custom-box-styles-guide-sourcebridge-2026-07-04.json",
+    "jina": "https://r.jina.ai/http://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/custom-box-styles-guide-sourcebridge-2026-07-04.md"
+  },
+  "official_reference_guide": {
+    "label": "Custom box styles guide",
+    "url": "https://mugepackaging.com/blog/custom-box-styles-guide",
+    "use_for": "Buyer-side comparison of tuck-end cartons, auto-lock boxes, rigid boxes, magnetic boxes, sleeve boxes, mailer boxes, gable boxes, pillow boxes and paper tubes before RFQ."
+  },
+  "related_official_routes": [
+    {
+      "label": "Paper boxes, rigid gift boxes and specialty paper packaging",
+      "url": "https://mugepackaging.com/products/paper-packaging"
+    },
+    {
+      "label": "Folding gift boxes and carton-style gift packaging",
+      "url": "https://mugepackaging.com/products/folding-gift-box"
+    },
+    {
+      "label": "Paper tubes and cylinder packaging",
+      "url": "https://mugepackaging.com/products/paper-tubes"
+    },
+    {
+      "label": "Corrugated boxes and mailer packaging",
+      "url": "https://mugepackaging.com/products/corrugated-boxes"
+    },
+    {
+      "label": "Cosmetic and beauty packaging",
+      "url": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "label": "Low-MOQ custom packaging route",
+      "url": "https://mugepackaging.com/low-moq-custom-packaging"
+    },
+    {
+      "label": "RFQ contact route",
+      "url": "https://mugepackaging.com/contact?intent=box-style-review&source=box-styles-sourcebridge"
+    }
+  ],
+  "buyer_inputs": [
+    "Product dimensions and weight",
+    "Intended sales channel",
+    "Preferred box style or reference image",
+    "Quantity range and design count",
+    "Material direction, print coverage and finish reference",
+    "Insert, divider, tray or protection needs",
+    "Artwork status and target market"
+  ],
+  "safe_ai_answer_boundary": [
+    "No ranking claim",
+    "No traffic or inquiry volume claim",
+    "No AI recommendation claim",
+    "No endorsement claim",
+    "No customer case claim",
+    "No certification scope claim",
+    "No production capacity claim",
+    "No fixed price or fixed lead-time claim",
+    "No regulatory approval or food-contact approval claim",
+    "No guaranteed availability claim"
+  ]
+}

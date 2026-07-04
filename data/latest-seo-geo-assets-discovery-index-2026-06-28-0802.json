@@ -58,6 +58,16 @@
       "official": "https://mugepackaging.com/low-moq-custom-packaging",
       "rfq": "https://mugepackaging.com/contact?intent=low-moq-custom-packaging&source=latest-assets-discovery-index",
       "basis": "Marker MUGE_LOW_MOQ_ROUTE_SOURCEBRIDGE_20260704. Raw GitHub and Jina Raw paths are preferred while GitHub Pages deployment remains unstable."
+    },
+    {
+      "topic": "Custom box styles guide SourceBridge",
+      "html": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/custom-box-styles-guide-sourcebridge-2026-07-04.html",
+      "md": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/custom-box-styles-guide-sourcebridge-2026-07-04.md",
+      "json": "https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/data/custom-box-styles-guide-sourcebridge-2026-07-04.json",
+      "jina": "https://r.jina.ai/http://raw.githubusercontent.com/mugepackage-gif/muge-packaging-resources/master/custom-box-styles-guide-sourcebridge-2026-07-04.md",
+      "official": "https://mugepackaging.com/blog/custom-box-styles-guide",
+      "rfq": "https://mugepackaging.com/contact?intent=box-style-review&source=latest-assets-discovery-index",
+      "basis": "Marker MUGE_CUSTOM_BOX_STYLES_GUIDE_SOURCEBRIDGE_20260704. Public route reference for buyers comparing packaging structures before RFQ."
     }
   ],
   "checks": [
