@@ -1,0 +1,131 @@
+{
+  "generated_at": "2026-07-05",
+  "entity": {
+    "brand": "MUGE PACKAGING",
+    "company_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "official_website": "https://mugepackaging.com/",
+    "rfq_route": "https://mugepackaging.com/contact"
+  },
+  "public_or_partial_profiles": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/company/mugepackaging/",
+      "status": "visible_public_profile",
+      "action": "Keep active; review older promotional posts for unsupported wording."
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/MugePackaging/",
+      "status": "url_resolves_for_live_check",
+      "action": "Manual browser check required for profile fields."
+    },
+    {
+      "platform": "Pinterest",
+      "url": "https://www.pinterest.com/MugePackaging/",
+      "status": "url_resolves_for_live_check",
+      "action": "Keep as visual profile reference."
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@mugepackaging4547",
+      "status": "url_resolves_for_live_check",
+      "action": "Keep as video/social profile reference."
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/mugepackaging/",
+      "status": "rate_limited_for_live_check",
+      "action": "Manual browser check required before treating as verified."
+    }
+  ],
+  "legacy_or_risky_profiles": [
+    {
+      "platform": "Made-in-China",
+      "url": "https://www.made-in-china.com/showroom/szmoge",
+      "status": "currently_404",
+      "action": "Do not cite as active public profile."
+    },
+    {
+      "platform": "Made-in-China",
+      "url": "https://www.made-in-china.com/showroom/asd668",
+      "status": "currently_unavailable",
+      "action": "Search discovery suggests a possible legacy listing, but automated live check returns unavailable. Manual account review required before use."
+    },
+    {
+      "platform": "GoldSupplier",
+      "url": "https://www.goldsupplier.com/Shenzhen_Moge_Technology_Co_Ltd/",
+      "status": "currently_404",
+      "action": "Do not cite as active public profile."
+    },
+    {
+      "platform": "GoldSupplier",
+      "url": "https://www.goldsupplier.com/hoharuxofy",
+      "status": "entity_hint_unverified",
+      "action": "Search discovery suggests a legacy Shenzhen Moge profile; automated check cannot verify official status. Treat as correction risk, not as usable backlink."
+    },
+    {
+      "platform": "ExportHub",
+      "url": "https://www.exporthub.com/shenzhen-moge-technology-co-ltd",
+      "status": "automated_access_blocked",
+      "action": "Manual review required before treating as official."
+    }
+  ],
+  "high_trust_profile_gaps": [
+    {
+      "platform": "Google Business Profile",
+      "priority": "P0",
+      "status": "manual_login_required"
+    },
+    {
+      "platform": "Bing Places",
+      "priority": "P0",
+      "status": "manual_login_required"
+    },
+    {
+      "platform": "ThomasNet",
+      "priority": "P0",
+      "status": "no_verified_public_muge_profile_found"
+    },
+    {
+      "platform": "Kompass",
+      "priority": "P0",
+      "status": "no_verified_public_muge_profile_found"
+    },
+    {
+      "platform": "Europages",
+      "priority": "P0",
+      "status": "no_verified_public_muge_profile_found"
+    },
+    {
+      "platform": "Crunchbase",
+      "priority": "P1",
+      "status": "no_verified_public_muge_profile_found"
+    },
+    {
+      "platform": "Global Sources",
+      "priority": "P1",
+      "status": "manual_login_required"
+    },
+    {
+      "platform": "Alibaba",
+      "priority": "P1",
+      "status": "manual_login_required"
+    }
+  ],
+  "safe_public_fields": {
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "brand": "MUGE PACKAGING",
+    "website": "https://mugepackaging.com/",
+    "category": "Custom packaging manufacturer / packaging services / paper and retail packaging",
+    "short_description": "Shenzhen-based custom packaging manufacturer supporting paper boxes, rigid gift boxes, paper tubes, cosmetic packaging, corrugated boxes and PVC/PET clear packaging for brand projects."
+  },
+  "claims_not_allowed_without_proof": [
+    "Verified supplier status",
+    "FSC, FDA, food-contact or regulated-market approval",
+    "Fixed production capacity",
+    "Fixed price, guaranteed lowest price or fixed lead time",
+    "Customer cases, named clients or revenue",
+    "Employee count if not confirmed"
+  ],
+  "boundary": "Public execution ledger only. Not proof of Google ranking, AI recommendation, buyer inquiries, platform verification, certification coverage, pricing, lead time, production capacity or regulatory compliance."
+}
