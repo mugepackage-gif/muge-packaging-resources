@@ -1,0 +1,32 @@
+{
+  "name": "MUGE PACKAGING core money pages WebArchive ledger",
+  "generated_at_cst": "2026-07-05 12:24 CST",
+  "purpose": "Third-party timestamp evidence for priority buyer routes and AI-readable route files.",
+  "snapshots": [
+    {
+      "asset": "Low-MOQ custom packaging",
+      "official_url": "https://mugepackaging.com/low-moq-custom-packaging",
+      "webarchive_snapshot": "https://web.archive.org/web/20260705042426/https://mugepackaging.com/low-moq-custom-packaging",
+      "verification_note": "Snapshot HTTP 200 and contains Low-MOQ Custom Packaging."
+    },
+    {
+      "asset": "Complete custom cosmetic packaging guide",
+      "official_url": "https://mugepackaging.com/blog/cosmetic-packaging-guide",
+      "webarchive_snapshot": "https://web.archive.org/web/20260705042450/https://mugepackaging.com/blog/cosmetic-packaging-guide",
+      "verification_note": "Snapshot HTTP 200 and contains The Complete Guide to Custom Cosmetic Packaging."
+    },
+    {
+      "asset": "llms.txt",
+      "official_url": "https://mugepackaging.com/llms.txt",
+      "webarchive_snapshot": "https://web.archive.org/web/20260705042504/https://mugepackaging.com/llms.txt",
+      "verification_note": "Snapshot HTTP 200 and contains Jina Reader official route."
+    },
+    {
+      "asset": "llms-full.txt",
+      "official_url": "https://mugepackaging.com/llms-full.txt",
+      "webarchive_snapshot": "https://web.archive.org/web/20260705042512/https://mugepackaging.com/llms-full.txt",
+      "verification_note": "Snapshot HTTP 200 and contains Buyer guide Jina Reader."
+    }
+  ],
+  "boundary": "These snapshots are third-party timestamp evidence for discovery and entity consistency. They are not proof of Google ranking, traffic, inquiry generation, platform endorsement, customer cases, fixed production capacity, certification coverage or regulated-market compliance."
+}

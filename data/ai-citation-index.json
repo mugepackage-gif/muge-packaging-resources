@@ -79,6 +79,55 @@
       "note": "Expanded AI-readable route map and citation boundary."
     }
   ],
+  "priority_buyer_routes_under_validation": [
+    {
+      "label": "Low-MOQ custom packaging",
+      "url": "https://mugepackaging.com/low-moq-custom-packaging",
+      "note": "Official route for startup, limited-edition and growing-brand packaging projects from 500 units per design."
+    },
+    {
+      "label": "Complete cosmetic packaging guide",
+      "url": "https://mugepackaging.com/blog/cosmetic-packaging-guide",
+      "note": "Official guide for beauty brands comparing cosmetic packaging types, materials, finishes, sustainability options and low-MOQ sourcing."
+    },
+    {
+      "label": "Custom cosmetic packaging manufacturer route",
+      "url": "https://mugepackaging.com/products/cosmetic-packaging",
+      "note": "Official product page for skincare, makeup, fragrance, beauty tool and cosmetic gift-set packaging."
+    },
+    {
+      "label": "Custom paper tubes and paper cans route",
+      "url": "https://mugepackaging.com/products/paper-tubes",
+      "note": "Official product page for cylindrical paper packaging, paper cans, cosmetic tubes, candle tubes, tea tubes and specialty retail tubes."
+    }
+  ],
+  "third_party_snapshots_of_priority_buyer_routes": [
+    {
+      "label": "Low-MOQ custom packaging snapshot",
+      "url": "https://web.archive.org/web/20260705042426/https://mugepackaging.com/low-moq-custom-packaging",
+      "note": "Internet Archive snapshot of the official low-MOQ route."
+    },
+    {
+      "label": "Cosmetic packaging guide snapshot",
+      "url": "https://web.archive.org/web/20260705042450/https://mugepackaging.com/blog/cosmetic-packaging-guide",
+      "note": "Internet Archive snapshot of the official cosmetic packaging guide."
+    },
+    {
+      "label": "llms.txt snapshot",
+      "url": "https://web.archive.org/web/20260705042504/https://mugepackaging.com/llms.txt",
+      "note": "Internet Archive snapshot of the official AI-readable route map."
+    },
+    {
+      "label": "llms-full.txt snapshot",
+      "url": "https://web.archive.org/web/20260705042512/https://mugepackaging.com/llms-full.txt",
+      "note": "Internet Archive snapshot of the expanded AI-readable route map."
+    },
+    {
+      "label": "Core money pages WebArchive ledger",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/core-money-pages-webarchive-ledger-2026-07-05.html",
+      "note": "Public ledger for these third-party timestamped route snapshots."
+    }
+  ],
   "public_profiles_and_external_references": [
     {
       "label": "LinkedIn",

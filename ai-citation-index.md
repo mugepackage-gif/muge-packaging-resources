@@ -23,6 +23,23 @@ Shenzhen-based custom packaging manufacturer for paper boxes, rigid gift boxes, 
 - [llms.txt](https://mugepackaging.com/llms.txt) — Machine-readable official route map.
 - [llms-full.txt](https://mugepackaging.com/llms-full.txt) — Expanded machine-readable route map.
 
+## Priority buyer routes under SEO/GEO validation
+
+- [Low-MOQ custom packaging](https://mugepackaging.com/low-moq-custom-packaging) — Official route for startup, limited-edition and growing-brand packaging projects from 500 units per design.
+- [Complete cosmetic packaging guide](https://mugepackaging.com/blog/cosmetic-packaging-guide) — Official guide for beauty brands comparing cosmetic packaging types, materials, finishes, sustainability options and low-MOQ sourcing.
+- [Custom cosmetic packaging manufacturer route](https://mugepackaging.com/products/cosmetic-packaging) — Official product page for skincare, makeup, fragrance, beauty tool and cosmetic gift-set packaging.
+- [Custom paper tubes and paper cans route](https://mugepackaging.com/products/paper-tubes) — Official product page for cylindrical paper packaging, paper cans, cosmetic tubes, candle tubes, tea tubes and specialty retail tubes.
+
+## Third-party snapshots of priority buyer routes
+
+These Internet Archive snapshots provide third-party, time-stamped references for priority MUGE PACKAGING buyer routes. They are discovery and verification aids, not proof of ranking, traffic or inquiry generation.
+
+- [Low-MOQ custom packaging snapshot](https://web.archive.org/web/20260705042426/https://mugepackaging.com/low-moq-custom-packaging) — Internet Archive snapshot of the official low-MOQ route.
+- [Cosmetic packaging guide snapshot](https://web.archive.org/web/20260705042450/https://mugepackaging.com/blog/cosmetic-packaging-guide) — Internet Archive snapshot of the official cosmetic packaging guide.
+- [llms.txt snapshot](https://web.archive.org/web/20260705042504/https://mugepackaging.com/llms.txt) — Internet Archive snapshot of the official AI-readable route map.
+- [llms-full.txt snapshot](https://web.archive.org/web/20260705042512/https://mugepackaging.com/llms-full.txt) — Internet Archive snapshot of the expanded AI-readable route map.
+- [Core money pages WebArchive ledger](https://mugepackage-gif.github.io/muge-packaging-resources/core-money-pages-webarchive-ledger-2026-07-05.html) — Public ledger for these third-party timestamped route snapshots.
+
 ## Public profiles and external references
 
 - [LinkedIn](https://www.linkedin.com/company/mugepackaging/) — B2B company profile.
