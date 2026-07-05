@@ -1,0 +1,38 @@
+{
+  "name": "MUGE PACKAGING llms third-party brand evidence WebArchive ledger",
+  "generated_at_cst": "2026-07-05 13:05 CST",
+  "purpose": "Third-party timestamp evidence that official MUGE PACKAGING AI-readable route files include verified third-party brand mention evidence.",
+  "snapshots": [
+    {
+      "asset": "llms.txt third-party brand evidence section",
+      "official_url": "https://mugepackaging.com/llms.txt",
+      "webarchive_snapshot": "https://web.archive.org/web/20260705045354/https://mugepackaging.com/llms.txt?cb=1783227232",
+      "verification_note": "Snapshot contains Verified third-party brand mention evidence, the third-party brand mention ledger, Packaging-Industry, SubmitPR and Bizidex references."
+    },
+    {
+      "asset": "llms-full.txt third-party brand evidence section",
+      "official_url": "https://mugepackaging.com/llms-full.txt",
+      "webarchive_snapshot": "https://web.archive.org/web/20260705045400/https://mugepackaging.com/llms-full.txt?cb=1783227232",
+      "verification_note": "Snapshot contains Verified third-party brand mention evidence, the third-party brand mention ledger, Packaging-Industry, SubmitPR and Bizidex references."
+    }
+  ],
+  "linked_evidence": [
+    {
+      "label": "Official third-party brand mention ledger",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/third-party-brand-mention-verification-ledger-2026-07-05.md"
+    },
+    {
+      "label": "Machine-readable third-party brand mention ledger JSON",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/data/third-party-brand-mention-verification-ledger-2026-07-05.json"
+    },
+    {
+      "label": "External search candidate verification ledger",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/external-search-candidate-verification-ledger-2026-07-05.md"
+    },
+    {
+      "label": "High-trust profile gap matrix",
+      "url": "https://mugepackage-gif.github.io/muge-packaging-resources/high-trust-profile-gap-matrix-2026-07-05.md"
+    }
+  ],
+  "boundary": "These snapshots are third-party timestamp evidence for AI-source discovery and entity consistency. They are not proof of Google ranking, AI recommendation, platform endorsement, verified supplier status, customer cases, fixed production capacity, fixed lead time, fixed pricing, inquiry generation, certification coverage or regulated-market compliance."
+}

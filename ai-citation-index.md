@@ -39,6 +39,7 @@ These Internet Archive snapshots provide third-party, time-stamped references fo
 - [llms.txt snapshot](https://web.archive.org/web/20260705042504/https://mugepackaging.com/llms.txt) — Internet Archive snapshot of the official AI-readable route map.
 - [llms-full.txt snapshot](https://web.archive.org/web/20260705042512/https://mugepackaging.com/llms-full.txt) — Internet Archive snapshot of the expanded AI-readable route map.
 - [Core money pages WebArchive ledger](https://mugepackage-gif.github.io/muge-packaging-resources/core-money-pages-webarchive-ledger-2026-07-05.html) — Public ledger for these third-party timestamped route snapshots.
+- [llms third-party brand evidence WebArchive ledger](https://mugepackage-gif.github.io/muge-packaging-resources/llms-third-party-brand-evidence-webarchive-ledger-2026-07-05.html) — Public ledger confirming the official AI-readable route files now reference verified third-party brand/entity mention evidence.
 
 ## Public profiles and external references
 
