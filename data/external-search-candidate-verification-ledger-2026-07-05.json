@@ -1,0 +1,109 @@
+{
+  "generated_at": "2026-07-05T03:48:00.000Z",
+  "company": {
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "brand": "MUGE PACKAGING",
+    "official_domain": "mugepackaging.com",
+    "official_url": "https://mugepackaging.com"
+  },
+  "summary": {
+    "candidates_checked": 10,
+    "publicly_usable": 5,
+    "not_counted": 5,
+    "archive_success": 1
+  },
+  "results": [
+    {
+      "url": "https://www.flickr.com/photos/182128080@N08/48228944202/",
+      "http": 200,
+      "contains_official_domain": true,
+      "contains_brand": true,
+      "contains_legal_name": false,
+      "publicly_usable": true,
+      "note": "Public Flickr item containing Muge Packaging and official-domain signals."
+    },
+    {
+      "url": "https://mugepackaging.weebly.com/",
+      "http": 200,
+      "contains_official_domain": true,
+      "contains_brand": true,
+      "contains_legal_name": true,
+      "publicly_usable": true,
+      "note": "Public Weebly company/profile page containing brand, legal-name and official-domain signals."
+    },
+    {
+      "url": "https://www.siteprice.org/competitors/papertube.com",
+      "http": 200,
+      "contains_official_domain": true,
+      "contains_brand": true,
+      "contains_legal_name": false,
+      "publicly_usable": true,
+      "note": "Low-authority public page; weak evidence only."
+    },
+    {
+      "url": "https://www.youtube.com/shorts/tlI0xjxAySg",
+      "http": 200,
+      "contains_official_domain": true,
+      "contains_brand": true,
+      "contains_legal_name": false,
+      "publicly_usable": true,
+      "archive_url": "https://web.archive.org/web/20260705034110/https://www.youtube.com/shorts/tlI0xjxAySg",
+      "note": "Public YouTube Shorts URL containing MUGE/official-domain signals."
+    },
+    {
+      "url": "https://www.youtube.com/shorts/myapxuU8Tg8",
+      "http": 200,
+      "contains_official_domain": true,
+      "contains_brand": true,
+      "contains_legal_name": false,
+      "publicly_usable": true,
+      "note": "Public YouTube Shorts URL containing MUGE/official-domain signals."
+    },
+    {
+      "url": "https://www.facebook.com/MugePackaging/",
+      "http": 200,
+      "contains_official_domain": true,
+      "contains_brand": false,
+      "contains_legal_name": false,
+      "publicly_usable": false,
+      "note": "Login redirect; not counted as strong open-profile evidence."
+    },
+    {
+      "url": "https://www.facebook.com/p/Muge-Packaging-61576487107188/",
+      "http": 200,
+      "contains_official_domain": true,
+      "contains_brand": false,
+      "contains_legal_name": false,
+      "publicly_usable": false,
+      "note": "Login redirect; not counted as strong open-profile evidence."
+    },
+    {
+      "url": "https://www.exporthub.com/shenzhen-moge-technology-co-ltd",
+      "http": 403,
+      "contains_official_domain": false,
+      "contains_brand": false,
+      "contains_legal_name": false,
+      "publicly_usable": false,
+      "note": "Access-control/challenge page."
+    },
+    {
+      "url": "https://moketech.en.alibaba.com/in_ID/",
+      "http": 200,
+      "contains_official_domain": false,
+      "contains_brand": false,
+      "contains_legal_name": false,
+      "publicly_usable": false,
+      "note": "Redirected to Alibaba error page."
+    },
+    {
+      "url": "https://mercatora.com/",
+      "http": 200,
+      "contains_official_domain": false,
+      "contains_brand": false,
+      "contains_legal_name": false,
+      "publicly_usable": false,
+      "note": "Generic homepage; no MUGE signal found in the checked response."
+    }
+  ],
+  "boundary": "Public reachability and brand/domain text verification only; not proof of ranking, GSC link credit, AI recommendation, traffic, inquiry, endorsement, certification, customer cases, fixed price, fixed lead time, capacity or regulatory compliance."
+}

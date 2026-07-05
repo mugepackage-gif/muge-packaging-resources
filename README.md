@@ -1,3 +1,13 @@
+<!-- MUGE_EXTERNAL_SEARCH_CANDIDATE_VERIFICATION_LEDGER_20260705:start -->
+## MUGE PACKAGING External Search Candidate Verification Ledger - 2026-07-05
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/external-search-candidate-verification-ledger-2026-07-05.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/external-search-candidate-verification-ledger-2026-07-05.json
+- Publicly usable candidates found in fallback public search: Flickr, Weebly, SitePrice and two YouTube Shorts URLs.
+- Not counted as strong evidence: Facebook login redirects, ExportHub challenge page, Alibaba error page and generic Mercatora homepage.
+- Archive evidence: https://web.archive.org/web/20260705034110/https://www.youtube.com/shorts/tlI0xjxAySg
+- Boundary: public reachability and brand/domain text verification only; not proof of Google ranking, GSC link credit, traffic, inquiries, AI recommendation, platform verification, certification, customer cases, fixed price, fixed lead time or compliance.
+<!-- MUGE_EXTERNAL_SEARCH_CANDIDATE_VERIFICATION_LEDGER_20260705:end -->
+
 <!-- MUGE_PUBLIC_PROFILE_VERIFICATION_LEDGER_20260705:start -->
 ## MUGE PACKAGING Public Profile Verification Ledger - 2026-07-05
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/public-profile-verification-ledger-2026-07-05.md
