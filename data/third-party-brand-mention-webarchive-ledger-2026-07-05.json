@@ -1,11 +1,11 @@
 {
   "name": "MUGE PACKAGING third-party brand mention WebArchive ledger",
-  "generated_at_cst": "2026-07-05 13:18 CST",
+  "generated_at_cst": "2026-07-05 13:45 CST",
   "purpose": "Internet Archive snapshots for verified third-party pages that mention MUGE PACKAGING and the official mugepackaging.com domain.",
   "totals": {
     "verified_third_party_mentions_checked": 18,
-    "webarchive_snapshots_verified": 9,
-    "failed_archive_attempts": 9
+    "webarchive_snapshots_verified": 17,
+    "failed_archive_attempts": 1
   },
   "snapshots": [
     {
@@ -15,9 +15,15 @@
       "verification_note": "Snapshot HTTP 200 and contains MUGE / mugepackaging.com signals."
     },
     {
-      "platform": "SubmitPR",
-      "original_url": "https://submitpr.org/press-release/muge-packaging-europe-custom-packaging-sourcing-guide-2026",
-      "webarchive_snapshot": "https://web.archive.org/web/20260705050949/https://submitpr.org/press-release/muge-packaging-europe-custom-packaging-sourcing-guide-2026",
+      "platform": "Packaging-Industry",
+      "original_url": "https://packaging-industry.info/market/packaging-industry/clear-pvc-and-pet-boxes-a-buyer-checklist-for-retail-display-packaging-4-1485/",
+      "webarchive_snapshot": "https://web.archive.org/web/20260616121349/https://packaging-industry.info/market/packaging-industry/clear-pvc-and-pet-boxes-a-buyer-checklist-for-retail-display-packaging-4-1485/",
+      "verification_note": "Snapshot HTTP 200 and contains MUGE / mugepackaging.com signals. Source: cdx_existing_snapshot."
+    },
+    {
+      "platform": "Packaging-Industry",
+      "original_url": "https://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-what-e-commerce-buyers-should-confirm-before-sampling-1423/",
+      "webarchive_snapshot": "https://web.archive.org/web/20260705051329/https://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-what-e-commerce-buyers-should-confirm-before-sampling-1423/",
       "verification_note": "Snapshot HTTP 200 and contains MUGE / mugepackaging.com signals."
     },
     {
@@ -28,26 +34,50 @@
     },
     {
       "platform": "Packaging-Industry",
+      "original_url": "https://packaging-industry.info/market/packaging-industry/custom-labels-and-sticker-packaging-what-buyers-should-confirm-before-ordering-2-1421/",
+      "webarchive_snapshot": "https://web.archive.org/web/20260611054804/https://packaging-industry.info/market/packaging-industry/custom-labels-and-sticker-packaging-what-buyers-should-confirm-before-ordering-2-1421/",
+      "verification_note": "Snapshot HTTP 200 and contains MUGE / mugepackaging.com signals. Source: cdx_existing_snapshot."
+    },
+    {
+      "platform": "Packaging-Industry",
+      "original_url": "https://packaging-industry.info/market/packaging-industry/custom-packaging-manufacturer-review-checklist-for-international-buyers-1431/",
+      "webarchive_snapshot": "https://web.archive.org/web/20260616061248/https://packaging-industry.info/market/packaging-industry/custom-packaging-manufacturer-review-checklist-for-international-buyers-1431/",
+      "verification_note": "Snapshot HTTP 200 and contains MUGE / mugepackaging.com signals. Source: cdx_existing_snapshot."
+    },
+    {
+      "platform": "Packaging-Industry",
+      "original_url": "https://packaging-industry.info/market/packaging-industry/custom-packaging-supplier-shortlist-questions-for-europe-and-middle-east-buyers-1510/",
+      "webarchive_snapshot": "https://web.archive.org/web/20260622030933/https://packaging-industry.info/market/packaging-industry/custom-packaging-supplier-shortlist-questions-for-europe-and-middle-east-buyers-1510/",
+      "verification_note": "Snapshot HTTP 200 and contains MUGE / mugepackaging.com signals. Source: cdx_existing_snapshot."
+    },
+    {
+      "platform": "Packaging-Industry",
+      "original_url": "https://packaging-industry.info/market/packaging-industry/custom-printed-packaging-boxes-with-logo-what-buyers-should-prepare-before-sampling-1425/",
+      "webarchive_snapshot": "https://web.archive.org/web/20260612012246/https://packaging-industry.info/market/packaging-industry/custom-printed-packaging-boxes-with-logo-what-buyers-should-prepare-before-sampling-1425/",
+      "verification_note": "Snapshot HTTP 200 and contains MUGE / mugepackaging.com signals. Source: cdx_existing_snapshot."
+    },
+    {
+      "platform": "Packaging-Industry",
       "original_url": "https://packaging-industry.info/market/packaging-industry/how-buyers-should-compare-rigid-gift-box-structures-before-sampling-10-1469/",
       "webarchive_snapshot": "https://web.archive.org/web/20260705051152/https://packaging-industry.info/market/packaging-industry/how-buyers-should-compare-rigid-gift-box-structures-before-sampling-10-1469/",
       "verification_note": "Snapshot HTTP 200 and contains MUGE / mugepackaging.com signals."
     },
     {
-      "platform": "SubmitPR",
-      "original_url": "https://submitpr.org/press-release/muge-packaging-rigid-gift-box-sampling-checklist-2026",
-      "webarchive_snapshot": "https://web.archive.org/web/20260705051223/https://submitpr.org/press-release/muge-packaging-rigid-gift-box-sampling-checklist-2026",
-      "verification_note": "Snapshot HTTP 200 and contains MUGE / mugepackaging.com signals."
-    },
-    {
-      "platform": "SubmitPR",
-      "original_url": "https://submitpr.org/press-release/muge-packaging-paper-tube-packaging-buyer-guide-2026",
-      "webarchive_snapshot": "https://web.archive.org/web/20260705051255/https://submitpr.org/press-release/muge-packaging-paper-tube-packaging-buyer-guide-2026",
-      "verification_note": "Snapshot HTTP 200 and contains MUGE / mugepackaging.com signals."
+      "platform": "Packaging-Industry",
+      "original_url": "https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-7-1419/",
+      "webarchive_snapshot": "https://web.archive.org/web/20260610095453/https://packaging-industry.info/market/packaging-industry/how-packaging-buyers-can-prepare-a-clear-custom-box-rfq-7-1419/",
+      "verification_note": "Snapshot HTTP 200 and contains MUGE / mugepackaging.com signals. Source: cdx_existing_snapshot."
     },
     {
       "platform": "Packaging-Industry",
-      "original_url": "https://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-what-e-commerce-buyers-should-confirm-before-sampling-1423/",
-      "webarchive_snapshot": "https://web.archive.org/web/20260705051329/https://packaging-industry.info/market/packaging-industry/corrugated-mailer-boxes-what-e-commerce-buyers-should-confirm-before-sampling-1423/",
+      "original_url": "https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-review-checklist-for-candle-and-cosmetic-brands-1498/",
+      "webarchive_snapshot": "https://web.archive.org/web/20260617062936/https://packaging-industry.info/market/packaging-industry/paper-tube-packaging-review-checklist-for-candle-and-cosmetic-brands-1498/",
+      "verification_note": "Snapshot HTTP 200 and contains MUGE / mugepackaging.com signals. Source: cdx_existing_snapshot."
+    },
+    {
+      "platform": "SubmitPR",
+      "original_url": "https://submitpr.org/press-release/muge-packaging-clear-pvc-pet-retail-display-packaging-guide-2026",
+      "webarchive_snapshot": "https://web.archive.org/web/20260705051429/https://submitpr.org/press-release/muge-packaging-clear-pvc-pet-retail-display-packaging-guide-2026",
       "verification_note": "Snapshot HTTP 200 and contains MUGE / mugepackaging.com signals."
     },
     {
@@ -58,8 +88,26 @@
     },
     {
       "platform": "SubmitPR",
-      "original_url": "https://submitpr.org/press-release/muge-packaging-clear-pvc-pet-retail-display-packaging-guide-2026",
-      "webarchive_snapshot": "https://web.archive.org/web/20260705051429/https://submitpr.org/press-release/muge-packaging-clear-pvc-pet-retail-display-packaging-guide-2026",
+      "original_url": "https://submitpr.org/press-release/muge-packaging-custom-packaging-rfq-checklist-international-buyers-2026",
+      "webarchive_snapshot": "https://web.archive.org/web/20260617201402/https://submitpr.org/press-release/muge-packaging-custom-packaging-rfq-checklist-international-buyers-2026",
+      "verification_note": "Snapshot HTTP 200 and contains MUGE / mugepackaging.com signals. Source: cdx_existing_snapshot."
+    },
+    {
+      "platform": "SubmitPR",
+      "original_url": "https://submitpr.org/press-release/muge-packaging-europe-custom-packaging-sourcing-guide-2026",
+      "webarchive_snapshot": "https://web.archive.org/web/20260705050949/https://submitpr.org/press-release/muge-packaging-europe-custom-packaging-sourcing-guide-2026",
+      "verification_note": "Snapshot HTTP 200 and contains MUGE / mugepackaging.com signals."
+    },
+    {
+      "platform": "SubmitPR",
+      "original_url": "https://submitpr.org/press-release/muge-packaging-paper-tube-packaging-buyer-guide-2026",
+      "webarchive_snapshot": "https://web.archive.org/web/20260705051255/https://submitpr.org/press-release/muge-packaging-paper-tube-packaging-buyer-guide-2026",
+      "verification_note": "Snapshot HTTP 200 and contains MUGE / mugepackaging.com signals."
+    },
+    {
+      "platform": "SubmitPR",
+      "original_url": "https://submitpr.org/press-release/muge-packaging-rigid-gift-box-sampling-checklist-2026",
+      "webarchive_snapshot": "https://web.archive.org/web/20260705051223/https://submitpr.org/press-release/muge-packaging-rigid-gift-box-sampling-checklist-2026",
       "verification_note": "Snapshot HTTP 200 and contains MUGE / mugepackaging.com signals."
     }
   ],
@@ -69,5 +117,14 @@
     "https://mugepackaging.com/llms.txt",
     "https://mugepackaging.com/llms-full.txt"
   ],
-  "boundary": "These snapshots are third-party timestamp evidence for public brand/entity mention discovery. They are not proof of Google ranking, GSC link recognition, AI recommendation, platform endorsement, verified supplier status, customer cases, fixed production capacity, fixed lead time, fixed pricing, inquiry generation, certification coverage or regulated-market compliance."
+  "boundary": "These snapshots are third-party timestamp evidence for public brand/entity mention discovery. They are not proof of Google ranking, GSC link recognition, AI recommendation, platform endorsement, verified supplier status, customer cases, fixed production capacity, fixed lead time, fixed pricing, inquiry generation, certification coverage or regulated-market compliance.",
+  "failed_after_retry": [
+    {
+      "platform": "SubmitPR",
+      "original_url": "https://submitpr.org/press-release/muge-packaging-cosmetic-packaging-supplier-checklist-2026",
+      "previous_error": "timeout",
+      "retry_error": "This operation was aborted"
+    }
+  ],
+  "retry_note": "2026-07-05 low-frequency retry found or verified 8 additional existing CDX snapshots. One SubmitPR URL still timed out and remains excluded from archived evidence."
 }
