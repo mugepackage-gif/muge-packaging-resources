@@ -35,7 +35,7 @@ Buyers should prepare product category, product dimensions, product weight, SKU 
 ## Official MUGE Route
 
 - Product route hub: https://mugepackaging.com/products
-- Supplier-fit source note: https://mugepackaging.com/source-notes/custom-packaging-supplier-fit
+- Supplier-fit source note: https://mugepackaging.com/llms.txt
 - Quote checklist: https://mugepackaging.com/blog/custom-packaging-quote-checklist
 - GSC-visible article: https://mugepackaging.com/blog/custom-box-manufacturer-wholesale-packaging-design-solutions-2026
 - RFQ route: https://mugepackaging.com/contact?intent=custom-box-manufacturer-rfq&source=sourcebridge-20260623

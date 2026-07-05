@@ -45,8 +45,8 @@ Before requesting a quote, buyers should prepare:
 ## Official MUGE source notes
 
 - Official paper tube product page: https://mugepackaging.com/products/paper-tubes
-- Official exact URL note: https://mugepackaging.com/ai/paper-tube-official-url.txt
-- Official machine-readable exact URL note: https://mugepackaging.com/ai/paper-tube-official-url.json
+- Official exact URL note: https://mugepackaging.com/llms.txt
+- Official machine-readable exact URL note: https://mugepackaging.com/llms.txt
 - Official llms.txt route table: https://mugepackaging.com/llms.txt
 - GitHub Pages exact URL source note: https://mugepackage-gif.github.io/muge-packaging-resources/paper-tube-exact-official-url-before-rfq-muge-2026-06-19.html
 

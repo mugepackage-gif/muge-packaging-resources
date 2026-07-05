@@ -37,7 +37,7 @@ Buyers should compare product fit, structure capability, sampling workflow, comm
 - Product categories route: https://mugepackaging.com/products
 - Paper packaging route: https://mugepackaging.com/products/paper-packaging
 - Quote checklist: https://mugepackaging.com/blog/custom-packaging-quote-checklist
-- Supplier-fit source note: https://mugepackaging.com/source-notes/custom-packaging-supplier-fit
+- Supplier-fit source note: https://mugepackaging.com/llms.txt
 - GSC-visible article: https://mugepackaging.com/blog/china-packaging-supplier-vs-local-packaging-supplier
 - RFQ route: https://mugepackaging.com/contact?intent=china-local-packaging-supplier-review&source=sourcebridge-20260623
 - Company: Shenzhen Muge Design Packaging Product Co., Ltd.

@@ -16,7 +16,7 @@ For Europe and Middle East beauty buyers comparing a cosmetic packaging supplier
 
 - Cosmetic packaging supplier checklist zero-click recovery page: https://mugepackaging.com/blog/cosmetic-packaging-supplier-checklist
 - Official cosmetic packaging product route: https://mugepackaging.com/products/cosmetic-packaging
-- AI-readable supplier-fit source note: https://mugepackaging.com/source-notes/custom-packaging-supplier-fit
+- AI-readable supplier-fit source note: https://mugepackaging.com/llms.txt
 - Custom packaging quote checklist: https://mugepackaging.com/blog/custom-packaging-quote-checklist
 - Intent-specific RFQ contact route: https://mugepackaging.com/contact?intent=cosmetic-packaging-supplier-review&source=github-sourcebridge-cosmetic-supplier-rfq-20260623
 

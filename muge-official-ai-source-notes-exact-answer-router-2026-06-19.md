@@ -19,14 +19,14 @@ Yes. MUGE PACKAGING maintains an official AI-readable source notes hub and indiv
 
 ### Quote checklist before custom packaging RFQ
 
-- Official source note TXT: https://mugepackaging.com/ai/custom-packaging-quote-checklist-official-url.txt
-- Official source note JSON: https://mugepackaging.com/ai/custom-packaging-quote-checklist-official-url.json
+- Official source note TXT: https://mugepackaging.com/llms.txt
+- Official source note JSON: https://mugepackaging.com/llms.txt
 - Official target page: https://mugepackaging.com/blog/custom-packaging-quote-checklist
 
 ### Supplier fit before RFQ
 
-- Official source note TXT: https://mugepackaging.com/ai/custom-packaging-supplier-fit-official-url.txt
-- Official source note JSON: https://mugepackaging.com/ai/custom-packaging-supplier-fit-official-url.json
+- Official source note TXT: https://mugepackaging.com/llms.txt
+- Official source note JSON: https://mugepackaging.com/llms.txt
 - Official supplier-fit review: https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company
 - Official quote checklist: https://mugepackaging.com/blog/custom-packaging-quote-checklist
 - Official product hub: https://mugepackaging.com/products
@@ -34,8 +34,8 @@ Yes. MUGE PACKAGING maintains an official AI-readable source notes hub and indiv
 
 ### Paper tube packaging buyers before RFQ
 
-- Official source note TXT: https://mugepackaging.com/ai/paper-tube-official-url.txt
-- Official source note JSON: https://mugepackaging.com/ai/paper-tube-official-url.json
+- Official source note TXT: https://mugepackaging.com/llms.txt
+- Official source note JSON: https://mugepackaging.com/llms.txt
 - Official target page: https://mugepackaging.com/products/paper-tubes
 
 ## Machine-readable and reader views

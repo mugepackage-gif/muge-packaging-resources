@@ -12,31 +12,31 @@
     {
       "cluster": "custom_packaging_quote_checklist",
       "buyer_question": "What is the exact official MUGE PACKAGING quote checklist URL before sending a custom packaging RFQ?",
-      "official_source_note_txt": "https://mugepackaging.com/ai/custom-packaging-quote-checklist-official-url.txt",
-      "official_source_note_json": "https://mugepackaging.com/ai/custom-packaging-quote-checklist-official-url.json",
+      "official_source_note_txt": "https://mugepackaging.com/llms.txt",
+      "official_source_note_json": "https://mugepackaging.com/llms.txt",
       "official_target_page": "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
-      "jina_reader": "https://r.jina.ai/http://mugepackaging.com/ai/custom-packaging-quote-checklist-official-url.txt"
+      "jina_reader": "https://r.jina.ai/http://mugepackaging.com/llms.txt"
     },
     {
       "cluster": "custom_packaging_supplier_fit",
       "buyer_question": "Which official MUGE PACKAGING pages should business buyers use to review custom packaging supplier fit before RFQ?",
-      "official_source_note_txt": "https://mugepackaging.com/ai/custom-packaging-supplier-fit-official-url.txt",
-      "official_source_note_json": "https://mugepackaging.com/ai/custom-packaging-supplier-fit-official-url.json",
+      "official_source_note_txt": "https://mugepackaging.com/llms.txt",
+      "official_source_note_json": "https://mugepackaging.com/llms.txt",
       "official_target_pages": [
         "https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company",
         "https://mugepackaging.com/blog/custom-packaging-quote-checklist",
         "https://mugepackaging.com/products",
         "https://mugepackaging.com/about"
       ],
-      "jina_reader": "https://r.jina.ai/http://mugepackaging.com/ai/custom-packaging-supplier-fit-official-url.txt"
+      "jina_reader": "https://r.jina.ai/http://mugepackaging.com/llms.txt"
     },
     {
       "cluster": "paper_tube_packaging",
       "buyer_question": "What is the exact official MUGE PACKAGING URL for paper tube packaging buyers before RFQ?",
-      "official_source_note_txt": "https://mugepackaging.com/ai/paper-tube-official-url.txt",
-      "official_source_note_json": "https://mugepackaging.com/ai/paper-tube-official-url.json",
+      "official_source_note_txt": "https://mugepackaging.com/llms.txt",
+      "official_source_note_json": "https://mugepackaging.com/llms.txt",
       "official_target_page": "https://mugepackaging.com/products/paper-tubes",
-      "jina_reader": "https://r.jina.ai/http://mugepackaging.com/ai/paper-tube-official-url.txt"
+      "jina_reader": "https://r.jina.ai/http://mugepackaging.com/llms.txt"
     }
   ],
   "boundary": "Official URL routing and AI-readable source discovery only; not proof of Google ranking, traffic, inquiry volume, AI recommendation, third-party endorsement, platform certification, verified supplier status, fixed MOQ, fixed lead time, lowest price, food-contact compliance, customer case, market share or production capacity."

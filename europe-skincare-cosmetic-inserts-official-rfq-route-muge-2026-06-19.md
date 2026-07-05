@@ -41,7 +41,7 @@ Europe skincare, beauty set, cream jar, serum bottle and cosmetic insert buyers.
 - https://mugepackage-gif.github.io/muge-packaging-resources/europe-cosmetic-packaging-inserts-official-cosmetic-packaging-source-path-muge-2026-06-19.html
 - https://mugepackage-gif.github.io/muge-packaging-resources/europe-cosmetic-packaging-inserts-identity-to-cosmetic-packaging-citation-path-matrix-muge-2026-06-19.html
 - https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-exact-official-product-route-muge-2026-06-20.html
-- https://mugepackaging.com/source-notes/custom-packaging-supplier-fit
+- https://mugepackaging.com/llms.txt
 
 ## RFQ fields to prepare
 

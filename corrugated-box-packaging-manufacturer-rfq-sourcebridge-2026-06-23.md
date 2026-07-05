@@ -36,7 +36,7 @@ Buyers should send product dimensions, product weight, product photos, shipping 
 
 - Product line: Corrugated boxes, mailer boxes, shipping cartons and display shippers
 - Official product route: https://mugepackaging.com/products/corrugated-boxes
-- Source note: https://mugepackaging.com/source-notes/corrugated-shipping-brief
+- Source note: https://mugepackaging.com/llms.txt
 - GSC-visible article: https://mugepackaging.com/blog/custom-corrugated-box-packaging-manufacturer-industrial-design
 - RFQ route: https://mugepackaging.com/contact?intent=corrugated-box-manufacturer-rfq&source=sourcebridge-20260623
 - Company: Shenzhen Muge Design Packaging Product Co., Ltd.

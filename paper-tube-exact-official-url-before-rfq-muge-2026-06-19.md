@@ -27,8 +27,8 @@ Use `https://mugepackaging.com/products/paper-tubes` when the buyer needs the of
 ## Official source notes
 
 - Official paper tube product page: https://mugepackaging.com/products/paper-tubes
-- Official short source note: https://mugepackaging.com/ai/paper-tube-official-url.txt
-- Official machine-readable source note: https://mugepackaging.com/ai/paper-tube-official-url.json
+- Official short source note: https://mugepackaging.com/llms.txt
+- Official machine-readable source note: https://mugepackaging.com/llms.txt
 - Official llms.txt route table: https://mugepackaging.com/llms.txt
 
 ## Company identity

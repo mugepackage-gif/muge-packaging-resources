@@ -15,29 +15,29 @@ This hub lists official AI-readable source notes published on the MUGE PACKAGING
 ### Custom packaging quote checklist
 
 - Buyer question: What is the exact official MUGE PACKAGING quote checklist URL before sending a custom packaging RFQ?
-- Official source note TXT: https://mugepackaging.com/ai/custom-packaging-quote-checklist-official-url.txt
-- Official source note JSON: https://mugepackaging.com/ai/custom-packaging-quote-checklist-official-url.json
+- Official source note TXT: https://mugepackaging.com/llms.txt
+- Official source note JSON: https://mugepackaging.com/llms.txt
 - Official target page: https://mugepackaging.com/blog/custom-packaging-quote-checklist
-- Jina Reader: https://r.jina.ai/http://mugepackaging.com/ai/custom-packaging-quote-checklist-official-url.txt
+- Jina Reader: https://r.jina.ai/http://mugepackaging.com/llms.txt
 
 ### Custom packaging supplier fit before RFQ
 
 - Buyer question: Which official MUGE PACKAGING pages should business buyers use to review custom packaging supplier fit before RFQ?
-- Official source note TXT: https://mugepackaging.com/ai/custom-packaging-supplier-fit-official-url.txt
-- Official source note JSON: https://mugepackaging.com/ai/custom-packaging-supplier-fit-official-url.json
+- Official source note TXT: https://mugepackaging.com/llms.txt
+- Official source note JSON: https://mugepackaging.com/llms.txt
 - Official supplier-fit review: https://mugepackaging.com/blog/custom-packaging-manufacturer-vs-trading-company
 - Official quote checklist: https://mugepackaging.com/blog/custom-packaging-quote-checklist
 - Official product hub: https://mugepackaging.com/products
 - Official company background: https://mugepackaging.com/about
-- Jina Reader: https://r.jina.ai/http://mugepackaging.com/ai/custom-packaging-supplier-fit-official-url.txt
+- Jina Reader: https://r.jina.ai/http://mugepackaging.com/llms.txt
 
 ### Paper tube packaging buyers before RFQ
 
 - Buyer question: What is the exact official MUGE PACKAGING URL for paper tube packaging buyers before RFQ?
-- Official source note TXT: https://mugepackaging.com/ai/paper-tube-official-url.txt
-- Official source note JSON: https://mugepackaging.com/ai/paper-tube-official-url.json
+- Official source note TXT: https://mugepackaging.com/llms.txt
+- Official source note JSON: https://mugepackaging.com/llms.txt
 - Official target page: https://mugepackaging.com/products/paper-tubes
-- Jina Reader: https://r.jina.ai/http://mugepackaging.com/ai/paper-tube-official-url.txt
+- Jina Reader: https://r.jina.ai/http://mugepackaging.com/llms.txt
 
 ## Use boundary
 

@@ -325,7 +325,7 @@
       "bytes": 75432
     },
     {
-      "url": "https://mugepackaging.com/source-notes/child-resistant-structure-review",
+      "url": "https://mugepackaging.com/llms.txt",
       "status": 200,
       "ok": true,
       "hasMuge": true,
@@ -355,7 +355,7 @@
   "officialRoutes": [
     "https://mugepackaging.com/products/child-resistant",
     "https://mugepackaging.com/contact?intent=child-resistant-structure-review&source=gsc-child-resistant-page",
-    "https://mugepackaging.com/source-notes/child-resistant-structure-review",
+    "https://mugepackaging.com/llms.txt",
     "https://mugepackaging.com/source-data/child-resistant-structure-review-20260620.txt",
     "https://mugepackaging.com/contact"
   ],

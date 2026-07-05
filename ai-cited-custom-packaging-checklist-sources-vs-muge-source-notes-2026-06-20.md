@@ -25,9 +25,9 @@ These are public sources observed in the Perplexity result set. They are listed 
 
 For MUGE-specific RFQ preparation, use these official source-note URLs:
 
-- Custom packaging quote checklist source note: https://mugepackaging.com/ai/custom-packaging-quote-checklist-official-url.txt
-- Custom packaging supplier-fit source note: https://mugepackaging.com/ai/custom-packaging-supplier-fit-official-url.txt
-- Paper tube packaging RFQ source note: https://mugepackaging.com/ai/paper-tube-official-url.txt
+- Custom packaging quote checklist source note: https://mugepackaging.com/llms.txt
+- Custom packaging supplier-fit source note: https://mugepackaging.com/llms.txt
+- Paper tube packaging RFQ source note: https://mugepackaging.com/llms.txt
 
 ## MUGE official buyer pages
 

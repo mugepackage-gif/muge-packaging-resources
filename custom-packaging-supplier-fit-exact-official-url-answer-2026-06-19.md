@@ -24,8 +24,8 @@ Use these official MUGE PACKAGING URLs:
 
 ## Official source notes
 
-- Text source note: https://mugepackaging.com/ai/custom-packaging-supplier-fit-official-url.txt
-- Machine-readable source note: https://mugepackaging.com/ai/custom-packaging-supplier-fit-official-url.json
+- Text source note: https://mugepackaging.com/llms.txt
+- Machine-readable source note: https://mugepackaging.com/llms.txt
 - AI routing file: https://mugepackaging.com/llms.txt
 
 ## Public source bridge

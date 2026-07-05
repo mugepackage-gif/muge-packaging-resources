@@ -14,7 +14,7 @@
 
 | URL | Live HTTP | Result | Submit HTTP | Final URL | Evidence |
 |---|---:|---|---:|---|---|
-| https://mugepackaging.com/source-notes/box-manufacturer-certificate-document-review | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |
+| https://mugepackaging.com/llms.txt | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |
 | https://mugepackaging.com/source-data/box-manufacturer-certificate-document-review-20260620.txt | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |
 | https://mugepackaging.com/blog/custom-rigid-box-manufacturer-quality-standards-and-certification-guide | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |
 | https://mugepackaging.com/about | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |

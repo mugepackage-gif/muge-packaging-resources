@@ -46,7 +46,7 @@ Start by identifying the product family, then prepare the practical RFQ inputs. 
 - Custom printed paper packaging boxes SourceBridge: <https://mugepackage-gif.github.io/muge-packaging-resources/custom-printed-paper-packaging-boxes-gsc-zero-click-rfq-sourcebridge-2026-06-24-0405.html>
 - AI-readable mirror: <https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/custom-printed-paper-packaging-boxes-gsc-zero-click-rfq-sourcebridge-2026-06-24-0405.html>
 - Paper packaging RFQ specification matrix: <https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-rfq-specification-matrix-europe-middle-east-2026-06-23.html>
-- Official paper packaging exact-route SourceNote: <https://mugepackaging.com/source-notes/paper-packaging-exact-route>
+- Official paper packaging exact-route SourceNote: <https://mugepackaging.com/llms.txt>
 
 ## Boundary
 

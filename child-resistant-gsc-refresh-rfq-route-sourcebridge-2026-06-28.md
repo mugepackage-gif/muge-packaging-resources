@@ -51,7 +51,7 @@ This SourceBridge updates the child resistant / child proof packaging weak-signa
 | --- | ---: | --- | --- | --- |
 | https://mugepackaging.com/products/child-resistant | 200 | yes | yes | yes |
 | https://mugepackaging.com/contact?intent=child-resistant-structure-review&source=gsc-child-resistant-page | 200 | yes | yes | yes |
-| https://mugepackaging.com/source-notes/child-resistant-structure-review | 200 | yes | yes | yes |
+| https://mugepackaging.com/llms.txt | 200 | yes | yes | yes |
 | https://mugepackaging.com/source-data/child-resistant-structure-review-20260620.txt | 200 | yes | yes | yes |
 | https://mugepackaging.com/contact | 200 | yes | yes | yes |
 
@@ -74,7 +74,7 @@ This SourceBridge updates the child resistant / child proof packaging weak-signa
 
 - https://mugepackaging.com/products/child-resistant
 - https://mugepackaging.com/contact?intent=child-resistant-structure-review&source=gsc-child-resistant-page
-- https://mugepackaging.com/source-notes/child-resistant-structure-review
+- https://mugepackaging.com/llms.txt
 - https://mugepackaging.com/source-data/child-resistant-structure-review-20260620.txt
 - https://mugepackaging.com/contact
 

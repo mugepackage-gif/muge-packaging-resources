@@ -14,7 +14,7 @@
 
 | URL | Live HTTP | Result | Submit HTTP | Final URL | Evidence |
 |---|---:|---|---:|---|---|
-| https://mugepackaging.com/source-notes/apparel-packaging-brief | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |
+| https://mugepackaging.com/llms.txt | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |
 | https://mugepackaging.com/source-data/apparel-packaging-brief-20260620.txt | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |
 | https://mugepackaging.com/industries/apparel | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |
 | https://mugepackaging.com/products/paper-packaging | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |

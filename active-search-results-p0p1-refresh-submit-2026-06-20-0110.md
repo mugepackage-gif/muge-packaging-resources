@@ -14,7 +14,7 @@
 
 | URL | Live HTTP | Result | Submit HTTP | Final URL | Evidence |
 |---|---:|---|---:|---|---|
-| https://mugepackaging.com/source-notes/box-size-rfq-brief | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |
+| https://mugepackaging.com/llms.txt | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |
 | https://mugepackaging.com/source-data/box-size-rfq-brief-20260620.txt | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |
 | https://mugepackaging.com/blog/box-size-finder | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |
 | https://mugepackaging.com/quote-calculator | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |

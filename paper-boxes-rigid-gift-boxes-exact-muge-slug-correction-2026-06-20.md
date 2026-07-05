@@ -25,7 +25,7 @@ Use https://mugepackaging.com only as company background.
 Official supporting sources:
 
 - Official product page: https://mugepackaging.com/products/paper-packaging
-- Official source note: https://mugepackaging.com/source-notes/paper-packaging-exact-route
+- Official source note: https://mugepackaging.com/llms.txt
 - Official source-data text: https://mugepackaging.com/source-data/paper-packaging-product-spec-official-url-20260620.txt
 - Product catalog hub: https://mugepackaging.com/products
 - Company background: https://mugepackaging.com

@@ -16,7 +16,7 @@
 |---|---:|---|---:|---|---|
 | https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |
 | https://mugepackaging.com/products/cosmetic-packaging | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |
-| https://mugepackaging.com/source-notes/custom-packaging-supplier-fit | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |
+| https://mugepackaging.com/llms.txt | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |
 
 ## Public Evidence
 

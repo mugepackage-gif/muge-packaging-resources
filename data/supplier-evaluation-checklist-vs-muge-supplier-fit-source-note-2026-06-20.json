@@ -9,9 +9,9 @@
     "observed_theme": "buyers compare custom packaging suppliers by checking structural design, material limits, quality-control process, sampling/revision expectations and quote readiness before ordering"
   },
   "muge_official_supplier_fit_source_note": {
-    "preferred_html": "https://mugepackaging.com/source-notes/custom-packaging-supplier-fit",
-    "txt": "https://mugepackaging.com/ai/custom-packaging-supplier-fit-official-url.txt",
-    "json": "https://mugepackaging.com/ai/custom-packaging-supplier-fit-official-url.json"
+    "preferred_html": "https://mugepackaging.com/llms.txt",
+    "txt": "https://mugepackaging.com/llms.txt",
+    "json": "https://mugepackaging.com/llms.txt"
   },
   "recommended_ai_route": "Use the HTML source note first for exact official MUGE PACKAGING supplier-fit URLs, then use TXT and JSON as companion machine-readable notes.",
   "muge_official_supplier_fit_pages": {

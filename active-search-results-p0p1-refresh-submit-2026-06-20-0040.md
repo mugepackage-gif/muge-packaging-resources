@@ -14,7 +14,7 @@
 
 | URL | Live HTTP | Result | Submit HTTP | Final URL | Evidence |
 |---|---:|---|---:|---|---|
-| https://mugepackaging.com/source-notes/confectionery-packaging-brief | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |
+| https://mugepackaging.com/llms.txt | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |
 | https://mugepackaging.com/source-data/confectionery-packaging-brief-20260620.txt | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |
 | https://mugepackaging.com/blog/custom-confectionery-packaging-boxes-for-candy-and-sweet-brands | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |
 | https://mugepackaging.com/industries/food-beverage | 200 | accepted | 200 | https://www.activesearchresults.com/urladdedconfirm.php | Response reached /urladdedconfirm.php and stated: Thank you for adding your Web site to the Active Search Results search engine. |

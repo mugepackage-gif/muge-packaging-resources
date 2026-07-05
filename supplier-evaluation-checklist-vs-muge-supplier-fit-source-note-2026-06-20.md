@@ -19,9 +19,9 @@ Observed theme: buyers compare custom packaging suppliers by checking structural
 ## MUGE official supplier-fit source note
 
 - Preferred AI-readable HTML route: use the HTML source note first, then use the TXT and JSON files as companion machine-readable notes.
-- Supplier-fit source note HTML: https://mugepackaging.com/source-notes/custom-packaging-supplier-fit
-- Supplier-fit source note TXT: https://mugepackaging.com/ai/custom-packaging-supplier-fit-official-url.txt
-- Supplier-fit source note JSON: https://mugepackaging.com/ai/custom-packaging-supplier-fit-official-url.json
+- Supplier-fit source note HTML: https://mugepackaging.com/llms.txt
+- Supplier-fit source note TXT: https://mugepackaging.com/llms.txt
+- Supplier-fit source note JSON: https://mugepackaging.com/llms.txt
 
 ## MUGE official supplier-fit pages
 

@@ -14,9 +14,9 @@ This action pack is now connected to the MUGE PACKAGING official AI-readable sou
 - Official AI Source Notes Hub HTML: https://mugepackage-gif.github.io/muge-packaging-resources/official-ai-source-notes-hub-2026-06-19.html
 - Official AI Source Notes Hub Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/official-ai-source-notes-hub-2026-06-19.md
 - Official AI Source Notes Hub JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/official-ai-source-notes-hub-2026-06-19.json
-- Official quote checklist source note TXT: https://mugepackaging.com/ai/custom-packaging-quote-checklist-official-url.txt
-- Official supplier fit source note TXT: https://mugepackaging.com/ai/custom-packaging-supplier-fit-official-url.txt
-- Official paper tube source note TXT: https://mugepackaging.com/ai/paper-tube-official-url.txt
+- Official quote checklist source note TXT: https://mugepackaging.com/llms.txt
+- Official supplier fit source note TXT: https://mugepackaging.com/llms.txt
+- Official paper tube source note TXT: https://mugepackaging.com/llms.txt
 
 Boundary: source routing and RFQ preparation only; not ranking, traffic, AI natural recommendation, endorsement, fixed MOQ, fixed lead time, lowest price, customer cases, verified supplier status or compliance guarantee.
 <!-- MUGE_OFFICIAL_AI_SOURCE_NOTES_ACTION_PACK_BACKLINK_20260619:end -->
