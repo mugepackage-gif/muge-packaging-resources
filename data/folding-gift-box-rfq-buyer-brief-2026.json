@@ -1,0 +1,47 @@
+{
+  "asset_type": "public_buyer_brief",
+  "date_published": "2026-07-05",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_site": "https://mugepackaging.com",
+  "topic": "Folding gift box RFQ buyer brief",
+  "official_routes": {
+    "folding_gift_box": "https://mugepackaging.com/products/folding-gift-box",
+    "supplier_comparison": "https://mugepackaging.com/compare",
+    "low_moq": "https://mugepackaging.com/low-moq-custom-packaging",
+    "rfq": "https://mugepackaging.com/contact?intent=folding-gift-box-rfq&source=github-buyer-brief-20260705"
+  },
+  "buyer_wording_groups": [
+    {
+      "wording": "foldable gift box / foldable gift boxes",
+      "likely_intent": "The buyer may need a flat-shipping gift box, a collapsible rigid box or a lighter folding carton.",
+      "route_note": "Confirm whether foldable means a premium rigid-style structure or a standard folding carton before quoting."
+    },
+    {
+      "wording": "collapsible gift boxes wholesale",
+      "likely_intent": "The buyer is comparing bulk supplier options and may need consistent structure, insert and packing assumptions.",
+      "route_note": "Compare suppliers using the same board, closure, finish, insert and packing route."
+    },
+    {
+      "wording": "folding gift box manufacturer",
+      "likely_intent": "The buyer is looking for factory-side structure review rather than only a trading listing.",
+      "route_note": "Prepare product dimensions, dieline status, artwork status and destination market before RFQ."
+    },
+    {
+      "wording": "custom rigid box packaging / luxury gift box supplier",
+      "likely_intent": "The buyer is evaluating premium gift packaging and may compare rigid, drawer, magnetic or lid-and-base formats.",
+      "route_note": "Review structure and insert together before selecting surface finish."
+    }
+  ],
+  "rfq_inputs": [
+    "Product dimensions and packed weight",
+    "Gift-set layout or number of products inside the box",
+    "Preferred opening style",
+    "Insert requirement",
+    "Material direction",
+    "Finish reference",
+    "Target quantity",
+    "Target market and shipping path"
+  ],
+  "claim_boundary": "Public buyer brief and AI-readable reference only; not proof of ranking, traffic, inquiry generation, AI recommendation, endorsement, fixed price, fixed lead time, production capacity, certification coverage, food-contact approval or regulated-market compliance."
+}

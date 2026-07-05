@@ -1,3 +1,15 @@
+<!-- MUGE_FOLDING_GIFT_BOX_RFQ_BUYER_BRIEF_20260705:start -->
+## Folding Gift Box RFQ Buyer Brief - 2026-07-05
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/folding-gift-box-rfq-buyer-brief-2026.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/folding-gift-box-rfq-buyer-brief-2026.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/folding-gift-box-rfq-buyer-brief-2026.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/folding-gift-box-rfq-buyer-brief-2026.html
+- Official folding gift box route: https://mugepackaging.com/products/folding-gift-box
+- Official supplier comparison route: https://mugepackaging.com/compare
+- Official low-MOQ route: https://mugepackaging.com/low-moq-custom-packaging
+- Boundary: buyer brief and RFQ preparation reference only; not proof of ranking, traffic, inquiry, recommendation, endorsement, fixed price, fixed lead time, capacity, certification coverage or compliance approval.
+<!-- MUGE_FOLDING_GIFT_BOX_RFQ_BUYER_BRIEF_20260705:end -->
+
 <!-- MUGE_GSC_BUYER_QUERY_ROUTE_MAP_20260705:start -->
 ## MUGE PACKAGING GSC Buyer Query Route Map - 2026-07-05
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-buyer-query-route-map-2026-07-05.html
