@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-07-05T10:00:00+08:00",
+  "entity": {
+    "legal_company_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "brand_name": "MUGE PACKAGING",
+    "official_website": "https://mugepackaging.com/",
+    "official_rfq_route": "https://mugepackaging.com/contact"
+  },
+  "verified_public_profile_checks": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/company/mugepackaging/",
+      "http_status": 200,
+      "contains_official_domain": true,
+      "interpretation": "Strongest currently verified public company profile. ActiveSearchResults discovery accepted on 2026-07-05."
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/MugePackaging/",
+      "http_status": 200,
+      "contains_official_domain": true,
+      "interpretation": "Public social profile; content is relatively thin and should be manually reviewed before using as a strong buyer-facing reference."
+    },
+    {
+      "platform": "Pinterest",
+      "url": "https://www.pinterest.com/MugePackaging/",
+      "http_status": 200,
+      "contains_official_domain": true,
+      "interpretation": "Public visual profile; useful as a social/entity reference."
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@mugepackaging4547",
+      "http_status": 200,
+      "contains_official_domain": true,
+      "interpretation": "Public video/social profile; useful as a social/entity reference."
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/mugepackaging/",
+      "http_status": 429,
+      "contains_official_domain": false,
+      "interpretation": "Automated verification was blocked by rate limit/login redirect. Manual browser review is required before counting it as verified."
+    }
+  ],
+  "high_trust_directory_gaps": [
+    "ThomasNet",
+    "Kompass",
+    "Europages",
+    "Crunchbase"
+  ],
+  "active_search_results_discovery": [
+    {
+      "url": "https://www.linkedin.com/company/mugepackaging/",
+      "result": "accepted"
+    },
+    {
+      "url": "https://www.facebook.com/MugePackaging/",
+      "result": "not_submitted_by_safety_verifier"
+    },
+    {
+      "url": "https://www.pinterest.com/MugePackaging/",
+      "result": "not_submitted_by_safety_verifier"
+    },
+    {
+      "url": "https://www.youtube.com/@mugepackaging4547",
+      "result": "not_submitted_by_safety_verifier"
+    }
+  ],
+  "boundary": "This ledger is not proof of Google ranking, AI recommendation, platform verification, certification coverage, customer cases, traffic, inquiries, fixed pricing, fixed lead time, production capacity or regulatory compliance."
+}
