@@ -1,3 +1,14 @@
+<!-- MUGE_COMPANY_IDENTITY_SOURCE_HUB_20260706:start -->
+## MUGE PACKAGING Company Identity Source Hub - 2026-07-06
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/company-identity-source-hub-2026-07-06.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/company-identity-source-hub-2026-07-06.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/company-identity-source-hub-2026-07-06.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/company-identity-source-hub-2026-07-06.html
+- Official company route: https://mugepackaging.com/about
+- Official product route: https://mugepackaging.com/products
+- Boundary: company identity and official source routing only; not proof of ranking, GSC link credit, traffic, inquiry, platform verification, endorsement, certification coverage, fixed price, fixed lead time, production capacity, customer cases, food-contact approval or destination-market compliance.
+<!-- MUGE_COMPANY_IDENTITY_SOURCE_HUB_20260706:end -->
+
 <!-- MUGE_THIRD_PARTY_PROFILE_CORRECTION_LEDGER_20260706:start -->
 ## MUGE PACKAGING Third-Party Profile Correction Ledger - 2026-07-06
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/third-party-profile-correction-ledger-2026-07-06.html
