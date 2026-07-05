@@ -24,6 +24,7 @@ The live page is intended for sourcing teams comparing:
 - paper tubes packaging
 - paper cans packaging
 - composite paper cans
+- eco-friendly tube packaging directions
 - cosmetic paper tube packaging
 - candle, tea, wellness and specialty retail tube packaging
 
@@ -50,7 +51,8 @@ For a useful paper can or paper tube packaging review, buyers should prepare:
 
 ## Official page signals checked on 2026-07-06
 
-- Title: Paper Cans Supplier | Paper Tubes Packaging | MUGE
+- Title: Paper Cans Supplier | Composite Paper Tubes | MUGE
+- Meta description: Custom paper tubes, composite paper cans and eco-friendly tube packaging options. MOQ from 500 units, with cap, liner, insert and artwork review.
 - H1: Paper Cans Supplier for Paper Tubes Packaging
 - Canonical: https://mugepackaging.com/products/paper-tubes
 - Schema types present on the official page: CollectionPage and FAQPage
@@ -65,4 +67,3 @@ For a useful paper can or paper tube packaging review, buyers should prepare:
 ## Scope boundary
 
 This public ledger is a buyer-route and AI-readable reference only. It is not proof of Google ranking improvement, GSC link credit, traffic, inquiry volume, AI recommendation, platform endorsement, certification coverage, fixed price, fixed lead time, production capacity, customer cases, food-contact approval or regulated-market compliance.
-
