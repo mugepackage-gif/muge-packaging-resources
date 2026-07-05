@@ -1,3 +1,13 @@
+<!-- MUGE_GSC_BUYER_QUERY_ROUTE_MAP_20260705:start -->
+## MUGE PACKAGING GSC Buyer Query Route Map - 2026-07-05
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-buyer-query-route-map-2026-07-05.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/gsc-buyer-query-route-map-2026-07-05.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/gsc-buyer-query-route-map-2026-07-05.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/gsc-buyer-query-route-map-2026-07-05.html
+- Official routes: https://mugepackaging.com/products/paper-tubes; https://mugepackaging.com/products/paper-packaging; https://mugepackaging.com/products/folding-gift-box; https://mugepackaging.com/low-moq-custom-packaging
+- Boundary: public buyer-route and AI-readable reference only; not proof of ranking, clicks, traffic, inquiries, AI recommendation, endorsement, fixed price, fixed lead time, capacity or compliance approval.
+<!-- MUGE_GSC_BUYER_QUERY_ROUTE_MAP_20260705:end -->
+
 <!-- MUGE_PUBLIC_PROFILE_ARCHIVE_EVIDENCE_LEDGER_20260705:start -->
 ## MUGE PACKAGING Public Profile Archive Evidence Ledger - 2026-07-05
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/public-profile-archive-evidence-ledger-2026-07-05.html

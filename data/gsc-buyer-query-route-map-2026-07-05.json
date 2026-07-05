@@ -1,0 +1,111 @@
+{
+  "title": "MUGE PACKAGING GSC Buyer Query Route Map - 2026-07-05",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "official_site": "https://mugepackaging.com",
+  "date": "2026-07-05",
+  "asset_type": "public_buyer_route_reference",
+  "purpose": "Route buyer wording observed in recent Google Search Console query data to the correct official MUGE PACKAGING pages before RFQ preparation.",
+  "official_routes": {
+    "products_hub": "https://mugepackaging.com/products",
+    "rfq_route": "https://mugepackaging.com/contact",
+    "supplier_comparison": "https://mugepackaging.com/compare"
+  },
+  "buyer_query_groups": [
+    {
+      "group": "Paper cans and paper tube packaging",
+      "observed_wording_examples": [
+        "paper cans supplier",
+        "paper cans packaging",
+        "paper tubes packaging",
+        "custom paper tube",
+        "composite paper cans"
+      ],
+      "official_route": "https://mugepackaging.com/products/paper-tubes",
+      "buyer_brief_fields": [
+        "tube diameter",
+        "height",
+        "cap style",
+        "product weight",
+        "material direction",
+        "finish reference",
+        "target quantity"
+      ]
+    },
+    {
+      "group": "Custom paper boxes and paper packaging",
+      "observed_wording_examples": [
+        "custom printed paper packaging boxes",
+        "paper packaging box",
+        "paper box packaging",
+        "paper box supplier",
+        "premium paper box"
+      ],
+      "official_route": "https://mugepackaging.com/products/paper-packaging",
+      "buyer_brief_fields": [
+        "product dimensions",
+        "box style",
+        "board direction",
+        "print coverage",
+        "insert requirement",
+        "sales channel"
+      ]
+    },
+    {
+      "group": "Foldable and collapsible gift boxes",
+      "observed_wording_examples": [
+        "foldable gift box",
+        "foldable gift boxes",
+        "collapsible gift boxes wholesale",
+        "folding gift box manufacturer",
+        "folding gift box wholesale"
+      ],
+      "official_route": "https://mugepackaging.com/products/folding-gift-box",
+      "buyer_brief_fields": [
+        "gift-set layout",
+        "opening style",
+        "magnetic closure need",
+        "insert plan",
+        "surface finish",
+        "packing volume",
+        "target quantity"
+      ]
+    },
+    {
+      "group": "Low-MOQ custom packaging",
+      "observed_wording_examples": [
+        "custom packaging",
+        "low-MOQ custom packaging",
+        "custom packaging from 500 units"
+      ],
+      "official_route": "https://mugepackaging.com/low-moq-custom-packaging",
+      "buyer_brief_fields": [
+        "product size",
+        "quantity target",
+        "material preference",
+        "artwork status",
+        "launch or repeat order context"
+      ]
+    },
+    {
+      "group": "Cosmetic packaging and beauty boxes",
+      "observed_wording_examples": [
+        "custom cosmetic packaging",
+        "cosmetic packaging supplier",
+        "beauty packaging",
+        "skincare packaging boxes"
+      ],
+      "official_route": "https://mugepackaging.com/products/cosmetic-packaging",
+      "buyer_brief_fields": [
+        "product type",
+        "jar or bottle size",
+        "set layout",
+        "insert need",
+        "retail channel",
+        "finish reference",
+        "document questions"
+      ]
+    }
+  ],
+  "claim_boundary": "Public buyer-route and AI-readable reference only; not proof of Google ranking, GSC click growth, traffic, inquiry generation, AI natural recommendation, third-party endorsement, platform verification, customer cases, fixed price, fixed lead time, production capacity, food-contact approval or regulated-market compliance."
+}
