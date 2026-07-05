@@ -45,6 +45,7 @@ Shenzhen-based custom packaging manufacturer for paper boxes, rigid gift boxes, 
 
 ## Buyer decision resources
 
+- [Money-page zero-click live acceptance matrix](https://mugepackage-gif.github.io/muge-packaging-resources/money-page-zero-click-live-acceptance-matrix-2026-07-05.md) — Live acceptance matrix for paper packaging, paper tubes and folding gift box pages with GSC impressions but zero clicks.
 - [Official buyer route index](https://mugepackage-gif.github.io/muge-packaging-resources/official-buyer-route-index.html) — Clean route index for official buyer pages and llms routes.
 - [Public profile verification ledger](https://mugepackage-gif.github.io/muge-packaging-resources/public-profile-verification-ledger-2026-07-05.md) — Reachability and official-domain verification ledger for MUGE PACKAGING public profile URLs and high-trust directory gaps.
 - [Public profile verification ledger Internet Archive snapshot](https://web.archive.org/web/20260705021527/https://mugepackage-gif.github.io/muge-packaging-resources/public-profile-verification-ledger-2026-07-05.html) — Third-party timestamped copy of the public profile verification ledger.
