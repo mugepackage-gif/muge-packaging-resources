@@ -1,3 +1,10 @@
+<!-- MUGE_RENTRY_MIRROR_PRODUCT_MONEY_PAGES_QUALITY_LEDGER_20260618:start -->
+## 产品钱页质量Ledger Rentry Mirror - 2026-07-05 20:04:41
+- Rentry: https://rentry.co/muge-product-money-pages-quality-ledger-20260705-2004
+- Jina: https://r.jina.ai/http://rentry.co/muge-product-money-pages-quality-ledger-20260705-2004?v=20260705-2004
+- Boundary: third-party readable mirror only; not ranking, traffic, AI natural recommendation, inquiry or endorsement proof.
+<!-- MUGE_RENTRY_MIRROR_PRODUCT_MONEY_PAGES_QUALITY_LEDGER_20260618:end -->
+
 <!-- MUGE_PRODUCT_MONEY_PAGES_QUALITY_LEDGER_20260705:start -->
 ## MUGE PACKAGING Product Money Pages Quality/Readability Ledger - 2026-07-05
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/product-money-pages-quality-readable-ledger-2026-07-05.html
