@@ -41,6 +41,7 @@ Shenzhen-based custom packaging manufacturer for paper boxes, rigid gift boxes, 
 - [Tech in Asia company page](https://www.techinasia.com/companies/muge-packaging-1) — Third-party company profile reference.
 - [Third-party brand mention verification ledger](https://mugepackage-gif.github.io/muge-packaging-resources/third-party-brand-mention-verification-ledger-2026-07-05.md) — 18 verified third-party pages containing official-domain and MUGE PACKAGING brand signals.
 - [External search candidate verification ledger](https://mugepackage-gif.github.io/muge-packaging-resources/external-search-candidate-verification-ledger-2026-07-05.md) — Fallback public-search candidate ledger separating usable public URLs from login, challenge and error-page false positives.
+- [High-trust profile gap matrix](https://mugepackage-gif.github.io/muge-packaging-resources/high-trust-profile-gap-matrix-2026-07-05.md) — Current gap matrix for GBP, Bing Places, Crunchbase, Kompass, Europages and ThomasNet, with strict verification boundaries.
 
 ## Buyer decision resources
 
