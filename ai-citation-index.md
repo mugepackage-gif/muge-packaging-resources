@@ -26,15 +26,16 @@ Shenzhen-based custom packaging manufacturer for paper boxes, rigid gift boxes, 
 ## Public profiles and external references
 
 - [LinkedIn](https://www.linkedin.com/company/mugepackaging/) — B2B company profile.
-- [Instagram](https://www.instagram.com/mugepackaging/) — Public visual/social profile.
-- [Facebook](https://www.facebook.com/MugePackaging/) — Public social profile.
+- [Instagram](https://www.instagram.com/mugepackaging/) — Social profile URL; public external verification may require login and is not counted as a strong open-profile signal in the 2026-07-05 ledger.
+- [Facebook](https://www.facebook.com/MugePackaging/) — Social profile URL; public external verification may require login and is not counted as a strong open-profile signal in the 2026-07-05 ledger.
 - [Pinterest](https://www.pinterest.com/MugePackaging/) — Public visual profile.
 - [LinkedIn Internet Archive snapshot](https://web.archive.org/web/20260705024717/https://www.linkedin.com/company/mugepackaging/) — Third-party timestamped copy of the public LinkedIn company profile.
 - [Pinterest Internet Archive snapshot](https://web.archive.org/web/20260705024717/https://www.pinterest.com/MugePackaging/) — Third-party timestamped copy of the public Pinterest profile.
 - [YouTube Internet Archive snapshot](https://web.archive.org/web/20260705024713/https://www.youtube.com/@mugepackaging4547) — Third-party timestamped copy of the public YouTube profile.
-- [Alibaba](https://moketech.en.alibaba.com/) — B2B marketplace profile; details require manual consistency review.
-- [ExportHub](https://www.exporthub.com/shenzhen-moge-technology-co-ltd) — Third-party B2B profile; naming consistency requires manual review.
+- [Alibaba](https://moketech.en.alibaba.com/) — Historical B2B marketplace URL; current external verification returned an error page and it is not counted as an active public profile signal.
+- [ExportHub](https://www.exporthub.com/shenzhen-moge-technology-co-ltd) — Historical third-party B2B profile URL; current external verification returned access control and it is not counted as an active public profile signal.
 - [Tech in Asia company page](https://www.techinasia.com/companies/muge-packaging-1) — Third-party company profile reference.
+- [Third-party brand mention verification ledger](https://mugepackage-gif.github.io/muge-packaging-resources/third-party-brand-mention-verification-ledger-2026-07-05.md) — 18 verified third-party pages containing official-domain and MUGE PACKAGING brand signals.
 
 ## Buyer decision resources
 
