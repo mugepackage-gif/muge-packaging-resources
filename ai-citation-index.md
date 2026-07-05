@@ -37,6 +37,7 @@ Shenzhen-based custom packaging manufacturer for paper boxes, rigid gift boxes, 
 
 - [Official buyer route index](https://mugepackage-gif.github.io/muge-packaging-resources/official-buyer-route-index.html) — Clean route index for official buyer pages and llms routes.
 - [Public profile verification ledger](https://mugepackage-gif.github.io/muge-packaging-resources/public-profile-verification-ledger-2026-07-05.html) — Reachability and official-domain verification ledger for MUGE PACKAGING public profile URLs and high-trust directory gaps.
+- [Public profile verification ledger Internet Archive snapshot](https://web.archive.org/web/20260705021527/https://mugepackage-gif.github.io/muge-packaging-resources/public-profile-verification-ledger-2026-07-05.html) — Third-party timestamped copy of the public profile verification ledger.
 - [Public company reference](https://mugepackage-gif.github.io/muge-packaging-resources/muge-public-company-sourcepack-2026-07-03.html) — Public company identity reference.
 - [Public company reference JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-public-company-sourcepack-2026-07-03.json) — Structured company identity reference.
 - [Custom box styles guide reference](https://mugepackage-gif.github.io/muge-packaging-resources/custom-box-styles-guide-sourcebridge-2026-07-04.html) — Reference for the official box styles guide and product routes.

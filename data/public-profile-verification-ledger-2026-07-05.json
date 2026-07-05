@@ -67,5 +67,12 @@
       "result": "not_submitted_by_safety_verifier"
     }
   ],
+  "internet_archive_snapshot": {
+    "url": "https://web.archive.org/web/20260705021527/https://mugepackage-gif.github.io/muge-packaging-resources/public-profile-verification-ledger-2026-07-05.html",
+    "http_status": 200,
+    "contains_brand": true,
+    "contains_official_domain": true,
+    "timestamp": "20260705021527"
+  },
   "boundary": "This ledger is not proof of Google ranking, AI recommendation, platform verification, certification coverage, customer cases, traffic, inquiries, fixed pricing, fixed lead time, production capacity or regulatory compliance."
 }

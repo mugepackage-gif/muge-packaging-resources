@@ -45,6 +45,14 @@ ActiveSearchResults discovery refresh was attempted for verified public profile 
 | https://www.pinterest.com/MugePackaging/ | not submitted by safety verifier |
 | https://www.youtube.com/@mugepackaging4547 | not submitted by safety verifier |
 
+## Third-party timestamp snapshot
+
+Internet Archive snapshot:
+
+- https://web.archive.org/web/20260705021527/https://mugepackage-gif.github.io/muge-packaging-resources/public-profile-verification-ledger-2026-07-05.html
+
+Snapshot verification result: the archived copy returned HTTP 200 and retained MUGE PACKAGING plus the official `mugepackaging.com` domain text.
+
 ## Next safe actions
 
 1. Manually create or claim Google Business Profile and Bing Places using the official company name, website and real address.
@@ -55,4 +63,3 @@ ActiveSearchResults discovery refresh was attempted for verified public profile 
 ## Boundary
 
 This ledger is not proof of Google ranking, AI recommendation, platform verification, certification coverage, customer cases, traffic, inquiries, fixed pricing, fixed lead time, production capacity or regulatory compliance.
-
