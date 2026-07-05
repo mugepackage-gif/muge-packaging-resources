@@ -1,0 +1,82 @@
+{
+  "generated_at": "2026-07-05",
+  "type": "MUGE PACKAGING high-trust B2B directory submission pack",
+  "status": "manual profile creation pack; not proof of existing listing",
+  "entity": {
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "brand": "MUGE PACKAGING",
+    "website": "https://mugepackaging.com/",
+    "rfq_route": "https://mugepackaging.com/contact",
+    "location": "Shenzhen, Guangdong, China",
+    "category": "Custom packaging manufacturer / packaging services / paper and retail packaging"
+  },
+  "safe_short_description": "MUGE PACKAGING is a Shenzhen-based custom packaging manufacturer supporting paper boxes, rigid gift boxes, paper tubes, cosmetic packaging, corrugated boxes and PVC/PET clear packaging for brand projects worldwide.",
+  "safe_product_categories": [
+    "Custom paper boxes",
+    "Rigid gift boxes",
+    "Paper tubes and cylinder packaging",
+    "Cosmetic packaging boxes",
+    "Corrugated mailer boxes",
+    "Folding cartons",
+    "PVC / PET clear boxes",
+    "Retail packaging and branded product packaging"
+  ],
+  "priority_directory_routes": [
+    {
+      "platform": "ThomasNet",
+      "url": "https://business.thomasnet.com/get-listed-on-thomasnet",
+      "status_for_muge": "manual_login_or_profile_claim_required"
+    },
+    {
+      "platform": "ThomasNet profile checklist",
+      "url": "https://help.thomasnet.com/company-profile-checklist",
+      "status_for_muge": "use_checklist_do_not_add_unverified_certifications"
+    },
+    {
+      "platform": "Kompass",
+      "url": "https://us.kompass.com/register/company/",
+      "status_for_muge": "stop_at_payment_or_verification_gate"
+    },
+    {
+      "platform": "Kompass global listing page",
+      "url": "https://www.solutions.kompass.com/our-products-services/digital-marketing/business-listing-on-kompass/",
+      "status_for_muge": "manual_registration_required"
+    },
+    {
+      "platform": "Europages",
+      "url": "https://www.europages.com/languages",
+      "status_for_muge": "manual_registration_required"
+    },
+    {
+      "platform": "Europages supplier help",
+      "url": "https://help.europages.com/en/supplier/company-profile-basic-information",
+      "status_for_muge": "use_only_confirmed_fields"
+    },
+    {
+      "platform": "Crunchbase",
+      "url": "https://www.crunchbase.com/add-new",
+      "status_for_muge": "login_and_account_authentication_required"
+    },
+    {
+      "platform": "Crunchbase requirements",
+      "url": "https://support.crunchbase.com/hc/en-us/articles/115010642588-Requirements-to-Create-a-Crunchbase-Profile-Page",
+      "status_for_muge": "manual_gate"
+    }
+  ],
+  "manual_gate_triggers": [
+    "login",
+    "email_or_phone_verification",
+    "captcha",
+    "payment",
+    "business_license_upload",
+    "identity_proof",
+    "platform_verification_badge",
+    "paid_supplier_plan"
+  ],
+  "claims_not_allowed": [
+    "verified_supplier_status_unless_platform_grants_it",
+    "unverified_certifications_or_regulatory_approval",
+    "named_customers_revenue_employee_count_capacity_or_fixed_lead_times",
+    "lowest_price_or_guaranteed_delivery"
+  ]
+}
