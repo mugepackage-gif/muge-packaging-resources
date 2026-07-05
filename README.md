@@ -1,9 +1,8 @@
 <!-- MUGE_PUBLIC_PROFILE_VERIFICATION_LEDGER_20260705:start -->
 ## MUGE PACKAGING Public Profile Verification Ledger - 2026-07-05
-- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/public-profile-verification-ledger-2026-07-05.html
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/public-profile-verification-ledger-2026-07-05.md
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/public-profile-verification-ledger-2026-07-05.json
-- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/public-profile-verification-ledger-2026-07-05.html
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/public-profile-verification-ledger-2026-07-05.md
 - Internet Archive: https://web.archive.org/web/20260705021527/https://mugepackage-gif.github.io/muge-packaging-resources/public-profile-verification-ledger-2026-07-05.html
 - Boundary: public profile reachability and official-domain verification only; not proof of Google ranking, AI recommendation, traffic, inquiries, platform verification, certification, customer cases, fixed price, fixed lead time or compliance.
 <!-- MUGE_PUBLIC_PROFILE_VERIFICATION_LEDGER_20260705:end -->
