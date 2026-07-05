@@ -1,3 +1,15 @@
+<!-- MUGE_PUBLIC_PROFILE_ARCHIVE_EVIDENCE_LEDGER_20260705:start -->
+## MUGE PACKAGING Public Profile Archive Evidence Ledger - 2026-07-05
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/public-profile-archive-evidence-ledger-2026-07-05.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/public-profile-archive-evidence-ledger-2026-07-05.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/public-profile-archive-evidence-ledger-2026-07-05.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/public-profile-archive-evidence-ledger-2026-07-05.html
+- Confirmed archive evidence: LinkedIn, Pinterest profile, Pinterest public board and YouTube.
+- Live-only profile references: Facebook and Instagram.
+- Official AI-readable routes updated: https://mugepackaging.com/llms.txt and https://mugepackaging.com/llms-full.txt
+- Boundary: public profile and archive evidence only; not Google ranking, GSC link credit, AI recommendation, platform verification, inquiry, certification, customer-case, fixed-price, fixed-lead-time or compliance proof.
+<!-- MUGE_PUBLIC_PROFILE_ARCHIVE_EVIDENCE_LEDGER_20260705:end -->
+
 <!-- MUGE_RENTRY_MIRROR_PRODUCT_MONEY_PAGES_QUALITY_LEDGER_20260618:start -->
 ## 产品钱页质量Ledger Rentry Mirror - 2026-07-05 20:04:41
 - Rentry: https://rentry.co/muge-product-money-pages-quality-ledger-20260705-2004

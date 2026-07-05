@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-07-05T22:08:00+08:00",
+  "entity": {
+    "legal_company_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "brand_name": "MUGE PACKAGING",
+    "official_website": "https://mugepackaging.com/",
+    "official_rfq_route": "https://mugepackaging.com/contact"
+  },
+  "official_ai_readable_routes_updated": [
+    {
+      "route": "llms.txt",
+      "url": "https://mugepackaging.com/llms.txt",
+      "status": "live_http_200_after_production_deployment_88155b6"
+    },
+    {
+      "route": "llms-full.txt",
+      "url": "https://mugepackaging.com/llms-full.txt",
+      "status": "live_http_200_after_production_deployment_88155b6"
+    }
+  ],
+  "confirmed_public_profile_archive_evidence": [
+    {
+      "platform": "LinkedIn",
+      "public_profile_url": "https://www.linkedin.com/company/mugepackaging/",
+      "archive_url": "https://web.archive.org/web/20260705070502/https://www.linkedin.com/company/mugepackaging/",
+      "interpretation": "Confirmed public company profile snapshot."
+    },
+    {
+      "platform": "Pinterest",
+      "public_profile_url": "https://www.pinterest.com/MugePackaging/",
+      "archive_url": "https://web.archive.org/web/20260705134333/https://www.pinterest.com/MugePackaging/",
+      "interpretation": "Confirmed public visual profile snapshot."
+    },
+    {
+      "platform": "Pinterest board",
+      "public_profile_url": "https://www.pinterest.com/mpackaging1476/mugepackaging/",
+      "archive_url": "https://web.archive.org/web/20260705134359/https://www.pinterest.com/mpackaging1476/mugepackaging/",
+      "interpretation": "Confirmed public board snapshot containing MUGE Packaging signals."
+    },
+    {
+      "platform": "YouTube",
+      "public_profile_url": "https://www.youtube.com/@mugepackaging4547",
+      "archive_url": "https://web.archive.org/web/20260705134429/https://www.youtube.com/@mugepackaging4547",
+      "interpretation": "Confirmed public video/social profile snapshot."
+    }
+  ],
+  "live_only_public_profile_references": [
+    {
+      "platform": "Facebook",
+      "public_profile_url": "https://www.facebook.com/MugePackaging/",
+      "interpretation": "Live public page was reachable in the 2026-07-05 check, but no confirmed Internet Archive snapshot is counted in this ledger."
+    },
+    {
+      "platform": "Instagram",
+      "public_profile_url": "https://www.instagram.com/mugepackaging/",
+      "interpretation": "Live public profile was reachable in the 2026-07-05 check, but no confirmed Internet Archive snapshot is counted in this ledger."
+    }
+  ],
+  "production_evidence": {
+    "commit": "https://github.com/mugepackage-gif/muge-modern-design/commit/88155b6",
+    "deploy": "https://github.com/mugepackage-gif/muge-modern-design/actions/runs/28743048180"
+  },
+  "public_urls": {
+    "html": "https://mugepackage-gif.github.io/muge-packaging-resources/public-profile-archive-evidence-ledger-2026-07-05.html",
+    "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/public-profile-archive-evidence-ledger-2026-07-05.md",
+    "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/public-profile-archive-evidence-ledger-2026-07-05.json",
+    "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/public-profile-archive-evidence-ledger-2026-07-05.html"
+  },
+  "boundary": "This ledger is public profile and archive evidence only. It is not proof of Google ranking, GSC link credit, AI recommendation, platform verification, certification coverage, customer cases, traffic, inquiries, fixed pricing, fixed lead time, production capacity, famous-brand endorsement, food-contact approval or regulated-market compliance."
+}
