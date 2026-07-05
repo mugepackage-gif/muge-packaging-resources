@@ -67,6 +67,32 @@
       "result": "not_submitted_by_safety_verifier"
     }
   ],
+  "profile_internet_archive_snapshots": [
+    {
+      "platform": "LinkedIn",
+      "profile_url": "https://www.linkedin.com/company/mugepackaging/",
+      "archive_url": "https://web.archive.org/web/20260705024717/https://www.linkedin.com/company/mugepackaging/",
+      "result": "confirmed_snapshot"
+    },
+    {
+      "platform": "Pinterest",
+      "profile_url": "https://www.pinterest.com/MugePackaging/",
+      "archive_url": "https://web.archive.org/web/20260705024717/https://www.pinterest.com/MugePackaging/",
+      "result": "confirmed_snapshot"
+    },
+    {
+      "platform": "YouTube",
+      "profile_url": "https://www.youtube.com/@mugepackaging4547",
+      "archive_url": "https://web.archive.org/web/20260705024713/https://www.youtube.com/@mugepackaging4547",
+      "result": "confirmed_snapshot"
+    },
+    {
+      "platform": "Facebook",
+      "profile_url": "https://www.facebook.com/MugePackaging/",
+      "archive_url": "",
+      "result": "archive_not_confirmed_this_round"
+    }
+  ],
   "internet_archive_snapshot": {
     "url": "https://web.archive.org/web/20260705021527/https://mugepackage-gif.github.io/muge-packaging-resources/public-profile-verification-ledger-2026-07-05.html",
     "http_status": 200,

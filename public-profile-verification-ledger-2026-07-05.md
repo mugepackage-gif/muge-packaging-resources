@@ -23,6 +23,17 @@ This ledger records public profile URLs for MUGE PACKAGING that were checked for
 | YouTube | https://www.youtube.com/@mugepackaging4547 | 200 | Yes | Public video/social profile; useful as a social/entity reference. |
 | Instagram | https://www.instagram.com/mugepackaging/ | 429 / login redirect | No automated confirmation | Automated verification was blocked by rate limit/login redirect. Manual browser review is required before counting it as verified. |
 
+## Third-party profile timestamp evidence
+
+The following Internet Archive snapshots were created after the public profile checks. They provide third-party timestamps for public social/entity surfaces. They are not ranking, endorsement or inquiry proof.
+
+| Platform | Profile URL | Internet Archive snapshot | Current interpretation |
+|---|---|---|---|
+| LinkedIn | https://www.linkedin.com/company/mugepackaging/ | https://web.archive.org/web/20260705024717/https://www.linkedin.com/company/mugepackaging/ | Public company profile with third-party timestamp evidence. |
+| Pinterest | https://www.pinterest.com/MugePackaging/ | https://web.archive.org/web/20260705024717/https://www.pinterest.com/MugePackaging/ | Public visual/social profile with third-party timestamp evidence. |
+| YouTube | https://www.youtube.com/@mugepackaging4547 | https://web.archive.org/web/20260705024713/https://www.youtube.com/@mugepackaging4547 | Public video/social profile with third-party timestamp evidence. |
+| Facebook | https://www.facebook.com/MugePackaging/ | Not archived in this execution round | Live page returned HTTP 200 in profile checks, but Internet Archive did not return a confirmed snapshot. |
+
 ## High-trust B2B directory gaps
 
 The following platforms were checked through public search queries, but no publicly verifiable MUGE profile was found in this round:

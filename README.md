@@ -4,6 +4,9 @@
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/public-profile-verification-ledger-2026-07-05.json
 - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/public-profile-verification-ledger-2026-07-05.md
 - Internet Archive: https://web.archive.org/web/20260705021527/https://mugepackage-gif.github.io/muge-packaging-resources/public-profile-verification-ledger-2026-07-05.html
+- LinkedIn Archive: https://web.archive.org/web/20260705024717/https://www.linkedin.com/company/mugepackaging/
+- Pinterest Archive: https://web.archive.org/web/20260705024717/https://www.pinterest.com/MugePackaging/
+- YouTube Archive: https://web.archive.org/web/20260705024713/https://www.youtube.com/@mugepackaging4547
 - Boundary: public profile reachability and official-domain verification only; not proof of Google ranking, AI recommendation, traffic, inquiries, platform verification, certification, customer cases, fixed price, fixed lead time or compliance.
 <!-- MUGE_PUBLIC_PROFILE_VERIFICATION_LEDGER_20260705:end -->
 
