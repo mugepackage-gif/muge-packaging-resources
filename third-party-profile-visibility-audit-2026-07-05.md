@@ -23,6 +23,21 @@ This audit records which public third-party profile surfaces currently show MUGE
 | YouTube | https://www.youtube.com/@mugepackaging4547 | url_resolves_for_live_check | Live URL returns 200. Keep as video/social profile reference. |
 | Instagram | https://www.instagram.com/mugepackaging/ | rate_limited_for_live_check | Public URL exists in reference set, but automated request returned rate limit. Manual browser check required before treating as verified. |
 
+## Search-confirmed external entity signals
+
+These search-visible references help confirm that MUGE PACKAGING has public third-party traces beyond the official domain. Treat them as entity-discovery signals only; they do not prove ranking, inquiry volume, certification, customer cases or platform verification.
+
+| Source | URL | Status | Safe interpretation |
+|---|---|---|---|
+| LinkedIn search result | https://www.linkedin.com/company/mugepackaging/ | search_visible_profile | Search result confirms website, industry, company size, headquarters and profile existence. Keep as official social/entity reference, but avoid relying on unverified fields such as size or founding year unless internally confirmed. |
+| Instagram search result | https://www.instagram.com/mugepackaging/ | search_visible_profile | Search result confirms public Instagram profile and packaging category wording. Keep as public visual/social reference. |
+| Facebook page | https://www.facebook.com/MugePackaging/ | search_visible_profile | Search result confirms page, website and public contact surface. Keep as public social/entity reference. |
+| Facebook alternate page | https://www.facebook.com/p/Muge-Packaging-61576487107188/ | possible_duplicate_social_page | Possible duplicate/alternate Facebook page; manual review required before adding as official. |
+| ExportHub | https://www.exporthub.com/shenzhen-moge-technology-co-ltd | legacy_b2b_profile_trace | Search-visible legacy B2B trace containing packaging terms and legacy company naming. Requires manual account/profile review before use. Do not cite as verified supplier status. |
+| ImportGenius | https://www.importgenius.com/importers/online-wholesale-orders-llc | customs_data_mention | Search result mentions MUGE PACKAGING in customs/import context. Treat only as public third-party mention; do not use as customer case or sales proof. |
+| Flickr | https://www.flickr.com/photos/182128080%40N08/48228944202/ | legacy_visual_profile_trace | Old visual profile/page mentioning Muge Packaging and old URL pattern. Useful only as legacy trace; not a current buyer route. |
+| GitHub Gist | https://gist.github.com/mugepackage-gif/4c79adeb41c299a210e602a22ec71e6b | controlled_public_asset | Controlled public asset from MUGE resources account; useful for AI-readable route discovery but not an independent third-party endorsement. |
+
 ## Legacy or risky B2B profile traces
 
 | Platform | URL | Status | Required action |

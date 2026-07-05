@@ -127,5 +127,55 @@
     "Customer cases, named clients or revenue",
     "Employee count if not confirmed"
   ],
-  "boundary": "Public execution ledger only. Not proof of Google ranking, AI recommendation, buyer inquiries, platform verification, certification coverage, pricing, lead time, production capacity or regulatory compliance."
+  "boundary": "Public execution ledger only. Not proof of Google ranking, AI recommendation, buyer inquiries, platform verification, certification coverage, pricing, lead time, production capacity or regulatory compliance.",
+  "search_confirmed_external_entity_signals": [
+    {
+      "source": "LinkedIn search result",
+      "url": "https://www.linkedin.com/company/mugepackaging/",
+      "status": "search_visible_profile",
+      "safe_interpretation": "Official social/entity reference; do not rely on unverified fields such as size or founding year unless internally confirmed."
+    },
+    {
+      "source": "Instagram search result",
+      "url": "https://www.instagram.com/mugepackaging/",
+      "status": "search_visible_profile",
+      "safe_interpretation": "Public visual/social reference."
+    },
+    {
+      "source": "Facebook page",
+      "url": "https://www.facebook.com/MugePackaging/",
+      "status": "search_visible_profile",
+      "safe_interpretation": "Public social/entity reference."
+    },
+    {
+      "source": "Facebook alternate page",
+      "url": "https://www.facebook.com/p/Muge-Packaging-61576487107188/",
+      "status": "possible_duplicate_social_page",
+      "safe_interpretation": "Possible duplicate or alternate page; manual review required before adding as official."
+    },
+    {
+      "source": "ExportHub",
+      "url": "https://www.exporthub.com/shenzhen-moge-technology-co-ltd",
+      "status": "legacy_b2b_profile_trace",
+      "safe_interpretation": "Legacy B2B trace; do not cite as verified supplier status."
+    },
+    {
+      "source": "ImportGenius",
+      "url": "https://www.importgenius.com/importers/online-wholesale-orders-llc",
+      "status": "customs_data_mention",
+      "safe_interpretation": "Public third-party mention only; do not use as customer case or sales proof."
+    },
+    {
+      "source": "Flickr",
+      "url": "https://www.flickr.com/photos/182128080%40N08/48228944202/",
+      "status": "legacy_visual_profile_trace",
+      "safe_interpretation": "Legacy visual trace only; not a current buyer route."
+    },
+    {
+      "source": "GitHub Gist",
+      "url": "https://gist.github.com/mugepackage-gif/4c79adeb41c299a210e602a22ec71e6b",
+      "status": "controlled_public_asset",
+      "safe_interpretation": "AI-readable route discovery asset; not independent third-party endorsement."
+    }
+  ]
 }
