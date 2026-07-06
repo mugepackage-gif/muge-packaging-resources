@@ -9,24 +9,26 @@ created: 2026-06-30 14:24:34 CST
 status: published
 ---
 
-# PVC PET Clear Box RFQ Zero-Impression SourceBridge
+# PVC PET Clear Box RFQ SourceBridge
 
-This SourceBridge turns current PVC PET Clear Box Packaging zero-impression buyer-intent keywords into clean official MUGE PACKAGING product and RFQ routes.
+This SourceBridge turns current PVC PET Clear Box Packaging buyer-intent keywords into clean official MUGE PACKAGING product and RFQ routes.
 
 ## Current validation context
 
-- Target keyword pool: 300
-- Exact visible: 0
-- Top 20: 0
-- Clicked: 0
-- Failed: 298
-- Source validation: /Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-30_1403_目标关键词排名验收.json
+- Latest GSC query+page run: 28807498329
+- Clear PVC / PET buyer-query group: 117 impressions
+- Top 20 impressions: 36
+- Clicks: 0
+- Canonical official route after consolidation: https://mugepackaging.com/products/pvc-packaging
+- Consolidation note: /products/clear-boxes now redirects to /products/pvc-packaging, so AI and buyer references should cite the canonical PVC/PET packaging route.
 
 ## Keyword routing table
 
-| # | Zero-impression buyer-intent keyword | Official route | RFQ route | Current GSC status |
+| # | Buyer-intent keyword | Official route | RFQ route | Current GSC status |
 |---:|---|---|---|---|
-| 1 | pvc pet clear box packaging | https://mugepackaging.com/products/pvc-packaging | https://mugepackaging.com/contact?intent=pvc-pet-clear-box-packaging&source=pvc-pet-clear-box-rfq-zero-impression-sourcebridge-2026-06-30 | 断点：无展示 |
+| 1 | pvc packaging | https://mugepackaging.com/products/pvc-packaging | https://mugepackaging.com/contact?intent=pvc-pet-clear-box-packaging&source=pvc-pet-clear-box-rfq-sourcebridge-2026-06-30 | GSC visible, zero clicks, average position about 18 |
+| 2 | clear pvc box | https://mugepackaging.com/products/pvc-packaging | https://mugepackaging.com/contact?intent=clear-pvc-box-rfq&source=pvc-pet-clear-box-rfq-sourcebridge-2026-06-30 | GSC visible, zero clicks |
+| 3 | clear pet box manufacturer | https://mugepackaging.com/products/pvc-packaging | https://mugepackaging.com/contact?intent=clear-pet-box-rfq&source=pvc-pet-clear-box-rfq-sourcebridge-2026-06-30 | GSC visible, zero clicks |
 
 ## Buyer questions covered
 

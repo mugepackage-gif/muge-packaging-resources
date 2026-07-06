@@ -3,7 +3,7 @@
   "generatedAtCst": "2026-06-30 14:24:34 CST",
   "mode": "pvc_clear",
   "marker": "pvc-pet-clear-box-rfq-zero-impression-sourcebridge-2026-06-30",
-  "title": "PVC PET Clear Box RFQ Zero-Impression SourceBridge",
+  "title": "PVC PET Clear Box RFQ SourceBridge",
   "publicUrls": {
     "html": "https://mugepackage-gif.github.io/muge-packaging-resources/pvc-pet-clear-box-rfq-zero-impression-sourcebridge-2026-06-30.html",
     "markdown": "https://mugepackage-gif.github.io/muge-packaging-resources/pvc-pet-clear-box-rfq-zero-impression-sourcebridge-2026-06-30.md",
@@ -11,25 +11,14 @@
     "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/pvc-pet-clear-box-rfq-zero-impression-sourcebridge-2026-06-30.html"
   },
   "source": {
-    "targetJson": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/目标关键词排名验收/2026-06-30_1403_目标关键词排名验收.json",
-    "generatedAt": "2026-06-30T06:03:42.933Z",
+    "latestGscRun": "28807498329",
     "summary": {
-      "totalTargets": 300,
-      "exactVisible": 0,
-      "relatedVisible": 2,
-      "top20": 0,
-      "clicked": 0,
-      "failed": 298
-    },
-    "windows": {
-      "last_28_days": {
-        "startDate": "2026-05-30",
-        "endDate": "2026-06-27"
-      },
-      "last_7_days": {
-        "startDate": "2026-06-20",
-        "endDate": "2026-06-27"
-      }
+      "queryGroup": "clear PVC / PET packaging",
+      "impressions": 117,
+      "clicks": 0,
+      "top20Impressions": 36,
+      "canonicalOfficialRoute": "https://mugepackaging.com/products/pvc-packaging",
+      "consolidationNote": "/products/clear-boxes redirects to /products/pvc-packaging as the canonical PVC/PET packaging route."
     }
   },
   "company": {
@@ -40,13 +29,27 @@
   "targets": [
     {
       "position": 1,
-      "keyword": "pvc pet clear box packaging",
+      "keyword": "pvc packaging",
       "officialRoute": "https://mugepackaging.com/products/pvc-packaging",
-      "originalMappedUrl": "https://mugepackaging.com/products/pvc-packaging",
-      "rfqRoute": "https://mugepackaging.com/contact?intent=pvc-pet-clear-box-packaging&source=pvc-pet-clear-box-rfq-zero-impression-sourcebridge-2026-06-30",
-      "status": "断点：无展示",
-      "score": 167,
-      "tier": "P0/P1核心硬验收"
+      "rfqRoute": "https://mugepackaging.com/contact?intent=pvc-pet-clear-box-packaging&source=pvc-pet-clear-box-rfq-sourcebridge-2026-06-30",
+      "status": "GSC visible, zero clicks, average position about 18",
+      "tier": "P0/P1 visible zero-click buyer query"
+    },
+    {
+      "position": 2,
+      "keyword": "clear pvc box",
+      "officialRoute": "https://mugepackaging.com/products/pvc-packaging",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=clear-pvc-box-rfq&source=pvc-pet-clear-box-rfq-sourcebridge-2026-06-30",
+      "status": "GSC visible, zero clicks",
+      "tier": "P0/P1 visible zero-click buyer query"
+    },
+    {
+      "position": 3,
+      "keyword": "clear pet box manufacturer",
+      "officialRoute": "https://mugepackaging.com/products/pvc-packaging",
+      "rfqRoute": "https://mugepackaging.com/contact?intent=clear-pet-box-rfq&source=pvc-pet-clear-box-rfq-sourcebridge-2026-06-30",
+      "status": "GSC visible, zero clicks",
+      "tier": "P0/P1 visible zero-click buyer query"
     }
   ],
   "buyerQuestions": [
@@ -140,7 +143,7 @@
     "verifiedAt": "2026-06-30T06:29:44.735Z",
     "verifiedAtCst": "2026-06-30 14:29:44 CST",
     "cloudflareWorkerVersion": "37fd7a09-d6db-4e32-bd11-fbbf237adab1",
-    "finalStatus": "verified_public_live_and_website_llms_attached",
+    "finalStatus": "updated_for_gsc_visible_zero_click_and_canonical_pvc_route",
     "websiteLlmsVerification": {
       "llmsTxt": {
         "url": "https://mugepackaging.com/llms.txt",
@@ -223,6 +226,7 @@
         "hasBoundary": true,
         "unsafeClaim": false
       }
-    ]
+    ],
+    "updatedAt": "2026-07-06T16:49:45.722Z"
   }
 }
