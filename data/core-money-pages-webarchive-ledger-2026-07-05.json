@@ -1,6 +1,7 @@
 {
   "name": "MUGE PACKAGING core money pages WebArchive ledger",
   "generated_at_cst": "2026-07-05 12:24 CST",
+  "updated_at_cst": "2026-07-06 09:05 CST",
   "purpose": "Third-party timestamp evidence for priority buyer routes and AI-readable route files.",
   "snapshots": [
     {
@@ -26,6 +27,54 @@
       "official_url": "https://mugepackaging.com/llms-full.txt",
       "webarchive_snapshot": "https://web.archive.org/web/20260705042512/https://mugepackaging.com/llms-full.txt",
       "verification_note": "Snapshot HTTP 200 and contains Buyer guide Jina Reader."
+    },
+    {
+      "asset": "Low-MOQ custom packaging latest snapshot",
+      "official_url": "https://mugepackaging.com/low-moq-custom-packaging",
+      "webarchive_snapshot": "https://web.archive.org/web/20260706005529/https://mugepackaging.com/low-moq-custom-packaging",
+      "verification_note": "Snapshot HTTP 200 and contains MUGE / original URL evidence."
+    },
+    {
+      "asset": "Cosmetic packaging product route",
+      "official_url": "https://mugepackaging.com/products/cosmetic-packaging",
+      "webarchive_snapshot": "https://web.archive.org/web/20260706005552/https://mugepackaging.com/products/cosmetic-packaging",
+      "verification_note": "Snapshot HTTP 200 and contains MUGE / original URL evidence."
+    },
+    {
+      "asset": "Paper packaging product route",
+      "official_url": "https://mugepackaging.com/products/paper-packaging",
+      "webarchive_snapshot": "https://web.archive.org/web/20260706005615/https://mugepackaging.com/products/paper-packaging",
+      "verification_note": "Snapshot HTTP 200 and contains MUGE / original URL evidence."
+    },
+    {
+      "asset": "Paper tubes product route",
+      "official_url": "https://mugepackaging.com/products/paper-tubes",
+      "webarchive_snapshot": "https://web.archive.org/web/20260706005638/https://mugepackaging.com/products/paper-tubes",
+      "verification_note": "Snapshot HTTP 200 and contains MUGE / original URL evidence."
+    },
+    {
+      "asset": "Supplier comparison route",
+      "official_url": "https://mugepackaging.com/compare",
+      "webarchive_snapshot": "https://web.archive.org/web/20260706005708/https://mugepackaging.com/compare",
+      "verification_note": "Snapshot HTTP 200 and contains MUGE / original URL evidence."
+    },
+    {
+      "asset": "Cosmetic packaging factory China guide",
+      "official_url": "https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "webarchive_snapshot": "https://web.archive.org/web/20260706005822/https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide",
+      "verification_note": "Snapshot HTTP 200 and contains MUGE / original URL evidence."
+    },
+    {
+      "asset": "Low-MOQ buyer checklist external source pack",
+      "official_url": "https://mugepackage-gif.github.io/muge-packaging-resources/low-moq-custom-packaging-buyer-checklist-2026-07-05.html",
+      "webarchive_snapshot": "https://web.archive.org/web/20260706005835/https://mugepackage-gif.github.io/muge-packaging-resources/low-moq-custom-packaging-buyer-checklist-2026-07-05.html",
+      "verification_note": "Snapshot HTTP 200 and contains MUGE / original URL evidence."
+    },
+    {
+      "asset": "Cosmetic packaging factory buyer checklist external source pack",
+      "official_url": "https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-factory-china-buyer-checklist-2026-07-06.html",
+      "webarchive_snapshot": "https://web.archive.org/web/20260706005946/https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-factory-china-buyer-checklist-2026-07-06.html",
+      "verification_note": "Snapshot HTTP 200 and contains MUGE / original URL evidence."
     }
   ],
   "boundary": "These snapshots are third-party timestamp evidence for discovery and entity consistency. They are not proof of Google ranking, traffic, inquiry generation, platform endorsement, customer cases, fixed production capacity, certification coverage or regulated-market compliance."
