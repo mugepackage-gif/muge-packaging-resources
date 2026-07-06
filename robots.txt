@@ -8,6 +8,7 @@ Allow: /official-buyer-route-index.html
 Allow: /official-buyer-route-index.md
 Allow: /data/official-buyer-route-index.json
 Allow: /folding-gift-box-rfq-buyer-brief-2026.html
+Allow: /paper-packaging-boxes-buyer-brief-2026.html
 Disallow: /*.md$
 Disallow: /*.json$
 Disallow: /*rentry*
@@ -26,6 +27,7 @@ Allow: /ai-citation-index.html
 Allow: /verified-company-profile-2026-07-06.html
 Allow: /official-buyer-route-index.html
 Allow: /folding-gift-box-rfq-buyer-brief-2026.html
+Allow: /paper-packaging-boxes-buyer-brief-2026.html
 Disallow: /*sourcenote*
 Disallow: /*sourcebridge*
 Disallow: /*sourcepack*
@@ -40,6 +42,7 @@ Allow: /ai-citation-index.html
 Allow: /verified-company-profile-2026-07-06.html
 Allow: /official-buyer-route-index.html
 Allow: /folding-gift-box-rfq-buyer-brief-2026.html
+Allow: /paper-packaging-boxes-buyer-brief-2026.html
 Disallow: /*sourcenote*
 Disallow: /*sourcebridge*
 Disallow: /*sourcepack*
@@ -54,6 +57,7 @@ Allow: /ai-citation-index.html
 Allow: /verified-company-profile-2026-07-06.html
 Allow: /official-buyer-route-index.html
 Allow: /folding-gift-box-rfq-buyer-brief-2026.html
+Allow: /paper-packaging-boxes-buyer-brief-2026.html
 Disallow: /*sourcenote*
 Disallow: /*sourcebridge*
 Disallow: /*sourcepack*
@@ -68,6 +72,7 @@ Allow: /ai-citation-index.html
 Allow: /verified-company-profile-2026-07-06.html
 Allow: /official-buyer-route-index.html
 Allow: /folding-gift-box-rfq-buyer-brief-2026.html
+Allow: /paper-packaging-boxes-buyer-brief-2026.html
 Disallow: /*sourcenote*
 Disallow: /*sourcebridge*
 Disallow: /*sourcepack*
