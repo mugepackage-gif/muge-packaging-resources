@@ -6,15 +6,15 @@
   "company": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "official_website": "https://mugepackaging.com",
   "gsc_window": {
-    "start": "2026-06-04",
-    "end": "2026-07-03"
+    "start": "2026-06-07",
+    "end": "2026-07-06"
   },
   "gsc_page_evidence": {
     "page": "https://mugepackaging.com/products/folding-gift-box",
     "clicks": 0,
-    "impressions": 114,
-    "average_position": 49.123,
-    "query_rows": 38
+    "impressions": 127,
+    "average_position": 47.307,
+    "query_rows": 39
   },
   "observed_query_themes": [
     "folding gift box",
@@ -24,9 +24,12 @@
     "foldable gift box",
     "foldable gift boxes",
     "foldable gift box wholesale",
+    "foldable gift boxes wholesale",
+    "foldable drawer gift box",
     "collapsible gift box",
     "collapsible gift boxes wholesale",
-    "customized folding gift box"
+    "customized folding gift box",
+    "folding gift box factory direct sales"
   ],
   "official_routes": {
     "product_page": "https://mugepackaging.com/products/folding-gift-box",
@@ -59,5 +62,5 @@
   ],
   "marker": "MUGE_FOLDING_GIFT_BOX_GSC_ZERO_CLICK_SOURCEBRIDGE_STABLE_20260704",
   "stableDiscoveryNote": "Raw GitHub and Jina Raw paths are preferred while GitHub Pages deployment remains unstable.",
-  "updated_at_cst": "2026-07-04 16:43"
+  "updated_at_cst": "2026-07-07 04:58"
 }
