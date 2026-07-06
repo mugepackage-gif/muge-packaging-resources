@@ -1,6 +1,8 @@
 User-agent: *
 Allow: /ai-citation-index.html
 Allow: /ai-citation-index.md
+Allow: /verified-company-profile-2026-07-06.html
+Allow: /verified-company-profile-2026-07-06.md
 Allow: /data/ai-citation-index.json
 Allow: /official-buyer-route-index.html
 Allow: /official-buyer-route-index.md
@@ -20,6 +22,7 @@ Disallow: /data/*sourcepack*
 
 User-agent: GPTBot
 Allow: /ai-citation-index.html
+Allow: /verified-company-profile-2026-07-06.html
 Allow: /official-buyer-route-index.html
 Disallow: /*sourcenote*
 Disallow: /*sourcebridge*
@@ -27,6 +30,7 @@ Disallow: /*sourcepack*
 
 User-agent: OAI-SearchBot
 Allow: /ai-citation-index.html
+Allow: /verified-company-profile-2026-07-06.html
 Allow: /official-buyer-route-index.html
 Disallow: /*sourcenote*
 Disallow: /*sourcebridge*
@@ -34,6 +38,7 @@ Disallow: /*sourcepack*
 
 User-agent: ClaudeBot
 Allow: /ai-citation-index.html
+Allow: /verified-company-profile-2026-07-06.html
 Allow: /official-buyer-route-index.html
 Disallow: /*sourcenote*
 Disallow: /*sourcebridge*
@@ -41,6 +46,7 @@ Disallow: /*sourcepack*
 
 User-agent: PerplexityBot
 Allow: /ai-citation-index.html
+Allow: /verified-company-profile-2026-07-06.html
 Allow: /official-buyer-route-index.html
 Disallow: /*sourcenote*
 Disallow: /*sourcebridge*
