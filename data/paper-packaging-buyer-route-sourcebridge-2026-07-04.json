@@ -6,23 +6,30 @@
   "rfq_route": "https://mugepackaging.com/contact",
   "sourcebridge_url": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-buyer-route-sourcebridge-2026-07-04.html",
   "gsc_window": {
-    "start": "2026-06-04",
-    "end": "2026-07-03"
+    "start": "2026-06-07",
+    "end": "2026-07-06"
   },
   "gsc_page_evidence": {
     "page": "https://mugepackaging.com/products/paper-packaging",
     "clicks": 0,
-    "impressions": 414,
-    "average_position": 7.196,
-    "query_rows": 31
+    "impressions": 413,
+    "average_position": 7.002,
+    "query_rows": 30,
+    "buyer_keyword_impressions": 34,
+    "non_buyer_impressions": 375,
+    "query_type_note": "Buyer-keyword impressions remain a minority of total impressions; the commercial SEO task is to grow buyer-keyword share and convert buyer queries into clicks."
   },
   "observed_query_themes": [
     "custom printed paper packaging boxes",
     "paper box supplier",
+    "paper box packaging",
     "paper packaging box",
     "paper packaging box printing",
     "paper packaging for home furnishing",
+    "premium paper box",
     "rigid paper packaging",
+    "rigid paper box",
+    "paper rigid box",
     "official MUGE packaging product page printed paper boxes",
     "custom gloss paper box with multi-sided shapes"
   ],
@@ -82,5 +89,5 @@
       "guaranteed regulatory compliance"
     ]
   },
-  "updated_at_cst": "2026-07-04 16:49"
+  "updated_at_cst": "2026-07-07 05:02"
 }
