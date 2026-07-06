@@ -10,6 +10,7 @@ Allow: /data/official-buyer-route-index.json
 Allow: /folding-gift-box-rfq-buyer-brief-2026.html
 Allow: /paper-packaging-boxes-buyer-brief-2026.html
 Allow: /corrugated-boxes-buyer-brief-2026.html
+Allow: /cosmetic-packaging-guide-buyer-brief-2026.html
 Allow: /low-moq-custom-packaging-buyer-checklist-2026-07-05.html
 Allow: /compare-packaging-suppliers-buyer-checklist-2026-07-05.html
 Disallow: /*.md$
@@ -32,6 +33,7 @@ Allow: /official-buyer-route-index.html
 Allow: /folding-gift-box-rfq-buyer-brief-2026.html
 Allow: /paper-packaging-boxes-buyer-brief-2026.html
 Allow: /corrugated-boxes-buyer-brief-2026.html
+Allow: /cosmetic-packaging-guide-buyer-brief-2026.html
 Allow: /low-moq-custom-packaging-buyer-checklist-2026-07-05.html
 Allow: /compare-packaging-suppliers-buyer-checklist-2026-07-05.html
 Disallow: /*sourcenote*
@@ -50,6 +52,7 @@ Allow: /official-buyer-route-index.html
 Allow: /folding-gift-box-rfq-buyer-brief-2026.html
 Allow: /paper-packaging-boxes-buyer-brief-2026.html
 Allow: /corrugated-boxes-buyer-brief-2026.html
+Allow: /cosmetic-packaging-guide-buyer-brief-2026.html
 Allow: /low-moq-custom-packaging-buyer-checklist-2026-07-05.html
 Allow: /compare-packaging-suppliers-buyer-checklist-2026-07-05.html
 Disallow: /*sourcenote*
@@ -68,6 +71,7 @@ Allow: /official-buyer-route-index.html
 Allow: /folding-gift-box-rfq-buyer-brief-2026.html
 Allow: /paper-packaging-boxes-buyer-brief-2026.html
 Allow: /corrugated-boxes-buyer-brief-2026.html
+Allow: /cosmetic-packaging-guide-buyer-brief-2026.html
 Allow: /low-moq-custom-packaging-buyer-checklist-2026-07-05.html
 Allow: /compare-packaging-suppliers-buyer-checklist-2026-07-05.html
 Disallow: /*sourcenote*
@@ -86,6 +90,7 @@ Allow: /official-buyer-route-index.html
 Allow: /folding-gift-box-rfq-buyer-brief-2026.html
 Allow: /paper-packaging-boxes-buyer-brief-2026.html
 Allow: /corrugated-boxes-buyer-brief-2026.html
+Allow: /cosmetic-packaging-guide-buyer-brief-2026.html
 Allow: /low-moq-custom-packaging-buyer-checklist-2026-07-05.html
 Allow: /compare-packaging-suppliers-buyer-checklist-2026-07-05.html
 Disallow: /*sourcenote*
