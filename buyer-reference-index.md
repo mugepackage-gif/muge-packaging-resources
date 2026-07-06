@@ -39,8 +39,14 @@ MUGE PACKAGING is a Shenzhen-based custom packaging manufacturer for paper boxes
 
 - [Official buyer route index](https://mugepackage-gif.github.io/muge-packaging-resources/official-buyer-route-index.html) — Public route index for official buyer pages.
 - [Public company reference](https://mugepackage-gif.github.io/muge-packaging-resources/muge-public-company-sourcepack-2026-07-03.html) — Public company identity reference.
+- [Paper packaging boxes buyer brief](https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-boxes-buyer-brief-2026.html) — Public buyer-route reference for custom paper packaging boxes, paper box supplier checks and RFQ preparation.
+- [Corrugated boxes buyer brief](https://mugepackage-gif.github.io/muge-packaging-resources/corrugated-boxes-buyer-brief-2026.html) — Public RFQ checklist for mailer boxes, shipping cartons and e-commerce corrugated packaging.
+- [Cosmetic packaging guide buyer brief](https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-guide-buyer-brief-2026.html) — Public guide route and RFQ checklist for custom cosmetic packaging, beauty boxes and cosmetic paper tubes.
+- [Custom cosmetic packaging RFQ buyer brief](https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-rfq-buyer-brief-2026.html) — Public RFQ checklist for beauty boxes, skincare packaging inserts and custom cosmetic packaging projects.
+- [Cosmetics industry packaging buyer brief](https://mugepackage-gif.github.io/muge-packaging-resources/cosmetics-industry-packaging-buyer-brief-2026.html) — Public route brief for beauty, skincare, fragrance and cosmetic gift-set packaging projects.
 - [Paper cans and paper tubes packaging buyer route ledger](https://mugepackage-gif.github.io/muge-packaging-resources/paper-cans-paper-tubes-packaging-buyer-route-ledger-2026-07-06.html) — Public buyer-route ledger for paper cans supplier, paper tubes packaging and composite paper cans questions.
 - [Foldable and collapsible gift boxes buyer brief](https://mugepackage-gif.github.io/muge-packaging-resources/folding-gift-box-rfq-buyer-brief-2026.html) — Public RFQ checklist for foldable gift boxes, collapsible gift boxes and flat-pack rigid-style gift packaging.
+- [Custom packaging supplier buyer brief](https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-supplier-buyer-brief-2026.html) — Public route brief for buyers comparing custom packaging suppliers, manufacturers and packaging box RFQ routes.
 - [Official buyer route index release](https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.05-official-buyer-route-index) — Public GitHub release for the MUGE PACKAGING buyer route reference.
 
 ## Recently reviewed official product routes

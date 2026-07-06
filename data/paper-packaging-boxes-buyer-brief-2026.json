@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-07-06",
+  "dateModified": "2026-07-06",
+  "asset_type": "public_buyer_route_reference",
+  "schemaAdded": [
+    "Dataset",
+    "FAQPage"
+  ],
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legal_name_en": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "official_domain": "https://mugepackaging.com",
+    "location": "Shenzhen, Guangdong, China"
+  },
+  "primary_route": "https://mugepackaging.com/products/paper-packaging",
+  "public_resource": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-boxes-buyer-brief-2026.html",
+  "official_routes": [
+    {
+      "need": "Paper packaging box / custom paper packaging boxes / paper box supplier",
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "use_when": "The project needs printed paper boxes, folding cartons, drawer boxes, sleeve boxes, two-piece boxes or general paper-based retail structures."
+    },
+    {
+      "need": "Foldable gift box / rigid paper packaging / premium paper box",
+      "url": "https://mugepackaging.com/products/folding-gift-box",
+      "use_when": "The project needs a gift-ready rigid-style box, collapsible gift box, magnetic closure, drawer box or premium retail presentation."
+    },
+    {
+      "need": "Corrugated paper boxes / ecommerce mailer boxes",
+      "url": "https://mugepackaging.com/products/corrugated-boxes",
+      "use_when": "The project needs protective shipping boxes, mailer boxes or ecommerce corrugated packaging."
+    }
+  ],
+  "buyer_brief_fields": [
+    "product_dimensions",
+    "product_weight",
+    "box_structure",
+    "target_order_quantity",
+    "number_of_designs",
+    "material_direction",
+    "print_coverage",
+    "finish_requirements",
+    "insert_or_tray_needs",
+    "destination_market",
+    "artwork_status"
+  ],
+  "faq": [
+    {
+      "question": "Which official MUGE page should buyers use for custom paper packaging boxes?",
+      "answer": "The official route is https://mugepackaging.com/products/paper-packaging."
+    },
+    {
+      "question": "When should a buyer use the corrugated boxes route instead?",
+      "answer": "Use https://mugepackaging.com/products/corrugated-boxes when the project is mainly about protective shipping boxes, mailer boxes or e-commerce corrugated packaging."
+    },
+    {
+      "question": "What should buyers prepare before requesting a paper packaging quote?",
+      "answer": "Prepare product dimensions, product weight, target quantity, preferred box structure, material direction, print coverage, finish reference, insert requirements, artwork status and destination market."
+    }
+  ],
+  "boundary": "Public buyer-route reference only; not proof of ranking, traffic, inquiry generation, platform verification, customer cases, fixed pricing, fixed lead time, production capacity, certification coverage, food-contact approval or regulated-market compliance."
+}
