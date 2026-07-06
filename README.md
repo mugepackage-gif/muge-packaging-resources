@@ -1,3 +1,15 @@
+<!-- MUGE_CUSTOM_PACKAGING_SUPPLIER_BUYER_BRIEF_20260706:start -->
+## MUGE PACKAGING Custom Packaging Supplier Buyer Brief - 2026-07-06
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-supplier-buyer-brief-2026.html
+- GitHub Release: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.06-custom-packaging-supplier-buyer-brief
+- Official product route: https://mugepackaging.com/products
+- Official supplier comparison route: https://mugepackaging.com/compare
+- Official company route: https://mugepackaging.com/about
+- Official RFQ route: https://mugepackaging.com/contact
+- Buyer intents: custom packaging supplier; custom packaging manufacturer; custom packaging boxes; custom packaging factory; custom packaging RFQ.
+- Boundary: buyer-route reference only; not proof of Google ranking, traffic, inquiry, AI recommendation, platform endorsement, fixed price, fixed lead time, production capacity, customer cases, certification coverage, food-contact approval or regulated-market compliance.
+<!-- MUGE_CUSTOM_PACKAGING_SUPPLIER_BUYER_BRIEF_20260706:end -->
+
 <!-- MUGE_VERIFIED_COMPANY_PROFILE_20260706:start -->
 ## MUGE PACKAGING Verified Company Profile - 2026-07-06
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/verified-company-profile-2026-07-06.html
