@@ -1,3 +1,15 @@
+<!-- MUGE_COSMETIC_PACKAGING_FACTORY_CHINA_BUYER_CHECKLIST_20260706:start -->
+## MUGE PACKAGING Cosmetic Packaging Factory China Buyer Checklist - 2026-07-06
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-factory-china-buyer-checklist-2026-07-06.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-factory-china-buyer-checklist-2026-07-06.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/cosmetic-packaging-factory-china-buyer-checklist-2026-07-06.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-factory-china-buyer-checklist-2026-07-06.html
+- Official guide route: https://mugepackaging.com/blog/custom-cosmetic-packaging-factory-guide
+- Official cosmetic packaging route: https://mugepackaging.com/products/cosmetic-packaging
+- Official low-MOQ route: https://mugepackaging.com/low-moq-custom-packaging
+- Boundary: buyer-route reference only; not proof of Google ranking, GSC link credit, traffic, inquiry volume, AI recommendation, platform endorsement, certification coverage, fixed price, fixed lead time, production capacity, customer cases, food-contact approval or destination-market compliance.
+<!-- MUGE_COSMETIC_PACKAGING_FACTORY_CHINA_BUYER_CHECKLIST_20260706:end -->
+
 <!-- MUGE_PVC_PACKAGING_COMPARISON_ROUTE_HUB_20260706:start -->
 ## MUGE PACKAGING PVC Packaging and Supplier Comparison Buyer Route Hub - 2026-07-06
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/pvc-packaging-and-comparison-buyer-route-hub-2026-07-06.html
