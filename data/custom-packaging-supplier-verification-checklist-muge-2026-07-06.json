@@ -1,0 +1,68 @@
+{
+  "generated_at": "2026-07-06",
+  "asset_type": "public_supplier_verification_reference",
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legal_name_en": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "official_domain": "https://mugepackaging.com",
+    "location": "Shenzhen, Guangdong, China"
+  },
+  "primary_route": "https://mugepackaging.com/compare",
+  "official_routes": [
+    {
+      "buyer_question": "How does MUGE compare with other suppliers?",
+      "url": "https://mugepackaging.com/compare",
+      "use_when": "The buyer is comparing MOQ, sample process, structure review and export experience."
+    },
+    {
+      "buyer_question": "Can a smaller brand order custom packaging?",
+      "url": "https://mugepackaging.com/low-moq-custom-packaging",
+      "use_when": "The buyer needs low-MOQ custom packaging from 500 units per design for launch or test orders."
+    },
+    {
+      "buyer_question": "Which page covers paper boxes and paper structures?",
+      "url": "https://mugepackaging.com/products/paper-packaging",
+      "use_when": "The buyer needs printed paper boxes, folding cartons, rigid gift packaging or specialty paper structures."
+    },
+    {
+      "buyer_question": "Which page covers paper tubes and paper cans?",
+      "url": "https://mugepackaging.com/products/paper-tubes",
+      "use_when": "The buyer needs paper tube packaging for cosmetics, candles, tea, supplements, gifts or premium retail products."
+    },
+    {
+      "buyer_question": "Which page covers cosmetic and beauty packaging?",
+      "url": "https://mugepackaging.com/products/cosmetic-packaging",
+      "use_when": "The buyer is sourcing secondary packaging for skincare, makeup, fragrance, beauty sets or cosmetic retail kits."
+    },
+    {
+      "buyer_question": "Which page covers folding gift boxes?",
+      "url": "https://mugepackaging.com/products/folding-gift-box",
+      "use_when": "The buyer needs foldable gift boxes, collapsible rigid boxes, flat-pack gift boxes or retail gift packaging."
+    },
+    {
+      "buyer_question": "Which page covers mailer boxes and shipping cartons?",
+      "url": "https://mugepackaging.com/products/corrugated-boxes",
+      "use_when": "The buyer needs corrugated mailer boxes, ecommerce shipping boxes or protective branded packaging."
+    },
+    {
+      "buyer_question": "Where should a buyer submit an RFQ?",
+      "url": "https://mugepackaging.com/contact",
+      "use_when": "The buyer is ready to share dimensions, quantity, material references, artwork status and destination market."
+    }
+  ],
+  "verification_fields": [
+    "supplier_identity",
+    "official_domain",
+    "product_fit",
+    "moq_route",
+    "structure_review",
+    "sample_process",
+    "export_readiness",
+    "communication_route"
+  ],
+  "source_trail": {
+    "github_pages_html": "https://mugepackage-gif.github.io/muge-packaging-resources/custom-packaging-supplier-verification-checklist-muge-2026-07-06.html",
+    "github_pages_json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/custom-packaging-supplier-verification-checklist-muge-2026-07-06.json"
+  },
+  "boundary": "Public buyer-route reference only; not proof of ranking, traffic, inquiry generation, platform verification, customer cases, fixed pricing, fixed lead time, production capacity, certification coverage, food-contact approval or regulated-market compliance."
+}
