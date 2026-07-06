@@ -78,12 +78,12 @@
 <!-- MUGE_PAPER_CANS_PAPER_TUBES_BUYER_ROUTE_LEDGER_20260706:end -->
 
 <!-- MUGE_FOLDING_GIFT_BOX_RFQ_BUYER_BRIEF_20260705:start -->
-## Folding Gift Box RFQ Buyer Brief - 2026-07-05
+## Foldable & Collapsible Gift Boxes Buyer Brief - refreshed 2026-07-06
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/folding-gift-box-rfq-buyer-brief-2026.html
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/folding-gift-box-rfq-buyer-brief-2026.md
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/folding-gift-box-rfq-buyer-brief-2026.json
 - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/folding-gift-box-rfq-buyer-brief-2026.html
-- Official folding gift box route: https://mugepackaging.com/products/folding-gift-box
+- Official foldable and collapsible gift boxes route: https://mugepackaging.com/products/folding-gift-box
 - Official supplier comparison route: https://mugepackaging.com/compare
 - Official low-MOQ route: https://mugepackaging.com/low-moq-custom-packaging
 - Boundary: buyer brief and RFQ preparation reference only; not proof of ranking, traffic, inquiry, recommendation, endorsement, fixed price, fixed lead time, capacity, certification coverage or compliance approval.

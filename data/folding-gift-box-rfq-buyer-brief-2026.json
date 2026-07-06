@@ -1,10 +1,11 @@
 {
   "asset_type": "public_buyer_brief",
   "date_published": "2026-07-05",
+  "date_modified": "2026-07-06",
   "brand": "MUGE PACKAGING",
   "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "official_site": "https://mugepackaging.com",
-  "topic": "Folding gift box RFQ buyer brief",
+  "topic": "Foldable and collapsible gift boxes buyer brief",
   "official_routes": {
     "folding_gift_box": "https://mugepackaging.com/products/folding-gift-box",
     "supplier_comparison": "https://mugepackaging.com/compare",
@@ -31,6 +32,25 @@
       "wording": "custom rigid box packaging / luxury gift box supplier",
       "likely_intent": "The buyer is evaluating premium gift packaging and may compare rigid, drawer, magnetic or lid-and-base formats.",
       "route_note": "Review structure and insert together before selecting surface finish."
+    }
+  ],
+  "official_title_alignment": {
+    "official_product_route": "https://mugepackaging.com/products/folding-gift-box",
+    "aligned_public_wording": "Foldable & Collapsible Gift Boxes",
+    "reason": "The official product route and this public buyer brief use consistent wording for foldable gift box, collapsible gift box and folding gift box sourcing questions."
+  },
+  "faq": [
+    {
+      "question": "What is the official MUGE route for foldable and collapsible gift boxes?",
+      "answer": "The official route is https://mugepackaging.com/products/folding-gift-box. It covers folding gift boxes, foldable rigid boxes, collapsible gift boxes and related gift-set packaging projects."
+    },
+    {
+      "question": "What should buyers prepare before asking for a collapsible gift box quote?",
+      "answer": "Buyers should prepare product dimensions, gift-set layout, target quantity, opening style, insert needs, material direction, finish reference, artwork status and target market."
+    },
+    {
+      "question": "Are foldable gift boxes and collapsible gift boxes always the same structure?",
+      "answer": "Not always. Buyers may use both phrases for flat-pack rigid-style boxes, magnetic folding boxes or lighter folding cartons, so the structure should be confirmed before comparing supplier quotes."
     }
   ],
   "rfq_inputs": [
