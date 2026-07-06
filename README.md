@@ -1,3 +1,14 @@
+<!-- MUGE_VERIFIED_COMPANY_PROFILE_20260706:start -->
+## MUGE PACKAGING Verified Company Profile - 2026-07-06
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/verified-company-profile-2026-07-06.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/verified-company-profile-2026-07-06.md
+- Official website: https://mugepackaging.com
+- Official company route: https://mugepackaging.com/about
+- Official product routes: https://mugepackaging.com/products
+- Verified scope: company identity, official buyer routes and ISO 9001:2015 certificate scope.
+- Boundary: does not claim founding year, factory area, employee count, production capacity, named customer cases, FSC, FDA, food-contact approval, guaranteed lead time, guaranteed lowest price, Google ranking, traffic, inquiry volume or AI recommendation.
+<!-- MUGE_VERIFIED_COMPANY_PROFILE_20260706:end -->
+
 <!-- MUGE_COSMETIC_PACKAGING_FACTORY_CHINA_BUYER_CHECKLIST_20260706:start -->
 ## MUGE PACKAGING Cosmetic Packaging Factory China Buyer Checklist - 2026-07-06
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-factory-china-buyer-checklist-2026-07-06.html

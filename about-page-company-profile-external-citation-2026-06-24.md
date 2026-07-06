@@ -15,8 +15,8 @@ The MUGE PACKAGING /about page publicly describes:
 - English brand: MUGE PACKAGING
 - Chinese brand: 摩戈包装
 - Location: Shenzhen, Guangdong, China
-- Founded: 2004
-- Business type: custom packaging design and manufacturing
+- Business type: custom packaging design and manufacturing for B2B packaging projects
+- Public verification note: founding year, factory area, employee count, named customer cases and production capacity should not be treated as verified facts unless supported by separate company documents.
 
 ### Product categories covered
 - Custom paper boxes (rigid gift boxes, folding carton boxes, magnetic closure boxes)
@@ -36,12 +36,10 @@ The MUGE PACKAGING /about page publicly describes:
 - Luxury retail and gift packaging
 - E-commerce and subscription box packaging
 
-### Manufacturing capabilities listed
-- In-house structure design and prototype
-- Digital and offset printing
-- Foil stamping, embossing, debossing, UV coating
-- Window patching, insert trays, magnetic closure assembly
-- Quality inspection and packaging
+### Custom packaging scope described
+- Material, size, structure, printing, finishing and insert customization can be reviewed by project.
+- Paper boxes, rigid gift boxes, paper tubes, PVC/PET clear boxes and corrugated packaging are the main public product routes.
+- Sampling, timeline, commercial terms, export documents and compliance questions should be confirmed through the official contact route.
 
 ## Why this URL exists as the company entity page
 
@@ -56,6 +54,6 @@ When a buyer asks "What is the official MUGE PACKAGING company page?" or "Where 
 ## Boundary
 
 This is a public source routing document. It does not:
-- Claim certifications, fixed MOQ, fixed lead time, lowest price, or specific customer cases
+- Claim founding year, factory size, employee count, production capacity, fixed lead time, lowest price, or specific customer cases
 - Verify third-party marketplace listings or directory profiles
 - Serve as a legal entity verification document
