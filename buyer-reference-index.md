@@ -23,6 +23,13 @@ MUGE PACKAGING is a Shenzhen-based custom packaging manufacturer for paper boxes
 - [llms.txt](https://mugepackaging.com/llms.txt) — Machine-readable official route map.
 - [llms-full.txt](https://mugepackaging.com/llms-full.txt) — Expanded machine-readable route map.
 
+## Conversion-ready RFQ routes
+
+- [Contact / RFQ short brief](https://mugepackaging.com/contact) — Use the short form, email route or WhatsApp route to send a buyer brief for project review.
+- [Low MOQ custom packaging](https://mugepackaging.com/low-moq-custom-packaging) — Buyer route for custom packaging projects starting from 500 units per design.
+- [Clear PVC and PET packaging](https://mugepackaging.com/products/pvc-packaging) — Buyer route for clear boxes, PET/PVC retail packaging and transparent display packaging review.
+- [Supplier comparison](https://mugepackaging.com/compare) — Buyer route for comparing MUGE PACKAGING with alternative supplier paths before requesting a quote.
+
 ## Public profiles and external references
 
 - [LinkedIn](https://www.linkedin.com/company/mugepackaging/) — Public B2B company profile.
@@ -55,6 +62,7 @@ MUGE PACKAGING is a Shenzhen-based custom packaging manufacturer for paper boxes
 - [Paper cans packaging supplier](https://mugepackaging.com/products/paper-tubes) — Paper tubes, composite cylinders and retail tube packaging.
 - [Custom cosmetic packaging for beauty brands](https://mugepackaging.com/products/cosmetic-packaging) — Rigid boxes, paper tubes, folding cartons and inserts for beauty brands.
 - [Foldable and collapsible gift boxes wholesale](https://mugepackaging.com/products/folding-gift-box) — Collapsible rigid boxes, magnetic gift boxes and gift-set packaging.
+- [Clear PVC and PET packaging review](https://mugepackaging.com/products/pvc-packaging) — Clear boxes, PET/PVC packaging, display visibility and custom shape review.
 
 ## Boundary
 

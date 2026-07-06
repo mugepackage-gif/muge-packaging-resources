@@ -22,6 +22,13 @@ The old website route family for legacy AI route pages is no longer used as a po
 - [llms.txt](https://mugepackaging.com/llms.txt) — AI-readable official route map for MUGE PACKAGING.
 - [llms-full.txt](https://mugepackaging.com/llms-full.txt) — Expanded AI-readable route map and citation boundary.
 
+## Conversion-ready RFQ routes
+
+- [Contact / RFQ short brief](https://mugepackaging.com/contact) — Use the short form, email route or WhatsApp route to send a packaging buyer brief.
+- [Low MOQ custom packaging](https://mugepackaging.com/low-moq-custom-packaging) — Official route for custom packaging projects starting from 500 units per design.
+- [Clear PVC and PET packaging](https://mugepackaging.com/products/pvc-packaging) — Official route for clear boxes, PET/PVC packaging, retail display and custom-shape review.
+- [Supplier comparison](https://mugepackaging.com/compare) — Official route for buyers comparing custom packaging supplier options before requesting a quote.
+
 ## Boundary
 
 This page is a clean external route index for AI readers and buyer-side sourcing research. The old website route family for legacy AI route pages is deprecated and now returns 410/noindex on the official website. Use the official product, industry, comparison, low-MOQ, contact and llms routes listed here instead. This page is not proof of Google ranking, traffic, inquiry volume, AI recommendation, third-party endorsement, verified supplier status, fixed lead time, fixed price, lowest price, customer cases, production capacity or regulated-market approval.
