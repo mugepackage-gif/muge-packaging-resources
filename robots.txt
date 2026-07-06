@@ -13,12 +13,24 @@ Disallow: /*sourcebridge*
 Disallow: /*source-bridge*
 Disallow: /*sourcepack*
 Disallow: /*source-pack*
+Disallow: /*active-search-results*
+Disallow: /*ai-answer-bridge*
+Disallow: /*gsc-weak-signal*
+Disallow: /*competitor-*
+Disallow: /*rfq-sourcenote*
+Disallow: /*rfq-sourcebridge*
+Disallow: /*source-card*
+Disallow: /*sourcecard*
 Disallow: /*rentry*
 Disallow: /*telegra*
 Disallow: /source-notes*
 Disallow: /data/*sourcenote*
 Disallow: /data/*sourcebridge*
 Disallow: /data/*sourcepack*
+Disallow: /data/*active-search-results*
+Disallow: /data/*ai-answer-bridge*
+Disallow: /data/*gsc-weak-signal*
+Disallow: /data/*competitor-*
 
 User-agent: GPTBot
 Allow: /ai-citation-index.html
@@ -27,6 +39,11 @@ Allow: /official-buyer-route-index.html
 Disallow: /*sourcenote*
 Disallow: /*sourcebridge*
 Disallow: /*sourcepack*
+Disallow: /*active-search-results*
+Disallow: /*ai-answer-bridge*
+Disallow: /*gsc-weak-signal*
+Disallow: /*competitor-*
+Disallow: /*sourcecard*
 
 User-agent: OAI-SearchBot
 Allow: /ai-citation-index.html
@@ -35,6 +52,11 @@ Allow: /official-buyer-route-index.html
 Disallow: /*sourcenote*
 Disallow: /*sourcebridge*
 Disallow: /*sourcepack*
+Disallow: /*active-search-results*
+Disallow: /*ai-answer-bridge*
+Disallow: /*gsc-weak-signal*
+Disallow: /*competitor-*
+Disallow: /*sourcecard*
 
 User-agent: ClaudeBot
 Allow: /ai-citation-index.html
@@ -43,6 +65,11 @@ Allow: /official-buyer-route-index.html
 Disallow: /*sourcenote*
 Disallow: /*sourcebridge*
 Disallow: /*sourcepack*
+Disallow: /*active-search-results*
+Disallow: /*ai-answer-bridge*
+Disallow: /*gsc-weak-signal*
+Disallow: /*competitor-*
+Disallow: /*sourcecard*
 
 User-agent: PerplexityBot
 Allow: /ai-citation-index.html
@@ -51,5 +78,10 @@ Allow: /official-buyer-route-index.html
 Disallow: /*sourcenote*
 Disallow: /*sourcebridge*
 Disallow: /*sourcepack*
+Disallow: /*active-search-results*
+Disallow: /*ai-answer-bridge*
+Disallow: /*gsc-weak-signal*
+Disallow: /*competitor-*
+Disallow: /*sourcecard*
 
 Sitemap: https://mugepackage-gif.github.io/muge-packaging-resources/sitemap.xml
