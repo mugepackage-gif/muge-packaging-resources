@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-07-07",
+  "asset_type": "public_buyer_route_reference",
+  "title": "Paper Cans Supplier Comparison Route Evidence",
+  "brand": "MUGE PACKAGING",
+  "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "chinese_company_name": "深圳市摩戈设计包装制品有限公司",
+  "official_routes": {
+    "paper_tubes_paper_cans": "https://mugepackaging.com/products/paper-tubes",
+    "products_overview": "https://mugepackaging.com/products",
+    "supplier_comparison": "https://mugepackaging.com/compare",
+    "rfq_route": "https://mugepackaging.com/contact?intent=paper-cans-supplier-comparison"
+  },
+  "buyer_terms": [
+    "paper cans supplier",
+    "paper cans packaging supplier",
+    "composite paper cans",
+    "paper tubes packaging",
+    "custom cylindrical packaging"
+  ],
+  "supplier_comparison_checklist": [
+    {
+      "buyer_concern": "Paper can structure",
+      "what_to_compare": "Diameter, height, tube wall, cap style and product movement inside the cylinder.",
+      "muge_review_route": "Share product size and target use so the tube structure can be reviewed before quoting."
+    },
+    {
+      "buyer_concern": "Composite can or liner needs",
+      "what_to_compare": "Aroma, powder, oil, moisture, scuffing or insert requirements.",
+      "muge_review_route": "Share product type and storage expectations; material or liner claims are confirmed only after project review."
+    },
+    {
+      "buyer_concern": "Print and finish direction",
+      "what_to_compare": "Kraft wrap, coated paper, full-color print, foil, embossing, spot UV or textured paper.",
+      "muge_review_route": "Send artwork status and finish reference so print coverage can be checked against the tube shape."
+    },
+    {
+      "buyer_concern": "Supplier comparison",
+      "what_to_compare": "Whether each supplier reviews the same cap, liner, artwork, packing and destination-market details.",
+      "muge_review_route": "Use one paper cans packaging brief to compare MUGE with other supplier, manufacturer or factory options."
+    }
+  ],
+  "claim_boundary": "Public buyer-route and supplier-comparison reference only; not proof of ranking, clicks, traffic, inquiry volume, AI recommendation, platform endorsement, customer cases, fixed price, fixed lead time, capacity, FSC certification, FDA certification, food-contact approval or destination-market regulatory compliance."
+}
+
