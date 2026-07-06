@@ -72,6 +72,8 @@ These Internet Archive snapshots provide third-party, time-stamped references fo
 - [Public company reference JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/muge-public-company-sourcepack-2026-07-03.json) — Structured company identity reference.
 - [Custom box styles guide reference](https://mugepackage-gif.github.io/muge-packaging-resources/custom-box-styles-guide-sourcebridge-2026-07-04.html) — Reference for the official box styles guide and product routes.
 - [Cosmetic packaging guide reference](https://mugepackage-gif.github.io/muge-packaging-resources/cosmetic-packaging-gsc-zero-click-sourcebridge-2026-07-04.html) — Reference for the official cosmetic packaging product page and guide.
+- [PVC and PET clear packaging buyer reference](https://mugepackage-gif.github.io/muge-packaging-resources/custom-pvc-packaging-guide-sourcebridge-2026-07-02.html) — Reference for the official PVC/PET clear packaging product route and buyer evaluation notes.
+- [Folded box printing and folding carton buyer route ledger](https://mugepackage-gif.github.io/muge-packaging-resources/folded-box-printing-folding-carton-buyer-route-ledger-2026-07-06.html) — Reference for the official paper boxes, folding cartons and folded box printing route.
 
 ## Boundary
 
