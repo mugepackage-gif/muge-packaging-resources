@@ -2,6 +2,8 @@
 
 Generated: 2026-07-05 22:08 CST
 
+Last updated: 2026-07-06 16:20 CST
+
 ## Purpose
 
 This ledger records the corrected public profile and Internet Archive evidence for MUGE PACKAGING after the official `llms.txt` and `llms-full.txt` routes were updated on 2026-07-05.
@@ -30,6 +32,19 @@ It helps buyers, search engines and AI answer engines identify which public prof
 | Pinterest | https://www.pinterest.com/MugePackaging/ | https://web.archive.org/web/20260705134333/https://www.pinterest.com/MugePackaging/ | Confirmed public visual profile snapshot. |
 | Pinterest board | https://www.pinterest.com/mpackaging1476/mugepackaging/ | https://web.archive.org/web/20260705134359/https://www.pinterest.com/mpackaging1476/mugepackaging/ | Confirmed public board snapshot containing MUGE Packaging signals. |
 | YouTube | https://www.youtube.com/@mugepackaging4547 | https://web.archive.org/web/20260705134429/https://www.youtube.com/@mugepackaging4547 | Confirmed public video/social profile snapshot. |
+| Pinterest board refresh | https://www.pinterest.com/mpackaging1476/mugepackaging/ | https://web.archive.org/web/20260706081503/https://www.pinterest.com/mpackaging1476/mugepackaging/ | Confirmed refreshed public board snapshot; archive content includes Pinterest / mugepackaging signals. |
+| GitHub Release | https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.06-custom-packaging-supplier-buyer-brief | https://web.archive.org/web/20260706081712/https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.06-custom-packaging-supplier-buyer-brief | Confirmed public GitHub Release snapshot for the custom packaging supplier buyer brief. |
+
+## Archive attempts not counted as confirmed evidence
+
+| Platform | URL | Result | Interpretation |
+|---|---|---|---|
+| LinkedIn | https://www.linkedin.com/company/mugepackaging/ | Internet Archive save returned 523 on 2026-07-06 | Not counted as a new 2026-07-06 archive snapshot. |
+| Instagram | https://www.instagram.com/mugepackaging/ | Internet Archive save returned 523 on 2026-07-06 | Not counted as a confirmed archive snapshot. |
+| Facebook | https://www.facebook.com/MugePackaging/ | Internet Archive save timed out on 2026-07-06 | Not counted as a confirmed archive snapshot. |
+| Alibaba | https://moketech.en.alibaba.com/ | Internet Archive save redirected to error.alibaba.com | Not counted as valid company profile evidence. |
+| ExportHub | https://www.exporthub.com/shenzhen-moge-technology-co-ltd | Internet Archive save returned 520 on 2026-07-06 | Not counted as a confirmed archive snapshot. |
+| Tech in Asia | https://www.techinasia.com/companies/muge-packaging-1 | Internet Archive save timed out on 2026-07-06 | Not counted as a confirmed archive snapshot. |
 
 ## Live-only public profile references
 
@@ -59,4 +74,3 @@ Production deploy:
 ## Boundary
 
 This ledger is public profile and archive evidence only. It is not proof of Google ranking, GSC link credit, AI recommendation, platform verification, certification coverage, customer cases, traffic, inquiries, fixed pricing, fixed lead time, production capacity, famous-brand endorsement, food-contact approval or regulated-market compliance.
-

@@ -1,5 +1,6 @@
 {
   "generated_at": "2026-07-05T22:08:00+08:00",
+  "last_updated_at": "2026-07-06T16:20:00+08:00",
   "entity": {
     "legal_company_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
     "brand_name": "MUGE PACKAGING",
@@ -42,6 +43,56 @@
       "public_profile_url": "https://www.youtube.com/@mugepackaging4547",
       "archive_url": "https://web.archive.org/web/20260705134429/https://www.youtube.com/@mugepackaging4547",
       "interpretation": "Confirmed public video/social profile snapshot."
+    },
+    {
+      "platform": "Pinterest board refresh",
+      "public_profile_url": "https://www.pinterest.com/mpackaging1476/mugepackaging/",
+      "archive_url": "https://web.archive.org/web/20260706081503/https://www.pinterest.com/mpackaging1476/mugepackaging/",
+      "interpretation": "Confirmed refreshed public board snapshot; archive content includes Pinterest / mugepackaging signals."
+    },
+    {
+      "platform": "GitHub Release",
+      "public_profile_url": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.06-custom-packaging-supplier-buyer-brief",
+      "archive_url": "https://web.archive.org/web/20260706081712/https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.06-custom-packaging-supplier-buyer-brief",
+      "interpretation": "Confirmed public GitHub Release snapshot for the custom packaging supplier buyer brief."
+    }
+  ],
+  "archive_attempts_not_counted": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/company/mugepackaging/",
+      "result": "Internet Archive save returned 523 on 2026-07-06",
+      "interpretation": "Not counted as a new 2026-07-06 archive snapshot."
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/mugepackaging/",
+      "result": "Internet Archive save returned 523 on 2026-07-06",
+      "interpretation": "Not counted as a confirmed archive snapshot."
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/MugePackaging/",
+      "result": "Internet Archive save timed out on 2026-07-06",
+      "interpretation": "Not counted as a confirmed archive snapshot."
+    },
+    {
+      "platform": "Alibaba",
+      "url": "https://moketech.en.alibaba.com/",
+      "result": "Internet Archive save redirected to error.alibaba.com",
+      "interpretation": "Not counted as valid company profile evidence."
+    },
+    {
+      "platform": "ExportHub",
+      "url": "https://www.exporthub.com/shenzhen-moge-technology-co-ltd",
+      "result": "Internet Archive save returned 520 on 2026-07-06",
+      "interpretation": "Not counted as a confirmed archive snapshot."
+    },
+    {
+      "platform": "Tech in Asia",
+      "url": "https://www.techinasia.com/companies/muge-packaging-1",
+      "result": "Internet Archive save timed out on 2026-07-06",
+      "interpretation": "Not counted as a confirmed archive snapshot."
     }
   ],
   "live_only_public_profile_references": [
