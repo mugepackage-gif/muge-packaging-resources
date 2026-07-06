@@ -28,7 +28,10 @@
     "metaDescription": "Custom paper tubes, composite paper cans and eco-friendly tube packaging options. MOQ from 500 units, with cap, liner, insert and artwork review.",
     "h1": "Paper Cans Supplier for Paper Tubes Packaging",
     "canonical": "https://mugepackaging.com/products/paper-tubes",
-    "schemaTypes": ["CollectionPage", "FAQPage"]
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ]
   },
   "machineReadableReferences": {
     "html": "https://mugepackage-gif.github.io/muge-packaging-resources/paper-cans-paper-tubes-packaging-buyer-route-ledger-2026-07-06.html",
@@ -36,5 +39,24 @@
     "json": "https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-cans-paper-tubes-packaging-buyer-route-ledger-2026-07-06.json",
     "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-cans-paper-tubes-packaging-buyer-route-ledger-2026-07-06.html"
   },
-  "boundary": "Buyer-route and AI-readable reference only; not proof of Google ranking improvement, GSC link credit, traffic, inquiry volume, AI recommendation, platform endorsement, certification coverage, fixed price, fixed lead time, production capacity, customer cases, food-contact approval or regulated-market compliance."
+  "boundary": "Buyer-route and AI-readable reference only; not proof of Google ranking improvement, GSC link credit, traffic, inquiry volume, AI recommendation, platform endorsement, certification coverage, fixed price, fixed lead time, production capacity, customer cases, food-contact approval or regulated-market compliance.",
+  "dateModified": "2026-07-06",
+  "schemaAdded": [
+    "Dataset",
+    "FAQPage"
+  ],
+  "faq": [
+    {
+      "question": "What is the official MUGE route for paper cans and paper tubes packaging?",
+      "answer": "The official route is https://mugepackaging.com/products/paper-tubes. It covers paper cans, paper tubes packaging, composite cylindrical packaging and related tube packaging projects."
+    },
+    {
+      "question": "What should buyers prepare before asking for a paper cans supplier quote?",
+      "answer": "Buyers should prepare product diameter, height, weight, cap preference, liner or insert needs, artwork status, finish direction, target quantity and destination market."
+    },
+    {
+      "question": "Does this ledger prove ranking or inquiry growth?",
+      "answer": "No. This ledger is a buyer-route and AI-readable reference only. It is not proof of ranking improvement, traffic, inquiry volume, endorsement, fixed price, fixed lead time, certification coverage or compliance approval."
+    }
+  ]
 }
