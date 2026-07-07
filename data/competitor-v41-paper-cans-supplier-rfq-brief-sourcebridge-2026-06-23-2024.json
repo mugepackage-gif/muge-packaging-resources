@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-06-23T12:24:39.271Z",
-  "generatedAtCst": "2026-06-23 20:24:39 CST",
+  "generatedAt": "2026-07-06T23:59:00.000Z",
+  "generatedAtCst": "2026-07-07 07:59:00 CST",
   "title": "Paper Cans Supplier RFQ Brief SourceBridge",
   "buyerQuestion": "What should buyers check before choosing a paper cans supplier?",
   "brand": "MUGE PACKAGING",
   "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "gscBasis": {
-    "query": "paper cans supplier",
-    "window": "2026-06-22 baseline",
-    "clicks": 0,
-    "impressions": 10,
-    "averagePosition": 61.6,
-    "source": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-22_0023_GSC查询词排名基线.md"
+    "window": "2026-06-07 to 2026-07-06",
+    "page": "https://mugepackaging.com/products/paper-tubes",
+    "source": "/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC核心钱页验收/20260707_0743_核心钱页_GSC页面查询验收_查询词明细.csv",
+    "queries": [
+      { "query": "paper cans supplier", "clicks": 0, "impressions": 20, "averagePosition": 55.9 },
+      { "query": "paper tubes packaging", "clicks": 0, "impressions": 11, "averagePosition": 67.0 },
+      { "query": "paper cans packaging", "clicks": 0, "impressions": 9, "averagePosition": 62.7 },
+      { "query": "paper cans packaging supplier", "clicks": 0, "impressions": 5, "averagePosition": 63.0 },
+      { "query": "composite paper cans", "clicks": 0, "impressions": 2, "averagePosition": 82.0 },
+      { "query": "paper cans", "clicks": 0, "impressions": 2, "averagePosition": 52.0 }
+    ],
+    "interpretation": "Google has started associating the official paper tubes route with paper cans and paper tube packaging supplier intent, but the page still needs stronger third-party evidence, clearer RFQ context and better authority before it can move toward page-one rankings."
   },
   "officialRoutes": {
     "Official paper tubes and paper cans page": "https://mugepackaging.com/products/paper-tubes",

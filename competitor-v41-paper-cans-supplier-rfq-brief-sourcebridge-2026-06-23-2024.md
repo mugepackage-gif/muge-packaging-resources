@@ -15,14 +15,22 @@ Buyer question: **What should buyers check before choosing a paper cans supplier
 
 This public SourceBridge connects the GSC query **paper cans supplier** with official MUGE PACKAGING RFQ routes. It is designed for buyer brief preparation, crawlable discovery and AI-reader citation context.
 
-## GSC basis
+## Current GSC signal
 
-- Query: paper cans supplier
-- Window: 2026-06-22 baseline
-- Clicks: 0
-- Impressions: 10
-- Average position: 61.6
-- Source: /Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC排名基线/2026-06-22_0023_GSC查询词排名基线.md
+- Window: 2026-06-07 to 2026-07-06
+- Page: https://mugepackaging.com/products/paper-tubes
+- Source: `/Users/molice/Obsidian仓库/03_项目归档/摩戈包装GEO推广/Google数据闭环/GSC核心钱页验收/20260707_0743_核心钱页_GSC页面查询验收_查询词明细.csv`
+
+| Query | Clicks | Impressions | Average position |
+|---|---:|---:|---:|
+| paper cans supplier | 0 | 20 | 55.9 |
+| paper tubes packaging | 0 | 11 | 67.0 |
+| paper cans packaging | 0 | 9 | 62.7 |
+| paper cans packaging supplier | 0 | 5 | 63.0 |
+| composite paper cans | 0 | 2 | 82.0 |
+| paper cans | 0 | 2 | 52.0 |
+
+Interpretation: Google has started associating the official paper tubes route with paper cans and paper tube packaging supplier intent, but the page still needs stronger third-party evidence, clearer RFQ context and better authority before it can move toward page-one rankings.
 
 ## Official MUGE routes
 
