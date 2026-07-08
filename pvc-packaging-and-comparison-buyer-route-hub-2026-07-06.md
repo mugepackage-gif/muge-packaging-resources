@@ -69,6 +69,7 @@ Current on-site RFQ path:
 - The official PVC/PET product page now includes a first-screen RFQ button labelled "Request clear box quote".
 - RFQ source parameter: `pvc-packaging-hero`.
 - IndexNow submission for https://mugepackaging.com/products/pvc-packaging was accepted by IndexNow and Bing on 2026-07-08.
+- GitHub Release evidence: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.08-pvc-packaging-buyer-route-refresh
 
 ## Buyer theme 2: packaging comparison and supplier evaluation
 

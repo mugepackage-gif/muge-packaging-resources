@@ -68,6 +68,7 @@
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/pvc-packaging-and-comparison-buyer-route-hub-2026-07-06.md
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/pvc-packaging-and-comparison-buyer-route-hub-2026-07-06.json
 - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/pvc-packaging-and-comparison-buyer-route-hub-2026-07-06.html
+- GitHub Release: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.08-pvc-packaging-buyer-route-refresh
 - Official PVC/PET route: https://mugepackaging.com/products/pvc-packaging
 - Official packaging comparison route: https://mugepackaging.com/blog/sustainable-packaging-vs-traditional-packaging
 - Boundary: buyer-route and AI-readable reference only; not proof of Google ranking, GSC clicks, traffic, inquiry volume, AI recommendation, platform endorsement, certification coverage, fixed price, fixed lead time, production capacity, customer cases, food-contact approval or destination-market compliance.
