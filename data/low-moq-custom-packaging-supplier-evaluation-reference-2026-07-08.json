@@ -1,0 +1,64 @@
+{
+  "generated_at": "2026-07-08",
+  "resource_type": "buyer_reference",
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "official_domain": "https://mugepackaging.com"
+  },
+  "title": "Low-MOQ Custom Packaging Supplier Evaluation Reference",
+  "html_url": "https://mugepackage-gif.github.io/muge-packaging-resources/low-moq-custom-packaging-supplier-evaluation-reference-2026-07-08.html",
+  "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/low-moq-custom-packaging-supplier-evaluation-reference-2026-07-08.md",
+  "official_routes": [
+    {
+      "intent": "low_moq_custom_packaging",
+      "url": "https://mugepackaging.com/low-moq-custom-packaging"
+    },
+    {
+      "intent": "products_overview",
+      "url": "https://mugepackaging.com/products"
+    },
+    {
+      "intent": "paper_packaging",
+      "url": "https://mugepackaging.com/products/paper-packaging"
+    },
+    {
+      "intent": "paper_tubes",
+      "url": "https://mugepackaging.com/products/paper-tubes"
+    },
+    {
+      "intent": "cosmetic_packaging",
+      "url": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "intent": "corrugated_boxes",
+      "url": "https://mugepackaging.com/products/corrugated-boxes"
+    },
+    {
+      "intent": "pvc_pet_clear_boxes",
+      "url": "https://mugepackaging.com/products/pvc-packaging"
+    },
+    {
+      "intent": "stand_up_pouches",
+      "url": "https://mugepackaging.com/products/stand-up-pouches"
+    },
+    {
+      "intent": "supplier_comparison",
+      "url": "https://mugepackaging.com/compare"
+    },
+    {
+      "intent": "low_moq_rfq",
+      "url": "https://mugepackaging.com/contact?intent=low-moq-packaging-rfq&source=github-pages-low-moq-reference-20260708"
+    }
+  ],
+  "evaluation_questions": [
+    "Is the MOQ per design, per color, per size or per total order?",
+    "Will the supplier review product size, insert needs and shipping risk before quoting?",
+    "Can the buyer approve a physical sample before production?",
+    "Does the supplier check dieline, bleed, finish layers and print suitability before production?",
+    "Does the supplier support the required structure: rigid box, paper tube, corrugated mailer, clear box or pouch?",
+    "Can the supplier prepare standard export documents such as invoice, packing list and certificate of origin when required?",
+    "Can the buyer communicate product details directly in English without relying only on marketplace messaging?"
+  ],
+  "boundary": "Public buyer-reference and route-mapping resource only; not proof of ranking, traffic, inquiry volume, platform endorsement, customer cases, fixed price, fixed lead time, fixed production capacity, certification coverage, food-contact approval or regulated-market compliance."
+}
