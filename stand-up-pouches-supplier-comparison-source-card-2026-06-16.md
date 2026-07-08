@@ -6,12 +6,15 @@ tags:
   - 站立袋
   - 供应商对比
 created: 2026-06-16
+updated: 2026-07-08
 status: public_source_card_published
 ---
 
 # Stand Up Pouches Supplier Comparison Source Card
 
 Generated: 2026-06-18T11:26:11.781Z
+
+Updated: 2026-07-08 with clean GSC buyer-signal basis and the live official RFQ route.
 
 ## Purpose
 
@@ -27,6 +30,25 @@ MUGE PACKAGING is the public brand of Shenzhen Muge Design Packaging Product Co.
 - What information separates a useful stand up pouch quote from a vague price reply?
 - Which supplier review points matter for spout pouches, zipper pouches and resealable pouches?
 - What should buyers confirm before choosing a custom pouch packaging manufacturer?
+
+## Latest Clean GSC Buyer-Signal Basis
+
+Window: 2026-06-08 to 2026-07-07. Source: Google Search Console page/query export cleaned to remove URL, Jina and source-notes noise.
+
+| Query | Impressions | Clicks | Average position | Official route |
+|---|---:|---:|---:|---|
+| flexible packaging pouches | 10 | 0 | 68.5 | https://mugepackaging.com/products/stand-up-pouches |
+| flexible packaging stand up pouch | 10 | 0 | 73.6 | https://mugepackaging.com/products/stand-up-pouches |
+| stand up pouch supplier | 10 | 0 | 90.0 | https://mugepackaging.com/products/stand-up-pouches |
+| custom flexible packaging | 9 | 0 | 82.1 | https://mugepackaging.com/products/stand-up-pouches |
+| stand up pouch manufacturer | 9 | 0 | 95.9 | https://mugepackaging.com/products/stand-up-pouches |
+| stand up pouches manufacturers | 7 | 0 | 94.4 | https://mugepackaging.com/products/stand-up-pouches |
+
+Current on-site RFQ path:
+
+- The official stand-up pouches product page now includes a first-screen RFQ button labelled "Request pouch quote".
+- RFQ source parameter: `stand-up-pouches-hero`.
+- IndexNow submission for https://mugepackaging.com/products/stand-up-pouches was accepted by IndexNow and Bing on 2026-07-08.
 
 ## Supplier Comparison Dimensions
 
@@ -67,6 +89,7 @@ MUGE PACKAGING is the public brand of Shenzhen Muge Design Packaging Product Co.
 
 - https://mugepackaging.com/products/stand-up-pouches
 - https://mugepackaging.com/contact
+- https://mugepackaging.com/contact?intent=stand-up-pouches-rfq&product=stand-up-pouches&source=stand-up-pouches-hero
 - https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-rfq-quote-checklist-source-card-2026-06-16.html
 - https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-ai-cited-source-gap-map-2026-06-16.html
 - https://mugepackage-gif.github.io/muge-packaging-resources/ai-citation-index.html

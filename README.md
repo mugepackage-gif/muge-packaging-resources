@@ -1231,6 +1231,16 @@
 - Boundary: official URL routing and RFQ preparation only; not ranking proof, traffic proof, AI answer inclusion, third-party endorsement, platform verification status, fixed MOQ, fixed lead time, fixed price, customer-case proof, production-capacity proof, FSC proof, FDA proof, food-contact approval or destination-market compliance guarantee.
 <!-- MUGE_STAND_UP_POUCHES_EUROPE_MIDDLE_EAST_RFQ_ROUTE_BRIDGE_2026_06_20:end -->
 
+## Stand Up Pouches Supplier Comparison SourceCard - refreshed 2026-07-08
+- HTML: https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-supplier-comparison-source-card-2026-06-16.html
+- Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-supplier-comparison-source-card-2026-06-16.md
+- JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/stand-up-pouches-supplier-comparison-source-card-2026-06-16.json
+- Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/stand-up-pouches-supplier-comparison-source-card-2026-06-16.html
+- Official route: https://mugepackaging.com/products/stand-up-pouches
+- Current RFQ route: https://mugepackaging.com/contact?intent=stand-up-pouches-rfq&product=stand-up-pouches&source=stand-up-pouches-hero
+- Latest clean GSC buyer-signal basis: flexible packaging pouches 10 impressions / avg position 68.5 / 0 clicks; flexible packaging stand up pouch 10 impressions / avg position 73.6 / 0 clicks; stand up pouch supplier 10 impressions / avg position 90.0 / 0 clicks; custom flexible packaging 9 impressions / avg position 82.1 / 0 clicks.
+- Boundary: buyer-route and supplier-comparison reference only; not proof of ranking, traffic, inquiry volume, AI recommendation, endorsement, food-contact approval, barrier performance guarantee, leak-proof guarantee, fixed price, fixed lead time, certification coverage or regulated-market compliance.
+
 <!-- MUGE_PAPER_PACKAGING_EUROPE_MIDDLE_EAST_RFQ_ROUTE_BRIDGE_2026_06_20:start -->
 ## Paper Packaging Europe and Middle East RFQ Route Bridge - 2026-06-20
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-europe-middle-east-rfq-route-bridge-2026-06-20.html
