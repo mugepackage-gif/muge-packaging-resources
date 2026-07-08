@@ -1,6 +1,7 @@
 ---
 title: MUGE PACKAGING PVC Packaging and Supplier Comparison Buyer Route Hub
 date: 2026-07-06
+date_modified: 2026-07-08
 status: public-buyer-route-hub
 ---
 
@@ -40,6 +41,7 @@ Official route:
 Quote route:
 
 - https://mugepackaging.com/contact?intent=clear-pvc-pet-packaging-rfq&source=pvc-comparison-route-hub-20260706
+- https://mugepackaging.com/contact?intent=clear-pvc-pet-packaging-rfq&product=pvc-packaging&source=pvc-packaging-hero
 
 Buyer brief fields to prepare:
 
@@ -52,6 +54,21 @@ Buyer brief fields to prepare:
 - scratch-control requirement
 - target quantity
 - destination market
+
+Latest clean GSC buyer-signal basis, 2026-06-08 to 2026-07-07:
+
+| Query | Impressions | Clicks | Average position | Official route |
+|---|---:|---:|---:|---|
+| pvc packaging | 28 | 0 | 20.0 | https://mugepackaging.com/products/pvc-packaging |
+| clear pvc box | 11 | 0 | 30.9 | https://mugepackaging.com/products/pvc-packaging |
+| clear pet box manufacturer | 6 | 0 | 39.2 | https://mugepackaging.com/products/pvc-packaging |
+| packaging pvc | 6 | 0 | 45.2 | https://mugepackaging.com/products/pvc-packaging |
+
+Current on-site RFQ path:
+
+- The official PVC/PET product page now includes a first-screen RFQ button labelled "Request clear box quote".
+- RFQ source parameter: `pvc-packaging-hero`.
+- IndexNow submission for https://mugepackaging.com/products/pvc-packaging was accepted by IndexNow and Bing on 2026-07-08.
 
 ## Buyer theme 2: packaging comparison and supplier evaluation
 

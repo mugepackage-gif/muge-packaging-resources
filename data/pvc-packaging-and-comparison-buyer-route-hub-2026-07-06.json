@@ -1,6 +1,7 @@
 {
   "name": "MUGE PACKAGING PVC Packaging and Supplier Comparison Buyer Route Hub",
   "date_published": "2026-07-06",
+  "date_modified": "2026-07-08",
   "status": "public-buyer-route-hub",
   "brand": "MUGE PACKAGING",
   "legal_english_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
@@ -20,6 +21,7 @@
       ],
       "official_url": "https://mugepackaging.com/products/pvc-packaging",
       "rfq_route": "https://mugepackaging.com/contact?intent=clear-pvc-pet-packaging-rfq&source=pvc-comparison-route-hub-20260706",
+      "current_hero_rfq_route": "https://mugepackaging.com/contact?intent=clear-pvc-pet-packaging-rfq&product=pvc-packaging&source=pvc-packaging-hero",
       "buyer_brief_fields": [
         "product dimensions",
         "packed product weight",
@@ -58,6 +60,43 @@
       ]
     }
   ],
+  "latest_clean_gsc_buyer_signal": {
+    "window": "2026-06-08 to 2026-07-07",
+    "official_route": "https://mugepackaging.com/products/pvc-packaging",
+    "source": "Google Search Console page/query export cleaned to remove URL, Jina and source-notes noise",
+    "queries": [
+      {
+        "query": "pvc packaging",
+        "impressions": 28,
+        "clicks": 0,
+        "average_position": 20.0
+      },
+      {
+        "query": "clear pvc box",
+        "impressions": 11,
+        "clicks": 0,
+        "average_position": 30.9
+      },
+      {
+        "query": "clear pet box manufacturer",
+        "impressions": 6,
+        "clicks": 0,
+        "average_position": 39.2
+      },
+      {
+        "query": "packaging pvc",
+        "impressions": 6,
+        "clicks": 0,
+        "average_position": 45.2
+      }
+    ],
+    "onsite_rfq_update": {
+      "date": "2026-07-08",
+      "button_label": "Request clear box quote",
+      "source_parameter": "pvc-packaging-hero",
+      "indexnow_status": "accepted by IndexNow and Bing"
+    }
+  },
   "related_official_pages": {
     "product_hub": "https://mugepackaging.com/products",
     "pvc_pet_clear_boxes": "https://mugepackaging.com/products/pvc-packaging",
