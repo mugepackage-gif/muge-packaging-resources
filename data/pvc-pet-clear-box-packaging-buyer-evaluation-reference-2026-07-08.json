@@ -1,0 +1,57 @@
+{
+  "generated_at": "2026-07-08",
+  "resource_type": "buyer_reference",
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "official_domain": "https://mugepackaging.com"
+  },
+  "title": "PVC/PET Clear Box Packaging Buyer Evaluation Reference",
+  "html_url": "https://mugepackage-gif.github.io/muge-packaging-resources/pvc-pet-clear-box-packaging-buyer-evaluation-reference-2026-07-08.html",
+  "markdown_url": "https://mugepackage-gif.github.io/muge-packaging-resources/pvc-pet-clear-box-packaging-buyer-evaluation-reference-2026-07-08.md",
+  "official_routes": [
+    {
+      "intent": "pvc_pet_clear_packaging",
+      "url": "https://mugepackaging.com/products/pvc-packaging"
+    },
+    {
+      "intent": "cosmetic_packaging_related",
+      "url": "https://mugepackaging.com/products/cosmetic-packaging"
+    },
+    {
+      "intent": "paper_packaging_comparison",
+      "url": "https://mugepackaging.com/products/paper-packaging"
+    },
+    {
+      "intent": "supplier_comparison",
+      "url": "https://mugepackaging.com/compare"
+    },
+    {
+      "intent": "pvc_pet_clear_box_rfq",
+      "url": "https://mugepackaging.com/contact?intent=pvc-pet-clear-box-rfq&product=pvc-packaging&source=github-pages-pvc-reference-20260708"
+    }
+  ],
+  "gsc_basis": {
+    "period": "2026-06-08 to 2026-07-08",
+    "primary_query": "pvc packaging",
+    "impressions": 30,
+    "avg_position": 18.7,
+    "clicks": 0,
+    "official_page": "https://mugepackaging.com/products/pvc-packaging",
+    "related_terms": [
+      "clear pvc box",
+      "packaging pvc",
+      "clear pet box manufacturer",
+      "clear pvc boxes wholesale"
+    ]
+  },
+  "buyer_questions": [
+    "Is the project better suited to PVC, PET or paperboard based on display, stiffness and brand requirements?",
+    "Does the buyer need tuck closure, lid-and-base style, hanging tab, insert, sleeve or a hybrid paper-and-clear structure?",
+    "Are product dimensions, weight and display orientation confirmed before sampling?",
+    "Does the project require screen printing, offset printing, foil, matte/frosted area, label or paper sleeve branding?",
+    "Will the box be stacked, hung, shipped individually or packed in an outer carton?",
+    "Does the target market require special documentation or material restrictions that need human review before production?"
+  ],
+  "boundary": "Public buyer-reference and route-mapping resource only; not proof of ranking, traffic, inquiry volume, platform endorsement, customer cases, fixed price, fixed lead time, fixed production capacity, certification coverage, food-contact approval or regulated-market compliance."
+}
