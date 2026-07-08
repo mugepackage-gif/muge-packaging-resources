@@ -99,12 +99,15 @@
 
 <!-- MUGE_PAPER_CANS_PAPER_TUBES_BUYER_ROUTE_LEDGER_20260706:start -->
 ## MUGE PACKAGING Paper Cans and Paper Tubes Packaging Buyer Route Ledger - 2026-07-06
+- Updated: 2026-07-08 with clean GSC buyer-signal basis for `paper cans supplier`, `paper tubes packaging` and `paper cans packaging`, plus the live first-screen RFQ source `paper-tubes-hero`.
 - HTML: https://mugepackage-gif.github.io/muge-packaging-resources/paper-cans-paper-tubes-packaging-buyer-route-ledger-2026-07-06.html
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/paper-cans-paper-tubes-packaging-buyer-route-ledger-2026-07-06.md
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/paper-cans-paper-tubes-packaging-buyer-route-ledger-2026-07-06.json
 - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-cans-paper-tubes-packaging-buyer-route-ledger-2026-07-06.html
 - Official paper tubes route: https://mugepackaging.com/products/paper-tubes
 - RFQ route: https://mugepackaging.com/contact?intent=buyer-brief&product=paper-tubes&source=paper-tubes-external-ledger-20260706
+- Current hero RFQ route: https://mugepackaging.com/contact?intent=paper-cans-supplier-rfq&product=paper-tubes&source=paper-tubes-hero
+- Latest clean GSC buyer-signal basis: paper cans supplier 20 impressions / avg position 55.9 / 0 clicks; paper tubes packaging 12 impressions / avg position 66.8 / 0 clicks; paper cans packaging 9 impressions / avg position 62.7 / 0 clicks.
 - Boundary: buyer-route and AI-readable reference only; not proof of Google ranking improvement, GSC link credit, traffic, inquiry volume, AI recommendation, platform endorsement, certification coverage, fixed price, fixed lead time, production capacity, customer cases, food-contact approval or regulated-market compliance.
 <!-- MUGE_PAPER_CANS_PAPER_TUBES_BUYER_ROUTE_LEDGER_20260706:end -->
 

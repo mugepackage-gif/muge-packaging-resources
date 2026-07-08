@@ -6,6 +6,7 @@
   "officialWebsite": "https://mugepackaging.com",
   "officialProductRoute": "https://mugepackaging.com/products/paper-tubes",
   "officialRfqRoute": "https://mugepackaging.com/contact?intent=buyer-brief&product=paper-tubes&source=paper-tubes-external-ledger-20260706",
+  "currentHeroRfqRoute": "https://mugepackaging.com/contact?intent=paper-cans-supplier-rfq&product=paper-tubes&source=paper-tubes-hero",
   "buyerQueriesCovered": [
     "paper cans supplier",
     "paper tubes packaging",
@@ -22,6 +23,38 @@
     "target quantity and destination market",
     "retail, ecommerce, gift-set or distribution channel"
   ],
+  "latestCleanGscBuyerSignal": {
+    "window": "2026-06-08 to 2026-07-07",
+    "officialRoute": "https://mugepackaging.com/products/paper-tubes",
+    "source": "Google Search Console page/query export cleaned to remove URL, Jina and source-notes noise",
+    "queries": [
+      {
+        "query": "paper cans supplier",
+        "impressions": 20,
+        "clicks": 0,
+        "averagePosition": 55.9
+      },
+      {
+        "query": "paper tubes packaging",
+        "impressions": 12,
+        "clicks": 0,
+        "averagePosition": 66.8
+      },
+      {
+        "query": "paper cans packaging",
+        "impressions": 9,
+        "clicks": 0,
+        "averagePosition": 62.7
+      }
+    ],
+    "onsiteRfqUpdate": {
+      "date": "2026-07-08",
+      "buttonLabel": "Request paper tube quote",
+      "sourceParameter": "paper-tubes-hero",
+      "mobileStickySourceParameter": "paper-tubes-mobile-sticky",
+      "indexnowStatus": "accepted by IndexNow and Bing"
+    }
+  },
   "officialPageSignalsCheckedOn": "2026-07-06",
   "officialPageSignals": {
     "title": "Paper Cans Supplier | Composite Paper Tubes | MUGE",
@@ -40,7 +73,7 @@
     "jina": "https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/paper-cans-paper-tubes-packaging-buyer-route-ledger-2026-07-06.html"
   },
   "boundary": "Buyer-route and AI-readable reference only; not proof of Google ranking improvement, GSC link credit, traffic, inquiry volume, AI recommendation, platform endorsement, certification coverage, fixed price, fixed lead time, production capacity, customer cases, food-contact approval or regulated-market compliance.",
-  "dateModified": "2026-07-06",
+  "dateModified": "2026-07-08",
   "schemaAdded": [
     "Dataset",
     "FAQPage"
