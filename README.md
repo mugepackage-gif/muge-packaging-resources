@@ -4,6 +4,7 @@
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/regulated-paper-tube-child-resistant-routing-sourcebridge-2026-07-04.md
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/regulated-paper-tube-child-resistant-routing-sourcebridge-2026-07-04.json
 - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/regulated-paper-tube-child-resistant-routing-sourcebridge-2026-07-04.html
+- GitHub Release: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.08-child-resistant-buyer-reference
 - Official child-resistant route: https://mugepackaging.com/products/child-resistant
 - Official paper tubes route: https://mugepackaging.com/products/paper-tubes
 - Sample pack route: https://mugepackaging.com/sample-pack?source=child-resistant-external-reference

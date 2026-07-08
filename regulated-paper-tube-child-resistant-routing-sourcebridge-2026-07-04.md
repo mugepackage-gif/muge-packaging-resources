@@ -71,3 +71,4 @@ They should not state child-resistant certification, PPPA compliance, ISO 8317 c
 - Markdown: https://mugepackage-gif.github.io/muge-packaging-resources/regulated-paper-tube-child-resistant-routing-sourcebridge-2026-07-04.md
 - JSON: https://mugepackage-gif.github.io/muge-packaging-resources/data/regulated-paper-tube-child-resistant-routing-sourcebridge-2026-07-04.json
 - Jina Reader: https://r.jina.ai/http://mugepackage-gif.github.io/muge-packaging-resources/regulated-paper-tube-child-resistant-routing-sourcebridge-2026-07-04.html
+- GitHub Release: https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.08-child-resistant-buyer-reference
