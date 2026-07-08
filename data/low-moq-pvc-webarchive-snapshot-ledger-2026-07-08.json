@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-07-08",
+  "resource_type": "webarchive_snapshot_ledger",
+  "company": {
+    "brand": "MUGE PACKAGING",
+    "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+    "official_domain": "https://mugepackaging.com"
+  },
+  "successful_current_snapshots": [
+    {
+      "source_url": "https://mugepackage-gif.github.io/muge-packaging-resources/low-moq-custom-packaging-supplier-evaluation-reference-2026-07-08.html",
+      "snapshot_url": "https://web.archive.org/web/20260708123339/https://mugepackage-gif.github.io/muge-packaging-resources/low-moq-custom-packaging-supplier-evaluation-reference-2026-07-08.html",
+      "status": "HTTP 200 verified",
+      "verified_content": "Low-MOQ Custom Packaging Supplier Evaluation Reference; official low-MOQ route link."
+    },
+    {
+      "source_url": "https://mugepackage-gif.github.io/muge-packaging-resources/pvc-pet-clear-box-packaging-buyer-evaluation-reference-2026-07-08.html",
+      "snapshot_url": "https://web.archive.org/web/20260708123403/https://mugepackage-gif.github.io/muge-packaging-resources/pvc-pet-clear-box-packaging-buyer-evaluation-reference-2026-07-08.html",
+      "status": "HTTP 200 verified",
+      "verified_content": "PVC/PET Clear Box Packaging Buyer Evaluation Reference; official PVC packaging route link."
+    },
+    {
+      "source_url": "https://mugepackaging.com/low-moq-custom-packaging",
+      "snapshot_url": "https://web.archive.org/web/20260708123527/https://mugepackaging.com/low-moq-custom-packaging",
+      "status": "HTTP 200 verified",
+      "verified_content": "Low-MOQ Custom Packaging title and current low-MOQ page content."
+    }
+  ],
+  "checked_not_counted": [
+    {
+      "source_url": "https://mugepackaging.com/products/pvc-packaging",
+      "reason": "Save attempt timed out during this run.",
+      "older_snapshot_url": "https://web.archive.org/web/20260520103904/https://mugepackaging.com/products/pvc-packaging",
+      "counted_as_current_snapshot": false
+    }
+  ],
+  "boundary": "Third-party timestamp evidence for page availability and cited routes only; not proof of Google ranking, traffic, inquiry volume, endorsement, customer cases, fixed price, fixed lead time, production capacity, certification coverage or regulated-market compliance."
+}
