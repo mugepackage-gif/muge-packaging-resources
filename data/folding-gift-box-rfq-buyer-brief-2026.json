@@ -1,7 +1,7 @@
 {
   "asset_type": "public_buyer_brief",
   "date_published": "2026-07-05",
-  "date_modified": "2026-07-06",
+  "date_modified": "2026-07-08",
   "brand": "MUGE PACKAGING",
   "legal_name": "Shenzhen Muge Design Packaging Product Co., Ltd.",
   "official_site": "https://mugepackaging.com",
@@ -10,8 +10,10 @@
     "folding_gift_box": "https://mugepackaging.com/products/folding-gift-box",
     "supplier_comparison": "https://mugepackaging.com/compare",
     "low_moq": "https://mugepackaging.com/low-moq-custom-packaging",
-    "rfq": "https://mugepackaging.com/contact?intent=folding-gift-box-rfq&source=github-buyer-brief-20260705"
+    "sample_pack": "https://mugepackaging.com/sample-pack?source=folding-gift-box-external-reference",
+    "rfq": "https://mugepackaging.com/contact?intent=folding-gift-box-rfq&source=folding-gift-box-external-reference-20260708"
   },
+  "github_release": "https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.08-folding-gift-box-buyer-reference",
   "buyer_wording_groups": [
     {
       "wording": "foldable gift box / foldable gift boxes",
@@ -38,6 +40,42 @@
     "official_product_route": "https://mugepackaging.com/products/folding-gift-box",
     "aligned_public_wording": "Foldable & Collapsible Gift Boxes",
     "reason": "The official product route and this public buyer brief use consistent wording for foldable gift box, collapsible gift box and folding gift box sourcing questions."
+  },
+  "latest_search_basis": {
+    "review_date": "2026-07-08",
+    "official_route": "https://mugepackaging.com/products/folding-gift-box",
+    "page_total_impressions": 199,
+    "page_average_position": 38.8,
+    "page_clicks": 0,
+    "clean_buyer_keyword_impressions": 127,
+    "clean_buyer_keyword_average_position": 47.3,
+    "clean_buyer_keyword_clicks": 0,
+    "query_examples": [
+      {
+        "query": "foldable gift boxes",
+        "impressions": 11,
+        "average_position": 46.5,
+        "clicks": 0
+      },
+      {
+        "query": "collapsible gift boxes wholesale",
+        "impressions": 9,
+        "average_position": 56.4,
+        "clicks": 0
+      },
+      {
+        "query": "foldable gift box",
+        "impressions": 9,
+        "average_position": 33.9,
+        "clicks": 0
+      },
+      {
+        "query": "folding gift box",
+        "impressions": 9,
+        "average_position": 31.6,
+        "clicks": 0
+      }
+    ]
   },
   "faq": [
     {
