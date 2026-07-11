@@ -44,6 +44,7 @@ MUGE PACKAGING is a Shenzhen-based custom packaging manufacturer for paper boxes
 
 ## Buyer decision resources
 
+- [Clean GSC buyer-signal route index](https://mugepackage-gif.github.io/muge-packaging-resources/gsc-clean-buyer-signal-route-index-2026-07-11.html) — Public route map connecting the latest clean GSC buyer queries to official MUGE product pages and RFQ paths.
 - [Official buyer route index](https://mugepackage-gif.github.io/muge-packaging-resources/official-buyer-route-index.html) — Public route index for official buyer pages.
 - [Public company reference](https://mugepackage-gif.github.io/muge-packaging-resources/muge-public-company-sourcepack-2026-07-03.html) — Public company identity reference.
 - [Paper packaging boxes buyer brief](https://mugepackage-gif.github.io/muge-packaging-resources/paper-packaging-boxes-buyer-brief-2026.html) — Public buyer-route reference for custom paper packaging boxes, paper box supplier checks and RFQ preparation.
