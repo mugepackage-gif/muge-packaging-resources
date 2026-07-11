@@ -44,6 +44,8 @@ MUGE PACKAGING is a Shenzhen-based custom packaging manufacturer for paper boxes
 
 ## Buyer decision resources
 
+- [Verified public mentions quality ledger](https://mugepackage-gif.github.io/muge-packaging-resources/verified-public-mentions-quality-ledger-2026-07-11.html) — Public quality-control ledger separating usable MUGE public profile signals from legacy or consistency-risk mentions.
+- [Verified public mentions quality ledger JSON](https://mugepackage-gif.github.io/muge-packaging-resources/data/verified-public-mentions-quality-ledger-2026-07-11.json) — Structured data for public mention quality review and AI citation hygiene.
 - [Clean GSC buyer-signal route index](https://mugepackage-gif.github.io/muge-packaging-resources/gsc-clean-buyer-signal-route-index-2026-07-11.html) — Public route map connecting the latest clean GSC buyer queries to official MUGE product pages and RFQ paths.
 - [Clean GSC buyer-signal route index release](https://github.com/mugepackage-gif/muge-packaging-resources/releases/tag/v2026.07.11-gsc-clean-buyer-route-index) — Fixed GitHub release package for the GSC buyer-route index.
 - [Official buyer route index](https://mugepackage-gif.github.io/muge-packaging-resources/official-buyer-route-index.html) — Public route index for official buyer pages.
